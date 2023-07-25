@@ -1,0 +1,163 @@
+{
+    "alt-version(s)": [],
+    "name": "Cobalion",
+    "Cobalion": {
+        "pokedex_data": {
+            "National No.": "0638",
+            "Type": [
+                "Steel",
+                "Fighting"
+            ],
+            "Species": "Iron Will Poke\u0301mon",
+            "Height": "2.1 m (6\u203211\u2032\u2032)",
+            "Weight": "250.0 kg (551.2 lbs)",
+            "Abilities": {
+                "Justified": {
+                    "href": "/ability/justified",
+                    "effect": "Raises Attack when hit by a Dark-type move.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Defense",
+            "Catch rate": "3",
+            "BaseFriendship": "35",
+            "Base Exp.": "261",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "91",
+                "Min": "292",
+                "Max": "386"
+            },
+            "Attack": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Defense": {
+                "Base": "129",
+                "Min": "236",
+                "Max": "392"
+            },
+            "Sp. Atk": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Sp. Def": {
+                "Base": "72",
+                "Min": "134",
+                "Max": "267"
+            },
+            "Speed": {
+                "Base": "108",
+                "Min": "198",
+                "Max": "346"
+            },
+            "Total": "580"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Fire": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Poison": "no effect",
+                "Ground": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Dragon": "not very effective",
+                "Dark": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Helping Hand": "1",
+            "Leer": "1",
+            "Quick Attack": "1",
+            "Work Up": "1",
+            "Metal Claw": "7",
+            "Quick Guard": "14",
+            "Double Kick": "21",
+            "Retaliate": "28",
+            "Metal Burst": "35",
+            "Take Down": "42",
+            "Sacred Sword": "49",
+            "Swords Dance": "56",
+            "Iron Head": "63",
+            "Close Combat": "70"
+        },
+        "egg": {
+            "Coaching": null
+        },
+        "null": {
+            "Swords Dance": "00",
+            "Substitute": "20",
+            "Reversal": "21",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Megahorn": "28",
+            "Taunt": "37",
+            "Superpower": "39",
+            "Iron Defense": "46",
+            "Calm Mind": "49",
+            "Close Combat": "53",
+            "Poison Jab": "57",
+            "X-Scissor": "60",
+            "Focus Blast": "64",
+            "Zen Headbutt": "69",
+            "Flash Cannon": "70",
+            "Iron Head": "74",
+            "Stone Edge": "75",
+            "Stealth Rock": "76",
+            "Work Up": "85"
+        },
+        "tm": {
+            "Hyper Beam": "08",
+            "Giga Impact": "09",
+            "Thunder Wave": "14",
+            "Reflect": "18",
+            "Safeguard": "19",
+            "Rest": "21",
+            "Snore": "24",
+            "Protect": "25",
+            "Scary Face": "26",
+            "Sandstorm": "32",
+            "Facade": "39",
+            "Swift": "40",
+            "Helping Hand": "41",
+            "Revenge": "42",
+            "Brick Break": "43",
+            "Bounce": "52",
+            "Round": "76",
+            "Retaliate": "79",
+            "Volt Switch": "80",
+            "False Swipe": "94",
+            "Air Slash": "95",
+            "Smart Strike": "96"
+        }
+    },
+    "entries": {
+        "Cobalion": [
+            "This legendary Pok\u00e9mon battled against humans to protect Pok\u00e9mon. Its personality is calm and composed.",
+            "It has a body and heart of steel. Its glare is sufficient to make even an unruly Pok\u00e9mon obey it.",
+            "It has a body and heart of steel. It worked with its allies to punish people when they hurt Pok\u00e9mon.",
+            "It has a body and heart of steel. Its glare is sufficient to make even an unruly Pok\u00e9mon obey it.",
+            "It has a body and heart of steel. It worked with its allies to punish people when they hurt Pok\u00e9mon.",
+            "This Pok\u00e9mon appears in a legend alongside Terrakion and Virizion, fighting against humans in defense of the Unova region\u2019s Pok\u00e9mon.",
+            "From the moment it\u2019s born, this Pok\u00e9mon radiates the air of a leader. Its presence will calm even vicious foes."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791578357305394/638.png",
+    "discord_sprite": "<:P638:1132140815783821352>"
+}

@@ -1,0 +1,148 @@
+{
+    "alt-version(s)": [],
+    "name": "Veluza",
+    "Veluza": {
+        "pokedex_data": {
+            "National No.": "0976",
+            "Type": [
+                "Water",
+                "Psychic"
+            ],
+            "Species": "Jettison Poke\u0301mon",
+            "Height": "2.5 m (8\u203202\u2032\u2032)",
+            "Weight": "90.0 kg (198.4 lbs)",
+            "Abilities": {
+                "Mold Breaker": {
+                    "href": "/ability/mold-breaker",
+                    "effect": "Moves can be used regardless of Abilities.",
+                    "hidden": false
+                },
+                "Sharpness": {
+                    "href": "/ability/sharpness",
+                    "effect": "Powers up slicing moves.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "100",
+            "BaseFriendship": "50",
+            "Base Exp.": "167",
+            "Growth Rate": "Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "90",
+                "Min": "290",
+                "Max": "384"
+            },
+            "Attack": {
+                "Base": "102",
+                "Min": "188",
+                "Max": "333"
+            },
+            "Defense": {
+                "Base": "73",
+                "Min": "135",
+                "Max": "269"
+            },
+            "Sp. Atk": {
+                "Base": "78",
+                "Min": "144",
+                "Max": "280"
+            },
+            "Sp. Def": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Speed": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Total": "478"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Aqua Jet": "1",
+            "Tackle": "1",
+            "Pluck": "7",
+            "Water Pulse": "11",
+            "Focus Energy": "15",
+            "Slash": "20",
+            "Aqua Cutter": "25",
+            "Fillet Away": "30",
+            "Night Slash": "35",
+            "Psycho Cut": "40",
+            "Liquidation": "45",
+            "Crunch": "50",
+            "Final Gambit": "55"
+        },
+        "egg": {
+            "Recover": null,
+            "Thrash": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Agility": "04",
+            "Protect": "07",
+            "Ice Fang": "10",
+            "Water Pulse": "11",
+            "Chilling Water": "22",
+            "Icy Wind": "34",
+            "Stored Power": "41",
+            "Endure": "47",
+            "Rain Dance": "50",
+            "Snowscape": "52",
+            "Zen Headbutt": "59",
+            "Psychic Fangs": "63",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Waterfall": "77",
+            "Rest": "85",
+            "Substitute": "103",
+            "Drill Run": "106",
+            "Crunch": "108",
+            "Liquidation": "110",
+            "Psychic": "120",
+            "Surf": "123",
+            "Ice Beam": "135",
+            "Psychic Terrain": "138",
+            "Hydro Pump": "142",
+            "Blizzard": "143",
+            "Giga Impact": "152",
+            "Hyper Beam": "163",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Veluza": [
+            "When Veluza discards unnecessary flesh, its mind becomes honed and its psychic power increases. The spare flesh has a mild but delicious flavor.",
+            "Veluza has excellent regenerative capabilities. It sheds spare flesh from its body to boost its agility, then charges at its prey."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131794212313108541/976.png",
+    "discord_sprite": "<:P976:1132155737502662696>"
+}

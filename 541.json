@@ -1,0 +1,208 @@
+{
+    "alt-version(s)": [],
+    "name": "Swadloon",
+    "Swadloon": {
+        "pokedex_data": {
+            "National No.": "0541",
+            "Type": [
+                "Bug",
+                "Grass"
+            ],
+            "Species": "Leaf-Wrapped Poke\u0301mon",
+            "Height": "0.5 m (1\u203208\u2032\u2032)",
+            "Weight": "7.3 kg (16.1 lbs)",
+            "Abilities": {
+                "Leaf Guard": {
+                    "href": "/ability/leaf-guard",
+                    "effect": "Prevents problems with status in sunny weather.",
+                    "hidden": false
+                },
+                "Chlorophyll": {
+                    "href": "/ability/chlorophyll",
+                    "effect": "Boosts the Pok\u00e9mon's Speed in sunshine.",
+                    "hidden": false
+                },
+                "Overcoat": {
+                    "href": "/ability/overcoat",
+                    "effect": "Protects the Pok\u00e9mon from weather damage.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Defense",
+            "Catch rate": "120",
+            "BaseFriendship": "50",
+            "Base Exp.": "133",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "55",
+                "Min": "220",
+                "Max": "314"
+            },
+            "Attack": {
+                "Base": "63",
+                "Min": "117",
+                "Max": "247"
+            },
+            "Defense": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Sp. Atk": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Def": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Speed": {
+                "Base": "42",
+                "Min": "80",
+                "Max": "201"
+            },
+            "Total": "380"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Poison": "super-effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Bug": "super-effective",
+                "Rock": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Sewaddle",
+                    "nationalNo": "#0540",
+                    "type": [
+                        "Bug",
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Swadloon",
+                    "nationalNo": "#0541",
+                    "type": [
+                        "Bug",
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 20)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Swadloon",
+                    "nationalNo": "#0541",
+                    "type": [
+                        "Bug",
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Leavanny",
+                    "nationalNo": "#0542",
+                    "type": [
+                        "Bug",
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(high Friendship)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Bug Bite": "1",
+            "Grass Whistle": "1",
+            "Protect": "1",
+            "Razor Leaf": "1",
+            "String Shot": "1",
+            "Tackle": "1"
+        },
+        "evolution": {
+            "Protect": "\u2014"
+        },
+        "egg": {
+            "Agility": null,
+            "Air Slash": null,
+            "Baton Pass": null,
+            "Camouflage": null,
+            "Grassy Terrain": null,
+            "Me First": null,
+            "Mind Reader": null,
+            "Razor Wind": null,
+            "Screech": null,
+            "Silver Wind": null
+        },
+        "null": {
+            "Bug Buzz": "90",
+            "Endure": "\u2014",
+            "Flail": "\u2014",
+            "Sticky Web": "\u2014",
+            "Struggle Bug": "50"
+        },
+        "tm": {
+            "Calm Mind": "04",
+            "Toxic": "06",
+            "Hidden Power": "10",
+            "Sunny Day": "11",
+            "Light Screen": "16",
+            "Protect": "17",
+            "Safeguard": "20",
+            "Frustration": "21",
+            "Solar Beam": "22",
+            "Return": "27",
+            "Double Team": "32",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Round": "48",
+            "Energy Ball": "53",
+            "Payback": "66",
+            "Dream Eater": "85",
+            "Grass Knot": "86",
+            "Swagger": "87",
+            "Sleep Talk": "88",
+            "Substitute": "90",
+            "Nature Power": "96",
+            "Confide": "100"
+        }
+    },
+    "entries": {
+        "Swadloon": [
+            "Forests where Swadloon live have superb foliage because the nutrients they make from fallen leaves nourish the plant life.",
+            "It protects itself from the cold by wrapping up in leaves. It stays on the move, eating leaves in forests.",
+            "Preferring dark, damp places, it spends the entire day eating fallen leaves that lie around it.",
+            "Forests where Swadloon live have superb foliage because the nutrients they make from fallen leaves nourish the plant life.",
+            "It protects itself from the cold by wrapping up in leaves. It stays on the move, eating leaves in forests."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790818257150022/541.png",
+    "discord_sprite": "<:P541:1132136541435736124>"
+}

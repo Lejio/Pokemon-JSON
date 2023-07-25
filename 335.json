@@ -1,0 +1,190 @@
+{
+    "alt-version(s)": [],
+    "name": "Zangoose",
+    "Zangoose": {
+        "pokedex_data": {
+            "National No.": "0335",
+            "Type": [
+                "Normal"
+            ],
+            "Species": "Cat Ferret Poke\u0301mon",
+            "Height": "1.3 m (4\u203203\u2032\u2032)",
+            "Weight": "40.3 kg (88.8 lbs)",
+            "Abilities": {
+                "Immunity": {
+                    "href": "/ability/immunity",
+                    "effect": "Prevents the Pok\u00e9mon from getting poisoned.",
+                    "hidden": false
+                },
+                "Toxic Boost": {
+                    "href": "/ability/toxic-boost",
+                    "effect": "Powers up physical attacks when poisoned.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "90",
+            "BaseFriendship": "50",
+            "Base Exp.": "160",
+            "Growth Rate": "Erratic"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "73",
+                "Min": "256",
+                "Max": "350"
+            },
+            "Attack": {
+                "Base": "115",
+                "Min": "211",
+                "Max": "361"
+            },
+            "Defense": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Atk": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Def": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Speed": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Total": "458"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Leer": "1",
+            "Scratch": "1",
+            "Quick Attack": "5",
+            "Fury Cutter": "8",
+            "Metal Claw": "12",
+            "Hone Claws": "15",
+            "Slash": "19",
+            "Power Trip": "22",
+            "Crush Claw": "26",
+            "False Swipe": "29",
+            "Switcheroo": "33",
+            "Detect": "36",
+            "X-Scissor": "40",
+            "Taunt": "43",
+            "Swords Dance": "47",
+            "Close Combat": "50"
+        },
+        "reminder": {
+            "Belly Drum": "\u2014",
+            "Counter": "\u2014",
+            "Curse": "\u2014",
+            "Disable": "\u2014",
+            "Double Hit": "35",
+            "Double Kick": "30",
+            "Feint": "30",
+            "Final Gambit": "\u2014",
+            "Flail": "\u2014",
+            "Fury Swipes": "18",
+            "Night Slash": "70",
+            "Quick Guard": "\u2014"
+        },
+        "egg": null,
+        "tm": {
+            "Take Down": "01",
+            "Agility": "04",
+            "Protect": "07",
+            "Low Kick": "12",
+            "Thief": "18",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Metal Claw": "31",
+            "Swift": "32",
+            "Icy Wind": "34",
+            "Rock Tomb": "36",
+            "Low Sweep": "39",
+            "Fling": "43",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Dig": "55",
+            "False Swipe": "57",
+            "Brick Break": "58",
+            "Zen Headbutt": "59",
+            "Shadow Claw": "61",
+            "Body Slam": "66",
+            "Fire Punch": "67",
+            "Thunder Punch": "68",
+            "Ice Punch": "69",
+            "Sleep Talk": "70",
+            "Seed Bomb": "71",
+            "Grass Knot": "81",
+            "Thunder Wave": "82",
+            "Poison Jab": "83",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Taunt": "87",
+            "Swords Dance": "88",
+            "Gunk Shot": "102",
+            "Substitute": "103",
+            "X-Scissor": "105",
+            "Aura Sphere": "112",
+            "Shadow Ball": "114",
+            "Surf": "123",
+            "Flamethrower": "125",
+            "Thunderbolt": "126",
+            "Helping Hand": "130",
+            "Baton Pass": "132",
+            "Reversal": "134",
+            "Ice Beam": "135",
+            "Fire Blast": "141",
+            "Blizzard": "143",
+            "Giga Impact": "152",
+            "Focus Blast": "158",
+            "Hyper Beam": "163",
+            "Thunder": "166",
+            "Close Combat": "167",
+            "Solar Beam": "168",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Zangoose": [
+            "Memories of battling its arch-rival SEVIPER are etched into every cell of ZANGOOSE\u2019s body. This pok\u00e9mon adroitly dodges attacks with incredible agility.",
+            "ZANGOOSE usually stays on all fours, but when angered, it gets up on its hind legs and extends its claws. This pok\u00e9mon shares a bitter rivalry with SEVIPER that dates back over generations.",
+            "If it comes across a SEVIPER, its fur bristles and it assumes its battle pose. Its sharp claws are its best weapon.",
+            "When it battles, it stands on its hind legs and attacks with its sharply clawed forelegs. Its fur bristles if it encounters any SEVIPER.",
+            "It has feuded with SEVIPER for many generations. Its sharp claws are its biggest weapons.",
+            "Its fur would all stand on end if it smelled a SEVIPER nearby. Its sharp claws tear up its foes.",
+            "It has feuded with Seviper for many generations. Its sharp claws are its biggest weapons.",
+            "It\u2019s Seviper\u2019s archrival. To threaten those it encounters, it fans out the claws on its front paws.",
+            "It has feuded with Seviper for many generations. Its sharp claws are its biggest weapons.",
+            "Its fur would all stand on end if it smelled a Seviper nearby. Its sharp claws tear up its foes.",
+            "Memories of battling its archrival Seviper are etched into every cell of Zangoose\u2019s body. This Pok\u00e9mon adroitly dodges attacks with incredible agility.",
+            "Zangoose usually stays on all fours, but when angered, it gets up on its hind legs and extends its claws. This Pok\u00e9mon shares a bitter rivalry with Seviper that dates back over generations.",
+            "It has feuded with Seviper for many generations. Its sharp claws are its greatest weapons.",
+            "It\u2019s Seviper\u2019s archrival. To threaten those it encounters, it fans out the claws on its front paws.",
+            "If it comes across a Seviper, its fur bristles and it assumes its battle pose. Its sharp claws are its best weapon."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789218394423337/335.png",
+    "discord_sprite": "<:P335:1132127480057180250>"
+}

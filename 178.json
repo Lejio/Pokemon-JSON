@@ -1,0 +1,210 @@
+{
+    "alt-version(s)": [],
+    "name": "Xatu",
+    "Xatu": {
+        "pokedex_data": {
+            "National No.": "0178",
+            "Type": [
+                "Psychic",
+                "Flying"
+            ],
+            "Species": "Mystic Poke\u0301mon",
+            "Height": "1.5 m (4\u203211\u2032\u2032)",
+            "Weight": "15.0 kg (33.1 lbs)",
+            "Abilities": {
+                "Synchronize": {
+                    "href": "/ability/synchronize",
+                    "effect": "Passes a burn, poison, or paralysis to the foe.",
+                    "hidden": false
+                },
+                "Early Bird": {
+                    "href": "/ability/early-bird",
+                    "effect": "The Pok\u00e9mon awakens quickly from sleep.",
+                    "hidden": false
+                },
+                "Magic Bounce": {
+                    "href": "/ability/magic-bounce",
+                    "effect": "Reflects status- changing moves.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Sp. Atk, 1 Speed",
+            "Catch rate": "75",
+            "BaseFriendship": "50",
+            "Base Exp.": "165",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "65",
+                "Min": "240",
+                "Max": "334"
+            },
+            "Attack": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Defense": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Atk": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Sp. Def": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Speed": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Total": "470"
+        },
+        "defense_stats": {
+            "default": {
+                "Electric": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Ground": "no effect",
+                "Psychic": "not very effective",
+                "Rock": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Natu",
+                    "nationalNo": "#0177",
+                    "type": [
+                        "Psychic",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Xatu",
+                    "nationalNo": "#0178",
+                    "type": [
+                        "Psychic",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 25)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Air Slash": "1",
+            "Leer": "1",
+            "Peck": "1",
+            "Stored Power": "1",
+            "Tailwind": "1",
+            "Teleport": "1",
+            "Confuse Ray": "15",
+            "Night Shade": "20",
+            "Psycho Shift": "28",
+            "Guard Swap": "34",
+            "Power Swap": "34",
+            "Psychic": "41",
+            "Wish": "48",
+            "Future Sight": "55"
+        },
+        "evolution": {
+            "Air Slash": "75"
+        },
+        "egg": {
+            "Ally Switch": null,
+            "Drill Peck": null,
+            "Feather Dance": null,
+            "Haze": null,
+            "Quick Attack": null,
+            "Simple Beam": null,
+            "Sucker Punch": null,
+            "Zen Headbutt": null
+        },
+        "tm": {
+            "Calm Mind": "04",
+            "Sunny Day": "11",
+            "Hyper Beam": "15",
+            "Light Screen": "16",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Giga Drain": "19",
+            "Dazzling Gleam": "21",
+            "Solar Beam": "22",
+            "Psychic": "29",
+            "Shadow Ball": "30",
+            "Double Team": "32",
+            "Reflect": "33",
+            "Aerial Ace": "40",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Steel Wing": "47",
+            "Skill Swap": "48",
+            "Roost": "51",
+            "Endure": "58",
+            "Giga Impact": "68",
+            "Flash": "70",
+            "Thunder Wave": "73",
+            "Psych Up": "77",
+            "Sleep Talk": "82",
+            "Dream Eater": "85",
+            "Grass Knot": "86",
+            "Swagger": "87",
+            "Pluck": "88",
+            "U-turn": "89",
+            "Substitute": "90",
+            "Trick Room": "92",
+            "Fly": "94",
+            "Defog": "97"
+        }
+    },
+    "entries": {
+        "Xatu": [
+            "They say that it stays still and quiet because it is seeing both the past and future at the same time.",
+            "In South America, it is said that its right eye sees the future and its left eye views the past.",
+            "Once it begins to meditate at sunrise, the entire day will pass before it will move again.",
+            "XATU stands rooted and still in one spot all day long. People believe that this pok\u00e9mon does so out of fear of the terrible things it has foreseen in the future.",
+            "XATU is known to stand motionless while staring at the sun all day long. Some people revere it as a mystical pok\u00e9mon out of their belief that XATU is in possession of the power to see into the future.",
+            "In South America, it is said that its right eye sees the future and its left eye views the past.",
+            "They say that it stays still and quiet because it is seeing both the past and future at the same time.",
+            "It has the enigmatic power of foreseeing the future. Some people in different lands have long believed that XATU are emissaries from another world.",
+            "This odd Pok\u00e9mon can see both the past and the future. It eyes the sun\u2019s movement all day.",
+            "They say that it stays still and quiet because it is seeing both the past and future at the same time.",
+            "In South America, it is said that its right eye sees the future and its left eye views the past.",
+            "This odd Pok\u00e9mon can see both the past and the future. It eyes the sun\u2019s movement all day.",
+            "Once it begins to meditate at sunrise, the entire day will pass before it will move again.",
+            "They say that it stays still and quiet because it is seeing both the past and future at the same time.",
+            "Xatu stands rooted and still in one spot all day long. People believe that this Pok\u00e9mon does so out of fear of the terrible things it has foreseen in the future.",
+            "Xatu is known to stand motionless while staring at the sun all day long. Some people revere it as a mystical Pok\u00e9mon out of their belief that Xatu is in possession of the power to see into the future.",
+            "It\u2019s said that while this Pok\u00e9mon has the power to predict the future, it\u2019s not powerful enough to change the future it sees.",
+            "While it can see the future, it has no desire to change it, which is probably why it remains motionless at all times.",
+            "They say that it stays still and quiet because it is seeing both the past and future at the same time.",
+            "This odd Pok\u00e9mon can see both the past and the future. It eyes the sun\u2019s movement all day."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787981548687370/178.png",
+    "discord_sprite": "<:P178:1132120566552338584>"
+}

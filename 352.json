@@ -1,0 +1,177 @@
+{
+    "alt-version(s)": [],
+    "name": "Kecleon",
+    "Kecleon": {
+        "pokedex_data": {
+            "National No.": "0352",
+            "Type": [
+                "Normal"
+            ],
+            "Species": "Color Swap Poke\u0301mon",
+            "Height": "1.0 m (3\u203203\u2032\u2032)",
+            "Weight": "22.0 kg (48.5 lbs)",
+            "Abilities": {
+                "Color Change": {
+                    "href": "/ability/color-change",
+                    "effect": "Changes the Pok\u00e9mon's type to the foe's move.",
+                    "hidden": false
+                },
+                "Protean": {
+                    "href": "/ability/protean",
+                    "effect": "Changes the Pok\u00e9mon's type to its last used move.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Sp. Def",
+            "Catch rate": "200",
+            "BaseFriendship": "50",
+            "Base Exp.": "154",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "60",
+                "Min": "230",
+                "Max": "324"
+            },
+            "Attack": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Defense": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Atk": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Def": {
+                "Base": "120",
+                "Min": "220",
+                "Max": "372"
+            },
+            "Speed": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Total": "440"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Astonish": "1",
+            "Lick": "1",
+            "Scratch": "1",
+            "Tail Whip": "1",
+            "Thief": "1",
+            "Bind": "4",
+            "Shadow Sneak": "7",
+            "Feint": "10",
+            "Fury Swipes": "13",
+            "Disable": "16",
+            "Psybeam": "18",
+            "Ancient Power": "21",
+            "Slash": "25",
+            "Detect": "30",
+            "Shadow Claw": "33",
+            "Screech": "38",
+            "Substitute": "42",
+            "Sucker Punch": "46",
+            "Foul Play": "50"
+        },
+        "egg": {
+            "Disable": null,
+            "Fake Out": null,
+            "Foul Play": null,
+            "Magic Coat": null,
+            "Power-Up Punch": null,
+            "Recover": null,
+            "Trick": null
+        },
+        "tm": {
+            "Focus Punch": "01",
+            "Water Pulse": "03",
+            "Work Up": "10",
+            "Sunny Day": "11",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Solar Beam": "22",
+            "Iron Tail": "23",
+            "Thunderbolt": "24",
+            "Thunder": "25",
+            "Dig": "28",
+            "Shadow Ball": "30",
+            "Brick Break": "31",
+            "Double Team": "32",
+            "Shock Wave": "34",
+            "Flamethrower": "35",
+            "Fire Blast": "38",
+            "Rock Tomb": "39",
+            "Aerial Ace": "40",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Skill Swap": "48",
+            "Fling": "56",
+            "Charge Beam": "57",
+            "Endure": "58",
+            "Drain Punch": "60",
+            "Nasty Plot": "63",
+            "Shadow Claw": "65",
+            "Recycle": "67",
+            "Flash": "70",
+            "Thunder Wave": "73",
+            "Stealth Rock": "76",
+            "Psych Up": "77",
+            "Rock Slide": "80",
+            "Sleep Talk": "82",
+            "Grass Knot": "86",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Trick Room": "92",
+            "Cut": "93",
+            "Strength": "96",
+            "Rock Smash": "98"
+        }
+    },
+    "entries": {
+        "Kecleon": [
+            "KECLEON is capable of changing its body colors at will to blend in with its surroundings. There is one exception - this pok\u00e9mon can\u2019t change the zigzag pattern on its belly.",
+            "KECLEON alters its body coloration to blend in with its surroundings, allowing it to sneak up on its prey unnoticed. Then it lashes out with its long, stretchy tongue to instantly ensnare the unsuspecting target.",
+            "It changes body color to blend in with its surroundings. It also changes color if it is happy or sad.",
+            "A pok\u00e9mon that has the ability to alter its body colors to match its surroundings. A KECLEON reverts to its original colors if it is startled.",
+            "It can freely change its body\u2019s color. The zigzag pattern on its belly doesn\u2019t change, however.",
+            "It changes its shading to match its surroundings so it can sneak up on prey. Only its belly patterns stay fixed.",
+            "It can freely change its body\u2019s color. The zigzag pattern on its belly doesn\u2019t change, however.",
+            "It can freely change its body\u2019s color. The zigzag pattern on its belly doesn\u2019t change, however.",
+            "It changes its shading to match its surroundings so it can sneak up on prey. Only its belly patterns stay fixed.",
+            "Kecleon is capable of changing its body colors at will to blend in with its surroundings. There is one exception\u2014this Pok\u00e9mon can\u2019t change the zigzag pattern on its belly.",
+            "Kecleon alters its body coloration to blend in with its surroundings, allowing it to sneak up on its prey unnoticed. Then it lashes out with its long, stretchy tongue to instantly ensnare the unsuspecting target.",
+            "It changes its hue to blend into its surroundings. If no one takes notice of it for too long, it will pout and never reveal itself.",
+            "Its color changes for concealment and also when its mood or health changes. The darker the color, the healthier it is.",
+            "It can freely change its body\u2019s color. The zigzag pattern on its belly doesn\u2019t change, however."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789351223828510/352.png",
+    "discord_sprite": "<:P352:1132128226580381828>"
+}

@@ -1,0 +1,261 @@
+{
+    "alt-version(s)": [],
+    "name": "Quagsire",
+    "Quagsire": {
+        "pokedex_data": {
+            "National No.": "0195",
+            "Type": [
+                "Water",
+                "Ground"
+            ],
+            "Species": "Water Fish Poke\u0301mon",
+            "Height": "1.4 m (4\u203207\u2032\u2032)",
+            "Weight": "75.0 kg (165.3 lbs)",
+            "Abilities": {
+                "Damp": {
+                    "href": "/ability/damp",
+                    "effect": "Prevents the use of self-destructing moves.",
+                    "hidden": false
+                },
+                "Water Absorb": {
+                    "href": "/ability/water-absorb",
+                    "effect": "Restores HP if hit by a Water-type move.",
+                    "hidden": false
+                },
+                "Unaware": {
+                    "href": "/ability/unaware",
+                    "effect": "Ignores any stat changes in the Pok\u00e9mon.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 HP",
+            "Catch rate": "90",
+            "BaseFriendship": "50",
+            "Base Exp.": "151",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "95",
+                "Min": "300",
+                "Max": "394"
+            },
+            "Attack": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Defense": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Sp. Atk": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Def": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Speed": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Total": "430"
+        },
+        "defense_stats": {
+            "Damp ability": {
+                "Fire": "not very effective",
+                "Electric": "no effect",
+                "Grass": "super-effective",
+                "Poison": "not very effective",
+                "Rock": "not very effective",
+                "Steel": "not very effective"
+            },
+            "Water Absorb ability": {
+                "Fire": "not very effective",
+                "Water": "no effect",
+                "Electric": "no effect",
+                "Grass": "super-effective",
+                "Poison": "not very effective",
+                "Rock": "not very effective",
+                "Steel": "not very effective"
+            },
+            "Unaware ability": {
+                "Fire": "not very effective",
+                "Electric": "no effect",
+                "Grass": "super-effective",
+                "Poison": "not very effective",
+                "Rock": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Wooper",
+                    "nationalNo": "#0194",
+                    "type": [
+                        "Water",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Quagsire",
+                    "nationalNo": "#0195",
+                    "type": [
+                        "Water",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 20)",
+                "shed": null
+            }
+        ],
+        [
+            {
+                "from": {
+                    "name": "Wooper",
+                    "nationalNo": "#0194",
+                    "type": [
+                        "Poison",
+                        "Ground"
+                    ],
+                    "nickname": "Paldean Wooper"
+                },
+                "to": {
+                    "name": "Clodsire",
+                    "nationalNo": "#0980",
+                    "type": [
+                        "Poison",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 20)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Mud Shot": "1",
+            "Rain Dance": "1",
+            "Tail Whip": "1",
+            "Water Gun": "1",
+            "Haze": "12",
+            "Mist": "12",
+            "Slam": "16",
+            "Yawn": "23",
+            "Aqua Tail": "28",
+            "Muddy Water": "34",
+            "Amnesia": "40",
+            "Toxic": "46",
+            "Earthquake": "52"
+        },
+        "egg": {
+            "Acid Spray": null,
+            "After You": null,
+            "Ancient Power": null,
+            "Counter": null,
+            "Curse": null,
+            "Double Kick": null,
+            "Recover": null,
+            "Spit Up": null,
+            "Stockpile": null,
+            "Swallow": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Mud-Slap": "05",
+            "Protect": "07",
+            "Water Pulse": "11",
+            "Acid Spray": "13",
+            "Thief": "18",
+            "Trailblaze": "20",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Bulldoze": "28",
+            "Icy Wind": "34",
+            "Mud Shot": "35",
+            "Rock Tomb": "36",
+            "Fling": "43",
+            "Avalanche": "46",
+            "Endure": "47",
+            "Rain Dance": "50",
+            "Sandstorm": "51",
+            "Snowscape": "52",
+            "Dig": "55",
+            "Brick Break": "58",
+            "Body Slam": "66",
+            "Ice Punch": "69",
+            "Sleep Talk": "70",
+            "Drain Punch": "73",
+            "Waterfall": "77",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Body Press": "89",
+            "Spikes": "90",
+            "Toxic Spikes": "91",
+            "Eerie Impulse": "96",
+            "Substitute": "103",
+            "Liquidation": "110",
+            "Stealth Rock": "116",
+            "Encore": "122",
+            "Surf": "123",
+            "Amnesia": "128",
+            "Helping Hand": "130",
+            "Earth Power": "133",
+            "Ice Beam": "135",
+            "Hydro Pump": "142",
+            "Blizzard": "143",
+            "Sludge Bomb": "148",
+            "Earthquake": "149",
+            "Stone Edge": "150",
+            "Giga Impact": "152",
+            "Focus Blast": "158",
+            "Hyper Beam": "163",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Quagsire": [
+            "This carefree pok\u00e9mon has an easy-going nature. While swimming, it always bumps into boat hulls.",
+            "Due to its relaxed and carefree attitude, it often bumps its head on boulders and boat hulls as it swims.",
+            "Its body is always slimy. It often bangs its head on the river bottom as it swims but seems not to care.",
+            "QUAGSIRE hunts for food by leaving its mouth wide open in water and waiting for its prey to blunder in unaware. Because the pok\u00e9mon does not move, it does not get very hungry.",
+            "Due to its relaxed and carefree attitude, it often bumps its head on boulders and boat hulls as it swims.",
+            "This carefree pok\u00e9mon has an easygoing nature. While swimming, it always bumps into boat hulls.",
+            "A QUAGSIRE hunts by leaving its mouth wide open in water and waiting for its prey to blunder in. Because it doesn\u2019t move, it does not get very hungry.",
+            "It has a sluggish nature. It lies at the river\u2019s bottom, waiting for prey to stray into its mouth.",
+            "A dim-witted Pok\u00e9mon. It doesn\u2019t care if it bumps its head into boats or rocks while swimming.",
+            "It has an easygoing nature. It doesn\u2019t care if it bumps its head on boats and boulders while swimming.",
+            "This carefree Pok\u00e9mon has an easy-going nature. While swimming, it always bumps into boat hulls.",
+            "Due to its relaxed and carefree attitude, it often bumps its head on boulders and boat hulls as it swims.",
+            "It has an easygoing nature. It doesn\u2019t care if it bumps its head on boats and boulders while swimming.",
+            "It has a sluggish nature. It lies at the river\u2019s bottom, waiting for prey to stray into its mouth.",
+            "This carefree Pok\u00e9mon has an easygoing nature. While swimming, it always bumps into boat hulls.",
+            "Quagsire hunts for food by leaving its mouth wide open in water and waiting for its prey to blunder in unaware. Because the Pok\u00e9mon does not move, it does not get very hungry.",
+            "It has an easygoing nature. It doesn\u2019t care if it bumps its head on boats and boulders while swimming.",
+            "Its body is always slimy. It often bangs its head on the river bottom as it swims but seems not to care.",
+            "It has a sluggish nature. It lies at the river\u2019s bottom, waiting for prey to stray into its mouth.",
+            "A dim-witted Pok\u00e9mon. It doesn\u2019t care if it bumps its head into boats or rocks while swimming."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788114105487411/195.png",
+    "discord_sprite": "<:P195:1132121314346414163>"
+}

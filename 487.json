@@ -1,0 +1,251 @@
+{
+    "alt-version(s)": [
+        "Altered Forme",
+        "Origin Forme"
+    ],
+    "Altered Forme": {
+        "pokedex_data": {
+            "National No.": "0487",
+            "Type": [
+                "Ghost",
+                "Dragon"
+            ],
+            "Species": "Renegade Poke\u0301mon",
+            "Height": "4.5 m (14\u203209\u2032\u2032)",
+            "Weight": "750.0 kg (1653.5 lbs)",
+            "Abilities": {
+                "Pressure": {
+                    "href": "/ability/pressure",
+                    "effect": "The Pok\u00e9mon raises the foe's PP usage.",
+                    "hidden": false
+                },
+                "Telepathy": {
+                    "href": "/ability/telepathy",
+                    "effect": "Anticipates an ally's attack and dodges it.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 HP",
+            "Catch rate": "3",
+            "BaseFriendship": "0",
+            "Base Exp.": "340",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "150",
+                "Min": "410",
+                "Max": "504"
+            },
+            "Attack": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Defense": {
+                "Base": "120",
+                "Min": "220",
+                "Max": "372"
+            },
+            "Sp. Atk": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Sp. Def": {
+                "Base": "120",
+                "Min": "220",
+                "Max": "372"
+            },
+            "Speed": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Total": "680"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "no effect",
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "no effect",
+                "Poison": "not very effective",
+                "Bug": "not very effective",
+                "Ghost": "super-effective",
+                "Dragon": "super-effective",
+                "Dark": "super-effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "Origin Forme": {
+        "pokedex_data": {
+            "National No.": "0487",
+            "Type": [
+                "Ghost",
+                "Dragon"
+            ],
+            "Species": "Renegade Poke\u0301mon",
+            "Height": "6.9 m (22\u203208\u2032\u2032)",
+            "Weight": "650.0 kg (1433.0 lbs)",
+            "Abilities": {
+                "Levitate": {
+                    "href": "/ability/levitate",
+                    "effect": "Gives immunity to Ground type moves.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 HP",
+            "Catch rate": "3",
+            "BaseFriendship": "0",
+            "Base Exp.": "340",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "150",
+                "Min": "410",
+                "Max": "504"
+            },
+            "Attack": {
+                "Base": "120",
+                "Min": "220",
+                "Max": "372"
+            },
+            "Defense": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Sp. Atk": {
+                "Base": "120",
+                "Min": "220",
+                "Max": "372"
+            },
+            "Sp. Def": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Speed": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Total": "680"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "no effect",
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "no effect",
+                "Poison": "not very effective",
+                "Ground": "no effect",
+                "Bug": "not very effective",
+                "Ghost": "super-effective",
+                "Dragon": "super-effective",
+                "Dark": "super-effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Defog": "1",
+            "Shadow Sneak": "1",
+            "Dragon Breath": "7",
+            "Ancient Power": "14",
+            "Hex": "21",
+            "Slash": "28",
+            "Scary Face": "35",
+            "Shadow Claw": "42",
+            "Pain Split": "49",
+            "Aura Sphere": "56",
+            "Dragon Claw": "63",
+            "Earth Power": "70",
+            "Shadow Force": "77",
+            "Destiny Bond": "84"
+        },
+        "egg": null,
+        "tm": {
+            "Take Down": "01",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Confuse Ray": "17",
+            "Facade": "25",
+            "Bulldoze": "28",
+            "Hex": "29",
+            "Swift": "32",
+            "Icy Wind": "34",
+            "Dragon Tail": "44",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Shadow Claw": "61",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Dragon Claw": "78",
+            "Thunder Wave": "82",
+            "Rest": "85",
+            "Dark Pulse": "94",
+            "Fly": "97",
+            "Iron Head": "99",
+            "Substitute": "103",
+            "Will-O-Wisp": "107",
+            "Aura Sphere": "112",
+            "Shadow Ball": "114",
+            "Dragon Pulse": "115",
+            "Hyper Voice": "117",
+            "Energy Ball": "119",
+            "Psychic": "120",
+            "Thunderbolt": "126",
+            "Calm Mind": "129",
+            "Earth Power": "133",
+            "Earthquake": "149",
+            "Stone Edge": "150",
+            "Phantom Force": "151",
+            "Giga Impact": "152",
+            "Outrage": "156",
+            "Hyper Beam": "163",
+            "Thunder": "166",
+            "Draco Meteor": "169",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Altered Forme": [
+            "A Pok\u00e9mon that is said to live in a world on the reverse side of ours. It appears in an ancient cemetery.",
+            "It was banished for its violence. It silently gazed upon the old world from the Distortion World.",
+            "This Pok\u00e9mon is said to live in a world on the reverse side of ours, where common knowledge is distorted and strange.",
+            "It was banished for its violence. It silently gazed upon the old world from the Distortion World.",
+            "This Pok\u00e9mon is said to live in a world on the reverse side of ours, where common knowledge is distorted and strange.",
+            "It was banished for its violence. It silently gazed upon the old world from the Distortion World.",
+            "A Pok\u00e9mon that is said to live in a world on the reverse side of ours. It appears in an ancient cemetery.",
+            "There is one Hisuian verse that tells of a powerful light creating a deep shadow. I imagine that this deep shadow is Giratina."
+        ],
+        "Origin Forme": [
+            "Giratina loses its legs upon changing into this form. I believe this Pok\u00e9mon must hail from a world where the heavens and the earth are as one, though I have no way of proving it."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790396704424076/487.png",
+    "discord_sprite": "<:P487:1132134163999359137>"
+}

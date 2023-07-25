@@ -1,0 +1,175 @@
+{
+    "alt-version(s)": [],
+    "name": "Feebas",
+    "Feebas": {
+        "pokedex_data": {
+            "National No.": "0349",
+            "Type": [
+                "Water"
+            ],
+            "Species": "Fish Poke\u0301mon",
+            "Height": "0.6 m (2\u203200\u2032\u2032)",
+            "Weight": "7.4 kg (16.3 lbs)",
+            "Abilities": {
+                "Swift Swim": {
+                    "href": "/ability/swift-swim",
+                    "effect": "Boosts the Pok\u00e9mon's Speed in rain.",
+                    "hidden": false
+                },
+                "Oblivious": {
+                    "href": "/ability/oblivious",
+                    "effect": "Prevents it from becoming infatuated.",
+                    "hidden": false
+                },
+                "Adaptability": {
+                    "href": "/ability/adaptability",
+                    "effect": "Powers up moves of the same type.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Speed",
+            "Catch rate": "255",
+            "BaseFriendship": "50",
+            "Base Exp.": "40",
+            "Growth Rate": "Erratic"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "20",
+                "Min": "150",
+                "Max": "244"
+            },
+            "Attack": {
+                "Base": "15",
+                "Min": "31",
+                "Max": "141"
+            },
+            "Defense": {
+                "Base": "20",
+                "Min": "40",
+                "Max": "152"
+            },
+            "Sp. Atk": {
+                "Base": "10",
+                "Min": "22",
+                "Max": "130"
+            },
+            "Sp. Def": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Speed": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Total": "200"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Feebas",
+                    "nationalNo": "#0349",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Milotic",
+                    "nationalNo": "#0350",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(trade holding Prism Scale, or level up with max Beauty)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Splash": "1",
+            "Tackle": "15",
+            "Flail": "25"
+        },
+        "egg": {
+            "Confuse Ray": null,
+            "Dragon Breath": null,
+            "Haze": null,
+            "Hypnosis": null,
+            "Mirror Coat": null,
+            "Mist": null,
+            "Tickle": null
+        },
+        "tm": {
+            "Water Pulse": "03",
+            "Hail": "07",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Light Screen": "16",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Iron Tail": "23",
+            "Double Team": "32",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Scald": "49",
+            "Brine": "55",
+            "Endure": "58",
+            "Dragon Pulse": "59",
+            "Sleep Talk": "82",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Surf": "95",
+            "Waterfall": "99"
+        }
+    },
+    "entries": {
+        "Feebas": [
+            "FEEBAS\u2019s fins are ragged and tattered from the start of its life. Because of its shoddy appearance, this pok\u00e9mon is largely ignored. It is capable of living in both the sea and in rivers.",
+            "While FEEBAS\u2019s body is in tatters, it has a hardy and tenacious life force that enables it to live anywhere. However, this pok\u00e9mon is also slow and dimwitted, making it an easy catch.",
+            "Ridiculed for its shabby appearance, it is ignored by researchers. It lives in ponds choked with weeds.",
+            "FEEBAS live in ponds that are heavily infested with weeds. Because of its hopelessly shabby appearance, it seems as if few TRAINERS raise it.",
+            "It is famous for its shabby appearance. While populous, they tend to cluster in set locations.",
+            "It eats anything, so it can even live in polluted streams and lakes. No one pays any attention to it.",
+            "It is a shabby and ugly Pok\u00e9mon. However, it is very hardy and can survive on little water.",
+            "It is the shabbiest Pok\u00e9mon of all. It forms in schools and lives at the bottom of rivers.",
+            "It is a shabby and ugly Pok\u00e9mon. However, it is very hardy and can survive on little water.",
+            "It eats anything, so it can even live in polluted streams and lakes. No one pays any attention to it.",
+            "It is the shabbiest Pok\u00e9mon of all. It forms in schools and lives at the bottom of rivers.",
+            "Feebas\u2019s fins are ragged and tattered from the start of its life. Because of its shoddy appearance, this Pok\u00e9mon is largely ignored. It is capable of living in both the sea and in rivers.",
+            "While Feebas\u2019s body is in tatters, it has a hardy and tenacious life force that enables it to live anywhere. However, this Pok\u00e9mon is also slow and dimwitted, making it an easy catch.",
+            "A tough Pok\u00e9mon that is perfectly fine even in dirty water. However, due to its ragged, shabby appearance, it isn\u2019t popular.",
+            "Although unattractive and unpopular, this Pok\u00e9mon\u2019s marvelous vitality has made it a subject of research.",
+            "They look ragged, so no one catches them. They look like they\u2019d taste bad, so predators won\u2019t eat them. And their numbers continue to grow.",
+            "Because of its wretched appearance, most people pay it no attention, but there are some who collect Feebas\u2014and Feebas alone!",
+            "Although unattractive and unpopular, this Pok\u00e9mon\u2019s marvelous vitality has made it a subject of research.",
+            "It is a shabby and ugly Pok\u00e9mon. However, it is very hardy and can survive on little water.",
+            "They are famous for their shabby appearance. Although populous, they tend to cluster in set locations.",
+            "It eats anything, so it can even live in polluted streams and lakes. No one pays any attention to it."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789328239050762/349.png",
+    "discord_sprite": "<:P349:1132128093444788234>"
+}

@@ -1,0 +1,149 @@
+{
+    "alt-version(s)": [],
+    "name": "Ting-Lu",
+    "Ting-Lu": {
+        "pokedex_data": {
+            "National No.": "1003",
+            "Type": [
+                "Dark",
+                "Ground"
+            ],
+            "Species": "Ruinous Poke\u0301mon",
+            "Height": "2.7 m (8\u203210\u2032\u2032)",
+            "Weight": "699.7 kg (1542.6 lbs)",
+            "Abilities": {
+                "Vessel of Ruin": {
+                    "href": "/ability/vessel-of-ruin",
+                    "effect": "Lowers Special Attack of all Pok\u00e9mon except itself.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Defense",
+            "Catch rate": "6",
+            "BaseFriendship": "0",
+            "Base Exp.": "285",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "155",
+                "Min": "420",
+                "Max": "514"
+            },
+            "Attack": {
+                "Base": "110",
+                "Min": "202",
+                "Max": "350"
+            },
+            "Defense": {
+                "Base": "125",
+                "Min": "229",
+                "Max": "383"
+            },
+            "Sp. Atk": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Sp. Def": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Speed": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Total": "570"
+        },
+        "defense_stats": {
+            "default": {
+                "Water": "super-effective",
+                "Electric": "no effect",
+                "Grass": "super-effective",
+                "Ice": "super-effective",
+                "Fighting": "super-effective",
+                "Poison": "not very effective",
+                "Psychic": "no effect",
+                "Bug": "super-effective",
+                "Rock": "not very effective",
+                "Ghost": "not very effective",
+                "Dark": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Mean Look": "1",
+            "Sand Tomb": "1",
+            "Spite": "1",
+            "Spikes": "5",
+            "Payback": "10",
+            "Stomp": "15",
+            "Bulldoze": "20",
+            "Whirlwind": "25",
+            "Taunt": "30",
+            "Thrash": "35",
+            "Dark Pulse": "40",
+            "Stomping Tantrum": "45",
+            "Ruination": "50",
+            "Throat Chop": "55",
+            "Rock Slide": "60",
+            "Memento": "65",
+            "Earthquake": "70",
+            "Fissure": "75"
+        },
+        "egg": null,
+        "tm": {
+            "Take Down": "01",
+            "Mud-Slap": "05",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Facade": "25",
+            "Bulldoze": "28",
+            "Hex": "29",
+            "Snarl": "30",
+            "Mud Shot": "35",
+            "Rock Tomb": "36",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Sandstorm": "51",
+            "Dig": "55",
+            "Zen Headbutt": "59",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Taunt": "87",
+            "Body Press": "89",
+            "Spikes": "90",
+            "Dark Pulse": "94",
+            "Substitute": "103",
+            "Stealth Rock": "116",
+            "Heavy Slam": "121",
+            "Earth Power": "133",
+            "Earthquake": "149",
+            "Stone Edge": "150",
+            "Giga Impact": "152",
+            "Hyper Beam": "163",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Ting-Lu": [
+            "The fear poured into an ancient ritual vessel has clad itself in rocks and dirt to become a Pok\u00e9mon.",
+            "It slowly brings its exceedingly heavy head down upon the ground, splitting the earth open with huge fissures that run over 160 feet deep."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131794423760568360/1003.png",
+    "discord_sprite": "<:P1003:1132156927057604608>"
+}

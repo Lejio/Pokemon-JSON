@@ -1,0 +1,317 @@
+{
+    "alt-version(s)": [
+        "Galarian Zigzagoon"
+    ],
+    "name": "Zigzagoon",
+    "Zigzagoon": {
+        "pokedex_data": {
+            "National No.": "0263",
+            "Type": [
+                "Normal"
+            ],
+            "Species": "TinyRaccoon Poke\u0301mon",
+            "Height": "0.4 m (1\u203204\u2032\u2032)",
+            "Weight": "17.5 kg (38.6 lbs)",
+            "Abilities": {
+                "Pickup": {
+                    "href": "/ability/pickup",
+                    "effect": "The Pok\u00e9mon may pick up items.",
+                    "hidden": false
+                },
+                "Gluttony": {
+                    "href": "/ability/gluttony",
+                    "effect": "Encourages the early use of a held Berry.",
+                    "hidden": false
+                },
+                "Quick Feet": {
+                    "href": "/ability/quick-feet",
+                    "effect": "Boosts Speed if there is a status problem.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Speed",
+            "Catch rate": "255",
+            "BaseFriendship": "50",
+            "Base Exp.": "56",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "38",
+                "Min": "186",
+                "Max": "280"
+            },
+            "Attack": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Defense": {
+                "Base": "41",
+                "Min": "78",
+                "Max": "199"
+            },
+            "Sp. Atk": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Sp. Def": {
+                "Base": "41",
+                "Min": "78",
+                "Max": "199"
+            },
+            "Speed": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Total": "240"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "Galarian Zigzagoon": {
+        "pokedex_data": {
+            "National No.": "0263",
+            "Type": [
+                "Dark",
+                "Normal"
+            ],
+            "Species": "Tiny Raccoon Poke\u0301mon",
+            "Height": "0.4 m (1\u203204\u2032\u2032)",
+            "Weight": "17.5 kg (38.6 lbs)",
+            "Abilities": {
+                "Pickup": {
+                    "href": "/ability/pickup",
+                    "effect": "The Pok\u00e9mon may pick up items.",
+                    "hidden": false
+                },
+                "Gluttony": {
+                    "href": "/ability/gluttony",
+                    "effect": "Encourages the early use of a held Berry.",
+                    "hidden": false
+                },
+                "Quick Feet": {
+                    "href": "/ability/quick-feet",
+                    "effect": "Boosts Speed if there is a status problem.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Speed",
+            "Catch rate": "255",
+            "BaseFriendship": "50",
+            "Base Exp.": "56",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "38",
+                "Min": "186",
+                "Max": "280"
+            },
+            "Attack": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Defense": {
+                "Base": "41",
+                "Min": "78",
+                "Max": "199"
+            },
+            "Sp. Atk": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Sp. Def": {
+                "Base": "41",
+                "Min": "78",
+                "Max": "199"
+            },
+            "Speed": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Total": "240"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "super-effective",
+                "Psychic": "no effect",
+                "Bug": "super-effective",
+                "Ghost": "no effect",
+                "Dark": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Zigzagoon",
+                    "nationalNo": "#0263",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Linoone",
+                    "nationalNo": "#0264",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 20)",
+                "shed": null
+            }
+        ],
+        [
+            {
+                "from": {
+                    "name": "Zigzagoon",
+                    "nationalNo": "#0263",
+                    "type": [
+                        "Dark",
+                        "Normal"
+                    ],
+                    "nickname": "Galarian Zigzagoon"
+                },
+                "to": {
+                    "name": "Linoone",
+                    "nationalNo": "#0264",
+                    "type": [
+                        "Dark",
+                        "Normal"
+                    ],
+                    "nickname": "Galarian Linoone"
+                },
+                "requirement": "(Level 20)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Linoone",
+                    "nationalNo": "#0264",
+                    "type": [
+                        "Dark",
+                        "Normal"
+                    ],
+                    "nickname": "Galarian Linoone"
+                },
+                "to": {
+                    "name": "Obstagoon",
+                    "nationalNo": "#0862",
+                    "type": [
+                        "Dark",
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 35, Nighttime)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Growl": "1",
+            "Tackle": "1",
+            "Sand Attack": "3",
+            "Tail Whip": "6",
+            "Covet": "9",
+            "Headbutt": "12",
+            "Baby-Doll Eyes": "15",
+            "Pin Missile": "18",
+            "Rest": "21",
+            "Take Down": "24",
+            "Fling": "27",
+            "Flail": "30",
+            "Belly Drum": "33",
+            "Double-Edge": "36"
+        },
+        "egg": {
+            "Charm": null,
+            "Extreme Speed": null,
+            "Helping Hand": null,
+            "Mud-Slap": null,
+            "Simple Beam": null,
+            "Tickle": null,
+            "Trick": null
+        },
+        "tm": {
+            "Water Pulse": "03",
+            "Work Up": "10",
+            "Sunny Day": "11",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Iron Tail": "23",
+            "Thunderbolt": "24",
+            "Thunder": "25",
+            "Dig": "28",
+            "Shadow Ball": "30",
+            "Double Team": "32",
+            "Shock Wave": "34",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Fling": "56",
+            "Charge Beam": "57",
+            "Endure": "58",
+            "Thunder Wave": "73",
+            "Sleep Talk": "82",
+            "Grass Knot": "86",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Cut": "93",
+            "Surf": "95",
+            "Rock Smash": "98"
+        }
+    },
+    "entries": {
+        "Zigzagoon": [
+            "ZIGZAGOON restlessly wanders everywhere at all times. This pok\u00e9mon does so because it is very curious. It becomes interested in anything that it happens to see.",
+            "The hair on ZIGZAGOON\u2019s back is bristly. It rubs the hard back hair against trees to leave its territorial markings. This pok\u00e9mon may play dead to fool foes in battle.",
+            "A pok\u00e9mon with abundant curiosity. It shows an interest in everything, so it always zigs and zags.",
+            "Rubbing its nose against the ground, it always wanders about back and forth in search of something. It is distinguished by the zigzag footprints it leaves.",
+            "It walks in zigzag fashion. It is good at finding items in the grass and even in the ground.",
+            "It gets interested in everything, which is why it zigs and zags. It is good at finding items.",
+            "It walks in zigzag fashion. It is good at finding items in the grass and even in the ground.",
+            "It walks in zigzag fashion. It\u2019s good at finding items in the grass and even in the ground.",
+            "A Pok\u00e9mon with abundant curiosity. It shows an interest in everything, so it always zigzags.",
+            "Zigzagoon restlessly wanders everywhere at all times. This Pok\u00e9mon does so because it is very curious. It becomes interested in anything that it happens to see.",
+            "The hair on Zigzagoon\u2019s back is bristly. It rubs the hard back hair against trees to leave its territorial markings. This Pok\u00e9mon may play dead to fool foes in battle.",
+            "It marks its territory by rubbing its bristly fur on trees. This variety of Zigzagoon is friendlier and calmer than the kind native to Galar.",
+            "Zigzagoon that adapted to regions outside Galar acquired this appearance. If you\u2019ve lost something, this Pok\u00e9mon can likely find it.",
+            "It walks in zigzag fashion. It\u2019s good at finding items in the grass and even in the ground."
+        ],
+        "Galarian Zigzagoon": [
+            "Its restlessness has it constantly running around. If it sees another Pok\u00e9mon, it will purposely run into them in order to start a fight.",
+            "Thought to be the oldest form of Zigzagoon, it moves in zigzags and wreaks havoc upon its surroundings."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788652289196053/263.png",
+    "discord_sprite": "<:P263:1132124319737188473>"
+}

@@ -1,0 +1,169 @@
+{
+    "alt-version(s)": [],
+    "name": "Orthworm",
+    "Orthworm": {
+        "pokedex_data": {
+            "National No.": "0968",
+            "Type": [
+                "Steel"
+            ],
+            "Species": "Earthworm Poke\u0301mon",
+            "Height": "2.5 m (8\u203202\u2032\u2032)",
+            "Weight": "310.0 kg (683.4 lbs)",
+            "Abilities": {
+                "Earth Eater": {
+                    "href": "/ability/earth-eater",
+                    "effect": "Restores HP when hit by a Ground-type move.",
+                    "hidden": false
+                },
+                "Sand Veil": {
+                    "href": "/ability/sand-veil",
+                    "effect": "Boosts the Pok\u00e9mon's evasion in a sandstorm.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Defense",
+            "Catch rate": "25",
+            "BaseFriendship": "50",
+            "Base Exp.": "240",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "70",
+                "Min": "250",
+                "Max": "344"
+            },
+            "Attack": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Defense": {
+                "Base": "145",
+                "Min": "265",
+                "Max": "427"
+            },
+            "Sp. Atk": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Def": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Speed": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Total": "480"
+        },
+        "defense_stats": {
+            "Earth Eater ability": {
+                "Normal": "not very effective",
+                "Fire": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Poison": "no effect",
+                "Ground": "no effect",
+                "Flying": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Dragon": "not very effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            },
+            "Sand Veil ability": {
+                "Normal": "not very effective",
+                "Fire": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Poison": "no effect",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Dragon": "not very effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Harden": "1",
+            "Tackle": "1",
+            "Wrap": "1",
+            "Mud-Slap": "7",
+            "Smack Down": "12",
+            "Bulldoze": "16",
+            "Iron Head": "21",
+            "Take Down": "26",
+            "Dig": "30",
+            "Sandstorm": "34",
+            "Iron Defense": "38",
+            "Iron Tail": "43",
+            "Earthquake": "47",
+            "Shed Tail": "52"
+        },
+        "egg": {
+            "Coil": null,
+            "Curse": null,
+            "Metal Burst": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Mud-Slap": "05",
+            "Protect": "07",
+            "Facade": "25",
+            "Bulldoze": "28",
+            "Mud Shot": "35",
+            "Rock Tomb": "36",
+            "Endure": "47",
+            "Sandstorm": "51",
+            "Dig": "55",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Rock Blast": "76",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Body Press": "89",
+            "Spikes": "90",
+            "Flash Cannon": "93",
+            "Iron Head": "99",
+            "Substitute": "103",
+            "Iron Defense": "104",
+            "Stealth Rock": "116",
+            "Heavy Slam": "121",
+            "Helping Hand": "130",
+            "Earth Power": "133",
+            "Earthquake": "149",
+            "Giga Impact": "152",
+            "Hyper Beam": "163",
+            "Steel Beam": "170",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Orthworm": [
+            "When attacked, this Pok\u00e9mon will wield the tendrils on its body like fists and pelt the opponent with a storm of punches.",
+            "This Pok\u00e9mon lives in arid deserts. It maintains its metal body by consuming iron from the soil."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131794149079797870/968.png",
+    "discord_sprite": "<:P968:1132155386305204304>"
+}

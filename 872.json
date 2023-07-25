@@ -1,0 +1,141 @@
+{
+    "alt-version(s)": [],
+    "name": "Snom",
+    "Snom": {
+        "pokedex_data": {
+            "National No.": "0872",
+            "Type": [
+                "Ice",
+                "Bug"
+            ],
+            "Species": "Worm Poke\u0301mon",
+            "Height": "0.3 m (1\u203200\u2032\u2032)",
+            "Weight": "3.8 kg (8.4 lbs)",
+            "Abilities": {
+                "Shield Dust": {
+                    "href": "/ability/shield-dust",
+                    "effect": "Blocks the added effects of attacks taken.",
+                    "hidden": false
+                },
+                "Ice Scales": {
+                    "href": "/ability/ice-scales",
+                    "effect": "Halves damage from Special moves.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Sp. Atk",
+            "Catch rate": "190",
+            "BaseFriendship": "50",
+            "Base Exp.": "37",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "30",
+                "Min": "170",
+                "Max": "264"
+            },
+            "Attack": {
+                "Base": "25",
+                "Min": "49",
+                "Max": "163"
+            },
+            "Defense": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Sp. Atk": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Sp. Def": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Speed": {
+                "Base": "20",
+                "Min": "40",
+                "Max": "152"
+            },
+            "Total": "185"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Rock": "super-effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Snom",
+                    "nationalNo": "#0872",
+                    "type": [
+                        "Ice",
+                        "Bug"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Frosmoth",
+                    "nationalNo": "#0873",
+                    "type": [
+                        "Ice",
+                        "Bug"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(high Friendship, Nighttime)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Powder Snow": "1",
+            "Struggle Bug": "1"
+        },
+        "egg": {
+            "Bug Bite": null,
+            "Fairy Wind": null,
+            "Mirror Coat": null
+        },
+        "tm": {
+            "Protect": "07",
+            "Struggle Bug": "15",
+            "Pounce": "21",
+            "Facade": "25",
+            "Icy Wind": "34",
+            "Sleep Talk": "70",
+            "Rest": "85",
+            "Substitute": "103",
+            "Bug Buzz": "162",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Snom": [
+            "It spits out thread imbued with a frigid sort of energy and uses it to tie its body to branches, disguising itself as an icicle while it sleeps.",
+            "It eats snow that piles up on the ground. The more snow it eats, the bigger and more impressive the spikes on its back grow.",
+            "It eats snow that has accumulated on the ground. It prefers soft, freshly fallen snow, so it will eat its way up a mountain, aiming for the peak.",
+            "Within its internal organs, Snom amplifies the frigid air it gets from eating snow and then uses this amplified air to create icicle-like spikes."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793402489487420/872.png",
+    "discord_sprite": "<:P872:1132151170643808348>"
+}

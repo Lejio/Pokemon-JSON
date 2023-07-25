@@ -1,0 +1,204 @@
+{
+    "alt-version(s)": [],
+    "name": "Kilowattrel",
+    "Kilowattrel": {
+        "pokedex_data": {
+            "National No.": "0941",
+            "Type": [
+                "Electric",
+                "Flying"
+            ],
+            "Species": "Frigatebird Poke\u0301mon",
+            "Height": "1.4 m (4\u203207\u2032\u2032)",
+            "Weight": "38.6 kg (85.1 lbs)",
+            "Abilities": {
+                "Wind Power": {
+                    "href": "/ability/wind-power",
+                    "effect": "Doubles power of the next Electric-type move used, when hit by a wind move.",
+                    "hidden": false
+                },
+                "Volt Absorb": {
+                    "href": "/ability/volt-absorb",
+                    "effect": "Restores HP if hit by an Electric-type move.",
+                    "hidden": false
+                },
+                "Competitive": {
+                    "href": "/ability/competitive",
+                    "effect": "Sharply raises Special Attack when the Pok\u00e9mon's stats are lowered.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Speed",
+            "Catch rate": "90",
+            "BaseFriendship": "50",
+            "Base Exp.": "172",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "70",
+                "Min": "250",
+                "Max": "344"
+            },
+            "Attack": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Defense": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Atk": {
+                "Base": "105",
+                "Min": "193",
+                "Max": "339"
+            },
+            "Sp. Def": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Speed": {
+                "Base": "125",
+                "Min": "229",
+                "Max": "383"
+            },
+            "Total": "490"
+        },
+        "defense_stats": {
+            "Wind Power ability": {
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Ground": "no effect",
+                "Flying": "not very effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Steel": "not very effective"
+            },
+            "Volt Absorb ability": {
+                "Electric": "no effect",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Ground": "no effect",
+                "Flying": "not very effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Steel": "not very effective"
+            },
+            "Competitive ability": {
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Ground": "no effect",
+                "Flying": "not very effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Wattrel",
+                    "nationalNo": "#0940",
+                    "type": [
+                        "Electric",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Kilowattrel",
+                    "nationalNo": "#0941",
+                    "type": [
+                        "Electric",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 25)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Growl": "1",
+            "Peck": "1",
+            "Thunder Shock": "4",
+            "Quick Attack": "7",
+            "Pluck": "11",
+            "Spark": "15",
+            "Uproar": "19",
+            "Roost": "24",
+            "Dual Wingbeat": "30",
+            "Agility": "36",
+            "Volt Switch": "43",
+            "Discharge": "48",
+            "Hurricane": "55"
+        },
+        "evolution": {
+            "Electro Ball": "\u2014"
+        },
+        "egg": {
+            "Endeavor": null,
+            "Feather Dance": null,
+            "Spit Up": null,
+            "Stockpile": null,
+            "Swallow": null,
+            "Weather Ball": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Agility": "04",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Acrobatics": "14",
+            "Charge Beam": "23",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Swift": "32",
+            "Air Cutter": "40",
+            "Endure": "47",
+            "Volt Switch": "48",
+            "U-turn": "60",
+            "Air Slash": "65",
+            "Sleep Talk": "70",
+            "Electro Ball": "72",
+            "Thunder Wave": "82",
+            "Rest": "85",
+            "Eerie Impulse": "96",
+            "Fly": "97",
+            "Substitute": "103",
+            "Tailwind": "113",
+            "Thunderbolt": "126",
+            "Electric Terrain": "136",
+            "Wild Charge": "147",
+            "Giga Impact": "152",
+            "Hurricane": "160",
+            "Hyper Beam": "163",
+            "Brave Bird": "164",
+            "Thunder": "166",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Kilowattrel": [
+            "Kilowattrel inflates its throat sac to amplify its electricity. By riding the wind, this Pok\u00e9mon can fly over 430 miles in a day.",
+            "It uses its throat sac to store electricity generated by its wings. There\u2019s hardly any oil in its feathers, so it is a poor swimmer."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793942048936037/941.png",
+    "discord_sprite": "<:P941:1132154201410109480>"
+}

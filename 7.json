@@ -1,0 +1,215 @@
+{
+    "alt-version(s)": [],
+    "name": "Squirtle",
+    "Squirtle": {
+        "pokedex_data": {
+            "National No.": "0007",
+            "Type": [
+                "Water"
+            ],
+            "Species": "Tiny Turtle Poke\u0301mon",
+            "Height": "0.5 m (1\u203208\u2032\u2032)",
+            "Weight": "9.0 kg (19.8 lbs)",
+            "Abilities": {
+                "Torrent": {
+                    "href": "/ability/torrent",
+                    "effect": "Powers up Water-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Rain Dish": {
+                    "href": "/ability/rain-dish",
+                    "effect": "The Pok\u00e9mon gradually regains HP in rain.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Defense",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "63",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "44",
+                "Min": "198",
+                "Max": "292"
+            },
+            "Attack": {
+                "Base": "48",
+                "Min": "90",
+                "Max": "214"
+            },
+            "Defense": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Atk": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Def": {
+                "Base": "64",
+                "Min": "119",
+                "Max": "249"
+            },
+            "Speed": {
+                "Base": "43",
+                "Min": "81",
+                "Max": "203"
+            },
+            "Total": "314"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Squirtle",
+                    "nationalNo": "#0007",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Wartortle",
+                    "nationalNo": "#0008",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 16)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Wartortle",
+                    "nationalNo": "#0008",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Blastoise",
+                    "nationalNo": "#0009",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 36)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Tackle": "1",
+            "Tail Whip": "1",
+            "Water Gun": "3",
+            "Withdraw": "6",
+            "Rapid Spin": "9",
+            "Bite": "12",
+            "Water Pulse": "15",
+            "Protect": "18",
+            "Rain Dance": "21",
+            "Aqua Tail": "24",
+            "Shell Smash": "27",
+            "Iron Defense": "30",
+            "Hydro Pump": "33",
+            "Skull Bash": "36"
+        },
+        "egg": {
+            "Aqua Jet": null,
+            "Aqua Ring": null,
+            "Aura Sphere": null,
+            "Fake Out": null,
+            "Flail": null,
+            "Haze": null,
+            "Life Dew": null,
+            "Mirror Coat": null,
+            "Mist": null,
+            "Muddy Water": null,
+            "Water Spout": null,
+            "Yawn": null
+        },
+        "tm": {
+            "Focus Punch": "01",
+            "Water Pulse": "03",
+            "Hail": "07",
+            "Work Up": "10",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Iron Tail": "23",
+            "Dig": "28",
+            "Brick Break": "31",
+            "Double Team": "32",
+            "Rock Tomb": "39",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Scald": "49",
+            "False Swipe": "54",
+            "Brine": "55",
+            "Fling": "56",
+            "Endure": "58",
+            "Dragon Pulse": "59",
+            "Gyro Ball": "74",
+            "Sleep Talk": "82",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Surf": "95",
+            "Strength": "96",
+            "Rock Smash": "98",
+            "Waterfall": "99"
+        }
+    },
+    "entries": {
+        "Squirtle": [
+            "After birth, its back swells and hardens into a shell. Powerfully sprays foam from its mouth.",
+            "Shoots water at prey while in the water. Withdraws into its shell when in danger.",
+            "The shell is soft when it is born. It soon becomes so resilient, prodding fingers will bounce off it.",
+            "The shell, which hardens soon after it is born, is resilient. If you poke it, it will bounce back out.",
+            "When it feels threatened, it draws its legs inside its shell and sprays water from its mouth.",
+            "SQUIRTLE\u2019s shell is not merely used for protection. The shell\u2019s rounded shape and the grooves on its surface help minimize resistance in water, enabling this pok\u00e9mon to swim at high speeds.",
+            "When it retracts its long neck into its shell, it squirts out water with vigorous force.",
+            "After birth, its back swells and hardens into a shell. It powerfully sprays foam from its mouth.",
+            "Its shell is not just for protection. Its rounded shape and the grooves on its surface minimize resistance in water, enabling SQUIRTLE to swim at high speeds.",
+            "It shelters itself in its shell, then strikes back with spouts of water at every opportunity.",
+            "The shell is soft when it is born. It soon becomes so resilient, prodding fingers will bounce off it.",
+            "The shell, which hardens soon after it is born, is resilient. If you poke it, it will bounce back out.",
+            "It shelters itself in its shell, then strikes back with spouts of water at every opportunity.",
+            "It shelters itself in its shell then strikes back with spouts of water at every opportunity.",
+            "It shelters itself in its shell, then strikes back with spouts of water at every opportunity.",
+            "Shoots water at prey while in the water. Withdraws into its shell when in danger.",
+            "Squirtle\u2019s shell is not merely used for protection. The shell\u2019s rounded shape and the grooves on its surface help minimize resistance in water, enabling this Pok\u00e9mon to swim at high speeds.",
+            "Shoots water at prey while in the water. Withdraws into its shell when in danger.",
+            "When it retracts its long neck into its shell, it squirts out water with vigorous force.",
+            "When it feels threatened, it draws its limbs inside its shell and sprays water from its mouth.",
+            "It hides in its shell to protect itself, then strikes back with spouts of water at every opportunity."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131786643221782528/7.png",
+    "discord_sprite": "<:P7:1131972201025916999>"
+}

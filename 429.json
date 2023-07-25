@@ -1,0 +1,195 @@
+{
+    "alt-version(s)": [],
+    "name": "Mismagius",
+    "Mismagius": {
+        "pokedex_data": {
+            "National No.": "0429",
+            "Type": [
+                "Ghost"
+            ],
+            "Species": "Magical Poke\u0301mon",
+            "Height": "0.9 m (2\u203211\u2032\u2032)",
+            "Weight": "4.4 kg (9.7 lbs)",
+            "Abilities": {
+                "Levitate": {
+                    "href": "/ability/levitate",
+                    "effect": "Gives immunity to Ground type moves.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Sp. Atk, 1 Sp. Def",
+            "Catch rate": "45",
+            "BaseFriendship": "35",
+            "Base Exp.": "173",
+            "Growth Rate": "Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "60",
+                "Min": "230",
+                "Max": "324"
+            },
+            "Attack": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Defense": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Atk": {
+                "Base": "105",
+                "Min": "193",
+                "Max": "339"
+            },
+            "Sp. Def": {
+                "Base": "105",
+                "Min": "193",
+                "Max": "339"
+            },
+            "Speed": {
+                "Base": "105",
+                "Min": "193",
+                "Max": "339"
+            },
+            "Total": "495"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "no effect",
+                "Fighting": "no effect",
+                "Poison": "not very effective",
+                "Ground": "no effect",
+                "Bug": "not very effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Misdreavus",
+                    "nationalNo": "#0200",
+                    "type": [
+                        "Ghost"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Mismagius",
+                    "nationalNo": "#0429",
+                    "type": [
+                        "Ghost"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Dusk Stone)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Astonish": "1",
+            "Growl": "1",
+            "Magical Leaf": "1",
+            "Mystical Fire": "1",
+            "Phantom Force": "1",
+            "Power Gem": "1",
+            "Spite": "1"
+        },
+        "egg": {
+            "Curse": null,
+            "Destiny Bond": null,
+            "Imprison": null,
+            "Memento": null,
+            "Screech": null,
+            "Shadow Sneak": null,
+            "Spite": null,
+            "Sucker Punch": null,
+            "Wonder Room": null
+        },
+        "tm": {
+            "Charm": "02",
+            "Fake Tears": "03",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Psybeam": "16",
+            "Confuse Ray": "17",
+            "Thief": "18",
+            "Charge Beam": "23",
+            "Facade": "25",
+            "Hex": "29",
+            "Swift": "32",
+            "Magical Leaf": "33",
+            "Icy Wind": "34",
+            "Draining Kiss": "37",
+            "Stored Power": "41",
+            "Night Shade": "42",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Snowscape": "52",
+            "Psyshock": "54",
+            "Foul Play": "62",
+            "Sleep Talk": "70",
+            "Dazzling Gleam": "79",
+            "Grass Knot": "81",
+            "Thunder Wave": "82",
+            "Rest": "85",
+            "Taunt": "87",
+            "Imprison": "92",
+            "Dark Pulse": "94",
+            "Skill Swap": "98",
+            "Power Gem": "101",
+            "Substitute": "103",
+            "Will-O-Wisp": "107",
+            "Trick": "109",
+            "Shadow Ball": "114",
+            "Hyper Voice": "117",
+            "Energy Ball": "119",
+            "Psychic": "120",
+            "Thunderbolt": "126",
+            "Calm Mind": "129",
+            "Helping Hand": "130",
+            "Nasty Plot": "140",
+            "Phantom Force": "151",
+            "Giga Impact": "152",
+            "Trick Room": "161",
+            "Hyper Beam": "163",
+            "Thunder": "166",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Mismagius": [
+            "Its cries sound like incantations. Those hearing it are tormented by headaches and hallucinations.",
+            "It chants incantations. While they usually torment targets, some chants bring happiness.",
+            "Its cry sounds like an incantation. It is said the cry may rarely be imbued with happiness-giving power.",
+            "Its cries sound like incantations to torment the foe. It appears where you least expect it.",
+            "Its cry sounds like an incantation. It is said the cry may rarely be imbued with happiness-giving power.",
+            "It chants incantations. While they usually torment targets, some chants bring happiness.",
+            "Its cries sound like incantations to torment the foe. It appears where you least expect it.",
+            "It appears as if from nowhere\u2014muttering incantations, placing curses, and giving people terrifying visions.",
+            "Mismagius have been known to cast spells to make people fall in love, so some people search for this Pok\u00e9mon as if their life depended on it.",
+            "Feared for its wrath and the curses it spreads, this Pok\u00e9mon will also, on a whim, cast spells that help people.",
+            "Its muttered curses can cause awful headaches or terrifying visions that torment others.",
+            "Its cries sound like incantations. Those who hear it are tormented by headaches and hallucinations.",
+            "It chants incantations. While these incantations can torment targets, some bring happiness.",
+            "The incantations Mismagius chants can ward against misfortune, so a custom exists of inviting it into one\u2019s home. Incur the Pok\u00e9mon\u2019s displeasure, however, and disaster will surely ensue.",
+            "Its cry sounds like an incantation. It is said the cry may rarely be imbued with happiness-giving power.",
+            "Its cries sound like incantations to torment the foe. It appears where you least expect it."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789946483638362/429.png",
+    "discord_sprite": "<:P429:1132131608556736603>"
+}

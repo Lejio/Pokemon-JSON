@@ -1,0 +1,210 @@
+{
+    "alt-version(s)": [],
+    "name": "Rufflet",
+    "Rufflet": {
+        "pokedex_data": {
+            "National No.": "0627",
+            "Type": [
+                "Normal",
+                "Flying"
+            ],
+            "Species": "Eaglet Poke\u0301mon",
+            "Height": "0.5 m (1\u203208\u2032\u2032)",
+            "Weight": "10.5 kg (23.1 lbs)",
+            "Abilities": {
+                "Keen Eye": {
+                    "href": "/ability/keen-eye",
+                    "effect": "Prevents other Pok\u00e9mon from lowering accuracy.",
+                    "hidden": false
+                },
+                "Sheer Force": {
+                    "href": "/ability/sheer-force",
+                    "effect": "Removes added effects to increase move damage.",
+                    "hidden": false
+                },
+                "Hustle": {
+                    "href": "/ability/hustle",
+                    "effect": "Boosts the Attack stat, but lowers accuracy.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack",
+            "Catch rate": "190",
+            "BaseFriendship": "50",
+            "Base Exp.": "70",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "100% male,0% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "70",
+                "Min": "250",
+                "Max": "344"
+            },
+            "Attack": {
+                "Base": "83",
+                "Min": "153",
+                "Max": "291"
+            },
+            "Defense": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Atk": {
+                "Base": "37",
+                "Min": "71",
+                "Max": "190"
+            },
+            "Sp. Def": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Speed": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Total": "350"
+        },
+        "defense_stats": {
+            "default": {
+                "Electric": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Ground": "no effect",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Rufflet",
+                    "nationalNo": "#0627",
+                    "type": [
+                        "Normal",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Braviary",
+                    "nationalNo": "#0628",
+                    "type": [
+                        "Normal",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 54)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Rufflet",
+                    "nationalNo": "#0627",
+                    "type": [
+                        "Normal",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Braviary",
+                    "nationalNo": "#0628",
+                    "type": [
+                        "Psychic",
+                        "Flying"
+                    ],
+                    "nickname": "Hisuian Braviary"
+                },
+                "requirement": "(Level 54, in Legends: Arceus)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Leer": "1",
+            "Peck": "1",
+            "Hone Claws": "6",
+            "Wing Attack": "12",
+            "Tailwind": "18",
+            "Scary Face": "24",
+            "Aerial Ace": "30",
+            "Slash": "36",
+            "Whirlwind": "42",
+            "Crush Claw": "48",
+            "Air Slash": "55",
+            "Defog": "60",
+            "Thrash": "66",
+            "Brave Bird": "72"
+        },
+        "egg": {
+            "Rock Smash": null,
+            "Roost": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Agility": "04",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Acrobatics": "14",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Swift": "32",
+            "Rock Tomb": "36",
+            "Air Cutter": "40",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Zen Headbutt": "59",
+            "U-turn": "60",
+            "Shadow Claw": "61",
+            "Bulk Up": "64",
+            "Air Slash": "65",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Fly": "97",
+            "Substitute": "103",
+            "Tailwind": "113",
+            "Heat Wave": "118",
+            "Helping Hand": "130",
+            "Hurricane": "160",
+            "Brave Bird": "164",
+            "Close Combat": "167",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Rufflet": [
+            "They crush berries with their talons. They bravely stand up to any opponent, no matter how strong it is.",
+            "They will challenge anything, even strong opponents, without fear. Their frequent fights help them become stronger.",
+            "It stands up to massive opponents, not out of courage, but out of recklessness. But that is how it gets stronger.",
+            "They crush berries with their talons. They bravely stand up to any opponent, no matter how strong it is.",
+            "They will challenge anything, even strong opponents, without fear. Their frequent fights help them become stronger.",
+            "They pick fights indiscriminately. They grow stronger and more powerful each time they faint or are injured.",
+            "With its sharp claws, this Pok\u00e9mon pierces its prey, and then it pecks at them. Although it also consumes berries, it\u2019s a carnivore at heart.",
+            "With its powerful legs and sturdy claws, it can crack even the hard shells of Shellder and pluck out their insides.",
+            "Known as a natural-born warrior, soon after its hatching, it will challenge its parent to a fight in order to gain their acceptance.",
+            "If it spies a strong Pok\u00e9mon, Rufflet can\u2019t resist challenging it to a battle. But if Rufflet loses, it starts bawling.",
+            "A combative Pok\u00e9mon, it\u2019s ready to pick a fight with anyone. It has talons that can crush hard berries.",
+            "Its chick-like looks belie its hotheadedness. It challenges its parents at every opportunity, desperate to prove its strength.",
+            "They pick fights indiscriminately. They grow stronger and more powerful each time they faint or are injured.",
+            "With its sharp claws, this Pok\u00e9mon pierces its prey, and then it pecks at them. Although it also consumes berries, it\u2019s a carnivore at heart."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791492256637039/627.png",
+    "discord_sprite": "<:P627:1132140333946384526>"
+}

@@ -1,0 +1,214 @@
+{
+    "alt-version(s)": [],
+    "name": "Arceus",
+    "Arceus": {
+        "pokedex_data": {
+            "National No.": "0493",
+            "Type": [
+                "Normal"
+            ],
+            "Species": "Alpha Poke\u0301mon",
+            "Height": "3.2 m (10\u203206\u2032\u2032)",
+            "Weight": "320.0 kg (705.5 lbs)",
+            "Abilities": {
+                "Multitype": {
+                    "href": "/ability/multitype",
+                    "effect": "Changes type to match the held Plate.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 HP",
+            "Catch rate": "3",
+            "BaseFriendship": "0",
+            "Base Exp.": "360",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "120",
+                "Min": "350",
+                "Max": "444"
+            },
+            "Attack": {
+                "Base": "120",
+                "Min": "220",
+                "Max": "372"
+            },
+            "Defense": {
+                "Base": "120",
+                "Min": "220",
+                "Max": "372"
+            },
+            "Sp. Atk": {
+                "Base": "120",
+                "Min": "220",
+                "Max": "372"
+            },
+            "Sp. Def": {
+                "Base": "120",
+                "Min": "220",
+                "Max": "372"
+            },
+            "Speed": {
+                "Base": "120",
+                "Min": "220",
+                "Max": "372"
+            },
+            "Total": "720"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Cosmic Power": "1",
+            "Seismic Toss": "1",
+            "Gravity": "10",
+            "Earth Power": "20",
+            "Hyper Voice": "30",
+            "Extreme Speed": "40",
+            "Healing Wish": "50",
+            "Future Sight": "60",
+            "Recover": "70",
+            "Hyper Beam": "80",
+            "Perish Song": "90",
+            "Judgment": "100"
+        },
+        "egg": null,
+        "tm": {
+            "Take Down": "01",
+            "Agility": "04",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Water Pulse": "11",
+            "Acid Spray": "13",
+            "Confuse Ray": "17",
+            "Trailblaze": "20",
+            "Chilling Water": "22",
+            "Charge Beam": "23",
+            "Facade": "25",
+            "Bulldoze": "28",
+            "Hex": "29",
+            "Snarl": "30",
+            "Swift": "32",
+            "Magical Leaf": "33",
+            "Icy Wind": "34",
+            "Rock Tomb": "36",
+            "Stored Power": "41",
+            "Dragon Tail": "44",
+            "Avalanche": "46",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Sandstorm": "51",
+            "Psyshock": "54",
+            "Bullet Seed": "56",
+            "Brick Break": "58",
+            "Zen Headbutt": "59",
+            "Shadow Claw": "61",
+            "Foul Play": "62",
+            "Bulk Up": "64",
+            "Air Slash": "65",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Reflect": "74",
+            "Light Screen": "75",
+            "Waterfall": "77",
+            "Dragon Claw": "78",
+            "Dazzling Gleam": "79",
+            "Grass Knot": "81",
+            "Thunder Wave": "82",
+            "Poison Jab": "83",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Taunt": "87",
+            "Swords Dance": "88",
+            "Body Press": "89",
+            "Imprison": "92",
+            "Flash Cannon": "93",
+            "Dark Pulse": "94",
+            "Fly": "97",
+            "Iron Head": "99",
+            "Dragon Dance": "100",
+            "Power Gem": "101",
+            "Gunk Shot": "102",
+            "Substitute": "103",
+            "Iron Defense": "104",
+            "X-Scissor": "105",
+            "Will-O-Wisp": "107",
+            "Trick": "109",
+            "Liquidation": "110",
+            "Giga Drain": "111",
+            "Aura Sphere": "112",
+            "Tailwind": "113",
+            "Shadow Ball": "114",
+            "Dragon Pulse": "115",
+            "Stealth Rock": "116",
+            "Hyper Voice": "117",
+            "Heat Wave": "118",
+            "Energy Ball": "119",
+            "Psychic": "120",
+            "Heavy Slam": "121",
+            "Surf": "123",
+            "Flamethrower": "125",
+            "Thunderbolt": "126",
+            "Calm Mind": "129",
+            "Earth Power": "133",
+            "Ice Beam": "135",
+            "Electric Terrain": "136",
+            "Grassy Terrain": "137",
+            "Psychic Terrain": "138",
+            "Misty Terrain": "139",
+            "Fire Blast": "141",
+            "Hydro Pump": "142",
+            "Blizzard": "143",
+            "Wild Charge": "147",
+            "Sludge Bomb": "148",
+            "Earthquake": "149",
+            "Stone Edge": "150",
+            "Phantom Force": "151",
+            "Giga Impact": "152",
+            "Outrage": "156",
+            "Overheat": "157",
+            "Focus Blast": "158",
+            "Hurricane": "160",
+            "Trick Room": "161",
+            "Bug Buzz": "162",
+            "Hyper Beam": "163",
+            "Flare Blitz": "165",
+            "Thunder": "166",
+            "Solar Beam": "168",
+            "Draco Meteor": "169",
+            "Steel Beam": "170",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Arceus": [
+            "It is described in mythology as the Pok\u00e9mon that shaped the universe with its 1,000 arms.",
+            "It is told in mythology that this Pok\u00e9mon was born before the universe even existed.",
+            "It is said to have emerged from an egg in a place where there was nothing, then shaped the world.",
+            "According to the legends of Sinnoh, this Pok\u00e9mon emerged from an egg and shaped all there is in this world.",
+            "It is said to have emerged from an egg in a place where there was nothing, then shaped the world.",
+            "It is said to have emerged from an egg in a place where there was nothing then shaped the world.",
+            "According to the legends of Sinnoh, this Pok\u00e9mon emerged from an egg and shaped all there is in this world.",
+            "It is told in mythology that this Pok\u00e9mon was born before the universe even existed.",
+            "It is described in mythology as the Pok\u00e9mon that shaped the universe with its 1,000 arms.",
+            "It is told in mythology that this Pok\u00e9mon was the first Pok\u00e9mon born before the universe even existed.",
+            "It is the heavenly fount from which pours the light that shines across Hisui. Its luminance guides and protects all Pok\u00e9mon. Hisuian mythology states that Arceus is the creator of all things."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790442808217671/493.png",
+    "discord_sprite": "<:P493:1132134426604740678>"
+}

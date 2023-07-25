@@ -1,0 +1,295 @@
+{
+    "alt-version(s)": [
+        "Male",
+        "Female"
+    ],
+    "Male": {
+        "pokedex_data": {
+            "National No.": "0902",
+            "Type": [
+                "Water",
+                "Ghost"
+            ],
+            "Species": "Big Fish Poke\u0301mon",
+            "Height": "3.0 m (9\u203210\u2032\u2032)",
+            "Weight": "110.0 kg (242.5 lbs)",
+            "Abilities": {
+                "Swift Swim": {
+                    "href": "/ability/swift-swim",
+                    "effect": "Boosts the Pok\u00e9mon's Speed in rain.",
+                    "hidden": false
+                },
+                "Adaptability": {
+                    "href": "/ability/adaptability",
+                    "effect": "Powers up moves of the same type.",
+                    "hidden": false
+                },
+                "Mold Breaker": {
+                    "href": "/ability/mold-breaker",
+                    "effect": "Moves can be used regardless of Abilities.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 HP",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "265",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "100% male,0% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "120",
+                "Min": "350",
+                "Max": "444"
+            },
+            "Attack": {
+                "Base": "112",
+                "Min": "206",
+                "Max": "355"
+            },
+            "Defense": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Atk": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Sp. Def": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Speed": {
+                "Base": "78",
+                "Min": "144",
+                "Max": "280"
+            },
+            "Total": "530"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "no effect",
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "no effect",
+                "Poison": "not very effective",
+                "Bug": "not very effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "Female": {
+        "pokedex_data": {
+            "National No.": "0902",
+            "Type": [
+                "Water",
+                "Ghost"
+            ],
+            "Species": "Big Fish Poke\u0301mon",
+            "Height": "3.0 m (9\u203210\u2032\u2032)",
+            "Weight": "110.0 kg (242.5 lbs)",
+            "Abilities": {
+                "Swift Swim": {
+                    "href": "/ability/swift-swim",
+                    "effect": "Boosts the Pok\u00e9mon's Speed in rain.",
+                    "hidden": false
+                },
+                "Adaptability": {
+                    "href": "/ability/adaptability",
+                    "effect": "Powers up moves of the same type.",
+                    "hidden": false
+                },
+                "Mold Breaker": {
+                    "href": "/ability/mold-breaker",
+                    "effect": "Moves can be used regardless of Abilities.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 HP",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "265",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "0% male,100% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "120",
+                "Min": "350",
+                "Max": "444"
+            },
+            "Attack": {
+                "Base": "92",
+                "Min": "170",
+                "Max": "311"
+            },
+            "Defense": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Atk": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Sp. Def": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Speed": {
+                "Base": "78",
+                "Min": "144",
+                "Max": "280"
+            },
+            "Total": "530"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "no effect",
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "no effect",
+                "Poison": "not very effective",
+                "Bug": "not very effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Basculin",
+                    "nationalNo": "#0550",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": "White-Striped Form"
+                },
+                "to": {
+                    "name": "Basculegion",
+                    "nationalNo": "#0902",
+                    "type": [
+                        "Water",
+                        "Ghost"
+                    ],
+                    "nickname": "Male"
+                },
+                "requirement": "(Male, receive 294 recoil damage in battle)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Basculin",
+                    "nationalNo": "#0550",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": "White-Striped Form"
+                },
+                "to": {
+                    "name": "Basculegion",
+                    "nationalNo": "#0902",
+                    "type": [
+                        "Water",
+                        "Ghost"
+                    ],
+                    "nickname": "Female"
+                },
+                "requirement": "(Female, receive 294 recoil damage in battle)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Phantom Force": "1",
+            "Shadow Ball": "1",
+            "Tail Whip": "1",
+            "Water Gun": "1",
+            "Tackle": "4",
+            "Flail": "8",
+            "Aqua Jet": "12",
+            "Bite": "16",
+            "Scary Face": "20",
+            "Headbutt": "24",
+            "Soak": "28",
+            "Crunch": "32",
+            "Take Down": "36",
+            "Uproar": "40",
+            "Wave Crash": "44",
+            "Thrash": "48",
+            "Double-Edge": "52",
+            "Head Smash": "56"
+        },
+        "egg": {
+            "Endeavor": null,
+            "Last Respects": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Agility": "04",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Ice Fang": "10",
+            "Water Pulse": "11",
+            "Confuse Ray": "17",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Hex": "29",
+            "Icy Wind": "34",
+            "Mud Shot": "35",
+            "Night Shade": "42",
+            "Rain Dance": "50",
+            "Snowscape": "52",
+            "Psychic Fangs": "63",
+            "Sleep Talk": "70",
+            "Waterfall": "77",
+            "Rest": "85",
+            "Substitute": "103",
+            "Crunch": "108",
+            "Liquidation": "110",
+            "Shadow Ball": "114",
+            "Surf": "123",
+            "Ice Beam": "135",
+            "Hydro Pump": "142",
+            "Blizzard": "143",
+            "Phantom Force": "151",
+            "Giga Impact": "152",
+            "Outrage": "156",
+            "Hyper Beam": "163",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Basculegion": [
+            "Clads itself in the souls of comrades that perished before fulfilling their goals of journeying upstream. No other species throughout all Hisui\u2019s rivers is Basculegion\u2019s equal."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793634912636949/902.png",
+    "discord_sprite": "<:P902:1132152489806938252>"
+}

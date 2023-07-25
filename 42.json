@@ -1,0 +1,229 @@
+{
+    "alt-version(s)": [],
+    "name": "Golbat",
+    "Golbat": {
+        "pokedex_data": {
+            "National No.": "0042",
+            "Type": [
+                "Poison",
+                "Flying"
+            ],
+            "Species": "Bat Poke\u0301mon",
+            "Height": "1.6 m (5\u203203\u2032\u2032)",
+            "Weight": "55.0 kg (121.3 lbs)",
+            "Abilities": {
+                "Inner Focus": {
+                    "href": "/ability/inner-focus",
+                    "effect": "The Pok\u00e9mon is protected from flinching.",
+                    "hidden": false
+                },
+                "Infiltrator": {
+                    "href": "/ability/infiltrator",
+                    "effect": "Passes through the foe's barrier and strikes.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Speed",
+            "Catch rate": "90",
+            "BaseFriendship": "50",
+            "Base Exp.": "159",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "75",
+                "Min": "260",
+                "Max": "354"
+            },
+            "Attack": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Defense": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Atk": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Def": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Speed": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Total": "455"
+        },
+        "defense_stats": {
+            "default": {
+                "Electric": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Poison": "not very effective",
+                "Ground": "no effect",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Zubat",
+                    "nationalNo": "#0041",
+                    "type": [
+                        "Poison",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Golbat",
+                    "nationalNo": "#0042",
+                    "type": [
+                        "Poison",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 22)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Golbat",
+                    "nationalNo": "#0042",
+                    "type": [
+                        "Poison",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Crobat",
+                    "nationalNo": "#0169",
+                    "type": [
+                        "Poison",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(high Friendship)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Absorb": "1",
+            "Astonish": "1",
+            "Mean Look": "1",
+            "Screech": "1",
+            "Supersonic": "1",
+            "Poison Fang": "15",
+            "Quick Guard": "20",
+            "Air Cutter": "27",
+            "Bite": "34",
+            "Haze": "41",
+            "Venoshock": "48",
+            "Confuse Ray": "55",
+            "Air Slash": "62",
+            "Leech Life": "69"
+        },
+        "egg": {
+            "Brave Bird": null,
+            "Curse": null,
+            "Gust": null,
+            "Hypnosis": null,
+            "Quick Attack": null,
+            "Venom Drench": null,
+            "Whirlwind": null,
+            "Wing Attack": null,
+            "Zen Headbutt": null
+        },
+        "tm": {
+            "Sunny Day": "11",
+            "Taunt": "12",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Giga Drain": "19",
+            "Shadow Ball": "30",
+            "Double Team": "32",
+            "Sludge Bomb": "36",
+            "Aerial Ace": "40",
+            "Torment": "41",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Steel Wing": "47",
+            "Roost": "51",
+            "Endure": "58",
+            "Nasty Plot": "63",
+            "Payback": "66",
+            "Giga Impact": "68",
+            "Sleep Talk": "82",
+            "Swagger": "87",
+            "Pluck": "88",
+            "U-turn": "89",
+            "Substitute": "90",
+            "Fly": "94",
+            "Defog": "97"
+        }
+    },
+    "entries": {
+        "Golbat": [
+            "Once it strikes, it will not stop draining energy from the victim even if it gets too heavy to fly.",
+            "It attacks in a stealthy manner, without warning. Its sharp fangs are used to bite and suck blood.",
+            "However hard its victim\u2019s hide may be, it punctures with sharp fangs and gorges itself with blood.",
+            "It can drink more than 10 ounces of blood at once. If it has too much, it gets heavy and flies clumsily.",
+            "When it plunges its fangs into its prey, it instantly draws and gulps down more than ten ounces of blood.",
+            "GOLBAT loves to drink the blood of living things. It is particularly active in the pitch black of night. This pok\u00e9mon flits around in the night skies, seeking fresh blood.",
+            "GOLBAT bites down on prey with its four fangs and drinks the victim\u2019s blood. It becomes active on inky dark moonless nights, flying around to attack people and pok\u00e9mon.",
+            "It clamps down on its prey with needle-sharp fangs and drains over 10 ounces of blood in one gulp.",
+            "Once it bites, it will not stop draining energy from the victim even if it gets too heavy to fly.",
+            "Its fangs easily puncture even thick animal hide. It loves to feast on the blood of people and pok\u00e9mon. It flits about in darkness and strikes from behind.",
+            "It loves the blood of humans and Pok\u00e9mon. It flies around at night in search of neck veins.",
+            "Once it starts sucking blood, it does not stop until it is full. It flies at night in search of prey.",
+            "Its sharp fangs puncture the toughest of hides and have small holes for greedily sucking blood.",
+            "However hard its victim\u2019s hide may be, it punctures with sharp fangs and gorges itself with blood.",
+            "It can drink more than 10 ounces of blood at once. If it has too much, it gets heavy and flies clumsily.",
+            "Its sharp fangs puncture the toughest of hides and have small holes for greedily sucking blood.",
+            "Flitting around in the dead of night, it sinks its fangs into its prey and drains a nearly fatal amount of blood.",
+            "Once it bites, it will not stop draining energy from the victim even if it gets too heavy to fly.",
+            "Once it starts sucking blood, it does not stop until it is full. It flies at night in search of prey.",
+            "Golbat loves to drink the blood of living things. It is particularly active in the pitch black of night. This Pok\u00e9mon flits around in the night skies, seeking fresh blood.",
+            "Golbat bites down on prey with its four fangs and drinks the victim\u2019s blood. It becomes active on inky dark moonless nights, flying around to attack people and Pok\u00e9mon.",
+            "Its thick fangs are hollow like straws, making them unexpectedly fragile. These fangs are specialized for sucking blood.",
+            "Sometimes they drink so much blood, they can\u2019t fly anymore. Then they fall to the ground and become food for other Pok\u00e9mon.",
+            "Every once in a while, you\u2019ll see a Golbat that\u2019s missing some fangs. This happens when hunger drives it to try biting a Steel-type Pok\u00e9mon.",
+            "They can suck down over 10 ounces of blood in one go. They have been known to drink so much blood that they can no longer fly.",
+            "It attacks in a stealthy manner, without warning. Its sharp fangs are used to bite and to suck blood.",
+            "It loves to drink other creatures\u2019 blood. It\u2019s said that if it finds others of its kind going hungry, it sometimes shares the blood it\u2019s gathered.",
+            "Its feet are tiny, but this Pok\u00e9mon walks skillfully. It sneaks up on sleeping prey before sinking in its fangs and slurping up blood.",
+            "It loves the blood of humans and Pok\u00e9mon. It flies around at night in search of neck veins.",
+            "Once it starts sucking blood, it does not stop until it is full. It flies at night in search of prey.",
+            "It sinks its sharp fangs into other creatures and slurps up their blood. A closer look at the fangs reveals that they are hollow and akin to straws."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131786918363926649/42.png",
+    "discord_sprite": "<:P42:1131973739999932477>"
+}

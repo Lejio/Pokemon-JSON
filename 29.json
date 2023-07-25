@@ -1,0 +1,217 @@
+{
+    "alt-version(s)": [],
+    "name": "Nidoranls (female)",
+    "Nidoran\u2640 (female)": {
+        "pokedex_data": {
+            "National No.": "0029",
+            "Type": [
+                "Poison"
+            ],
+            "Species": "Poison Pin Poke\u0301mon",
+            "Height": "0.4 m (1\u203204\u2032\u2032)",
+            "Weight": "7.0 kg (15.4 lbs)",
+            "Abilities": {
+                "Poison Point": {
+                    "href": "/ability/poison-point",
+                    "effect": "Contact with the Pok\u00e9mon may poison the attacker.",
+                    "hidden": false
+                },
+                "Rivalry": {
+                    "href": "/ability/rivalry",
+                    "effect": "Deals more damage to a Pok\u00e9mon of same gender.",
+                    "hidden": false
+                },
+                "Hustle": {
+                    "href": "/ability/hustle",
+                    "effect": "Boosts the Attack stat, but lowers accuracy.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 HP",
+            "Catch rate": "235",
+            "BaseFriendship": "50",
+            "Base Exp.": "55",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "0% male,100% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "55",
+                "Min": "220",
+                "Max": "314"
+            },
+            "Attack": {
+                "Base": "47",
+                "Min": "89",
+                "Max": "212"
+            },
+            "Defense": {
+                "Base": "52",
+                "Min": "98",
+                "Max": "223"
+            },
+            "Sp. Atk": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Def": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Speed": {
+                "Base": "41",
+                "Min": "78",
+                "Max": "199"
+            },
+            "Total": "275"
+        },
+        "defense_stats": {
+            "default": {
+                "Grass": "not very effective",
+                "Fighting": "not very effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Nidoran\u2640",
+                    "nationalNo": "#0029",
+                    "type": [
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Nidorina",
+                    "nationalNo": "#0030",
+                    "type": [
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 16)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Nidorina",
+                    "nationalNo": "#0030",
+                    "type": [
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Nidoqueen",
+                    "nationalNo": "#0031",
+                    "type": [
+                        "Poison",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Moon Stone)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Growl": "1",
+            "Poison Sting": "1",
+            "Scratch": "5",
+            "Tail Whip": "10",
+            "Fury Swipes": "15",
+            "Toxic Spikes": "20",
+            "Double Kick": "25",
+            "Bite": "30",
+            "Helping Hand": "35",
+            "Toxic": "40",
+            "Flatter": "45",
+            "Crunch": "50",
+            "Earth Power": "55"
+        },
+        "egg": {
+            "Beat Up": null,
+            "Charm": null,
+            "Counter": null,
+            "Disable": null,
+            "Focus Energy": null,
+            "Poison Fang": null,
+            "Poison Tail": null,
+            "Skull Bash": null,
+            "Supersonic": null,
+            "Take Down": null,
+            "Venom Drench": null
+        },
+        "tm": {
+            "Water Pulse": "03",
+            "Toxic": "06",
+            "Sunny Day": "11",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Iron Tail": "23",
+            "Thunderbolt": "24",
+            "Thunder": "25",
+            "Dig": "28",
+            "Double Team": "32",
+            "Shock Wave": "34",
+            "Sludge Bomb": "36",
+            "Aerial Ace": "40",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Endure": "58",
+            "Shadow Claw": "65",
+            "Sleep Talk": "82",
+            "Poison Jab": "84",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Cut": "93",
+            "Strength": "96",
+            "Rock Smash": "98"
+        }
+    },
+    "entries": {
+        "Nidoran\u2640 (female)": [
+            "Although small, its venomous barbs render this pok\u00e9mon dangerous. The female has smaller horns.",
+            "A mild-mannered pok\u00e9mon that does not like to fight. Beware, its small horns secrete venom.",
+            "The poison hidden in its small horn is extremely potent. Even a tiny scratch can have fatal results.",
+            "Although not very combative, it will torment its foes with poison spikes if it is threatened in any way.",
+            "Small and very docile, it protects itself with its small, poisonous horn when attacked.",
+            "NIDORAN has barbs that secrete a powerful poison. They are thought to have developed as protection for this small-bodied pok\u00e9mon. When enraged, it releases a horrible toxin from its horn.",
+            "Though small, it must be treated with caution because of its powerfully toxic barbs. The female has smaller horns.",
+            "Although small, its venomous barbs render this pok\u00e9mon dangerous. The female has smaller horns.",
+            "Its highly toxic barbs are thought to have developed as protection for this small-bodied pok\u00e9mon. When enraged, it releases a horrible toxin from its horn.",
+            "While it does not prefer to fight, even one drop of the poison it secretes from barbs can be fatal.",
+            "The poison hidden in its small horn is extremely potent. Even a tiny scratch can have fatal results.",
+            "Although not very combative, it will torment its foes with poison spikes if it is threatened in any way.",
+            "While it does not prefer to fight, even one drop of the poison it secretes from barbs can be fatal.",
+            "Although small, its venomous barbs render this Pok\u00e9mon dangerous. The female has smaller horns.",
+            "Small and very docile, it protects itself with its small, poisonous horn when attacked.",
+            "Nidoran\u2640 has barbs that secrete a powerful poison. They are thought to have developed as protection for this small-bodied Pok\u00e9mon. When enraged, it releases a horrible toxin from its horn.",
+            "A mild-mannered Pok\u00e9mon that does not like to fight. Beware\u2014its small horn secretes venom.",
+            "Females are more sensitive to smells than males. While foraging, they\u2019ll use their whiskers to check wind direction and stay downwind of predators.",
+            "It uses its hard incisor teeth to crush and eat berries. The tip of a female Nidoran\u2019s horn is a bit more rounded than the tip of a male\u2019s horn.",
+            "While this Pok\u00e9mon does not prefer to fight, even one drop of the venom it secretes from its barbs can be fatal."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131786815637045318/29.png",
+    "discord_sprite": "<:P29:1131973166961533038>"
+}

@@ -1,0 +1,191 @@
+{
+    "alt-version(s)": [],
+    "name": "Lileep",
+    "Lileep": {
+        "pokedex_data": {
+            "National No.": "0345",
+            "Type": [
+                "Rock",
+                "Grass"
+            ],
+            "Species": "Sea Lily Poke\u0301mon",
+            "Height": "1.0 m (3\u203203\u2032\u2032)",
+            "Weight": "23.8 kg (52.5 lbs)",
+            "Abilities": {
+                "Suction Cups": {
+                    "href": "/ability/suction-cups",
+                    "effect": "Negates all moves that force switching out.",
+                    "hidden": false
+                },
+                "Storm Drain": {
+                    "href": "/ability/storm-drain",
+                    "effect": "Draws in all Water-type moves to up Sp. Attack.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Sp. Def",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "71",
+            "Growth Rate": "Erratic"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "66",
+                "Min": "242",
+                "Max": "336"
+            },
+            "Attack": {
+                "Base": "41",
+                "Min": "78",
+                "Max": "199"
+            },
+            "Defense": {
+                "Base": "77",
+                "Min": "143",
+                "Max": "278"
+            },
+            "Sp. Atk": {
+                "Base": "61",
+                "Min": "114",
+                "Max": "243"
+            },
+            "Sp. Def": {
+                "Base": "87",
+                "Min": "161",
+                "Max": "300"
+            },
+            "Speed": {
+                "Base": "23",
+                "Min": "45",
+                "Max": "159"
+            },
+            "Total": "355"
+        },
+        "defense_stats": {
+            "Suction Cups ability": {
+                "Normal": "not very effective",
+                "Electric": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "super-effective",
+                "Bug": "super-effective",
+                "Steel": "super-effective"
+            },
+            "Storm Drain ability": {
+                "Normal": "not very effective",
+                "Water": "no effect",
+                "Electric": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "super-effective",
+                "Bug": "super-effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Lileep",
+                    "nationalNo": "#0345",
+                    "type": [
+                        "Rock",
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Cradily",
+                    "nationalNo": "#0346",
+                    "type": [
+                        "Rock",
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 40)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Astonish": "1",
+            "Wrap": "1",
+            "Acid": "4",
+            "Confuse Ray": "8",
+            "Ingrain": "12",
+            "Ancient Power": "16",
+            "Mega Drain": "20",
+            "Brine": "24",
+            "Amnesia": "28",
+            "Gastro Acid": "32",
+            "Giga Drain": "36",
+            "Spit Up": "41",
+            "Stockpile": "41",
+            "Swallow": "41",
+            "Energy Ball": "44"
+        },
+        "egg": {
+            "Bind": null,
+            "Curse": null,
+            "Mega Drain": null,
+            "Mirror Coat": null,
+            "Recover": null,
+            "Tickle": null
+        },
+        "tm": {
+            "Bullet Seed": "09",
+            "Sunny Day": "11",
+            "Protect": "17",
+            "Giga Drain": "19",
+            "Solar Beam": "22",
+            "Double Team": "32",
+            "Sludge Bomb": "36",
+            "Sandstorm": "37",
+            "Rock Tomb": "39",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Energy Ball": "53",
+            "Brine": "55",
+            "Endure": "58",
+            "Rock Polish": "69",
+            "Flash": "70",
+            "Swords Dance": "75",
+            "Stealth Rock": "76",
+            "Rock Slide": "80",
+            "Sleep Talk": "82",
+            "Grass Knot": "86",
+            "Swagger": "87",
+            "Substitute": "90"
+        }
+    },
+    "entries": {
+        "Lileep": [
+            "LILEEP became extinct approximately a hundred million years ago. This ancient pok\u00e9mon attaches itself to a rock on the seafloor and catches approaching prey using tentacles shaped like flower petals.",
+            "LILEEP is an ancient pok\u00e9mon that was regenerated from a fossil. It remains permanently anchored to a rock. From its immobile perch, this pok\u00e9mon intently scans for prey with its two eyes.",
+            "It became extinct roughly 100 million years ago. It was regenerated from a fossil using advanced techniques.",
+            "It disguises itself as seaweed by making its tentacles sway. Unsuspecting prey that come too close are swallowed whole. It became extinct 100 million years ago.",
+            "It lived on the seafloor 100 million years ago and was reanimated scientifically.",
+            "It disguises its tentacles as flowers to attract and catch prey. It became extinct in ancient times.",
+            "It lived on the seafloor 100 million years ago and was reanimated scientifically.",
+            "It disguises its tentacles as flowers to attract and catch prey. It became extinct in ancient times.",
+            "It lived on the seafloor 100 million years ago and was reanimated scientifically.",
+            "Lileep became extinct approximately a hundred million years ago. This ancient Pok\u00e9mon attaches itself to a rock on the seafloor and catches approaching prey using tentacles shaped like flower petals.",
+            "Lileep is an ancient Pok\u00e9mon that was regenerated from a fossil. It remains permanently anchored to a rock. From its immobile perch, this Pok\u00e9mon intently scans for prey with its two eyes.",
+            "In ancient times, it lived in warm seas. It disguised itself as seaweed to ambush its prey and devoured them whole when they got close.",
+            "It sticks to rocks with its powerful suckers and can\u2019t be washed away no matter how rough the surf gets.",
+            "This Pok\u00e9mon was restored from a fossil. Lileep once lived in warm seas that existed approximately 100,000,000 years ago.",
+            "Lileep clings to rocks on the seabed. When prey comes close, this Pok\u00e9mon entangles it with petallike tentacles.",
+            "It lived on the seafloor 100 million years ago and was reanimated scientifically."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789297293459626/345.png",
+    "discord_sprite": "<:P345:1132127917615353866>"
+}

@@ -1,0 +1,414 @@
+{
+    "alt-version(s)": [
+        "Alolan Muk"
+    ],
+    "name": "Muk",
+    "Muk": {
+        "pokedex_data": {
+            "National No.": "0089",
+            "Type": [
+                "Poison"
+            ],
+            "Species": "Sludge Poke\u0301mon",
+            "Height": "1.2 m (3\u203211\u2032\u2032)",
+            "Weight": "30.0 kg (66.1 lbs)",
+            "Abilities": {
+                "Stench": {
+                    "href": "/ability/stench",
+                    "effect": "The stench may cause the target to flinch.",
+                    "hidden": false
+                },
+                "Sticky Hold": {
+                    "href": "/ability/sticky-hold",
+                    "effect": "Protects the Pok\u00e9mon from item theft.",
+                    "hidden": false
+                },
+                "Poison Touch": {
+                    "href": "/ability/poison-touch",
+                    "effect": "May poison targets when a Pok\u00e9mon makes contact.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 HP, 1 Attack",
+            "Catch rate": "75",
+            "BaseFriendship": "50",
+            "Base Exp.": "175",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "105",
+                "Min": "320",
+                "Max": "414"
+            },
+            "Attack": {
+                "Base": "105",
+                "Min": "193",
+                "Max": "339"
+            },
+            "Defense": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Sp. Atk": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Def": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Speed": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Total": "500"
+        },
+        "defense_stats": {
+            "default": {
+                "Grass": "not very effective",
+                "Fighting": "not very effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "Alolan Muk": {
+        "pokedex_data": {
+            "National No.": "0089",
+            "Type": [
+                "Poison",
+                "Dark"
+            ],
+            "Species": "Sludge Poke\u0301mon",
+            "Height": "1.0 m (3\u203203\u2032\u2032)",
+            "Weight": "52.0 kg (114.6 lbs)",
+            "Abilities": {
+                "Poison Touch": {
+                    "href": "/ability/poison-touch",
+                    "effect": "May poison targets when a Pok\u00e9mon makes contact.",
+                    "hidden": false
+                },
+                "Gluttony": {
+                    "href": "/ability/gluttony",
+                    "effect": "Encourages the early use of a held Berry.",
+                    "hidden": false
+                },
+                "Power of Alchemy": {
+                    "href": "/ability/power-of-alchemy",
+                    "effect": "The Pok\u00e9mon copies the Ability of a defeated ally.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 HP, 1 Attack",
+            "Catch rate": "75",
+            "BaseFriendship": "50",
+            "Base Exp.": "175",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "105",
+                "Min": "320",
+                "Max": "414"
+            },
+            "Attack": {
+                "Base": "105",
+                "Min": "193",
+                "Max": "339"
+            },
+            "Defense": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Sp. Atk": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Def": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Speed": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Total": "500"
+        },
+        "defense_stats": {
+            "default": {
+                "Grass": "not very effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Psychic": "no effect",
+                "Ghost": "not very effective",
+                "Dark": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Grimer",
+                    "nationalNo": "#0088",
+                    "type": [
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Muk",
+                    "nationalNo": "#0089",
+                    "type": [
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 38)",
+                "shed": null
+            }
+        ],
+        [
+            {
+                "from": {
+                    "name": "Grimer",
+                    "nationalNo": "#0088",
+                    "type": [
+                        "Poison",
+                        "Dark"
+                    ],
+                    "nickname": "Alolan Grimer"
+                },
+                "to": {
+                    "name": "Muk",
+                    "nationalNo": "#0089",
+                    "type": [
+                        "Poison",
+                        "Dark"
+                    ],
+                    "nickname": "Alolan Muk"
+                },
+                "requirement": "(Level 38)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "Muk": {
+            "moves": {
+                "Harden": "1",
+                "Mud-Slap": "1",
+                "Poison Gas": "1",
+                "Pound": "1",
+                "Disable": "12",
+                "Sludge": "15",
+                "Mud Shot": "18",
+                "Minimize": "21",
+                "Toxic": "26",
+                "Sludge Bomb": "29",
+                "Sludge Wave": "32",
+                "Screech": "37",
+                "Gunk Shot": "40",
+                "Acid Armor": "46",
+                "Belch": "52",
+                "Memento": "57"
+            },
+            "egg": {
+                "Acid Spray": null,
+                "Curse": null,
+                "Haze": null,
+                "Mean Look": null,
+                "Shadow Punch": null,
+                "Shadow Sneak": null,
+                "Spit Up": null,
+                "Stockpile": null,
+                "Swallow": null
+            },
+            "tm": {
+                "Take Down": "01",
+                "Mud-Slap": "05",
+                "Scary Face": "06",
+                "Protect": "07",
+                "Acid Spray": "13",
+                "Confuse Ray": "17",
+                "Thief": "18",
+                "Facade": "25",
+                "Hex": "29",
+                "Swift": "32",
+                "Mud Shot": "35",
+                "Rock Tomb": "36",
+                "Fling": "43",
+                "Venoshock": "45",
+                "Endure": "47",
+                "Sunny Day": "49",
+                "Rain Dance": "50",
+                "Sandstorm": "51",
+                "Dig": "55",
+                "Brick Break": "58",
+                "Zen Headbutt": "59",
+                "Body Slam": "66",
+                "Fire Punch": "67",
+                "Thunder Punch": "68",
+                "Ice Punch": "69",
+                "Sleep Talk": "70",
+                "Drain Punch": "73",
+                "Metronome": "80",
+                "Poison Jab": "83",
+                "Rest": "85",
+                "Rock Slide": "86",
+                "Taunt": "87",
+                "Toxic Spikes": "91",
+                "Imprison": "92",
+                "Dark Pulse": "94",
+                "Gunk Shot": "102",
+                "Substitute": "103",
+                "Giga Drain": "111",
+                "Shadow Ball": "114",
+                "Flamethrower": "125",
+                "Thunderbolt": "126",
+                "Helping Hand": "130",
+                "Fire Blast": "141",
+                "Sludge Bomb": "148",
+                "Giga Impact": "152",
+                "Focus Blast": "158",
+                "Hyper Beam": "163",
+                "Thunder": "166",
+                "Tera Blast": "171"
+            }
+        },
+        "Alolan Muk": {
+            "moves": {
+                "Bite": "1",
+                "Harden": "1",
+                "Poison Gas": "1",
+                "Pound": "1",
+                "Disable": "12",
+                "Acid Spray": "15",
+                "Poison Fang": "18",
+                "Minimize": "21",
+                "Toxic": "26",
+                "Knock Off": "29",
+                "Crunch": "32",
+                "Screech": "37",
+                "Gunk Shot": "40",
+                "Acid Armor": "46",
+                "Belch": "52",
+                "Memento": "57"
+            },
+            "tm": {
+                "Take Down": "01",
+                "Mud-Slap": "05",
+                "Scary Face": "06",
+                "Protect": "07",
+                "Acid Spray": "13",
+                "Thief": "18",
+                "Facade": "25",
+                "Hex": "29",
+                "Snarl": "30",
+                "Swift": "32",
+                "Mud Shot": "35",
+                "Rock Tomb": "36",
+                "Fling": "43",
+                "Venoshock": "45",
+                "Endure": "47",
+                "Sunny Day": "49",
+                "Rain Dance": "50",
+                "Sandstorm": "51",
+                "Dig": "55",
+                "Brick Break": "58",
+                "Zen Headbutt": "59",
+                "Body Slam": "66",
+                "Fire Punch": "67",
+                "Thunder Punch": "68",
+                "Ice Punch": "69",
+                "Sleep Talk": "70",
+                "Drain Punch": "73",
+                "Metronome": "80",
+                "Poison Jab": "83",
+                "Rest": "85",
+                "Rock Slide": "86",
+                "Taunt": "87",
+                "Imprison": "92",
+                "Dark Pulse": "94",
+                "Gunk Shot": "102",
+                "Substitute": "103",
+                "Crunch": "108",
+                "Giga Drain": "111",
+                "Shadow Ball": "114",
+                "Flamethrower": "125",
+                "Thunderbolt": "126",
+                "Helping Hand": "130",
+                "Fire Blast": "141",
+                "Sludge Bomb": "148",
+                "Stone Edge": "150",
+                "Giga Impact": "152",
+                "Focus Blast": "158",
+                "Hyper Beam": "163",
+                "Thunder": "166",
+                "Tera Blast": "171"
+            }
+        }
+    },
+    "entries": {
+        "Muk": [
+            "Thickly covered with a filthy, vile sludge. It is so toxic, even its footprints contain poison.",
+            "Smells so awful, it can cause fainting. Through degeneration, it lost its sense of smell.",
+            "They love to gather in smelly areas where sludge accumulates, making the stench around them worse.",
+            "Its body is made of a powerful poison. Touching it accidentally will cause a fever that requires bed rest.",
+            "As it moves, a very strong poison leaks from it, making the ground there barren for three years.",
+            "From MUK\u2019s body seeps a foul fluid that gives off a nose-bendingly horrible stench. Just one drop of this pok\u00e9mon\u2019s body fluid can turn a pool stagnant and rancid.",
+            "This pok\u00e9mon\u2019s favorite food is anything that is repugnantly filthy. In dirty towns where people think nothing of throwing away litter on the streets, MUK are certain to gather.",
+            "It is usually undetectable because it blends in with the ground. Touching it can cause terrible poisoning.",
+            "Thickly covered with a filthy, vile sludge. It is so toxic, even its footprints contain poison.",
+            "It prefers warm and humid habitats. In the summertime, the toxic substances in its body intensify, making MUK reek like putrid kitchen garbage.",
+            "A toxic fluid seeps from its body. The fluid instantly kills plants and trees on contact.",
+            "They love to gather in smelly areas where sludge accumulates, making the stench around them worse.",
+            "Its body is made of a powerful poison. Touching it accidentally will cause a fever that requires bed rest.",
+            "A toxic fluid seeps from its body. The fluid instantly kills plants and trees on contact.",
+            "It\u2019s so stinky! Muk\u2019s body contains toxic elements, and any plant will wilt when it passes by.",
+            "They love to gather in smelly areas where sludge accumulates, making the stench around them worse.",
+            "A toxic fluid seeps from its body. The fluid instantly kills plants and trees on contact.",
+            "From Muk\u2019s body seeps a foul fluid that gives off a nose-bendingly horrible stench. Just one drop of this Pok\u00e9mon\u2019s body fluid can turn a pool stagnant and rancid.",
+            "This Pok\u00e9mon\u2019s favorite food is anything that is repugnantly filthy. In dirty towns where people think nothing of throwing away litter on the streets, Muk are certain to gather.",
+            "The stench it gives off will make your nose scrunch up. Still, there are Muk fans who think that\u2019s a good thing.",
+            "After recent environmental improvements, this Pok\u00e9mon is now hardly seen at all. People speculate that it may go extinct at some point.",
+            "Their food sources have decreased, and their numbers have declined sharply. Sludge ponds are being built to prevent their extinction.",
+            "Because they scatter germs everywhere, they\u2019ve long been targeted for extermination, leading to a steep decline in their population.",
+            "Smells so awful, it can cause fainting. Through degeneration of its nose, it lost its sense of smell.",
+            "A toxic fluid seeps from its body. The fluid kills plants and trees immediately upon contact.",
+            "It\u2019s thickly covered with a filthy, vile sludge. It is so toxic, even its footprints contain poison.",
+            "It\u2019s so stinky! Muk\u2019s body contains toxic elements, and any plant will wilt when it passes by."
+        ],
+        "Alolan Muk": [
+            "The garbage it eats causes continuous chemical changes in its body, which produce its exceedingly vivid coloration.",
+            "While it\u2019s unexpectedly quiet and friendly, if it\u2019s not fed any trash for a while, it will smash its Trainer\u2019s furnishings and eat up the fragments.",
+            "There are over a hundred kinds of poison inside its body. Chemical reactions between different poisons are the source of its vitality.",
+            "What look like fangs and claws are actually crystallized poison that will afflict you at a mere touch, so don\u2019t get too close.",
+            "Muk\u2019s coloration becomes increasingly vivid the more it feasts on its favorite dish\u2014trash."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787286036611082/89.png",
+    "discord_sprite": "<:P89:1132116640016908340>"
+}

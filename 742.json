@@ -1,0 +1,189 @@
+{
+    "alt-version(s)": [],
+    "name": "Cutiefly",
+    "Cutiefly": {
+        "pokedex_data": {
+            "National No.": "0742",
+            "Type": [
+                "Bug",
+                "Fairy"
+            ],
+            "Species": "Bee Fly Poke\u0301mon",
+            "Height": "0.1 m (0\u203204\u2032\u2032)",
+            "Weight": "0.2 kg (0.4 lbs)",
+            "Abilities": {
+                "Honey Gather": {
+                    "href": "/ability/honey-gather",
+                    "effect": "The Pok\u00e9mon may gather Honey from somewhere.",
+                    "hidden": false
+                },
+                "Shield Dust": {
+                    "href": "/ability/shield-dust",
+                    "effect": "Blocks the added effects of attacks taken.",
+                    "hidden": false
+                },
+                "Sweet Veil": {
+                    "href": "/ability/sweet-veil",
+                    "effect": "Prevents the Pok\u00e9mon and allies from falling asleep.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Speed",
+            "Catch rate": "190",
+            "BaseFriendship": "50",
+            "Base Exp.": "61",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "40",
+                "Min": "190",
+                "Max": "284"
+            },
+            "Attack": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Defense": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Atk": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Sp. Def": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Speed": {
+                "Base": "84",
+                "Min": "155",
+                "Max": "293"
+            },
+            "Total": "304"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Grass": "not very effective",
+                "Fighting": "not very effective",
+                "Poison": "super-effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Dragon": "no effect",
+                "Dark": "not very effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Cutiefly",
+                    "nationalNo": "#0742",
+                    "type": [
+                        "Bug",
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Ribombee",
+                    "nationalNo": "#0743",
+                    "type": [
+                        "Bug",
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 25)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Absorb": "1",
+            "Fairy Wind": "1",
+            "Stun Spore": "6",
+            "Sweet Scent": "12",
+            "Draining Kiss": "18",
+            "Struggle Bug": "24",
+            "Aromatherapy": "30",
+            "Switcheroo": "36",
+            "Dazzling Gleam": "42",
+            "Bug Buzz": "48",
+            "Quiver Dance": "54"
+        },
+        "egg": {
+            "Aromatic Mist": null,
+            "Moonblast": null,
+            "Sticky Web": null
+        },
+        "null": {
+            "Psychic": "11",
+            "Leech Life": "18",
+            "Substitute": "20",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Baton Pass": "29",
+            "Trick": "38",
+            "Skill Swap": "40",
+            "Calm Mind": "49",
+            "Bug Buzz": "61",
+            "Energy Ball": "65",
+            "Ally Switch": "83",
+            "Play Rough": "90",
+            "Dazzling Gleam": "92"
+        },
+        "tm": {
+            "Light Screen": "17",
+            "Reflect": "18",
+            "Safeguard": "19",
+            "Rest": "21",
+            "Thief": "23",
+            "Snore": "24",
+            "Protect": "25",
+            "Charm": "29",
+            "Attract": "31",
+            "Sunny Day": "34",
+            "Facade": "39",
+            "Swift": "40",
+            "Helping Hand": "41",
+            "Imprison": "44",
+            "Fake Tears": "47",
+            "U-turn": "56",
+            "Speed Swap": "62",
+            "Wonder Room": "71",
+            "Magic Room": "72",
+            "Round": "76",
+            "Acrobatics": "78",
+            "Draining Kiss": "87"
+        }
+    },
+    "entries": {
+        "Cutiefly": [
+            "It feeds on the nectar and pollen of flowers. Because it\u2019s able to sense auras, it can identify which flowers are about to bloom.",
+            "Myriads of Cutiefly flutter above the heads of people who have auras resembling those of flowers.",
+            "Nectar and pollen are its favorite fare. In fields of flowers, it gets into skirmishes with Butterfree over food.",
+            "Cutiefly can pick up the auras of living things. It skillfully reads those auras to predict its foes\u2019 movements and make fools of them.",
+            "Nectar and pollen are its favorite fare. You can find Cutiefly hovering around Gossifleur, trying to get some of Gossifleur\u2019s pollen.",
+            "An opponent\u2019s aura can tell Cutiefly what that opponent\u2019s next move will be. Then Cutiefly can glide around the attack and strike back."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792392001949706/742.png",
+    "discord_sprite": "<:P742:1132145382655283280>"
+}

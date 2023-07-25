@@ -1,0 +1,358 @@
+{
+    "alt-version(s)": [
+        "Mega Mewtwo X",
+        "Mega Mewtwo Y"
+    ],
+    "name": "Mewtwo",
+    "Mewtwo": {
+        "pokedex_data": {
+            "National No.": "0150",
+            "Type": [
+                "Psychic"
+            ],
+            "Species": "Genetic Poke\u0301mon",
+            "Height": "2.0 m (6\u203207\u2032\u2032)",
+            "Weight": "122.0 kg (269.0 lbs)",
+            "Abilities": {
+                "Pressure": {
+                    "href": "/ability/pressure",
+                    "effect": "The Pok\u00e9mon raises the foe's PP usage.",
+                    "hidden": false
+                },
+                "Unnerve": {
+                    "href": "/ability/unnerve",
+                    "effect": "Makes the foe nervous and unable to eat Berries.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Sp. Atk",
+            "Catch rate": "3",
+            "BaseFriendship": "0",
+            "Base Exp.": "340",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "106",
+                "Min": "322",
+                "Max": "416"
+            },
+            "Attack": {
+                "Base": "110",
+                "Min": "202",
+                "Max": "350"
+            },
+            "Defense": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Sp. Atk": {
+                "Base": "154",
+                "Min": "281",
+                "Max": "447"
+            },
+            "Sp. Def": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Speed": {
+                "Base": "130",
+                "Min": "238",
+                "Max": "394"
+            },
+            "Total": "680"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective"
+            }
+        }
+    },
+    "Mega Mewtwo X": {
+        "pokedex_data": {
+            "National No.": "0150",
+            "Type": [
+                "Psychic",
+                "Fighting"
+            ],
+            "Species": "Genetic Poke\u0301mon",
+            "Height": "2.3 m (7\u203207\u2032\u2032)",
+            "Weight": "127.0 kg (280.0 lbs)",
+            "Abilities": {
+                "Steadfast": {
+                    "href": "/ability/steadfast",
+                    "effect": "Raises Speed each time the Pok\u00e9mon flinches.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Sp. Atk",
+            "Catch rate": "3",
+            "BaseFriendship": "0",
+            "Base Exp.": "351",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "106",
+                "Min": "322",
+                "Max": "416"
+            },
+            "Attack": {
+                "Base": "190",
+                "Min": "346",
+                "Max": "526"
+            },
+            "Defense": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Sp. Atk": {
+                "Base": "154",
+                "Min": "281",
+                "Max": "447"
+            },
+            "Sp. Def": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Speed": {
+                "Base": "130",
+                "Min": "238",
+                "Max": "394"
+            },
+            "Total": "780"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "not very effective",
+                "Flying": "super-effective",
+                "Rock": "not very effective",
+                "Ghost": "super-effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "Mega Mewtwo Y": {
+        "pokedex_data": {
+            "National No.": "0150",
+            "Type": [
+                "Psychic"
+            ],
+            "Species": "Genetic Poke\u0301mon",
+            "Height": "1.5 m (4\u203211\u2032\u2032)",
+            "Weight": "33.0 kg (72.8 lbs)",
+            "Abilities": {
+                "Insomnia": {
+                    "href": "/ability/insomnia",
+                    "effect": "Prevents the Pok\u00e9mon from falling asleep.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Sp. Atk",
+            "Catch rate": "3",
+            "BaseFriendship": "0",
+            "Base Exp.": "351",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "106",
+                "Min": "322",
+                "Max": "416"
+            },
+            "Attack": {
+                "Base": "150",
+                "Min": "274",
+                "Max": "438"
+            },
+            "Defense": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Atk": {
+                "Base": "194",
+                "Min": "353",
+                "Max": "535"
+            },
+            "Sp. Def": {
+                "Base": "120",
+                "Min": "220",
+                "Max": "372"
+            },
+            "Speed": {
+                "Base": "140",
+                "Min": "256",
+                "Max": "416"
+            },
+            "Total": "780"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Confusion": "1",
+            "Disable": "1",
+            "Life Dew": "1",
+            "Swift": "1",
+            "Ancient Power": "8",
+            "Psycho Cut": "16",
+            "Safeguard": "24",
+            "Amnesia": "32",
+            "Aura Sphere": "40",
+            "Psychic": "48",
+            "Guard Swap": "56",
+            "Power Swap": "56",
+            "Mist": "64",
+            "Psystrike": "72",
+            "Recover": "80",
+            "Future Sight": "88"
+        },
+        "egg": null,
+        "tm": {
+            "Take Down": "01",
+            "Agility": "04",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Low Kick": "12",
+            "Psybeam": "16",
+            "Confuse Ray": "17",
+            "Trailblaze": "20",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Bulldoze": "28",
+            "Hex": "29",
+            "Swift": "32",
+            "Icy Wind": "34",
+            "Rock Tomb": "36",
+            "Low Sweep": "39",
+            "Stored Power": "41",
+            "Night Shade": "42",
+            "Fling": "43",
+            "Avalanche": "46",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Sandstorm": "51",
+            "Psyshock": "54",
+            "Brick Break": "58",
+            "Zen Headbutt": "59",
+            "Foul Play": "62",
+            "Bulk Up": "64",
+            "Body Slam": "66",
+            "Fire Punch": "67",
+            "Thunder Punch": "68",
+            "Ice Punch": "69",
+            "Sleep Talk": "70",
+            "Electro Ball": "72",
+            "Drain Punch": "73",
+            "Reflect": "74",
+            "Light Screen": "75",
+            "Metronome": "80",
+            "Grass Knot": "81",
+            "Thunder Wave": "82",
+            "Poison Jab": "83",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Taunt": "87",
+            "Imprison": "92",
+            "Dark Pulse": "94",
+            "Skill Swap": "98",
+            "Power Gem": "101",
+            "Substitute": "103",
+            "Will-O-Wisp": "107",
+            "Trick": "109",
+            "Aura Sphere": "112",
+            "Shadow Ball": "114",
+            "Energy Ball": "119",
+            "Psychic": "120",
+            "Flamethrower": "125",
+            "Thunderbolt": "126",
+            "Amnesia": "128",
+            "Calm Mind": "129",
+            "Helping Hand": "130",
+            "Earth Power": "133",
+            "Reversal": "134",
+            "Ice Beam": "135",
+            "Psychic Terrain": "138",
+            "Nasty Plot": "140",
+            "Fire Blast": "141",
+            "Blizzard": "143",
+            "Earthquake": "149",
+            "Stone Edge": "150",
+            "Giga Impact": "152",
+            "Focus Blast": "158",
+            "Hurricane": "160",
+            "Trick Room": "161",
+            "Hyper Beam": "163",
+            "Thunder": "166",
+            "Solar Beam": "168",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Mewtwo": [
+            "It was created by a scientist after years of horrific gene splicing and DNA engineering experiments.",
+            "Its DNA is almost the same as MEW\u2019s. However, its size and disposition are vastly different.",
+            "Because its battle abilities were raised to the ultimate level, it thinks only of defeating its foes.",
+            "It usually remains motionless to conserve energy, so that it may unleash its full power in battle.",
+            "Said to rest quietly in an undiscovered cave, this pok\u00e9mon was created solely for battling.",
+            "MEWTWO is a pok\u00e9mon that was created by genetic manipulation. However, even though the scientific power of humans created this pok\u00e9mon\u2019s body, they failed to endow MEWTWO with a compassionate heart.",
+            "A pok\u00e9mon whose genetic code was repeatedly recombined for research. It turned vicious as a result.",
+            "It was created by a scientist after years of horrific gene-splicing and DNA-engineering experiments.",
+            "A pok\u00e9mon that was created by genetic manipulation. However, even though the scientific power of humans made its body, they failed to give it a warm heart.",
+            "A Pok\u00e9mon created by recombining MEW\u2019s genes. It\u2019s said to have the most savage heart among Pok\u00e9mon.",
+            "Because its battle abilities were raised to the ultimate level, it thinks only of defeating its foes.",
+            "It usually remains motionless to conserve energy, so that it may unleash its full power in battle.",
+            "A Pok\u00e9mon created by recombining Mew\u2019s genes. It\u2019s said to have the most savage heart among Pok\u00e9mon.",
+            "It was created by a scientist after years of horrific gene-splicing and DNA-engineering experiments.",
+            "A Pok\u00e9mon created by recombining Mew\u2019s genes. It\u2019s said to have the most savage heart among Pok\u00e9mon.",
+            "Mewtwo is a Pok\u00e9mon that was created by genetic manipulation. However, even though the scientific power of humans created this Pok\u00e9mon\u2019s body, they failed to endow Mewtwo with a compassionate heart.",
+            "Its DNA is almost the same as Mew\u2019s. However, its size and disposition are vastly different.",
+            "Created from the DNA of Mew, this Pok\u00e9mon is a dangerous combination of overwhelming power and a savage heart.",
+            "The research efforts of a certain scientist ultimately resulted in this Pok\u00e9mon. Its powers are dedicated to battling.",
+            "Mewtwo was created by recombining Mew\u2019s genes. It\u2019s said to have the most savage heart among Pok\u00e9mon."
+        ],
+        "Mega Mewtwo X": [
+            "Psychic power has augmented its muscles. It has a grip strength of one ton and can sprint a hundred meters in two seconds flat!"
+        ],
+        "Mega Mewtwo Y": [
+            "Despite its diminished size, its mental power has grown phenomenally. With a mere thought, it can smash a skyscraper to smithereens."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787761368711220/150.png",
+    "discord_sprite": "<:P150:1132119334769131711>"
+}

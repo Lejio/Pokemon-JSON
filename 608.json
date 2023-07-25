@@ -1,0 +1,249 @@
+{
+    "alt-version(s)": [],
+    "name": "Lampent",
+    "Lampent": {
+        "pokedex_data": {
+            "National No.": "0608",
+            "Type": [
+                "Ghost",
+                "Fire"
+            ],
+            "Species": "Lamp Poke\u0301mon",
+            "Height": "0.6 m (2\u203200\u2032\u2032)",
+            "Weight": "13.0 kg (28.7 lbs)",
+            "Abilities": {
+                "Flash Fire": {
+                    "href": "/ability/flash-fire",
+                    "effect": "It powers up Fire-type moves if it's hit by one.",
+                    "hidden": false
+                },
+                "Flame Body": {
+                    "href": "/ability/flame-body",
+                    "effect": "Contact with the Pok\u00e9mon may burn the attacker.",
+                    "hidden": false
+                },
+                "Infiltrator": {
+                    "href": "/ability/infiltrator",
+                    "effect": "Passes through the foe's barrier and strikes.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Sp. Atk",
+            "Catch rate": "90",
+            "BaseFriendship": "50",
+            "Base Exp.": "130",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "60",
+                "Min": "230",
+                "Max": "324"
+            },
+            "Attack": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Defense": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Atk": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Sp. Def": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Speed": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Total": "370"
+        },
+        "defense_stats": {
+            "Flash Fire ability": {
+                "Normal": "no effect",
+                "Fire": "no effect",
+                "Water": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Fighting": "no effect",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            },
+            "Flame Body ability": {
+                "Normal": "no effect",
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Fighting": "no effect",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            },
+            "Infiltrator ability": {
+                "Normal": "no effect",
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Fighting": "no effect",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Litwick",
+                    "nationalNo": "#0607",
+                    "type": [
+                        "Ghost",
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Lampent",
+                    "nationalNo": "#0608",
+                    "type": [
+                        "Ghost",
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 41)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Lampent",
+                    "nationalNo": "#0608",
+                    "type": [
+                        "Ghost",
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Chandelure",
+                    "nationalNo": "#0609",
+                    "type": [
+                        "Ghost",
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Dusk Stone)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Astonish": "1",
+            "Ember": "1",
+            "Minimize": "1",
+            "Smog": "1",
+            "Confuse Ray": "12",
+            "Hex": "16",
+            "Will-O-Wisp": "20",
+            "Fire Spin": "24",
+            "Night Shade": "28",
+            "Curse": "32",
+            "Shadow Ball": "36",
+            "Inferno": "40",
+            "Imprison": "46",
+            "Pain Split": "52",
+            "Overheat": "58",
+            "Memento": "64"
+        },
+        "egg": {
+            "Acid Armor": null,
+            "Clear Smog": null,
+            "Haze": null,
+            "Power Split": null
+        },
+        "null": {
+            "Flamethrower": "02",
+            "Psychic": "11",
+            "Fire Blast": "15",
+            "Substitute": "20",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Shadow Ball": "33",
+            "Heat Wave": "36",
+            "Taunt": "37",
+            "Trick": "38",
+            "Overheat": "43",
+            "Calm Mind": "49",
+            "Dark Pulse": "58",
+            "Energy Ball": "65",
+            "Ally Switch": "83"
+        },
+        "tm": {
+            "Solar Beam": "11",
+            "Fire Spin": "13",
+            "Safeguard": "19",
+            "Rest": "21",
+            "Thief": "23",
+            "Snore": "24",
+            "Protect": "25",
+            "Attract": "31",
+            "Sunny Day": "34",
+            "Will-O-Wisp": "38",
+            "Facade": "39",
+            "Imprison": "44",
+            "Payback": "57",
+            "Trick Room": "70",
+            "Round": "76",
+            "Hex": "77",
+            "Mystical Fire": "92"
+        }
+    },
+    "entries": {
+        "Lampent": [
+            "This ominous Pok\u00e9mon is feared. Through cities it wanders, searching for the spirits of the fallen.",
+            "It arrives near the moment of death and steals spirit from the body.",
+            "The spirits it absorbs fuel its baleful fire. It hangs around hospitals waiting for people to pass on.",
+            "The spirits it absorbs fuel its baleful fire. It hangs around hospitals waiting for people to pass on.",
+            "It arrives near the moment of death and steals spirit from the body.",
+            "This Pok\u00e9mon appears just before someone passes away, so it\u2019s feared as an emissary of death.",
+            "It lurks in cities, pretending to be a lamp. Once it finds someone whose death is near, it will trail quietly after them."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791343727951912/608.png",
+    "discord_sprite": "<:P608:1132139492287975494>"
+}

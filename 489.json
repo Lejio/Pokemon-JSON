@@ -1,0 +1,130 @@
+{
+    "alt-version(s)": [],
+    "name": "Phione",
+    "Phione": {
+        "pokedex_data": {
+            "National No.": "0489",
+            "Type": [
+                "Water"
+            ],
+            "Species": "Sea Drifter Poke\u0301mon",
+            "Height": "0.4 m (1\u203204\u2032\u2032)",
+            "Weight": "3.1 kg (6.8 lbs)",
+            "Abilities": {
+                "Hydration": {
+                    "href": "/ability/hydration",
+                    "effect": "Heals status problems if it is raining.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 HP",
+            "Catch rate": "30",
+            "BaseFriendship": "50",
+            "Base Exp.": "216",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "80",
+                "Min": "270",
+                "Max": "364"
+            },
+            "Attack": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Defense": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Sp. Atk": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Sp. Def": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Speed": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Total": "480"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Water Gun": "1",
+            "Charm": "9",
+            "Supersonic": "16",
+            "Bubble Beam": "24",
+            "Acid Armor": "31",
+            "Whirlpool": "39",
+            "Water Pulse": "46",
+            "Aqua Ring": "54",
+            "Dive": "61",
+            "Rain Dance": "69"
+        },
+        "egg": null,
+        "tm": {
+            "Water Pulse": "03",
+            "Hail": "07",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Safeguard": "20",
+            "Dazzling Gleam": "21",
+            "Double Team": "32",
+            "Facade": "42",
+            "Rest": "44",
+            "Scald": "49",
+            "Brine": "55",
+            "Fling": "56",
+            "Endure": "58",
+            "Psych Up": "77",
+            "Sleep Talk": "82",
+            "Grass Knot": "86",
+            "Swagger": "87",
+            "U-turn": "89",
+            "Substitute": "90",
+            "Surf": "95",
+            "Waterfall": "99"
+        }
+    },
+    "entries": {
+        "Phione": [
+            "A Pok\u00e9mon that lives in warm seas. It inflates the flotation sac on its head to drift and search for food.",
+            "It drifts in warm seas. It always returns to where it was born, no matter how far it may have drifted.",
+            "When the water warms, they inflate the flotation sac on their heads and drift languidly on the sea in packs.",
+            "It drifts in warm seas. It always returns to where it was born, no matter how far it may have drifted.",
+            "When the water warms, they inflate the flotation sac on their heads and drift languidly on the sea in packs.",
+            "It drifts in warm seas. It always returns to where it was born, no matter how far it may have drifted.",
+            "A Pok\u00e9mon that lives in warm seas. It inflates the flotation sac on its head to drift and search for food.",
+            "Can be seen floating offshore during seasons when the seas are warm. Its azure body blends in with the ocean waters\u2014logic suggests this is a defense mechanism against natural predators."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790411728420924/489.png",
+    "discord_sprite": "<:P489:1132134252109107271>"
+}

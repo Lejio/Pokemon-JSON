@@ -1,0 +1,223 @@
+{
+    "alt-version(s)": [],
+    "name": "Orbeetle",
+    "Orbeetle": {
+        "pokedex_data": {
+            "National No.": "0826",
+            "Type": [
+                "Bug",
+                "Psychic"
+            ],
+            "Species": "Seven Spot Poke\u0301mon",
+            "Height": "0.4 m (1\u203204\u2032\u2032)",
+            "Weight": "40.8 kg (89.9 lbs)",
+            "Abilities": {
+                "Swarm": {
+                    "href": "/ability/swarm",
+                    "effect": "Powers up Bug-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Frisk": {
+                    "href": "/ability/frisk",
+                    "effect": "The Pok\u00e9mon can check a foe's held item.",
+                    "hidden": false
+                },
+                "Telepathy": {
+                    "href": "/ability/telepathy",
+                    "effect": "Anticipates an ally's attack and dodges it.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Sp. Def",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "253",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "60",
+                "Min": "230",
+                "Max": "324"
+            },
+            "Attack": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Defense": {
+                "Base": "110",
+                "Min": "202",
+                "Max": "350"
+            },
+            "Sp. Atk": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Sp. Def": {
+                "Base": "120",
+                "Min": "220",
+                "Max": "372"
+            },
+            "Speed": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Total": "505"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Grass": "not very effective",
+                "Fighting": "not very effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Psychic": "not very effective",
+                "Bug": "super-effective",
+                "Rock": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Blipbug",
+                    "nationalNo": "#0824",
+                    "type": [
+                        "Bug"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Dottler",
+                    "nationalNo": "#0825",
+                    "type": [
+                        "Bug",
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 10)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Dottler",
+                    "nationalNo": "#0825",
+                    "type": [
+                        "Bug",
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Orbeetle",
+                    "nationalNo": "#0826",
+                    "type": [
+                        "Bug",
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 30)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Confusion": "1",
+            "Light Screen": "1",
+            "Reflect": "1",
+            "Struggle Bug": "1",
+            "Confuse Ray": "4",
+            "Magic Coat": "8",
+            "Agility": "12",
+            "Psybeam": "16",
+            "Hypnosis": "20",
+            "Ally Switch": "24",
+            "Bug Buzz": "28",
+            "Mirror Coat": "32",
+            "Psychic": "36",
+            "After You": "40",
+            "Calm Mind": "44",
+            "Psychic Terrain": "48"
+        },
+        "egg": {
+            "Infestation": null,
+            "Recover": null,
+            "Sticky Web": null,
+            "Supersonic": null
+        },
+        "null": {
+            "Psychic": "11",
+            "Agility": "12",
+            "Leech Life": "18",
+            "Substitute": "20",
+            "Psyshock": "25",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Baton Pass": "29",
+            "Shadow Ball": "33",
+            "Future Sight": "34",
+            "Trick": "38",
+            "Skill Swap": "40",
+            "Iron Defense": "46",
+            "Calm Mind": "49",
+            "Bug Buzz": "61",
+            "Energy Ball": "65",
+            "Zen Headbutt": "69",
+            "Stored Power": "82",
+            "Ally Switch": "83",
+            "Body Press": "99"
+        },
+        "tm": {
+            "Hyper Beam": "08",
+            "Giga Impact": "09",
+            "Solar Beam": "11",
+            "Light Screen": "17",
+            "Reflect": "18",
+            "Safeguard": "19",
+            "Rest": "21",
+            "Snore": "24",
+            "Protect": "25",
+            "Giga Drain": "28",
+            "Attract": "31",
+            "Facade": "39",
+            "Helping Hand": "41",
+            "Imprison": "44",
+            "U-turn": "56",
+            "Payback": "57",
+            "Power Swap": "60",
+            "Guard Swap": "61",
+            "Psycho Cut": "69",
+            "Trick Room": "70",
+            "Wonder Room": "71",
+            "Magic Room": "72",
+            "Round": "76",
+            "Psychic Terrain": "91"
+        }
+    },
+    "entries": {
+        "Orbeetle": [
+            "It\u2019s famous for its high level of intelligence, and the large size of its brain is proof that it also possesses immense psychic power.",
+            "It emits psychic energy to observe and study what\u2019s around it\u2014and what\u2019s around it can include things over six miles away."
+        ],
+        "Gigantamax": [
+            "Its brain has grown to a gargantuan size, as has the rest of its body. This Pok\u00e9mon\u2019s intellect and psychic abilities are overpowering.",
+            "If it were to utilize every last bit of its power, it could control the minds of every living being in its vicinity."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793044635648120/826.png",
+    "discord_sprite": "<:P826:1132149145214406807>"
+}

@@ -1,0 +1,218 @@
+{
+    "alt-version(s)": [],
+    "name": "Nidorino",
+    "Nidorino": {
+        "pokedex_data": {
+            "National No.": "0033",
+            "Type": [
+                "Poison"
+            ],
+            "Species": "Poison Pin Poke\u0301mon",
+            "Height": "0.9 m (2\u203211\u2032\u2032)",
+            "Weight": "19.5 kg (43.0 lbs)",
+            "Abilities": {
+                "Poison Point": {
+                    "href": "/ability/poison-point",
+                    "effect": "Contact with the Pok\u00e9mon may poison the attacker.",
+                    "hidden": false
+                },
+                "Rivalry": {
+                    "href": "/ability/rivalry",
+                    "effect": "Deals more damage to a Pok\u00e9mon of same gender.",
+                    "hidden": false
+                },
+                "Hustle": {
+                    "href": "/ability/hustle",
+                    "effect": "Boosts the Attack stat, but lowers accuracy.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "120",
+            "BaseFriendship": "50",
+            "Base Exp.": "128",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "100% male,0% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "61",
+                "Min": "232",
+                "Max": "326"
+            },
+            "Attack": {
+                "Base": "72",
+                "Min": "134",
+                "Max": "267"
+            },
+            "Defense": {
+                "Base": "57",
+                "Min": "107",
+                "Max": "234"
+            },
+            "Sp. Atk": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Sp. Def": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Speed": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Total": "365"
+        },
+        "defense_stats": {
+            "default": {
+                "Grass": "not very effective",
+                "Fighting": "not very effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Nidoran\u2642",
+                    "nationalNo": "#0032",
+                    "type": [
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Nidorino",
+                    "nationalNo": "#0033",
+                    "type": [
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 16)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Nidorino",
+                    "nationalNo": "#0033",
+                    "type": [
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Nidoking",
+                    "nationalNo": "#0034",
+                    "type": [
+                        "Poison",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Moon Stone)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Focus Energy": "1",
+            "Leer": "1",
+            "Peck": "1",
+            "Poison Sting": "1",
+            "Fury Attack": "15",
+            "Toxic Spikes": "22",
+            "Double Kick": "29",
+            "Horn Attack": "36",
+            "Helping Hand": "43",
+            "Toxic": "50",
+            "Flatter": "57",
+            "Poison Jab": "64",
+            "Earth Power": "71"
+        },
+        "egg": {
+            "Amnesia": null,
+            "Beat Up": null,
+            "Confusion": null,
+            "Counter": null,
+            "Disable": null,
+            "Head Smash": null,
+            "Horn Drill": null,
+            "Poison Tail": null,
+            "Sucker Punch": null,
+            "Supersonic": null,
+            "Take Down": null,
+            "Thrash": null,
+            "Venom Drench": null
+        },
+        "tm": {
+            "Water Pulse": "03",
+            "Toxic": "06",
+            "Sunny Day": "11",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Iron Tail": "23",
+            "Thunderbolt": "24",
+            "Thunder": "25",
+            "Dig": "28",
+            "Double Team": "32",
+            "Shock Wave": "34",
+            "Sludge Bomb": "36",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Endure": "58",
+            "Shadow Claw": "65",
+            "Sleep Talk": "82",
+            "Poison Jab": "84",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Cut": "93",
+            "Strength": "96",
+            "Rock Smash": "98"
+        }
+    },
+    "entries": {
+        "Nidorino": [
+            "An aggressive pok\u00e9mon that is quick to attack. The horn on its head secretes a powerful venom.",
+            "Its horns contain venom. If they are stabbed into an enemy, the impact makes the poison leak out.",
+            "It raises its big ears to check its surroundings. If it senses anything, it attacks immediately.",
+            "Quick to anger, it stabs enemies with its horn to inject a powerful poison when it becomes agitated.",
+            "It is easily agitated and uses its horn for offense as soon as it notices an attacker.",
+            "NIDORINO has a horn that is harder than a diamond. If it senses a hostile presence, all the barbs on its back bristle up at once, and it challenges the foe with all its might.",
+            "It is easily angered. By swinging its well-developed horn wildly, it can even punch through diamond.",
+            "An aggressive pok\u00e9mon that is quick to attack. The horn on its head secretes a powerful venom.",
+            "Its horn is harder than a diamond. If it senses a hostile presence, all the barbs on its back bristle up at once, and it challenges the foe with all its might.",
+            "It has a violent disposition and stabs foes with its horn, which oozes poison upon impact.",
+            "It raises its big ears to check its surroundings. If it senses anything, it attacks immediately.",
+            "Quick to anger, it stabs enemies with its horn to inject a powerful poison when it becomes agitated.",
+            "It has a violent disposition and stabs foes with its horn, which oozes poison upon impact.",
+            "It raises its big ears to check its surroundings. If it senses anything, it attacks immediately.",
+            "An aggressive Pok\u00e9mon that is quick to attack. The horn on its head secretes a powerful venom.",
+            "Nidorino has a horn that is harder than a diamond. If it senses a hostile presence, all the barbs on its back bristle up at once, and it challenges the foe with all its might.",
+            "Its horn contains venom. If it stabs an enemy with the horn, the impact makes the poison leak out.",
+            "With a horn that\u2019s harder than diamond, this Pok\u00e9mon goes around shattering boulders as it searches for a moon stone.",
+            "It\u2019s nervous and quick to act aggressively. The potency of its poison increases along with the level of adrenaline present in its body.",
+            "It has a violent disposition and stabs foes with its horn, which oozes venom upon impact."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131786846716821625/33.png",
+    "discord_sprite": "<:P33:1131973343613038663>"
+}

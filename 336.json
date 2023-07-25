@@ -1,0 +1,181 @@
+{
+    "alt-version(s)": [],
+    "name": "Seviper",
+    "Seviper": {
+        "pokedex_data": {
+            "National No.": "0336",
+            "Type": [
+                "Poison"
+            ],
+            "Species": "Fang Snake Poke\u0301mon",
+            "Height": "2.7 m (8\u203210\u2032\u2032)",
+            "Weight": "52.5 kg (115.7 lbs)",
+            "Abilities": {
+                "Shed Skin": {
+                    "href": "/ability/shed-skin",
+                    "effect": "The Pok\u00e9mon may heal its own status problems.",
+                    "hidden": false
+                },
+                "Infiltrator": {
+                    "href": "/ability/infiltrator",
+                    "effect": "Passes through the foe's barrier and strikes.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack, 1 Sp. Atk",
+            "Catch rate": "90",
+            "BaseFriendship": "50",
+            "Base Exp.": "160",
+            "Growth Rate": "Fluctuating"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "73",
+                "Min": "256",
+                "Max": "350"
+            },
+            "Attack": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Defense": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Atk": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Sp. Def": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Speed": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Total": "458"
+        },
+        "defense_stats": {
+            "default": {
+                "Grass": "not very effective",
+                "Fighting": "not very effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Swagger": "1",
+            "Wrap": "1",
+            "Bite": "4",
+            "Lick": "6",
+            "Poison Tail": "9",
+            "Feint": "11",
+            "Screech": "14",
+            "Glare": "19",
+            "Poison Fang": "21",
+            "Venoshock": "24",
+            "Gastro Acid": "29",
+            "Poison Jab": "31",
+            "Haze": "34",
+            "Crunch": "39",
+            "Belch": "41",
+            "Coil": "44",
+            "Sludge Bomb": "46"
+        },
+        "egg": {
+            "Assurance": null,
+            "Body Slam": null,
+            "Final Gambit": null,
+            "Night Slash": null,
+            "Scary Face": null,
+            "Spit Up": null,
+            "Stockpile": null,
+            "Swallow": null,
+            "Switcheroo": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Fire Fang": "08",
+            "Thunder Fang": "09",
+            "Ice Fang": "10",
+            "Acid Spray": "13",
+            "Thief": "18",
+            "Trailblaze": "20",
+            "Pounce": "21",
+            "Facade": "25",
+            "Poison Tail": "26",
+            "Bulldoze": "28",
+            "Snarl": "30",
+            "Venoshock": "45",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Dig": "55",
+            "Brick Break": "58",
+            "Zen Headbutt": "59",
+            "Psychic Fangs": "63",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Seed Bomb": "71",
+            "Poison Jab": "83",
+            "Rest": "85",
+            "Taunt": "87",
+            "Swords Dance": "88",
+            "Dark Pulse": "94",
+            "Iron Head": "99",
+            "Gunk Shot": "102",
+            "Substitute": "103",
+            "X-Scissor": "105",
+            "Crunch": "108",
+            "Giga Drain": "111",
+            "Flamethrower": "125",
+            "Helping Hand": "130",
+            "Reversal": "134",
+            "Sludge Bomb": "148",
+            "Earthquake": "149",
+            "Giga Impact": "152",
+            "Hyper Beam": "163",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Seviper": [
+            "SEVIPER shares a generations-long feud with ZANGOOSE. The scars on its body are evidence of vicious battles. This pok\u00e9mon attacks using its sword-edged tail.",
+            "SEVIPER\u2019s swordlike tail serves two purposes - it slashes foes and douses them with secreted poison. This pok\u00e9mon will not give up its long-running blood feud with ZANGOOSE.",
+            "It sharpens its swordlike tail on hard rocks. It hides in tall grass and strikes unwary prey with venomous fangs.",
+            "SEVIPER and ZANGOOSE are eternal rivals. It counters a ZANGOOSE\u2019s dazzling agility with its swordlike tail, which also oozes a horrible poison.",
+            "For many generations, it has feuded with ZANGOOSE. It whets its bladed tail on rocks for battle.",
+            "In battle, it uses its bladed tail to counter any ZANGOOSE. It secretes a deadly venom in its tail.",
+            "For many generations, it has feuded with Zangoose. It whets its bladed tail on rocks for battle.",
+            "Constant polishing makes the edge of the blade on its tail extremely sharp. It\u2019s Zangoose\u2019s archrival.",
+            "In battle, it uses its bladed tail to counter any Zangoose. It secretes a deadly venom in its tail.",
+            "Constant polishing makes the edge of the blade on its tail extremely sharp. It\u2019s Zangoose\u2019s archrival.",
+            "Seviper shares a generations-long feud with Zangoose. The scars on its body are evidence of vicious battles. This Pok\u00e9mon attacks using its sword-edged tail.",
+            "Seviper\u2019s swordlike tail serves two purposes\u2014it slashes foes and douses them with secreted poison. This Pok\u00e9mon will not give up its long-running blood feud with Zangoose.",
+            "For many generations, it has feuded with Zangoose. It whets its bladed tail on rocks for battle.",
+            "It sharpens its swordlike tail on hard rocks. It hides in tall grass and strikes unwary prey with venomous fangs.",
+            "Constant polishing makes the edge of the blade on its tail extremely sharp. It\u2019s Zangoose\u2019s archrival."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789226132918282/336.png",
+    "discord_sprite": "<:P336:1132127523908628500>"
+}

@@ -1,0 +1,218 @@
+{
+    "alt-version(s)": [],
+    "name": "Granbull",
+    "Granbull": {
+        "pokedex_data": {
+            "National No.": "0210",
+            "Type": [
+                "Fairy"
+            ],
+            "Species": "Fairy Poke\u0301mon",
+            "Height": "1.4 m (4\u203207\u2032\u2032)",
+            "Weight": "48.7 kg (107.4 lbs)",
+            "Abilities": {
+                "Intimidate": {
+                    "href": "/ability/intimidate",
+                    "effect": "Lowers the foe's Attack stat.",
+                    "hidden": false
+                },
+                "Quick Feet": {
+                    "href": "/ability/quick-feet",
+                    "effect": "Boosts Speed if there is a status problem.",
+                    "hidden": false
+                },
+                "Rattled": {
+                    "href": "/ability/rattled",
+                    "effect": "Bug, Ghost or Dark type moves scare it and boost its Speed.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "75",
+            "BaseFriendship": "50",
+            "Base Exp.": "158",
+            "Growth Rate": "Fast"
+        },
+        "breeding_data": {
+            "Gender": "25% male,75% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "90",
+                "Min": "290",
+                "Max": "384"
+            },
+            "Attack": {
+                "Base": "120",
+                "Min": "220",
+                "Max": "372"
+            },
+            "Defense": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Sp. Atk": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Def": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Speed": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Total": "450"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "not very effective",
+                "Poison": "super-effective",
+                "Bug": "not very effective",
+                "Dragon": "no effect",
+                "Dark": "not very effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Snubbull",
+                    "nationalNo": "#0209",
+                    "type": [
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Granbull",
+                    "nationalNo": "#0210",
+                    "type": [
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 23)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Charm": "1",
+            "Fire Fang": "1",
+            "Ice Fang": "1",
+            "Outrage": "67",
+            "Scary Face": "1",
+            "Tackle": "1",
+            "Tail Whip": "1",
+            "Thunder Fang": "1",
+            "Bite": "7",
+            "Lick": "13",
+            "Headbutt": "19",
+            "Roar": "27",
+            "Taunt": "35",
+            "Play Rough": "43",
+            "Payback": "51",
+            "Crunch": "59"
+        },
+        "egg": {
+            "Close Combat": null,
+            "Crunch": null,
+            "Double-Edge": null,
+            "Fake Tears": null,
+            "Fire Fang": null,
+            "Heal Bell": null,
+            "Ice Fang": null,
+            "Metronome": null,
+            "Mimic": null,
+            "Present": null,
+            "Snore": null,
+            "Thunder Fang": null
+        },
+        "tm": {
+            "Focus Punch": "01",
+            "Water Pulse": "03",
+            "Roar": "05",
+            "Bulk Up": "08",
+            "Work Up": "10",
+            "Sunny Day": "11",
+            "Taunt": "12",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Dazzling Gleam": "21",
+            "Solar Beam": "22",
+            "Iron Tail": "23",
+            "Thunderbolt": "24",
+            "Thunder": "25",
+            "Earthquake": "26",
+            "Dig": "28",
+            "Shadow Ball": "30",
+            "Brick Break": "31",
+            "Double Team": "32",
+            "Reflect": "33",
+            "Shock Wave": "34",
+            "Flamethrower": "35",
+            "Sludge Bomb": "36",
+            "Fire Blast": "38",
+            "Rock Tomb": "39",
+            "Torment": "41",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Overheat": "50",
+            "Focus Blast": "52",
+            "Fling": "56",
+            "Endure": "58",
+            "Payback": "66",
+            "Giga Impact": "68",
+            "Stone Edge": "71",
+            "Thunder Wave": "73",
+            "Snarl": "78",
+            "Rock Slide": "80",
+            "Sleep Talk": "82",
+            "Bulldoze": "83",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Strength": "96",
+            "Rock Smash": "98",
+            "Rock Climb": "100"
+        }
+    },
+    "entries": {
+        "Granbull": [
+            "It is actually timid and easily spooked. If attacked, it flails about to fend off its attacker.",
+            "Because its fangs are too heavy, it always keeps its head tilted down. However, its BITE is powerful.",
+            "It can make most any pok\u00e9mon run away simply by opening its mouth wide to reveal its big fangs.",
+            "GRANBULL has a particularly well-developed lower jaw. The enormous fangs are heavy, causing the pok\u00e9mon to tip its head back for balance. Unless it is startled, it will not try to bite indiscriminately.",
+            "Because its fangs are too heavy, it always keeps its head tilted down. However, its BITE is powerful.",
+            "It is actually timid and easily spooked. If attacked, it flails about to fend off its attacker.",
+            "It has a particularly well-developed lower jaw. The huge fangs are heavy, causing it to tilt its head. Unless it is startled, it will not try to bite.",
+            "It is timid in spite of its looks. If it becomes enraged, however, it will strike with its huge fangs.",
+            "It is actually timid and easily spooked. If attacked, it flails about to fend off its attacker.",
+            "Because its fangs are too heavy, it always keeps its head tilted down. However, its bite is powerful.",
+            "It is timid in spite of its looks. If it becomes enraged, however, it will strike with its huge fangs.",
+            "It is timid in spite of its looks. If it becomes enraged, however, it will strike with its huge fangs.",
+            "It can make most any Pok\u00e9mon run away simply by opening its mouth wide to reveal its big fangs.",
+            "Granbull has a particularly well-developed lower jaw. The enormous fangs are heavy, causing the Pok\u00e9mon to tip its head back for balance. Unless it is startled, it will not try to bite indiscriminately.",
+            "Its well-developed lower jaw and heavy fangs are its weapons. As long as it\u2019s not provoked, it rarely bites.",
+            "More timid than Snubbull, this Pok\u00e9mon is doted on by young people amused at the contrast between its looks and its attitude.",
+            "While it has powerful jaws, it doesn\u2019t care for disputes, so it rarely has a chance to display their might.",
+            "Although it\u2019s popular with young people, Granbull is timid and sensitive, so it\u2019s totally incompetent as a watchdog.",
+            "It is timid in spite of its looks. If it becomes enraged, however, it will strike with its huge fangs."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788234280665188/210.png",
+    "discord_sprite": "<:P210:1132121971216363571>"
+}

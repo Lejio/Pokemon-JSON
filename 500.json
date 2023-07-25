@@ -1,0 +1,226 @@
+{
+    "alt-version(s)": [],
+    "name": "Emboar",
+    "Emboar": {
+        "pokedex_data": {
+            "National No.": "0500",
+            "Type": [
+                "Fire",
+                "Fighting"
+            ],
+            "Species": "Mega Fire Pig Poke\u0301mon",
+            "Height": "1.6 m (5\u203203\u2032\u2032)",
+            "Weight": "150.0 kg (330.7 lbs)",
+            "Abilities": {
+                "Blaze": {
+                    "href": "/ability/blaze",
+                    "effect": "Powers up Fire-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Reckless": {
+                    "href": "/ability/reckless",
+                    "effect": "Powers up moves that have recoil damage.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Attack",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "238",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "110",
+                "Min": "330",
+                "Max": "424"
+            },
+            "Attack": {
+                "Base": "123",
+                "Min": "225",
+                "Max": "379"
+            },
+            "Defense": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Atk": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Sp. Def": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Speed": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Total": "528"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Dark": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Tepig",
+                    "nationalNo": "#0498",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Pignite",
+                    "nationalNo": "#0499",
+                    "type": [
+                        "Fire",
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 17)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Pignite",
+                    "nationalNo": "#0499",
+                    "type": [
+                        "Fire",
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Emboar",
+                    "nationalNo": "#0500",
+                    "type": [
+                        "Fire",
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 36)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Arm Thrust": "1",
+            "Ember": "7",
+            "Hammer Arm": "1",
+            "Odor Sleuth": "9",
+            "Tackle": "1",
+            "Tail Whip": "3",
+            "Defense Curl": "13",
+            "Flame Charge": "15",
+            "Smog": "20",
+            "Rollout": "23",
+            "Take Down": "28",
+            "Heat Crash": "31",
+            "Assurance": "38",
+            "Flamethrower": "43",
+            "Head Smash": "50",
+            "Roar": "55",
+            "Flare Blitz": "62"
+        },
+        "egg": {
+            "Body Slam": null,
+            "Burn Up": null,
+            "Covet": null,
+            "Curse": null,
+            "Endeavor": null,
+            "Heavy Slam": null,
+            "Magnitude": null,
+            "Sleep Talk": null,
+            "Sucker Punch": null,
+            "Superpower": null,
+            "Thrash": null,
+            "Yawn": null
+        },
+        "null": {
+            "Arm Thrust": "15"
+        },
+        "tm": {
+            "Work Up": "01",
+            "Roar": "05",
+            "Toxic": "06",
+            "Bulk Up": "08",
+            "Hidden Power": "10",
+            "Sunny Day": "11",
+            "Taunt": "12",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Frustration": "21",
+            "Solar Beam": "22",
+            "Smack Down": "23",
+            "Earthquake": "26",
+            "Return": "27",
+            "Brick Break": "31",
+            "Double Team": "32",
+            "Flamethrower": "35",
+            "Fire Blast": "38",
+            "Rock Tomb": "39",
+            "Facade": "42",
+            "Flame Charge": "43",
+            "Rest": "44",
+            "Attract": "45",
+            "Low Sweep": "47",
+            "Round": "48",
+            "Echoed Voice": "49",
+            "Overheat": "50",
+            "Focus Blast": "52",
+            "Scald": "55",
+            "Fling": "56",
+            "Will-O-Wisp": "61",
+            "Giga Impact": "68",
+            "Stone Edge": "71",
+            "Gyro Ball": "74",
+            "Bulldoze": "78",
+            "Rock Slide": "80",
+            "Poison Jab": "84",
+            "Grass Knot": "86",
+            "Swagger": "87",
+            "Sleep Talk": "88",
+            "Substitute": "90",
+            "Wild Charge": "93",
+            "Confide": "100"
+        }
+    },
+    "entries": {
+        "Emboar": [
+            "It can throw a fire punch by setting its fists on fire with its fiery chin. It cares deeply about its friends.",
+            "It has mastered fast and powerful fighting moves. It grows a beard of fire.",
+            "A flaring beard of fire is proof that it is fired up. It is adept at using many different moves.",
+            "It can throw a fire punch by setting its fists on fire with its fiery chin. It cares deeply about its friends.",
+            "It has mastered fast and powerful fighting moves. It grows a beard of fire."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790498676347031/500.png",
+    "discord_sprite": "<:P500:1132134732130439198>"
+}

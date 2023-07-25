@@ -1,0 +1,202 @@
+{
+    "alt-version(s)": [],
+    "name": "Morgrem",
+    "Morgrem": {
+        "pokedex_data": {
+            "National No.": "0860",
+            "Type": [
+                "Dark",
+                "Fairy"
+            ],
+            "Species": "Devious Poke\u0301mon",
+            "Height": "0.8 m (2\u203207\u2032\u2032)",
+            "Weight": "12.5 kg (27.6 lbs)",
+            "Abilities": {
+                "Prankster": {
+                    "href": "/ability/prankster",
+                    "effect": "Gives priority to a status move.",
+                    "hidden": false
+                },
+                "Frisk": {
+                    "href": "/ability/frisk",
+                    "effect": "The Pok\u00e9mon can check a foe's held item.",
+                    "hidden": false
+                },
+                "Pickpocket": {
+                    "href": "/ability/pickpocket",
+                    "effect": "Steals an item when hit by another Pok\u00e9mon.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Sp. Atk",
+            "Catch rate": "120",
+            "BaseFriendship": "50",
+            "Base Exp.": "130",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "100% male,0% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "65",
+                "Min": "240",
+                "Max": "334"
+            },
+            "Attack": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Defense": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Sp. Atk": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Sp. Def": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Speed": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Total": "370"
+        },
+        "defense_stats": {
+            "default": {
+                "Poison": "super-effective",
+                "Psychic": "no effect",
+                "Ghost": "not very effective",
+                "Dragon": "no effect",
+                "Dark": "not very effective",
+                "Steel": "super-effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Impidimp",
+                    "nationalNo": "#0859",
+                    "type": [
+                        "Dark",
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Morgrem",
+                    "nationalNo": "#0860",
+                    "type": [
+                        "Dark",
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 32)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Morgrem",
+                    "nationalNo": "#0860",
+                    "type": [
+                        "Dark",
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Grimmsnarl",
+                    "nationalNo": "#0861",
+                    "type": [
+                        "Dark",
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 42)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Bite": "1",
+            "Confide": "1",
+            "Fake Out": "1",
+            "Flatter": "1",
+            "Fake Tears": "12",
+            "Assurance": "16",
+            "Swagger": "20",
+            "Sucker Punch": "24",
+            "Torment": "28",
+            "Dark Pulse": "35",
+            "Nasty Plot": "40",
+            "Play Rough": "46",
+            "Foul Play": "52"
+        },
+        "evolution": {
+            "False Surrender": "80"
+        },
+        "egg": {
+            "Parting Shot": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Fake Tears": "03",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Low Kick": "12",
+            "Thief": "18",
+            "Trailblaze": "20",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Draining Kiss": "37",
+            "Fling": "43",
+            "Endure": "47",
+            "Shadow Claw": "61",
+            "Foul Play": "62",
+            "Sleep Talk": "70",
+            "Drain Punch": "73",
+            "Reflect": "74",
+            "Light Screen": "75",
+            "Dazzling Gleam": "79",
+            "Metronome": "80",
+            "Thunder Wave": "82",
+            "Rest": "85",
+            "Taunt": "87",
+            "Imprison": "92",
+            "Dark Pulse": "94",
+            "Leech Life": "95",
+            "Substitute": "103",
+            "Trick": "109",
+            "Play Rough": "127",
+            "Misty Terrain": "139",
+            "Nasty Plot": "140",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Morgrem": [
+            "When it gets down on all fours as if to beg for forgiveness, it\u2019s trying to lure opponents in so that it can stab them with its spear-like hair.",
+            "With sly cunning, it tries to lure people into the woods. Some believe it to have the power to make crops grow.",
+            "Morgrem prefers dirty tactics, like ambushing, because it doesn\u2019t have confidence in its brawn.",
+            "This Pok\u00e9mon absorbs negative emotions and turns them into energy. It\u2019s popular with people who tend to think gloomy thoughts."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793306406367322/860.png",
+    "discord_sprite": "<:P860:1132150644636131381>"
+}

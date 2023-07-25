@@ -1,0 +1,200 @@
+{
+    "alt-version(s)": [],
+    "name": "Litten",
+    "Litten": {
+        "pokedex_data": {
+            "National No.": "0725",
+            "Type": [
+                "Fire"
+            ],
+            "Species": "Fire Cat Poke\u0301mon",
+            "Height": "0.4 m (1\u203204\u2032\u2032)",
+            "Weight": "4.3 kg (9.5 lbs)",
+            "Abilities": {
+                "Blaze": {
+                    "href": "/ability/blaze",
+                    "effect": "Powers up Fire-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Intimidate": {
+                    "href": "/ability/intimidate",
+                    "effect": "Lowers the foe's Attack stat.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Speed",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "64",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "45",
+                "Min": "200",
+                "Max": "294"
+            },
+            "Attack": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Defense": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Atk": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Def": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Speed": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Total": "320"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Ground": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Litten",
+                    "nationalNo": "#0725",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Torracat",
+                    "nationalNo": "#0726",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 17)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Torracat",
+                    "nationalNo": "#0726",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Incineroar",
+                    "nationalNo": "#0727",
+                    "type": [
+                        "Fire",
+                        "Dark"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 34)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Growl": "1",
+            "Scratch": "1",
+            "Ember": "3",
+            "Lick": "6",
+            "Roar": "9",
+            "Fury Swipes": "12",
+            "Bite": "15",
+            "Double Kick": "18",
+            "Fire Fang": "21",
+            "Scary Face": "24",
+            "Swagger": "27",
+            "Flamethrower": "30",
+            "Thrash": "33",
+            "Flare Blitz": "36"
+        },
+        "egg": {
+            "Fake Out": null,
+            "Parting Shot": null,
+            "Power Trip": null
+        },
+        "tm": {
+            "Pay Day": "02",
+            "Fire Spin": "13",
+            "Rest": "21",
+            "Snore": "24",
+            "Protect": "25",
+            "Scary Face": "26",
+            "Attract": "31",
+            "Sunny Day": "34",
+            "Will-O-Wisp": "38",
+            "Facade": "39",
+            "Revenge": "42",
+            "U-turn": "56",
+            "Shadow Claw": "65",
+            "Fire Fang": "68",
+            "Round": "76",
+            "Acrobatics": "78"
+        },
+        "null": {
+            "Swords Dance": "00",
+            "Body Slam": "01",
+            "Flamethrower": "02",
+            "Fire Blast": "15",
+            "Leech Life": "18",
+            "Substitute": "20",
+            "Outrage": "24",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Crunch": "32",
+            "Heat Wave": "36",
+            "Taunt": "37",
+            "Overheat": "43",
+            "Bulk Up": "48",
+            "Flare Blitz": "55",
+            "Nasty Plot": "68",
+            "Work Up": "85"
+        }
+    },
+    "entries": {
+        "Litten": [
+            "While grooming itself, it builds up fur inside its stomach. It sets the fur alight and spews fiery attacks, which change based on how it coughs.",
+            "It doesn\u2019t allow its emotions to be easily seen. Earning its trust takes time. It prefers solitude.",
+            "If you try too hard to get close to it, it won\u2019t open up to you. Even if you do grow close, giving it too much affection is still a no-no.",
+            "Its coat regrows twice a year. When the time comes, Litten sets its own body on fire and burns away the old fur.",
+            "It spends even the smallest amount of downtime grooming its fur with its tongue. Loose fur gathers in its stomach and serves as fuel for fiery moves.",
+            "Trying to pet Litten before it trusts you will result in a nasty scratch from its sharp claws. Be careful."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792261009637446/725.png",
+    "discord_sprite": "<:P725:1132144636232740926>"
+}

@@ -1,0 +1,172 @@
+{
+    "alt-version(s)": [],
+    "name": "Flittle",
+    "Flittle": {
+        "pokedex_data": {
+            "National No.": "0955",
+            "Type": [
+                "Psychic"
+            ],
+            "Species": "Frill Poke\u0301mon",
+            "Height": "0.2 m (0\u203208\u2032\u2032)",
+            "Weight": "1.5 kg (3.3 lbs)",
+            "Abilities": {
+                "Anticipation": {
+                    "href": "/ability/anticipation",
+                    "effect": "Senses a foe's dangerous moves.",
+                    "hidden": false
+                },
+                "Frisk": {
+                    "href": "/ability/frisk",
+                    "effect": "The Pok\u00e9mon can check a foe's held item.",
+                    "hidden": false
+                },
+                "Speed Boost": {
+                    "href": "/ability/speed-boost",
+                    "effect": "Its Speed stat is gradually boosted.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Speed",
+            "Catch rate": "120",
+            "BaseFriendship": "50",
+            "Base Exp.": "51",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "30",
+                "Min": "170",
+                "Max": "264"
+            },
+            "Attack": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Defense": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Sp. Atk": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Sp. Def": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Speed": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Total": "255"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Flittle",
+                    "nationalNo": "#0955",
+                    "type": [
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Espathra",
+                    "nationalNo": "#0956",
+                    "type": [
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 35)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Growl": "1",
+            "Peck": "1",
+            "Confusion": "5",
+            "Baby-Doll Eyes": "8",
+            "Disarming Voice": "11",
+            "Quick Attack": "15",
+            "Psybeam": "19",
+            "Pluck": "24",
+            "Agility": "29",
+            "Uproar": "34"
+        },
+        "egg": {
+            "Ally Switch": null,
+            "Hypnosis": null,
+            "Roost": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Agility": "04",
+            "Mud-Slap": "05",
+            "Protect": "07",
+            "Psybeam": "16",
+            "Confuse Ray": "17",
+            "Thief": "18",
+            "Disarming Voice": "19",
+            "Pounce": "21",
+            "Facade": "25",
+            "Swift": "32",
+            "Stored Power": "41",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Sandstorm": "51",
+            "Psyshock": "54",
+            "Zen Headbutt": "59",
+            "U-turn": "60",
+            "Foul Play": "62",
+            "Sleep Talk": "70",
+            "Seed Bomb": "71",
+            "Reflect": "74",
+            "Light Screen": "75",
+            "Rest": "85",
+            "Skill Swap": "98",
+            "Substitute": "103",
+            "Trick": "109",
+            "Psychic": "120",
+            "Calm Mind": "129",
+            "Helping Hand": "130",
+            "Baton Pass": "132",
+            "Psychic Terrain": "138",
+            "Trick Room": "161",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Flittle": [
+            "Flittle\u2019s toes levitate about half an inch above the ground because of the psychic power emitted from the frills on the Pok\u00e9mon\u2019s belly.",
+            "It spends its time running around wastelands. If anyone steals its beloved berries, it will chase them down and exact its revenge."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131794048294854707/955.png",
+    "discord_sprite": "<:P955:1132154814579605606>"
+}

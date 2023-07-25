@@ -1,0 +1,296 @@
+{
+    "alt-version(s)": [
+        "Male",
+        "Female"
+    ],
+    "Male": {
+        "pokedex_data": {
+            "National No.": "0916",
+            "Type": [
+                "Normal"
+            ],
+            "Species": "Hog Poke\u0301mon",
+            "Height": "1.0 m (3\u203203\u2032\u2032)",
+            "Weight": "120.0 kg (264.6 lbs)",
+            "Abilities": {
+                "Lingering Aroma": {
+                    "href": "/ability/lingering-aroma",
+                    "effect": "Contact changes the attacker's Ability to Lingering Aroma.",
+                    "hidden": false
+                },
+                "Gluttony": {
+                    "href": "/ability/gluttony",
+                    "effect": "Encourages the early use of a held Berry.",
+                    "hidden": false
+                },
+                "Thick Fat": {
+                    "href": "/ability/thick-fat",
+                    "effect": "Ups resistance to Fire- and Ice-type moves.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 HP",
+            "Catch rate": "100",
+            "BaseFriendship": "50",
+            "Base Exp.": "171",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "100% male,0% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "110",
+                "Min": "330",
+                "Max": "424"
+            },
+            "Attack": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Defense": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Sp. Atk": {
+                "Base": "59",
+                "Min": "110",
+                "Max": "238"
+            },
+            "Sp. Def": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Speed": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Total": "489"
+        },
+        "defense_stats": {
+            "Lingering Aroma ability": {
+                "Fighting": "super-effective",
+                "Ghost": "no effect"
+            },
+            "Gluttony ability": {
+                "Fighting": "super-effective",
+                "Ghost": "no effect"
+            },
+            "Thick Fat ability": {
+                "Fire": "not very effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "Female": {
+        "pokedex_data": {
+            "National No.": "0916",
+            "Type": [
+                "Normal"
+            ],
+            "Species": "Hog Poke\u0301mon",
+            "Height": "1.0 m (3\u203203\u2032\u2032)",
+            "Weight": "120.0 kg (264.6 lbs)",
+            "Abilities": {
+                "Aroma Veil": {
+                    "href": "/ability/aroma-veil",
+                    "effect": "Protects allies from attacks that limit their move choices.",
+                    "hidden": false
+                },
+                "Gluttony": {
+                    "href": "/ability/gluttony",
+                    "effect": "Encourages the early use of a held Berry.",
+                    "hidden": false
+                },
+                "Thick Fat": {
+                    "href": "/ability/thick-fat",
+                    "effect": "Ups resistance to Fire- and Ice-type moves.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 HP",
+            "Catch rate": "100",
+            "BaseFriendship": "50",
+            "Base Exp.": "171",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "0% male,100% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "115",
+                "Min": "340",
+                "Max": "434"
+            },
+            "Attack": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Defense": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Atk": {
+                "Base": "59",
+                "Min": "110",
+                "Max": "238"
+            },
+            "Sp. Def": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Speed": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Total": "489"
+        },
+        "defense_stats": {
+            "Aroma Veil ability": {
+                "Fighting": "super-effective",
+                "Ghost": "no effect"
+            },
+            "Gluttony ability": {
+                "Fighting": "super-effective",
+                "Ghost": "no effect"
+            },
+            "Thick Fat ability": {
+                "Fire": "not very effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Lechonk",
+                    "nationalNo": "#0915",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Oinkologne",
+                    "nationalNo": "#0916",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": "Male"
+                },
+                "requirement": "(Level 18, Male)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Lechonk",
+                    "nationalNo": "#0915",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Oinkologne",
+                    "nationalNo": "#0916",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": "Female"
+                },
+                "requirement": "(Level 18, Female)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Tackle": "1",
+            "Tail Whip": "1",
+            "Disarming Voice": "5",
+            "Echoed Voice": "8",
+            "Mud Shot": "12",
+            "Covet": "15",
+            "Dig": "17",
+            "Headbutt": "23",
+            "Take Down": "26",
+            "Yawn": "27",
+            "Work Up": "34",
+            "Uproar": "38",
+            "Double-Edge": "42",
+            "Earth Power": "48",
+            "Belch": "54"
+        },
+        "egg": {
+            "Endeavor": null,
+            "Spit Up": null,
+            "Stockpile": null,
+            "Stuff Cheeks": null,
+            "Swallow": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Mud-Slap": "05",
+            "Protect": "07",
+            "Thief": "18",
+            "Disarming Voice": "19",
+            "Trailblaze": "20",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Bulldoze": "28",
+            "Mud Shot": "35",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Dig": "55",
+            "Bullet Seed": "56",
+            "Zen Headbutt": "59",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Seed Bomb": "71",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Body Press": "89",
+            "Iron Head": "99",
+            "Substitute": "103",
+            "Hyper Voice": "117",
+            "Energy Ball": "119",
+            "Play Rough": "127",
+            "Helping Hand": "130",
+            "Earth Power": "133",
+            "Giga Impact": "152",
+            "Hyper Beam": "163",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Male": [
+            "Oinkologne is proud of its fine, glossy skin. It emits a concentrated scent from the tip of its tail.",
+            "It entrances female Pok\u00e9mon with the sweet, alluring scent that wafts from all over its body."
+        ],
+        "Female": [
+            "This Pok\u00e9mon sends a flowerlike scent wafting about. Well-developed muscles in its legs allow it to leap more than 16 feet with no trouble at all.",
+            "This is a meticulous Pok\u00e9mon that likes to keep things tidy. It shrouds itself in a floral aroma that soothes the Pok\u00e9mon around it."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793743176007741/916.png",
+    "discord_sprite": "<:P916:1132153103475548280>"
+}

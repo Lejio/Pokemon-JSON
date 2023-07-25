@@ -1,0 +1,155 @@
+{
+    "alt-version(s)": [],
+    "name": "Cyclizar",
+    "Cyclizar": {
+        "pokedex_data": {
+            "National No.": "0967",
+            "Type": [
+                "Dragon",
+                "Normal"
+            ],
+            "Species": "Mount Poke\u0301mon",
+            "Height": "1.6 m (5\u203203\u2032\u2032)",
+            "Weight": "63.0 kg (138.9 lbs)",
+            "Abilities": {
+                "Shed Skin": {
+                    "href": "/ability/shed-skin",
+                    "effect": "The Pok\u00e9mon may heal its own status problems.",
+                    "hidden": false
+                },
+                "Regenerator": {
+                    "href": "/ability/regenerator",
+                    "effect": "Restores a little HP when withdrawn from battle.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Speed",
+            "Catch rate": "190",
+            "BaseFriendship": "50",
+            "Base Exp.": "175",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "70",
+                "Min": "250",
+                "Max": "344"
+            },
+            "Attack": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Defense": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Atk": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Sp. Def": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Speed": {
+                "Base": "121",
+                "Min": "222",
+                "Max": "375"
+            },
+            "Total": "501"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "super-effective",
+                "Ghost": "no effect",
+                "Dragon": "super-effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Growl": "1",
+            "Tackle": "1",
+            "Rapid Spin": "7",
+            "Taunt": "11",
+            "Breaking Swipe": "14",
+            "Quick Attack": "18",
+            "Bite": "23",
+            "U-turn": "27",
+            "Shed Tail": "31",
+            "Dragon Claw": "36",
+            "Shift Gear": "40",
+            "Dragon Pulse": "45",
+            "Double-Edge": "51",
+            "Dragon Rush": "57"
+        },
+        "egg": {
+            "Aqua Tail": null,
+            "Iron Tail": null,
+            "Knock Off": null,
+            "Power Whip": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Agility": "04",
+            "Mud-Slap": "05",
+            "Protect": "07",
+            "Fire Fang": "08",
+            "Thunder Fang": "09",
+            "Acrobatics": "14",
+            "Thief": "18",
+            "Trailblaze": "20",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Mud Shot": "35",
+            "Dragon Tail": "44",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "U-turn": "60",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Dragon Claw": "78",
+            "Rest": "85",
+            "Taunt": "87",
+            "Iron Head": "99",
+            "Substitute": "103",
+            "Crunch": "108",
+            "Dragon Pulse": "115",
+            "Hyper Voice": "117",
+            "Ice Spinner": "124",
+            "Thunderbolt": "126",
+            "Wild Charge": "147",
+            "Giga Impact": "152",
+            "Outrage": "156",
+            "Overheat": "157",
+            "Hyper Beam": "163",
+            "Draco Meteor": "169",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Cyclizar": [
+            "Apparently Cyclizar has been allowing people to ride on its back since ancient times. Depictions of this have been found in 10,000-year-old murals.",
+            "It can sprint at over 70 mph while carrying a human. The rider\u2019s body heat warms Cyclizar\u2019s back and lifts the Pok\u00e9mon\u2019s spirit."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131794141127381052/967.png",
+    "discord_sprite": "<:P967:1132155342399217674>"
+}

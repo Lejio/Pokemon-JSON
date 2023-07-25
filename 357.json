@@ -1,0 +1,184 @@
+{
+    "alt-version(s)": [],
+    "name": "Tropius",
+    "Tropius": {
+        "pokedex_data": {
+            "National No.": "0357",
+            "Type": [
+                "Grass",
+                "Flying"
+            ],
+            "Species": "Fruit Poke\u0301mon",
+            "Height": "2.0 m (6\u203207\u2032\u2032)",
+            "Weight": "100.0 kg (220.5 lbs)",
+            "Abilities": {
+                "Chlorophyll": {
+                    "href": "/ability/chlorophyll",
+                    "effect": "Boosts the Pok\u00e9mon's Speed in sunshine.",
+                    "hidden": false
+                },
+                "Solar Power": {
+                    "href": "/ability/solar-power",
+                    "effect": "In sunshine, Sp. Atk is boosted but HP decreases.",
+                    "hidden": false
+                },
+                "Harvest": {
+                    "href": "/ability/harvest",
+                    "effect": "May create another Berry after one is used.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 HP",
+            "Catch rate": "200",
+            "BaseFriendship": "50",
+            "Base Exp.": "161",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "99",
+                "Min": "308",
+                "Max": "402"
+            },
+            "Attack": {
+                "Base": "68",
+                "Min": "126",
+                "Max": "258"
+            },
+            "Defense": {
+                "Base": "83",
+                "Min": "153",
+                "Max": "291"
+            },
+            "Sp. Atk": {
+                "Base": "72",
+                "Min": "134",
+                "Max": "267"
+            },
+            "Sp. Def": {
+                "Base": "87",
+                "Min": "161",
+                "Max": "300"
+            },
+            "Speed": {
+                "Base": "51",
+                "Min": "96",
+                "Max": "221"
+            },
+            "Total": "460"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Poison": "super-effective",
+                "Ground": "no effect",
+                "Flying": "super-effective",
+                "Rock": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Growth": "1",
+            "Gust": "1",
+            "Leaf Storm": "1",
+            "Leer": "1",
+            "Razor Leaf": "1",
+            "Sweet Scent": "6",
+            "Stomp": "10",
+            "Magical Leaf": "16",
+            "Whirlwind": "21",
+            "Wide Guard": "30",
+            "Air Slash": "36",
+            "Body Slam": "41",
+            "Outrage": "46",
+            "Synthesis": "50",
+            "Solar Beam": "56"
+        },
+        "egg": {
+            "Curse": null,
+            "Dragon Dance": null,
+            "Headbutt": null,
+            "Leaf Blade": null,
+            "Leech Seed": null,
+            "Slam": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Protect": "07",
+            "Trailblaze": "20",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Bulldoze": "28",
+            "Magical Leaf": "33",
+            "Air Cutter": "40",
+            "Dragon Tail": "44",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Bullet Seed": "56",
+            "Zen Headbutt": "59",
+            "U-turn": "60",
+            "Air Slash": "65",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Seed Bomb": "71",
+            "Grass Knot": "81",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Swords Dance": "88",
+            "Body Press": "89",
+            "Fly": "97",
+            "Dragon Dance": "100",
+            "Substitute": "103",
+            "Giga Drain": "111",
+            "Tailwind": "113",
+            "Dragon Pulse": "115",
+            "Energy Ball": "119",
+            "Helping Hand": "130",
+            "Grassy Terrain": "137",
+            "Earthquake": "149",
+            "Giga Impact": "152",
+            "Outrage": "156",
+            "Leaf Storm": "159",
+            "Hurricane": "160",
+            "Hyper Beam": "163",
+            "Solar Beam": "168",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Tropius": [
+            "The bunches of fruit around TROPIUS\u2019s neck are very popular with children. This pok\u00e9mon loves fruit, and eats it continuously. Apparently, its love for fruit resulted in its own outgrowth of fruit.",
+            "Children of the southern tropics eat as snacks the fruit that grows in bunches around the neck of TROPIUS. This pok\u00e9mon flies by flapping the leaves on its back as if they were wings.",
+            "It lives in tropical jungles. The bunch of fruit around its neck is delicious. The fruit grows twice a year.",
+            "It flies by flapping its broad leaves. The bunch of fruit that grows around its neck is deliciously sweet. In the spring, it scatters pollen from its neck.",
+            "Because it continually ate only its favorite fruit, the fruit started growing around its neck.",
+            "Delicious fruits grew out from around its neck because it always ate the same kind of fruit.",
+            "The bunch of fruit around its neck ripens twice a year and is delicious. It\u2019s a highly favored tropical snack.",
+            "Delicious fruits grew out from around its neck because it always ate the same kind of fruit.",
+            "It flies by flapping its broad leaves and gives the sweet, delicious fruit around its neck to children.",
+            "It flies by flapping its broad leaves and gives the sweet, delicious fruit around its neck to children.",
+            "The bunch of fruit around its neck ripens twice a year and is delicious. It\u2019s a highly favored tropical snack.",
+            "The bunches of fruit around Tropius\u2019s neck are very popular with children. This Pok\u00e9mon loves fruit, and eats it continuously. Apparently, its love for fruit resulted in its own outgrowth of fruit.",
+            "Children of the southern tropics eat as snacks the fruit that grows in bunches around the neck of Tropius. This Pok\u00e9mon flies by flapping the leaves on its back as if they were wings.",
+            "The bunches of fruit growing around the necks of Tropius in Alola are especially sweet compared to those in other regions.",
+            "Bunches of delicious fruit grow around its neck. In warm areas, many ranches raise Tropius.",
+            "Because it continually ate only its favorite fruit, the fruit started growing around its neck.",
+            "It lives in tropical jungles. The bunch of fruit around its neck is delicious. The fruit grows twice a year.",
+            "Delicious fruits grew out from around its neck because it always ate the same kind of fruit."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789389358440468/357.png",
+    "discord_sprite": "<:P357:1132128446500315147>"
+}

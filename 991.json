@@ -1,0 +1,143 @@
+{
+    "alt-version(s)": [],
+    "name": "Iron Bundle",
+    "Iron Bundle": {
+        "pokedex_data": {
+            "National No.": "0991",
+            "Type": [
+                "Ice",
+                "Water"
+            ],
+            "Species": "Paradox Poke\u0301mon",
+            "Height": "0.6 m (2\u203200\u2032\u2032)",
+            "Weight": "11.0 kg (24.3 lbs)",
+            "Abilities": {
+                "Quark Drive": {
+                    "href": "/ability/quark-drive",
+                    "effect": "Raises highest stat on Electric Terrain, or if holding Booster Energy.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Speed",
+            "Catch rate": "50",
+            "BaseFriendship": "0",
+            "Base Exp.": "285",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "56",
+                "Min": "222",
+                "Max": "316"
+            },
+            "Attack": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Defense": {
+                "Base": "114",
+                "Min": "209",
+                "Max": "359"
+            },
+            "Sp. Atk": {
+                "Base": "124",
+                "Min": "227",
+                "Max": "381"
+            },
+            "Sp. Def": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Speed": {
+                "Base": "136",
+                "Min": "249",
+                "Max": "408"
+            },
+            "Total": "570"
+        },
+        "defense_stats": {
+            "default": {
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Rock": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Present": "1",
+            "Powder Snow": "7",
+            "Whirlpool": "14",
+            "Take Down": "21",
+            "Drill Peck": "28",
+            "Helping Hand": "35",
+            "Freeze-Dry": "42",
+            "Flip Turn": "49",
+            "Ice Beam": "56",
+            "Agility": "63",
+            "Snowscape": "70",
+            "Hydro Pump": "77",
+            "Aurora Veil": "84",
+            "Blizzard": "91"
+        },
+        "reminder": {
+            "Electric Terrain": "\u2014"
+        },
+        "egg": null,
+        "tm": {
+            "Take Down": "01",
+            "Agility": "04",
+            "Protect": "07",
+            "Water Pulse": "11",
+            "Acrobatics": "14",
+            "Thief": "18",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Swift": "32",
+            "Icy Wind": "34",
+            "Air Cutter": "40",
+            "Fling": "43",
+            "Avalanche": "46",
+            "Endure": "47",
+            "Rain Dance": "50",
+            "Snowscape": "52",
+            "U-turn": "60",
+            "Body Slam": "66",
+            "Ice Punch": "69",
+            "Sleep Talk": "70",
+            "Rest": "85",
+            "Taunt": "87",
+            "Substitute": "103",
+            "Encore": "122",
+            "Ice Spinner": "124",
+            "Play Rough": "127",
+            "Helping Hand": "130",
+            "Ice Beam": "135",
+            "Electric Terrain": "136",
+            "Hydro Pump": "142",
+            "Blizzard": "143",
+            "Giga Impact": "152",
+            "Hyper Beam": "163",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Iron Bundle": [
+            "Its shape is similar to a robot featured in a paranormal magazine article. The robot was said to have been created by an ancient civilization.",
+            "It resembles a mysterious object mentioned in an old book. There are only two reported sightings of this Pok\u00e9mon."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131794329946562620/991.png",
+    "discord_sprite": "<:P991:1132156397245706322>"
+}

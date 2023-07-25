@@ -1,0 +1,267 @@
+{
+    "alt-version(s)": [
+        "Mega Pinsir"
+    ],
+    "name": "Pinsir",
+    "Pinsir": {
+        "pokedex_data": {
+            "National No.": "0127",
+            "Type": [
+                "Bug"
+            ],
+            "Species": "Stag Beetle Poke\u0301mon",
+            "Height": "1.5 m (4\u203211\u2032\u2032)",
+            "Weight": "55.0 kg (121.3 lbs)",
+            "Abilities": {
+                "Hyper Cutter": {
+                    "href": "/ability/hyper-cutter",
+                    "effect": "Prevents other Pok\u00e9mon from lowering Attack stat.",
+                    "hidden": false
+                },
+                "Mold Breaker": {
+                    "href": "/ability/mold-breaker",
+                    "effect": "Moves can be used regardless of Abilities.",
+                    "hidden": false
+                },
+                "Moxie": {
+                    "href": "/ability/moxie",
+                    "effect": "Boosts Attack after knocking out any Pok\u00e9mon.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "175",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "65",
+                "Min": "240",
+                "Max": "334"
+            },
+            "Attack": {
+                "Base": "125",
+                "Min": "229",
+                "Max": "383"
+            },
+            "Defense": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Sp. Atk": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Sp. Def": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Speed": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Total": "500"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Grass": "not very effective",
+                "Fighting": "not very effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Rock": "super-effective"
+            }
+        }
+    },
+    "Mega Pinsir": {
+        "pokedex_data": {
+            "National No.": "0127",
+            "Type": [
+                "Bug",
+                "Flying"
+            ],
+            "Species": "Stag Beetle Poke\u0301mon",
+            "Height": "1.7 m (5\u203207\u2032\u2032)",
+            "Weight": "59.0 kg (130.1 lbs)",
+            "Abilities": {
+                "Aerilate": {
+                    "href": "/ability/aerilate",
+                    "effect": "Turns Normal-type moves into Flying-type moves.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "210",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "65",
+                "Min": "240",
+                "Max": "334"
+            },
+            "Attack": {
+                "Base": "155",
+                "Min": "283",
+                "Max": "449"
+            },
+            "Defense": {
+                "Base": "120",
+                "Min": "220",
+                "Max": "372"
+            },
+            "Sp. Atk": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Def": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Speed": {
+                "Base": "105",
+                "Min": "193",
+                "Max": "339"
+            },
+            "Total": "600"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Electric": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Ground": "no effect",
+                "Flying": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Harden": "1",
+            "Vise Grip": "1",
+            "Focus Energy": "4",
+            "Bind": "8",
+            "Seismic Toss": "12",
+            "Bug Bite": "16",
+            "Storm Throw": "20",
+            "Double Hit": "24",
+            "Vital Throw": "28",
+            "X-Scissor": "32",
+            "Strength": "36",
+            "Swords Dance": "40",
+            "Submission": "44",
+            "Guillotine": "48",
+            "Superpower": "52"
+        },
+        "egg": {
+            "Bug Bite": null,
+            "Close Combat": null,
+            "Feint": null,
+            "Flail": null,
+            "Fury Attack": null,
+            "Quick Attack": null,
+            "Superpower": null,
+            "Thrash": null
+        },
+        "tm": {
+            "Focus Punch": "01",
+            "Bulk Up": "08",
+            "Sunny Day": "11",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Earthquake": "26",
+            "Dig": "28",
+            "Brick Break": "31",
+            "Double Team": "32",
+            "Rock Tomb": "39",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Focus Blast": "52",
+            "False Swipe": "54",
+            "Fling": "56",
+            "Endure": "58",
+            "Giga Impact": "68",
+            "Stone Edge": "71",
+            "Swords Dance": "75",
+            "Stealth Rock": "76",
+            "Rock Slide": "80",
+            "X-Scissor": "81",
+            "Sleep Talk": "82",
+            "Bulldoze": "83",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Cut": "93",
+            "Strength": "96",
+            "Rock Smash": "98",
+            "Rock Climb": "100"
+        }
+    },
+    "entries": {
+        "Pinsir": [
+            "If it fails to crush the victim in its pincers, it will swing it around and toss it hard.",
+            "Grips its prey in its pincers and squeezes hard! It can\u2019t move if it\u2019s cold, so it lives in warm places.",
+            "With its horns, it digs burrows to sleep in at night. In the morning, damp soil clings to its body.",
+            "Swings its long antlers wildly to attack. During cold periods, it hides deep in forests.",
+            "When the temperature drops at night, it sleeps on treetops or among roots where it is well hidden.",
+            "PINSIR is astoundingly strong. It can grip a foe weighing twice its weight in its horns and easily lift it. This pok\u00e9mon\u2019s movements turn sluggish in cold places.",
+            "PINSIR has a pair of massive horns Protruding from the surface of these horns are thorns. These thorns are driven deeply into the foe\u2019s body when the pincer closes, making it tough for the foe to escape.",
+            "Its two long pincer horns are powerful. Once they grip an enemy, they won\u2019t release until the foe is torn.",
+            "If it fails to crush the foe in its pincers, it will swing around and toss the opponent.",
+            "Their pincers are strong enough to shatter thick logs. Because they dislike cold, PINSIR burrow and sleep under the ground on chilly nights.",
+            "It grips prey with its pincers until the prey is torn in half. What it can\u2019t tear, it tosses far.",
+            "With its pincer horns, it digs burrows to sleep in at night. In the morning, damp soil clings to its body.",
+            "It swings its long pincer horns wildly to attack. During cold periods, it hides deep in forests.",
+            "It grips prey with its pincers until the prey is torn in half. What it can\u2019t tear, it tosses far.",
+            "It grips prey with its powerful pincers and will not let go until the prey is torn in half.",
+            "It grips prey with its pincers until the prey is torn in half. What it can\u2019t tear, it tosses far.",
+            "It swings its long pincer horns wildly to attack. During cold periods, it hides deep in forests.",
+            "Pinsir is astoundingly strong. It can grip a foe weighing twice its weight in its horns and easily lift it. This Pok\u00e9mon\u2019s movements turn sluggish in cold places.",
+            "Pinsir has a pair of massive horns. Protruding from the surface of these horns are thorns. These thorns are driven deeply into the foe\u2019s body when the pincer closes, making it tough for the foe to escape.",
+            "It grips its prey in its pincers and splits them apart. Although it is a powerful Pok\u00e9mon, it can\u2019t deal with the cold.",
+            "One solid blow from its horns is enough to split apart a large tree. Its greatest rival in Alola is Vikavolt.",
+            "It gets into territorial disputes with Vikavolt. For some reason, it apparently gets along well with Heracross in Alola.",
+            "Although it\u2019s tough, it can\u2019t handle cold well. When night falls, it buries itself in leafage and sleeps.",
+            "Grips its prey in its pincers and squeezes hard! It can\u2019t move if it\u2019s cold, so it lives in warm places.",
+            "These Pok\u00e9mon judge one another based on pincers. Thicker, more impressive pincers make for more popularity with the opposite gender.",
+            "This Pok\u00e9mon clamps its pincers down on its prey and then either splits the prey in half or flings it away.",
+            "It grips prey with its pincers until the prey is torn apart. What it can\u2019t tear, it tosses far away."
+        ],
+        "Mega Pinsir": [
+            "The influence of Mega Evolution leaves it in a state of constant excitement. It pierces enemies with its two large horns before shredding them.",
+            "Bathed in the energy of Mega Evolution, its wings become unusually developed. It flies at speeds of approximately 30 mph.",
+            "After Mega Evolution, it becomes able to fly. Perhaps because it\u2019s so happy, it rarely touches the ground.",
+            "It zips around at blistering speeds, looking for an opening to skewer its opponent on its giant pincers.",
+            "With its vaunted horns, it can lift an opponent 10 times heavier than itself and fly about with ease."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787582305472692/127.png",
+    "discord_sprite": "<:P127:1132118322771664896>"
+}

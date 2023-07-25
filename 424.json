@@ -1,0 +1,198 @@
+{
+    "alt-version(s)": [],
+    "name": "Ambipom",
+    "Ambipom": {
+        "pokedex_data": {
+            "National No.": "0424",
+            "Type": [
+                "Normal"
+            ],
+            "Species": "Long Tail Poke\u0301mon",
+            "Height": "1.2 m (3\u203211\u2032\u2032)",
+            "Weight": "20.3 kg (44.8 lbs)",
+            "Abilities": {
+                "Technician": {
+                    "href": "/ability/technician",
+                    "effect": "Powers up the Pok\u00e9mon's weaker moves.",
+                    "hidden": false
+                },
+                "Pickup": {
+                    "href": "/ability/pickup",
+                    "effect": "The Pok\u00e9mon may pick up items.",
+                    "hidden": false
+                },
+                "Skill Link": {
+                    "href": "/ability/skill-link",
+                    "effect": "Increases the frequency of multi-strike moves.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Speed",
+            "Catch rate": "45",
+            "BaseFriendship": "100",
+            "Base Exp.": "169",
+            "Growth Rate": "Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "75",
+                "Min": "260",
+                "Max": "354"
+            },
+            "Attack": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Defense": {
+                "Base": "66",
+                "Min": "123",
+                "Max": "254"
+            },
+            "Sp. Atk": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Def": {
+                "Base": "66",
+                "Min": "123",
+                "Max": "254"
+            },
+            "Speed": {
+                "Base": "115",
+                "Min": "211",
+                "Max": "361"
+            },
+            "Total": "482"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Aipom",
+                    "nationalNo": "#0190",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Ambipom",
+                    "nationalNo": "#0424",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(after Double Hit learned)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Astonish": "8",
+            "Dual Chop": "1",
+            "Sand Attack": "4",
+            "Scratch": "1",
+            "Tail Whip": "1",
+            "Baton Pass": "11",
+            "Tickle": "15",
+            "Fury Swipes": "18",
+            "Swift": "22",
+            "Screech": "25",
+            "Agility": "29",
+            "Double Hit": "32",
+            "Fling": "36",
+            "Nasty Plot": "39",
+            "Last Resort": "43"
+        },
+        "egg": {
+            "Agility": null,
+            "Beat Up": null,
+            "Bounce": null,
+            "Counter": null,
+            "Covet": null,
+            "Fake Out": null,
+            "Quick Guard": null,
+            "Revenge": null,
+            "Screech": null,
+            "Slam": null,
+            "Spite": null,
+            "Switcheroo": null
+        },
+        "tm": {
+            "Focus Punch": "01",
+            "Water Pulse": "03",
+            "Work Up": "10",
+            "Sunny Day": "11",
+            "Taunt": "12",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Solar Beam": "22",
+            "Iron Tail": "23",
+            "Thunderbolt": "24",
+            "Thunder": "25",
+            "Low Sweep": "27",
+            "Dig": "28",
+            "Shadow Ball": "30",
+            "Brick Break": "31",
+            "Double Team": "32",
+            "Shock Wave": "34",
+            "Aerial Ace": "40",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Fling": "56",
+            "Endure": "58",
+            "Nasty Plot": "63",
+            "Shadow Claw": "65",
+            "Payback": "66",
+            "Giga Impact": "68",
+            "Thunder Wave": "73",
+            "Sleep Talk": "82",
+            "Dream Eater": "85",
+            "Grass Knot": "86",
+            "Swagger": "87",
+            "U-turn": "89",
+            "Substitute": "90",
+            "Cut": "93",
+            "Strength": "96",
+            "Rock Smash": "98"
+        }
+    },
+    "entries": {
+        "Ambipom": [
+            "To eat, it deftly shucks nuts with its two tails. It rarely uses its arms now.",
+            "They work in large colonies and make rings by linking their tails, apparently in friendship.",
+            "Split into two, the tails are so adept at handling and doing things, AMBIPOM rarely uses its hands.",
+            "They live on large trees. They are said to communicate by connecting their tails to those of others.",
+            "It is very difficult to dodge the consecutive strikes of its two tails.",
+            "Split into two, the tails are so adept at handling and doing things, Ambipom rarely uses its hands.",
+            "They work in large colonies and make rings by linking their tails, apparently in friendship.",
+            "To eat, it deftly shucks nuts with its two tails. It rarely uses its arms now.",
+            "In their search for comfortable trees, they get into territorial disputes with groups of Passimian. They win about half the time.",
+            "It uses its tails for everything. If it wraps both of its tails around you and gives you a squeeze, that\u2019s proof it really likes you.",
+            "To eat, it deftly shucks nuts with its two tails. It rarely uses its arms now.",
+            "They work in large colonies and make rings by linking their tails, apparently in friendship.",
+            "To affirm their kinship, members of this species will form a ring by linking their newly doubled tails together. On rare occasions, humans have been accepted into such rings."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789907606642860/424.png",
+    "discord_sprite": "<:P424:1132131389505011773>"
+}

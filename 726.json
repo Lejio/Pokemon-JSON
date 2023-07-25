@@ -1,0 +1,200 @@
+{
+    "alt-version(s)": [],
+    "name": "Torracat",
+    "Torracat": {
+        "pokedex_data": {
+            "National No.": "0726",
+            "Type": [
+                "Fire"
+            ],
+            "Species": "Fire Cat Poke\u0301mon",
+            "Height": "0.7 m (2\u203204\u2032\u2032)",
+            "Weight": "25.0 kg (55.1 lbs)",
+            "Abilities": {
+                "Blaze": {
+                    "href": "/ability/blaze",
+                    "effect": "Powers up Fire-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Intimidate": {
+                    "href": "/ability/intimidate",
+                    "effect": "Lowers the foe's Attack stat.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Speed",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "147",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "65",
+                "Min": "240",
+                "Max": "334"
+            },
+            "Attack": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Defense": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Atk": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Sp. Def": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Speed": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Total": "420"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Ground": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Litten",
+                    "nationalNo": "#0725",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Torracat",
+                    "nationalNo": "#0726",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 17)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Torracat",
+                    "nationalNo": "#0726",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Incineroar",
+                    "nationalNo": "#0727",
+                    "type": [
+                        "Fire",
+                        "Dark"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 34)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Ember": "1",
+            "Growl": "1",
+            "Lick": "1",
+            "Scratch": "1",
+            "Roar": "9",
+            "Fury Swipes": "12",
+            "Bite": "15",
+            "Double Kick": "20",
+            "Fire Fang": "25",
+            "Scary Face": "30",
+            "Swagger": "35",
+            "Flamethrower": "40",
+            "Thrash": "45",
+            "Flare Blitz": "50"
+        },
+        "egg": {
+            "Fake Out": null,
+            "Parting Shot": null,
+            "Power Trip": null
+        },
+        "tm": {
+            "Pay Day": "02",
+            "Fire Spin": "13",
+            "Rest": "21",
+            "Snore": "24",
+            "Protect": "25",
+            "Scary Face": "26",
+            "Attract": "31",
+            "Sunny Day": "34",
+            "Will-O-Wisp": "38",
+            "Facade": "39",
+            "Revenge": "42",
+            "U-turn": "56",
+            "Shadow Claw": "65",
+            "Fire Fang": "68",
+            "Round": "76",
+            "Acrobatics": "78"
+        },
+        "null": {
+            "Swords Dance": "00",
+            "Body Slam": "01",
+            "Flamethrower": "02",
+            "Fire Blast": "15",
+            "Leech Life": "18",
+            "Substitute": "20",
+            "Outrage": "24",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Crunch": "32",
+            "Heat Wave": "36",
+            "Taunt": "37",
+            "Overheat": "43",
+            "Bulk Up": "48",
+            "Flare Blitz": "55",
+            "Nasty Plot": "68",
+            "Work Up": "85"
+        }
+    },
+    "entries": {
+        "Torracat": [
+            "At its throat, it bears a bell of fire. The bell rings brightly whenever this Pok\u00e9mon spits fire.",
+            "It boasts powerful front legs. With a single punch, it can bend an iron bar right over.",
+            "It can act spoiled if it grows close to its Trainer. A powerful Pok\u00e9mon, its sharp claws can leave its Trainer\u2019s whole body covered in scratches.",
+            "When its mane is standing on end, you can tell it\u2019s feeling good. When it isn\u2019t feeling well, its fur will lie down flat.",
+            "In the midst of battle, the fire pouch on Torracat\u2019s neck rings like a bell and produces stronger flames than usual.",
+            "When facing a powerful enemy, Torracat\u2019s fighting spirit gets pumped up, and its fire bell blazes hotter."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792268395827200/726.png",
+    "discord_sprite": "<:P726:1132144679480201338>"
+}

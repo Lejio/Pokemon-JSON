@@ -1,0 +1,232 @@
+{
+    "alt-version(s)": [],
+    "name": "Scyther",
+    "Scyther": {
+        "pokedex_data": {
+            "National No.": "0123",
+            "Type": [
+                "Bug",
+                "Flying"
+            ],
+            "Species": "Mantis Poke\u0301mon",
+            "Height": "1.5 m (4\u203211\u2032\u2032)",
+            "Weight": "56.0 kg (123.5 lbs)",
+            "Abilities": {
+                "Swarm": {
+                    "href": "/ability/swarm",
+                    "effect": "Powers up Bug-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Technician": {
+                    "href": "/ability/technician",
+                    "effect": "Powers up the Pok\u00e9mon's weaker moves.",
+                    "hidden": false
+                },
+                "Steadfast": {
+                    "href": "/ability/steadfast",
+                    "effect": "Raises Speed each time the Pok\u00e9mon flinches.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "100",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "70",
+                "Min": "250",
+                "Max": "344"
+            },
+            "Attack": {
+                "Base": "110",
+                "Min": "202",
+                "Max": "350"
+            },
+            "Defense": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Sp. Atk": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Sp. Def": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Speed": {
+                "Base": "105",
+                "Min": "193",
+                "Max": "339"
+            },
+            "Total": "500"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Electric": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Ground": "no effect",
+                "Flying": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Scyther",
+                    "nationalNo": "#0123",
+                    "type": [
+                        "Bug",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Scizor",
+                    "nationalNo": "#0212",
+                    "type": [
+                        "Bug",
+                        "Steel"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(trade holding Metal Coat)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Scyther",
+                    "nationalNo": "#0123",
+                    "type": [
+                        "Bug",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Kleavor",
+                    "nationalNo": "#0900",
+                    "type": [
+                        "Bug",
+                        "Rock"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Black Augurite)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Leer": "1",
+            "Quick Attack": "1",
+            "Fury Cutter": "4",
+            "False Swipe": "8",
+            "Wing Attack": "12",
+            "Double Team": "16",
+            "Double Hit": "20",
+            "Slash": "24",
+            "Focus Energy": "28",
+            "Agility": "32",
+            "Air Slash": "36",
+            "X-Scissor": "40",
+            "Swords Dance": "44"
+        },
+        "egg": {
+            "Counter": null,
+            "Defog": null,
+            "Feint": null,
+            "Night Slash": null,
+            "Quick Guard": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Agility": "04",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Acrobatics": "14",
+            "Struggle Bug": "15",
+            "Thief": "18",
+            "Trailblaze": "20",
+            "Pounce": "21",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Swift": "32",
+            "Air Cutter": "40",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "False Swipe": "57",
+            "Brick Break": "58",
+            "U-turn": "60",
+            "Air Slash": "65",
+            "Sleep Talk": "70",
+            "Light Screen": "75",
+            "Rest": "85",
+            "Swords Dance": "88",
+            "Substitute": "103",
+            "X-Scissor": "105",
+            "Tailwind": "113",
+            "Helping Hand": "130",
+            "Baton Pass": "132",
+            "Reversal": "134",
+            "Giga Impact": "152",
+            "Bug Buzz": "162",
+            "Hyper Beam": "163",
+            "Close Combat": "167",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Scyther": [
+            "With ninja-like agility and speed, it can create the illusion that there is more than one.",
+            "Leaps out of tall grass and slices prey with its scythes. The movement looks like that of a ninja.",
+            "It slashes through grass with its sharp scythes, moving too fast for the human eye to track.",
+            "When it moves, it leaves only a blur. If it hides in grass, its protective colors make it invisible.",
+            "It\u2019s very proud of its speed. It moves so fast that its opponent does not even know what knocked it down.",
+            "SCYTHER is blindingly fast. Its blazing speed enhances the effectiveness of the twin scythes on its forearms. This pok\u00e9mon\u2019s scythes are so effective, they can slice through thick logs in one wicked stroke.",
+            "It tears and shreds prey with its wickedly sharp scythes. It very rarely spreads its wings to fly.",
+            "With ninja-like agility and speed, it can create the illusion that there is more than one of itself.",
+            "Its blindingly fast speed adds to the sharpness of its twin forearm scythes. The scythes can slice through thick logs in one wicked stroke.",
+            "It is nearly impossible to parry its attacking scythes. Its movements are like a ninja\u2019s.",
+            "The sharp scythes on its forearms become increasingly sharp by cutting through hard objects.",
+            "It slashes through grass with its sharp scythes, moving too fast for the human eye to track.",
+            "When it moves, it leaves only a blur. If it hides in grass, its protective coloration makes it invisible.",
+            "The sharp scythes on its forearms become increasingly sharp by cutting through hard objects.",
+            "It tears and shreds prey with its wickedly sharp scythes. It very rarely spreads its wings to fly.",
+            "It slashes through grass with its sharp scythes, moving too fast for the human eye to track.",
+            "Scyther is blindingly fast. Its blazing speed enhances the effectiveness of the twin scythes on its forearms. This Pok\u00e9mon\u2019s scythes are so effective, they can slice through thick logs in one wicked stroke.",
+            "It confuses its prey with its quick, ninja-like movements. Then, in an instant, it cleaves them with its scythes.",
+            "While young, they live together deep in the mountains, training themselves in how to fight with their scythes and move at high speeds.",
+            "Its two sharp scythes are more than just weapons. It uses them with dexterity to dress its prey before eating.",
+            "Some call it a ninja. Its movements\u2014 imperceptibly quick\u2014are sufficient to cleave the air in two. It\u2019s very popular in Alola.",
+            "Leaps out of tall grass and slices prey with its scythes. The movement looks like that of a ninja.",
+            "As Scyther fights more and more battles, its scythes become sharper and sharper. With a single slice, Scyther can fell a massive tree.",
+            "If you come across an area in a forest where a lot of the trees have been cut down, what you\u2019ve found is a Scyther\u2019s territory.",
+            "It is nearly impossible to parry its attacking scythes. Its movements are like a ninja\u2019s.",
+            "The large, wickedly sharp scythes on its forearms are truly fearsome weapons. Prey\u2019s attempts to flee are unfailingly thwarted by this Pok\u00e9mon\u2019s nimble motions.",
+            "It slashes through grass with its sharp scythes, moving too fast for the human eye to track.",
+            "The sharp scythes on its forearms become increasingly sharp by cutting through hard objects."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787551129215166/123.png",
+    "discord_sprite": "<:P123:1132118143184154684>"
+}

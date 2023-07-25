@@ -1,0 +1,226 @@
+{
+    "alt-version(s)": [],
+    "name": "Makuhita",
+    "Makuhita": {
+        "pokedex_data": {
+            "National No.": "0296",
+            "Type": [
+                "Fighting"
+            ],
+            "Species": "Guts Poke\u0301mon",
+            "Height": "1.0 m (3\u203203\u2032\u2032)",
+            "Weight": "86.4 kg (190.5 lbs)",
+            "Abilities": {
+                "Thick Fat": {
+                    "href": "/ability/thick-fat",
+                    "effect": "Ups resistance to Fire- and Ice-type moves.",
+                    "hidden": false
+                },
+                "Guts": {
+                    "href": "/ability/guts",
+                    "effect": "Boosts Attack if there is a status problem.",
+                    "hidden": false
+                },
+                "Sheer Force": {
+                    "href": "/ability/sheer-force",
+                    "effect": "Removes added effects to increase move damage.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 HP",
+            "Catch rate": "180",
+            "BaseFriendship": "50",
+            "Base Exp.": "47",
+            "Growth Rate": "Fluctuating"
+        },
+        "breeding_data": {
+            "Gender": "75% male,25% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "72",
+                "Min": "254",
+                "Max": "348"
+            },
+            "Attack": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Defense": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Sp. Atk": {
+                "Base": "20",
+                "Min": "40",
+                "Max": "152"
+            },
+            "Sp. Def": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Speed": {
+                "Base": "25",
+                "Min": "49",
+                "Max": "163"
+            },
+            "Total": "237"
+        },
+        "defense_stats": {
+            "Thick Fat ability": {
+                "Fire": "not very effective",
+                "Ice": "not very effective",
+                "Flying": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Dark": "not very effective",
+                "Fairy": "super-effective"
+            },
+            "Guts ability": {
+                "Flying": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Dark": "not very effective",
+                "Fairy": "super-effective"
+            },
+            "Sheer Force ability": {
+                "Flying": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Dark": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Makuhita",
+                    "nationalNo": "#0296",
+                    "type": [
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Hariyama",
+                    "nationalNo": "#0297",
+                    "type": [
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 24)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Focus Energy": "1",
+            "Tackle": "1",
+            "Sand Attack": "4",
+            "Arm Thrust": "7",
+            "Fake Out": "10",
+            "Force Palm": "13",
+            "Whirlwind": "16",
+            "Knock Off": "19",
+            "Bulk Up": "22",
+            "Belly Drum": "25",
+            "Detect": "28",
+            "Seismic Toss": "31",
+            "Focus Punch": "34",
+            "Endure": "37",
+            "Close Combat": "40",
+            "Reversal": "43",
+            "Heavy Slam": "46"
+        },
+        "egg": {
+            "Bullet Punch": null,
+            "Counter": null,
+            "Cross Chop": null,
+            "Dynamic Punch": null,
+            "Feint": null,
+            "Helping Hand": null,
+            "Wide Guard": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Mud-Slap": "05",
+            "Protect": "07",
+            "Low Kick": "12",
+            "Thief": "18",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Bulldoze": "28",
+            "Swift": "32",
+            "Mud Shot": "35",
+            "Rock Tomb": "36",
+            "Low Sweep": "39",
+            "Fling": "43",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Dig": "55",
+            "Brick Break": "58",
+            "Zen Headbutt": "59",
+            "Bulk Up": "64",
+            "Body Slam": "66",
+            "Fire Punch": "67",
+            "Thunder Punch": "68",
+            "Ice Punch": "69",
+            "Sleep Talk": "70",
+            "Drain Punch": "73",
+            "Metronome": "80",
+            "Poison Jab": "83",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Taunt": "87",
+            "Body Press": "89",
+            "Substitute": "103",
+            "Heavy Slam": "121",
+            "Surf": "123",
+            "Helping Hand": "130",
+            "Reversal": "134",
+            "Earthquake": "149",
+            "Stone Edge": "150",
+            "Focus Blast": "158",
+            "Close Combat": "167",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Makuhita": [
+            "MAKUHITA is tenacious - it will keep getting up and attacking its foe however many times it is knocked down. Every time it gets back up, this pok\u00e9mon stores more energy in its body for evolving.",
+            "MAKUHITA has a tireless spirit - it will never give up hope. It eats a lot of food, gets plenty of sleep, and it trains very rigorously. By living that way, this pok\u00e9mon packs its body with energy.",
+            "It grows stronger by enduring harsh training. It is a gutsy pok\u00e9mon that can withstand any attack.",
+            "It loves to toughen up its body above all else. If you hear quaking rumbles in a cave, it is the sound of MAKUHITA undertaking strenuous training.",
+            "It toughens its body by slamming into thick trees. Many snapped trees can be found near its nest.",
+            "It toughens up by slamming into thick trees over and over. It gains a sturdy body and dauntless spirit.",
+            "It toughens its body by slamming into thick trees. Many snapped trees can be found near its nest.",
+            "It toughens up by slamming into thick trees over and over. It gains a sturdy body and dauntless spirit.",
+            "It grows stronger by enduring harsh training. It is a gutsy Pok\u00e9mon that can withstand any attack.",
+            "Makuhita is tenacious\u2014it will keep getting up and attacking its foe however many times it is knocked down. Every time it gets back up, this Pok\u00e9mon stores more energy in its body for evolving.",
+            "Makuhita has a tireless spirit\u2014it will never give up hope. It eats a lot of food, gets plenty of sleep, and it trains very rigorously. By living that way, this Pok\u00e9mon packs its body with energy.",
+            "It was originally brought in from another region, but now Makuhita from Alola are more famous.",
+            "Their daily routine consists of training together first thing in the morning, eating and napping in the afternoon, and then more training afterward.",
+            "It practices its slaps by repeatedly slapping tree trunks. It has been known to slap an Exeggutor and get flung away.",
+            "There\u2019s a rumor of a traditional recipe for stew that Trainers can use to raise strong Makuhita.",
+            "It toughens its body by slamming into thick trees. Many snapped trees can be found near its nest.",
+            "It grows stronger by enduring harsh training. It is a gutsy Pok\u00e9mon that can withstand any attack.",
+            "It toughens up by slamming into thick trees over and over. It gains a sturdy body and dauntless spirit."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788912088588420/296.png",
+    "discord_sprite": "<:P296:1132125765618647152>"
+}

@@ -1,0 +1,209 @@
+{
+    "alt-version(s)": [],
+    "name": "Trevenant",
+    "Trevenant": {
+        "pokedex_data": {
+            "National No.": "0709",
+            "Type": [
+                "Ghost",
+                "Grass"
+            ],
+            "Species": "Elder Tree Poke\u0301mon",
+            "Height": "1.5 m (4\u203211\u2032\u2032)",
+            "Weight": "71.0 kg (156.5 lbs)",
+            "Abilities": {
+                "Natural Cure": {
+                    "href": "/ability/natural-cure",
+                    "effect": "All status problems heal when it switches out.",
+                    "hidden": false
+                },
+                "Frisk": {
+                    "href": "/ability/frisk",
+                    "effect": "The Pok\u00e9mon can check a foe's held item.",
+                    "hidden": false
+                },
+                "Harvest": {
+                    "href": "/ability/harvest",
+                    "effect": "May create another Berry after one is used.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "60",
+            "BaseFriendship": "50",
+            "Base Exp.": "166",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "85",
+                "Min": "280",
+                "Max": "374"
+            },
+            "Attack": {
+                "Base": "110",
+                "Min": "202",
+                "Max": "350"
+            },
+            "Defense": {
+                "Base": "76",
+                "Min": "141",
+                "Max": "276"
+            },
+            "Sp. Atk": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Def": {
+                "Base": "82",
+                "Min": "152",
+                "Max": "289"
+            },
+            "Speed": {
+                "Base": "56",
+                "Min": "105",
+                "Max": "232"
+            },
+            "Total": "474"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "no effect",
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "no effect",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Phantump",
+                    "nationalNo": "#0708",
+                    "type": [
+                        "Ghost",
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Trevenant",
+                    "nationalNo": "#0709",
+                    "type": [
+                        "Ghost",
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Trade)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Astonish": "1",
+            "Branch Poke": "1",
+            "Leech Seed": "1",
+            "Shadow Claw": "1",
+            "Tackle": "1",
+            "Confuse Ray": "12",
+            "Will-O-Wisp": "16",
+            "Hex": "20",
+            "Growth": "24",
+            "Horn Leech": "28",
+            "Curse": "32",
+            "Phantom Force": "36",
+            "Ingrain": "40",
+            "Wood Hammer": "44",
+            "Destiny Bond": "48",
+            "Forest's Curse": "52"
+        },
+        "evolution": {
+            "Shadow Claw": "70"
+        },
+        "egg": {
+            "Disable": null,
+            "Grudge": null,
+            "Sucker Punch": null
+        },
+        "null": {
+            "Earthquake": "10",
+            "Psychic": "11",
+            "Substitute": "20",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Shadow Ball": "33",
+            "Trick": "38",
+            "Skill Swap": "40",
+            "Calm Mind": "49",
+            "Poison Jab": "57",
+            "Dark Pulse": "58",
+            "Seed Bomb": "59",
+            "X-Scissor": "60",
+            "Focus Blast": "64",
+            "Energy Ball": "65",
+            "Leaf Storm": "71",
+            "Grass Knot": "77",
+            "Foul Play": "81",
+            "Ally Switch": "83",
+            "Venom Drench": "91"
+        },
+        "tm": {
+            "Hyper Beam": "08",
+            "Giga Impact": "09",
+            "Magical Leaf": "10",
+            "Solar Beam": "11",
+            "Dig": "15",
+            "Reflect": "18",
+            "Safeguard": "19",
+            "Rest": "21",
+            "Rock Slide": "22",
+            "Thief": "23",
+            "Snore": "24",
+            "Protect": "25",
+            "Giga Drain": "28",
+            "Attract": "31",
+            "Sunny Day": "34",
+            "Will-O-Wisp": "38",
+            "Facade": "39",
+            "Imprison": "44",
+            "Drain Punch": "63",
+            "Shadow Claw": "65",
+            "Trick Room": "70",
+            "Round": "76",
+            "Hex": "77",
+            "Bulldoze": "81",
+            "Phantom Force": "86",
+            "Brutal Swing": "97"
+        }
+    },
+    "entries": {
+        "Trevenant": [
+            "It can control trees at will. It will trap people who harm the forest, so they can never leave.",
+            "Using its roots as a nervous system, it controls the trees in the forest. It\u2019s kind to the Pok\u00e9mon that reside in its body.",
+            "This Pok\u00e9mon is said to devour anyone daring to ravage the forest. To the creatures dwelling in the forest, it offers great kindness.",
+            "Through its roots, it exerts control over other trees. A deadly curse falls upon anyone cutting down trees in forests where Trevenant dwell.",
+            "It\u2019s feared as a ghost of the forest. Lumberjacks bring along Fire types, which Trevenant hates, when they enter the forest.",
+            "This Pok\u00e9mon controls trees via roots stretching from its feet, and it will attack anyone that dares to ravage the forest.",
+            "People fear it due to a belief that it devours any who try to cut down trees in its forest, but to the Pok\u00e9mon it shares its woods with, it\u2019s kind.",
+            "Small roots that extend from the tips of this Pok\u00e9mon\u2019s feet can tie into the trees of the forest and give Trevenant control over them."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792128423510026/709.png",
+    "discord_sprite": "<:P709:1132143936308269096>"
+}

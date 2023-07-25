@@ -1,0 +1,173 @@
+{
+    "alt-version(s)": [],
+    "name": "Ho-oh",
+    "Ho-oh": {
+        "pokedex_data": {
+            "National No.": "0250",
+            "Type": [
+                "Fire",
+                "Flying"
+            ],
+            "Species": "Rainbow Poke\u0301mon",
+            "Height": "3.8 m (12\u203206\u2032\u2032)",
+            "Weight": "199.0 kg (438.7 lbs)",
+            "Abilities": {
+                "Pressure": {
+                    "href": "/ability/pressure",
+                    "effect": "The Pok\u00e9mon raises the foe's PP usage.",
+                    "hidden": false
+                },
+                "Regenerator": {
+                    "href": "/ability/regenerator",
+                    "effect": "Restores a little HP when withdrawn from battle.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Sp. Def",
+            "Catch rate": "3",
+            "BaseFriendship": "0",
+            "Base Exp.": "306",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "106",
+                "Min": "322",
+                "Max": "416"
+            },
+            "Attack": {
+                "Base": "130",
+                "Min": "238",
+                "Max": "394"
+            },
+            "Defense": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Sp. Atk": {
+                "Base": "110",
+                "Min": "202",
+                "Max": "350"
+            },
+            "Sp. Def": {
+                "Base": "154",
+                "Min": "281",
+                "Max": "447"
+            },
+            "Speed": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Total": "680"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Electric": "super-effective",
+                "Grass": "not very effective",
+                "Fighting": "not very effective",
+                "Ground": "no effect",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Ancient Power": "1",
+            "Gust": "1",
+            "Weather Ball": "1",
+            "Whirlwind": "1",
+            "Life Dew": "9",
+            "Safeguard": "18",
+            "Calm Mind": "27",
+            "Extrasensory": "36",
+            "Recover": "45",
+            "Sacred Fire": "54",
+            "Sunny Day": "63",
+            "Fire Blast": "72",
+            "Future Sight": "81",
+            "Sky Attack": "90",
+            "Burn Up": "99"
+        },
+        "egg": null,
+        "tm": {
+            "Calm Mind": "04",
+            "Roar": "05",
+            "Sunny Day": "11",
+            "Hyper Beam": "15",
+            "Light Screen": "16",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Giga Drain": "19",
+            "Safeguard": "20",
+            "Solar Beam": "22",
+            "Thunderbolt": "24",
+            "Thunder": "25",
+            "Earthquake": "26",
+            "Psychic": "29",
+            "Shadow Ball": "30",
+            "Double Team": "32",
+            "Reflect": "33",
+            "Shock Wave": "34",
+            "Flamethrower": "35",
+            "Sandstorm": "37",
+            "Fire Blast": "38",
+            "Aerial Ace": "40",
+            "Facade": "42",
+            "Rest": "44",
+            "Steel Wing": "47",
+            "Overheat": "50",
+            "Roost": "51",
+            "Charge Beam": "57",
+            "Endure": "58",
+            "Will-O-Wisp": "61",
+            "Giga Impact": "68",
+            "Flash": "70",
+            "Thunder Wave": "73",
+            "Psych Up": "77",
+            "Sleep Talk": "82",
+            "Bulldoze": "83",
+            "Dream Eater": "85",
+            "Swagger": "87",
+            "Pluck": "88",
+            "Substitute": "90",
+            "Fly": "94",
+            "Strength": "96",
+            "Defog": "97",
+            "Rock Smash": "98"
+        }
+    },
+    "entries": {
+        "Ho-oh": [
+            "Legends claim this pok\u00e9mon flies the world\u2019s skies continuously on its magnificent seven-colored wings.",
+            "A legend says that its body glows in seven colors. A rainbow is said to form behind it when it flies.",
+            "It will reveal itself before a pure-hearted trainer by shining its bright rainbow-colored wings.",
+            "HO-OH\u2019s feathers glow in seven colors depending on the angle at which they are struck by light. These feathers are said to bring happiness to the bearers. This pok\u00e9mon is said to live at the foot of a rainbow.",
+            "A legend says that its body glows in seven colors. A rainbow is said to form behind it when it flies.",
+            "Legends claim this pok\u00e9mon flies the world\u2019s skies continuously on its magnificent seven-colored wings.",
+            "Its feathers--which glow in seven colors depending on the angle at which they are struck by light--are thought to bring joy. It is said to live at the foot of a rainbow.",
+            "Its feathers are in seven colors. It is said that anyone seeing it is promised eternal happiness.",
+            "Legends claim this Pok\u00e9mon flies the world\u2019s skies continuously on its magnificent, seven-colored wings.",
+            "A legend says that its body glows in seven colors. A rainbow is said to form behind it when it flies.",
+            "Its feathers are in seven colors. It is said that anyone seeing it is promised eternal happiness.",
+            "A legend says that its body glows in seven colors. A rainbow is said to form behind it when it flies.",
+            "It will reveal itself before a pure-hearted Trainer by shining its bright, rainbow-colored wings.",
+            "Ho-Oh\u2019s feathers glow in seven colors depending on the angle at which they are struck by light. These feathers are said to bring happiness to the bearers. This Pok\u00e9mon is said to live at the foot of a rainbow.",
+            "Its feathers are in seven colors. It is said that anyone seeing it is promised eternal happiness."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788549537144923/250.png",
+    "discord_sprite": "<:P250:1132123740189241445>"
+}

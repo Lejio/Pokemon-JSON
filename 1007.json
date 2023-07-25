@@ -1,0 +1,174 @@
+{
+    "alt-version(s)": [],
+    "name": "Koraidon",
+    "Koraidon": {
+        "pokedex_data": {
+            "National No.": "1007",
+            "Type": [
+                "Fighting",
+                "Dragon"
+            ],
+            "Species": "Paradox Poke\u0301mon",
+            "Height": "2.5 m (8\u203202\u2032\u2032)",
+            "Weight": "303.0 kg (668.0 lbs)",
+            "Abilities": {
+                "Orichalcum Pulse": {
+                    "href": "/ability/orichalcum-pulse",
+                    "effect": "Turns the sunlight harsh when entering battle, and boosts Attack while active.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Attack",
+            "Catch rate": "3",
+            "BaseFriendship": "0",
+            "Base Exp.": "335",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "100",
+                "Min": "310",
+                "Max": "404"
+            },
+            "Attack": {
+                "Base": "135",
+                "Min": "247",
+                "Max": "405"
+            },
+            "Defense": {
+                "Base": "115",
+                "Min": "211",
+                "Max": "361"
+            },
+            "Sp. Atk": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Sp. Def": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Speed": {
+                "Base": "135",
+                "Min": "247",
+                "Max": "405"
+            },
+            "Total": "670"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Flying": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Dragon": "super-effective",
+                "Dark": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Breaking Swipe": "1",
+            "Sunny Day": "1",
+            "Rock Smash": "7",
+            "Ancient Power": "14",
+            "Drain Punch": "21",
+            "Brick Break": "28",
+            "Agility": "35",
+            "Dragon Claw": "42",
+            "Flamethrower": "49",
+            "Collision Course": "56",
+            "Screech": "63",
+            "Counter": "70",
+            "Outrage": "77",
+            "Close Combat": "84",
+            "Flare Blitz": "91",
+            "Giga Impact": "98"
+        },
+        "egg": null,
+        "tm": {
+            "Take Down": "01",
+            "Agility": "04",
+            "Mud-Slap": "05",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Fire Fang": "08",
+            "Thunder Fang": "09",
+            "Ice Fang": "10",
+            "Low Kick": "12",
+            "Acrobatics": "14",
+            "Fire Spin": "24",
+            "Facade": "25",
+            "Bulldoze": "28",
+            "Snarl": "30",
+            "Mud Shot": "35",
+            "Flame Charge": "38",
+            "Low Sweep": "39",
+            "Dragon Tail": "44",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Dig": "55",
+            "Brick Break": "58",
+            "Zen Headbutt": "59",
+            "U-turn": "60",
+            "Shadow Claw": "61",
+            "Bulk Up": "64",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Drain Punch": "73",
+            "Dragon Claw": "78",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Taunt": "87",
+            "Swords Dance": "88",
+            "Body Press": "89",
+            "Iron Head": "99",
+            "Substitute": "103",
+            "Crunch": "108",
+            "Dragon Pulse": "115",
+            "Heat Wave": "118",
+            "Heavy Slam": "121",
+            "Flamethrower": "125",
+            "Helping Hand": "130",
+            "Reversal": "134",
+            "Fire Blast": "141",
+            "Wild Charge": "147",
+            "Giga Impact": "152",
+            "Outrage": "156",
+            "Overheat": "157",
+            "Focus Blast": "158",
+            "Hyper Beam": "163",
+            "Flare Blitz": "165",
+            "Close Combat": "167",
+            "Solar Beam": "168",
+            "Draco Meteor": "169",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Koraidon": [
+            "This seems to be the Winged King mentioned in an old expedition journal. It was said to have split the land with its bare fists.",
+            "This Pok\u00e9mon resembles Cyclizar, but it is far burlier and more ferocious. Nothing is known about its ecology or other features."
+        ],
+        "Limited Build": [
+            "The ecology and other data about this Pok\u00e9mon are unknown. It was named Koraidon by the professor who discovered it.",
+            "It has similar characteristics to a creature described in an old book as the Winged King."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131794456044113950/1007.png",
+    "discord_sprite": "<:P1007:1132157103075762266>"
+}

@@ -1,0 +1,214 @@
+{
+    "alt-version(s)": [],
+    "name": "Tyrogue",
+    "Tyrogue": {
+        "pokedex_data": {
+            "National No.": "0236",
+            "Type": [
+                "Fighting"
+            ],
+            "Species": "Scuffle Poke\u0301mon",
+            "Height": "0.7 m (2\u203204\u2032\u2032)",
+            "Weight": "21.0 kg (46.3 lbs)",
+            "Abilities": {
+                "Guts": {
+                    "href": "/ability/guts",
+                    "effect": "Boosts Attack if there is a status problem.",
+                    "hidden": false
+                },
+                "Steadfast": {
+                    "href": "/ability/steadfast",
+                    "effect": "Raises Speed each time the Pok\u00e9mon flinches.",
+                    "hidden": false
+                },
+                "Vital Spirit": {
+                    "href": "/ability/vital-spirit",
+                    "effect": "Prevents the Pok\u00e9mon from falling asleep.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack",
+            "Catch rate": "75",
+            "BaseFriendship": "50",
+            "Base Exp.": "42",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "100% male,0% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "35",
+                "Min": "180",
+                "Max": "274"
+            },
+            "Attack": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Defense": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Sp. Atk": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Sp. Def": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Speed": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Total": "210"
+        },
+        "defense_stats": {
+            "default": {
+                "Flying": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Dark": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Tyrogue",
+                    "nationalNo": "#0236",
+                    "type": [
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Hitmonlee",
+                    "nationalNo": "#0106",
+                    "type": [
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 20, Attack > Defense)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Tyrogue",
+                    "nationalNo": "#0236",
+                    "type": [
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Hitmonchan",
+                    "nationalNo": "#0107",
+                    "type": [
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 20, Attack < Defense)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Tyrogue",
+                    "nationalNo": "#0236",
+                    "type": [
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Hitmontop",
+                    "nationalNo": "#0237",
+                    "type": [
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 20, Attack = Defense)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Fake Out": "1",
+            "Focus Energy": "1",
+            "Helping Hand": "1",
+            "Tackle": "1"
+        },
+        "egg": {
+            "Bullet Punch": null,
+            "Counter": null,
+            "Feint": null,
+            "Helping Hand": null,
+            "High Jump Kick": null,
+            "Mach Punch": null,
+            "Mind Reader": null,
+            "Rapid Spin": null,
+            "Vacuum Wave": null
+        },
+        "tm": {
+            "Bulk Up": "08",
+            "Work Up": "10",
+            "Sunny Day": "11",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Earthquake": "26",
+            "Low Sweep": "27",
+            "Brick Break": "31",
+            "Double Team": "32",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Endure": "58",
+            "Rock Slide": "80",
+            "Sleep Talk": "82",
+            "Bulldoze": "83",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Strength": "96",
+            "Rock Smash": "98"
+        }
+    },
+    "entries": {
+        "Tyrogue": [
+            "It is always bursting with energy. To make itself stronger, it keeps on fighting even if it loses.",
+            "Even though it is small, it can\u2019t be ignored because it will slug any handy target without warning.",
+            "To brush up on its fighting skills, it will challenge anyone. It has a very strong competitive spirit.",
+            "TYROGUE becomes stressed out if it does not get to train every day. When raising this pok\u00e9mon, the TRAINER must establish and uphold various training methods.",
+            "Even though it is small, it can\u2019t be ignored because it will slug any handy target without warning.",
+            "It is always bursting with energy. To make itself stronger, it keeps on fighting even if it loses.",
+            "TYROGUE become stressed out if they do not get to train every day. When raising this pok\u00e9mon, the TRAINER must establish a regular training schedule.",
+            "It is famous for its eagerness to fight and always nurses injuries from challenging larger foes.",
+            "It is always bursting with energy. To make itself stronger, it keeps on fighting even if it loses.",
+            "Even though it is small, it can\u2019t be ignored because it will slug any handy target without warning.",
+            "It is famous for its eagerness to fight and always nurses injuries from challenging larger foes.",
+            "It is always bursting with energy. To make itself stronger, it keeps on fighting even if it loses.",
+            "To brush up on its fighting skills, it will challenge anyone. It has a very strong competitive spirit.",
+            "Tyrogue becomes stressed out if it does not get to train every day. When raising this Pok\u00e9mon, the Trainer must establish and uphold various training methods.",
+            "It is always bursting with energy. To make itself stronger, it keeps on fighting even if it loses.",
+            "Even though it is small, it can\u2019t be ignored because it will slug any handy target without warning.",
+            "It is famous for its eagerness to fight and always nurses injuries from challenging larger foes."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788438216118302/236.png",
+    "discord_sprite": "<:P236:1132123121537777764>"
+}

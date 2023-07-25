@@ -1,0 +1,220 @@
+{
+    "alt-version(s)": [],
+    "name": "Shedinja",
+    "Shedinja": {
+        "pokedex_data": {
+            "National No.": "0292",
+            "Type": [
+                "Bug",
+                "Ghost"
+            ],
+            "Species": "Shed Poke\u0301mon",
+            "Height": "0.8 m (2\u203207\u2032\u2032)",
+            "Weight": "1.2 kg (2.6 lbs)",
+            "Abilities": {
+                "Wonder Guard": {
+                    "href": "/ability/wonder-guard",
+                    "effect": "Only supereffective moves will hit.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 HP",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "83",
+            "Growth Rate": "Erratic"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "1",
+                "Min": "1",
+                "Max": "1"
+            },
+            "Attack": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Defense": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Sp. Atk": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Sp. Def": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Speed": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Total": "236"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "no effect",
+                "Fire": "super-effective",
+                "Water": "no effect",
+                "Electric": "no effect",
+                "Grass": "no effect",
+                "Ice": "no effect",
+                "Fighting": "no effect",
+                "Poison": "no effect",
+                "Ground": "no effect",
+                "Flying": "super-effective",
+                "Psychic": "no effect",
+                "Bug": "no effect",
+                "Rock": "super-effective",
+                "Ghost": "super-effective",
+                "Dragon": "no effect",
+                "Dark": "super-effective",
+                "Steel": "no effect",
+                "Fairy": "no effect"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Nincada",
+                    "nationalNo": "#0290",
+                    "type": [
+                        "Bug",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Ninjask",
+                    "nationalNo": "#0291",
+                    "type": [
+                        "Bug",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 20)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Nincada",
+                    "nationalNo": "#0290",
+                    "type": [
+                        "Bug",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Ninjask",
+                    "nationalNo": "#0291",
+                    "type": [
+                        "Bug",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 20, empty spot in party, Pok\u00e9ball in bag)",
+                "shed": {
+                    "name": "Shedinja",
+                    "nationalNo": "#0292",
+                    "type": [
+                        "Bug",
+                        "Ghost"
+                    ],
+                    "nickname": null
+                }
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Dig": "1",
+            "False Swipe": "1",
+            "Grudge": "1",
+            "Harden": "1",
+            "Metal Claw": "1",
+            "Mud-Slap": "1",
+            "Sand Attack": "1",
+            "Scratch": "1",
+            "Shadow Claw": "1",
+            "Confuse Ray": "15",
+            "Absorb": "23",
+            "Shadow Sneak": "29",
+            "Fury Swipes": "36",
+            "Mind Reader": "43",
+            "Shadow Ball": "50",
+            "Spite": "57",
+            "Phantom Force": "64"
+        },
+        "egg": {
+            "Bug Bite": null,
+            "Final Gambit": null,
+            "Flail": null,
+            "Gust": null,
+            "Night Slash": null
+        },
+        "tm": {
+            "Sunny Day": "11",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Giga Drain": "19",
+            "Solar Beam": "22",
+            "Dig": "28",
+            "Shadow Ball": "30",
+            "Double Team": "32",
+            "Sandstorm": "37",
+            "Aerial Ace": "40",
+            "Facade": "42",
+            "Rest": "44",
+            "Thief": "46",
+            "False Swipe": "54",
+            "Endure": "58",
+            "Will-O-Wisp": "61",
+            "Bug Buzz": "62",
+            "Shadow Claw": "65",
+            "Giga Impact": "68",
+            "Flash": "70",
+            "X-Scissor": "81",
+            "Sleep Talk": "82",
+            "Dream Eater": "85",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Cut": "93"
+        }
+    },
+    "entries": {
+        "Shedinja": [
+            "SHEDINJA\u2019s hard body doesn\u2019t move - not even a twitch. In fact, its body appears to be merely a hollow shell. It is believed that this pok\u00e9mon will steal the spirit of anyone peering into its hollow body from its back.",
+            "SHEDINJA is a peculiar pok\u00e9mon. It seems to appear unsought in a POK\u00e9 BALL after a NINCADA evolves. This bizarre pok\u00e9mon is entirely immobile - it doesn\u2019t even breathe.",
+            "A most peculiar pok\u00e9mon that somehow appears in a POK\u00e9 BALL when a NINCADA evolves.",
+            "A peculiar pok\u00e9mon that floats in air even though its wings remain completely still. The inside of its body is hollow and utterly dark.",
+            "A discarded bug shell that came to life. Peering into the crack on its back is said to steal one\u2019s spirit.",
+            "A strange Pok\u00e9mon--it flies without moving its wings, has a hollow shell for a body, and does not breathe.",
+            "A discarded bug shell that came to life. Peering into the crack on its back is said to steal one\u2019s spirit.",
+            "A discarded bug shell that came to life. Peering into the crack on its back is said to steal one\u2019s spirit.",
+            "A most peculiar Pok\u00e9mon that somehow appears in a Pok\u00e9 Ball when a Nincada evolves.",
+            "Shedinja\u2019s hard body doesn\u2019t move\u2014not even a twitch. In fact, its body appears to be merely a hollow shell. It is believed that this Pok\u00e9mon will steal the spirit of anyone peering into its hollow body from its back.",
+            "Shedinja is a peculiar Pok\u00e9mon. It seems to appear unsought in a Pok\u00e9 Ball after a Nincada evolves. This bizarre Pok\u00e9mon is entirely immobile\u2014it doesn\u2019t even breathe.",
+            "A most peculiar Pok\u00e9mon that somehow appears in a Pok\u00e9 Ball when a Nincada evolves.",
+            "A strange Pok\u00e9mon\u2014it flies without moving its wings, has a hollow shell for a body, and does not breathe.",
+            "It is a discarded bug shell that came to life. Peering into the crack on its back is said to steal one\u2019s spirit."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788879427555448/292.png",
+    "discord_sprite": "<:P292:1132125590443528323>"
+}

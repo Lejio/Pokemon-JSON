@@ -1,0 +1,231 @@
+{
+    "alt-version(s)": [],
+    "name": "Hydreigon",
+    "Hydreigon": {
+        "pokedex_data": {
+            "National No.": "0635",
+            "Type": [
+                "Dark",
+                "Dragon"
+            ],
+            "Species": "Brutal Poke\u0301mon",
+            "Height": "1.8 m (5\u203211\u2032\u2032)",
+            "Weight": "160.0 kg (352.7 lbs)",
+            "Abilities": {
+                "Levitate": {
+                    "href": "/ability/levitate",
+                    "effect": "Gives immunity to Ground type moves.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Sp. Atk",
+            "Catch rate": "45",
+            "BaseFriendship": "35",
+            "Base Exp.": "300",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "92",
+                "Min": "294",
+                "Max": "388"
+            },
+            "Attack": {
+                "Base": "105",
+                "Min": "193",
+                "Max": "339"
+            },
+            "Defense": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Sp. Atk": {
+                "Base": "125",
+                "Min": "229",
+                "Max": "383"
+            },
+            "Sp. Def": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Speed": {
+                "Base": "98",
+                "Min": "180",
+                "Max": "324"
+            },
+            "Total": "600"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "super-effective",
+                "Ground": "no effect",
+                "Psychic": "no effect",
+                "Bug": "super-effective",
+                "Ghost": "not very effective",
+                "Dragon": "super-effective",
+                "Dark": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Deino",
+                    "nationalNo": "#0633",
+                    "type": [
+                        "Dark",
+                        "Dragon"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Zweilous",
+                    "nationalNo": "#0634",
+                    "type": [
+                        "Dark",
+                        "Dragon"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 50)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Zweilous",
+                    "nationalNo": "#0634",
+                    "type": [
+                        "Dark",
+                        "Dragon"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Hydreigon",
+                    "nationalNo": "#0635",
+                    "type": [
+                        "Dark",
+                        "Dragon"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 64)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Bite": "1",
+            "Double Hit": "1",
+            "Dragon Breath": "1",
+            "Focus Energy": "1",
+            "Tackle": "1",
+            "Tri Attack": "1",
+            "Roar": "12",
+            "Assurance": "16",
+            "Headbutt": "20",
+            "Work Up": "24",
+            "Slam": "28",
+            "Crunch": "32",
+            "Scary Face": "36",
+            "Dragon Pulse": "40",
+            "Body Slam": "44",
+            "Hyper Voice": "48",
+            "Dragon Rush": "54",
+            "Nasty Plot": "60",
+            "Outrage": "68",
+            "Hyper Beam": "76"
+        },
+        "egg": {
+            "Astonish": null,
+            "Belch": null,
+            "Double Hit": null,
+            "Head Smash": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Fire Fang": "08",
+            "Thunder Fang": "09",
+            "Ice Fang": "10",
+            "Acrobatics": "14",
+            "Thief": "18",
+            "Fire Spin": "24",
+            "Facade": "25",
+            "Bulldoze": "28",
+            "Snarl": "30",
+            "Rock Tomb": "36",
+            "Dragon Tail": "44",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Zen Headbutt": "59",
+            "U-turn": "60",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Reflect": "74",
+            "Thunder Wave": "82",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Taunt": "87",
+            "Flash Cannon": "93",
+            "Dark Pulse": "94",
+            "Fly": "97",
+            "Dragon Dance": "100",
+            "Substitute": "103",
+            "Crunch": "108",
+            "Tailwind": "113",
+            "Dragon Pulse": "115",
+            "Stealth Rock": "116",
+            "Hyper Voice": "117",
+            "Heat Wave": "118",
+            "Surf": "123",
+            "Flamethrower": "125",
+            "Helping Hand": "130",
+            "Earth Power": "133",
+            "Nasty Plot": "140",
+            "Fire Blast": "141",
+            "Hydro Pump": "142",
+            "Earthquake": "149",
+            "Stone Edge": "150",
+            "Giga Impact": "152",
+            "Outrage": "156",
+            "Focus Blast": "158",
+            "Hyper Beam": "163",
+            "Draco Meteor": "169",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Hydreigon": [
+            "This brutal Pok\u00e9mon travels the skies on its six wings. Anything that moves seems like a foe to it, triggering its attack.",
+            "The heads on their arms do not have brains. They use all three heads to consume and destroy everything.",
+            "It responds to movement by attacking. This scary, three-headed Pok\u00e9mon devours everything in its path!",
+            "The heads on their arms do not have brains. They use all three heads to consume and destroy everything.",
+            "It responds to movement by attacking. This scary, three-headed Pok\u00e9mon devours everything in its path!",
+            "There are a slew of stories about villages that were destroyed by Hydreigon. It bites anything that moves.",
+            "The three heads take turns sinking their teeth into the opponent. Their attacks won\u2019t slow until their target goes down.",
+            "Only the central head has a brain. It is very intelligent, but it thinks only of destruction.",
+            "It\u2019s said that Hydreigon grew ferocious because people in times long past loathed it, considering it to be evil incarnate and attacking it relentlessly."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791553866776586/635.png",
+    "discord_sprite": "<:P635:1132140684787323001>"
+}

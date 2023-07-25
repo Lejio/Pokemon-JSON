@@ -1,0 +1,204 @@
+{
+    "alt-version(s)": [],
+    "name": "Klinklang",
+    "Klinklang": {
+        "pokedex_data": {
+            "National No.": "0601",
+            "Type": [
+                "Steel"
+            ],
+            "Species": "Gear Poke\u0301mon",
+            "Height": "0.6 m (2\u203200\u2032\u2032)",
+            "Weight": "81.0 kg (178.6 lbs)",
+            "Abilities": {
+                "Plus": {
+                    "href": "/ability/plus",
+                    "effect": "Ups Sp. Atk if another Pok\u00e9mon has Plus or Minus.",
+                    "hidden": false
+                },
+                "Minus": {
+                    "href": "/ability/minus",
+                    "effect": "Ups Sp. Atk if another Pok\u00e9mon has Plus or Minus.",
+                    "hidden": false
+                },
+                "Clear Body": {
+                    "href": "/ability/clear-body",
+                    "effect": "Prevents other Pok\u00e9mon from lowering its stats.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Defense",
+            "Catch rate": "30",
+            "BaseFriendship": "50",
+            "Base Exp.": "234",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "60",
+                "Min": "230",
+                "Max": "324"
+            },
+            "Attack": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Defense": {
+                "Base": "115",
+                "Min": "211",
+                "Max": "361"
+            },
+            "Sp. Atk": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Def": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Speed": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Total": "520"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Fire": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Poison": "no effect",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Dragon": "not very effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Klink",
+                    "nationalNo": "#0599",
+                    "type": [
+                        "Steel"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Klang",
+                    "nationalNo": "#0600",
+                    "type": [
+                        "Steel"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 38)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Klang",
+                    "nationalNo": "#0600",
+                    "type": [
+                        "Steel"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Klinklang",
+                    "nationalNo": "#0601",
+                    "type": [
+                        "Steel"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 49)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Bind": "1",
+            "Charge": "1",
+            "Gear Up": "1",
+            "Magnetic Flux": "1",
+            "Thunder Shock": "1",
+            "Vise Grip": "1",
+            "Charge Beam": "12",
+            "Metal Sound": "16",
+            "Autotomize": "20",
+            "Discharge": "24",
+            "Screech": "28",
+            "Gear Grind": "32",
+            "Lock-On": "36",
+            "Shift Gear": "42",
+            "Zap Cannon": "48",
+            "Hyper Beam": "56",
+            "Electric Terrain": "64"
+        },
+        "egg": {
+            "Rising Voltage": null,
+            "Steel Roller": null
+        },
+        "null": {
+            "Thunderbolt": "08",
+            "Thunder": "09",
+            "Substitute": "20",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Uproar": "35",
+            "Iron Defense": "46",
+            "Power Gem": "63",
+            "Flash Cannon": "70",
+            "Ally Switch": "83",
+            "Wild Charge": "86"
+        },
+        "tm": {
+            "Hyper Beam": "08",
+            "Giga Impact": "09",
+            "Thunder Wave": "14",
+            "Screech": "16",
+            "Rest": "21",
+            "Snore": "24",
+            "Protect": "25",
+            "Sandstorm": "32",
+            "Facade": "39",
+            "Assurance": "58",
+            "Trick Room": "70",
+            "Round": "76",
+            "Volt Switch": "80",
+            "Electric Terrain": "90"
+        }
+    },
+    "entries": {
+        "Klinklang": [
+            "Its red core functions as an energy tank. It fires the charged energy through its spikes into an area.",
+            "The gear with the red core is rotated at high speed for a rapid energy charge.",
+            "The minigear spins at high speed. Then the energy from the red core charges the minigear to make it ready to fire.",
+            "The gear with the red core is rotated at high speed for a rapid energy charge.",
+            "Its red core functions as an energy tank. It fires the charged energy through its spikes into an area.",
+            "From its spikes, it launches powerful blasts of electricity. Its red core contains an enormous amount of energy.",
+            "The three gears that compose this Pok\u00e9mon spin at high speed. Its new spiked gear isn\u2019t a living creature."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791284781207632/601.png",
+    "discord_sprite": "<:P601:1132139185021661265>"
+}

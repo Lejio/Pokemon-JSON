@@ -1,0 +1,183 @@
+{
+    "alt-version(s)": [],
+    "name": "Frosmoth",
+    "Frosmoth": {
+        "pokedex_data": {
+            "National No.": "0873",
+            "Type": [
+                "Ice",
+                "Bug"
+            ],
+            "Species": "Frost Moth Poke\u0301mon",
+            "Height": "1.3 m (4\u203203\u2032\u2032)",
+            "Weight": "42.0 kg (92.6 lbs)",
+            "Abilities": {
+                "Shield Dust": {
+                    "href": "/ability/shield-dust",
+                    "effect": "Blocks the added effects of attacks taken.",
+                    "hidden": false
+                },
+                "Ice Scales": {
+                    "href": "/ability/ice-scales",
+                    "effect": "Halves damage from Special moves.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Sp. Atk",
+            "Catch rate": "75",
+            "BaseFriendship": "50",
+            "Base Exp.": "166",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "70",
+                "Min": "250",
+                "Max": "344"
+            },
+            "Attack": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Defense": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Atk": {
+                "Base": "125",
+                "Min": "229",
+                "Max": "383"
+            },
+            "Sp. Def": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Speed": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Total": "475"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Rock": "super-effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Snom",
+                    "nationalNo": "#0872",
+                    "type": [
+                        "Ice",
+                        "Bug"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Frosmoth",
+                    "nationalNo": "#0873",
+                    "type": [
+                        "Ice",
+                        "Bug"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(high Friendship, Nighttime)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Attract": "1",
+            "Helping Hand": "1",
+            "Powder Snow": "1",
+            "Struggle Bug": "1",
+            "Stun Spore": "4",
+            "Infestation": "8",
+            "Mist": "12",
+            "Defog": "16",
+            "Feather Dance": "21",
+            "Aurora Beam": "24",
+            "Snowscape": "28",
+            "Bug Buzz": "32",
+            "Aurora Veil": "36",
+            "Blizzard": "40",
+            "Tailwind": "44",
+            "Wide Guard": "48",
+            "Quiver Dance": "52"
+        },
+        "evolution": {
+            "Icy Wind": "55"
+        },
+        "egg": {
+            "Bug Bite": null,
+            "Fairy Wind": null,
+            "Mirror Coat": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Protect": "07",
+            "Acrobatics": "14",
+            "Struggle Bug": "15",
+            "Pounce": "21",
+            "Facade": "25",
+            "Swift": "32",
+            "Icy Wind": "34",
+            "Avalanche": "46",
+            "Endure": "47",
+            "Snowscape": "52",
+            "U-turn": "60",
+            "Air Slash": "65",
+            "Sleep Talk": "70",
+            "Reflect": "74",
+            "Light Screen": "75",
+            "Dazzling Gleam": "79",
+            "Rest": "85",
+            "Imprison": "92",
+            "Leech Life": "95",
+            "Substitute": "103",
+            "Giga Drain": "111",
+            "Tailwind": "113",
+            "Ice Spinner": "124",
+            "Play Rough": "127",
+            "Calm Mind": "129",
+            "Helping Hand": "130",
+            "Ice Beam": "135",
+            "Blizzard": "143",
+            "Giga Impact": "152",
+            "Hurricane": "160",
+            "Bug Buzz": "162",
+            "Hyper Beam": "163",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Frosmoth": [
+            "Icy scales fall from its wings like snow as it flies over fields and mountains. The temperature of its wings is less than \u2212290 degrees Fahrenheit.",
+            "It shows no mercy to any who desecrate fields and mountains. It will fly around on its icy wings, causing a blizzard to chase offenders away.",
+            "Frosmoth senses air currents with its antennae. It sends its scales drifting on frigid air, making them fall like snow.",
+            "It causes blizzards as it flies around with its huge, chill-emanating wings. Clean meltwater is its favorite thing to drink."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793409884045463/873.png",
+    "discord_sprite": "<:P873:1132151214373601361>"
+}

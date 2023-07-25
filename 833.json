@@ -1,0 +1,164 @@
+{
+    "alt-version(s)": [],
+    "name": "Chewtle",
+    "Chewtle": {
+        "pokedex_data": {
+            "National No.": "0833",
+            "Type": [
+                "Water"
+            ],
+            "Species": "Snapping Poke\u0301mon",
+            "Height": "0.3 m (1\u203200\u2032\u2032)",
+            "Weight": "8.5 kg (18.7 lbs)",
+            "Abilities": {
+                "Strong Jaw": {
+                    "href": "/ability/strong-jaw",
+                    "effect": "Boosts the power of biting moves.",
+                    "hidden": false
+                },
+                "Shell Armor": {
+                    "href": "/ability/shell-armor",
+                    "effect": "The Pok\u00e9mon is protected against critical hits.",
+                    "hidden": false
+                },
+                "Swift Swim": {
+                    "href": "/ability/swift-swim",
+                    "effect": "Boosts the Pok\u00e9mon's Speed in rain.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack",
+            "Catch rate": "255",
+            "BaseFriendship": "50",
+            "Base Exp.": "57",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "50",
+                "Min": "210",
+                "Max": "304"
+            },
+            "Attack": {
+                "Base": "64",
+                "Min": "119",
+                "Max": "249"
+            },
+            "Defense": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Atk": {
+                "Base": "38",
+                "Min": "72",
+                "Max": "192"
+            },
+            "Sp. Def": {
+                "Base": "38",
+                "Min": "72",
+                "Max": "192"
+            },
+            "Speed": {
+                "Base": "44",
+                "Min": "83",
+                "Max": "205"
+            },
+            "Total": "284"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Chewtle",
+                    "nationalNo": "#0833",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Drednaw",
+                    "nationalNo": "#0834",
+                    "type": [
+                        "Water",
+                        "Rock"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 22)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Tackle": "1",
+            "Water Gun": "1",
+            "Bite": "7",
+            "Protect": "14",
+            "Headbutt": "21",
+            "Counter": "28",
+            "Jaw Lock": "35",
+            "Liquidation": "42",
+            "Body Slam": "49"
+        },
+        "egg": {
+            "Dragon Tail": null,
+            "Gastro Acid": null,
+            "Shell Smash": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Ice Fang": "10",
+            "Water Pulse": "11",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Mud Shot": "35",
+            "Dragon Tail": "44",
+            "Endure": "47",
+            "Rain Dance": "50",
+            "False Swipe": "57",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Waterfall": "77",
+            "Poison Jab": "83",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Substitute": "103",
+            "Crunch": "108",
+            "Liquidation": "110",
+            "Surf": "123",
+            "Hydro Pump": "142",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Chewtle": [
+            "Apparently the itch of its teething impels it to snap its jaws at anything in front of it.",
+            "It starts off battles by attacking with its rock-hard horn, but as soon as the opponent flinches, this Pok\u00e9mon bites down and never lets go.",
+            "Its large front tooth is still growing in. When the tooth itches, this Pok\u00e9mon will bite another Chewtle\u2019s horn, and the two Pok\u00e9mon will tussle.",
+            "A popular game among children is to lift up sticks that Chewtle have bitten onto to see whose Chewtle can hang on the longest."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793098029142126/833.png",
+    "discord_sprite": "<:P833:1132149450832355370>"
+}

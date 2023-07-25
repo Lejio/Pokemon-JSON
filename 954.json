@@ -1,0 +1,200 @@
+{
+    "alt-version(s)": [],
+    "name": "Rabsca",
+    "Rabsca": {
+        "pokedex_data": {
+            "National No.": "0954",
+            "Type": [
+                "Bug",
+                "Psychic"
+            ],
+            "Species": "Rolling Poke\u0301mon",
+            "Height": "0.3 m (1\u203200\u2032\u2032)",
+            "Weight": "3.5 kg (7.7 lbs)",
+            "Abilities": {
+                "Synchronize": {
+                    "href": "/ability/synchronize",
+                    "effect": "Passes a burn, poison, or paralysis to the foe.",
+                    "hidden": false
+                },
+                "Telepathy": {
+                    "href": "/ability/telepathy",
+                    "effect": "Anticipates an ally's attack and dodges it.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Sp. Atk",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "165",
+            "Growth Rate": "Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "75",
+                "Min": "260",
+                "Max": "354"
+            },
+            "Attack": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Defense": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Sp. Atk": {
+                "Base": "115",
+                "Min": "211",
+                "Max": "361"
+            },
+            "Sp. Def": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Speed": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Total": "470"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Grass": "not very effective",
+                "Fighting": "not very effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Psychic": "not very effective",
+                "Bug": "super-effective",
+                "Rock": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Rellor",
+                    "nationalNo": "#0953",
+                    "type": [
+                        "Bug"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Rabsca",
+                    "nationalNo": "#0954",
+                    "type": [
+                        "Bug",
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(walk 1,000 steps in Let's Go mode)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Confusion": "1",
+            "Defense Curl": "1",
+            "Tackle": "1",
+            "Sand Attack": "4",
+            "Struggle Bug": "7",
+            "Rollout": "11",
+            "Psybeam": "15",
+            "Bug Bite": "20",
+            "Take Down": "24",
+            "Extrasensory": "29",
+            "Lunge": "35",
+            "Guard Swap": "40",
+            "Power Swap": "40",
+            "Speed Swap": "40",
+            "Bug Buzz": "45",
+            "Psychic": "50"
+        },
+        "evolution": {
+            "Revival Blessing": "\u2014"
+        },
+        "reminder": {
+            "Psych Up": "\u2014",
+            "Safeguard": "\u2014"
+        },
+        "egg": {
+            "Cosmic Power": null,
+            "Memento": null,
+            "Recover": null,
+            "Weather Ball": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Mud-Slap": "05",
+            "Protect": "07",
+            "Struggle Bug": "15",
+            "Psybeam": "16",
+            "Confuse Ray": "17",
+            "Thief": "18",
+            "Pounce": "21",
+            "Facade": "25",
+            "Mud Shot": "35",
+            "Rock Tomb": "36",
+            "Stored Power": "41",
+            "Fling": "43",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Sandstorm": "51",
+            "Psyshock": "54",
+            "Dig": "55",
+            "Zen Headbutt": "59",
+            "Sleep Talk": "70",
+            "Electro Ball": "72",
+            "Reflect": "74",
+            "Light Screen": "75",
+            "Dazzling Gleam": "79",
+            "Rest": "85",
+            "Imprison": "92",
+            "Leech Life": "95",
+            "Skill Swap": "98",
+            "Power Gem": "101",
+            "Gunk Shot": "102",
+            "Substitute": "103",
+            "Iron Defense": "104",
+            "X-Scissor": "105",
+            "Trick": "109",
+            "Shadow Ball": "114",
+            "Energy Ball": "119",
+            "Psychic": "120",
+            "Calm Mind": "129",
+            "Earth Power": "133",
+            "Psychic Terrain": "138",
+            "Sludge Bomb": "148",
+            "Giga Impact": "152",
+            "Trick Room": "161",
+            "Bug Buzz": "162",
+            "Hyper Beam": "163",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Rabsca": [
+            "The body that supports the ball barely moves. Therefore, it is thought that the true body of this Pok\u00e9mon is actually inside the ball.",
+            "An infant sleeps inside the ball. Rabsca rolls the ball soothingly with its legs to ensure the infant sleeps comfortably."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131794040417947770/954.png",
+    "discord_sprite": "<:P954:1132154770375839784>"
+}

@@ -1,0 +1,190 @@
+{
+    "alt-version(s)": [],
+    "name": "Swablu",
+    "Swablu": {
+        "pokedex_data": {
+            "National No.": "0333",
+            "Type": [
+                "Normal",
+                "Flying"
+            ],
+            "Species": "Cotton Bird Poke\u0301mon",
+            "Height": "0.4 m (1\u203204\u2032\u2032)",
+            "Weight": "1.2 kg (2.6 lbs)",
+            "Abilities": {
+                "Natural Cure": {
+                    "href": "/ability/natural-cure",
+                    "effect": "All status problems heal when it switches out.",
+                    "hidden": false
+                },
+                "Cloud Nine": {
+                    "href": "/ability/cloud-nine",
+                    "effect": "Eliminates the effects of weather.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Sp. Def",
+            "Catch rate": "255",
+            "BaseFriendship": "50",
+            "Base Exp.": "62",
+            "Growth Rate": "Erratic"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "45",
+                "Min": "200",
+                "Max": "294"
+            },
+            "Attack": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Defense": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Atk": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Def": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Speed": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Total": "310"
+        },
+        "defense_stats": {
+            "default": {
+                "Electric": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Ground": "no effect",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Swablu",
+                    "nationalNo": "#0333",
+                    "type": [
+                        "Normal",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Altaria",
+                    "nationalNo": "#0334",
+                    "type": [
+                        "Dragon",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 35)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Growl": "1",
+            "Peck": "1",
+            "Disarming Voice": "4",
+            "Mist": "8",
+            "Fury Attack": "12",
+            "Round": "16",
+            "Dragon Breath": "20",
+            "Safeguard": "24",
+            "Sing": "28",
+            "Cotton Guard": "32",
+            "Take Down": "36",
+            "Moonblast": "40",
+            "Perish Song": "44"
+        },
+        "egg": {
+            "Astonish": null,
+            "Defog": null,
+            "Dragon Rush": null,
+            "Feather Dance": null,
+            "Haze": null,
+            "Roost": null,
+            "Tailwind": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Agility": "04",
+            "Protect": "07",
+            "Acrobatics": "14",
+            "Thief": "18",
+            "Disarming Voice": "19",
+            "Trailblaze": "20",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Swift": "32",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Dazzling Gleam": "79",
+            "Rest": "85",
+            "Fly": "97",
+            "Substitute": "103",
+            "Tailwind": "113",
+            "Dragon Pulse": "115",
+            "Hyper Voice": "117",
+            "Heat Wave": "118",
+            "Play Rough": "127",
+            "Helping Hand": "130",
+            "Ice Beam": "135",
+            "Hurricane": "160",
+            "Brave Bird": "164",
+            "Solar Beam": "168",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Swablu": [
+            "SWABLU has light and fluffy wings that are like cottony clouds. This pok\u00e9mon is not frightened of people. It lands on the heads of people and sits there like a cotton-fluff hat.",
+            "SWABLU loves to make things clean. If it spots something dirty, it will wipe and polish it with its cottony wings. If its wings become dirty, this pok\u00e9mon finds a stream and showers itself.",
+            "It constantly grooms its cotton-like wings. It takes a shower to clean itself if it becomes dirty.",
+            "A pok\u00e9mon that has wings like cottony clouds. After enduring winter, in which little food is available, SWABLU flocks move closer to towns in the spring.",
+            "Its wings are like cotton tufts. If it perches on someone\u2019s head, it looks like a cotton hat.",
+            "It can\u2019t relax if it or its surroundings are not clean. It wipes off dirt with its wings.",
+            "Its wings bring cottony clouds to mind. It grooms with springwater and loves to sit on heads.",
+            "It can\u2019t relax if it or its surroundings are not clean. It wipes off dirt with its wings.",
+            "For some reason, it likes to land on people\u2019s heads softly and act like it\u2019s a hat.",
+            "For some reason, it likes to land on people\u2019s heads softly and act like it\u2019s a hat.",
+            "It constantly grooms its cotton-like wings. It takes a shower to clean itself if it becomes dirty.",
+            "Swablu has light and fluffy wings that are like cottony clouds. This Pok\u00e9mon is not frightened of people. It lands on the heads of people and sits there like a cotton-fluff hat.",
+            "Swablu loves to make things clean. If it spots something dirty, it will wipe and polish it with its cottony wings. If its wings become dirty, this Pok\u00e9mon finds a stream and showers itself.",
+            "Its cottony wings are full of air, making them light and fluffy to the touch. Swablu takes diligent care of its wings.",
+            "Since Swablu looks like a cumulus cloud, foes can have a hard time finding it. Apparently its wings turned white over many generations.",
+            "Its wings are like cotton tufts. If it perches on someone\u2019s head, it looks like a cotton hat.",
+            "It constantly grooms its cotton-like wings. It takes a shower to clean itself if it becomes dirty.",
+            "It can\u2019t relax if it or its surroundings are not clean. It wipes off dirt with its wings."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789202934206654/333.png",
+    "discord_sprite": "<:P333:1132127391209234543>"
+}

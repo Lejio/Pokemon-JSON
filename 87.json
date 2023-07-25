@@ -1,0 +1,222 @@
+{
+    "alt-version(s)": [],
+    "name": "Dewgong",
+    "Dewgong": {
+        "pokedex_data": {
+            "National No.": "0087",
+            "Type": [
+                "Water",
+                "Ice"
+            ],
+            "Species": "Sea Lion Poke\u0301mon",
+            "Height": "1.7 m (5\u203207\u2032\u2032)",
+            "Weight": "120.0 kg (264.6 lbs)",
+            "Abilities": {
+                "Thick Fat": {
+                    "href": "/ability/thick-fat",
+                    "effect": "Ups resistance to Fire- and Ice-type moves.",
+                    "hidden": false
+                },
+                "Hydration": {
+                    "href": "/ability/hydration",
+                    "effect": "Heals status problems if it is raining.",
+                    "hidden": false
+                },
+                "Ice Body": {
+                    "href": "/ability/ice-body",
+                    "effect": "The Pok\u00e9mon gradually regains HP in a hailstorm.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Sp. Def",
+            "Catch rate": "75",
+            "BaseFriendship": "50",
+            "Base Exp.": "166",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "90",
+                "Min": "290",
+                "Max": "384"
+            },
+            "Attack": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Defense": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Sp. Atk": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Def": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Speed": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Total": "475"
+        },
+        "defense_stats": {
+            "Thick Fat ability": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Rock": "super-effective"
+            },
+            "Hydration ability": {
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Rock": "super-effective"
+            },
+            "Ice Body ability": {
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Rock": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Seel",
+                    "nationalNo": "#0086",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Dewgong",
+                    "nationalNo": "#0087",
+                    "type": [
+                        "Water",
+                        "Ice"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 34)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Bubble Beam": "7",
+            "Growl": "3",
+            "Headbutt": "1",
+            "Icy Wind": "11",
+            "Sheer Cold": "1",
+            "Water Gun": "1",
+            "Encore": "13",
+            "Ice Shard": "17",
+            "Rest": "21",
+            "Aqua Ring": "23",
+            "Aurora Beam": "27",
+            "Aqua Jet": "31",
+            "Brine": "33",
+            "Take Down": "39",
+            "Dive": "45",
+            "Aqua Tail": "49",
+            "Ice Beam": "55",
+            "Safeguard": "61",
+            "Hail": "65"
+        },
+        "evolution": {
+            "Sheer Cold": "\u2014"
+        },
+        "egg": {
+            "Belch": null,
+            "Disable": null,
+            "Encore": null,
+            "Entrainment": null,
+            "Fake Out": null,
+            "Horn Drill": null,
+            "Icicle Spear": null,
+            "Lick": null,
+            "Perish Song": null,
+            "Slam": null,
+            "Spit Up": null,
+            "Stockpile": null,
+            "Swallow": null
+        },
+        "tm": {
+            "Water Pulse": "03",
+            "Hail": "07",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Safeguard": "20",
+            "Iron Tail": "23",
+            "Double Team": "32",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Brine": "55",
+            "Fling": "56",
+            "Endure": "58",
+            "Giga Impact": "68",
+            "Avalanche": "72",
+            "Sleep Talk": "82",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Surf": "95",
+            "Waterfall": "99"
+        }
+    },
+    "entries": {
+        "Dewgong": [
+            "Stores thermal energy in its body. Swims at a steady 8 knots even in intensely cold waters.",
+            "Its entire body is a snowy-white. Unharmed by even intense cold, it swims powerfully in icy waters.",
+            "Its streamlined body has little drag in water. The colder the temperature, the friskier it gets.",
+            "It loves frigid seas with ice floes. It uses its long tail to change swimming direction quickly.",
+            "It sleeps under shallow ocean waters during the day, then looks for food at night when it\u2019s cold.",
+            "DEWGONG loves to snooze on bitterly cold ice. The sight of this pok\u00e9mon sleeping on a glacier was mistakenly thought to be a mermaid by a mariner long ago.",
+            "Its body is covered with a pure white fur. The colder the weather, the more active it becomes.",
+            "It stores thermal energy in the body. It swims at a steady eight knots even in intensely cold waters.",
+            "It loves to snooze on bitterly cold ice. The sight of this pok\u00e9mon sleeping on a glacier was mistakenly thought to be a mermaid by a mariner long ago.",
+            "In snow, the pure white coat covering its body obscures it from predators.",
+            "Its streamlined body has little drag in water. The colder the temperature, the friskier it gets.",
+            "It loves frigid seas with ice floes. It uses its long tail to change swimming direction quickly.",
+            "In snow, the pure white coat covering its body obscures it from predators.",
+            "Its streamlined body has low resistance, and it swims around cold oceans at a speed of eight knots.",
+            "Its body is covered with a pure white fur. The colder the weather, the more active it becomes.",
+            "Its streamlined body has little drag in water. The colder the temperature, the friskier it gets.",
+            "Dewgong loves to snooze on bitterly cold ice. The sight of this Pok\u00e9mon sleeping on a glacier was mistakenly thought to be a mermaid by a mariner long ago.",
+            "It swims through the ocean at a speed of eight knots, searching for Pok\u00e9mon that will become its prey. It\u2019s especially fond of Wishiwashi.",
+            "It sunbathes on the beach after meals. The rise in its body temperature helps its digestion.",
+            "Its entire body is a snowy white. Unharmed by even intense cold, it swims powerfully in icy waters.",
+            "In snow, the pure white coat covering its body obscures it from predators."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787270828064891/87.png",
+    "discord_sprite": "<:P87:1132116553203208352>"
+}

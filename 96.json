@@ -1,0 +1,216 @@
+{
+    "alt-version(s)": [],
+    "name": "Drowzee",
+    "Drowzee": {
+        "pokedex_data": {
+            "National No.": "0096",
+            "Type": [
+                "Psychic"
+            ],
+            "Species": "Hypnosis Poke\u0301mon",
+            "Height": "1.0 m (3\u203203\u2032\u2032)",
+            "Weight": "32.4 kg (71.4 lbs)",
+            "Abilities": {
+                "Insomnia": {
+                    "href": "/ability/insomnia",
+                    "effect": "Prevents the Pok\u00e9mon from falling asleep.",
+                    "hidden": false
+                },
+                "Forewarn": {
+                    "href": "/ability/forewarn",
+                    "effect": "Determines what moves a foe has.",
+                    "hidden": false
+                },
+                "Inner Focus": {
+                    "href": "/ability/inner-focus",
+                    "effect": "The Pok\u00e9mon is protected from flinching.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Sp. Def",
+            "Catch rate": "190",
+            "BaseFriendship": "50",
+            "Base Exp.": "66",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "60",
+                "Min": "230",
+                "Max": "324"
+            },
+            "Attack": {
+                "Base": "48",
+                "Min": "90",
+                "Max": "214"
+            },
+            "Defense": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Sp. Atk": {
+                "Base": "43",
+                "Min": "81",
+                "Max": "203"
+            },
+            "Sp. Def": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Speed": {
+                "Base": "42",
+                "Min": "80",
+                "Max": "201"
+            },
+            "Total": "328"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Drowzee",
+                    "nationalNo": "#0096",
+                    "type": [
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Hypno",
+                    "nationalNo": "#0097",
+                    "type": [
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 26)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Hypnosis": "1",
+            "Pound": "1",
+            "Disable": "5",
+            "Confusion": "9",
+            "Headbutt": "13",
+            "Poison Gas": "17",
+            "Psybeam": "21",
+            "Psych Up": "25",
+            "Zen Headbutt": "29",
+            "Swagger": "33",
+            "Psychic": "37",
+            "Nasty Plot": "41",
+            "Psyshock": "45",
+            "Future Sight": "49"
+        },
+        "egg": {
+            "Fire Punch": null,
+            "Flatter": null,
+            "Guard Swap": null,
+            "Ice Punch": null,
+            "Power Split": null,
+            "Psycho Cut": null,
+            "Role Play": null,
+            "Thunder Punch": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Protect": "07",
+            "Low Kick": "12",
+            "Psybeam": "16",
+            "Thief": "18",
+            "Trailblaze": "20",
+            "Facade": "25",
+            "Swift": "32",
+            "Draining Kiss": "37",
+            "Low Sweep": "39",
+            "Stored Power": "41",
+            "Night Shade": "42",
+            "Fling": "43",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Psyshock": "54",
+            "Brick Break": "58",
+            "Zen Headbutt": "59",
+            "Foul Play": "62",
+            "Body Slam": "66",
+            "Fire Punch": "67",
+            "Thunder Punch": "68",
+            "Ice Punch": "69",
+            "Sleep Talk": "70",
+            "Drain Punch": "73",
+            "Reflect": "74",
+            "Light Screen": "75",
+            "Dazzling Gleam": "79",
+            "Metronome": "80",
+            "Grass Knot": "81",
+            "Thunder Wave": "82",
+            "Rest": "85",
+            "Taunt": "87",
+            "Imprison": "92",
+            "Skill Swap": "98",
+            "Substitute": "103",
+            "Trick": "109",
+            "Shadow Ball": "114",
+            "Psychic": "120",
+            "Encore": "122",
+            "Calm Mind": "129",
+            "Helping Hand": "130",
+            "Psychic Terrain": "138",
+            "Nasty Plot": "140",
+            "Focus Blast": "158",
+            "Trick Room": "161",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Drowzee": [
+            "Puts enemies to sleep then eats their dreams. Occasionally gets sick from eating bad dreams.",
+            "If you sleep by it all the time, it will sometimes show you dreams it has eaten in the past.",
+            "If you think that you had a good dream, but you can\u2019t remember it, a DROWZEE has probably eaten it.",
+            "It remembers every dream it eats. It rarely eats the dreams of adults because children\u2019s are much tastier.",
+            "When it twitches its nose, it can tell where someone is sleeping and what that person is dreaming about.",
+            "If your nose becomes itchy while you are sleeping, it\u2019s a sure sign that one of these pok\u00e9mon is standing above your pillow and trying to eat your dream through your nostrils.",
+            "A descendent of the legendary animal baku, which is said to eat dreams. It is skilled at hypnotism.",
+            "Puts enemies to sleep, then eats their dreams. Occasionally gets sick from eating only bad dreams.",
+            "If your nose becomes itchy while you are sleeping, it\u2019s a sure sign that a DROWZEE is standing above your pillow and trying to eat your dream through your nostrils.",
+            "It can tell what people are dreaming by sniffing with its big nose. It loves fun dreams.",
+            "If you think that you had a good dream but you can\u2019t remember it, a DROWZEE has probably eaten it.",
+            "It remembers every dream it eats. It rarely eats the dreams of adults because children\u2019s are much tastier.",
+            "It can tell what people are dreaming by sniffing with its big nose. It loves fun dreams.",
+            "Puts enemies to sleep, then eats their dreams. Occasionally gets sick from eating only bad dreams.",
+            "If you think that you had a good dream but you can\u2019t remember it, a Drowzee has probably eaten it.",
+            "If your nose becomes itchy while you are sleeping, it\u2019s a sure sign that one of these Pok\u00e9mon is standing above your pillow and trying to eat your dream through your nostrils.",
+            "A Pok\u00e9mon that nourishes itself by eating dreams, it is thought to share common ancestry with Munna and Musharna.",
+            "It finds really fun dreams tasty. When it makes friends with people, it may show them the most delicious dreams it\u2019s ever eaten.",
+            "It can be spotted near recreational facilities, intending to eat the pleasant dreams of children who enjoyed themselves there that day.",
+            "It puts its prey to sleep and devours their dreams. It seems that bad dreams taste sour, so Drowzee doesn\u2019t particularly like eating them.",
+            "If you sleep by it all the time, it will sometimes show you dreams it had eaten in the past.",
+            "It can tell what people are dreaming by sniffing with its big nose. It loves fun dreams.",
+            "It remembers every dream it eats. It rarely eats the dreams of adults because children\u2019s are much tastier.",
+            "When it twitches its nose, it can tell where someone is sleeping and what that person is dreaming about."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787340566777866/96.png",
+    "discord_sprite": "<:P96:1132116946628907058>"
+}

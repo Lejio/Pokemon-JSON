@@ -1,0 +1,204 @@
+{
+    "alt-version(s)": [],
+    "name": "Riolu",
+    "Riolu": {
+        "pokedex_data": {
+            "National No.": "0447",
+            "Type": [
+                "Fighting"
+            ],
+            "Species": "Emanation Poke\u0301mon",
+            "Height": "0.7 m (2\u203204\u2032\u2032)",
+            "Weight": "20.2 kg (44.5 lbs)",
+            "Abilities": {
+                "Steadfast": {
+                    "href": "/ability/steadfast",
+                    "effect": "Raises Speed each time the Pok\u00e9mon flinches.",
+                    "hidden": false
+                },
+                "Inner Focus": {
+                    "href": "/ability/inner-focus",
+                    "effect": "The Pok\u00e9mon is protected from flinching.",
+                    "hidden": false
+                },
+                "Prankster": {
+                    "href": "/ability/prankster",
+                    "effect": "Gives priority to a status move.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack",
+            "Catch rate": "75",
+            "BaseFriendship": "50",
+            "Base Exp.": "57",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "40",
+                "Min": "190",
+                "Max": "284"
+            },
+            "Attack": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Defense": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Atk": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Sp. Def": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Speed": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Total": "285"
+        },
+        "defense_stats": {
+            "default": {
+                "Flying": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Dark": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Riolu",
+                    "nationalNo": "#0447",
+                    "type": [
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Lucario",
+                    "nationalNo": "#0448",
+                    "type": [
+                        "Fighting",
+                        "Steel"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(high Friendship, Daytime)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Endure": "1",
+            "Quick Attack": "1",
+            "Feint": "4",
+            "Metal Claw": "8",
+            "Counter": "12",
+            "Work Up": "16",
+            "Rock Smash": "20",
+            "Vacuum Wave": "24",
+            "Screech": "28",
+            "Quick Guard": "32",
+            "Force Palm": "36",
+            "Swords Dance": "40",
+            "Helping Hand": "44",
+            "Copycat": "48",
+            "Final Gambit": "52",
+            "Reversal": "56"
+        },
+        "egg": {
+            "Bite": null,
+            "Bullet Punch": null,
+            "Circle Throw": null,
+            "Cross Chop": null,
+            "Detect": null,
+            "High Jump Kick": null,
+            "Howl": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Agility": "04",
+            "Protect": "07",
+            "Low Kick": "12",
+            "Trailblaze": "20",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Bulldoze": "28",
+            "Metal Claw": "31",
+            "Swift": "32",
+            "Rock Tomb": "36",
+            "Low Sweep": "39",
+            "Fling": "43",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Dig": "55",
+            "Brick Break": "58",
+            "Zen Headbutt": "59",
+            "Shadow Claw": "61",
+            "Bulk Up": "64",
+            "Thunder Punch": "68",
+            "Ice Punch": "69",
+            "Sleep Talk": "70",
+            "Drain Punch": "73",
+            "Poison Jab": "83",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Swords Dance": "88",
+            "Substitute": "103",
+            "Crunch": "108",
+            "Helping Hand": "130",
+            "Reversal": "134",
+            "Nasty Plot": "140",
+            "Earthquake": "149",
+            "Focus Blast": "158",
+            "Close Combat": "167",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Riolu": [
+            "The aura that emanates from its body intensifies to alert others if it is afraid or sad.",
+            "Its body is lithe yet powerful. It can crest three mountains and cross two canyons in one night.",
+            "It has the peculiar power of being able to see emotions such as joy and rage in the form of waves.",
+            "They communicate with one another using their auras. They are able to run all through the night.",
+            "It has the peculiar power of being able to see emotions such as joy and rage in the form of waves.",
+            "It uses the shapes of auras, which change according to emotion, to communicate with others.",
+            "It uses the shapes of auras, which change according to emotion, to communicate with others.",
+            "The aura that emanates from its body intensifies to alert others if it is afraid or sad.",
+            "It can discern the physical and emotional states of people, Pok\u00e9mon, and other natural things from the shape of their aura waves.",
+            "It\u2019s tough enough to run right through the night, and it\u2019s also a hard worker, but it\u2019s still just a youngster.",
+            "It knows how people and Pok\u00e9mon feel by looking at their auras. It doesn\u2019t approach dangerous opponents.",
+            "It uses waves called auras to communicate with others of its kind. It doesn\u2019t make any noise during this time, so its enemies can\u2019t detect it.",
+            "It\u2019s exceedingly energetic, with enough stamina to keep running all through the night. Taking it for walks can be a challenging experience.",
+            "It can use waves called auras to gauge how others are feeling. These same waves can also tell this Pok\u00e9mon about the state of the environment.",
+            "The aura that emanates from its body intensifies to alert others if it is afraid or sad.",
+            "Its body is lithe yet powerful. It can crest three mountains and cross two canyons in one night.",
+            "Though infantile in appearance, it has the mysterious ability to read the minds of humans. The pure of heart are met with Riolu\u2019s approval, while those of ill nature earn only its loathing.",
+            "They communicate with one another using their auras. They are able to run all through the night.",
+            "It has the peculiar power of being able to see emotions, such as joy and rage, in the form of waves."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790087718445228/447.png",
+    "discord_sprite": "<:P447:1132132399535378462>"
+}

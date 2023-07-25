@@ -1,0 +1,168 @@
+{
+    "alt-version(s)": [],
+    "name": "Clauncher",
+    "Clauncher": {
+        "pokedex_data": {
+            "National No.": "0692",
+            "Type": [
+                "Water"
+            ],
+            "Species": "Water Gun Poke\u0301mon",
+            "Height": "0.5 m (1\u203208\u2032\u2032)",
+            "Weight": "8.3 kg (18.3 lbs)",
+            "Abilities": {
+                "Mega Launcher": {
+                    "href": "/ability/mega-launcher",
+                    "effect": "Boosts the power of aura and pulse moves.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Sp. Atk",
+            "Catch rate": "225",
+            "BaseFriendship": "50",
+            "Base Exp.": "66",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "50",
+                "Min": "210",
+                "Max": "304"
+            },
+            "Attack": {
+                "Base": "53",
+                "Min": "99",
+                "Max": "225"
+            },
+            "Defense": {
+                "Base": "62",
+                "Min": "116",
+                "Max": "245"
+            },
+            "Sp. Atk": {
+                "Base": "58",
+                "Min": "108",
+                "Max": "236"
+            },
+            "Sp. Def": {
+                "Base": "63",
+                "Min": "117",
+                "Max": "247"
+            },
+            "Speed": {
+                "Base": "44",
+                "Min": "83",
+                "Max": "205"
+            },
+            "Total": "330"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Clauncher",
+                    "nationalNo": "#0692",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Clawitzer",
+                    "nationalNo": "#0693",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 37)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Splash": "1",
+            "Water Gun": "1",
+            "Vise Grip": "5",
+            "Flail": "10",
+            "Aqua Jet": "15",
+            "Smack Down": "20",
+            "Hone Claws": "25",
+            "Water Pulse": "30",
+            "Swords Dance": "35",
+            "Aura Sphere": "40",
+            "Bounce": "45",
+            "Muddy Water": "50",
+            "Crabhammer": "55"
+        },
+        "egg": {
+            "Aqua Tail": null,
+            "Bubble Beam": null,
+            "Entrainment": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Mud-Slap": "05",
+            "Protect": "07",
+            "Water Pulse": "11",
+            "Thief": "18",
+            "Pounce": "21",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Icy Wind": "34",
+            "Mud Shot": "35",
+            "Venoshock": "45",
+            "Endure": "47",
+            "Rain Dance": "50",
+            "U-turn": "60",
+            "Sleep Talk": "70",
+            "Waterfall": "77",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Swords Dance": "88",
+            "Flash Cannon": "93",
+            "Dark Pulse": "94",
+            "Substitute": "103",
+            "Liquidation": "110",
+            "Aura Sphere": "112",
+            "Dragon Pulse": "115",
+            "Surf": "123",
+            "Helping Hand": "130",
+            "Ice Beam": "135",
+            "Hydro Pump": "142",
+            "Blizzard": "143",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Clauncher": [
+            "They knock down flying prey by firing compressed water from their massive claws like shooting a pistol.",
+            "Through controlled explosions of internal gas, it can expel water like a pistol shot. At close distances, it can shatter rock.",
+            "Its claws occasionally fall off, and it keeps a low profile until they grow back. The meat of its claws is so delicious!",
+            "It moves around by jetting water from its right pincer. It has a poor sense of balance, so it\u2019s terrible at swimming straight.",
+            "Clauncher\u2019s claws can fall off during battle, but they\u2019ll regenerate. The meat inside the claws is popular as a delicacy in Galar.",
+            "By detonating gas that accumulates in its right claw, this Pok\u00e9mon launches water like a bullet. This is how Clauncher defeats its enemies.",
+            "This Pok\u00e9mon launches water by detonating gas inside its right claw. It snipes flying Pok\u00e9mon.",
+            "Clauncher\u2019s claws will regrow if they fall off. The meat inside the claws is edible, but it has a distinct flavor that doesn\u2019t appeal to all tastes."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791996319707167/692.png",
+    "discord_sprite": "<:P692:1132143192976928868>"
+}

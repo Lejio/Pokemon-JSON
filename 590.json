@@ -1,0 +1,174 @@
+{
+    "alt-version(s)": [],
+    "name": "Foongus",
+    "Foongus": {
+        "pokedex_data": {
+            "National No.": "0590",
+            "Type": [
+                "Grass",
+                "Poison"
+            ],
+            "Species": "Mushroom Poke\u0301mon",
+            "Height": "0.2 m (0\u203208\u2032\u2032)",
+            "Weight": "1.0 kg (2.2 lbs)",
+            "Abilities": {
+                "Effect Spore": {
+                    "href": "/ability/effect-spore",
+                    "effect": "Contact may poison or cause paralysis or sleep.",
+                    "hidden": false
+                },
+                "Regenerator": {
+                    "href": "/ability/regenerator",
+                    "effect": "Restores a little HP when withdrawn from battle.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 HP",
+            "Catch rate": "190",
+            "BaseFriendship": "50",
+            "Base Exp.": "59",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "69",
+                "Min": "248",
+                "Max": "342"
+            },
+            "Attack": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Defense": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Sp. Atk": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Sp. Def": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Speed": {
+                "Base": "15",
+                "Min": "31",
+                "Max": "141"
+            },
+            "Total": "294"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Flying": "super-effective",
+                "Psychic": "super-effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Foongus",
+                    "nationalNo": "#0590",
+                    "type": [
+                        "Grass",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Amoonguss",
+                    "nationalNo": "#0591",
+                    "type": [
+                        "Grass",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 39)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Absorb": "1",
+            "Astonish": "1",
+            "Growth": "4",
+            "Stun Spore": "8",
+            "Mega Drain": "12",
+            "Synthesis": "16",
+            "Clear Smog": "20",
+            "Sweet Scent": "24",
+            "Giga Drain": "28",
+            "Ingrain": "32",
+            "Toxic": "36",
+            "Rage Powder": "40",
+            "Solar Beam": "44",
+            "Spore": "48"
+        },
+        "egg": {
+            "Defense Curl": null,
+            "Poison Powder": null,
+            "Rollout": null,
+            "Worry Seed": null
+        },
+        "tm": {
+            "Protect": "07",
+            "Facade": "25",
+            "Magical Leaf": "33",
+            "Venoshock": "45",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Bullet Seed": "56",
+            "Foul Play": "62",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Seed Bomb": "71",
+            "Grass Knot": "81",
+            "Rest": "85",
+            "Substitute": "103",
+            "Giga Drain": "111",
+            "Energy Ball": "119",
+            "Pollen Puff": "131",
+            "Grassy Terrain": "137",
+            "Sludge Bomb": "148",
+            "Leaf Storm": "159",
+            "Solar Beam": "168",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Foongus": [
+            "It lures people in with its Pok\u00e9 Ball pattern, then releases poison spores. Why it resembles a Pok\u00e9 Ball is unknown.",
+            "For some reason, this Pok\u00e9mon resembles a Pok\u00e9 Ball. They release poison spores to repel those who try to catch them.",
+            "It lures Pok\u00e9mon with its pattern that looks just like a Pok\u00e9 Ball then releases poison spores.",
+            "It lures people in with its Pok\u00e9 Ball pattern, then releases poison spores. Why it resembles a Pok\u00e9 Ball is unknown.",
+            "It lures Pok\u00e9mon with its pattern that looks just like a Pok\u00e9 Ball, then releases poison spores.",
+            "No one knows what the Pok\u00e9 Ball\u2013like pattern on Foongus means or why Foongus has it.",
+            "The spores released from this Pok\u00e9mon\u2019s hands are highly poisonous, but when thoroughly dried, the spores can be used as stomach medicine.",
+            "There is a theory that the developer of the modern-day Pok\u00e9 Ball really liked Foongus, but this has not been confirmed.",
+            "This Pok\u00e9mon prefers damp places. It spurts out poison spores to repel approaching enemies."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791199779438674/590.png",
+    "discord_sprite": "<:P590:1132138700852166697>"
+}

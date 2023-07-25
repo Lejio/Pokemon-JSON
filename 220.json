@@ -1,0 +1,236 @@
+{
+    "alt-version(s)": [],
+    "name": "Swinub",
+    "Swinub": {
+        "pokedex_data": {
+            "National No.": "0220",
+            "Type": [
+                "Ice",
+                "Ground"
+            ],
+            "Species": "Pig Poke\u0301mon",
+            "Height": "0.4 m (1\u203204\u2032\u2032)",
+            "Weight": "6.5 kg (14.3 lbs)",
+            "Abilities": {
+                "Oblivious": {
+                    "href": "/ability/oblivious",
+                    "effect": "Prevents it from becoming infatuated.",
+                    "hidden": false
+                },
+                "Snow Cloak": {
+                    "href": "/ability/snow-cloak",
+                    "effect": "Raises evasion in a hailstorm.",
+                    "hidden": false
+                },
+                "Thick Fat": {
+                    "href": "/ability/thick-fat",
+                    "effect": "Ups resistance to Fire- and Ice-type moves.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack",
+            "Catch rate": "225",
+            "BaseFriendship": "50",
+            "Base Exp.": "50",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "50",
+                "Min": "210",
+                "Max": "304"
+            },
+            "Attack": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Defense": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Atk": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Sp. Def": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Speed": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Total": "250"
+        },
+        "defense_stats": {
+            "Oblivious ability": {
+                "Fire": "super-effective",
+                "Water": "super-effective",
+                "Electric": "no effect",
+                "Grass": "super-effective",
+                "Fighting": "super-effective",
+                "Poison": "not very effective",
+                "Steel": "super-effective"
+            },
+            "Snow Cloak ability": {
+                "Fire": "super-effective",
+                "Water": "super-effective",
+                "Electric": "no effect",
+                "Grass": "super-effective",
+                "Fighting": "super-effective",
+                "Poison": "not very effective",
+                "Steel": "super-effective"
+            },
+            "Thick Fat ability": {
+                "Water": "super-effective",
+                "Electric": "no effect",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Poison": "not very effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Swinub",
+                    "nationalNo": "#0220",
+                    "type": [
+                        "Ice",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Piloswine",
+                    "nationalNo": "#0221",
+                    "type": [
+                        "Ice",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 33)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Piloswine",
+                    "nationalNo": "#0221",
+                    "type": [
+                        "Ice",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Mamoswine",
+                    "nationalNo": "#0473",
+                    "type": [
+                        "Ice",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(after Ancient Power learned)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Mud-Slap": "1",
+            "Tackle": "1",
+            "Powder Snow": "5",
+            "Flail": "10",
+            "Ice Shard": "15",
+            "Mist": "20",
+            "Endure": "25",
+            "Icy Wind": "30",
+            "Amnesia": "35",
+            "Take Down": "40",
+            "Earthquake": "45",
+            "Blizzard": "50"
+        },
+        "egg": {
+            "Ancient Power": null,
+            "Bite": null,
+            "Body Slam": null,
+            "Curse": null,
+            "Double-Edge": null,
+            "Fissure": null,
+            "Freeze-Dry": null,
+            "Icicle Crash": null,
+            "Icicle Spear": null,
+            "Mud Shot": null,
+            "Take Down": null
+        },
+        "tm": {
+            "Roar": "05",
+            "Hail": "07",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Light Screen": "16",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Earthquake": "26",
+            "Dig": "28",
+            "Double Team": "32",
+            "Reflect": "33",
+            "Sandstorm": "37",
+            "Rock Tomb": "39",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Endure": "58",
+            "Avalanche": "72",
+            "Stealth Rock": "76",
+            "Rock Slide": "80",
+            "Sleep Talk": "82",
+            "Bulldoze": "83",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Strength": "96",
+            "Rock Smash": "98"
+        }
+    },
+    "entries": {
+        "Swinub": [
+            "It rubs its snout on the ground to find and dig up food. It sometimes discovers hot springs.",
+            "If it smells something enticing, it dashes headlong off to find the source of the aroma.",
+            "It uses the tip of its nose to dig for food. Its nose is so tough that even frozen ground poses no problem.",
+            "SWINUB roots for food by rubbing its snout against the ground. Its favorite food is a mushroom that grows under the cover of dead grass. This pok\u00e9mon occasionally roots out hot springs.",
+            "If it smells something enticing, it dashes off headlong to find the source of the aroma.",
+            "It rubs its snout on the ground to find and dig up food. It sometimes discovers hot springs.",
+            "It roots for food by rubbing its snout against the ground. Its favorite food is a mushroom that grows under dried grass. It occasionally roots out hot springs.",
+            "It loves eating mushrooms that grow under dead grass. It also finds hot springs while foraging.",
+            "It has a very sensitive nose. It can locate mushrooms, berries, and even hot springs buried under ice.",
+            "It rubs its snout on the ground to find and dig up food. It sometimes discovers hot springs.",
+            "If it smells something enticing, it dashes off headlong to find the source of the aroma.",
+            "It has a very sensitive nose. It can locate mushrooms, berries, and even hot springs buried under ice.",
+            "Rooting the tip of its snout into the ground, it searches for food. Sometimes it even digs up a hot spring.",
+            "It rubs its snout on the ground to find and dig up food. It sometimes discovers hot springs.",
+            "If it smells something enticing, it dashes off headlong to find the source of the aroma.",
+            "Swinub roots for food by rubbing its snout against the ground. Its favorite food is a mushroom that grows under the cover of dead grass. This Pok\u00e9mon occasionally roots out hot springs.",
+            "It rubs its snout on the ground to find and dig up food. It sometimes discovers hot springs.",
+            "If it smells something enticing, it dashes off headlong to find the source of the aroma.",
+            "It loves eating mushrooms that grow under dead grass. It also finds hot springs while foraging.",
+            "Swinub excels at sniffing out mushrooms buried beneath grass or snow. Since ancient times, the people of Hisui have often relied upon this skill."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788312118562836/220.png",
+    "discord_sprite": "<:P220:1132122418631155712>"
+}

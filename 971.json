@@ -1,0 +1,184 @@
+{
+    "alt-version(s)": [],
+    "name": "Greavard",
+    "Greavard": {
+        "pokedex_data": {
+            "National No.": "0971",
+            "Type": [
+                "Ghost"
+            ],
+            "Species": "Ghost Dog Poke\u0301mon",
+            "Height": "0.6 m (2\u203200\u2032\u2032)",
+            "Weight": "35.0 kg (77.2 lbs)",
+            "Abilities": {
+                "Pickup": {
+                    "href": "/ability/pickup",
+                    "effect": "The Pok\u00e9mon may pick up items.",
+                    "hidden": false
+                },
+                "Fluffy": {
+                    "href": "/ability/fluffy",
+                    "effect": "Halves damage from contact moves, but doubles damage from Fire-type moves.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack",
+            "Catch rate": "120",
+            "BaseFriendship": "50",
+            "Base Exp.": "58",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "50",
+                "Min": "210",
+                "Max": "304"
+            },
+            "Attack": {
+                "Base": "61",
+                "Min": "114",
+                "Max": "243"
+            },
+            "Defense": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Atk": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Sp. Def": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Speed": {
+                "Base": "34",
+                "Min": "65",
+                "Max": "183"
+            },
+            "Total": "290"
+        },
+        "defense_stats": {
+            "Pickup ability": {
+                "Normal": "no effect",
+                "Fighting": "no effect",
+                "Poison": "not very effective",
+                "Bug": "not very effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective"
+            },
+            "Fluffy ability": {
+                "Normal": "no effect",
+                "Fire": "super-effective",
+                "Fighting": "no effect",
+                "Poison": "not very effective",
+                "Bug": "not very effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Greavard",
+                    "nationalNo": "#0971",
+                    "type": [
+                        "Ghost"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Houndstone",
+                    "nationalNo": "#0972",
+                    "type": [
+                        "Ghost"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 30, Nighttime)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Growl": "1",
+            "Tackle": "1",
+            "Lick": "3",
+            "Bite": "6",
+            "Tail Whip": "6",
+            "Roar": "9",
+            "Headbutt": "12",
+            "Dig": "16",
+            "Rest": "24",
+            "Crunch": "28",
+            "Play Rough": "32",
+            "Helping Hand": "37",
+            "Phantom Force": "41",
+            "Charm": "46",
+            "Double-Edge": "52"
+        },
+        "egg": {
+            "Ally Switch": null,
+            "Destiny Bond": null,
+            "Disable": null,
+            "Howl": null,
+            "Memento": null,
+            "Shadow Sneak": null,
+            "Yawn": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Charm": "02",
+            "Mud-Slap": "05",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Fire Fang": "08",
+            "Thunder Fang": "09",
+            "Ice Fang": "10",
+            "Confuse Ray": "17",
+            "Thief": "18",
+            "Facade": "25",
+            "Bulldoze": "28",
+            "Hex": "29",
+            "Snarl": "30",
+            "Mud Shot": "35",
+            "Night Shade": "42",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Sandstorm": "51",
+            "Dig": "55",
+            "Psychic Fangs": "63",
+            "Sleep Talk": "70",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Substitute": "103",
+            "Crunch": "108",
+            "Trick": "109",
+            "Shadow Ball": "114",
+            "Play Rough": "127",
+            "Helping Hand": "130",
+            "Phantom Force": "151",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Greavard": [
+            "It is said that a dog Pok\u00e9mon that died in the wild without ever interacting with a human was reborn as this Pok\u00e9mon.",
+            "This friendly Pok\u00e9mon doesn\u2019t like being alone. Pay it even the slightest bit of attention, and it will follow you forever."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131794172920209529/971.png",
+    "discord_sprite": "<:P971:1132155517729513542>"
+}

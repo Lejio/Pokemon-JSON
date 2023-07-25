@@ -1,0 +1,153 @@
+{
+    "alt-version(s)": [],
+    "name": "Pheromosa",
+    "Pheromosa": {
+        "pokedex_data": {
+            "National No.": "0795",
+            "Type": [
+                "Bug",
+                "Fighting"
+            ],
+            "Species": "Lissome Poke\u0301mon",
+            "Height": "1.8 m (5\u203211\u2032\u2032)",
+            "Weight": "25.0 kg (55.1 lbs)",
+            "Abilities": {
+                "Beast Boost": {
+                    "href": "/ability/beast-boost",
+                    "effect": "The Pok\u00e9mon boosts its most proficient stat each time it knocks out a Pok\u00e9mon.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Speed",
+            "Catch rate": "45",
+            "BaseFriendship": "0",
+            "Base Exp.": "257",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "71",
+                "Min": "252",
+                "Max": "346"
+            },
+            "Attack": {
+                "Base": "137",
+                "Min": "251",
+                "Max": "410"
+            },
+            "Defense": {
+                "Base": "37",
+                "Min": "71",
+                "Max": "190"
+            },
+            "Sp. Atk": {
+                "Base": "137",
+                "Min": "251",
+                "Max": "410"
+            },
+            "Sp. Def": {
+                "Base": "37",
+                "Min": "71",
+                "Max": "190"
+            },
+            "Speed": {
+                "Base": "151",
+                "Min": "276",
+                "Max": "441"
+            },
+            "Total": "570"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Grass": "not very effective",
+                "Fighting": "not very effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Dark": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Feint": "1",
+            "Rapid Spin": "1",
+            "Leer": "5",
+            "Quick Guard": "10",
+            "Bug Bite": "15",
+            "Low Kick": "20",
+            "Double Kick": "25",
+            "Triple Kick": "30",
+            "Stomp": "35",
+            "Agility": "40",
+            "Lunge": "45",
+            "Bounce": "50",
+            "Speed Swap": "55",
+            "Bug Buzz": "60",
+            "Quiver Dance": "65",
+            "High Jump Kick": "70"
+        },
+        "egg": {
+            "Coaching": null,
+            "Skitter Smack": null,
+            "Triple Axel": null
+        },
+        "null": {
+            "Ice Beam": "05",
+            "Blizzard": "06",
+            "Low Kick": "07",
+            "Agility": "12",
+            "Substitute": "20",
+            "Outrage": "24",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Taunt": "37",
+            "Close Combat": "53",
+            "Poison Jab": "57",
+            "Bug Buzz": "61",
+            "Focus Blast": "64",
+            "Foul Play": "81",
+            "Drill Run": "87",
+            "Throat Chop": "95"
+        },
+        "tm": {
+            "Hyper Beam": "08",
+            "Giga Impact": "09",
+            "Rest": "21",
+            "Snore": "24",
+            "Protect": "25",
+            "Icy Wind": "27",
+            "Facade": "39",
+            "Swift": "40",
+            "Brick Break": "43",
+            "Bounce": "52",
+            "U-turn": "56",
+            "Assurance": "58",
+            "Fling": "59",
+            "Speed Swap": "62",
+            "Low Sweep": "75",
+            "Round": "76",
+            "Electroweb": "82",
+            "False Swipe": "94"
+        }
+    },
+    "entries": {
+        "Pheromosa": [
+            "One of the dangerous Ultra Beasts, it has been spotted running across the land at terrific speeds.",
+            "One of the Ultra Beasts. It refuses to touch anything, perhaps because it senses some uncleanness in this world.",
+            "A life-form that lives in another world, its body is thin and supple, but it also possesses great power.",
+            "Although it\u2019s alien to this world and a danger here, it\u2019s apparently a common organism in the world where it normally lives."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792804771790848/795.png",
+    "discord_sprite": "<:P795:1132147784284372992>"
+}

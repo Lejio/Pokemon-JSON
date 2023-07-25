@@ -1,0 +1,199 @@
+{
+    "alt-version(s)": [],
+    "name": "Remoraid",
+    "Remoraid": {
+        "pokedex_data": {
+            "National No.": "0223",
+            "Type": [
+                "Water"
+            ],
+            "Species": "Jet Poke\u0301mon",
+            "Height": "0.6 m (2\u203200\u2032\u2032)",
+            "Weight": "12.0 kg (26.5 lbs)",
+            "Abilities": {
+                "Hustle": {
+                    "href": "/ability/hustle",
+                    "effect": "Boosts the Attack stat, but lowers accuracy.",
+                    "hidden": false
+                },
+                "Sniper": {
+                    "href": "/ability/sniper",
+                    "effect": "Powers up moves if they become critical hits.",
+                    "hidden": false
+                },
+                "Moody": {
+                    "href": "/ability/moody",
+                    "effect": "Raises one stat and lowers another.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Sp. Atk",
+            "Catch rate": "190",
+            "BaseFriendship": "50",
+            "Base Exp.": "60",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "35",
+                "Min": "180",
+                "Max": "274"
+            },
+            "Attack": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Defense": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Sp. Atk": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Def": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Speed": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Total": "300"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Remoraid",
+                    "nationalNo": "#0223",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Octillery",
+                    "nationalNo": "#0224",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 25)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Helping Hand": "1",
+            "Water Gun": "1",
+            "Water Pulse": "4",
+            "Focus Energy": "8",
+            "Psybeam": "12",
+            "Aurora Beam": "16",
+            "Bubble Beam": "20",
+            "Lock-On": "24",
+            "Bullet Seed": "28",
+            "Ice Beam": "32",
+            "Hydro Pump": "36",
+            "Soak": "40",
+            "Hyper Beam": "44"
+        },
+        "egg": {
+            "Acid Spray": null,
+            "Aurora Beam": null,
+            "Entrainment": null,
+            "Flail": null,
+            "Haze": null,
+            "Mud Shot": null,
+            "Octazooka": null,
+            "Rock Blast": null,
+            "Screech": null,
+            "Snore": null,
+            "Supersonic": null,
+            "Swift": null,
+            "Water Spout": null
+        },
+        "tm": {
+            "Water Pulse": "03",
+            "Bullet Seed": "09",
+            "Sunny Day": "11",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Psychic": "29",
+            "Double Team": "32",
+            "Flamethrower": "35",
+            "Fire Blast": "38",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Scald": "49",
+            "Brine": "55",
+            "Charge Beam": "57",
+            "Endure": "58",
+            "Thunder Wave": "73",
+            "Sleep Talk": "82",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Surf": "95",
+            "Waterfall": "99"
+        }
+    },
+    "entries": {
+        "Remoraid": [
+            "It has superb accuracy. The water it shoots out can strike even moving prey from more than 300 feet.",
+            "Using its dorsal fin as a suction pad, it clings to a MANTINE\u2019s underside to scavenge for leftovers.",
+            "To escape from an attacker, it may shoot water out of its mouth, then use that force to swim backward.",
+            "REMORAID sucks in water, then expels it at high velocity using its abdominal muscles to shoot down flying prey. When evolution draws near, this pok\u00e9mon travels downstream from rivers.",
+            "Using its dorsal fin as a suction pad, it clings to a MANTINE\u2019s underside to scavenge for leftovers.",
+            "It has superb accuracy. The water it shoots out can strike even moving prey from more than 100 yards.",
+            "A REMORAID uses its abdominal muscles to forcefully expel swallowed water, then shoot down flying prey. When evolution approaches, it travels down rivers.",
+            "It squirts water forcefully from its mouth to shoot down flying prey.",
+            "It clings to MANTINE to feed on the big Pok\u00e9mon\u2019s scraps. This is an adaptation to avoid foes.",
+            "It forcefully squirts water. The water jet never misses prey even if the REMORAID is deep in the sea.",
+            "It has superb accuracy. The water it shoots out can strike moving prey from more than 300 feet away.",
+            "Using its dorsal fin as a suction pad, it clings to a MANTINE\u2019s underside to scavenge for leftovers.",
+            "It forcefully squirts water. The water jet never misses prey even if the Remoraid is deep in the sea.",
+            "The water they shoot from their mouths can hit moving prey from more than 300 feet away.",
+            "It has superb accuracy. The water it shoots out can strike moving prey from more than 300 feet away.",
+            "Using its dorsal fin as a suction pad, it clings to a Mantine\u2019s underside to scavenge for leftovers.",
+            "Remoraid sucks in water, then expels it at high velocity using its abdominal muscles to shoot down flying prey. When evolution draws near, this Pok\u00e9mon travels downstream from rivers.",
+            "This Pok\u00e9mon clings to Mantine and shares in its prosperity. When its Mantine is attacked, Remoraid will fight alongside it!",
+            "Also known as the \u201csniper of the seas,\u201d its water gun can hit prey without fail from over 300 feet away.",
+            "The water they shoot from their mouths can hit moving prey from more than 300 feet away.",
+            "Using its dorsal fin as a suction pad, it clings to a Mantine\u2019s underside to scavenge for leftovers.",
+            "It squirts water forcefully from its mouth to shoot down flying prey.",
+            "It clings to Mantine to feed on the big Pok\u00e9mon\u2019s scraps. This is an adaptation to avoid foes.",
+            "Spits water from its mouth with incredible accuracy. It captures Burmy by shooting them down off the branches from which they dangle."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788336843993188/223.png",
+    "discord_sprite": "<:P223:1132122549938036736>"
+}

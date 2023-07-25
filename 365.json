@@ -1,0 +1,237 @@
+{
+    "alt-version(s)": [],
+    "name": "Walrein",
+    "Walrein": {
+        "pokedex_data": {
+            "National No.": "0365",
+            "Type": [
+                "Ice",
+                "Water"
+            ],
+            "Species": "Ice Break Poke\u0301mon",
+            "Height": "1.4 m (4\u203207\u2032\u2032)",
+            "Weight": "150.6 kg (332.0 lbs)",
+            "Abilities": {
+                "Thick Fat": {
+                    "href": "/ability/thick-fat",
+                    "effect": "Ups resistance to Fire- and Ice-type moves.",
+                    "hidden": false
+                },
+                "Ice Body": {
+                    "href": "/ability/ice-body",
+                    "effect": "The Pok\u00e9mon gradually regains HP in a hailstorm.",
+                    "hidden": false
+                },
+                "Oblivious": {
+                    "href": "/ability/oblivious",
+                    "effect": "Prevents it from becoming infatuated.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 HP",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "239",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "110",
+                "Min": "330",
+                "Max": "424"
+            },
+            "Attack": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Defense": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Sp. Atk": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Sp. Def": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Speed": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Total": "530"
+        },
+        "defense_stats": {
+            "Thick Fat ability": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Rock": "super-effective"
+            },
+            "Ice Body ability": {
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Rock": "super-effective"
+            },
+            "Oblivious ability": {
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Rock": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Spheal",
+                    "nationalNo": "#0363",
+                    "type": [
+                        "Ice",
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Sealeo",
+                    "nationalNo": "#0364",
+                    "type": [
+                        "Ice",
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 32)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Sealeo",
+                    "nationalNo": "#0364",
+                    "type": [
+                        "Ice",
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Walrein",
+                    "nationalNo": "#0365",
+                    "type": [
+                        "Ice",
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 44)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Crunch": "1",
+            "Defense Curl": "1",
+            "Growl": "1",
+            "Ice Fang": "1",
+            "Rollout": "1",
+            "Swagger": "1",
+            "Water Gun": "1",
+            "Powder Snow": "12",
+            "Rest": "16",
+            "Snore": "20",
+            "Brine": "24",
+            "Aurora Beam": "28",
+            "Encore": "35",
+            "Body Slam": "40",
+            "Surf": "48",
+            "Blizzard": "56",
+            "Hail": "64",
+            "Sheer Cold": "72"
+        },
+        "egg": {
+            "Aqua Ring": null,
+            "Belly Drum": null,
+            "Curse": null,
+            "Fissure": null,
+            "Rollout": null,
+            "Spit Up": null,
+            "Stockpile": null,
+            "Swallow": null,
+            "Yawn": null
+        },
+        "tm": {
+            "Water Pulse": "03",
+            "Roar": "05",
+            "Hail": "07",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Iron Tail": "23",
+            "Earthquake": "26",
+            "Double Team": "32",
+            "Rock Tomb": "39",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Brine": "55",
+            "Endure": "58",
+            "Giga Impact": "68",
+            "Avalanche": "72",
+            "Swords Dance": "75",
+            "Rock Slide": "80",
+            "Sleep Talk": "82",
+            "Bulldoze": "83",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Surf": "95",
+            "Strength": "96",
+            "Rock Smash": "98",
+            "Waterfall": "99"
+        }
+    },
+    "entries": {
+        "Walrein": [
+            "WALREIN\u2019s two massively developed tusks can totally shatter blocks of ice weighing ten tons with one blow. This pok\u00e9mon\u2019s thick coat of blubber insulates it from subzero temperatures.",
+            "WALREIN swims all over in frigid seawater while crushing icebergs with its grand, imposing tusks. Its thick layer of blubber makes enemy attacks bounce off harmlessly.",
+            "It swims through icy seas while shattering ice floes with its large tusks. It is protected by its thick blubber.",
+            "To protect its herd, the leader battles anything that invades its territory, even at the cost of its life. Its tusks may snap off in battle.",
+            "It shatters ice with its big tusks. Its thick blubber repels not only the cold, but also enemy attacks.",
+            "It shatters drift ice with its strong tusks. Its thick layer of blubber repels enemy attacks.",
+            "It shatters ice with its big tusks. Its thick blubber repels not only the cold, but also enemy attacks.",
+            "Not only does its thick blubber keep it warm, it also protects it from attacks. It shatters ice with its prized tusks.",
+            "It shatters ice with its big tusks. Its thick blubber repels not only the cold, but also enemy attacks.",
+            "It shatters drift ice with its strong tusks. Its thick layer of blubber repels enemy attacks.",
+            "Walrein\u2019s two massively developed tusks can totally shatter blocks of ice weighing 10 tons with one blow. This Pok\u00e9mon\u2019s thick coat of blubber insulates it from subzero temperatures.",
+            "Walrein swims all over in frigid seawater while crushing icebergs with its grand, imposing tusks. Its thick layer of blubber makes enemy attacks bounce off harmlessly.",
+            "Walrein form herds of 20 to 30 individuals. When a threat appears, the herd\u2019s leader will protect the group with its life.",
+            "Walrein\u2019s tusks keep growing throughout its life. Tusks broken in battle will grow back to their usual impressive size in a year.",
+            "It shatters ice with its big tusks. Its thick blubber repels not only the cold but also enemy attacks.",
+            "Its thick tusks are strong enough to shatter drift ice. They have been known to break, but they will grow back by the next year. The Hisui region is well known for these broken tusks."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789451522216066/365.png",
+    "discord_sprite": "<:P365:1132128796003278961>"
+}

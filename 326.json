@@ -1,0 +1,245 @@
+{
+    "alt-version(s)": [],
+    "name": "Grumpig",
+    "Grumpig": {
+        "pokedex_data": {
+            "National No.": "0326",
+            "Type": [
+                "Psychic"
+            ],
+            "Species": "Manipulate Poke\u0301mon",
+            "Height": "0.9 m (2\u203211\u2032\u2032)",
+            "Weight": "71.5 kg (157.6 lbs)",
+            "Abilities": {
+                "Thick Fat": {
+                    "href": "/ability/thick-fat",
+                    "effect": "Ups resistance to Fire- and Ice-type moves.",
+                    "hidden": false
+                },
+                "Own Tempo": {
+                    "href": "/ability/own-tempo",
+                    "effect": "Prevents the Pok\u00e9mon from becoming confused.",
+                    "hidden": false
+                },
+                "Gluttony": {
+                    "href": "/ability/gluttony",
+                    "effect": "Encourages the early use of a held Berry.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Sp. Def",
+            "Catch rate": "60",
+            "BaseFriendship": "50",
+            "Base Exp.": "165",
+            "Growth Rate": "Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "80",
+                "Min": "270",
+                "Max": "364"
+            },
+            "Attack": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Defense": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Atk": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Sp. Def": {
+                "Base": "110",
+                "Min": "202",
+                "Max": "350"
+            },
+            "Speed": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Total": "470"
+        },
+        "defense_stats": {
+            "Thick Fat ability": {
+                "Fire": "not very effective",
+                "Ice": "not very effective",
+                "Fighting": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective"
+            },
+            "Own Tempo ability": {
+                "Fighting": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective"
+            },
+            "Gluttony ability": {
+                "Fighting": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Spoink",
+                    "nationalNo": "#0325",
+                    "type": [
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Grumpig",
+                    "nationalNo": "#0326",
+                    "type": [
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 32)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Belch": "1",
+            "Confusion": "1",
+            "Psybeam": "1",
+            "Splash": "1",
+            "Psych Up": "18",
+            "Confuse Ray": "22",
+            "Zen Headbutt": "26",
+            "Power Gem": "29",
+            "Rest": "35",
+            "Snore": "35",
+            "Psyshock": "42",
+            "Payback": "46",
+            "Psychic": "52",
+            "Bounce": "60"
+        },
+        "evolution": {
+            "Teeter Dance": "\u2014"
+        },
+        "egg": {
+            "Amnesia": null,
+            "Extrasensory": null,
+            "Future Sight": null,
+            "Mirror Coat": null,
+            "Simple Beam": null,
+            "Trick": null,
+            "Whirlwind": null,
+            "Zen Headbutt": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Mud-Slap": "05",
+            "Protect": "07",
+            "Low Kick": "12",
+            "Psybeam": "16",
+            "Confuse Ray": "17",
+            "Thief": "18",
+            "Trailblaze": "20",
+            "Chilling Water": "22",
+            "Charge Beam": "23",
+            "Facade": "25",
+            "Bulldoze": "28",
+            "Snarl": "30",
+            "Swift": "32",
+            "Icy Wind": "34",
+            "Mud Shot": "35",
+            "Low Sweep": "39",
+            "Stored Power": "41",
+            "Night Shade": "42",
+            "Fling": "43",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Snowscape": "52",
+            "Psyshock": "54",
+            "Dig": "55",
+            "Brick Break": "58",
+            "Zen Headbutt": "59",
+            "Body Slam": "66",
+            "Fire Punch": "67",
+            "Thunder Punch": "68",
+            "Ice Punch": "69",
+            "Sleep Talk": "70",
+            "Seed Bomb": "71",
+            "Drain Punch": "73",
+            "Reflect": "74",
+            "Light Screen": "75",
+            "Dazzling Gleam": "79",
+            "Metronome": "80",
+            "Grass Knot": "81",
+            "Thunder Wave": "82",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Taunt": "87",
+            "Body Press": "89",
+            "Imprison": "92",
+            "Flash Cannon": "93",
+            "Skill Swap": "98",
+            "Power Gem": "101",
+            "Substitute": "103",
+            "Trick": "109",
+            "Shadow Ball": "114",
+            "Hyper Voice": "117",
+            "Energy Ball": "119",
+            "Psychic": "120",
+            "Encore": "122",
+            "Amnesia": "128",
+            "Calm Mind": "129",
+            "Helping Hand": "130",
+            "Earth Power": "133",
+            "Psychic Terrain": "138",
+            "Nasty Plot": "140",
+            "Giga Impact": "152",
+            "Focus Blast": "158",
+            "Trick Room": "161",
+            "Hyper Beam": "163",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Grumpig": [
+            "GRUMPIG uses the black pearls on its body to amplify its psychic power waves for gaining total control over its foe. When this pok\u00e9mon uses its special power, its snorting breath grows labored.",
+            "GRUMPIG uses the black pearls on its body to wield its fantastic powers. When it is doing so, it dances bizarrely. This pok\u00e9mon\u2019s black pearls are valuable as works of art.",
+            "It can gain control over foes by doing odd dance steps. The black pearls on its forehead are precious gems.",
+            "It stores power in the black pearls on its forehead. When it uses psychic power, it performs an odd dance step. Its style of dancing became hugely popular overseas.",
+            "It uses black pearls to amplify its psycho-power. It does an odd dance to gain control over foes.",
+            "It can perform odd dance steps to influence foes. Its style of dancing became hugely popular overseas.",
+            "It uses black pearls to amplify its psycho-power. It does an odd dance to gain control over foes.",
+            "It uses black pearls to amplify its psychic power. It does a strange dance to control foes\u2019 minds.",
+            "It uses black pearls to amplify its psychic power. It does a strange dance to control foes\u2019 minds.",
+            "It uses black pearls to amplify its psychic power. It does an odd dance to gain control over foes.",
+            "Grumpig uses the black pearls on its body to amplify its psychic power waves for gaining total control over its foe. When this Pok\u00e9mon uses its special power, its snorting breath grows labored.",
+            "Grumpig uses the black pearls on its body to wield its fantastic powers. When it is doing so, it dances bizarrely. This Pok\u00e9mon\u2019s black pearls are valuable as works of art.",
+            "It uses black pearls to amplify its psychic power. It does an odd dance to gain control over foes.",
+            "It can perform odd dance steps to influence foes. Its style of dancing became hugely popular overseas.",
+            "It uses black pearls to amplify its psychic power. It does a strange dance to control foes\u2019 minds."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789149242929294/326.png",
+    "discord_sprite": "<:P326:1132127082764324894>"
+}

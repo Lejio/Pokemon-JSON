@@ -1,0 +1,188 @@
+{
+    "alt-version(s)": [],
+    "name": "Cetoddle",
+    "Cetoddle": {
+        "pokedex_data": {
+            "National No.": "0974",
+            "Type": [
+                "Ice"
+            ],
+            "Species": "Terra Whale Poke\u0301mon",
+            "Height": "1.2 m (3\u203211\u2032\u2032)",
+            "Weight": "45.0 kg (99.2 lbs)",
+            "Abilities": {
+                "Thick Fat": {
+                    "href": "/ability/thick-fat",
+                    "effect": "Ups resistance to Fire- and Ice-type moves.",
+                    "hidden": false
+                },
+                "Snow Cloak": {
+                    "href": "/ability/snow-cloak",
+                    "effect": "Raises evasion in a hailstorm.",
+                    "hidden": false
+                },
+                "Sheer Force": {
+                    "href": "/ability/sheer-force",
+                    "effect": "Removes added effects to increase move damage.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 HP",
+            "Catch rate": "150",
+            "BaseFriendship": "50",
+            "Base Exp.": "67",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "108",
+                "Min": "326",
+                "Max": "420"
+            },
+            "Attack": {
+                "Base": "68",
+                "Min": "126",
+                "Max": "258"
+            },
+            "Defense": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Sp. Atk": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Sp. Def": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Speed": {
+                "Base": "43",
+                "Min": "81",
+                "Max": "203"
+            },
+            "Total": "334"
+        },
+        "defense_stats": {
+            "Thick Fat ability": {
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Rock": "super-effective",
+                "Steel": "super-effective"
+            },
+            "Snow Cloak ability": {
+                "Fire": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Rock": "super-effective",
+                "Steel": "super-effective"
+            },
+            "Sheer Force ability": {
+                "Fire": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Rock": "super-effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Cetoddle",
+                    "nationalNo": "#0974",
+                    "type": [
+                        "Ice"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Cetitan",
+                    "nationalNo": "#0975",
+                    "type": [
+                        "Ice"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Ice Stone)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Powder Snow": "1",
+            "Tackle": "1",
+            "Growl": "6",
+            "Echoed Voice": "9",
+            "Ice Shard": "12",
+            "Rest": "15",
+            "Take Down": "19",
+            "Flail": "25",
+            "Avalanche": "27",
+            "Bounce": "31",
+            "Body Slam": "36",
+            "Amnesia": "40",
+            "Ice Spinner": "44",
+            "Double-Edge": "49",
+            "Blizzard": "53"
+        },
+        "egg": {
+            "Belly Drum": null,
+            "Entrainment": null,
+            "Icicle Crash": null,
+            "Superpower": null,
+            "Yawn": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Charm": "02",
+            "Protect": "07",
+            "Ice Fang": "10",
+            "Water Pulse": "11",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Bulldoze": "28",
+            "Icy Wind": "34",
+            "Avalanche": "46",
+            "Endure": "47",
+            "Rain Dance": "50",
+            "Snowscape": "52",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Body Press": "89",
+            "Substitute": "103",
+            "Liquidation": "110",
+            "Hyper Voice": "117",
+            "Heavy Slam": "121",
+            "Ice Spinner": "124",
+            "Play Rough": "127",
+            "Amnesia": "128",
+            "Helping Hand": "130",
+            "Ice Beam": "135",
+            "Blizzard": "143",
+            "Earthquake": "149",
+            "Hyper Beam": "163",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Cetoddle": [
+            "This species left the ocean and began living on land a very long time ago. It seems to be closely related to Wailmer.",
+            "It lives in frigid regions in pods of five or so individuals. It loves the minerals found in snow and ice."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131794195640746134/974.png",
+    "discord_sprite": "<:P974:1132155649132867737>"
+}

@@ -1,0 +1,186 @@
+{
+    "alt-version(s)": [],
+    "name": "Crustle",
+    "Crustle": {
+        "pokedex_data": {
+            "National No.": "0558",
+            "Type": [
+                "Bug",
+                "Rock"
+            ],
+            "Species": "Stone Home Poke\u0301mon",
+            "Height": "1.4 m (4\u203207\u2032\u2032)",
+            "Weight": "200.0 kg (440.9 lbs)",
+            "Abilities": {
+                "Sturdy": {
+                    "href": "/ability/sturdy",
+                    "effect": "It cannot be knocked out with one hit.",
+                    "hidden": false
+                },
+                "Shell Armor": {
+                    "href": "/ability/shell-armor",
+                    "effect": "The Pok\u00e9mon is protected against critical hits.",
+                    "hidden": false
+                },
+                "Weak Armor": {
+                    "href": "/ability/weak-armor",
+                    "effect": "Physical attacks lower Defense and raise Speed.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Defense",
+            "Catch rate": "75",
+            "BaseFriendship": "50",
+            "Base Exp.": "170",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "70",
+                "Min": "250",
+                "Max": "344"
+            },
+            "Attack": {
+                "Base": "105",
+                "Min": "193",
+                "Max": "339"
+            },
+            "Defense": {
+                "Base": "125",
+                "Min": "229",
+                "Max": "383"
+            },
+            "Sp. Atk": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Def": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Speed": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Total": "485"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Water": "super-effective",
+                "Poison": "not very effective",
+                "Rock": "super-effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Dwebble",
+                    "nationalNo": "#0557",
+                    "type": [
+                        "Bug",
+                        "Rock"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Crustle",
+                    "nationalNo": "#0558",
+                    "type": [
+                        "Bug",
+                        "Rock"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 34)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Fury Cutter": "1",
+            "Sand Attack": "1",
+            "Smack Down": "1",
+            "Withdraw": "1",
+            "Bug Bite": "12",
+            "Flail": "16",
+            "Slash": "20",
+            "Rock Slide": "24",
+            "Stealth Rock": "28",
+            "Rock Blast": "32",
+            "X-Scissor": "38",
+            "Rock Polish": "44",
+            "Shell Smash": "50",
+            "Rock Wrecker": "56"
+        },
+        "egg": {
+            "Block": null,
+            "Counter": null,
+            "Curse": null,
+            "Knock Off": null,
+            "Night Slash": null,
+            "Wide Guard": null
+        },
+        "null": {
+            "Swords Dance": "00",
+            "Earthquake": "10",
+            "Substitute": "20",
+            "Spikes": "23",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Iron Defense": "46",
+            "Poison Jab": "57",
+            "X-Scissor": "60",
+            "Stone Edge": "75",
+            "Stealth Rock": "76",
+            "Heavy Slam": "79",
+            "Body Press": "99"
+        },
+        "tm": {
+            "Hyper Beam": "08",
+            "Giga Impact": "09",
+            "Solar Beam": "11",
+            "Solar Blade": "12",
+            "Dig": "15",
+            "Rest": "21",
+            "Rock Slide": "22",
+            "Snore": "24",
+            "Protect": "25",
+            "Attract": "31",
+            "Sandstorm": "32",
+            "Facade": "39",
+            "Rock Tomb": "48",
+            "Sand Tomb": "49",
+            "Rock Blast": "54",
+            "Shadow Claw": "65",
+            "Round": "76",
+            "Bulldoze": "81",
+            "Stomping Tantrum": "98"
+        }
+    },
+    "entries": {
+        "Crustle": [
+            "Competing for territory, Crustle fight viciously. The one whose boulder is broken is the loser of the battle.",
+            "It possesses legs of enormous strength, enabling it to carry heavy slabs for many days, even when crossing arid land.",
+            "When its boulder is broken in battles for territory, it feels unsure and begins to weaken.",
+            "It possesses legs of enormous strength, enabling it to carry heavy slabs for many days, even when crossing arid land.",
+            "Competing for territory, Crustle fight viciously. The one whose boulder is broken is the loser of the battle.",
+            "This highly territorial Pok\u00e9mon prefers dry climates. It won\u2019t come out of its boulder on rainy days.",
+            "Its thick claws are its greatest weapons. They\u2019re mighty enough to crack Rhyperior\u2019s carapace."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790950591639602/558.png",
+    "discord_sprite": "<:P558:1132137290492293231>"
+}

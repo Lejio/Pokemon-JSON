@@ -1,0 +1,170 @@
+{
+    "alt-version(s)": [],
+    "name": "Guzzlord",
+    "Guzzlord": {
+        "pokedex_data": {
+            "National No.": "0799",
+            "Type": [
+                "Dark",
+                "Dragon"
+            ],
+            "Species": "Junkivore Poke\u0301mon",
+            "Height": "5.5 m (18\u203201\u2032\u2032)",
+            "Weight": "888.0 kg (1957.7 lbs)",
+            "Abilities": {
+                "Beast Boost": {
+                    "href": "/ability/beast-boost",
+                    "effect": "The Pok\u00e9mon boosts its most proficient stat each time it knocks out a Pok\u00e9mon.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 HP",
+            "Catch rate": "45",
+            "BaseFriendship": "0",
+            "Base Exp.": "257",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "223",
+                "Min": "556",
+                "Max": "650"
+            },
+            "Attack": {
+                "Base": "101",
+                "Min": "186",
+                "Max": "331"
+            },
+            "Defense": {
+                "Base": "53",
+                "Min": "99",
+                "Max": "225"
+            },
+            "Sp. Atk": {
+                "Base": "97",
+                "Min": "179",
+                "Max": "322"
+            },
+            "Sp. Def": {
+                "Base": "53",
+                "Min": "99",
+                "Max": "225"
+            },
+            "Speed": {
+                "Base": "43",
+                "Min": "81",
+                "Max": "203"
+            },
+            "Total": "570"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "super-effective",
+                "Psychic": "no effect",
+                "Bug": "super-effective",
+                "Ghost": "not very effective",
+                "Dragon": "super-effective",
+                "Dark": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Bite": "1",
+            "Dragon Tail": "1",
+            "Stockpile": "5",
+            "Swallow": "5",
+            "Knock Off": "10",
+            "Stomp": "15",
+            "Stomping Tantrum": "20",
+            "Wide Guard": "25",
+            "Crunch": "30",
+            "Body Slam": "35",
+            "Gastro Acid": "40",
+            "Hammer Arm": "45",
+            "Heavy Slam": "50",
+            "Dragon Rush": "55",
+            "Belch": "60",
+            "Thrash": "65",
+            "Giga Impact": "70"
+        },
+        "egg": {
+            "Corrosive Gas": null,
+            "Lash Out": null,
+            "Steel Roller": null
+        },
+        "null": {
+            "Body Slam": "01",
+            "Flamethrower": "02",
+            "Earthquake": "10",
+            "Fire Blast": "15",
+            "Amnesia": "17",
+            "Substitute": "20",
+            "Sludge Bomb": "22",
+            "Outrage": "24",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Iron Tail": "31",
+            "Crunch": "32",
+            "Heat Wave": "36",
+            "Iron Defense": "46",
+            "Dragon Claw": "47",
+            "Gyro Ball": "52",
+            "Poison Jab": "57",
+            "Dark Pulse": "58",
+            "Dragon Pulse": "62",
+            "Iron Head": "74",
+            "Stone Edge": "75",
+            "Sludge Wave": "78",
+            "Heavy Slam": "79",
+            "Heat Crash": "88",
+            "High Horsepower": "94",
+            "Body Press": "99"
+        },
+        "tm": {
+            "Mega Punch": "00",
+            "Mega Kick": "01",
+            "Hyper Beam": "08",
+            "Giga Impact": "09",
+            "Rest": "21",
+            "Rock Slide": "22",
+            "Thief": "23",
+            "Snore": "24",
+            "Protect": "25",
+            "Facade": "39",
+            "Brick Break": "43",
+            "Rock Tomb": "48",
+            "Payback": "57",
+            "Fling": "59",
+            "Drain Punch": "63",
+            "Shadow Claw": "65",
+            "Round": "76",
+            "Bulldoze": "81",
+            "Snarl": "85",
+            "Brutal Swing": "97",
+            "Stomping Tantrum": "98"
+        }
+    },
+    "entries": {
+        "Guzzlord": [
+            "It has gobbled mountains and swallowed whole buildings, according to reports. It\u2019s one of the Ultra Beasts.",
+            "A dangerous Ultra Beast, it appears to be eating constantly, but for some reason its droppings have never been found.",
+            "Although it\u2019s alien to this world and a danger here, it\u2019s apparently a common organism in the world where it normally lives.",
+            "An unknown life-form called a UB. It may be constantly hungry\u2014it is certainly always devouring something."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792834773659659/799.png",
+    "discord_sprite": "<:P799:1132147960860385350>"
+}

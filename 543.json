@@ -1,0 +1,199 @@
+{
+    "alt-version(s)": [],
+    "name": "Venipede",
+    "Venipede": {
+        "pokedex_data": {
+            "National No.": "0543",
+            "Type": [
+                "Bug",
+                "Poison"
+            ],
+            "Species": "Centipede Poke\u0301mon",
+            "Height": "0.4 m (1\u203204\u2032\u2032)",
+            "Weight": "5.3 kg (11.7 lbs)",
+            "Abilities": {
+                "Poison Point": {
+                    "href": "/ability/poison-point",
+                    "effect": "Contact with the Pok\u00e9mon may poison the attacker.",
+                    "hidden": false
+                },
+                "Swarm": {
+                    "href": "/ability/swarm",
+                    "effect": "Powers up Bug-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Speed Boost": {
+                    "href": "/ability/speed-boost",
+                    "effect": "Its Speed stat is gradually boosted.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Defense",
+            "Catch rate": "255",
+            "BaseFriendship": "50",
+            "Base Exp.": "52",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "30",
+                "Min": "170",
+                "Max": "264"
+            },
+            "Attack": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Defense": {
+                "Base": "59",
+                "Min": "110",
+                "Max": "238"
+            },
+            "Sp. Atk": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Sp. Def": {
+                "Base": "39",
+                "Min": "74",
+                "Max": "194"
+            },
+            "Speed": {
+                "Base": "57",
+                "Min": "107",
+                "Max": "234"
+            },
+            "Total": "260"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Grass": "not very effective",
+                "Fighting": "not very effective",
+                "Poison": "not very effective",
+                "Flying": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Venipede",
+                    "nationalNo": "#0543",
+                    "type": [
+                        "Bug",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Whirlipede",
+                    "nationalNo": "#0544",
+                    "type": [
+                        "Bug",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 22)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Whirlipede",
+                    "nationalNo": "#0544",
+                    "type": [
+                        "Bug",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Scolipede",
+                    "nationalNo": "#0545",
+                    "type": [
+                        "Bug",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 30)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Defense Curl": "1",
+            "Poison Sting": "1",
+            "Rollout": "4",
+            "Protect": "8",
+            "Poison Tail": "12",
+            "Screech": "16",
+            "Bug Bite": "20",
+            "Venoshock": "24",
+            "Take Down": "28",
+            "Agility": "32",
+            "Toxic": "36",
+            "Venom Drench": "40",
+            "Double-Edge": "44"
+        },
+        "egg": {
+            "Bite": null,
+            "Fury Cutter": null
+        },
+        "null": {
+            "Agility": "12",
+            "Substitute": "20",
+            "Sludge Bomb": "22",
+            "Spikes": "23",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Iron Defense": "46",
+            "Gyro Ball": "52",
+            "Toxic Spikes": "54",
+            "Poison Jab": "57",
+            "Venom Drench": "91"
+        },
+        "tm": {
+            "Pin Missile": "07",
+            "Solar Beam": "11",
+            "Screech": "16",
+            "Rest": "21",
+            "Snore": "24",
+            "Protect": "25",
+            "Attract": "31",
+            "Sunny Day": "34",
+            "Facade": "39",
+            "Payback": "57",
+            "Venoshock": "74",
+            "Round": "76",
+            "Hex": "77"
+        }
+    },
+    "entries": {
+        "Venipede": [
+            "Its bite injects a potent poison, enough to paralyze large bird Pok\u00e9mon that try to prey on it.",
+            "It discovers what is going on around it by using the feelers on its head and tail. It is brutally aggressive.",
+            "Using the feelers on its head and tail, it picks up vibrations in the air to determine its prey\u2019s location and state.",
+            "It discovers what is going on around it by using the feelers on its head and tail. It is brutally aggressive.",
+            "Its bite injects a potent poison, enough to paralyze large bird Pok\u00e9mon that try to prey on it.",
+            "Venipede and Sizzlipede are similar species, but when the two meet, a huge fight ensues.",
+            "Its fangs are highly venomous. If this Pok\u00e9mon finds prey it thinks it can eat, it leaps for them without any thought of how things might turn out."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790833776083068/543.png",
+    "discord_sprite": "<:P543:1132136629218324691>"
+}

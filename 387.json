@@ -1,0 +1,209 @@
+{
+    "alt-version(s)": [],
+    "name": "Turtwig",
+    "Turtwig": {
+        "pokedex_data": {
+            "National No.": "0387",
+            "Type": [
+                "Grass"
+            ],
+            "Species": "Tiny Leaf Poke\u0301mon",
+            "Height": "0.4 m (1\u203204\u2032\u2032)",
+            "Weight": "10.2 kg (22.5 lbs)",
+            "Abilities": {
+                "Overgrow": {
+                    "href": "/ability/overgrow",
+                    "effect": "Powers up Grass-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Shell Armor": {
+                    "href": "/ability/shell-armor",
+                    "effect": "The Pok\u00e9mon is protected against critical hits.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "64",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "55",
+                "Min": "220",
+                "Max": "314"
+            },
+            "Attack": {
+                "Base": "68",
+                "Min": "126",
+                "Max": "258"
+            },
+            "Defense": {
+                "Base": "64",
+                "Min": "119",
+                "Max": "249"
+            },
+            "Sp. Atk": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Sp. Def": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Speed": {
+                "Base": "31",
+                "Min": "60",
+                "Max": "177"
+            },
+            "Total": "318"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Poison": "super-effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Bug": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Turtwig",
+                    "nationalNo": "#0387",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Grotle",
+                    "nationalNo": "#0388",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 18)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Grotle",
+                    "nationalNo": "#0388",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Torterra",
+                    "nationalNo": "#0389",
+                    "type": [
+                        "Grass",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 32)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Tackle": "1",
+            "Withdraw": "5",
+            "Leafage": "6",
+            "Growth": "10",
+            "Razor Leaf": "13",
+            "Curse": "17",
+            "Bite": "21",
+            "Mega Drain": "25",
+            "Leech Seed": "29",
+            "Synthesis": "33",
+            "Crunch": "37",
+            "Giga Drain": "41",
+            "Leaf Storm": "45"
+        },
+        "egg": {
+            "Amnesia": null,
+            "Body Slam": null,
+            "Double-Edge": null,
+            "Earth Power": null,
+            "Grassy Terrain": null,
+            "Growth": null,
+            "Heavy Slam": null,
+            "Sand Tomb": null,
+            "Seed Bomb": null,
+            "Spit Up": null,
+            "Stockpile": null,
+            "Superpower": null,
+            "Swallow": null,
+            "Thrash": null,
+            "Tickle": null,
+            "Wide Guard": null,
+            "Worry Seed": null
+        },
+        "tm": {
+            "Bullet Seed": "09",
+            "Work Up": "10",
+            "Sunny Day": "11",
+            "Light Screen": "16",
+            "Protect": "17",
+            "Giga Drain": "19",
+            "Safeguard": "20",
+            "Solar Beam": "22",
+            "Iron Tail": "23",
+            "Double Team": "32",
+            "Reflect": "33",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Energy Ball": "53",
+            "Endure": "58",
+            "Flash": "70",
+            "Swords Dance": "75",
+            "Stealth Rock": "76",
+            "Sleep Talk": "82",
+            "Grass Knot": "86",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Cut": "93",
+            "Strength": "96",
+            "Rock Smash": "98",
+            "Rock Climb": "100"
+        }
+    },
+    "entries": {
+        "Turtwig": [
+            "Made from soil, the shell on its back hardens when it drinks water. It lives along lakes.",
+            "It undertakes photosynthesis with its body, making oxygen. The leaf on its head wilts if it is thirsty.",
+            "The shell on its back is made of soil. On a very healthy TURTWIG, the shell should feel moist.",
+            "Photosynthesis occurs across its body under the sun. The shell on its back is actually hardened soil.",
+            "The shell on its back is made of soil. On a very healthy Turtwig, the shell should feel moist.",
+            "Photosynthesis occurs across its body under the sun. The shell on its back is actually hardened soil.",
+            "It undertakes photosynthesis with its body, making oxygen. The leaf on its head wilts if it is thirsty.",
+            "Made from soil, the shell on its back hardens when it drinks water. It lives along lakes.",
+            "It undertakes photosynthesis within its body, making oxygen. The leaf on its head wilts if the Pok\u00e9mon is thirsty.",
+            "This Pok\u00e9mon becomes more energetic the more sunlight there is. The part resembling a shell is similar to silt and is slightly damp and warm to the touch."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789623639675042/387.png",
+    "discord_sprite": "<:P387:1132129761607557140>"
+}

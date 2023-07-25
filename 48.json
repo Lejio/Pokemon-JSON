@@ -1,0 +1,200 @@
+{
+    "alt-version(s)": [],
+    "name": "Venonat",
+    "Venonat": {
+        "pokedex_data": {
+            "National No.": "0048",
+            "Type": [
+                "Bug",
+                "Poison"
+            ],
+            "Species": "Insect Poke\u0301mon",
+            "Height": "1.0 m (3\u203203\u2032\u2032)",
+            "Weight": "30.0 kg (66.1 lbs)",
+            "Abilities": {
+                "Compound Eyes": {
+                    "href": "/ability/compound-eyes",
+                    "effect": "The Pok\u00e9mon's accuracy is boosted.",
+                    "hidden": false
+                },
+                "Tinted Lens": {
+                    "href": "/ability/tinted-lens",
+                    "effect": "Powers up \u201cnot very effective\u201d moves.",
+                    "hidden": false
+                },
+                "Run Away": {
+                    "href": "/ability/run-away",
+                    "effect": "Enables a sure getaway from wild Pok\u00e9mon.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Sp. Def",
+            "Catch rate": "190",
+            "BaseFriendship": "50",
+            "Base Exp.": "61",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "60",
+                "Min": "230",
+                "Max": "324"
+            },
+            "Attack": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Defense": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Atk": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Def": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Speed": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Total": "305"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Grass": "not very effective",
+                "Fighting": "not very effective",
+                "Poison": "not very effective",
+                "Flying": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Venonat",
+                    "nationalNo": "#0048",
+                    "type": [
+                        "Bug",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Venomoth",
+                    "nationalNo": "#0049",
+                    "type": [
+                        "Bug",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 31)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Disable": "1",
+            "Tackle": "1",
+            "Supersonic": "5",
+            "Confusion": "11",
+            "Poison Powder": "13",
+            "Psybeam": "17",
+            "Stun Spore": "23",
+            "Bug Buzz": "25",
+            "Sleep Powder": "29",
+            "Leech Life": "35",
+            "Zen Headbutt": "37",
+            "Poison Fang": "41",
+            "Psychic": "47"
+        },
+        "egg": {
+            "Agility": null,
+            "Baton Pass": null,
+            "Bug Bite": null,
+            "Morning Sun": null,
+            "Rage Powder": null,
+            "Screech": null,
+            "Toxic Spikes": null,
+            "Venoshock": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Agility": "04",
+            "Protect": "07",
+            "Acid Spray": "13",
+            "Struggle Bug": "15",
+            "Psybeam": "16",
+            "Confuse Ray": "17",
+            "Thief": "18",
+            "Pounce": "21",
+            "Facade": "25",
+            "Swift": "32",
+            "Night Shade": "42",
+            "Venoshock": "45",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Zen Headbutt": "59",
+            "Sleep Talk": "70",
+            "Rest": "85",
+            "Toxic Spikes": "91",
+            "Leech Life": "95",
+            "Skill Swap": "98",
+            "Substitute": "103",
+            "Giga Drain": "111",
+            "Energy Ball": "119",
+            "Psychic": "120",
+            "Baton Pass": "132",
+            "Sludge Bomb": "148",
+            "Bug Buzz": "162",
+            "Solar Beam": "168",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Venonat": [
+            "Lives in the shadows of tall trees where it eats insects. It is attracted by light at night.",
+            "Its large eyes act as radars. In a bright place, you can see that they are clusters of many tiny eyes.",
+            "Its eyes also function as radar units. It catches and eats small bugs that hide in darkness.",
+            "Poison oozes from all over its body. It catches and eats small bugs at night that are attracted by light.",
+            "The small bugs it eats appear only at night, so it sleeps in a hole in a tree until night falls.",
+            "VENONAT is said to have evolved with a coat of thin, stiff hair that covers its entire body for protection. It possesses large eyes that never fail to spot even miniscule prey.",
+            "Its eyes act as radar, enabling it to be active in darkness. The eyes can also shoot powerful beams.",
+            "Lives in the shadows of tall trees where it eats bugs. It is attracted by light at night.",
+            "Its coat of thin, stiff hair that covers its entire body is said to have evolved for protection. Its large eyes never fail to spot even miniscule prey.",
+            "Its big eyes are actually clusters of tiny eyes. At night, its kind is drawn by light.",
+            "Its eyes also function as radar units. It catches and eats small bugs that hide in darkness.",
+            "Poison oozes from all over its body. It catches and eats small bugs at night that are attracted by light.",
+            "Its big eyes are actually clusters of tiny eyes. At night, its kind is drawn by light.",
+            "Its big eyes are actually clusters of tiny eyes. At night, its kind is drawn by light.",
+            "Lives in the shadows of tall trees where it eats bugs. It is attracted by light at night.",
+            "Venonat is said to have evolved with a coat of thin, stiff hair that covers its entire body for protection. It possesses large eyes that never fail to spot even minuscule prey.",
+            "Its large eyes act as a radar. In a bright place, you can see that they are clusters of many tiny eyes.",
+            "Its big eyes are actually clusters of tiny eyes. At night, its kind is drawn by light.",
+            "Poison oozes from all over its body. It catches small bug Pok\u00e9mon at night that are attracted by light.",
+            "Its eyes act as radar, enabling it to be active in darkness. The eyes can also shoot powerful beams."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131786966753620119/48.png",
+    "discord_sprite": "<:P48:1131974004626956288>"
+}

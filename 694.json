@@ -1,0 +1,199 @@
+{
+    "alt-version(s)": [],
+    "name": "Helioptile",
+    "Helioptile": {
+        "pokedex_data": {
+            "National No.": "0694",
+            "Type": [
+                "Electric",
+                "Normal"
+            ],
+            "Species": "Generator Poke\u0301mon",
+            "Height": "0.5 m (1\u203208\u2032\u2032)",
+            "Weight": "6.0 kg (13.2 lbs)",
+            "Abilities": {
+                "Dry Skin": {
+                    "href": "/ability/dry-skin",
+                    "effect": "Reduces HP if it is hot. Water restores HP.",
+                    "hidden": false
+                },
+                "Sand Veil": {
+                    "href": "/ability/sand-veil",
+                    "effect": "Boosts the Pok\u00e9mon's evasion in a sandstorm.",
+                    "hidden": false
+                },
+                "Solar Power": {
+                    "href": "/ability/solar-power",
+                    "effect": "In sunshine, Sp. Atk is boosted but HP decreases.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Speed",
+            "Catch rate": "190",
+            "BaseFriendship": "50",
+            "Base Exp.": "58",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "44",
+                "Min": "198",
+                "Max": "292"
+            },
+            "Attack": {
+                "Base": "38",
+                "Min": "72",
+                "Max": "192"
+            },
+            "Defense": {
+                "Base": "33",
+                "Min": "63",
+                "Max": "181"
+            },
+            "Sp. Atk": {
+                "Base": "61",
+                "Min": "114",
+                "Max": "243"
+            },
+            "Sp. Def": {
+                "Base": "43",
+                "Min": "81",
+                "Max": "203"
+            },
+            "Speed": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Total": "289"
+        },
+        "defense_stats": {
+            "Dry Skin ability": {
+                "Fire": "super-effective",
+                "Water": "no effect",
+                "Electric": "not very effective",
+                "Fighting": "super-effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Ghost": "no effect",
+                "Steel": "not very effective"
+            },
+            "Sand Veil ability": {
+                "Electric": "not very effective",
+                "Fighting": "super-effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Ghost": "no effect",
+                "Steel": "not very effective"
+            },
+            "Solar Power ability": {
+                "Electric": "not very effective",
+                "Fighting": "super-effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Ghost": "no effect",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Helioptile",
+                    "nationalNo": "#0694",
+                    "type": [
+                        "Electric",
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Heliolisk",
+                    "nationalNo": "#0695",
+                    "type": [
+                        "Electric",
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Sun Stone)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Mud-Slap": "1",
+            "Tail Whip": "1",
+            "Pound": "4",
+            "Thunder Shock": "8",
+            "Quick Attack": "12",
+            "Charge": "16",
+            "Bulldoze": "20",
+            "Volt Switch": "24",
+            "Parabolic Charge": "28",
+            "Thunder Wave": "32",
+            "Thunderbolt": "36",
+            "Electrify": "40",
+            "Thunder": "44"
+        },
+        "egg": {
+            "Dragon Rush": null,
+            "Dragon Tail": null,
+            "Glare": null
+        },
+        "null": {
+            "Surf": "04",
+            "Thunderbolt": "08",
+            "Thunder": "09",
+            "Agility": "12",
+            "Substitute": "20",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Iron Tail": "31",
+            "Dark Pulse": "58",
+            "Grass Knot": "77",
+            "Electro Ball": "80",
+            "Ally Switch": "83",
+            "Wild Charge": "86"
+        },
+        "tm": {
+            "Thunder Wave": "14",
+            "Dig": "15",
+            "Light Screen": "17",
+            "Rest": "21",
+            "Rock Slide": "22",
+            "Snore": "24",
+            "Protect": "25",
+            "Attract": "31",
+            "Sandstorm": "32",
+            "Rain Dance": "33",
+            "Facade": "39",
+            "Swift": "40",
+            "Rock Tomb": "48",
+            "U-turn": "56",
+            "Low Sweep": "75",
+            "Round": "76",
+            "Volt Switch": "80",
+            "Bulldoze": "81",
+            "Electroweb": "82",
+            "Electric Terrain": "90"
+        }
+    },
+    "entries": {
+        "Helioptile": [
+            "They make their home in deserts. They can generate their energy from basking in the sun, so eating food is not a requirement.",
+            "The frills on either side of its head have cells that generate electricity when exposed to sunlight.",
+            "When spread, the frills on its head act like solar panels, generating the power behind this Pok\u00e9mon\u2019s electric moves.",
+            "The sun powers this Pok\u00e9mon\u2019s electricity generation. Interruption of that process stresses Helioptile to the point of weakness."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792011926720522/694.png",
+    "discord_sprite": "<:P694:1132143280512049242>"
+}

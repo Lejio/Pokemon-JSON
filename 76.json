@@ -1,0 +1,380 @@
+{
+    "alt-version(s)": [
+        "Alolan Golem"
+    ],
+    "name": "Golem",
+    "Golem": {
+        "pokedex_data": {
+            "National No.": "0076",
+            "Type": [
+                "Rock",
+                "Ground"
+            ],
+            "Species": "Megaton Poke\u0301mon",
+            "Height": "1.4 m (4\u203207\u2032\u2032)",
+            "Weight": "300.0 kg (661.4 lbs)",
+            "Abilities": {
+                "Rock Head": {
+                    "href": "/ability/rock-head",
+                    "effect": "Protects the Pok\u00e9mon from recoil damage.",
+                    "hidden": false
+                },
+                "Sturdy": {
+                    "href": "/ability/sturdy",
+                    "effect": "It cannot be knocked out with one hit.",
+                    "hidden": false
+                },
+                "Sand Veil": {
+                    "href": "/ability/sand-veil",
+                    "effect": "Boosts the Pok\u00e9mon's evasion in a sandstorm.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Defense",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "223",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "80",
+                "Min": "270",
+                "Max": "364"
+            },
+            "Attack": {
+                "Base": "120",
+                "Min": "220",
+                "Max": "372"
+            },
+            "Defense": {
+                "Base": "130",
+                "Min": "238",
+                "Max": "394"
+            },
+            "Sp. Atk": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Sp. Def": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Speed": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Total": "495"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Electric": "no effect",
+                "Grass": "super-effective",
+                "Ice": "super-effective",
+                "Fighting": "super-effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Rock": "not very effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "Alolan Golem": {
+        "pokedex_data": {
+            "National No.": "0076",
+            "Type": [
+                "Rock",
+                "Electric"
+            ],
+            "Species": "Megaton Poke\u0301mon",
+            "Height": "1.7 m (5\u203207\u2032\u2032)",
+            "Weight": "316.0 kg (696.7 lbs)",
+            "Abilities": {
+                "Magnet Pull": {
+                    "href": "/ability/magnet-pull",
+                    "effect": "Prevents Steel-type Pok\u00e9mon from escaping.",
+                    "hidden": false
+                },
+                "Sturdy": {
+                    "href": "/ability/sturdy",
+                    "effect": "It cannot be knocked out with one hit.",
+                    "hidden": false
+                },
+                "Galvanize": {
+                    "href": "/ability/galvanize",
+                    "effect": "Normal-type moves become Electric-type moves and their power boosted.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Defense",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "223",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "80",
+                "Min": "270",
+                "Max": "364"
+            },
+            "Attack": {
+                "Base": "120",
+                "Min": "220",
+                "Max": "372"
+            },
+            "Defense": {
+                "Base": "130",
+                "Min": "238",
+                "Max": "394"
+            },
+            "Sp. Atk": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Sp. Def": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Speed": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Total": "495"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Electric": "not very effective",
+                "Grass": "super-effective",
+                "Fighting": "super-effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Geodude",
+                    "nationalNo": "#0074",
+                    "type": [
+                        "Rock",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Graveler",
+                    "nationalNo": "#0075",
+                    "type": [
+                        "Rock",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 25)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Graveler",
+                    "nationalNo": "#0075",
+                    "type": [
+                        "Rock",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Golem",
+                    "nationalNo": "#0076",
+                    "type": [
+                        "Rock",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Trade)",
+                "shed": null
+            }
+        ],
+        [
+            {
+                "from": {
+                    "name": "Geodude",
+                    "nationalNo": "#0074",
+                    "type": [
+                        "Rock",
+                        "Electric"
+                    ],
+                    "nickname": "Alolan Geodude"
+                },
+                "to": {
+                    "name": "Graveler",
+                    "nationalNo": "#0075",
+                    "type": [
+                        "Rock",
+                        "Electric"
+                    ],
+                    "nickname": "Alolan Graveler"
+                },
+                "requirement": "(Level 25)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Graveler",
+                    "nationalNo": "#0075",
+                    "type": [
+                        "Rock",
+                        "Electric"
+                    ],
+                    "nickname": "Alolan Graveler"
+                },
+                "to": {
+                    "name": "Golem",
+                    "nationalNo": "#0076",
+                    "type": [
+                        "Rock",
+                        "Electric"
+                    ],
+                    "nickname": "Alolan Golem"
+                },
+                "requirement": "(Trade)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Defense Curl": "1",
+            "Heavy Slam": "60",
+            "Rock Polish": "6",
+            "Tackle": "1",
+            "Sandstorm": "4",
+            "Rollout": "10",
+            "Harden": "12",
+            "Rock Throw": "16",
+            "Smack Down": "18",
+            "Bulldoze": "22",
+            "Self-Destruct": "24",
+            "Stealth Rock": "30",
+            "Rock Blast": "34",
+            "Earthquake": "40",
+            "Explosion": "44",
+            "Double-Edge": "50",
+            "Stone Edge": "54"
+        },
+        "egg": {
+            "Autotomize": null,
+            "Block": null,
+            "Curse": null,
+            "Flail": null,
+            "Hammer Arm": null,
+            "Mega Punch": null,
+            "Wide Guard": null
+        },
+        "tm": {
+            "Focus Punch": "01",
+            "Roar": "05",
+            "Sunny Day": "11",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Earthquake": "26",
+            "Dig": "28",
+            "Brick Break": "31",
+            "Double Team": "32",
+            "Flamethrower": "35",
+            "Sandstorm": "37",
+            "Fire Blast": "38",
+            "Rock Tomb": "39",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Focus Blast": "52",
+            "Fling": "56",
+            "Endure": "58",
+            "Explosion": "64",
+            "Giga Impact": "68",
+            "Rock Polish": "69",
+            "Stone Edge": "71",
+            "Gyro Ball": "74",
+            "Stealth Rock": "76",
+            "Rock Slide": "80",
+            "Sleep Talk": "82",
+            "Bulldoze": "83",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Strength": "96",
+            "Rock Smash": "98",
+            "Rock Climb": "100"
+        }
+    },
+    "entries": {
+        "Golem": [
+            "Its boulder-like body is extremely hard. It can easily withstand dynamite blasts without damage.",
+            "Once it sheds its skin, its body turns tender and whitish. Its hide hardens when it\u2019s exposed to air.",
+            "It sheds its skin once a year. The discarded shell immediately hardens and crumbles away.",
+            "It is capable of blowing itself up. It uses this explosive force to jump from mountain to mountain.",
+            "Its rock-like body is so durable, even high-powered dynamite blasts fail to scratch its rugged hide.",
+            "GOLEM live up on mountains. If there is a large earthquake, these pok\u00e9mon will come rolling down off the mountains en masse to the foothills below.",
+            "GOLEM is known for rolling down from mountains. To prevent them from rolling into the homes of people downhill, grooves have been dug into the sides of mountains to serve as guideways for diverting this pok\u00e9mon\u2019s course.",
+            "It is enclosed in a hard shell that is as rugged as slabs of rock. It sheds skin once a year to grow larger.",
+            "Its boulder-like body is extremely hard. It can easily withstand dynamite blasts without taking damage.",
+            "It is said to live in volcanic craters on mountain peaks. Once a year, it sheds its hide and grows larger. The shed hide crumbles and returns to the soil.",
+            "It sheds its hide once a year. Its boulderlike body is so tough, even dynamite can\u2019t harm it.",
+            "It tumbles down mountains, leaving grooves from peak to base. Stay clear of these grooves.",
+            "Even dynamite can\u2019t harm its hard, boulderlike body. It sheds its hide just once a year.",
+            "It sheds its skin once a year. The discarded shell immediately hardens and crumbles away.",
+            "It is capable of blowing itself up. It uses this explosive force to jump from mountain to mountain.",
+            "Even dynamite can\u2019t harm its hard, boulderlike body. It sheds its hide just once a year.",
+            "Even dynamite can\u2019t harm its hard, boulder-like body. It sheds its hide just once a year.",
+            "It tumbles down mountains, leaving grooves from peak to base. Stay clear of these grooves.",
+            "Even dynamite can\u2019t harm its hard, boulder-like body. It sheds its hide just once a year.",
+            "Golem live up on mountains. If there is a large earthquake, these Pok\u00e9mon will come rolling down off the mountains en masse to the foothills below.",
+            "Golem is known for rolling down from mountains. To prevent them from rolling into the homes of people downhill, grooves have been dug into the sides of mountains to serve as guideways for diverting this Pok\u00e9mon\u2019s course.",
+            "Its body can survive dynamite blasts without a single scratch, but it hates rain and humidity.",
+            "Once a year, this Pok\u00e9mon molts, and its shed shell returns to the soil. This process creates enriched soil, so farmers collect the shells.",
+            "When Golem grow old, they stop shedding their shells. Those that have lived a long, long time have shells green with moss.",
+            "It detonates its own body. The power from that explosion can propel it up steep mountain paths with amazing speed.",
+            "Once it sheds its skin, its body turns tender and whitish. Its hide hardens when it\u2019s exposed to air.",
+            "It sheds its hide once a year. Its boulder-like body is so tough, even dynamite can\u2019t harm it.",
+            "It tumbles down mountains, leaving grooves from peak to base. Stay clear of these grooves.",
+            "The rocklike shell is shed each year. The cast-off shell then crumbles, reverting to a mass of soil, which can be spread across fields to promote crop growth."
+        ],
+        "Alolan Golem": [
+            "It fires rocks charged with electricity. Even if the rock isn\u2019t fired that accurately, just grazing an opponent will cause numbness and fainting.",
+            "Because it can\u2019t fire boulders at a rapid pace, it\u2019s been known to seize nearby Geodude and fire them from its back.",
+            "It\u2019s grumpy and stubborn. If you upset it, it discharges electricity from the surface of its body and growls with a voice like thunder.",
+            "It shoots large rocks that are charged with electricity. Tremendous electric shocks are flung out across the whole area of impact.",
+            "It uses magnetism to accelerate and fire off rocks tinged with electricity. Even if it doesn\u2019t score a direct hit, the jolt of electricity will do the job."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787183490072666/76.png",
+    "discord_sprite": "<:P76:1132116069616717914>"
+}

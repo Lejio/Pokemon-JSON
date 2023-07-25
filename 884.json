@@ -1,0 +1,171 @@
+{
+    "alt-version(s)": [],
+    "name": "Duraludon",
+    "Duraludon": {
+        "pokedex_data": {
+            "National No.": "0884",
+            "Type": [
+                "Steel",
+                "Dragon"
+            ],
+            "Species": "Alloy Poke\u0301mon",
+            "Height": "1.8 m (5\u203211\u2032\u2032)",
+            "Weight": "40.0 kg (88.2 lbs)",
+            "Abilities": {
+                "Light Metal": {
+                    "href": "/ability/light-metal",
+                    "effect": "Halves the Pok\u00e9mon's weight.",
+                    "hidden": false
+                },
+                "Heavy Metal": {
+                    "href": "/ability/heavy-metal",
+                    "effect": "Doubles the Pok\u00e9mon's weight.",
+                    "hidden": false
+                },
+                "Stalwart": {
+                    "href": "/ability/stalwart",
+                    "effect": "Ignores moves and abilities that draw in moves.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Sp. Atk",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "187",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "70",
+                "Min": "250",
+                "Max": "344"
+            },
+            "Attack": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Defense": {
+                "Base": "115",
+                "Min": "211",
+                "Max": "361"
+            },
+            "Sp. Atk": {
+                "Base": "120",
+                "Min": "220",
+                "Max": "372"
+            },
+            "Sp. Def": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Speed": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Total": "535"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Fighting": "super-effective",
+                "Poison": "no effect",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Leer": "1",
+            "Metal Claw": "1",
+            "Rock Smash": "6",
+            "Hone Claws": "12",
+            "Metal Sound": "18",
+            "Breaking Swipe": "24",
+            "Dragon Tail": "30",
+            "Iron Defense": "36",
+            "Laser Focus": "42",
+            "Dragon Claw": "48",
+            "Flash Cannon": "54",
+            "Metal Burst": "60",
+            "Hyper Beam": "66"
+        },
+        "egg": {
+            "Mirror Coat": null,
+            "Night Slash": null,
+            "Slash": null
+        },
+        "null": {
+            "Swords Dance": "00",
+            "Body Slam": "01",
+            "Thunderbolt": "08",
+            "Thunder": "09",
+            "Substitute": "20",
+            "Outrage": "24",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Iron Defense": "46",
+            "Dragon Claw": "47",
+            "Gyro Ball": "52",
+            "Dark Pulse": "58",
+            "Dragon Pulse": "62",
+            "Flash Cannon": "70",
+            "Iron Head": "74",
+            "Stone Edge": "75",
+            "Stealth Rock": "76",
+            "Heavy Slam": "79",
+            "Foul Play": "81",
+            "Body Press": "99"
+        },
+        "tm": {
+            "Hyper Beam": "08",
+            "Giga Impact": "09",
+            "Solar Beam": "11",
+            "Thunder Wave": "14",
+            "Screech": "16",
+            "Light Screen": "17",
+            "Reflect": "18",
+            "Rest": "21",
+            "Rock Slide": "22",
+            "Snore": "24",
+            "Protect": "25",
+            "Scary Face": "26",
+            "Attract": "31",
+            "Facade": "39",
+            "Brick Break": "43",
+            "Rock Tomb": "48",
+            "Round": "76",
+            "Snarl": "85",
+            "Stomping Tantrum": "98",
+            "Breaking Swipe": "99"
+        }
+    },
+    "entries": {
+        "Duraludon": [
+            "Its body resembles polished metal, and it\u2019s both lightweight and strong. The only drawback is that it rusts easily.",
+            "The special metal that composes its body is very light, so this Pok\u00e9mon has considerable agility. It lives in caves because it dislikes the rain."
+        ],
+        "Gigantamax": [
+            "It\u2019s grown to resemble a skyscraper. Parts of its towering body glow due to a profusion of energy.",
+            "The hardness of its cells is exceptional, even among Steel types. It also has a body structure that\u2019s resistant to earthquakes."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793496211214417/884.png",
+    "discord_sprite": "<:P884:1132151697494507570>"
+}

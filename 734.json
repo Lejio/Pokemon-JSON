@@ -1,0 +1,177 @@
+{
+    "alt-version(s)": [],
+    "name": "Yungoos",
+    "Yungoos": {
+        "pokedex_data": {
+            "National No.": "0734",
+            "Type": [
+                "Normal"
+            ],
+            "Species": "Loitering Poke\u0301mon",
+            "Height": "0.4 m (1\u203204\u2032\u2032)",
+            "Weight": "6.0 kg (13.2 lbs)",
+            "Abilities": {
+                "Strong Jaw": {
+                    "href": "/ability/strong-jaw",
+                    "effect": "Boosts the power of biting moves.",
+                    "hidden": false
+                },
+                "Stakeout": {
+                    "href": "/ability/stakeout",
+                    "effect": "Deals double damage to Pok\u00e9mon switching in.",
+                    "hidden": false
+                },
+                "Adaptability": {
+                    "href": "/ability/adaptability",
+                    "effect": "Powers up moves of the same type.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack",
+            "Catch rate": "255",
+            "BaseFriendship": "50",
+            "Base Exp.": "51",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "48",
+                "Min": "206",
+                "Max": "300"
+            },
+            "Attack": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Defense": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Sp. Atk": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Sp. Def": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Speed": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Total": "253"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Yungoos",
+                    "nationalNo": "#0734",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Gumshoos",
+                    "nationalNo": "#0735",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 20, Daytime)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Tackle": "1",
+            "Leer": "3",
+            "Payback": "7",
+            "Sand Attack": "10",
+            "Work Up": "13",
+            "Bite": "19",
+            "Mud-Slap": "22",
+            "Super Fang": "25",
+            "Take Down": "28",
+            "Scary Face": "31",
+            "Crunch": "34",
+            "Yawn": "37",
+            "Thrash": "40",
+            "Rest": "43"
+        },
+        "egg": {
+            "Endeavor": null,
+            "Fire Fang": null,
+            "Ice Fang": null,
+            "Last Resort": null,
+            "Thunder Fang": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Mud-Slap": "05",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Fire Fang": "08",
+            "Thunder Fang": "09",
+            "Ice Fang": "10",
+            "Thief": "18",
+            "Trailblaze": "20",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Bulldoze": "28",
+            "Mud Shot": "35",
+            "Rock Tomb": "36",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Sandstorm": "51",
+            "Dig": "55",
+            "Zen Headbutt": "59",
+            "U-turn": "60",
+            "Psychic Fangs": "63",
+            "Sleep Talk": "70",
+            "Seed Bomb": "71",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Taunt": "87",
+            "Substitute": "103",
+            "Crunch": "108",
+            "Helping Hand": "130",
+            "Reversal": "134",
+            "Wild Charge": "147",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Yungoos": [
+            "With its sharp fangs, it will bite anything. It did not originally live in Alola but was imported from another region.",
+            "It wanders around in a never-ending search for food. At dusk, it collapses from exhaustion and falls asleep on the spot.",
+            "Its stomach takes up most of its long torso. It\u2019s a big eater, so the amount Trainers have to spend on its food is no laughing matter.",
+            "Although it will eat anything, it prefers fresh living things, so it marches down streets in search of prey.",
+            "Its stomach fills most of its torso. It wanders the same path every day, searching for fresh food.",
+            "It spends its waking hours searching endlessly for food. When Yungoos is hungry, its ferocity gains a certain edge."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792329708159057/734.png",
+    "discord_sprite": "<:P734:1132145031331979284>"
+}

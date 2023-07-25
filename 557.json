@@ -1,0 +1,180 @@
+{
+    "alt-version(s)": [],
+    "name": "Dwebble",
+    "Dwebble": {
+        "pokedex_data": {
+            "National No.": "0557",
+            "Type": [
+                "Bug",
+                "Rock"
+            ],
+            "Species": "Rock Inn Poke\u0301mon",
+            "Height": "0.3 m (1\u203200\u2032\u2032)",
+            "Weight": "14.5 kg (32.0 lbs)",
+            "Abilities": {
+                "Sturdy": {
+                    "href": "/ability/sturdy",
+                    "effect": "It cannot be knocked out with one hit.",
+                    "hidden": false
+                },
+                "Shell Armor": {
+                    "href": "/ability/shell-armor",
+                    "effect": "The Pok\u00e9mon is protected against critical hits.",
+                    "hidden": false
+                },
+                "Weak Armor": {
+                    "href": "/ability/weak-armor",
+                    "effect": "Physical attacks lower Defense and raise Speed.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Defense",
+            "Catch rate": "190",
+            "BaseFriendship": "50",
+            "Base Exp.": "65",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "50",
+                "Min": "210",
+                "Max": "304"
+            },
+            "Attack": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Defense": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Sp. Atk": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Sp. Def": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Speed": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Total": "325"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Water": "super-effective",
+                "Poison": "not very effective",
+                "Rock": "super-effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Dwebble",
+                    "nationalNo": "#0557",
+                    "type": [
+                        "Bug",
+                        "Rock"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Crustle",
+                    "nationalNo": "#0558",
+                    "type": [
+                        "Bug",
+                        "Rock"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 34)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Fury Cutter": "1",
+            "Sand Attack": "1",
+            "Withdraw": "4",
+            "Smack Down": "8",
+            "Bug Bite": "12",
+            "Flail": "16",
+            "Slash": "20",
+            "Rock Slide": "24",
+            "Stealth Rock": "28",
+            "Rock Blast": "32",
+            "X-Scissor": "36",
+            "Rock Polish": "40",
+            "Shell Smash": "44",
+            "Rock Wrecker": "48"
+        },
+        "egg": {
+            "Block": null,
+            "Counter": null,
+            "Curse": null,
+            "Knock Off": null,
+            "Night Slash": null,
+            "Wide Guard": null
+        },
+        "null": {
+            "Swords Dance": "00",
+            "Earthquake": "10",
+            "Substitute": "20",
+            "Spikes": "23",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Iron Defense": "46",
+            "Poison Jab": "57",
+            "X-Scissor": "60",
+            "Stone Edge": "75",
+            "Stealth Rock": "76"
+        },
+        "tm": {
+            "Solar Beam": "11",
+            "Dig": "15",
+            "Rest": "21",
+            "Rock Slide": "22",
+            "Snore": "24",
+            "Protect": "25",
+            "Attract": "31",
+            "Sandstorm": "32",
+            "Facade": "39",
+            "Rock Tomb": "48",
+            "Sand Tomb": "49",
+            "Rock Blast": "54",
+            "Shadow Claw": "65",
+            "Round": "76",
+            "Bulldoze": "81"
+        }
+    },
+    "entries": {
+        "Dwebble": [
+            "This Pok\u00e9mon can easily melt holes in hard rocks with a liquid secreted from its mouth.",
+            "It makes a hole in a suitable rock. If that rock breaks, the Pok\u00e9mon remains agitated until it locates a replacement.",
+            "When it finds a stone of a suitable size, it secretes a liquid from its mouth to open up a hole to crawl into.",
+            "It makes a hole in a suitable rock. If that rock breaks, the Pok\u00e9mon remains agitated until it locates a replacement.",
+            "When it finds a stone of a suitable size, it secretes a liquid from its mouth to open up a hole to crawl into.",
+            "When it finds a stone appealing, it creates a hole inside it and uses it as its home. This Pok\u00e9mon is the natural enemy of Roggenrola and Rolycoly.",
+            "It first tries to find a rock to live in, but if there are no suitable rocks to be found, Dwebble may move in to the ports of a Hippowdon."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790942744100934/557.png",
+    "discord_sprite": "<:P557:1132137247148355614>"
+}

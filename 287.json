@@ -1,0 +1,210 @@
+{
+    "alt-version(s)": [],
+    "name": "Slakoth",
+    "Slakoth": {
+        "pokedex_data": {
+            "National No.": "0287",
+            "Type": [
+                "Normal"
+            ],
+            "Species": "Slacker Poke\u0301mon",
+            "Height": "0.8 m (2\u203207\u2032\u2032)",
+            "Weight": "24.0 kg (52.9 lbs)",
+            "Abilities": {
+                "Truant": {
+                    "href": "/ability/truant",
+                    "effect": "Pok\u00e9mon can't attack on consecutive turns.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 HP",
+            "Catch rate": "255",
+            "BaseFriendship": "50",
+            "Base Exp.": "56",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "60",
+                "Min": "230",
+                "Max": "324"
+            },
+            "Attack": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Defense": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Atk": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Sp. Def": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Speed": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Total": "280"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Slakoth",
+                    "nationalNo": "#0287",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Vigoroth",
+                    "nationalNo": "#0288",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 18)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Vigoroth",
+                    "nationalNo": "#0288",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Slaking",
+                    "nationalNo": "#0289",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 36)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Scratch": "1",
+            "Yawn": "1",
+            "Encore": "6",
+            "Slack Off": "9",
+            "Headbutt": "14",
+            "Amnesia": "17",
+            "Covet": "22",
+            "Throat Chop": "25",
+            "Counter": "30",
+            "Flail": "33",
+            "Play Rough": "38"
+        },
+        "egg": {
+            "After You": null,
+            "Body Slam": null,
+            "Crush Claw": null,
+            "Curse": null,
+            "Hammer Arm": null,
+            "Night Slash": null,
+            "Slash": null,
+            "Snore": null,
+            "Tickle": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Mud-Slap": "05",
+            "Protect": "07",
+            "Thief": "18",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Metal Claw": "31",
+            "Icy Wind": "34",
+            "Mud Shot": "35",
+            "Rock Tomb": "36",
+            "Fling": "43",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "False Swipe": "57",
+            "Brick Break": "58",
+            "Zen Headbutt": "59",
+            "Shadow Claw": "61",
+            "Bulk Up": "64",
+            "Body Slam": "66",
+            "Fire Punch": "67",
+            "Thunder Punch": "68",
+            "Ice Punch": "69",
+            "Sleep Talk": "70",
+            "Seed Bomb": "71",
+            "Metronome": "80",
+            "Poison Jab": "83",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Gunk Shot": "102",
+            "Substitute": "103",
+            "X-Scissor": "105",
+            "Shadow Ball": "114",
+            "Encore": "122",
+            "Flamethrower": "125",
+            "Thunderbolt": "126",
+            "Play Rough": "127",
+            "Amnesia": "128",
+            "Helping Hand": "130",
+            "Ice Beam": "135",
+            "Fire Blast": "141",
+            "Blizzard": "143",
+            "Thunder": "166",
+            "Solar Beam": "168",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Slakoth": [
+            "SLAKOTH lolls around for over twenty hours every day. Because it moves so little, it does not need much food. This pok\u00e9mon\u2019s sole daily meal consists of just three leaves.",
+            "SLAKOTH\u2019s heart beats just once a minute. Whatever happens, it is content to loaf around motionless. It is rare to see this pok\u00e9mon in motion.",
+            "It sleeps for 20 hours every day. Making drowsy those that see it is one of its abilities.",
+            "It sleeps virtually all day and night long. It doesn\u2019t change its nest its entire life, but it sometimes travels great distances by swimming in rivers.",
+            "It spends nearly all its time in a day sprawled out. Just seeing it makes one drowsy.",
+            "The way SLAKOTH lolls around makes anyone who watches it feel like doing the same.",
+            "It spends nearly all its time in a day sprawled out. Just seeing it makes one drowsy.",
+            "If it eats just three leaves in a day, it is satisfied. Other than that, it sleeps for 20 hours a day.",
+            "The way Slakoth lolls around makes anyone who watches it feel like doing the same.",
+            "If it eats just three leaves in a day, it is satisfied. Other than that, it sleeps for 20 hours a day.",
+            "Slakoth lolls around for over 20 hours every day. Because it moves so little, it does not need much food. This Pok\u00e9mon\u2019s sole daily meal consists of just three leaves.",
+            "Slakoth\u2019s heart beats just once a minute. Whatever happens, it is content to loaf around motionless. It is rare to see this Pok\u00e9mon in motion.",
+            "It spends nearly all its time in a day sprawled out. Just seeing it makes one drowsy.",
+            "It sleeps for 20 hours every day. Making drowsy those that see it is one of its abilities.",
+            "The way Slakoth lolls around makes anyone who watches it feel like doing the same."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788839430672454/287.png",
+    "discord_sprite": "<:P287:1132125371479900290>"
+}

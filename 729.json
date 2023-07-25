@@ -1,0 +1,198 @@
+{
+    "alt-version(s)": [],
+    "name": "Brionne",
+    "Brionne": {
+        "pokedex_data": {
+            "National No.": "0729",
+            "Type": [
+                "Water"
+            ],
+            "Species": "Pop Star Poke\u0301mon",
+            "Height": "0.6 m (2\u203200\u2032\u2032)",
+            "Weight": "17.5 kg (38.6 lbs)",
+            "Abilities": {
+                "Torrent": {
+                    "href": "/ability/torrent",
+                    "effect": "Powers up Water-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Liquid Voice": {
+                    "href": "/ability/liquid-voice",
+                    "effect": "All sound-based moves become Water-type moves.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Sp. Atk",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "147",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "60",
+                "Min": "230",
+                "Max": "324"
+            },
+            "Attack": {
+                "Base": "69",
+                "Min": "128",
+                "Max": "260"
+            },
+            "Defense": {
+                "Base": "69",
+                "Min": "128",
+                "Max": "260"
+            },
+            "Sp. Atk": {
+                "Base": "91",
+                "Min": "168",
+                "Max": "309"
+            },
+            "Sp. Def": {
+                "Base": "81",
+                "Min": "150",
+                "Max": "287"
+            },
+            "Speed": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Total": "420"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Popplio",
+                    "nationalNo": "#0728",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Brionne",
+                    "nationalNo": "#0729",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 17)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Brionne",
+                    "nationalNo": "#0729",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Primarina",
+                    "nationalNo": "#0730",
+                    "type": [
+                        "Water",
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 34)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Disarming Voice": "1",
+            "Growl": "1",
+            "Pound": "1",
+            "Water Gun": "1",
+            "Aqua Jet": "9",
+            "Baby-Doll Eyes": "12",
+            "Icy Wind": "15",
+            "Sing": "20",
+            "Bubble Beam": "25",
+            "Encore": "30",
+            "Misty Terrain": "35",
+            "Hyper Voice": "40",
+            "Moonblast": "45",
+            "Hydro Pump": "50"
+        },
+        "egg": {
+            "Aqua Ring": null,
+            "Life Dew": null,
+            "Perish Song": null
+        },
+        "null": {
+            "Hydro Pump": "03",
+            "Surf": "04",
+            "Ice Beam": "05",
+            "Blizzard": "06",
+            "Waterfall": "16",
+            "Amnesia": "17",
+            "Substitute": "20",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Encore": "30",
+            "Iron Tail": "31",
+            "Uproar": "35",
+            "Hyper Voice": "42",
+            "Scald": "84",
+            "Work Up": "85",
+            "Play Rough": "90"
+        },
+        "tm": {
+            "Rest": "21",
+            "Snore": "24",
+            "Protect": "25",
+            "Icy Wind": "27",
+            "Charm": "29",
+            "Attract": "31",
+            "Rain Dance": "33",
+            "Hail": "35",
+            "Whirlpool": "36",
+            "Facade": "39",
+            "Helping Hand": "41",
+            "Dive": "45",
+            "Brine": "55",
+            "Wonder Room": "71",
+            "Round": "76",
+            "Acrobatics": "78",
+            "Draining Kiss": "87",
+            "Misty Terrain": "89"
+        }
+    },
+    "entries": {
+        "Brionne": [
+            "A skillful dancer, it creates a sequence of water balloons as it dances, and briskly bombards its enemies.",
+            "It cares deeply for its companions. When its Trainer is feeling down, it performs a cheery dance to try and help.",
+            "It gets excited when it sees a dance it doesn\u2019t know. This hard worker practices diligently until it can learn that dance.",
+            "It attacks by smacking its enemies with the exploding water balloons that it creates.",
+            "As if dancing, it artfully dodges the attacks of its enemies. All the while, it\u2019s busy forming a bunch of balloons to overwhelm its foes.",
+            "On nights when the sea is calm, Brionne dance with one another to the singing of the Primarina that\u2019s leading them."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792291787456574/729.png",
+    "discord_sprite": "<:P729:1132144810178904065>"
+}

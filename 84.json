@@ -1,0 +1,188 @@
+{
+    "alt-version(s)": [],
+    "name": "Doduo",
+    "Doduo": {
+        "pokedex_data": {
+            "National No.": "0084",
+            "Type": [
+                "Normal",
+                "Flying"
+            ],
+            "Species": "Twin Bird Poke\u0301mon",
+            "Height": "1.4 m (4\u203207\u2032\u2032)",
+            "Weight": "39.2 kg (86.4 lbs)",
+            "Abilities": {
+                "Run Away": {
+                    "href": "/ability/run-away",
+                    "effect": "Enables a sure getaway from wild Pok\u00e9mon.",
+                    "hidden": false
+                },
+                "Early Bird": {
+                    "href": "/ability/early-bird",
+                    "effect": "The Pok\u00e9mon awakens quickly from sleep.",
+                    "hidden": false
+                },
+                "Tangled Feet": {
+                    "href": "/ability/tangled-feet",
+                    "effect": "Raises evasion if the Pok\u00e9mon is confused.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack",
+            "Catch rate": "190",
+            "BaseFriendship": "50",
+            "Base Exp.": "62",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "35",
+                "Min": "180",
+                "Max": "274"
+            },
+            "Attack": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Defense": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Sp. Atk": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Sp. Def": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Speed": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Total": "310"
+        },
+        "defense_stats": {
+            "default": {
+                "Electric": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Ground": "no effect",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Doduo",
+                    "nationalNo": "#0084",
+                    "type": [
+                        "Normal",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Dodrio",
+                    "nationalNo": "#0085",
+                    "type": [
+                        "Normal",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 31)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Growl": "1",
+            "Peck": "1",
+            "Quick Attack": "5",
+            "Leer": "8",
+            "Fury Attack": "12",
+            "Wing Attack": "15",
+            "Pluck": "19",
+            "Double Hit": "22",
+            "Agility": "26",
+            "Uproar": "29",
+            "Acupressure": "33",
+            "Swords Dance": "36",
+            "Lunge": "40",
+            "Drill Peck": "43",
+            "Endeavor": "47",
+            "Thrash": "50"
+        },
+        "egg": {
+            "Assurance": null,
+            "Brave Bird": null,
+            "Endeavor": null,
+            "Flail": null,
+            "Haze": null,
+            "Quick Attack": null,
+            "Supersonic": null
+        },
+        "tm": {
+            "Work Up": "10",
+            "Sunny Day": "11",
+            "Protect": "17",
+            "Double Team": "32",
+            "Aerial Ace": "40",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Steel Wing": "47",
+            "Roost": "51",
+            "Endure": "58",
+            "Swords Dance": "75",
+            "Sleep Talk": "82",
+            "Swagger": "87",
+            "Pluck": "88",
+            "Substitute": "90",
+            "Fly": "94"
+        }
+    },
+    "entries": {
+        "Doduo": [
+            "A bird that makes up for its poor flying with its fast foot speed. Leaves giant footprints.",
+            "Its short wings make flying difficult. Instead, this pok\u00e9mon runs at high speed on developed legs.",
+            "By alternately raising and lowering its two heads, it balances itself to be more stable while running.",
+            "It races through grassy plains with powerful strides, leaving footprints up to four inches deep.",
+            "It lives on a grassy plain where it can see a long way. If it sees an enemy, it runs away at 60 mph.",
+            "DODUO\u2019s two heads never sleep at the same time. Its two heads take turns sleeping, so one head can always keep watch for enemies while the other one sleeps.",
+            "DODUO\u2019s two heads contain completely identical brains. A scientific study reported that on rare occasions, there will be examples of this pok\u00e9mon possessing different sets of brains.",
+            "A two-headed pok\u00e9mon that was discovered as a sudden mutation. It runs at a pace of over 60 miles per hour.",
+            "A bird that makes up for its poor flying with its fast foot speed. Leaves giant footprints.",
+            "Even while eating or sleeping, one of the heads remains always vigilant for any sign of danger. When threatened, it flees at over 60 miles per hour.",
+            "The brains in its two heads appear to communicate emotions to each other with a telepathic power.",
+            "By alternately raising and lowering its two heads, it balances itself to be more stable while running.",
+            "It races through grassy plains with powerful strides, leaving footprints up to four inches deep.",
+            "The brains in its two heads appear to communicate emotions to each other with a telepathic power.",
+            "A two-headed Pok\u00e9mon that was discovered as a sudden mutation. It runs at a pace of over 60 miles per hour.",
+            "The brains in its two heads appear to communicate emotions to each other with a telepathic power.",
+            "Doduo\u2019s two heads never sleep at the same time. Its two heads take turns sleeping, so one head can always keep watch for enemies while the other one sleeps.",
+            "Doduo\u2019s two heads contain completely identical brains. A scientific study reported that on rare occasions, there will be examples of this Pok\u00e9mon possessing different sets of brains.",
+            "Its short wings make flying difficult. Instead, this Pok\u00e9mon runs at high speed on developed legs.",
+            "The brains in its two heads appear to communicate emotions to each other with a telepathic power."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787248082362458/84.png",
+    "discord_sprite": "<:P84:1132116421757898875>"
+}

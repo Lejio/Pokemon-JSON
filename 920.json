@@ -1,0 +1,179 @@
+{
+    "alt-version(s)": [],
+    "name": "Lokix",
+    "Lokix": {
+        "pokedex_data": {
+            "National No.": "0920",
+            "Type": [
+                "Bug",
+                "Dark"
+            ],
+            "Species": "Grasshopper Poke\u0301mon",
+            "Height": "1.0 m (3\u203203\u2032\u2032)",
+            "Weight": "17.5 kg (38.6 lbs)",
+            "Abilities": {
+                "Swarm": {
+                    "href": "/ability/swarm",
+                    "effect": "Powers up Bug-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Tinted Lens": {
+                    "href": "/ability/tinted-lens",
+                    "effect": "Powers up \u201cnot very effective\u201d moves.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "30",
+            "BaseFriendship": "0",
+            "Base Exp.": "158",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "71",
+                "Min": "252",
+                "Max": "346"
+            },
+            "Attack": {
+                "Base": "102",
+                "Min": "188",
+                "Max": "333"
+            },
+            "Defense": {
+                "Base": "78",
+                "Min": "144",
+                "Max": "280"
+            },
+            "Sp. Atk": {
+                "Base": "52",
+                "Min": "98",
+                "Max": "223"
+            },
+            "Sp. Def": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Speed": {
+                "Base": "92",
+                "Min": "170",
+                "Max": "311"
+            },
+            "Total": "450"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Grass": "not very effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Psychic": "no effect",
+                "Bug": "super-effective",
+                "Rock": "super-effective",
+                "Ghost": "not very effective",
+                "Dark": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Nymble",
+                    "nationalNo": "#0919",
+                    "type": [
+                        "Bug"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Lokix",
+                    "nationalNo": "#0920",
+                    "type": [
+                        "Bug",
+                        "Dark"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 24)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Detect": "1",
+            "Leer": "1",
+            "Low Kick": "1",
+            "Tackle": "1",
+            "Struggle Bug": "4",
+            "Astonish": "6",
+            "Assurance": "9",
+            "Double Kick": "11",
+            "Screech": "14",
+            "Endure": "18",
+            "Bug Bite": "22",
+            "Feint": "28",
+            "Agility": "32",
+            "Throat Chop": "36",
+            "Sucker Punch": "40",
+            "First Impression": "44",
+            "Bounce": "48",
+            "Axe Kick": "53"
+        },
+        "evolution": {
+            "Lunge": "80"
+        },
+        "egg": {
+            "Counter": null,
+            "Skitter Smack": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Agility": "04",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Low Kick": "12",
+            "Struggle Bug": "15",
+            "Thief": "18",
+            "Trailblaze": "20",
+            "Pounce": "21",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Low Sweep": "39",
+            "Fling": "43",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Brick Break": "58",
+            "U-turn": "60",
+            "Sleep Talk": "70",
+            "Rest": "85",
+            "Taunt": "87",
+            "Swords Dance": "88",
+            "Dark Pulse": "94",
+            "Leech Life": "95",
+            "Substitute": "103",
+            "X-Scissor": "105",
+            "Reversal": "134",
+            "Giga Impact": "152",
+            "Bug Buzz": "162",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Lokix": [
+            "When it decides to fight all out, it stands on its previously folded legs to enter Showdown Mode. It neutralizes its enemies in short order.",
+            "It uses its normally folded third set of legs when in Showdown Mode. This places a huge burden on its body, so it can\u2019t stay in this mode for long."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793776604610691/920.png",
+    "discord_sprite": "<:P920:1132153277975384114>"
+}

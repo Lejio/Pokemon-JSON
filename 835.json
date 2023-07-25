@@ -1,0 +1,161 @@
+{
+    "alt-version(s)": [],
+    "name": "Yamper",
+    "Yamper": {
+        "pokedex_data": {
+            "National No.": "0835",
+            "Type": [
+                "Electric"
+            ],
+            "Species": "Puppy Poke\u0301mon",
+            "Height": "0.3 m (1\u203200\u2032\u2032)",
+            "Weight": "13.5 kg (29.8 lbs)",
+            "Abilities": {
+                "Ball Fetch": {
+                    "href": "/ability/ball-fetch",
+                    "effect": "Retrieves a Pok\u00e9 Ball from a failed throw.",
+                    "hidden": false
+                },
+                "Rattled": {
+                    "href": "/ability/rattled",
+                    "effect": "Bug, Ghost or Dark type moves scare it and boost its Speed.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 HP",
+            "Catch rate": "255",
+            "BaseFriendship": "50",
+            "Base Exp.": "54",
+            "Growth Rate": "Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "59",
+                "Min": "228",
+                "Max": "322"
+            },
+            "Attack": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Defense": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Atk": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Def": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Speed": {
+                "Base": "26",
+                "Min": "51",
+                "Max": "166"
+            },
+            "Total": "270"
+        },
+        "defense_stats": {
+            "default": {
+                "Electric": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Yamper",
+                    "nationalNo": "#0835",
+                    "type": [
+                        "Electric"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Boltund",
+                    "nationalNo": "#0836",
+                    "type": [
+                        "Electric"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 25)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Tackle": "1",
+            "Tail Whip": "1",
+            "Nuzzle": "5",
+            "Bite": "10",
+            "Roar": "15",
+            "Spark": "20",
+            "Charm": "26",
+            "Crunch": "30",
+            "Charge": "35",
+            "Wild Charge": "40",
+            "Play Rough": "45"
+        },
+        "egg": {
+            "Discharge": null,
+            "Double-Edge": null,
+            "Flame Charge": null,
+            "Howl": null,
+            "Sand Attack": null
+        },
+        "null": {
+            "Thunderbolt": "08",
+            "Thunder": "09",
+            "Substitute": "20",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Crunch": "32",
+            "Uproar": "35",
+            "Electro Ball": "80",
+            "Wild Charge": "86",
+            "Play Rough": "90"
+        },
+        "tm": {
+            "Thunder Wave": "14",
+            "Dig": "15",
+            "Rest": "21",
+            "Snore": "24",
+            "Protect": "25",
+            "Charm": "29",
+            "Attract": "31",
+            "Facade": "39",
+            "Swift": "40",
+            "Helping Hand": "41",
+            "Thunder Fang": "66",
+            "Fire Fang": "68",
+            "Round": "76",
+            "Volt Switch": "80",
+            "Snarl": "85"
+        }
+    },
+    "entries": {
+        "Yamper": [
+            "This Pok\u00e9mon is very popular as a herding dog in the Galar region. As it runs, it generates electricity from the base of its tail.",
+            "This gluttonous Pok\u00e9mon only assists people with their work because it wants treats. As it runs, it crackles with electricity."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793113602605076/835.png",
+    "discord_sprite": "<:P835:1132149538082275419>"
+}

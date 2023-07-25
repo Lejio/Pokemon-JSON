@@ -1,0 +1,154 @@
+{
+    "alt-version(s)": [],
+    "name": "Iron Hands",
+    "Iron Hands": {
+        "pokedex_data": {
+            "National No.": "0992",
+            "Type": [
+                "Fighting",
+                "Electric"
+            ],
+            "Species": "Paradox Poke\u0301mon",
+            "Height": "1.8 m (5\u203211\u2032\u2032)",
+            "Weight": "380.7 kg (839.3 lbs)",
+            "Abilities": {
+                "Quark Drive": {
+                    "href": "/ability/quark-drive",
+                    "effect": "Raises highest stat on Electric Terrain, or if holding Booster Energy.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Attack",
+            "Catch rate": "50",
+            "BaseFriendship": "0",
+            "Base Exp.": "285",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "154",
+                "Min": "418",
+                "Max": "512"
+            },
+            "Attack": {
+                "Base": "140",
+                "Min": "256",
+                "Max": "416"
+            },
+            "Defense": {
+                "Base": "108",
+                "Min": "198",
+                "Max": "346"
+            },
+            "Sp. Atk": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Def": {
+                "Base": "68",
+                "Min": "126",
+                "Max": "258"
+            },
+            "Speed": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Total": "570"
+        },
+        "defense_stats": {
+            "default": {
+                "Electric": "not very effective",
+                "Ground": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Dark": "not very effective",
+                "Steel": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Arm Thrust": "1",
+            "Focus Energy": "1",
+            "Sand Attack": "1",
+            "Tackle": "1",
+            "Fake Out": "7",
+            "Whirlwind": "14",
+            "Thunder Punch": "21",
+            "Slam": "28",
+            "Force Palm": "35",
+            "Seismic Toss": "42",
+            "Charge": "49",
+            "Wild Charge": "56",
+            "Close Combat": "63",
+            "Detect": "70",
+            "Heavy Slam": "77",
+            "Belly Drum": "84",
+            "Focus Punch": "91"
+        },
+        "reminder": {
+            "Electric Terrain": "\u2014"
+        },
+        "egg": null,
+        "tm": {
+            "Take Down": "01",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Low Kick": "12",
+            "Facade": "25",
+            "Bulldoze": "28",
+            "Rock Tomb": "36",
+            "Low Sweep": "39",
+            "Fling": "43",
+            "Endure": "47",
+            "Volt Switch": "48",
+            "Brick Break": "58",
+            "Body Slam": "66",
+            "Fire Punch": "67",
+            "Thunder Punch": "68",
+            "Ice Punch": "69",
+            "Sleep Talk": "70",
+            "Drain Punch": "73",
+            "Metronome": "80",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Swords Dance": "88",
+            "Body Press": "89",
+            "Iron Head": "99",
+            "Substitute": "103",
+            "Iron Defense": "104",
+            "Heavy Slam": "121",
+            "Thunderbolt": "126",
+            "Play Rough": "127",
+            "Reversal": "134",
+            "Electric Terrain": "136",
+            "Wild Charge": "147",
+            "Earthquake": "149",
+            "Giga Impact": "152",
+            "Focus Blast": "158",
+            "Hyper Beam": "163",
+            "Thunder": "166",
+            "Close Combat": "167",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Iron Hands": [
+            "It is very similar to a cyborg covered exclusively by a paranormal magazine. The cyborg was said to be the modified form of a certain athlete.",
+            "This Pok\u00e9mon shares many similarities with Iron Hands, an object mentioned in a certain expedition journal."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131794337613762650/992.png",
+    "discord_sprite": "<:P992:1132156440719667291>"
+}

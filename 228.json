@@ -1,0 +1,240 @@
+{
+    "alt-version(s)": [],
+    "name": "Houndour",
+    "Houndour": {
+        "pokedex_data": {
+            "National No.": "0228",
+            "Type": [
+                "Dark",
+                "Fire"
+            ],
+            "Species": "Dark Poke\u0301mon",
+            "Height": "0.6 m (2\u203200\u2032\u2032)",
+            "Weight": "10.8 kg (23.8 lbs)",
+            "Abilities": {
+                "Early Bird": {
+                    "href": "/ability/early-bird",
+                    "effect": "The Pok\u00e9mon awakens quickly from sleep.",
+                    "hidden": false
+                },
+                "Flash Fire": {
+                    "href": "/ability/flash-fire",
+                    "effect": "It powers up Fire-type moves if it's hit by one.",
+                    "hidden": false
+                },
+                "Unnerve": {
+                    "href": "/ability/unnerve",
+                    "effect": "Makes the foe nervous and unable to eat Berries.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Sp. Atk",
+            "Catch rate": "120",
+            "BaseFriendship": "35",
+            "Base Exp.": "66",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "45",
+                "Min": "200",
+                "Max": "294"
+            },
+            "Attack": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Defense": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Sp. Atk": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Sp. Def": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Speed": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Total": "330"
+        },
+        "defense_stats": {
+            "Early Bird ability": {
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Ground": "super-effective",
+                "Psychic": "no effect",
+                "Rock": "super-effective",
+                "Ghost": "not very effective",
+                "Dark": "not very effective",
+                "Steel": "not very effective"
+            },
+            "Flash Fire ability": {
+                "Fire": "no effect",
+                "Water": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Ground": "super-effective",
+                "Psychic": "no effect",
+                "Rock": "super-effective",
+                "Ghost": "not very effective",
+                "Dark": "not very effective",
+                "Steel": "not very effective"
+            },
+            "Unnerve ability": {
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Ground": "super-effective",
+                "Psychic": "no effect",
+                "Rock": "super-effective",
+                "Ghost": "not very effective",
+                "Dark": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Houndour",
+                    "nationalNo": "#0228",
+                    "type": [
+                        "Dark",
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Houndoom",
+                    "nationalNo": "#0229",
+                    "type": [
+                        "Dark",
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 24)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Ember": "1",
+            "Leer": "1",
+            "Howl": "4",
+            "Smog": "8",
+            "Roar": "13",
+            "Bite": "16",
+            "Incinerate": "20",
+            "Beat Up": "25",
+            "Fire Fang": "28",
+            "Torment": "32",
+            "Comeuppance": "37",
+            "Foul Play": "40",
+            "Flamethrower": "44",
+            "Crunch": "49",
+            "Nasty Plot": "52",
+            "Inferno": "56"
+        },
+        "egg": {
+            "Counter": null,
+            "Destiny Bond": null,
+            "Feint": null,
+            "Fire Spin": null,
+            "Reversal": null,
+            "Spite": null,
+            "Sucker Punch": null,
+            "Thunder Fang": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Mud-Slap": "05",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Fire Fang": "08",
+            "Thunder Fang": "09",
+            "Thief": "18",
+            "Trailblaze": "20",
+            "Fire Spin": "24",
+            "Facade": "25",
+            "Snarl": "30",
+            "Mud Shot": "35",
+            "Flame Charge": "38",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Foul Play": "62",
+            "Psychic Fangs": "63",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Rest": "85",
+            "Taunt": "87",
+            "Dark Pulse": "94",
+            "Substitute": "103",
+            "Will-O-Wisp": "107",
+            "Crunch": "108",
+            "Shadow Ball": "114",
+            "Hyper Voice": "117",
+            "Heat Wave": "118",
+            "Flamethrower": "125",
+            "Helping Hand": "130",
+            "Reversal": "134",
+            "Nasty Plot": "140",
+            "Fire Blast": "141",
+            "Sludge Bomb": "148",
+            "Overheat": "157",
+            "Flare Blitz": "165",
+            "Solar Beam": "168",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Houndour": [
+            "It uses different kinds of cries for communicating with others of its kind and for pursuing its prey.",
+            "To corner prey, they check each other\u2019s location using barks that only they can understand.",
+            "Around dawn, its ominous howl echoes through the area to announce that this is its territory.",
+            "HOUNDOUR hunt as a coordinated pack. They communicate with each other using a variety of cries to corner their prey. This pok\u00e9mon\u2019s remarkable teamwork is unparalleled.",
+            "To corner prey, they check each other\u2019s location using barks that only they can understand.",
+            "It uses different kinds of cries for communicating with others of its kind and for pursuing prey.",
+            "HOUNDOUR communicate with each other using a variety of cries to corner their prey. This pok\u00e9mon\u2019s remarkable teamwork is simply unparalleled.",
+            "It conveys its feelings using different cries. It works in a pack to cleverly take down prey.",
+            "It is smart enough to hunt in packs. It uses a variety of cries for communicating with others.",
+            "It uses different kinds of cries for communicating with others of its kind and for pursuing its prey.",
+            "To corner prey, they check each other\u2019s location using barks that only they can understand.",
+            "It is smart enough to hunt in packs. It uses a variety of cries for communicating with others.",
+            "Around dawn, its ominous howl echoes through the area to announce that this is its territory.",
+            "To corner prey, they check each other\u2019s location using barks that only they can understand.",
+            "Houndour hunt as a coordinated pack. They communicate with each other using a variety of cries to corner their prey. This Pok\u00e9mon\u2019s remarkable teamwork is unparalleled.",
+            "It cooperates with others skillfully. When it becomes your partner, it\u2019s very loyal to you as its Trainer and will obey your orders.",
+            "They make repeated eerie howls before dawn to call attention to their pack.",
+            "It conveys its feelings using different cries. It works in a pack to cleverly take down prey.",
+            "It is smart enough to hunt in packs. It uses a variety of cries for communicating with others.",
+            "It uses different kinds of cries for communicating with others of its kind and for pursuing its prey."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788375486115850/228.png",
+    "discord_sprite": "<:P228:1132122769304330251>"
+}

@@ -1,0 +1,285 @@
+{
+    "alt-version(s)": [
+        "Mega Pidgeot"
+    ],
+    "name": "Pidgeot",
+    "Pidgeot": {
+        "pokedex_data": {
+            "National No.": "0018",
+            "Type": [
+                "Normal",
+                "Flying"
+            ],
+            "Species": "Bird Poke\u0301mon",
+            "Height": "1.5 m (4\u203211\u2032\u2032)",
+            "Weight": "39.5 kg (87.1 lbs)",
+            "Abilities": {
+                "Keen Eye": {
+                    "href": "/ability/keen-eye",
+                    "effect": "Prevents other Pok\u00e9mon from lowering accuracy.",
+                    "hidden": false
+                },
+                "Tangled Feet": {
+                    "href": "/ability/tangled-feet",
+                    "effect": "Raises evasion if the Pok\u00e9mon is confused.",
+                    "hidden": false
+                },
+                "Big Pecks": {
+                    "href": "/ability/big-pecks",
+                    "effect": "Protects the Pok\u00e9mon from Defense-lowering attacks.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Speed",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "216",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "83",
+                "Min": "276",
+                "Max": "370"
+            },
+            "Attack": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Defense": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Sp. Atk": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Def": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Speed": {
+                "Base": "101",
+                "Min": "186",
+                "Max": "331"
+            },
+            "Total": "479"
+        },
+        "defense_stats": {
+            "default": {
+                "Electric": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Ground": "no effect",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "Mega Pidgeot": {
+        "pokedex_data": {
+            "National No.": "0018",
+            "Type": [
+                "Normal",
+                "Flying"
+            ],
+            "Species": "Bird Poke\u0301mon",
+            "Height": "2.2 m (7\u203203\u2032\u2032)",
+            "Weight": "50.5 kg (111.3 lbs)",
+            "Abilities": {
+                "No Guard": {
+                    "href": "/ability/no-guard",
+                    "effect": "Ensures attacks by or against the Pok\u00e9mon land.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Speed",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "261",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "83",
+                "Min": "276",
+                "Max": "370"
+            },
+            "Attack": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Defense": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Sp. Atk": {
+                "Base": "135",
+                "Min": "247",
+                "Max": "405"
+            },
+            "Sp. Def": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Speed": {
+                "Base": "121",
+                "Min": "222",
+                "Max": "375"
+            },
+            "Total": "579"
+        },
+        "defense_stats": {
+            "default": {
+                "Electric": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Ground": "no effect",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Pidgey",
+                    "nationalNo": "#0016",
+                    "type": [
+                        "Normal",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Pidgeotto",
+                    "nationalNo": "#0017",
+                    "type": [
+                        "Normal",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 18)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Pidgeotto",
+                    "nationalNo": "#0017",
+                    "type": [
+                        "Normal",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Pidgeot",
+                    "nationalNo": "#0018",
+                    "type": [
+                        "Normal",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 36)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Gust": "9",
+            "Hurricane": "68",
+            "Quick Attack": "13",
+            "Sand Attack": "5",
+            "Tackle": "1",
+            "Whirlwind": "17",
+            "Twister": "22",
+            "Feather Dance": "27",
+            "Agility": "32",
+            "Wing Attack": "38",
+            "Roost": "44",
+            "Tailwind": "50",
+            "Aerial Ace": "56",
+            "Air Slash": "62"
+        },
+        "egg": {
+            "Air Cutter": null,
+            "Air Slash": null,
+            "Brave Bird": null,
+            "Uproar": null
+        },
+        "tm": {
+            "Work Up": "10",
+            "Sunny Day": "11",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Double Team": "32",
+            "Aerial Ace": "40",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Steel Wing": "47",
+            "Roost": "51",
+            "Endure": "58",
+            "Giga Impact": "68",
+            "Sleep Talk": "82",
+            "Swagger": "87",
+            "Pluck": "88",
+            "U-turn": "89",
+            "Substitute": "90",
+            "Fly": "94",
+            "Defog": "97"
+        }
+    },
+    "entries": {
+        "Pidgeot": [
+            "When hunting, it skims the surface of water at high speed to pick off unwary prey such as MAGIKARP.",
+            "This pok\u00e9mon flies at Mach 2 speed, seeking prey. Its large talons are feared as wicked weapons.",
+            "Its well-developed chest muscles make it strong enough to whip up a gusty windstorm with just a few flaps.",
+            "It spreads its beautiful wings wide to frighten its enemies. It can fly at Mach 2 speed.",
+            "Its outstanding vision allows it to spot splashing MAGIKARP, even while flying at 3300 feet.",
+            "This pok\u00e9mon has a dazzling plumage of beautifully glossy feathers. Many TRAINERS are captivated by the striking beauty of the feathers on its head, compelling them to choose PIDGEOT as their pok\u00e9mon.",
+            "It spreads its gorgeous wings widely to intimidate enemies. It races through the skies at Mach-2 speed.",
+            "When hunting, it skims the surface of water at high speed to pick off unwary prey such as MAGIKARP.",
+            "This pok\u00e9mon has gorgeous, glossy feathers. Many TRAINERS are so captivated by the beautiful feathers on its head that they choose PIDGEOT as their pok\u00e9mon.",
+            "By flapping its wings with all its might, PIDGEOT can make a gust of wind capable of bending tall trees.",
+            "Its well-developed chest muscles make it strong enough to whip up a gusty windstorm with just a few flaps.",
+            "It spreads its beautiful wings wide to frighten its enemies. It can fly at Mach 2 speed.",
+            "By flapping its wings with all its might, Pidgeot can make a gust of wind capable of bending tall trees.",
+            "When hunting, it skims the surface of water at high speed to pick off unwary prey such as Magikarp.",
+            "It spreads its gorgeous wings widely to intimidate enemies. It races through the skies at Mach-2 speed.",
+            "This Pok\u00e9mon has a dazzling plumage of beautifully glossy feathers. Many Trainers are captivated by the striking beauty of the feathers on its head, compelling them to choose Pidgeot as their Pok\u00e9mon.",
+            "This Pok\u00e9mon flies at Mach 2 speed, seeking prey. Its large talons are feared as wicked weapons.",
+            "By flapping its wings with all its might, Pidgeot can make a gust of wind capable of bending tall trees."
+        ],
+        "Mega Pidgeot": [
+            "With its muscular strength now greatly increased, it can fly continuously for two weeks without resting."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131786728596844594/18.png",
+    "discord_sprite": "<:P18:1131972683911925821>"
+}

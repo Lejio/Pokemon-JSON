@@ -1,0 +1,235 @@
+{
+    "alt-version(s)": [],
+    "name": "Crobat",
+    "Crobat": {
+        "pokedex_data": {
+            "National No.": "0169",
+            "Type": [
+                "Poison",
+                "Flying"
+            ],
+            "Species": "Bat Poke\u0301mon",
+            "Height": "1.8 m (5\u203211\u2032\u2032)",
+            "Weight": "75.0 kg (165.3 lbs)",
+            "Abilities": {
+                "Inner Focus": {
+                    "href": "/ability/inner-focus",
+                    "effect": "The Pok\u00e9mon is protected from flinching.",
+                    "hidden": false
+                },
+                "Infiltrator": {
+                    "href": "/ability/infiltrator",
+                    "effect": "Passes through the foe's barrier and strikes.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Speed",
+            "Catch rate": "90",
+            "BaseFriendship": "50",
+            "Base Exp.": "241",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "85",
+                "Min": "280",
+                "Max": "374"
+            },
+            "Attack": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Defense": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Sp. Atk": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Def": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Speed": {
+                "Base": "130",
+                "Min": "238",
+                "Max": "394"
+            },
+            "Total": "535"
+        },
+        "defense_stats": {
+            "default": {
+                "Electric": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Poison": "not very effective",
+                "Ground": "no effect",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Zubat",
+                    "nationalNo": "#0041",
+                    "type": [
+                        "Poison",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Golbat",
+                    "nationalNo": "#0042",
+                    "type": [
+                        "Poison",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 22)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Golbat",
+                    "nationalNo": "#0042",
+                    "type": [
+                        "Poison",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Crobat",
+                    "nationalNo": "#0169",
+                    "type": [
+                        "Poison",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(high Friendship)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Absorb": "1",
+            "Astonish": "1",
+            "Cross Poison": "1",
+            "Mean Look": "1",
+            "Screech": "1",
+            "Supersonic": "1",
+            "Tailwind": "1",
+            "Toxic": "1",
+            "Poison Fang": "15",
+            "Quick Guard": "20",
+            "Air Cutter": "27",
+            "Bite": "34",
+            "Haze": "41",
+            "Venoshock": "48",
+            "Confuse Ray": "55",
+            "Air Slash": "62",
+            "Leech Life": "69"
+        },
+        "evolution": {
+            "Cross Poison": "70"
+        },
+        "egg": {
+            "Brave Bird": null,
+            "Curse": null,
+            "Gust": null,
+            "Hypnosis": null,
+            "Quick Attack": null,
+            "Venom Drench": null,
+            "Whirlwind": null,
+            "Wing Attack": null,
+            "Zen Headbutt": null
+        },
+        "tm": {
+            "Toxic": "06",
+            "Sunny Day": "11",
+            "Taunt": "12",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Giga Drain": "19",
+            "Shadow Ball": "30",
+            "Double Team": "32",
+            "Sludge Bomb": "36",
+            "Aerial Ace": "40",
+            "Torment": "41",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Steel Wing": "47",
+            "Roost": "51",
+            "Endure": "58",
+            "Nasty Plot": "63",
+            "Payback": "66",
+            "Giga Impact": "68",
+            "Dark Pulse": "79",
+            "X-Scissor": "81",
+            "Sleep Talk": "82",
+            "Swagger": "87",
+            "Pluck": "88",
+            "U-turn": "89",
+            "Substitute": "90",
+            "Fly": "94",
+            "Defog": "97"
+        }
+    },
+    "entries": {
+        "Crobat": [
+            "It flies so silently through the dark on its four wings that it may not be noticed even when nearby.",
+            "The development of wings on its legs enables it to fly fast but also makes it tough to stop and rest.",
+            "As a result of its pursuit of faster, yet more silent flight, a new set of wings grew on its hind legs.",
+            "If this pok\u00e9mon is flying by fluttering only a pair of wings on either the forelegs or hind legs, it\u2019s proof that CROBAT has been flying a long distance. It switches the wings it uses if it is tired.",
+            "CROBAT sneaks up on its intended prey using wings that barely make a sound. This pok\u00e9mon rests by hanging on a tree branch with its rear legs that serve as wings.",
+            "The development of wings on its legs enables it to fly fast but also makes it tough to stop and rest.",
+            "It flies so silently through the dark on its four wings that it may not be noticed even when nearby.",
+            "Over the course of evolution, its hind legs turned into wings. By alternately resting its front and rear wings, it can fly all day without having to stop.",
+            "Having four wings enables it to fly faster and more quietly. It turns active when the night comes.",
+            "A Pok\u00e9mon that gained vastly enhanced flying performance by having its legs turn into wings.",
+            "The transformation of its legs into wings made it better at flying, but more clumsy at walking.",
+            "It flies so silently through the dark on its four wings that it may not be noticed even when nearby.",
+            "The development of wings on its legs enables it to fly fast but also makes it tough to stop and rest.",
+            "The transformation of its legs into wings made it better at flying, but more clumsy at walking.",
+            "Having four wings allows it to fly more quickly and quietly so it can sneak up on prey without its noticing.",
+            "It flies so silently through the dark on its four wings that it may not be noticed even when nearby.",
+            "Having four wings allows it to fly more quickly and quietly so it can sneak up on prey without its noticing.",
+            "If this Pok\u00e9mon is flying by fluttering only a pair of wings on either the forelegs or hind legs, it\u2019s proof that Crobat has been flying a long distance. It switches the wings it uses if it is tired.",
+            "Crobat sneaks up on its intended prey using wings that barely make a sound. This Pok\u00e9mon rests by hanging on a tree branch with its rear legs that serve as wings.",
+            "Both its legs became wings, and as a result, it can\u2019t move well on the ground. All it can do is crawl around.",
+            "Silent and swift in its four-winged flight, it bites down on its prey before they realize what\u2019s happening. In a heartbeat, it drains their blood.",
+            "Its fangs are so sharp, if it bites you in the dark and sucks your blood, you won\u2019t notice any pain or realize you\u2019ve been bitten.",
+            "It feeds on the blood of living people and Pok\u00e9mon. If it can\u2019t drink any blood for even a short while, it becomes weak and unable to fly.",
+            "Both of its legs have turned into wings. Without a sound, Crobat flies swiftly toward its prey and sinks its fangs into the nape of its target\u2019s neck.",
+            "This Pok\u00e9mon flaps its four wings skillfully. Crobat can fly through cramped caves without needing to slow down.",
+            "Having four wings enables it to fly faster and more quietly. It turns active when the night comes.",
+            "This Pok\u00e9mon gained vastly enhanced flying capabilities after its legs became wings.",
+            "Its hind limbs have become another set of wings. Crobat expertly maneuvers its four wings to dart in exquisite fashion through even the most confined caves without losing any speed."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787910459428946/169.png",
+    "discord_sprite": "<:P169:1132120171981582397>"
+}

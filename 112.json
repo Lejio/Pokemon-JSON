@@ -1,0 +1,255 @@
+{
+    "alt-version(s)": [],
+    "name": "Rhydon",
+    "Rhydon": {
+        "pokedex_data": {
+            "National No.": "0112",
+            "Type": [
+                "Ground",
+                "Rock"
+            ],
+            "Species": "Drill Poke\u0301mon",
+            "Height": "1.9 m (6\u203203\u2032\u2032)",
+            "Weight": "120.0 kg (264.6 lbs)",
+            "Abilities": {
+                "Lightning Rod": {
+                    "href": "/ability/lightning-rod",
+                    "effect": "Draws in all Electric-type moves to up Sp. Attack.",
+                    "hidden": false
+                },
+                "Rock Head": {
+                    "href": "/ability/rock-head",
+                    "effect": "Protects the Pok\u00e9mon from recoil damage.",
+                    "hidden": false
+                },
+                "Reckless": {
+                    "href": "/ability/reckless",
+                    "effect": "Powers up moves that have recoil damage.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "60",
+            "BaseFriendship": "50",
+            "Base Exp.": "170",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "105",
+                "Min": "320",
+                "Max": "414"
+            },
+            "Attack": {
+                "Base": "130",
+                "Min": "238",
+                "Max": "394"
+            },
+            "Defense": {
+                "Base": "120",
+                "Min": "220",
+                "Max": "372"
+            },
+            "Sp. Atk": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Sp. Def": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Speed": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Total": "485"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Electric": "no effect",
+                "Grass": "super-effective",
+                "Ice": "super-effective",
+                "Fighting": "super-effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Rock": "not very effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Rhyhorn",
+                    "nationalNo": "#0111",
+                    "type": [
+                        "Ground",
+                        "Rock"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Rhydon",
+                    "nationalNo": "#0112",
+                    "type": [
+                        "Ground",
+                        "Rock"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 42)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Rhydon",
+                    "nationalNo": "#0112",
+                    "type": [
+                        "Ground",
+                        "Rock"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Rhyperior",
+                    "nationalNo": "#0464",
+                    "type": [
+                        "Ground",
+                        "Rock"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(trade holding Protector)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Bulldoze": "1",
+            "Hammer Arm": "1",
+            "Smack Down": "1",
+            "Tackle": "1",
+            "Tail Whip": "1",
+            "Horn Attack": "15",
+            "Scary Face": "20",
+            "Stomp": "25",
+            "Rock Blast": "30",
+            "Drill Run": "35",
+            "Take Down": "40",
+            "Earthquake": "47",
+            "Stone Edge": "54",
+            "Megahorn": "61",
+            "Horn Drill": "68"
+        },
+        "evolution": {
+            "Hammer Arm": "100"
+        },
+        "egg": {
+            "Counter": null,
+            "Crunch": null,
+            "Crush Claw": null,
+            "Curse": null,
+            "Dragon Rush": null,
+            "Fire Fang": null,
+            "Guard Split": null,
+            "Ice Fang": null,
+            "Metal Burst": null,
+            "Reversal": null,
+            "Skull Bash": null,
+            "Thunder Fang": null
+        },
+        "tm": {
+            "Focus Punch": "01",
+            "Roar": "05",
+            "Sunny Day": "11",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Iron Tail": "23",
+            "Thunderbolt": "24",
+            "Thunder": "25",
+            "Earthquake": "26",
+            "Dig": "28",
+            "Brick Break": "31",
+            "Double Team": "32",
+            "Shock Wave": "34",
+            "Flamethrower": "35",
+            "Sandstorm": "37",
+            "Fire Blast": "38",
+            "Rock Tomb": "39",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Focus Blast": "52",
+            "Fling": "56",
+            "Endure": "58",
+            "Dragon Pulse": "59",
+            "Shadow Claw": "65",
+            "Payback": "66",
+            "Giga Impact": "68",
+            "Rock Polish": "69",
+            "Stone Edge": "71",
+            "Avalanche": "72",
+            "Swords Dance": "75",
+            "Stealth Rock": "76",
+            "Rock Slide": "80",
+            "Sleep Talk": "82",
+            "Bulldoze": "83",
+            "Poison Jab": "84",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Cut": "93",
+            "Surf": "95",
+            "Strength": "96",
+            "Rock Smash": "98",
+            "Rock Climb": "100"
+        }
+    },
+    "entries": {
+        "Rhydon": [
+            "Protected by an armor-like hide, it is capable of living in molten lava of 3,600 degrees.",
+            "Walks on its hind legs. Shows signs of intelligence. Its armor-like hide even repels molten lava.",
+            "Its rugged hide protects it from even the heat of lava. However, the hide also makes it insensitive.",
+            "Its brain developed when it began walking on hind legs. Its thick hide protects it even in magma.",
+            "By lightly spinning its drill-like horn, it can easily shatter even a diamond in the rough.",
+            "RHYDON\u2019s horn can crush even uncut diamonds. One sweeping blow of its tail can topple a building. This pok\u00e9mon\u2019s hide is extremely tough. Even direct cannon hits don\u2019t leave a scratch.",
+            "RHYDON has a horn that serves as a drill. It is used for destroying rocks and boulders. This pok\u00e9mon occasionally rams into streams of magma, but the armor-like hide prevents it from feeling the heat.",
+            "It begins walking on its hind legs after evolution. It can punch holes through boulders with its horn.",
+            "Protected by an armor-like hide, it is capable of living in molten lava of 3,600 degrees Fahrenheit.",
+            "Its horn, which rotates like a drill, destroys tall buildings with one strike. It stands on its hind legs, and its brain is well developed.",
+            "Its brain developed after it stood up on its hind legs. Its drill horn bores tunnels through solid rock.",
+            "Standing on its hind legs freed its forelegs and made it smarter. It is very forgetful, however.",
+            "Its rugged hide protects it from even the heat of lava. However, the hide also makes it insensitive.",
+            "Its brain developed when it began walking on hind legs. Its thick hide protects it even in magma.",
+            "Standing on its hind legs freed its forelegs and made it smarter. It is very forgetful, however.",
+            "Protected by an armor-like hide, it is capable of living in molten lava of 3,600 degrees Fahrenheit.",
+            "It begins walking on its hind legs after evolution. It can punch holes through boulders with its horn.",
+            "Rhydon\u2019s horn can crush even uncut diamonds. One sweeping blow of its tail can topple a building. This Pok\u00e9mon\u2019s hide is extremely tough. Even direct cannon hits don\u2019t leave a scratch.",
+            "Rhydon has a horn that serves as a drill. It is used for destroying rocks and boulders. This Pok\u00e9mon occasionally rams into streams of magma, but the armor-like hide prevents it from feeling the heat.",
+            "Its brain developed when it began walking on its hind legs. Its armor-like hide even repels molten lava.",
+            "It begins walking on its hind legs after evolution. It can punch holes through boulders with its horn.",
+            "Protected by an armor-like hide, it is capable of living in molten lava of 3,600 degrees Fahrenheit.",
+            "Its brain developed after it stood up on its hind legs. Its drill horn bores tunnels through solid rock.",
+            "Rapidly rotates its horn to bore through bedrock. It swaggers around volcanic regions, protected from the lava\u2019s heat by its tough, armorlike hide."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787465657696306/112.png",
+    "discord_sprite": "<:P112:1132117658704289862>"
+}

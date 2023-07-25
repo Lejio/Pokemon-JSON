@@ -1,0 +1,211 @@
+{
+    "alt-version(s)": [],
+    "name": "Gliscor",
+    "Gliscor": {
+        "pokedex_data": {
+            "National No.": "0472",
+            "Type": [
+                "Ground",
+                "Flying"
+            ],
+            "Species": "Fang Scorp Poke\u0301mon",
+            "Height": "2.0 m (6\u203207\u2032\u2032)",
+            "Weight": "42.5 kg (93.7 lbs)",
+            "Abilities": {
+                "Hyper Cutter": {
+                    "href": "/ability/hyper-cutter",
+                    "effect": "Prevents other Pok\u00e9mon from lowering Attack stat.",
+                    "hidden": false
+                },
+                "Sand Veil": {
+                    "href": "/ability/sand-veil",
+                    "effect": "Boosts the Pok\u00e9mon's evasion in a sandstorm.",
+                    "hidden": false
+                },
+                "Poison Heal": {
+                    "href": "/ability/poison-heal",
+                    "effect": "Restores HP if the Pok\u00e9mon is poisoned.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Defense",
+            "Catch rate": "30",
+            "BaseFriendship": "50",
+            "Base Exp.": "179",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "75",
+                "Min": "260",
+                "Max": "354"
+            },
+            "Attack": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Defense": {
+                "Base": "125",
+                "Min": "229",
+                "Max": "383"
+            },
+            "Sp. Atk": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Sp. Def": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Speed": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Total": "510"
+        },
+        "defense_stats": {
+            "default": {
+                "Water": "super-effective",
+                "Electric": "no effect",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Poison": "not very effective",
+                "Ground": "no effect",
+                "Bug": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Gligar",
+                    "nationalNo": "#0207",
+                    "type": [
+                        "Ground",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Gliscor",
+                    "nationalNo": "#0472",
+                    "type": [
+                        "Ground",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(hold Razor Fang, Nighttime)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Fire Fang": "1",
+            "Guillotine": "55",
+            "Harden": "7",
+            "Ice Fang": "1",
+            "Knock Off": "10",
+            "Night Slash": "27",
+            "Poison Jab": "1",
+            "Poison Sting": "1",
+            "Sand Attack": "4",
+            "Slash": "1",
+            "Thunder Fang": "1",
+            "Quick Attack": "13",
+            "Fury Cutter": "16",
+            "Mud-Slap": "19",
+            "Acrobatics": "22",
+            "U-turn": "30",
+            "Screech": "35",
+            "X-Scissor": "40",
+            "Earthquake": "45",
+            "Swords Dance": "50"
+        },
+        "egg": {
+            "Agility": null,
+            "Baton Pass": null,
+            "Counter": null,
+            "Cross Poison": null,
+            "Double-Edge": null,
+            "Feint": null,
+            "Metal Claw": null,
+            "Night Slash": null,
+            "Poison Tail": null,
+            "Power Trick": null,
+            "Sand Tomb": null,
+            "Wing Attack": null
+        },
+        "tm": {
+            "Sunny Day": "11",
+            "Taunt": "12",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Iron Tail": "23",
+            "Earthquake": "26",
+            "Dig": "28",
+            "Brick Break": "31",
+            "Double Team": "32",
+            "Sludge Bomb": "36",
+            "Sandstorm": "37",
+            "Rock Tomb": "39",
+            "Aerial Ace": "40",
+            "Torment": "41",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Steel Wing": "47",
+            "Roost": "51",
+            "False Swipe": "54",
+            "Fling": "56",
+            "Endure": "58",
+            "Payback": "66",
+            "Giga Impact": "68",
+            "Rock Polish": "69",
+            "Stone Edge": "71",
+            "Swords Dance": "75",
+            "Stealth Rock": "76",
+            "Dark Pulse": "79",
+            "Rock Slide": "80",
+            "X-Scissor": "81",
+            "Sleep Talk": "82",
+            "Bulldoze": "83",
+            "Poison Jab": "84",
+            "Swagger": "87",
+            "U-turn": "89",
+            "Substitute": "90",
+            "Cut": "93",
+            "Strength": "96",
+            "Defog": "97",
+            "Rock Smash": "98"
+        }
+    },
+    "entries": {
+        "Gliscor": [
+            "It observes prey while hanging inverted from branches. When the chance presents itself, it swoops!",
+            "If it succeeds in catching even a faint breeze properly, it can circle the globe without flapping once.",
+            "Its flight is soundless. It uses its lengthy tail to carry off its prey... Then its elongated fangs do the rest.",
+            "If it succeeds in catching even a faint breeze properly, it can circle the globe without flapping once.",
+            "It dances silently through the sky. When it approaches prey, it can land a critical hit in an instant.",
+            "It observes prey while hanging inverted from branches. When the chance presents itself, it swoops!",
+            "Its flight is soundless. It uses its lengthy tail to carry off its prey... Then its elongated fangs do the rest.",
+            "It observes prey while hanging inverted from branches. When the chance presents itself, Gliscor swoops!",
+            "It glides soundlessly on pitch-black wings and sinks sharp fangs into the throat of its prey. It takes on a look of satisfaction once it has entirely drained its prey of blood."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790280568361040/472.png",
+    "discord_sprite": "<:P472:1132133500921860096>"
+}

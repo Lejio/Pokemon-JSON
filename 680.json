@@ -1,0 +1,198 @@
+{
+    "alt-version(s)": [],
+    "name": "Doublade",
+    "Doublade": {
+        "pokedex_data": {
+            "National No.": "0680",
+            "Type": [
+                "Steel",
+                "Ghost"
+            ],
+            "Species": "Sword Poke\u0301mon",
+            "Height": "0.8 m (2\u203207\u2032\u2032)",
+            "Weight": "4.5 kg (9.9 lbs)",
+            "Abilities": {
+                "No Guard": {
+                    "href": "/ability/no-guard",
+                    "effect": "Ensures attacks by or against the Pok\u00e9mon land.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Defense",
+            "Catch rate": "90",
+            "BaseFriendship": "50",
+            "Base Exp.": "157",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "59",
+                "Min": "228",
+                "Max": "322"
+            },
+            "Attack": {
+                "Base": "110",
+                "Min": "202",
+                "Max": "350"
+            },
+            "Defense": {
+                "Base": "150",
+                "Min": "274",
+                "Max": "438"
+            },
+            "Sp. Atk": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Sp. Def": {
+                "Base": "49",
+                "Min": "92",
+                "Max": "216"
+            },
+            "Speed": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Total": "448"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "no effect",
+                "Fire": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Fighting": "no effect",
+                "Poison": "no effect",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Ghost": "super-effective",
+                "Dragon": "not very effective",
+                "Dark": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Honedge",
+                    "nationalNo": "#0679",
+                    "type": [
+                        "Steel",
+                        "Ghost"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Doublade",
+                    "nationalNo": "#0680",
+                    "type": [
+                        "Steel",
+                        "Ghost"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 35)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Doublade",
+                    "nationalNo": "#0680",
+                    "type": [
+                        "Steel",
+                        "Ghost"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Aegislash",
+                    "nationalNo": "#0681",
+                    "type": [
+                        "Steel",
+                        "Ghost"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Dusk Stone)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Autotomize": "1",
+            "Fury Cutter": "1",
+            "Shadow Sneak": "1",
+            "Tackle": "1",
+            "Aerial Ace": "12",
+            "Metal Sound": "16",
+            "Slash": "20",
+            "Night Slash": "24",
+            "Retaliate": "28",
+            "Iron Defense": "32",
+            "Iron Head": "38",
+            "Power Trick": "44",
+            "Swords Dance": "50",
+            "Sacred Sword": "56"
+        },
+        "egg": {
+            "Block": null,
+            "Destiny Bond": null,
+            "Wide Guard": null
+        },
+        "tm": {
+            "Solar Blade": "12",
+            "Screech": "16",
+            "Reflect": "18",
+            "Rest": "21",
+            "Rock Slide": "22",
+            "Snore": "24",
+            "Protect": "25",
+            "Attract": "31",
+            "Rain Dance": "33",
+            "Facade": "39",
+            "Brick Break": "43",
+            "Shadow Claw": "65",
+            "Psycho Cut": "69",
+            "Round": "76",
+            "Retaliate": "79",
+            "False Swipe": "94",
+            "Brutal Swing": "97"
+        },
+        "null": {
+            "Swords Dance": "00",
+            "Substitute": "20",
+            "Reversal": "21",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Iron Defense": "46",
+            "Gyro Ball": "52",
+            "Close Combat": "53",
+            "Flash Cannon": "70",
+            "Iron Head": "74"
+        }
+    },
+    "entries": {
+        "Doublade": [
+            "When Honedge evolves, it divides into two swords, which cooperate via telepathy to coordinate attacks and slash their enemies to ribbons.",
+            "The complex attack patterns of its two swords are unstoppable, even for an opponent greatly accomplished at swordplay.",
+            "Honedge evolves into twins. The two blades rub together to emit a metallic sound that unnerves opponents.",
+            "The two swords employ a strategy of rapidly alternating between offense and defense to bring down their prey."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791904351199242/680.png",
+    "discord_sprite": "<:P680:1132142662837870723>"
+}

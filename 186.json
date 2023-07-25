@@ -1,0 +1,258 @@
+{
+    "alt-version(s)": [],
+    "name": "Politoed",
+    "Politoed": {
+        "pokedex_data": {
+            "National No.": "0186",
+            "Type": [
+                "Water"
+            ],
+            "Species": "Frog Poke\u0301mon",
+            "Height": "1.1 m (3\u203207\u2032\u2032)",
+            "Weight": "33.9 kg (74.7 lbs)",
+            "Abilities": {
+                "Water Absorb": {
+                    "href": "/ability/water-absorb",
+                    "effect": "Restores HP if hit by a Water-type move.",
+                    "hidden": false
+                },
+                "Damp": {
+                    "href": "/ability/damp",
+                    "effect": "Prevents the use of self-destructing moves.",
+                    "hidden": false
+                },
+                "Drizzle": {
+                    "href": "/ability/drizzle",
+                    "effect": "The Pok\u00e9mon makes it rain when it enters a battle.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Sp. Def",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "225",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "90",
+                "Min": "290",
+                "Max": "384"
+            },
+            "Attack": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Defense": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Sp. Atk": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Sp. Def": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Speed": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Total": "500"
+        },
+        "defense_stats": {
+            "Water Absorb ability": {
+                "Fire": "not very effective",
+                "Water": "no effect",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Steel": "not very effective"
+            },
+            "Damp ability": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Steel": "not very effective"
+            },
+            "Drizzle ability": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Poliwag",
+                    "nationalNo": "#0060",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Poliwhirl",
+                    "nationalNo": "#0061",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 25)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Poliwhirl",
+                    "nationalNo": "#0061",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Poliwrath",
+                    "nationalNo": "#0062",
+                    "type": [
+                        "Water",
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Water Stone)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Poliwhirl",
+                    "nationalNo": "#0061",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Politoed",
+                    "nationalNo": "#0186",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(trade holding Kings Rock)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Belly Drum": "1",
+            "Body Slam": "1",
+            "Bounce": "1",
+            "Bubble Beam": "1",
+            "Double-Edge": "1",
+            "Earth Power": "1",
+            "Hydro Pump": "1",
+            "Hyper Voice": "1",
+            "Hypnosis": "1",
+            "Mud Shot": "1",
+            "Perish Song": "1",
+            "Pound": "1",
+            "Rain Dance": "1",
+            "Swagger": "1",
+            "Water Gun": "1"
+        },
+        "evolution": {
+            "Bounce": "85"
+        },
+        "egg": {
+            "Bubble Beam": null,
+            "Encore": null,
+            "Endeavor": null,
+            "Haze": null,
+            "Mind Reader": null,
+            "Mist": null,
+            "Mud Shot": null,
+            "Splash": null
+        },
+        "tm": {
+            "Focus Punch": "01",
+            "Water Pulse": "03",
+            "Hail": "07",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Earthquake": "26",
+            "Dig": "28",
+            "Psychic": "29",
+            "Brick Break": "31",
+            "Double Team": "32",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Scald": "49",
+            "Focus Blast": "52",
+            "Fling": "56",
+            "Endure": "58",
+            "Payback": "66",
+            "Giga Impact": "68",
+            "Sleep Talk": "82",
+            "Bulldoze": "83",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Surf": "95",
+            "Strength": "96",
+            "Rock Smash": "98",
+            "Waterfall": "99"
+        }
+    },
+    "entries": {
+        "Politoed": [
+            "If POLIWAG and POLIWHIRL hear its echoing cry, they respond by gathering from far and wide.",
+            "Whenever three or more of these get together, they sing in a loud voice that sounds like bellowing.",
+            "When it expands its throat to croak out a tune, nearby POLIWAG and POLIWHIRL gather immediately.",
+            "The curled hair on POLITOED\u2019s head is proof of its status as a king. It is said that the longer and more curled the hair, the more respect this pok\u00e9mon earns from its peers.",
+            "Whenever three or more of these get together, they sing in a loud voice that sounds like bellowing.",
+            "If POLIWAG and POLIWHIRL hear its echoing cry, they respond by gathering from far and wide.",
+            "The curled hair on its head proves its status as a king. It is said that the longer and curlier the hair, the more respect it earns from its peers.",
+            "It gathers groups of others as their leader. Its cries make POLIWAG obey.",
+            "If POLIWAG and POLIWHIRL hear its echoing cry, they respond by gathering from far and wide.",
+            "Whenever three or more of these get together, they sing in a loud voice that sounds like bellowing.",
+            "It gathers groups of others as their leader. Its cries make Poliwag obey.",
+            "Whenever three or more of these get together, they sing in a loud voice that sounds like bellowing.",
+            "If Poliwag and Poliwhirl hear its echoing cry, they respond by gathering from far and wide.",
+            "The curled hair on Politoed\u2019s head is proof of its status as a king. It is said that the longer and more curled the hair, the more respect this Pok\u00e9mon earns from its peers.",
+            "They gather on moonlit nights to form a large chorus. Their cries sound angry and not at all pleasant, but they are certainly distinctive.",
+            "It\u2019s the leader of Poliwag and Poliwhirl. When Politoed roars, they all cower in fear.",
+            "Although its cries sound like screams, a composer created a beautiful ballad that was influenced by the sounds.",
+            "The longer and more luxurious the curled hair on its head, the greater the number of Poliwag and Poliwhirl that will obey it.",
+            "At nightfall, these Pok\u00e9mon appear on the shores of lakes. They announce their territorial claims by letting out cries that sound like shouting.",
+            "The cry of a male is louder than that of a female. Male Politoed with deep, menacing voices find more popularity with the opposite gender.",
+            "A group of Poliwag and Poliwhirl will form with a Politoed as the leader. Politoed\u2019s cries make the Pok\u00e9mon of the group obey."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788041896333373/186.png",
+    "discord_sprite": "<:P186:1132120919515603027>"
+}

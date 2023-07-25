@@ -1,0 +1,241 @@
+{
+    "alt-version(s)": [],
+    "name": "Primeape",
+    "Primeape": {
+        "pokedex_data": {
+            "National No.": "0057",
+            "Type": [
+                "Fighting"
+            ],
+            "Species": "Pig Monkey Poke\u0301mon",
+            "Height": "1.0 m (3\u203203\u2032\u2032)",
+            "Weight": "32.0 kg (70.5 lbs)",
+            "Abilities": {
+                "Vital Spirit": {
+                    "href": "/ability/vital-spirit",
+                    "effect": "Prevents the Pok\u00e9mon from falling asleep.",
+                    "hidden": false
+                },
+                "Anger Point": {
+                    "href": "/ability/anger-point",
+                    "effect": "Maxes Attack after taking a critical hit.",
+                    "hidden": false
+                },
+                "Defiant": {
+                    "href": "/ability/defiant",
+                    "effect": "Sharply raises Attack when the Pok\u00e9mon's stats are lowered.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "75",
+            "BaseFriendship": "50",
+            "Base Exp.": "159",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "65",
+                "Min": "240",
+                "Max": "334"
+            },
+            "Attack": {
+                "Base": "105",
+                "Min": "193",
+                "Max": "339"
+            },
+            "Defense": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Atk": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Def": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Speed": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Total": "455"
+        },
+        "defense_stats": {
+            "default": {
+                "Flying": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Dark": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Mankey",
+                    "nationalNo": "#0056",
+                    "type": [
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Primeape",
+                    "nationalNo": "#0057",
+                    "type": [
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 28)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Primeape",
+                    "nationalNo": "#0057",
+                    "type": [
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Annihilape",
+                    "nationalNo": "#0979",
+                    "type": [
+                        "Fighting",
+                        "Ghost"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Use Rage Fist 20 times)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Fling": "1",
+            "Focus Energy": "1",
+            "Leer": "1",
+            "Scratch": "1",
+            "Fury Swipes": "5",
+            "Low Kick": "8",
+            "Seismic Toss": "15",
+            "Swagger": "17",
+            "Cross Chop": "22",
+            "Assurance": "26",
+            "Thrash": "30",
+            "Rage Fist": "35",
+            "Close Combat": "39",
+            "Screech": "44",
+            "Stomping Tantrum": "48",
+            "Outrage": "53",
+            "Final Gambit": "57"
+        },
+        "egg": {
+            "Beat Up": null,
+            "Counter": null,
+            "Curse": null,
+            "Encore": null,
+            "Night Slash": null,
+            "Spite": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Low Kick": "12",
+            "Acrobatics": "14",
+            "Thief": "18",
+            "Facade": "25",
+            "Bulldoze": "28",
+            "Swift": "32",
+            "Rock Tomb": "36",
+            "Low Sweep": "39",
+            "Fling": "43",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Dig": "55",
+            "Brick Break": "58",
+            "U-turn": "60",
+            "Shadow Claw": "61",
+            "Bulk Up": "64",
+            "Body Slam": "66",
+            "Fire Punch": "67",
+            "Thunder Punch": "68",
+            "Ice Punch": "69",
+            "Sleep Talk": "70",
+            "Seed Bomb": "71",
+            "Drain Punch": "73",
+            "Metronome": "80",
+            "Poison Jab": "83",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Taunt": "87",
+            "Gunk Shot": "102",
+            "Substitute": "103",
+            "Stealth Rock": "116",
+            "Encore": "122",
+            "Thunderbolt": "126",
+            "Helping Hand": "130",
+            "Reversal": "134",
+            "Earthquake": "149",
+            "Stone Edge": "150",
+            "Giga Impact": "152",
+            "Outrage": "156",
+            "Overheat": "157",
+            "Focus Blast": "158",
+            "Hyper Beam": "163",
+            "Thunder": "166",
+            "Close Combat": "167",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Primeape": [
+            "Always furious and tenacious to boot. It will not abandon chasing its quarry until it is caught.",
+            "It stops being angry only when nobody else is around. To view this moment is very difficult.",
+            "If approached while asleep, it may awaken and angrily give chase in a groggy state of semi-sleep.",
+            "It becomes wildly furious if it even senses someone looking at it. It chases anyone that meets its glare.",
+            "It will beat up anyone who makes it mad, even if it has to chase them until the end of the world.",
+            "When PRIMEAPE becomes furious, its blood circulation is boosted. In turn, its muscles are made even stronger. However, it also becomes much less intelligent at the same time.",
+            "It is always outrageously furious. If it gives chase, it will tenaciously track the target no matter how far.",
+            "Always furious and tenacious to boot. It will not abandon chasing its quarry until it catches up.",
+            "When it becomes furious, its blood circulation becomes more robust, and its muscles are made stronger. But it also becomes much less intelligent.",
+            "It grows angry if you see its eyes and gets angrier if you run. If you beat it, it gets even madder.",
+            "If approached while asleep, it may awaken and angrily give chase in a groggy state of semi-sleep.",
+            "It becomes wildly furious if it even senses someone looking at it. It chases anyone that meets its glare.",
+            "It grows angry if you see its eyes and gets angrier if you run. If you beat it, it gets even madder.",
+            "It stops being angry only when nobody else is around. To view this moment is very difficult.",
+            "It is always outrageously furious. If it gives chase, it will tenaciously track the target no matter how far.",
+            "When Primeape becomes furious, its blood circulation is boosted. In turn, its muscles are made even stronger. However, it also becomes much less intelligent at the same time.",
+            "It has been known to become so angry that it dies as a result. Its face looks peaceful in death, however.",
+            "Some researchers theorize that Primeape remains angry even when inside a Pok\u00e9 Ball.",
+            "It will never forgive opponents who have angered it. Even after it has beaten them down until they can\u2019t move, it never ever forgives.",
+            "The blood vessels in its brain are sturdier than those of other Pok\u00e9mon, so it can stay healthy despite its constant raging.",
+            "It stops being angry only when nobody else is around. To view this moment is very difficult.",
+            "It becomes angry if it sees an opponent\u2019s eyes and gets angrier if the opponent runs. Even after it beats the opponent, it is still angry.",
+            "It becomes wildly furious if it even senses someone looking at it. It chases anyone that meets its glare.",
+            "Some researchers theorize that Primeape remains angry even when inside a Pok\u00e9 Ball."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787035787665518/57.png",
+    "discord_sprite": "<:P57:1132115228046405662>"
+}

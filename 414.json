@@ -1,0 +1,248 @@
+{
+    "alt-version(s)": [],
+    "name": "Mothim",
+    "Mothim": {
+        "pokedex_data": {
+            "National No.": "0414",
+            "Type": [
+                "Bug",
+                "Flying"
+            ],
+            "Species": "Moth Poke\u0301mon",
+            "Height": "0.9 m (2\u203211\u2032\u2032)",
+            "Weight": "23.3 kg (51.4 lbs)",
+            "Abilities": {
+                "Swarm": {
+                    "href": "/ability/swarm",
+                    "effect": "Powers up Bug-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Tinted Lens": {
+                    "href": "/ability/tinted-lens",
+                    "effect": "Powers up \u201cnot very effective\u201d moves.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack, 1 Sp. Atk",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "148",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "100% male,0% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "70",
+                "Min": "250",
+                "Max": "344"
+            },
+            "Attack": {
+                "Base": "94",
+                "Min": "173",
+                "Max": "315"
+            },
+            "Defense": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Atk": {
+                "Base": "94",
+                "Min": "173",
+                "Max": "315"
+            },
+            "Sp. Def": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Speed": {
+                "Base": "66",
+                "Min": "123",
+                "Max": "254"
+            },
+            "Total": "424"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Electric": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Ground": "no effect",
+                "Flying": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Burmy",
+                    "nationalNo": "#0412",
+                    "type": [
+                        "Bug"
+                    ],
+                    "nickname": "All forms"
+                },
+                "to": {
+                    "name": "Mothim",
+                    "nationalNo": "#0414",
+                    "type": [
+                        "Bug",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 20, Male)",
+                "shed": null
+            }
+        ],
+        [
+            {
+                "from": {
+                    "name": "Burmy",
+                    "nationalNo": "#0412",
+                    "type": [
+                        "Bug"
+                    ],
+                    "nickname": "Plant Cloak"
+                },
+                "to": {
+                    "name": "Wormadam",
+                    "nationalNo": "#0413",
+                    "type": [
+                        "Bug",
+                        "Grass"
+                    ],
+                    "nickname": "Plant Cloak"
+                },
+                "requirement": "(Level 20, Female, in grass)",
+                "shed": null
+            }
+        ],
+        [
+            {
+                "from": {
+                    "name": "Burmy",
+                    "nationalNo": "#0412",
+                    "type": [
+                        "Bug"
+                    ],
+                    "nickname": "Sandy Cloak"
+                },
+                "to": {
+                    "name": "Wormadam",
+                    "nationalNo": "#0413",
+                    "type": [
+                        "Bug",
+                        "Ground"
+                    ],
+                    "nickname": "Sandy Cloak"
+                },
+                "requirement": "(Level 20, Female, in caves)",
+                "shed": null
+            }
+        ],
+        [
+            {
+                "from": {
+                    "name": "Burmy",
+                    "nationalNo": "#0412",
+                    "type": [
+                        "Bug"
+                    ],
+                    "nickname": "Trash Cloak"
+                },
+                "to": {
+                    "name": "Wormadam",
+                    "nationalNo": "#0413",
+                    "type": [
+                        "Bug",
+                        "Steel"
+                    ],
+                    "nickname": "Trash Cloak"
+                },
+                "requirement": "(Level 20, Female, in buildings)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Bug Bite": "15",
+            "Protect": "10",
+            "Quiver Dance": "1",
+            "Tackle": "1",
+            "String Shot": "20",
+            "Confusion": "23",
+            "Gust": "26",
+            "Poison Powder": "29",
+            "Psybeam": "32",
+            "Roost": "35",
+            "Struggle Bug": "38",
+            "Air Slash": "41",
+            "Psychic": "44",
+            "Lunge": "47",
+            "Bug Buzz": "50"
+        },
+        "evolution": {
+            "Quiver Dance": "\u2014"
+        },
+        "egg": null,
+        "tm": {
+            "Sunny Day": "11",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Giga Drain": "19",
+            "Safeguard": "20",
+            "Solar Beam": "22",
+            "Psychic": "29",
+            "Shadow Ball": "30",
+            "Double Team": "32",
+            "Aerial Ace": "40",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Skill Swap": "48",
+            "Roost": "51",
+            "Energy Ball": "53",
+            "Endure": "58",
+            "Bug Buzz": "62",
+            "Giga Impact": "68",
+            "Flash": "70",
+            "Psych Up": "77",
+            "Sleep Talk": "82",
+            "Dream Eater": "85",
+            "Swagger": "87",
+            "U-turn": "89",
+            "Substitute": "90",
+            "Defog": "97"
+        }
+    },
+    "entries": {
+        "Mothim": [
+            "It loves the honey of flowers and steals honey collected by COMBEE.",
+            "It does not keep a nest. It flies over fields and mountains in constant search of floral honey.",
+            "While it loves floral honey, it won\u2019t gather any itself. Instead, it plots to steal some from COMBEE.",
+            "It flutters around at night and steals honey from the COMBEE hive.",
+            "While it loves floral honey, it won\u2019t gather any itself. Instead, it plots to steal some from Combee.",
+            "It loves the honey of flowers and steals honey collected by Combee.",
+            "It flutters around at night and steals honey from the Combee hive.",
+            "It loves the nectar of flowers and steals nectar collected by Combee.",
+            "It does not keep a nest. It flies over fields and mountains in constant search of its much-beloved nectar.",
+            "Scatters steel-colored scales as it flaps its wings. Despite being observed feeding primarily on the nectar of flowers, Mothim is not often seen around flower gardens."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789830490181664/414.png",
+    "discord_sprite": "<:P414:1132130949107286038>"
+}

@@ -1,0 +1,241 @@
+{
+    "alt-version(s)": [],
+    "name": "Hitmonlee",
+    "Hitmonlee": {
+        "pokedex_data": {
+            "National No.": "0106",
+            "Type": [
+                "Fighting"
+            ],
+            "Species": "Kicking Poke\u0301mon",
+            "Height": "1.5 m (4\u203211\u2032\u2032)",
+            "Weight": "49.8 kg (109.8 lbs)",
+            "Abilities": {
+                "Limber": {
+                    "href": "/ability/limber",
+                    "effect": "The Pok\u00e9mon is protected from paralysis.",
+                    "hidden": false
+                },
+                "Reckless": {
+                    "href": "/ability/reckless",
+                    "effect": "Powers up moves that have recoil damage.",
+                    "hidden": false
+                },
+                "Unburden": {
+                    "href": "/ability/unburden",
+                    "effect": "Raises Speed if a held item is used.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "159",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "100% male,0% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "50",
+                "Min": "210",
+                "Max": "304"
+            },
+            "Attack": {
+                "Base": "120",
+                "Min": "220",
+                "Max": "372"
+            },
+            "Defense": {
+                "Base": "53",
+                "Min": "99",
+                "Max": "225"
+            },
+            "Sp. Atk": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Sp. Def": {
+                "Base": "110",
+                "Min": "202",
+                "Max": "350"
+            },
+            "Speed": {
+                "Base": "87",
+                "Min": "161",
+                "Max": "300"
+            },
+            "Total": "455"
+        },
+        "defense_stats": {
+            "default": {
+                "Flying": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Dark": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Tyrogue",
+                    "nationalNo": "#0236",
+                    "type": [
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Hitmonlee",
+                    "nationalNo": "#0106",
+                    "type": [
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 20, Attack > Defense)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Tyrogue",
+                    "nationalNo": "#0236",
+                    "type": [
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Hitmonchan",
+                    "nationalNo": "#0107",
+                    "type": [
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 20, Attack < Defense)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Tyrogue",
+                    "nationalNo": "#0236",
+                    "type": [
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Hitmontop",
+                    "nationalNo": "#0237",
+                    "type": [
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 20, Attack = Defense)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Brick Break": "1",
+            "Fake Out": "1",
+            "Feint": "1",
+            "Focus Energy": "1",
+            "Helping Hand": "1",
+            "Low Sweep": "1",
+            "Tackle": "1",
+            "Double Kick": "4",
+            "Low Kick": "8",
+            "Endure": "12",
+            "Revenge": "16",
+            "Wide Guard": "21",
+            "Blaze Kick": "24",
+            "Mind Reader": "28",
+            "Mega Kick": "32",
+            "Close Combat": "36",
+            "Reversal": "40",
+            "High Jump Kick": "44"
+        },
+        "evolution": {
+            "Brick Break": "75"
+        },
+        "egg": {
+            "Bullet Punch": null,
+            "Counter": null,
+            "Feint": null,
+            "Helping Hand": null,
+            "High Jump Kick": null,
+            "Mach Punch": null,
+            "Mind Reader": null,
+            "Rapid Spin": null,
+            "Vacuum Wave": null
+        },
+        "tm": {
+            "Focus Punch": "01",
+            "Bulk Up": "08",
+            "Work Up": "10",
+            "Sunny Day": "11",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Earthquake": "26",
+            "Low Sweep": "27",
+            "Brick Break": "31",
+            "Double Team": "32",
+            "Rock Tomb": "39",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Focus Blast": "52",
+            "Fling": "56",
+            "Endure": "58",
+            "Stone Edge": "71",
+            "Rock Slide": "80",
+            "Sleep Talk": "82",
+            "Bulldoze": "83",
+            "Poison Jab": "84",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Strength": "96",
+            "Rock Smash": "98",
+            "Rock Climb": "100"
+        }
+    },
+    "entries": {
+        "Hitmonlee": [
+            "When in a hurry, its legs lengthen progressively. It runs smoothly with extra long, loping strides.",
+            "When kicking, the sole of its foot turns as hard as a diamond on impact and destroys its enemy.",
+            "This amazing pok\u00e9mon has an awesome sense of balance. It can kick in succession from any position.",
+            "If it starts kicking repeatedly, both legs will stretch even longer to strike a fleeing foe.",
+            "It is also called the Kick Master. It uses its elastic legs to execute every known kick.",
+            "HITMONLEE\u2019s legs freely contract and stretch. Using these springlike legs, it bowls over foes with devastating kicks. After battle, it rubs down its legs and loosens the muscles to overcome fatigue.",
+            "The legs freely contract and stretch. The stretchy legs allow it to hit a distant foe with a rising kick.",
+            "When in a hurry, its legs lengthen progressively. It runs smoothly with extra-long, loping strides.",
+            "Its legs freely stretch and contract. Using these springlike limbs, it bowls over foes with devastating kicks. After battle, it rubs down its tired legs.",
+            "Its legs can stretch double. First-time foes are startled by its extensible reach.",
+            "This amazing Pok\u00e9mon has an awesome sense of balance. It can kick in succession from any position.",
+            "If it starts kicking repeatedly, both legs will stretch even longer to strike a fleeing foe.",
+            "Its legs can stretch double. First-time foes are startled by its extensible reach.",
+            "The legs freely contract and stretch. The stretchy legs allow it to hit a distant foe with a rising kick.",
+            "If it starts kicking repeatedly, both legs will stretch even longer to strike a fleeing foe.",
+            "Hitmonlee\u2019s legs freely contract and stretch. Using these springlike legs, it bowls over foes with devastating kicks. After battle, it rubs down its legs and loosens the muscles to overcome fatigue.",
+            "When kicking, the sole of its foot turns as hard as a diamond on impact and destroys its enemy.",
+            "This amazing Pok\u00e9mon has an awesome sense of balance. It can kick in succession from any position.",
+            "The legs freely contract and stretch. The stretchy legs allow it to hit a distant foe with a rising kick.",
+            "Its legs can stretch to double their length. First-time foes are startled by Hitmonlee\u2019s extensible reach."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787419256098937/106.png",
+    "discord_sprite": "<:P106:1132117387488014436>"
+}

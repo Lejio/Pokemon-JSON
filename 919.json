@@ -1,0 +1,155 @@
+{
+    "alt-version(s)": [],
+    "name": "Nymble",
+    "Nymble": {
+        "pokedex_data": {
+            "National No.": "0919",
+            "Type": [
+                "Bug"
+            ],
+            "Species": "Grasshopper Poke\u0301mon",
+            "Height": "0.2 m (0\u203208\u2032\u2032)",
+            "Weight": "1.0 kg (2.2 lbs)",
+            "Abilities": {
+                "Swarm": {
+                    "href": "/ability/swarm",
+                    "effect": "Powers up Bug-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Tinted Lens": {
+                    "href": "/ability/tinted-lens",
+                    "effect": "Powers up \u201cnot very effective\u201d moves.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack",
+            "Catch rate": "190",
+            "BaseFriendship": "20",
+            "Base Exp.": "42",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "33",
+                "Min": "176",
+                "Max": "270"
+            },
+            "Attack": {
+                "Base": "46",
+                "Min": "87",
+                "Max": "210"
+            },
+            "Defense": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Atk": {
+                "Base": "21",
+                "Min": "42",
+                "Max": "155"
+            },
+            "Sp. Def": {
+                "Base": "25",
+                "Min": "49",
+                "Max": "163"
+            },
+            "Speed": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Total": "210"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Grass": "not very effective",
+                "Fighting": "not very effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Rock": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Nymble",
+                    "nationalNo": "#0919",
+                    "type": [
+                        "Bug"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Lokix",
+                    "nationalNo": "#0920",
+                    "type": [
+                        "Bug",
+                        "Dark"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 24)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Leer": "1",
+            "Tackle": "1",
+            "Struggle Bug": "4",
+            "Astonish": "6",
+            "Assurance": "9",
+            "Double Kick": "11",
+            "Screech": "14",
+            "Endure": "18",
+            "Bug Bite": "22",
+            "Feint": "26",
+            "Agility": "30",
+            "Sucker Punch": "38",
+            "First Impression": "41"
+        },
+        "egg": {
+            "Counter": null,
+            "Skitter Smack": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Agility": "04",
+            "Protect": "07",
+            "Struggle Bug": "15",
+            "Thief": "18",
+            "Trailblaze": "20",
+            "Pounce": "21",
+            "Facade": "25",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "U-turn": "60",
+            "Sleep Talk": "70",
+            "Rest": "85",
+            "Leech Life": "95",
+            "Substitute": "103",
+            "X-Scissor": "105",
+            "Bug Buzz": "162",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Nymble": [
+            "It has its third set of legs folded up. When it\u2019s in a tough spot, this Pok\u00e9mon jumps over 30 feet using the strength of its legs.",
+            "It\u2019s highly skilled at a fighting style in which it uses its jumping capabilities to dodge incoming attacks while also dealing damage to opponents."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793768551567410/919.png",
+    "discord_sprite": "<:P919:1132153234211995698>"
+}

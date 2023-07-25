@@ -1,0 +1,219 @@
+{
+    "alt-version(s)": [],
+    "name": "Primarina",
+    "Primarina": {
+        "pokedex_data": {
+            "National No.": "0730",
+            "Type": [
+                "Water",
+                "Fairy"
+            ],
+            "Species": "Soloist Poke\u0301mon",
+            "Height": "1.8 m (5\u203211\u2032\u2032)",
+            "Weight": "44.0 kg (97.0 lbs)",
+            "Abilities": {
+                "Torrent": {
+                    "href": "/ability/torrent",
+                    "effect": "Powers up Water-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Liquid Voice": {
+                    "href": "/ability/liquid-voice",
+                    "effect": "All sound-based moves become Water-type moves.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Sp. Atk",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "239",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "80",
+                "Min": "270",
+                "Max": "364"
+            },
+            "Attack": {
+                "Base": "74",
+                "Min": "137",
+                "Max": "271"
+            },
+            "Defense": {
+                "Base": "74",
+                "Min": "137",
+                "Max": "271"
+            },
+            "Sp. Atk": {
+                "Base": "126",
+                "Min": "231",
+                "Max": "386"
+            },
+            "Sp. Def": {
+                "Base": "116",
+                "Min": "213",
+                "Max": "364"
+            },
+            "Speed": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Total": "530"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "not very effective",
+                "Poison": "super-effective",
+                "Bug": "not very effective",
+                "Dragon": "no effect",
+                "Dark": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Popplio",
+                    "nationalNo": "#0728",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Brionne",
+                    "nationalNo": "#0729",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 17)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Brionne",
+                    "nationalNo": "#0729",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Primarina",
+                    "nationalNo": "#0730",
+                    "type": [
+                        "Water",
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 34)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Disarming Voice": "1",
+            "Growl": "1",
+            "Pound": "1",
+            "Sparkling Aria": "1",
+            "Water Gun": "1",
+            "Aqua Jet": "9",
+            "Baby-Doll Eyes": "12",
+            "Icy Wind": "15",
+            "Sing": "20",
+            "Bubble Beam": "25",
+            "Encore": "30",
+            "Misty Terrain": "37",
+            "Hyper Voice": "44",
+            "Moonblast": "51",
+            "Hydro Pump": "58"
+        },
+        "evolution": {
+            "Sparkling Aria": "90"
+        },
+        "egg": {
+            "Aqua Ring": null,
+            "Life Dew": null,
+            "Perish Song": null
+        },
+        "null": {
+            "Hydro Pump": "03",
+            "Surf": "04",
+            "Ice Beam": "05",
+            "Blizzard": "06",
+            "Psychic": "11",
+            "Waterfall": "16",
+            "Amnesia": "17",
+            "Substitute": "20",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Encore": "30",
+            "Iron Tail": "31",
+            "Shadow Ball": "33",
+            "Uproar": "35",
+            "Hyper Voice": "42",
+            "Calm Mind": "49",
+            "Energy Ball": "65",
+            "Stored Power": "82",
+            "Scald": "84",
+            "Work Up": "85",
+            "Play Rough": "90",
+            "Dazzling Gleam": "92",
+            "Liquidation": "98"
+        },
+        "tm": {
+            "Hyper Beam": "08",
+            "Giga Impact": "09",
+            "Light Screen": "17",
+            "Reflect": "18",
+            "Rest": "21",
+            "Snore": "24",
+            "Protect": "25",
+            "Icy Wind": "27",
+            "Charm": "29",
+            "Attract": "31",
+            "Rain Dance": "33",
+            "Hail": "35",
+            "Whirlpool": "36",
+            "Facade": "39",
+            "Helping Hand": "41",
+            "Dive": "45",
+            "Weather Ball": "46",
+            "Brine": "55",
+            "Wonder Room": "71",
+            "Round": "76",
+            "Acrobatics": "78",
+            "Draining Kiss": "87",
+            "Misty Terrain": "89"
+        }
+    },
+    "entries": {
+        "Primarina": [
+            "It controls its water balloons with song. The melody is learned from others of its kind and is passed down from one generation to the next.",
+            "Its singing voice is its chief weapon in battle. This Pok\u00e9mon\u2019s Trainer must prioritize the daily maintenance of its throat at all costs.",
+            "To Primarina, every battle is a stage. It takes down its prey with beautiful singing and dancing.",
+            "Also known as a songstress, it has a fantastical look on moonlit nights when it leads its colony in song.",
+            "With its mouth, it makes sonic waves that sound like beautiful singing. It uses the sonic waves to control its water balloons.",
+            "For Primarina, every battle\u2019s a stage. Its singing and the dancing of its balloons will mesmerize the audience."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792299483992205/730.png",
+    "discord_sprite": "<:P730:1132144854365908992>"
+}

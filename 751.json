@@ -1,0 +1,186 @@
+{
+    "alt-version(s)": [],
+    "name": "Dewpider",
+    "Dewpider": {
+        "pokedex_data": {
+            "National No.": "0751",
+            "Type": [
+                "Water",
+                "Bug"
+            ],
+            "Species": "Water Bubble Poke\u0301mon",
+            "Height": "0.3 m (1\u203200\u2032\u2032)",
+            "Weight": "4.0 kg (8.8 lbs)",
+            "Abilities": {
+                "Water Bubble": {
+                    "href": "/ability/water-bubble",
+                    "effect": "Halves damage from Fire-type moves, doubles power of Water-type moves used, and prevents burns.",
+                    "hidden": false
+                },
+                "Water Absorb": {
+                    "href": "/ability/water-absorb",
+                    "effect": "Restores HP if hit by a Water-type move.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Sp. Def",
+            "Catch rate": "200",
+            "BaseFriendship": "50",
+            "Base Exp.": "54",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "38",
+                "Min": "186",
+                "Max": "280"
+            },
+            "Attack": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Defense": {
+                "Base": "52",
+                "Min": "98",
+                "Max": "223"
+            },
+            "Sp. Atk": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Def": {
+                "Base": "72",
+                "Min": "134",
+                "Max": "267"
+            },
+            "Speed": {
+                "Base": "27",
+                "Min": "53",
+                "Max": "168"
+            },
+            "Total": "269"
+        },
+        "defense_stats": {
+            "Water Bubble ability": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "not very effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Rock": "super-effective",
+                "Steel": "not very effective"
+            },
+            "Water Absorb ability": {
+                "Water": "no effect",
+                "Electric": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "not very effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Rock": "super-effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Dewpider",
+                    "nationalNo": "#0751",
+                    "type": [
+                        "Water",
+                        "Bug"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Araquanid",
+                    "nationalNo": "#0752",
+                    "type": [
+                        "Water",
+                        "Bug"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 22)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Infestation": "1",
+            "Water Gun": "1",
+            "Bug Bite": "4",
+            "Bite": "8",
+            "Bubble Beam": "12",
+            "Aqua Ring": "16",
+            "Headbutt": "20",
+            "Crunch": "24",
+            "Soak": "28",
+            "Entrainment": "32",
+            "Lunge": "36",
+            "Liquidation": "40",
+            "Leech Life": "44",
+            "Mirror Coat": "48"
+        },
+        "egg": {
+            "Power Split": null,
+            "Spit Up": null,
+            "Sticky Web": null,
+            "Stockpile": null
+        },
+        "null": {
+            "Surf": "04",
+            "Ice Beam": "05",
+            "Blizzard": "06",
+            "Waterfall": "16",
+            "Leech Life": "18",
+            "Substitute": "20",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Crunch": "32",
+            "Iron Defense": "46",
+            "Poison Jab": "57",
+            "X-Scissor": "60",
+            "Bug Buzz": "61",
+            "Scald": "84",
+            "Liquidation": "98"
+        },
+        "tm": {
+            "Rest": "21",
+            "Snore": "24",
+            "Protect": "25",
+            "Icy Wind": "27",
+            "Giga Drain": "28",
+            "Attract": "31",
+            "Rain Dance": "33",
+            "Facade": "39",
+            "Wonder Room": "71",
+            "Magic Room": "72",
+            "Round": "76"
+        }
+    },
+    "entries": {
+        "Dewpider": [
+            "It crawls onto the land in search of food. Its water bubble allows it to breathe and protects its soft head.",
+            "When it comes across enemies or potential prey, this Pok\u00e9mon smashes its water-bubble-covered head into them.",
+            "When two Dewpider meet, they display their water bubbles to each other. Then the one with the smaller bubble gets out of the other\u2019s way.",
+            "It can only breathe oxygen that has dissolved in water, so it wears a water bubble on its head when it walks around on land.",
+            "It forms a water bubble at the rear of its body and then covers its head with it. Meeting another Dewpider means comparing water-bubble sizes.",
+            "Dewpider normally lives underwater. When it comes onto land in search of food, it takes water with it in the form of a bubble on its head."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792462378180620/751.png",
+    "discord_sprite": "<:P751:1132145847988146266>"
+}

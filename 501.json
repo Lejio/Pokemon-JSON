@@ -1,0 +1,223 @@
+{
+    "alt-version(s)": [],
+    "name": "Oshawott",
+    "Oshawott": {
+        "pokedex_data": {
+            "National No.": "0501",
+            "Type": [
+                "Water"
+            ],
+            "Species": "Sea Otter Poke\u0301mon",
+            "Height": "0.5 m (1\u203208\u2032\u2032)",
+            "Weight": "5.9 kg (13.0 lbs)",
+            "Abilities": {
+                "Torrent": {
+                    "href": "/ability/torrent",
+                    "effect": "Powers up Water-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Shell Armor": {
+                    "href": "/ability/shell-armor",
+                    "effect": "The Pok\u00e9mon is protected against critical hits.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Sp. Atk",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "62",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "55",
+                "Min": "220",
+                "Max": "314"
+            },
+            "Attack": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Defense": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Sp. Atk": {
+                "Base": "63",
+                "Min": "117",
+                "Max": "247"
+            },
+            "Sp. Def": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Speed": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Total": "308"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Oshawott",
+                    "nationalNo": "#0501",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Dewott",
+                    "nationalNo": "#0502",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 17)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Dewott",
+                    "nationalNo": "#0502",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Samurott",
+                    "nationalNo": "#0503",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 36)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Dewott",
+                    "nationalNo": "#0502",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Samurott",
+                    "nationalNo": "#0503",
+                    "type": [
+                        "Water",
+                        "Dark"
+                    ],
+                    "nickname": "Hisuian Samurott"
+                },
+                "requirement": "(Level 36, in Legends: Arceus)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Tackle": "1",
+            "Tail Whip": "5",
+            "Water Gun": "7",
+            "Soak": "11",
+            "Focus Energy": "13",
+            "Razor Shell": "17",
+            "Fury Cutter": "19",
+            "Water Pulse": "23",
+            "Aerial Ace": "25",
+            "Aqua Jet": "29",
+            "Encore": "31",
+            "Aqua Tail": "35",
+            "Retaliate": "37",
+            "Swords Dance": "41",
+            "Hydro Pump": "43"
+        },
+        "egg": {
+            "Air Slash": null,
+            "Aqua Cutter": null,
+            "Copycat": null,
+            "Detect": null,
+            "Knock Off": null,
+            "Night Slash": null,
+            "Sacred Sword": null,
+            "Screech": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Protect": "07",
+            "Water Pulse": "11",
+            "Thief": "18",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Swift": "32",
+            "Icy Wind": "34",
+            "Fling": "43",
+            "Avalanche": "46",
+            "Endure": "47",
+            "Rain Dance": "50",
+            "Snowscape": "52",
+            "Dig": "55",
+            "False Swipe": "57",
+            "Air Slash": "65",
+            "Sleep Talk": "70",
+            "Waterfall": "77",
+            "Grass Knot": "81",
+            "Rest": "85",
+            "Taunt": "87",
+            "Swords Dance": "88",
+            "Substitute": "103",
+            "X-Scissor": "105",
+            "Liquidation": "110",
+            "Encore": "122",
+            "Surf": "123",
+            "Helping Hand": "130",
+            "Ice Beam": "135",
+            "Hydro Pump": "142",
+            "Blizzard": "143",
+            "Water Pledge": "145",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Oshawott": [
+            "It fights using the scalchop on its stomach. In response to an attack, it retaliates immediately by slashing.",
+            "The scalchop on its stomach is made from the same elements as claws. It detaches the scalchop for use as a blade.",
+            "The scalchop on its stomach isn\u2019t just used for battle--it can be used to break open hard berries as well.",
+            "The scalchop on its stomach isn\u2019t just used for battle--it can be used to break open hard berries as well.",
+            "It fights using the scalchop on its stomach. In response to an attack, it retaliates immediately by slashing.",
+            "The scalchop on its stomach isn\u2019t just used for battle\u2014it can be used to break open hard berries as well.",
+            "This Pok\u00e9mon from the Unova region uses the shell on its belly as a weapon to cut down its foes. Thus, I\u2019ve conferred upon this shell the name \u201cscalchop.\u201d"
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790506452582531/501.png",
+    "discord_sprite": "<:P501:1132134775784747028>"
+}

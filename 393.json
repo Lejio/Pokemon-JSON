@@ -1,0 +1,202 @@
+{
+    "alt-version(s)": [],
+    "name": "Piplup",
+    "Piplup": {
+        "pokedex_data": {
+            "National No.": "0393",
+            "Type": [
+                "Water"
+            ],
+            "Species": "Penguin Poke\u0301mon",
+            "Height": "0.4 m (1\u203204\u2032\u2032)",
+            "Weight": "5.2 kg (11.5 lbs)",
+            "Abilities": {
+                "Torrent": {
+                    "href": "/ability/torrent",
+                    "effect": "Powers up Water-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Defiant": {
+                    "href": "/ability/defiant",
+                    "effect": "Sharply raises Attack when the Pok\u00e9mon's stats are lowered.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Sp. Atk",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "63",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "53",
+                "Min": "216",
+                "Max": "310"
+            },
+            "Attack": {
+                "Base": "51",
+                "Min": "96",
+                "Max": "221"
+            },
+            "Defense": {
+                "Base": "53",
+                "Min": "99",
+                "Max": "225"
+            },
+            "Sp. Atk": {
+                "Base": "61",
+                "Min": "114",
+                "Max": "243"
+            },
+            "Sp. Def": {
+                "Base": "56",
+                "Min": "105",
+                "Max": "232"
+            },
+            "Speed": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Total": "314"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Piplup",
+                    "nationalNo": "#0393",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Prinplup",
+                    "nationalNo": "#0394",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 16)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Prinplup",
+                    "nationalNo": "#0394",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Empoleon",
+                    "nationalNo": "#0395",
+                    "type": [
+                        "Water",
+                        "Steel"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 36)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Pound": "1",
+            "Growl": "4",
+            "Water Gun": "6",
+            "Charm": "11",
+            "Peck": "15",
+            "Bubble Beam": "18",
+            "Swagger": "22",
+            "Fury Attack": "25",
+            "Brine": "29",
+            "Whirlpool": "32",
+            "Mist": "36",
+            "Drill Peck": "39",
+            "Hydro Pump": "43"
+        },
+        "egg": {
+            "Agility": null,
+            "Aqua Ring": null,
+            "Double Hit": null,
+            "Feather Dance": null,
+            "Flail": null,
+            "Hydro Pump": null,
+            "Icy Wind": null,
+            "Mud-Slap": null,
+            "Snore": null,
+            "Supersonic": null,
+            "Yawn": null
+        },
+        "tm": {
+            "Water Pulse": "03",
+            "Hail": "07",
+            "Work Up": "10",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Dig": "28",
+            "Brick Break": "31",
+            "Double Team": "32",
+            "Rock Tomb": "39",
+            "Aerial Ace": "40",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Scald": "49",
+            "Brine": "55",
+            "Fling": "56",
+            "Endure": "58",
+            "Stealth Rock": "76",
+            "Sleep Talk": "82",
+            "Grass Knot": "86",
+            "Swagger": "87",
+            "Pluck": "88",
+            "Substitute": "90",
+            "Cut": "93",
+            "Surf": "95",
+            "Defog": "97",
+            "Waterfall": "99"
+        }
+    },
+    "entries": {
+        "Piplup": [
+            "Because it is very proud, it hates accepting food from people. Its thick down guards it from cold.",
+            "It lives along shores in northern countries. A skilled swimmer, it dives for over 10 minutes to hunt.",
+            "A poor walker, it often falls down. However, its strong pride makes it puff up its chest without a care.",
+            "It doesn\u2019t like to be taken care of. It\u2019s difficult to bond with since it won\u2019t listen to its Trainer.",
+            "A poor walker, it often falls down. However, its strong pride makes it puff up its chest without a care.",
+            "It doesn\u2019t like to be taken care of. It\u2019s difficult to bond with since it won\u2019t listen to its Trainer.",
+            "Because it is very proud, it hates accepting food from people. Its thick down guards it from cold.",
+            "Because it is very proud, it hates accepting food from people. Its thick down guards it from cold.",
+            "It lives along the shore in northern countries. A skilled swimmer, it dives for over 10 minutes while hunting.",
+            "Prefers cold climes and appears along coasts. It\u2019s an adorable little thing\u2014as cute as any child\u2014but it\u2019s also prideful, unwilling to accept handouts from people."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789670196445325/393.png",
+    "discord_sprite": "<:P393:1132130025865486366>"
+}

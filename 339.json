@@ -1,0 +1,201 @@
+{
+    "alt-version(s)": [],
+    "name": "Barboach",
+    "Barboach": {
+        "pokedex_data": {
+            "National No.": "0339",
+            "Type": [
+                "Water",
+                "Ground"
+            ],
+            "Species": "Whiskers Poke\u0301mon",
+            "Height": "0.4 m (1\u203204\u2032\u2032)",
+            "Weight": "1.9 kg (4.2 lbs)",
+            "Abilities": {
+                "Oblivious": {
+                    "href": "/ability/oblivious",
+                    "effect": "Prevents it from becoming infatuated.",
+                    "hidden": false
+                },
+                "Anticipation": {
+                    "href": "/ability/anticipation",
+                    "effect": "Senses a foe's dangerous moves.",
+                    "hidden": false
+                },
+                "Hydration": {
+                    "href": "/ability/hydration",
+                    "effect": "Heals status problems if it is raining.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 HP",
+            "Catch rate": "190",
+            "BaseFriendship": "50",
+            "Base Exp.": "58",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "50",
+                "Min": "210",
+                "Max": "304"
+            },
+            "Attack": {
+                "Base": "48",
+                "Min": "90",
+                "Max": "214"
+            },
+            "Defense": {
+                "Base": "43",
+                "Min": "81",
+                "Max": "203"
+            },
+            "Sp. Atk": {
+                "Base": "46",
+                "Min": "87",
+                "Max": "210"
+            },
+            "Sp. Def": {
+                "Base": "41",
+                "Min": "78",
+                "Max": "199"
+            },
+            "Speed": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Total": "288"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Electric": "no effect",
+                "Grass": "super-effective",
+                "Poison": "not very effective",
+                "Rock": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Barboach",
+                    "nationalNo": "#0339",
+                    "type": [
+                        "Water",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Whiscash",
+                    "nationalNo": "#0340",
+                    "type": [
+                        "Water",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 30)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Mud-Slap": "1",
+            "Water Gun": "1",
+            "Rest": "6",
+            "Snore": "6",
+            "Water Pulse": "12",
+            "Amnesia": "18",
+            "Aqua Tail": "24",
+            "Muddy Water": "31",
+            "Earthquake": "36",
+            "Future Sight": "42",
+            "Fissure": "48"
+        },
+        "egg": {
+            "Flail": null,
+            "Spark": null,
+            "Take Down": null,
+            "Thrash": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Mud-Slap": "05",
+            "Protect": "07",
+            "Water Pulse": "11",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Bulldoze": "28",
+            "Swift": "32",
+            "Icy Wind": "34",
+            "Mud Shot": "35",
+            "Rock Tomb": "36",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Sandstorm": "51",
+            "Zen Headbutt": "59",
+            "Sleep Talk": "70",
+            "Waterfall": "77",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Dragon Dance": "100",
+            "Substitute": "103",
+            "Liquidation": "110",
+            "Stealth Rock": "116",
+            "Surf": "123",
+            "Amnesia": "128",
+            "Helping Hand": "130",
+            "Earth Power": "133",
+            "Ice Beam": "135",
+            "Hydro Pump": "142",
+            "Blizzard": "143",
+            "Earthquake": "149",
+            "Stone Edge": "150",
+            "Outrage": "156",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Barboach": [
+            "BARBOACH\u2019s sensitive whiskers serve as a superb radar system. This pok\u00e9mon hides in mud, leaving only its two whiskers exposed while it waits for prey to come along.",
+            "BARBOACH\u2019s body is covered with a slimy film. If a foe grabs it, this pok\u00e9mon just slips out of the enemy\u2019s grip. This pok\u00e9mon grows weak if the slimy coating dries up.",
+            "It probes muddy riverbeds with its two long whiskers. A slimy film protects its body.",
+            "Its body is covered with a slimy film. The film acts as a barrier to prevent germs in muddy water from entering the BARBOACH\u2019s body.",
+            "It coats its entire body with a slimy fluid so it can squirm and slip away if grabbed.",
+            "Its whiskers make a superb radar. They are used to locate prey, even in the murkiest of water.",
+            "Its slimy body is hard to grasp. In one region, it is said to have been born from hardened mud.",
+            "BARBOACH uses its whiskers to taste things just as a person uses his or her tongue to taste things.",
+            "Its slimy body is hard to grasp. In one region, it is said to have been born from hardened mud.",
+            "It coats its entire body with a slimy fluid so it can squirm and slip away if grabbed.",
+            "Its whiskers make a superb radar. They are used to locate prey, even in the murkiest of water.",
+            "Barboach\u2019s sensitive whiskers serve as a superb radar system. This Pok\u00e9mon hides in mud, leaving only its two whiskers exposed while it waits for prey to come along.",
+            "Barboach\u2019s body is covered with a slimy film. If a foe grabs it, this Pok\u00e9mon just slips out of the enemy\u2019s grip. This Pok\u00e9mon grows weak if the slimy coating dries up.",
+            "Its two whiskers provide a sensitive radar. Even in muddy waters, it can detect its prey\u2019s location.",
+            "Its slippery body is hard to grasp, so much so that there are festivals where people compete to see how many they can catch barehanded.",
+            "Its entire body is gooey. When pecked at by bird Pok\u00e9mon, it slips and slides its way to freedom.",
+            "Its whiskers are filled with nerves. They can sense smells and flavors just as a person\u2019s nose or tongue would.",
+            "Its slimy body is hard to grasp. In one region, it is said to have been born from hardened mud.",
+            "It probes muddy riverbeds with its two long whiskers. A slimy film protects its body.",
+            "It coats its entire body with a slimy fluid so it can squirm and slip away if grabbed.",
+            "Its whiskers make a superb radar. They are used to locate prey, even in the murkiest of water.",
+            "Makes its home in swamps with murky water. The poor visibility hides this Pok\u00e9mon from predators, and the slime on its body makes grasping it difficult.",
+            "Its two whiskers provide a sensitive radar. Even in muddy waters, it can detect its prey\u2019s location.",
+            "It probes muddy riverbeds with its two long whiskers. A slimy film protects its body."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789250002702426/339.png",
+    "discord_sprite": "<:P339:1132127655387484180>"
+}

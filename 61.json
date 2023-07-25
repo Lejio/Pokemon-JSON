@@ -1,0 +1,250 @@
+{
+    "alt-version(s)": [],
+    "name": "Poliwhirl",
+    "Poliwhirl": {
+        "pokedex_data": {
+            "National No.": "0061",
+            "Type": [
+                "Water"
+            ],
+            "Species": "Tadpole Poke\u0301mon",
+            "Height": "1.0 m (3\u203203\u2032\u2032)",
+            "Weight": "20.0 kg (44.1 lbs)",
+            "Abilities": {
+                "Water Absorb": {
+                    "href": "/ability/water-absorb",
+                    "effect": "Restores HP if hit by a Water-type move.",
+                    "hidden": false
+                },
+                "Damp": {
+                    "href": "/ability/damp",
+                    "effect": "Prevents the use of self-destructing moves.",
+                    "hidden": false
+                },
+                "Swift Swim": {
+                    "href": "/ability/swift-swim",
+                    "effect": "Boosts the Pok\u00e9mon's Speed in rain.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Speed",
+            "Catch rate": "120",
+            "BaseFriendship": "50",
+            "Base Exp.": "135",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "65",
+                "Min": "240",
+                "Max": "334"
+            },
+            "Attack": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Defense": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Atk": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Def": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Speed": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Total": "385"
+        },
+        "defense_stats": {
+            "Water Absorb ability": {
+                "Fire": "not very effective",
+                "Water": "no effect",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Steel": "not very effective"
+            },
+            "Damp ability": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Steel": "not very effective"
+            },
+            "Swift Swim ability": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Poliwag",
+                    "nationalNo": "#0060",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Poliwhirl",
+                    "nationalNo": "#0061",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 25)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Poliwhirl",
+                    "nationalNo": "#0061",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Poliwrath",
+                    "nationalNo": "#0062",
+                    "type": [
+                        "Water",
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Water Stone)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Poliwhirl",
+                    "nationalNo": "#0061",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Politoed",
+                    "nationalNo": "#0186",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(trade holding Kings Rock)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Hypnosis": "1",
+            "Mud Shot": "1",
+            "Pound": "1",
+            "Water Gun": "1",
+            "Bubble Beam": "18",
+            "Rain Dance": "24",
+            "Body Slam": "32",
+            "Earth Power": "40",
+            "Hydro Pump": "48",
+            "Belly Drum": "56",
+            "Double-Edge": "66"
+        },
+        "egg": {
+            "Bubble Beam": null,
+            "Encore": null,
+            "Endeavor": null,
+            "Haze": null,
+            "Mind Reader": null,
+            "Mist": null,
+            "Mud Shot": null,
+            "Splash": null
+        },
+        "tm": {
+            "Focus Punch": "01",
+            "Water Pulse": "03",
+            "Hail": "07",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Earthquake": "26",
+            "Dig": "28",
+            "Psychic": "29",
+            "Brick Break": "31",
+            "Double Team": "32",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Scald": "49",
+            "Fling": "56",
+            "Endure": "58",
+            "Sleep Talk": "82",
+            "Bulldoze": "83",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Surf": "95",
+            "Strength": "96",
+            "Rock Smash": "98",
+            "Waterfall": "99"
+        }
+    },
+    "entries": {
+        "Poliwhirl": [
+            "Capable of living in or out of water. When out of water, it sweats to keep its body slimy.",
+            "Under attack, it uses its belly spiral to put the foe to sleep. It then makes its escape.",
+            "The swirl on its belly subtly undulates. Staring at it may gradually cause drowsiness.",
+            "The skin on most of its body is moist. However, the skin on its belly spiral feels smooth.",
+            "Though it is skilled at walking, it prefers to live underwater where there is less danger.",
+            "The surface of POLIWHIRL\u2019s body is always wet and slick with an oily fluid. Because of this greasy covering, it can easily slip and slide out of the clutches of any enemy in battle.",
+            "Its two legs are well developed. Even though it can live on the ground, it prefers living in water.",
+            "It can live in or out of water. When out of water, it constantly sweats to keep its body slimy.",
+            "Its body surface is always wet and slick with an oily fluid. Because of this greasy covering, it can easily slip and slide out of the clutches of any enemy in battle.",
+            "The spiral pattern on its belly subtly undulates. Staring at it gradually causes drowsiness.",
+            "The swirl on its belly subtly undulates. Staring at it may gradually cause drowsiness.",
+            "The skin on most of its body is moist. However, the skin on its belly spiral feels smooth.",
+            "The spiral pattern on its belly subtly undulates. Staring at it gradually causes drowsiness.",
+            "It can live in or out of water. When out of water, it constantly sweats to keep its body slimy.",
+            "Its two legs are well developed. Even though it can live on the ground, it prefers living in water.",
+            "The surface of Poliwhirl\u2019s body is always wet and slick with a slimy fluid. Because of this slippery covering, it can easily slip and slide out of the clutches of any enemy in battle.",
+            "Although it can live on land, it prefers to stay in the water, where it has fewer natural enemies.",
+            "It marches over the land in search of bug Pok\u00e9mon to eat. Then it takes them underwater so it can dine on them where it\u2019s safe.",
+            "Although it has become capable of living on land, it spends its time in the water, where its prey, fish Pok\u00e9mon, are plentiful.",
+            "Its health suffers when its skin dries out, so be sure to moisturize it diligently.",
+            "Under attack, it uses its belly spiral to put the foe to sleep. It then makes its escape.",
+            "Staring at the swirl on its belly causes drowsiness. This trait of Poliwhirl\u2019s has been used in place of lullabies to get children to go to sleep.",
+            "This Pok\u00e9mon\u2019s sweat is a slimy mucus. When captured, Poliwhirl can slither from its enemies\u2019 grasp and escape.",
+            "The spiral pattern on its belly subtly undulates. Staring at it gradually causes drowsiness."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787068381593671/61.png",
+    "discord_sprite": "<:P61:1132115404093923399>"
+}

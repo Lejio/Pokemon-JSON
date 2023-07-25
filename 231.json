@@ -1,0 +1,195 @@
+{
+    "alt-version(s)": [],
+    "name": "Phanpy",
+    "Phanpy": {
+        "pokedex_data": {
+            "National No.": "0231",
+            "Type": [
+                "Ground"
+            ],
+            "Species": "Long Nose Poke\u0301mon",
+            "Height": "0.5 m (1\u203208\u2032\u2032)",
+            "Weight": "33.5 kg (73.9 lbs)",
+            "Abilities": {
+                "Pickup": {
+                    "href": "/ability/pickup",
+                    "effect": "The Pok\u00e9mon may pick up items.",
+                    "hidden": false
+                },
+                "Sand Veil": {
+                    "href": "/ability/sand-veil",
+                    "effect": "Boosts the Pok\u00e9mon's evasion in a sandstorm.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 HP",
+            "Catch rate": "120",
+            "BaseFriendship": "50",
+            "Base Exp.": "66",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "90",
+                "Min": "290",
+                "Max": "384"
+            },
+            "Attack": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Defense": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Atk": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Def": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Speed": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Total": "330"
+        },
+        "defense_stats": {
+            "default": {
+                "Water": "super-effective",
+                "Electric": "no effect",
+                "Grass": "super-effective",
+                "Ice": "super-effective",
+                "Poison": "not very effective",
+                "Rock": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Phanpy",
+                    "nationalNo": "#0231",
+                    "type": [
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Donphan",
+                    "nationalNo": "#0232",
+                    "type": [
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 25)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Defense Curl": "1",
+            "Growl": "1",
+            "Tackle": "1",
+            "Flail": "6",
+            "Rollout": "10",
+            "Bulldoze": "15",
+            "Endure": "19",
+            "Slam": "24",
+            "Take Down": "28",
+            "Charm": "33",
+            "Last Resort": "37",
+            "Double-Edge": "42"
+        },
+        "egg": {
+            "Ancient Power": null,
+            "Body Slam": null,
+            "Counter": null,
+            "Endeavor": null,
+            "Fissure": null,
+            "Focus Energy": null,
+            "Head Smash": null,
+            "Heavy Slam": null,
+            "High Horsepower": null,
+            "Ice Shard": null,
+            "Play Rough": null,
+            "Snore": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Charm": "02",
+            "Mud-Slap": "05",
+            "Protect": "07",
+            "Thief": "18",
+            "Trailblaze": "20",
+            "Facade": "25",
+            "Bulldoze": "28",
+            "Mud Shot": "35",
+            "Rock Tomb": "36",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Sandstorm": "51",
+            "Dig": "55",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Seed Bomb": "71",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Iron Head": "99",
+            "Gunk Shot": "102",
+            "Substitute": "103",
+            "Stealth Rock": "116",
+            "Hyper Voice": "117",
+            "Heavy Slam": "121",
+            "Encore": "122",
+            "Play Rough": "127",
+            "Helping Hand": "130",
+            "Earth Power": "133",
+            "Earthquake": "149",
+            "Stone Edge": "150",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Phanpy": [
+            "It swings its long snout around playfully, but because it is so strong, that can be dangerous.",
+            "As a sign of affection, it bumps with its snout. However, it is so strong, it may send you flying.",
+            "During the deserted morning hours, it comes ashore where it deftly uses its trunk to take a shower.",
+            "For its nest, PHANPY digs a vertical pit in the ground at the edge of a river. It marks the area around its nest with its trunk to let the others know that the area has been claimed.",
+            "PHANPY uses its long nose to shower itself. When others gather around, they thoroughly douse each other with water. These pok\u00e9mon can be seen drying their soaking-wet bodies at the edge of water.",
+            "As a sign of affection, it bumps with its snout. However, it is so strong, it may send you flying.",
+            "It swings its long snout around playfully, but because it is so strong, this can be dangerous.",
+            "PHANPY\u2019s big ears serve as broad fans. When it becomes hot, it flaps the ears busily to cool down. Even the young are very strong.",
+            "It is strong despite its compact size. It can easily pick up and carry an adult human on its back.",
+            "It swings its long snout around playfully, but because it is so strong, that can be dangerous.",
+            "As a sign of affection, it bumps with its snout. However, it is so strong, it may send you flying.",
+            "It is strong despite its compact size. It can easily pick up and carry an adult human on its back.",
+            "As a sign of affection, it bumps with its snout. However, it is so strong, it may send you flying.",
+            "It is strong despite its compact size. It can easily pick up and carry an adult human on its back.",
+            "For its nest, Phanpy digs a vertical pit in the ground at the edge of a river. It marks the area around its nest with its trunk to let the others know that the area has been claimed.",
+            "Phanpy uses its long nose to shower itself. When others gather around, they thoroughly douse each other with water. These Pok\u00e9mon can be seen drying their soaking-wet bodies at the edge of water.",
+            "It is strong despite its compact size. It can easily pick up and carry an adult human on its back.",
+            "This Pok\u00e9mon lives and nests on a riverbank. After playing in the mud, it won\u2019t be able to settle down unless it washes its body.",
+            "It is far stronger than it appears. If a Phanpy is swinging its trunk around and your arm gets hit by it, your arm bone will shatter."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788399519473664/231.png",
+    "discord_sprite": "<:P231:1132122900422475786>"
+}

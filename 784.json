@@ -1,0 +1,245 @@
+{
+    "alt-version(s)": [],
+    "name": "Kommo-o",
+    "Kommo-o": {
+        "pokedex_data": {
+            "National No.": "0784",
+            "Type": [
+                "Dragon",
+                "Fighting"
+            ],
+            "Species": "Scaly Poke\u0301mon",
+            "Height": "1.6 m (5\u203203\u2032\u2032)",
+            "Weight": "78.2 kg (172.4 lbs)",
+            "Abilities": {
+                "Bulletproof": {
+                    "href": "/ability/bulletproof",
+                    "effect": "Protects the Pok\u00e9mon from ball and bomb moves.",
+                    "hidden": false
+                },
+                "Soundproof": {
+                    "href": "/ability/soundproof",
+                    "effect": "Gives immunity to <q>sound-based</q> moves.",
+                    "hidden": false
+                },
+                "Overcoat": {
+                    "href": "/ability/overcoat",
+                    "effect": "Protects the Pok\u00e9mon from weather damage.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Defense",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "270",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "75",
+                "Min": "260",
+                "Max": "354"
+            },
+            "Attack": {
+                "Base": "110",
+                "Min": "202",
+                "Max": "350"
+            },
+            "Defense": {
+                "Base": "125",
+                "Min": "229",
+                "Max": "383"
+            },
+            "Sp. Atk": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Sp. Def": {
+                "Base": "105",
+                "Min": "193",
+                "Max": "339"
+            },
+            "Speed": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Total": "600"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Flying": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Dragon": "super-effective",
+                "Dark": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Jangmo-o",
+                    "nationalNo": "#0782",
+                    "type": [
+                        "Dragon"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Hakamo-o",
+                    "nationalNo": "#0783",
+                    "type": [
+                        "Dragon",
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 35)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Hakamo-o",
+                    "nationalNo": "#0783",
+                    "type": [
+                        "Dragon",
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Kommo-o",
+                    "nationalNo": "#0784",
+                    "type": [
+                        "Dragon",
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 45)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Autotomize": "1",
+            "Belly Drum": "1",
+            "Clanging Scales": "1",
+            "Dragon Tail": "1",
+            "Leer": "1",
+            "Protect": "1",
+            "Tackle": "1",
+            "Scary Face": "12",
+            "Headbutt": "16",
+            "Work Up": "20",
+            "Screech": "24",
+            "Iron Defense": "28",
+            "Dragon Claw": "32",
+            "Noble Roar": "38",
+            "Dragon Dance": "44",
+            "Outrage": "52",
+            "Close Combat": "60",
+            "Clangorous Soul": "68",
+            "Boomburst": "76"
+        },
+        "evolution": {
+            "Clanging Scales": "110"
+        },
+        "egg": {
+            "Counter": null,
+            "Dragon Breath": null,
+            "Focus Punch": null
+        },
+        "null": {
+            "Swords Dance": "00",
+            "Flamethrower": "02",
+            "Low Kick": "07",
+            "Earthquake": "10",
+            "Substitute": "20",
+            "Reversal": "21",
+            "Outrage": "24",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Iron Tail": "31",
+            "Uproar": "35",
+            "Taunt": "37",
+            "Superpower": "39",
+            "Hyper Voice": "42",
+            "Iron Defense": "46",
+            "Dragon Claw": "47",
+            "Bulk Up": "48",
+            "Dragon Dance": "51",
+            "Close Combat": "53",
+            "Aura Sphere": "56",
+            "Poison Jab": "57",
+            "X-Scissor": "60",
+            "Dragon Pulse": "62",
+            "Focus Blast": "64",
+            "Flash Cannon": "70",
+            "Iron Head": "74",
+            "Stealth Rock": "76",
+            "Work Up": "85",
+            "Body Press": "99"
+        },
+        "tm": {
+            "Mega Punch": "00",
+            "Mega Kick": "01",
+            "Fire Punch": "03",
+            "Ice Punch": "04",
+            "Thunder Punch": "05",
+            "Hyper Beam": "08",
+            "Giga Impact": "09",
+            "Screech": "16",
+            "Safeguard": "19",
+            "Rest": "21",
+            "Rock Slide": "22",
+            "Snore": "24",
+            "Protect": "25",
+            "Scary Face": "26",
+            "Attract": "31",
+            "Sandstorm": "32",
+            "Facade": "39",
+            "Revenge": "42",
+            "Brick Break": "43",
+            "Rock Tomb": "48",
+            "Payback": "57",
+            "Fling": "59",
+            "Drain Punch": "63",
+            "Shadow Claw": "65",
+            "Round": "76",
+            "Bulldoze": "81",
+            "False Swipe": "94",
+            "Brutal Swing": "97",
+            "Stomping Tantrum": "98",
+            "Breaking Swipe": "99"
+        }
+    },
+    "entries": {
+        "Kommo-o": [
+            "When it spots enemies, it threatens them by jingling the scales on its tail. Weak opponents will crack and flee in panic.",
+            "Its rigid scales function as offense and defense. In the past, its scales were processed and used to make weapons and other commodities.",
+            "When it howls after finishing off its prey, the metallic sounds of its celebrating comrades can be heard from all around.",
+            "It battles valiantly with its fists, which are armored in steel scales. Kommo-o specializes in uppercuts.",
+            "It clatters its tail scales to unnerve opponents. This Pok\u00e9mon will battle only those who stand steadfast in the face of this display.",
+            "Certain ruins have paintings of ancient warriors wearing armor made of Kommo-o scales."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792719895867524/784.png",
+    "discord_sprite": "<:P784:1132147301104766996>"
+}

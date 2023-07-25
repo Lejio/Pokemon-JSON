@@ -1,0 +1,225 @@
+{
+    "alt-version(s)": [],
+    "name": "Feraligatr",
+    "Feraligatr": {
+        "pokedex_data": {
+            "National No.": "0160",
+            "Type": [
+                "Water"
+            ],
+            "Species": "Big Jaw Poke\u0301mon",
+            "Height": "2.3 m (7\u203207\u2032\u2032)",
+            "Weight": "88.8 kg (195.8 lbs)",
+            "Abilities": {
+                "Torrent": {
+                    "href": "/ability/torrent",
+                    "effect": "Powers up Water-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Sheer Force": {
+                    "href": "/ability/sheer-force",
+                    "effect": "Removes added effects to increase move damage.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack, 1 Defense",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "239",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "85",
+                "Min": "280",
+                "Max": "374"
+            },
+            "Attack": {
+                "Base": "105",
+                "Min": "193",
+                "Max": "339"
+            },
+            "Defense": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Sp. Atk": {
+                "Base": "79",
+                "Min": "146",
+                "Max": "282"
+            },
+            "Sp. Def": {
+                "Base": "83",
+                "Min": "153",
+                "Max": "291"
+            },
+            "Speed": {
+                "Base": "78",
+                "Min": "144",
+                "Max": "280"
+            },
+            "Total": "530"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Totodile",
+                    "nationalNo": "#0158",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Croconaw",
+                    "nationalNo": "#0159",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 18)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Croconaw",
+                    "nationalNo": "#0159",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Feraligatr",
+                    "nationalNo": "#0160",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 30)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Agility": "1",
+            "Leer": "1",
+            "Mud-Slap": "8",
+            "Scratch": "1",
+            "Water Gun": "6",
+            "Bite": "13",
+            "Scary Face": "15",
+            "Ice Fang": "21",
+            "Flail": "24",
+            "Crunch": "32",
+            "Low Kick": "37",
+            "Slash": "45",
+            "Screech": "50",
+            "Thrash": "58",
+            "Aqua Tail": "63",
+            "Superpower": "71",
+            "Hydro Pump": "76"
+        },
+        "egg": {
+            "Ancient Power": null,
+            "Aqua Jet": null,
+            "Block": null,
+            "Crunch": null,
+            "Dragon Dance": null,
+            "Fake Tears": null,
+            "Flatter": null,
+            "Hydro Pump": null,
+            "Ice Punch": null,
+            "Metal Claw": null,
+            "Thrash": null
+        },
+        "null": {
+            "Hydro Cannon": "150"
+        },
+        "tm": {
+            "Focus Punch": "01",
+            "Dragon Claw": "02",
+            "Water Pulse": "03",
+            "Roar": "05",
+            "Hail": "07",
+            "Work Up": "10",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Iron Tail": "23",
+            "Earthquake": "26",
+            "Dig": "28",
+            "Brick Break": "31",
+            "Double Team": "32",
+            "Rock Tomb": "39",
+            "Aerial Ace": "40",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Scald": "49",
+            "Focus Blast": "52",
+            "Fling": "56",
+            "Endure": "58",
+            "Dragon Pulse": "59",
+            "Shadow Claw": "65",
+            "Giga Impact": "68",
+            "Avalanche": "72",
+            "Swords Dance": "75",
+            "Rock Slide": "80",
+            "Sleep Talk": "82",
+            "Bulldoze": "83",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Cut": "93",
+            "Surf": "95",
+            "Strength": "96",
+            "Rock Smash": "98",
+            "Waterfall": "99",
+            "Rock Climb": "100"
+        }
+    },
+    "entries": {
+        "Feraligatr": [
+            "When it bites with its massive and powerful jaws, it shakes its head and savagely tears its victim up.",
+            "It is hard for it to support its own weight out of water, so it gets down on all fours. But it moves fast.",
+            "Although it has a massive body, its powerful hind legs enable it to move quickly, even on the ground.",
+            "FERALIGATR intimidates its foes by opening its huge mouth. In battle, it will kick the ground hard with its thick and powerful hind legs to charge at the foe at an incredible speed.",
+            "It is hard for it to support its own weight out of water, so it gets down on all fours. But it moves fast.",
+            "When it bites with its massive and powerful jaws, it shakes its head and savagely tears up its victim.",
+            "It opens its huge mouth to intimidate enemies. In battle, it runs using its thick and powerful hind legs to charge the foe with incredible speed.",
+            "It usually moves slowly, but it goes at blinding speed when it attacks and bites prey.",
+            "When it bites with its massive and powerful jaws, it shakes its head and savagely tears its victim up.",
+            "It is hard for it to support its weight out of water, so it sometimes gets down on all fours. But it moves fast.",
+            "It usually moves slowly, but it goes at blinding speed when it attacks and bites prey.",
+            "It usually moves slowly, but it goes at blinding speed when it attacks and bites prey.",
+            "When it bites with its massive and powerful jaws, it shakes its head and savagely tears its victim up.",
+            "Feraligatr intimidates its foes by opening its huge mouth. In battle, it will kick the ground hard with its thick and powerful hind legs to charge at the foe at an incredible speed.",
+            "It usually moves slowly, but it goes at blinding speed when it attacks and bites prey."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787840305512468/160.png",
+    "discord_sprite": "<:P160:1132119776907513896>"
+}

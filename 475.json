@@ -1,0 +1,372 @@
+{
+    "alt-version(s)": [
+        "Mega Gallade"
+    ],
+    "name": "Gallade",
+    "Gallade": {
+        "pokedex_data": {
+            "National No.": "0475",
+            "Type": [
+                "Psychic",
+                "Fighting"
+            ],
+            "Species": "Blade Poke\u0301mon",
+            "Height": "1.6 m (5\u203203\u2032\u2032)",
+            "Weight": "52.0 kg (114.6 lbs)",
+            "Abilities": {
+                "Steadfast": {
+                    "href": "/ability/steadfast",
+                    "effect": "Raises Speed each time the Pok\u00e9mon flinches.",
+                    "hidden": false
+                },
+                "Sharpness": {
+                    "href": "/ability/sharpness",
+                    "effect": "Powers up slicing moves.",
+                    "hidden": false
+                },
+                "Justified": {
+                    "href": "/ability/justified",
+                    "effect": "Raises Attack when hit by a Dark-type move.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Attack",
+            "Catch rate": "45",
+            "BaseFriendship": "35",
+            "Base Exp.": "259",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "100% male,0% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "68",
+                "Min": "246",
+                "Max": "340"
+            },
+            "Attack": {
+                "Base": "125",
+                "Min": "229",
+                "Max": "383"
+            },
+            "Defense": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Atk": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Def": {
+                "Base": "115",
+                "Min": "211",
+                "Max": "361"
+            },
+            "Speed": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Total": "518"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "not very effective",
+                "Flying": "super-effective",
+                "Rock": "not very effective",
+                "Ghost": "super-effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "Mega Gallade": {
+        "pokedex_data": {
+            "National No.": "0475",
+            "Type": [
+                "Psychic",
+                "Fighting"
+            ],
+            "Species": "Blade Poke\u0301mon",
+            "Height": "1.6 m (5\u203203\u2032\u2032)",
+            "Weight": "56.4 kg (124.3 lbs)",
+            "Abilities": {
+                "Inner Focus": {
+                    "href": "/ability/inner-focus",
+                    "effect": "The Pok\u00e9mon is protected from flinching.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Attack",
+            "Catch rate": "45",
+            "BaseFriendship": "35",
+            "Base Exp.": "278",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "100% male,0% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "68",
+                "Min": "246",
+                "Max": "340"
+            },
+            "Attack": {
+                "Base": "165",
+                "Min": "301",
+                "Max": "471"
+            },
+            "Defense": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Sp. Atk": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Def": {
+                "Base": "115",
+                "Min": "211",
+                "Max": "361"
+            },
+            "Speed": {
+                "Base": "110",
+                "Min": "202",
+                "Max": "350"
+            },
+            "Total": "618"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "not very effective",
+                "Flying": "super-effective",
+                "Rock": "not very effective",
+                "Ghost": "super-effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Ralts",
+                    "nationalNo": "#0280",
+                    "type": [
+                        "Psychic",
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Kirlia",
+                    "nationalNo": "#0281",
+                    "type": [
+                        "Psychic",
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 20)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Kirlia",
+                    "nationalNo": "#0281",
+                    "type": [
+                        "Psychic",
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Gardevoir",
+                    "nationalNo": "#0282",
+                    "type": [
+                        "Psychic",
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 30)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Kirlia",
+                    "nationalNo": "#0281",
+                    "type": [
+                        "Psychic",
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Gallade",
+                    "nationalNo": "#0475",
+                    "type": [
+                        "Psychic",
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Dawn Stone, Male)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Aqua Cutter": "1",
+            "Calm Mind": "1",
+            "Charm": "1",
+            "Confusion": "1",
+            "Disarming Voice": "1",
+            "Double Team": "1",
+            "Draining Kiss": "1",
+            "Dream Eater": "1",
+            "Fury Cutter": "1",
+            "Future Sight": "1",
+            "Growl": "1",
+            "Hypnosis": "1",
+            "Imprison": "1",
+            "Leaf Blade": "1",
+            "Leer": "1",
+            "Life Dew": "1",
+            "Night Slash": "1",
+            "Psybeam": "1",
+            "Psychic": "1",
+            "Sacred Sword": "1",
+            "Helping Hand": "9",
+            "Feint": "12",
+            "Teleport": "15",
+            "Aerial Ace": "18",
+            "False Swipe": "23",
+            "Protect": "28",
+            "Swords Dance": "35",
+            "Psycho Cut": "42",
+            "Heal Pulse": "49",
+            "Quick Guard": "56",
+            "Wide Guard": "56",
+            "Close Combat": "63"
+        },
+        "evolution": {
+            "Slash": "70"
+        },
+        "egg": {
+            "Confuse Ray": null,
+            "Destiny Bond": null,
+            "Disable": null,
+            "Knock Off": null,
+            "Mean Look": null,
+            "Memento": null,
+            "Mystical Fire": null,
+            "Shadow Sneak": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Charm": "02",
+            "Agility": "04",
+            "Protect": "07",
+            "Low Kick": "12",
+            "Psybeam": "16",
+            "Confuse Ray": "17",
+            "Thief": "18",
+            "Disarming Voice": "19",
+            "Charge Beam": "23",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Bulldoze": "28",
+            "Hex": "29",
+            "Swift": "32",
+            "Magical Leaf": "33",
+            "Icy Wind": "34",
+            "Rock Tomb": "36",
+            "Draining Kiss": "37",
+            "Low Sweep": "39",
+            "Stored Power": "41",
+            "Night Shade": "42",
+            "Fling": "43",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Psyshock": "54",
+            "False Swipe": "57",
+            "Brick Break": "58",
+            "Zen Headbutt": "59",
+            "Shadow Claw": "61",
+            "Bulk Up": "64",
+            "Air Slash": "65",
+            "Body Slam": "66",
+            "Fire Punch": "67",
+            "Thunder Punch": "68",
+            "Ice Punch": "69",
+            "Sleep Talk": "70",
+            "Drain Punch": "73",
+            "Reflect": "74",
+            "Light Screen": "75",
+            "Dazzling Gleam": "79",
+            "Grass Knot": "81",
+            "Thunder Wave": "82",
+            "Poison Jab": "83",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Taunt": "87",
+            "Swords Dance": "88",
+            "Imprison": "92",
+            "Skill Swap": "98",
+            "Substitute": "103",
+            "X-Scissor": "105",
+            "Will-O-Wisp": "107",
+            "Trick": "109",
+            "Aura Sphere": "112",
+            "Shadow Ball": "114",
+            "Hyper Voice": "117",
+            "Energy Ball": "119",
+            "Psychic": "120",
+            "Encore": "122",
+            "Thunderbolt": "126",
+            "Calm Mind": "129",
+            "Helping Hand": "130",
+            "Reversal": "134",
+            "Psychic Terrain": "138",
+            "Misty Terrain": "139",
+            "Earthquake": "149",
+            "Stone Edge": "150",
+            "Giga Impact": "152",
+            "Focus Blast": "158",
+            "Trick Room": "161",
+            "Hyper Beam": "163",
+            "Close Combat": "167",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Gallade": [
+            "A master of courtesy and swordsmanship, it fights using extending swords on its elbows.",
+            "When trying to protect someone, it extends its elbows as if they were swords and fights savagely.",
+            "Because it can sense what its foe is thinking, its attacks burst out first, fast, and fierce.",
+            "When trying to protect someone, it extends its elbows as if they were swords and fights savagely.",
+            "Because it can sense what its foe is thinking, its attacks burst out first, fast, and fierce.",
+            "A master of courtesy and swordsmanship, it fights using extending swords on its elbows.",
+            "True to its honorable-warrior image, it uses the blades on its elbows only in defense of something or someone.",
+            "Sharply attuned to others\u2019 wishes for help, this Pok\u00e9mon seeks out those in need and aids them in battle.",
+            "A master of courtesy and swordsmanship, it fights using the extending swords on its elbows.",
+            "The blades extending from its elbows are sharper than the finest swords. Its swordsmanship, albeit self-taught, is astonishingly impressive.",
+            "When trying to protect someone, it extends its elbows as if they were swords and fights savagely.",
+            "Because it can sense what its foe is thinking, its attacks burst out first, fast, and fierce."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790303653810197/475.png",
+    "discord_sprite": "<:P475:1132133633575104512>"
+}

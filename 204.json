@@ -1,0 +1,195 @@
+{
+    "alt-version(s)": [],
+    "name": "Pineco",
+    "Pineco": {
+        "pokedex_data": {
+            "National No.": "0204",
+            "Type": [
+                "Bug"
+            ],
+            "Species": "Bagworm Poke\u0301mon",
+            "Height": "0.6 m (2\u203200\u2032\u2032)",
+            "Weight": "7.2 kg (15.9 lbs)",
+            "Abilities": {
+                "Sturdy": {
+                    "href": "/ability/sturdy",
+                    "effect": "It cannot be knocked out with one hit.",
+                    "hidden": false
+                },
+                "Overcoat": {
+                    "href": "/ability/overcoat",
+                    "effect": "Protects the Pok\u00e9mon from weather damage.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Defense",
+            "Catch rate": "190",
+            "BaseFriendship": "50",
+            "Base Exp.": "58",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "50",
+                "Min": "210",
+                "Max": "304"
+            },
+            "Attack": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Defense": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Sp. Atk": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Sp. Def": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Speed": {
+                "Base": "15",
+                "Min": "31",
+                "Max": "141"
+            },
+            "Total": "290"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Grass": "not very effective",
+                "Fighting": "not very effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Rock": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Pineco",
+                    "nationalNo": "#0204",
+                    "type": [
+                        "Bug"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Forretress",
+                    "nationalNo": "#0205",
+                    "type": [
+                        "Bug",
+                        "Steel"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 31)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Protect": "1",
+            "Tackle": "1",
+            "Self-Destruct": "6",
+            "Bug Bite": "9",
+            "Take Down": "12",
+            "Rapid Spin": "17",
+            "Rollout": "20",
+            "Curse": "23",
+            "Spikes": "28",
+            "Payback": "31",
+            "Explosion": "34",
+            "Iron Defense": "39",
+            "Gyro Ball": "42",
+            "Double-Edge": "45"
+        },
+        "egg": {
+            "Counter": null,
+            "Flail": null,
+            "Pin Missile": null,
+            "Power Trick": null,
+            "Sand Tomb": null,
+            "Swift": null,
+            "Toxic Spikes": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Protect": "07",
+            "Struggle Bug": "15",
+            "Pounce": "21",
+            "Facade": "25",
+            "Bulldoze": "28",
+            "Swift": "32",
+            "Rock Tomb": "36",
+            "Venoshock": "45",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Sandstorm": "51",
+            "Dig": "55",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Seed Bomb": "71",
+            "Reflect": "74",
+            "Light Screen": "75",
+            "Rock Blast": "76",
+            "Poison Jab": "83",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Spikes": "90",
+            "Toxic Spikes": "91",
+            "Substitute": "103",
+            "Iron Defense": "104",
+            "Drill Run": "106",
+            "Giga Drain": "111",
+            "Stealth Rock": "116",
+            "Ice Spinner": "124",
+            "Helping Hand": "130",
+            "Reversal": "134",
+            "Bug Buzz": "162",
+            "Solar Beam": "168",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Pineco": [
+            "It likes to make its shell thicker by adding layers of tree bark. The additional weight doesn\u2019t bother it.",
+            "It hangs and waits for flying insect prey to come near. It does not move about much on its own.",
+            "It spits out a fluid that it uses to glue tree bark to its body. The fluid hardens when it touches air.",
+            "PINECO hangs from a tree branch and patiently waits for prey to come along. If the pok\u00e9mon is disturbed while eating by someone shaking its tree, it drops down to the ground and explodes with no warning.",
+            "It hangs and waits for flying-insect prey to come near. It does not move about much on its own.",
+            "It likes to make its shell thicker by adding layers of tree bark. The extra weight doesn\u2019t bother it.",
+            "A PINECO hangs from a tree branch and waits for prey. While eating, if it is disturbed by someone shaking its tree, it falls on the ground and suddenly explodes.",
+            "It looks just like a pinecone. Its shell protects it from bird Pok\u00e9mon that peck it by mistake.",
+            "It likes to make its shell thicker by adding layers of tree bark. The additional weight doesn\u2019t bother it.",
+            "It hangs and waits for flying insect prey to come near. It does not move about much on its own.",
+            "It looks just like a pinecone. Its shell protects it from bird Pok\u00e9mon that peck it by mistake.",
+            "It likes to make its shell thicker by adding layers of tree bark. The additional weight doesn\u2019t bother it.",
+            "It looks just like a pinecone. Its shell protects it from bird Pok\u00e9mon that peck it by mistake.",
+            "Pineco hangs from a tree branch and patiently waits for prey to come along. If the Pok\u00e9mon is disturbed while eating by someone shaking its tree, it drops down to the ground and explodes with no warning.",
+            "Motionless, it hangs from trees, waiting for its bug Pok\u00e9mon prey to come to it. Its favorite in Alola is Cutiefly.",
+            "It sticks tree bark to itself with its saliva, making itself thicker and larger. Elderly Pineco are ridiculously huge.",
+            "It looks just like a pinecone. Its shell protects it from bird Pok\u00e9mon that peck it by mistake.",
+            "It likes to make its shell thicker by adding layers of tree bark. The additional weight doesn\u2019t bother it.",
+            "It spits out a fluid that it uses to glue tree bark to its body. The fluid hardens when it touches air."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788188604698755/204.png",
+    "discord_sprite": "<:P204:1132121708912971959>"
+}

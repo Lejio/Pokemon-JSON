@@ -1,0 +1,246 @@
+{
+    "alt-version(s)": [],
+    "name": "Seismitoad",
+    "Seismitoad": {
+        "pokedex_data": {
+            "National No.": "0537",
+            "Type": [
+                "Water",
+                "Ground"
+            ],
+            "Species": "Vibration Poke\u0301mon",
+            "Height": "1.5 m (4\u203211\u2032\u2032)",
+            "Weight": "62.0 kg (136.7 lbs)",
+            "Abilities": {
+                "Swift Swim": {
+                    "href": "/ability/swift-swim",
+                    "effect": "Boosts the Pok\u00e9mon's Speed in rain.",
+                    "hidden": false
+                },
+                "Poison Touch": {
+                    "href": "/ability/poison-touch",
+                    "effect": "May poison targets when a Pok\u00e9mon makes contact.",
+                    "hidden": false
+                },
+                "Water Absorb": {
+                    "href": "/ability/water-absorb",
+                    "effect": "Restores HP if hit by a Water-type move.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 HP",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "229",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "105",
+                "Min": "320",
+                "Max": "414"
+            },
+            "Attack": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Defense": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Sp. Atk": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Sp. Def": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Speed": {
+                "Base": "74",
+                "Min": "137",
+                "Max": "271"
+            },
+            "Total": "509"
+        },
+        "defense_stats": {
+            "Swift Swim ability": {
+                "Fire": "not very effective",
+                "Electric": "no effect",
+                "Grass": "super-effective",
+                "Poison": "not very effective",
+                "Rock": "not very effective",
+                "Steel": "not very effective"
+            },
+            "Poison Touch ability": {
+                "Fire": "not very effective",
+                "Electric": "no effect",
+                "Grass": "super-effective",
+                "Poison": "not very effective",
+                "Rock": "not very effective",
+                "Steel": "not very effective"
+            },
+            "Water Absorb ability": {
+                "Fire": "not very effective",
+                "Water": "no effect",
+                "Electric": "no effect",
+                "Grass": "super-effective",
+                "Poison": "not very effective",
+                "Rock": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Tympole",
+                    "nationalNo": "#0535",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Palpitoad",
+                    "nationalNo": "#0536",
+                    "type": [
+                        "Water",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 25)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Palpitoad",
+                    "nationalNo": "#0536",
+                    "type": [
+                        "Water",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Seismitoad",
+                    "nationalNo": "#0537",
+                    "type": [
+                        "Water",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 36)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Acid": "1",
+            "Drain Punch": "1",
+            "Echoed Voice": "1",
+            "Gastro Acid": "1",
+            "Growl": "1",
+            "Supersonic": "1",
+            "Mud Shot": "12",
+            "Round": "16",
+            "Bubble Beam": "20",
+            "Flail": "24",
+            "Uproar": "30",
+            "Aqua Ring": "39",
+            "Hyper Voice": "46",
+            "Muddy Water": "54",
+            "Rain Dance": "62",
+            "Hydro Pump": "70"
+        },
+        "evolution": {
+            "Drain Punch": "75"
+        },
+        "egg": {
+            "Mist": null,
+            "Mud-Slap": null,
+            "Toxic": null,
+            "Water Pulse": null
+        },
+        "tm": {
+            "Mega Punch": "00",
+            "Mega Kick": "01",
+            "Ice Punch": "04",
+            "Hyper Beam": "08",
+            "Giga Impact": "09",
+            "Dig": "15",
+            "Screech": "16",
+            "Rest": "21",
+            "Rock Slide": "22",
+            "Snore": "24",
+            "Protect": "25",
+            "Icy Wind": "27",
+            "Attract": "31",
+            "Rain Dance": "33",
+            "Hail": "35",
+            "Facade": "39",
+            "Brick Break": "43",
+            "Dive": "45",
+            "Weather Ball": "46",
+            "Rock Tomb": "48",
+            "Bounce": "52",
+            "Mud Shot": "53",
+            "Payback": "57",
+            "Fling": "59",
+            "Drain Punch": "63",
+            "Venoshock": "74",
+            "Round": "76",
+            "Bulldoze": "81",
+            "Stomping Tantrum": "98"
+        },
+        "null": {
+            "Hydro Pump": "03",
+            "Surf": "04",
+            "Low Kick": "07",
+            "Earthquake": "10",
+            "Substitute": "20",
+            "Sludge Bomb": "22",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Uproar": "35",
+            "Hyper Voice": "42",
+            "Muddy Water": "45",
+            "Poison Jab": "57",
+            "Focus Blast": "64",
+            "Earth Power": "67",
+            "Power Whip": "72",
+            "Stealth Rock": "76",
+            "Grass Knot": "77",
+            "Sludge Wave": "78",
+            "Scald": "84",
+            "Venom Drench": "91",
+            "Liquidation": "98"
+        }
+    },
+    "entries": {
+        "Seismitoad": [
+            "They shoot paralyzing liquid from their head bumps. They use vibration to hurt their opponents.",
+            "It increases the power of its punches by vibrating the bumps on its fists. It can turn a boulder to rubble with one punch.",
+            "By putting power into its bumps, it creates vibrations and increases the power of its punches.",
+            "It increases the power of its punches by vibrating the bumps on its fists. It can turn a boulder to rubble with one punch.",
+            "They shoot paralyzing liquid from their head bumps. They use vibration to hurt their opponents.",
+            "The vibrating of the bumps all over its body causes earthquake-like tremors. Seismitoad and Croagunk are similar species.",
+            "This Pok\u00e9mon is popular among the elderly, who say the vibrations of its lumps are great for massages."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790787051536404/537.png",
+    "discord_sprite": "<:P537:1132136363861483550>"
+}

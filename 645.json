@@ -1,0 +1,239 @@
+{
+    "alt-version(s)": [
+        "Incarnate Forme",
+        "Therian Forme"
+    ],
+    "Incarnate Forme": {
+        "pokedex_data": {
+            "National No.": "0645",
+            "Type": [
+                "Ground",
+                "Flying"
+            ],
+            "Species": "Abundance Poke\u0301mon",
+            "Height": "1.5 m (4\u203211\u2032\u2032)",
+            "Weight": "68.0 kg (149.9 lbs)",
+            "Abilities": {
+                "Sand Force": {
+                    "href": "/ability/sand-force",
+                    "effect": "Boosts certain moves' power in a sandstorm.",
+                    "hidden": false
+                },
+                "Sheer Force": {
+                    "href": "/ability/sheer-force",
+                    "effect": "Removes added effects to increase move damage.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Sp. Atk",
+            "Catch rate": "3",
+            "BaseFriendship": "90",
+            "Base Exp.": "300",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "100% male,0% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "89",
+                "Min": "288",
+                "Max": "382"
+            },
+            "Attack": {
+                "Base": "125",
+                "Min": "229",
+                "Max": "383"
+            },
+            "Defense": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Sp. Atk": {
+                "Base": "115",
+                "Min": "211",
+                "Max": "361"
+            },
+            "Sp. Def": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Speed": {
+                "Base": "101",
+                "Min": "186",
+                "Max": "331"
+            },
+            "Total": "600"
+        },
+        "defense_stats": {
+            "default": {
+                "Water": "super-effective",
+                "Electric": "no effect",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Poison": "not very effective",
+                "Ground": "no effect",
+                "Bug": "not very effective"
+            }
+        }
+    },
+    "Therian Forme": {
+        "pokedex_data": {
+            "National No.": "0645",
+            "Type": [
+                "Ground",
+                "Flying"
+            ],
+            "Species": "Abundance Poke\u0301mon",
+            "Height": "1.3 m (4\u203203\u2032\u2032)",
+            "Weight": "68.0 kg (149.9 lbs)",
+            "Abilities": {
+                "Intimidate": {
+                    "href": "/ability/intimidate",
+                    "effect": "Lowers the foe's Attack stat.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Attack",
+            "Catch rate": "3",
+            "BaseFriendship": "90",
+            "Base Exp.": "300",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "100% male,0% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "89",
+                "Min": "288",
+                "Max": "382"
+            },
+            "Attack": {
+                "Base": "145",
+                "Min": "265",
+                "Max": "427"
+            },
+            "Defense": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Sp. Atk": {
+                "Base": "105",
+                "Min": "193",
+                "Max": "339"
+            },
+            "Sp. Def": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Speed": {
+                "Base": "91",
+                "Min": "168",
+                "Max": "309"
+            },
+            "Total": "600"
+        },
+        "defense_stats": {
+            "default": {
+                "Water": "super-effective",
+                "Electric": "no effect",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Poison": "not very effective",
+                "Ground": "no effect",
+                "Bug": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Sand Tomb": "1",
+            "Smack Down": "1",
+            "Leer": "5",
+            "Block": "10",
+            "Bulldoze": "15",
+            "Rock Tomb": "20",
+            "Imprison": "30",
+            "Rock Slide": "35",
+            "Earth Power": "40",
+            "Extrasensory": "45",
+            "Stone Edge": "50",
+            "Hammer Arm": "55",
+            "Sandstorm": "60",
+            "Earthquake": "65",
+            "Outrage": "70",
+            "Fissure": "75",
+            "Sandsear Storm": "80"
+        },
+        "egg": null,
+        "tm": {
+            "Take Down": "01",
+            "Mud-Slap": "05",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Facade": "25",
+            "Bulldoze": "28",
+            "Mud Shot": "35",
+            "Rock Tomb": "36",
+            "Fling": "43",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Sandstorm": "51",
+            "Dig": "55",
+            "Brick Break": "58",
+            "U-turn": "60",
+            "Bulk Up": "64",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Grass Knot": "81",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Taunt": "87",
+            "Swords Dance": "88",
+            "Imprison": "92",
+            "Fly": "97",
+            "Substitute": "103",
+            "Crunch": "108",
+            "Stealth Rock": "116",
+            "Psychic": "120",
+            "Calm Mind": "129",
+            "Earth Power": "133",
+            "Nasty Plot": "140",
+            "Sludge Bomb": "148",
+            "Earthquake": "149",
+            "Stone Edge": "150",
+            "Giga Impact": "152",
+            "Outrage": "156",
+            "Focus Blast": "158",
+            "Hyper Beam": "163",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Incarnate Forme": [
+            "Lands visited by Landorus grant such bountiful crops that it has been hailed as \u201cThe Guardian of the Fields.\u201d",
+            "The energy that comes pouring from its tail increases the nutrition in the soil, making crops grow to great size.",
+            "From the forces of lightning and wind, it creates energy to give nutrients to the soil and make the land abundant.",
+            "Lands visited by Landorus grant such bountiful crops that it has been hailed as \u201cThe Guardian of the Fields.\u201d",
+            "From the forces of lightning and wind, it creates energy to give nutrients to the soil and make the land abundant.",
+            "When the incarnations of wind and of lightning clash, Landorus arrives to quell the conflict. After the tempests and thunderbolts abate, the land is sure to be blessed with bountiful harvests."
+        ],
+        "Therian Forme": [
+            "Landorus soars through the sky in this form, bestowing plentiful harvests upon the land and earning the people\u2019s reverence. It can traverse the whole of Hisui in a mere couple of hours."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791631071322132/645.png",
+    "discord_sprite": "<:P645:1132141122475536445>"
+}

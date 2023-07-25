@@ -1,0 +1,364 @@
+{
+    "alt-version(s)": [
+        "Galarian Slowpoke"
+    ],
+    "name": "Slowpoke",
+    "Slowpoke": {
+        "pokedex_data": {
+            "National No.": "0079",
+            "Type": [
+                "Water",
+                "Psychic"
+            ],
+            "Species": "Dopey Poke\u0301mon",
+            "Height": "1.2 m (3\u203211\u2032\u2032)",
+            "Weight": "36.0 kg (79.4 lbs)",
+            "Abilities": {
+                "Oblivious": {
+                    "href": "/ability/oblivious",
+                    "effect": "Prevents it from becoming infatuated.",
+                    "hidden": false
+                },
+                "Own Tempo": {
+                    "href": "/ability/own-tempo",
+                    "effect": "Prevents the Pok\u00e9mon from becoming confused.",
+                    "hidden": false
+                },
+                "Regenerator": {
+                    "href": "/ability/regenerator",
+                    "effect": "Restores a little HP when withdrawn from battle.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 HP",
+            "Catch rate": "190",
+            "BaseFriendship": "50",
+            "Base Exp.": "63",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "90",
+                "Min": "290",
+                "Max": "384"
+            },
+            "Attack": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Defense": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Atk": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Def": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Speed": {
+                "Base": "15",
+                "Min": "31",
+                "Max": "141"
+            },
+            "Total": "315"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "Galarian Slowpoke": {
+        "pokedex_data": {
+            "National No.": "0079",
+            "Type": [
+                "Psychic"
+            ],
+            "Species": "Dopey Poke\u0301mon",
+            "Height": "1.2 m (3\u203211\u2032\u2032)",
+            "Weight": "36.0 kg (79.4 lbs)",
+            "Abilities": {
+                "Gluttony": {
+                    "href": "/ability/gluttony",
+                    "effect": "Encourages the early use of a held Berry.",
+                    "hidden": false
+                },
+                "Own Tempo": {
+                    "href": "/ability/own-tempo",
+                    "effect": "Prevents the Pok\u00e9mon from becoming confused.",
+                    "hidden": false
+                },
+                "Regenerator": {
+                    "href": "/ability/regenerator",
+                    "effect": "Restores a little HP when withdrawn from battle.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 HP",
+            "Catch rate": "190",
+            "BaseFriendship": "50",
+            "Base Exp.": "63",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "90",
+                "Min": "290",
+                "Max": "384"
+            },
+            "Attack": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Defense": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Atk": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Def": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Speed": {
+                "Base": "15",
+                "Min": "31",
+                "Max": "141"
+            },
+            "Total": "315"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Slowpoke",
+                    "nationalNo": "#0079",
+                    "type": [
+                        "Water",
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Slowbro",
+                    "nationalNo": "#0080",
+                    "type": [
+                        "Water",
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 37)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Slowpoke",
+                    "nationalNo": "#0079",
+                    "type": [
+                        "Water",
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Slowking",
+                    "nationalNo": "#0199",
+                    "type": [
+                        "Water",
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(trade holding Kings Rock)",
+                "shed": null
+            }
+        ],
+        [
+            {
+                "from": {
+                    "name": "Slowpoke",
+                    "nationalNo": "#0079",
+                    "type": [
+                        "Psychic"
+                    ],
+                    "nickname": "Galarian Slowpoke"
+                },
+                "to": {
+                    "name": "Slowbro",
+                    "nationalNo": "#0080",
+                    "type": [
+                        "Poison",
+                        "Psychic"
+                    ],
+                    "nickname": "Galarian Slowbro"
+                },
+                "requirement": "(use Galarica Cuff)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Slowpoke",
+                    "nationalNo": "#0079",
+                    "type": [
+                        "Psychic"
+                    ],
+                    "nickname": "Galarian Slowpoke"
+                },
+                "to": {
+                    "name": "Slowking",
+                    "nationalNo": "#0199",
+                    "type": [
+                        "Poison",
+                        "Psychic"
+                    ],
+                    "nickname": "Galarian Slowking"
+                },
+                "requirement": "(use Galarica Wreath)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Belch": "120",
+            "Belly Drum": "\u2014",
+            "Block": "\u2014",
+            "Stomp": "65"
+        },
+        "egg": {
+            "Belch": null,
+            "Belly Drum": null,
+            "Block": null,
+            "Stomp": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Protect": "07",
+            "Water Pulse": "11",
+            "Psybeam": "16",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Bulldoze": "28",
+            "Swift": "32",
+            "Icy Wind": "34",
+            "Mud Shot": "35",
+            "Stored Power": "41",
+            "Avalanche": "46",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Snowscape": "52",
+            "Psyshock": "54",
+            "Dig": "55",
+            "Zen Headbutt": "59",
+            "Foul Play": "62",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Light Screen": "75",
+            "Waterfall": "77",
+            "Grass Knot": "81",
+            "Thunder Wave": "82",
+            "Rest": "85",
+            "Imprison": "92",
+            "Skill Swap": "98",
+            "Substitute": "103",
+            "Trick": "109",
+            "Liquidation": "110",
+            "Shadow Ball": "114",
+            "Psychic": "120",
+            "Surf": "123",
+            "Flamethrower": "125",
+            "Amnesia": "128",
+            "Calm Mind": "129",
+            "Helping Hand": "130",
+            "Ice Beam": "135",
+            "Psychic Terrain": "138",
+            "Fire Blast": "141",
+            "Hydro Pump": "142",
+            "Blizzard": "143",
+            "Earthquake": "149",
+            "Trick Room": "161",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Slowpoke": [
+            "Incredibly slow and dopey. It takes 5 seconds for it to feel pain when under attack.",
+            "Incredibly slow and sluggish. It is quite content to loll about without worrying about the time.",
+            "It lazes vacantly near water. If something bites its tail, it won\u2019t even notice for a whole day.",
+            "A sweet sap leaks from its tail\u2019s tip. Although not nutritious, the tail is pleasant to chew on.",
+            "It is always so absent-minded that it won\u2019t react, even if its flavorful tail is bitten.",
+            "SLOWPOKE uses its tail to catch prey by dipping it in water at the side of a river. However, this pok\u00e9mon often forgets what it\u2019s doing and often spends entire days just loafing at water\u2019s edge.",
+            "It is always vacantly lost in thought, but no one knows what it is thinking about. It is good at fishing with its tail.",
+            "Incredibly slow and dopey. It takes five seconds for it to feel pain when under attack.",
+            "It catches prey by dipping its tail in water at the side of a river. But it often forgets what it is doing and spends entire days just loafing at water\u2019s edge.",
+            "Although slow, it is skilled at fishing with its tail. It does not feel pain if its tail is bitten.",
+            "It lazes vacantly near water. If something bites its tail, it won\u2019t even notice for a whole day.",
+            "A sweet sap leaks from its tail\u2019s tip. Although not nutritious, the tail is pleasant to chew on.",
+            "Although slow, it is skilled at fishing with its tail. It does not feel pain if its tail is bitten.",
+            "It is always vacantly lost in thought, but no one knows what it is thinking about. It is good at fishing with its tail.",
+            "It lazes vacantly near water. If something bites its tail, it won\u2019t even notice for a whole day.",
+            "Slowpoke uses its tail to catch prey by dipping it in water at the side of a river. However, this Pok\u00e9mon often forgets what it\u2019s doing and often spends entire days just loafing at water\u2019s edge.",
+            "Its long tail often breaks off. It doesn\u2019t really feel any pain, though, and the tail grows back, so Slowpoke isn\u2019t particularly bothered.",
+            "Alolan home cooking involves drying Slowpoke tails and then simmering them into a salty stew.",
+            "There are some places where Slowpoke is worshiped because of a long-standing belief that whenever Slowpoke yawns, it rains.",
+            "Although their tails, which fall off naturally, can easily be found lying around, they\u2019re a precious ingredient for cooking.",
+            "Incredibly slow and sluggish. It is quite content to loll about without worrying about the time.",
+            "Slow-witted and oblivious, this Pok\u00e9mon won\u2019t feel any pain if its tail gets eaten. It won\u2019t notice when its tail grows back, either.",
+            "When this Pok\u00e9mon\u2019s tail is soaked in water, sweetness seeps from it. Slowpoke uses this trait to lure in and fish up other Pok\u00e9mon.",
+            "Although slow, it is skilled at fishing with its tail. It does not feel pain if its tail is bitten.",
+            "It is incredibly slow and dopey. It takes five seconds for it to feel pain when under attack.",
+            "It is always vacantly lost in thought, but no one knows what it is thinking about. It is good at fishing with its tail."
+        ],
+        "Galarian Slowpoke": [
+            "Although this Pok\u00e9mon is normally zoned out, its expression abruptly sharpens on occasion. The cause for this seems to lie in Slowpoke\u2019s diet.",
+            "Because Galarian Slowpoke eat the seeds of a plant that grows only in Galar, their tails have developed a spicy flavor."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787207594754128/79.png",
+    "discord_sprite": "<:P79:1132116201728905277>"
+}

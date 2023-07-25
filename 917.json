@@ -1,0 +1,164 @@
+{
+    "alt-version(s)": [],
+    "name": "Tarountula",
+    "Tarountula": {
+        "pokedex_data": {
+            "National No.": "0917",
+            "Type": [
+                "Bug"
+            ],
+            "Species": "String Ball Poke\u0301mon",
+            "Height": "0.3 m (1\u203200\u2032\u2032)",
+            "Weight": "4.0 kg (8.8 lbs)",
+            "Abilities": {
+                "Insomnia": {
+                    "href": "/ability/insomnia",
+                    "effect": "Prevents the Pok\u00e9mon from falling asleep.",
+                    "hidden": false
+                },
+                "Stakeout": {
+                    "href": "/ability/stakeout",
+                    "effect": "Deals double damage to Pok\u00e9mon switching in.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Defense",
+            "Catch rate": "255",
+            "BaseFriendship": "50",
+            "Base Exp.": "42",
+            "Growth Rate": "Erratic"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "35",
+                "Min": "180",
+                "Max": "274"
+            },
+            "Attack": {
+                "Base": "41",
+                "Min": "78",
+                "Max": "199"
+            },
+            "Defense": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Sp. Atk": {
+                "Base": "29",
+                "Min": "56",
+                "Max": "172"
+            },
+            "Sp. Def": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Speed": {
+                "Base": "20",
+                "Min": "40",
+                "Max": "152"
+            },
+            "Total": "210"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Grass": "not very effective",
+                "Fighting": "not very effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Rock": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Tarountula",
+                    "nationalNo": "#0917",
+                    "type": [
+                        "Bug"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Spidops",
+                    "nationalNo": "#0918",
+                    "type": [
+                        "Bug"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 15)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "String Shot": "1",
+            "Tackle": "1",
+            "Struggle Bug": "5",
+            "Assurance": "8",
+            "Feint": "11",
+            "Bug Bite": "14",
+            "Block": "18",
+            "Counter": "22",
+            "Headbutt": "25",
+            "Sticky Web": "29",
+            "Gastro Acid": "33",
+            "Circle Throw": "36",
+            "Throat Chop": "40",
+            "Skitter Smack": "44"
+        },
+        "egg": {
+            "First Impression": null,
+            "Lunge": null,
+            "Memento": null,
+            "Sucker Punch": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Protect": "07",
+            "Struggle Bug": "15",
+            "Thief": "18",
+            "Trailblaze": "20",
+            "Pounce": "21",
+            "Facade": "25",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Bullet Seed": "56",
+            "False Swipe": "57",
+            "Shadow Claw": "61",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Grass Knot": "81",
+            "Poison Jab": "83",
+            "Rest": "85",
+            "Spikes": "90",
+            "Toxic Spikes": "91",
+            "Leech Life": "95",
+            "Substitute": "103",
+            "X-Scissor": "105",
+            "Giga Drain": "111",
+            "Bug Buzz": "162",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Tarountula": [
+            "The ball of threads wrapped around its body is elastic enough to deflect the scythes of Scyther, this Pok\u00e9mon\u2019s natural enemy.",
+            "The thread it secretes from its rear is as strong as wire. The secret behind the thread\u2019s strength is the topic of ongoing research."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793751753379931/917.png",
+    "discord_sprite": "<:P917:1132153146936934562>"
+}

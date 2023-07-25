@@ -1,0 +1,361 @@
+{
+    "alt-version(s)": [],
+    "name": "Umbreon",
+    "Umbreon": {
+        "pokedex_data": {
+            "National No.": "0197",
+            "Type": [
+                "Dark"
+            ],
+            "Species": "Moonlight Poke\u0301mon",
+            "Height": "1.0 m (3\u203203\u2032\u2032)",
+            "Weight": "27.0 kg (59.5 lbs)",
+            "Abilities": {
+                "Synchronize": {
+                    "href": "/ability/synchronize",
+                    "effect": "Passes a burn, poison, or paralysis to the foe.",
+                    "hidden": false
+                },
+                "Inner Focus": {
+                    "href": "/ability/inner-focus",
+                    "effect": "The Pok\u00e9mon is protected from flinching.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Sp. Def",
+            "Catch rate": "45",
+            "BaseFriendship": "35",
+            "Base Exp.": "184",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "95",
+                "Min": "300",
+                "Max": "394"
+            },
+            "Attack": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Defense": {
+                "Base": "110",
+                "Min": "202",
+                "Max": "350"
+            },
+            "Sp. Atk": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Def": {
+                "Base": "130",
+                "Min": "238",
+                "Max": "394"
+            },
+            "Speed": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Total": "525"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "super-effective",
+                "Psychic": "no effect",
+                "Bug": "super-effective",
+                "Ghost": "not very effective",
+                "Dark": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Eevee",
+                    "nationalNo": "#0133",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Vaporeon",
+                    "nationalNo": "#0134",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Water Stone)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Eevee",
+                    "nationalNo": "#0133",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Jolteon",
+                    "nationalNo": "#0135",
+                    "type": [
+                        "Electric"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Thunder Stone)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Eevee",
+                    "nationalNo": "#0133",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Flareon",
+                    "nationalNo": "#0136",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Fire Stone)",
+                "shed": null
+            }
+        ],
+        [
+            {
+                "from": {
+                    "name": "Eevee",
+                    "nationalNo": "#0133",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Espeon",
+                    "nationalNo": "#0196",
+                    "type": [
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(high Friendship, Daytime)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Eevee",
+                    "nationalNo": "#0133",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Umbreon",
+                    "nationalNo": "#0197",
+                    "type": [
+                        "Dark"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(high Friendship, Nighttime)",
+                "shed": null
+            }
+        ],
+        [
+            {
+                "from": {
+                    "name": "Eevee",
+                    "nationalNo": "#0133",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Leafeon",
+                    "nationalNo": "#0470",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Leaf Stone, or level up near a Mossy Rock)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Eevee",
+                    "nationalNo": "#0133",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Glaceon",
+                    "nationalNo": "#0471",
+                    "type": [
+                        "Ice"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Ice Stone, or level up near an Icy Rock)",
+                "shed": null
+            }
+        ],
+        [
+            {
+                "from": {
+                    "name": "Eevee",
+                    "nationalNo": "#0133",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Sylveon",
+                    "nationalNo": "#0700",
+                    "type": [
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(after Fairy-type move learned, and either \u2665\u2665 Affection in Gen 6-7 or high friendship in Gen 8+)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Baton Pass": "1",
+            "Bite": "1",
+            "Charm": "1",
+            "Copycat": "1",
+            "Covet": "1",
+            "Double-Edge": "1",
+            "Growl": "1",
+            "Helping Hand": "1",
+            "Swift": "1",
+            "Tackle": "1",
+            "Tail Whip": "1",
+            "Take Down": "1",
+            "Sand Attack": "5",
+            "Quick Attack": "10",
+            "Baby-Doll Eyes": "15",
+            "Confuse Ray": "20",
+            "Assurance": "25",
+            "Moonlight": "30",
+            "Guard Swap": "35",
+            "Dark Pulse": "40",
+            "Screech": "45",
+            "Mean Look": "50",
+            "Last Resort": "55"
+        },
+        "evolution": {
+            "Snarl": "55"
+        },
+        "egg": {
+            "Curse": null,
+            "Detect": null,
+            "Double Kick": null,
+            "Flail": null,
+            "Mud-Slap": null,
+            "Tickle": null,
+            "Wish": null,
+            "Yawn": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Charm": "02",
+            "Fake Tears": "03",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Confuse Ray": "17",
+            "Thief": "18",
+            "Trailblaze": "20",
+            "Facade": "25",
+            "Snarl": "30",
+            "Swift": "32",
+            "Stored Power": "41",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Dig": "55",
+            "Foul Play": "62",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Reflect": "74",
+            "Light Screen": "75",
+            "Thunder Wave": "82",
+            "Rest": "85",
+            "Taunt": "87",
+            "Dark Pulse": "94",
+            "Skill Swap": "98",
+            "Substitute": "103",
+            "Crunch": "108",
+            "Shadow Ball": "114",
+            "Hyper Voice": "117",
+            "Psychic": "120",
+            "Calm Mind": "129",
+            "Helping Hand": "130",
+            "Baton Pass": "132",
+            "Giga Impact": "152",
+            "Hyper Beam": "163",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Umbreon": [
+            "When agitated, this pok\u00e9mon protects itself by spraying poisonous sweat from its pores.",
+            "When darkness falls, the rings on the body begin to glow, striking fear in the hearts of anyone nearby.",
+            "On the night of a full moon, or when it gets excited, the ring patterns on its body glow yellow.",
+            "UMBREON evolved as a result of exposure to the moon\u2019s waves. It hides silently in darkness and waits for its foes to make a move. The rings on its body glow when it leaps to attack.",
+            "When darkness falls, the rings on its body begin to glow, striking fear in the hearts of anyone nearby.",
+            "When agitated, this pok\u00e9mon protects itself by spraying poisonous sweat from its pores.",
+            "UMBREON evolved from exposure to the moon\u2019s energy pulses. It lurks in darkness and waits for its foes to move. The rings on its body glow when it leaps to attack.",
+            "The light of the moon changed EEVEE\u2019s genetic structure. It lurks in darkness for prey.",
+            "When exposed to the moon\u2019s aura, the rings on its body glow faintly and it gains a mysterious power.",
+            "When agitated, this Pok\u00e9mon protects itself by spraying poisonous sweat from its pores.",
+            "When darkness falls, the rings on the body begin to glow, striking fear in the hearts of anyone nearby.",
+            "When exposed to the moon\u2019s aura, the rings on its body glow faintly and it gains a mysterious power.",
+            "When exposed to the moon\u2019s aura, the rings on its body glow faintly and it\u2019s filled with a mysterious power.",
+            "The light of the moon changed Eevee\u2019s genetic structure. It lurks in darkness for prey.",
+            "When exposed to the moon\u2019s aura, the rings on its body glow faintly and it\u2019s filled with a mysterious power.",
+            "Umbreon evolved as a result of exposure to the moon\u2019s waves. It hides silently in darkness and waits for its foes to make a move. The rings on its body glow when it leaps to attack.",
+            "When this Pok\u00e9mon becomes angry, its pores secrete a poisonous sweat, which it sprays at its opponent\u2019s eyes.",
+            "With its black fur, it blends into the darkness. It bides its time, and when prey appears, this Pok\u00e9mon goes for its throat, and then eats it.",
+            "This Pok\u00e9mon is nocturnal. Even in total darkness, its large eyes can spot its prey clearly!",
+            "It lurks in the dark of night looking for prey. At the moment it pounces, the rings on its body glow dimly but ominously.",
+            "When this Pok\u00e9mon becomes angry, its pores secrete a poisonous sweat, which it sprays at its opponent\u2019s eyes.",
+            "On the night of a full moon, or when it gets excited, the ring patterns on its body glow yellow.",
+            "The light of the moon changed Eevee\u2019s genetic structure. It lurks in the darkness, waiting for prey.",
+            "It is most active in the wee hours of the night, when moonlight bathes the land. Its large eyes can pierce the darkness and perceive prey with absolute clarity.",
+            "When exposed to the moon\u2019s aura, the rings on its body glow faintly and it gains a mysterious power.",
+            "When darkness falls, the rings on the body begin to glow, striking fear in the hearts of anyone nearby."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788129272086598/197.png",
+    "discord_sprite": "<:P197:1132121401961222164>"
+}

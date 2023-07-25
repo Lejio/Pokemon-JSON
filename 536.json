@@ -1,0 +1,220 @@
+{
+    "alt-version(s)": [],
+    "name": "Palpitoad",
+    "Palpitoad": {
+        "pokedex_data": {
+            "National No.": "0536",
+            "Type": [
+                "Water",
+                "Ground"
+            ],
+            "Species": "Vibration Poke\u0301mon",
+            "Height": "0.8 m (2\u203207\u2032\u2032)",
+            "Weight": "17.0 kg (37.5 lbs)",
+            "Abilities": {
+                "Swift Swim": {
+                    "href": "/ability/swift-swim",
+                    "effect": "Boosts the Pok\u00e9mon's Speed in rain.",
+                    "hidden": false
+                },
+                "Hydration": {
+                    "href": "/ability/hydration",
+                    "effect": "Heals status problems if it is raining.",
+                    "hidden": false
+                },
+                "Water Absorb": {
+                    "href": "/ability/water-absorb",
+                    "effect": "Restores HP if hit by a Water-type move.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 HP",
+            "Catch rate": "120",
+            "BaseFriendship": "50",
+            "Base Exp.": "134",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "75",
+                "Min": "260",
+                "Max": "354"
+            },
+            "Attack": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Defense": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Sp. Atk": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Def": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Speed": {
+                "Base": "69",
+                "Min": "128",
+                "Max": "260"
+            },
+            "Total": "384"
+        },
+        "defense_stats": {
+            "Swift Swim ability": {
+                "Fire": "not very effective",
+                "Electric": "no effect",
+                "Grass": "super-effective",
+                "Poison": "not very effective",
+                "Rock": "not very effective",
+                "Steel": "not very effective"
+            },
+            "Hydration ability": {
+                "Fire": "not very effective",
+                "Electric": "no effect",
+                "Grass": "super-effective",
+                "Poison": "not very effective",
+                "Rock": "not very effective",
+                "Steel": "not very effective"
+            },
+            "Water Absorb ability": {
+                "Fire": "not very effective",
+                "Water": "no effect",
+                "Electric": "no effect",
+                "Grass": "super-effective",
+                "Poison": "not very effective",
+                "Rock": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Tympole",
+                    "nationalNo": "#0535",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Palpitoad",
+                    "nationalNo": "#0536",
+                    "type": [
+                        "Water",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 25)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Palpitoad",
+                    "nationalNo": "#0536",
+                    "type": [
+                        "Water",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Seismitoad",
+                    "nationalNo": "#0537",
+                    "type": [
+                        "Water",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 36)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Acid": "1",
+            "Echoed Voice": "1",
+            "Growl": "1",
+            "Supersonic": "1",
+            "Mud Shot": "12",
+            "Round": "16",
+            "Bubble Beam": "20",
+            "Flail": "24",
+            "Uproar": "30",
+            "Aqua Ring": "37",
+            "Hyper Voice": "42",
+            "Muddy Water": "48",
+            "Rain Dance": "54",
+            "Hydro Pump": "60"
+        },
+        "egg": {
+            "Mist": null,
+            "Mud-Slap": null,
+            "Toxic": null,
+            "Water Pulse": null
+        },
+        "tm": {
+            "Screech": "16",
+            "Rest": "21",
+            "Snore": "24",
+            "Protect": "25",
+            "Icy Wind": "27",
+            "Attract": "31",
+            "Rain Dance": "33",
+            "Hail": "35",
+            "Facade": "39",
+            "Weather Ball": "46",
+            "Bounce": "52",
+            "Mud Shot": "53",
+            "Round": "76",
+            "Bulldoze": "81"
+        },
+        "null": {
+            "Hydro Pump": "03",
+            "Surf": "04",
+            "Substitute": "20",
+            "Sludge Bomb": "22",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Uproar": "35",
+            "Hyper Voice": "42",
+            "Muddy Water": "45",
+            "Earth Power": "67",
+            "Power Whip": "72",
+            "Stealth Rock": "76",
+            "Sludge Wave": "78",
+            "Scald": "84",
+            "Venom Drench": "91"
+        }
+    },
+    "entries": {
+        "Palpitoad": [
+            "When they vibrate the bumps on their heads, they can make waves in water or earthquake-like vibrations on land.",
+            "It lives in the water and on land. It uses its long, sticky tongue to capture prey.",
+            "It lives in the water and on land. It uses its long, sticky tongue to immobilize its opponents.",
+            "When they vibrate the bumps on their heads, they can make waves in water or earthquake-like vibrations on land.",
+            "It lives in the water and on land. It uses its long, sticky tongue to immobilize its opponents.",
+            "It weakens its prey with sound waves intense enough to cause headaches, then entangles them with its sticky tongue.",
+            "On occasion, their cries are sublimely pleasing to the ear. Palpitoad with larger lumps on their bodies can sing with a wider range of sounds."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790779623428106/536.png",
+    "discord_sprite": "<:P536:1132136319225700372>"
+}

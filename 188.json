@@ -1,0 +1,228 @@
+{
+    "alt-version(s)": [],
+    "name": "Skiploom",
+    "Skiploom": {
+        "pokedex_data": {
+            "National No.": "0188",
+            "Type": [
+                "Grass",
+                "Flying"
+            ],
+            "Species": "Cottonweed Poke\u0301mon",
+            "Height": "0.6 m (2\u203200\u2032\u2032)",
+            "Weight": "1.0 kg (2.2 lbs)",
+            "Abilities": {
+                "Chlorophyll": {
+                    "href": "/ability/chlorophyll",
+                    "effect": "Boosts the Pok\u00e9mon's Speed in sunshine.",
+                    "hidden": false
+                },
+                "Leaf Guard": {
+                    "href": "/ability/leaf-guard",
+                    "effect": "Prevents problems with status in sunny weather.",
+                    "hidden": false
+                },
+                "Infiltrator": {
+                    "href": "/ability/infiltrator",
+                    "effect": "Passes through the foe's barrier and strikes.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Speed",
+            "Catch rate": "120",
+            "BaseFriendship": "50",
+            "Base Exp.": "119",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "55",
+                "Min": "220",
+                "Max": "314"
+            },
+            "Attack": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Defense": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Atk": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Sp. Def": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Speed": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Total": "340"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Poison": "super-effective",
+                "Ground": "no effect",
+                "Flying": "super-effective",
+                "Rock": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Hoppip",
+                    "nationalNo": "#0187",
+                    "type": [
+                        "Grass",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Skiploom",
+                    "nationalNo": "#0188",
+                    "type": [
+                        "Grass",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 18)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Skiploom",
+                    "nationalNo": "#0188",
+                    "type": [
+                        "Grass",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Jumpluff",
+                    "nationalNo": "#0189",
+                    "type": [
+                        "Grass",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 27)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Absorb": "1",
+            "Splash": "1",
+            "Synthesis": "1",
+            "Tail Whip": "1",
+            "Tackle": "8",
+            "Fairy Wind": "10",
+            "Poison Powder": "12",
+            "Sleep Powder": "12",
+            "Stun Spore": "12",
+            "Bullet Seed": "15",
+            "Leech Seed": "20",
+            "Mega Drain": "24",
+            "Acrobatics": "28",
+            "Cotton Spore": "31",
+            "U-turn": "34",
+            "Giga Drain": "37",
+            "Bounce": "41",
+            "Memento": "44"
+        },
+        "egg": {
+            "Cotton Guard": null,
+            "Encore": null,
+            "Grassy Terrain": null,
+            "Rage Powder": null,
+            "Seed Bomb": null,
+            "Strength Sap": null,
+            "Switcheroo": null,
+            "Worry Seed": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Charm": "02",
+            "Protect": "07",
+            "Acrobatics": "14",
+            "Thief": "18",
+            "Trailblaze": "20",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Magical Leaf": "33",
+            "Fling": "43",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Bullet Seed": "56",
+            "U-turn": "60",
+            "Sleep Talk": "70",
+            "Seed Bomb": "71",
+            "Reflect": "74",
+            "Light Screen": "75",
+            "Dazzling Gleam": "79",
+            "Grass Knot": "81",
+            "Rest": "85",
+            "Swords Dance": "88",
+            "Substitute": "103",
+            "Giga Drain": "111",
+            "Tailwind": "113",
+            "Energy Ball": "119",
+            "Encore": "122",
+            "Helping Hand": "130",
+            "Pollen Puff": "131",
+            "Baton Pass": "132",
+            "Grassy Terrain": "137",
+            "Leaf Storm": "159",
+            "Solar Beam": "168",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Skiploom": [
+            "The bloom on top of its head opens and closes as the temperature fluctuates up and down.",
+            "It spreads its petals to absorb sunlight. It also floats in the air to get closer to the sun.",
+            "As soon as it rains, it closes its flower and hides in the shade of a tree to avoid getting wet.",
+            "SKIPLOOM\u2019s flower blossoms when the temperature rises above 64 degrees F. How much the flower opens depends on the temperature. For that reason, this pok\u00e9mon is sometimes used as a thermometer.",
+            "It spreads its petals to absorb sunlight. It also floats in the air to get closer to the sun.",
+            "The bloom on top of its head opens and closes as the temperature fluctuates up and down.",
+            "It blossoms when the temperature rises above 64 degrees F. Because its flower\u2019s blooming changes with the temperature, it is sometimes used as a thermometer.",
+            "It blooms when the weather warms. It floats in the sky to soak up as much sunlight as possible.",
+            "The bloom on top of its head opens and closes as the temperature fluctuates up and down.",
+            "It spreads its petals to absorb sunlight. It also floats in the air to get closer to the sun.",
+            "It blooms when the weather warms. It floats in the sky to soak up as much sunlight as possible.",
+            "The bloom on top of its head opens and closes as the temperature fluctuates up and down.",
+            "It spreads its petals to absorb sunlight. It also floats in the air to get closer to the sun.",
+            "Skiploom\u2019s flower blossoms when the temperature rises above 64 degrees Fahrenheit. How much the flower opens depends on the temperature. For that reason, this Pok\u00e9mon is sometimes used as a thermometer.",
+            "It blooms when the weather warms. It floats in the sky to soak up as much sunlight as possible.",
+            "Skiploom enthusiasts can apparently tell where a Skiploom was born by the scent drifting from the flower on the Pok\u00e9mon\u2019s head.",
+            "When the weather grows cold, Skiploom\u2019s flower closes and the Pok\u00e9mon cannot photosynthesize, so it flies away to warmer regions."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788057662726144/188.png",
+    "discord_sprite": "<:P188:1132121008132849765>"
+}

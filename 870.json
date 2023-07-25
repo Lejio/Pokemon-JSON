@@ -1,0 +1,143 @@
+{
+    "alt-version(s)": [],
+    "name": "Falinks",
+    "Falinks": {
+        "pokedex_data": {
+            "National No.": "0870",
+            "Type": [
+                "Fighting"
+            ],
+            "Species": "Formation Poke\u0301mon",
+            "Height": "3.0 m (9\u203210\u2032\u2032)",
+            "Weight": "62.0 kg (136.7 lbs)",
+            "Abilities": {
+                "Battle Armor": {
+                    "href": "/ability/battle-armor",
+                    "effect": "The Pok\u00e9mon is protected against critical hits.",
+                    "hidden": false
+                },
+                "Defiant": {
+                    "href": "/ability/defiant",
+                    "effect": "Sharply raises Attack when the Pok\u00e9mon's stats are lowered.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack, 1 Sp. Def",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "165",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "65",
+                "Min": "240",
+                "Max": "334"
+            },
+            "Attack": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Defense": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Sp. Atk": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Def": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Speed": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Total": "470"
+        },
+        "defense_stats": {
+            "default": {
+                "Flying": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Dark": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Protect": "1",
+            "Tackle": "1",
+            "Rock Smash": "5",
+            "Focus Energy": "10",
+            "Headbutt": "15",
+            "Bulk Up": "20",
+            "Endure": "25",
+            "Reversal": "30",
+            "First Impression": "35",
+            "No Retreat": "40",
+            "Iron Defense": "45",
+            "Close Combat": "50",
+            "Megahorn": "55",
+            "Counter": "60"
+        },
+        "egg": null,
+        "tm": {
+            "Take Down": "01",
+            "Agility": "04",
+            "Protect": "07",
+            "Trailblaze": "20",
+            "Facade": "25",
+            "Rock Tomb": "36",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Smart Strike": "53",
+            "False Swipe": "57",
+            "Brick Break": "58",
+            "Zen Headbutt": "59",
+            "Bulk Up": "64",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Poison Jab": "83",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Swords Dance": "88",
+            "Body Press": "89",
+            "Iron Head": "99",
+            "Substitute": "103",
+            "Iron Defense": "104",
+            "Helping Hand": "130",
+            "Reversal": "134",
+            "Giga Impact": "152",
+            "Focus Blast": "158",
+            "Hyper Beam": "163",
+            "Close Combat": "167",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Falinks": [
+            "Five of them are troopers, and one is the brass. The brass\u2019s orders are absolute.",
+            "The six of them work together as one Pok\u00e9mon. Teamwork is also their battle strategy, and they constantly change their formation as they fight.",
+            "The brass, which is the one that stands at the front and issues orders, is the strongest and smartest of the six.",
+            "The leader, known as the brass, uses its extendible horn to issue orders to the others when it\u2019s time to change formation."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793387675189268/870.png",
+    "discord_sprite": "<:P870:1132151083016388659>"
+}

@@ -1,0 +1,184 @@
+{
+    "alt-version(s)": [],
+    "name": "Hawlucha",
+    "Hawlucha": {
+        "pokedex_data": {
+            "National No.": "0701",
+            "Type": [
+                "Fighting",
+                "Flying"
+            ],
+            "Species": "Wrestling Poke\u0301mon",
+            "Height": "0.8 m (2\u203207\u2032\u2032)",
+            "Weight": "21.5 kg (47.4 lbs)",
+            "Abilities": {
+                "Limber": {
+                    "href": "/ability/limber",
+                    "effect": "The Pok\u00e9mon is protected from paralysis.",
+                    "hidden": false
+                },
+                "Unburden": {
+                    "href": "/ability/unburden",
+                    "effect": "Raises Speed if a held item is used.",
+                    "hidden": false
+                },
+                "Mold Breaker": {
+                    "href": "/ability/mold-breaker",
+                    "effect": "Moves can be used regardless of Abilities.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "100",
+            "BaseFriendship": "50",
+            "Base Exp.": "175",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "78",
+                "Min": "266",
+                "Max": "360"
+            },
+            "Attack": {
+                "Base": "92",
+                "Min": "170",
+                "Max": "311"
+            },
+            "Defense": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Sp. Atk": {
+                "Base": "74",
+                "Min": "137",
+                "Max": "271"
+            },
+            "Sp. Def": {
+                "Base": "63",
+                "Min": "117",
+                "Max": "247"
+            },
+            "Speed": {
+                "Base": "118",
+                "Min": "216",
+                "Max": "368"
+            },
+            "Total": "500"
+        },
+        "defense_stats": {
+            "default": {
+                "Electric": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Ground": "no effect",
+                "Flying": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Dark": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Hone Claws": "1",
+            "Tackle": "1",
+            "Wing Attack": "4",
+            "Detect": "8",
+            "Aerial Ace": "12",
+            "Encore": "16",
+            "Feather Dance": "20",
+            "Brick Break": "24",
+            "Bounce": "28",
+            "Taunt": "32",
+            "Roost": "36",
+            "Swords Dance": "40",
+            "Flying Press": "44",
+            "High Jump Kick": "48",
+            "Endeavor": "52",
+            "Sky Attack": "56"
+        },
+        "egg": {
+            "Cross Chop": null,
+            "Defog": null,
+            "Entrainment": null,
+            "Feint": null,
+            "Mean Look": null,
+            "Quick Guard": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Agility": "04",
+            "Protect": "07",
+            "Low Kick": "12",
+            "Acrobatics": "14",
+            "Thief": "18",
+            "Trailblaze": "20",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Swift": "32",
+            "Rock Tomb": "36",
+            "Low Sweep": "39",
+            "Fling": "43",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Dig": "55",
+            "False Swipe": "57",
+            "Brick Break": "58",
+            "Zen Headbutt": "59",
+            "U-turn": "60",
+            "Bulk Up": "64",
+            "Body Slam": "66",
+            "Fire Punch": "67",
+            "Thunder Punch": "68",
+            "Sleep Talk": "70",
+            "Drain Punch": "73",
+            "Grass Knot": "81",
+            "Poison Jab": "83",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Taunt": "87",
+            "Swords Dance": "88",
+            "Body Press": "89",
+            "Fly": "97",
+            "Iron Head": "99",
+            "Substitute": "103",
+            "X-Scissor": "105",
+            "Encore": "122",
+            "Helping Hand": "130",
+            "Baton Pass": "132",
+            "Reversal": "134",
+            "Stone Edge": "150",
+            "Giga Impact": "152",
+            "Focus Blast": "158",
+            "Hyper Beam": "163",
+            "Brave Bird": "164",
+            "Close Combat": "167",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Hawlucha": [
+            "Although its body is small, its proficient fighting skills enable it to keep up with big bruisers like Machamp and Hariyama.",
+            "With its wings, it controls its position in the air. It likes to attack from above, a maneuver that is difficult to defend against.",
+            "It overwhelms opponents with quick moves, but sometimes it showboats for too long when it\u2019s using a special move and gets itself into a pinch.",
+            "In combat, Hawlucha leaps nimbly about, taking advantage of its opponents\u2019 blind spots. It\u2019s also skilled at using superb submission holds.",
+            "It drives its opponents to exhaustion with its agile maneuvers, then ends the fight with a flashy finishing move.",
+            "It always strikes a pose before going for its finishing move. Sometimes opponents take advantage of that time to counterattack.",
+            "Its elegant finishing moves\u2014performed by nimbly leaping around using its wings\u2014are polished in the forest where it was born and raised.",
+            "Hawlucha live quietly without flocking together. They fight constantly with their natural enemies: noisy groups of Primeape."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792066616229908/701.png",
+    "discord_sprite": "<:P701:1132143586775928936>"
+}

@@ -1,0 +1,198 @@
+{
+    "alt-version(s)": [],
+    "name": "Starly",
+    "Starly": {
+        "pokedex_data": {
+            "National No.": "0396",
+            "Type": [
+                "Normal",
+                "Flying"
+            ],
+            "Species": "Starling Poke\u0301mon",
+            "Height": "0.3 m (1\u203200\u2032\u2032)",
+            "Weight": "2.0 kg (4.4 lbs)",
+            "Abilities": {
+                "Keen Eye": {
+                    "href": "/ability/keen-eye",
+                    "effect": "Prevents other Pok\u00e9mon from lowering accuracy.",
+                    "hidden": false
+                },
+                "Reckless": {
+                    "href": "/ability/reckless",
+                    "effect": "Powers up moves that have recoil damage.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Speed",
+            "Catch rate": "255",
+            "BaseFriendship": "50",
+            "Base Exp.": "49",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "40",
+                "Min": "190",
+                "Max": "284"
+            },
+            "Attack": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Defense": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Sp. Atk": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Sp. Def": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Speed": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Total": "245"
+        },
+        "defense_stats": {
+            "default": {
+                "Electric": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Ground": "no effect",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Starly",
+                    "nationalNo": "#0396",
+                    "type": [
+                        "Normal",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Staravia",
+                    "nationalNo": "#0397",
+                    "type": [
+                        "Normal",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 14)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Staravia",
+                    "nationalNo": "#0397",
+                    "type": [
+                        "Normal",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Staraptor",
+                    "nationalNo": "#0398",
+                    "type": [
+                        "Normal",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 34)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Growl": "1",
+            "Tackle": "1",
+            "Quick Attack": "5",
+            "Wing Attack": "9",
+            "Double Team": "13",
+            "Endeavor": "17",
+            "Whirlwind": "21",
+            "Aerial Ace": "25",
+            "Take Down": "29",
+            "Agility": "33",
+            "Brave Bird": "37",
+            "Final Gambit": "41"
+        },
+        "egg": {
+            "Astonish": null,
+            "Double-Edge": null,
+            "Feather Dance": null,
+            "Fury Attack": null,
+            "Sand Attack": null,
+            "Uproar": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Agility": "04",
+            "Protect": "07",
+            "Acrobatics": "14",
+            "Thief": "18",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Swift": "32",
+            "Air Cutter": "40",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "U-turn": "60",
+            "Air Slash": "65",
+            "Sleep Talk": "70",
+            "Rest": "85",
+            "Fly": "97",
+            "Substitute": "103",
+            "Tailwind": "113",
+            "Heat Wave": "118",
+            "Helping Hand": "130",
+            "Hurricane": "160",
+            "Brave Bird": "164",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Starly": [
+            "They flock in great numbers. Though small, they flap their wings with great power.",
+            "Usually with a large flock, it is barely noticeable when alone. Its cries are very strident.",
+            "Because they are weak individually, they form groups. However, they bicker if the group grows too big.",
+            "They flock around mountains and fields, chasing after bug Pok\u00e9mon. Their singing is noisy and annoying.",
+            "Because they are weak individually, they form groups. However, they bicker if the group grows too big.",
+            "They flock in great numbers. Though small, they flap their wings with great power.",
+            "They flock around mountains and fields, chasing after bug Pok\u00e9mon. Their singing is noisy and annoying.",
+            "They flock in great numbers. Though small, they flap their wings with great power.",
+            "Usually with a large flock, it is barely noticeable when alone. Its cries are very strident.",
+            "They live in the fields and mountains, gathering in large flocks. Their cries are quite obnoxious. Though small, their wings are strong\u2014a strike from them leaves pain that persists for a week.",
+            "They flock around mountains and fields, chasing after bug Pok\u00e9mon. Their singing is noisy and annoying.",
+            "Because they are weak individually, they form groups. However, they bicker if the group grows too big."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789693374177420/396.png",
+    "discord_sprite": "<:P396:1132130159336628234>"
+}

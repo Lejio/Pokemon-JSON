@@ -1,0 +1,185 @@
+{
+    "alt-version(s)": [],
+    "name": "Scovillain",
+    "Scovillain": {
+        "pokedex_data": {
+            "National No.": "0952",
+            "Type": [
+                "Grass",
+                "Fire"
+            ],
+            "Species": "Spicy Pepper Poke\u0301mon",
+            "Height": "0.9 m (2\u203211\u2032\u2032)",
+            "Weight": "15.0 kg (33.1 lbs)",
+            "Abilities": {
+                "Chlorophyll": {
+                    "href": "/ability/chlorophyll",
+                    "effect": "Boosts the Pok\u00e9mon's Speed in sunshine.",
+                    "hidden": false
+                },
+                "Insomnia": {
+                    "href": "/ability/insomnia",
+                    "effect": "Prevents the Pok\u00e9mon from falling asleep.",
+                    "hidden": false
+                },
+                "Moody": {
+                    "href": "/ability/moody",
+                    "effect": "Raises one stat and lowers another.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "75",
+            "BaseFriendship": "50",
+            "Base Exp.": "170",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "65",
+                "Min": "240",
+                "Max": "334"
+            },
+            "Attack": {
+                "Base": "108",
+                "Min": "198",
+                "Max": "346"
+            },
+            "Defense": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Atk": {
+                "Base": "108",
+                "Min": "198",
+                "Max": "346"
+            },
+            "Sp. Def": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Speed": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Total": "486"
+        },
+        "defense_stats": {
+            "default": {
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Poison": "super-effective",
+                "Flying": "super-effective",
+                "Rock": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Capsakid",
+                    "nationalNo": "#0951",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Scovillain",
+                    "nationalNo": "#0952",
+                    "type": [
+                        "Grass",
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Fire Stone)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Fire Fang": "1",
+            "Leafage": "1",
+            "Leer": "1",
+            "Bite": "4",
+            "Growth": "10",
+            "Razor Leaf": "13",
+            "Sunny Day": "17",
+            "Bullet Seed": "21",
+            "Headbutt": "24",
+            "Zen Headbutt": "28",
+            "Worry Seed": "33",
+            "Crunch": "38",
+            "Seed Bomb": "44",
+            "Overheat": "48",
+            "Solar Beam": "48"
+        },
+        "evolution": {
+            "Flamethrower": "90",
+            "Spicy Extract": "\u2014"
+        },
+        "egg": {
+            "Ingrain": null,
+            "Leech Seed": null,
+            "Rage Powder": null,
+            "Rollout": null,
+            "Worry Seed": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Fire Fang": "08",
+            "Thief": "18",
+            "Trailblaze": "20",
+            "Facade": "25",
+            "Magical Leaf": "33",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Sandstorm": "51",
+            "Bullet Seed": "56",
+            "Zen Headbutt": "59",
+            "Sleep Talk": "70",
+            "Seed Bomb": "71",
+            "Grass Knot": "81",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Substitute": "103",
+            "Will-O-Wisp": "107",
+            "Crunch": "108",
+            "Giga Drain": "111",
+            "Energy Ball": "119",
+            "Flamethrower": "125",
+            "Helping Hand": "130",
+            "Grassy Terrain": "137",
+            "Fire Blast": "141",
+            "Giga Impact": "152",
+            "Overheat": "157",
+            "Leaf Storm": "159",
+            "Hyper Beam": "163",
+            "Solar Beam": "168",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Scovillain": [
+            "The red head converts spicy chemicals into fire energy and blasts the surrounding area with a super spicy stream of flame.",
+            "The green head has turned vicious due to the spicy chemicals stimulating its brain. Once it goes on a rampage, there is no stopping it."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131794025201025044/952.png",
+    "discord_sprite": "<:P952:1132154683167879289>"
+}

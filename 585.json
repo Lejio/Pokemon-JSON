@@ -1,0 +1,231 @@
+{
+    "alt-version(s)": [],
+    "name": "Deerling",
+    "Deerling": {
+        "pokedex_data": {
+            "National No.": "0585",
+            "Type": [
+                "Normal",
+                "Grass"
+            ],
+            "Species": "Season Poke\u0301mon",
+            "Height": "0.6 m (2\u203200\u2032\u2032)",
+            "Weight": "19.5 kg (43.0 lbs)",
+            "Abilities": {
+                "Chlorophyll": {
+                    "href": "/ability/chlorophyll",
+                    "effect": "Boosts the Pok\u00e9mon's Speed in sunshine.",
+                    "hidden": false
+                },
+                "Sap Sipper": {
+                    "href": "/ability/sap-sipper",
+                    "effect": "Boosts Attack when hit by a Grass-type move.",
+                    "hidden": false
+                },
+                "Serene Grace": {
+                    "href": "/ability/serene-grace",
+                    "effect": "Boosts the likelihood of added effects appearing.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Speed",
+            "Catch rate": "190",
+            "BaseFriendship": "50",
+            "Base Exp.": "67",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "60",
+                "Min": "230",
+                "Max": "324"
+            },
+            "Attack": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Defense": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Atk": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Def": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Speed": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Total": "335"
+        },
+        "defense_stats": {
+            "Chlorophyll ability": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "super-effective",
+                "Poison": "super-effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Bug": "super-effective",
+                "Ghost": "no effect"
+            },
+            "Sap Sipper ability": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "no effect",
+                "Ice": "super-effective",
+                "Fighting": "super-effective",
+                "Poison": "super-effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Bug": "super-effective",
+                "Ghost": "no effect"
+            },
+            "Serene Grace ability": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "super-effective",
+                "Poison": "super-effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Bug": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Deerling",
+                    "nationalNo": "#0585",
+                    "type": [
+                        "Normal",
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Sawsbuck",
+                    "nationalNo": "#0586",
+                    "type": [
+                        "Normal",
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 34)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Tackle": "1",
+            "Growl": "4",
+            "Sand Attack": "7",
+            "Double Kick": "10",
+            "Leech Seed": "13",
+            "Bullet Seed": "16",
+            "Take Down": "20",
+            "Zen Headbutt": "24",
+            "Energy Ball": "28",
+            "Charm": "32",
+            "Double-Edge": "37",
+            "Solar Beam": "42"
+        },
+        "egg": {
+            "Agility": null,
+            "Baton Pass": null,
+            "Fake Tears": null,
+            "Headbutt": null,
+            "Sleep Talk": null,
+            "Synthesis": null,
+            "Worry Seed": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Charm": "02",
+            "Fake Tears": "03",
+            "Agility": "04",
+            "Protect": "07",
+            "Trailblaze": "20",
+            "Facade": "25",
+            "Bulldoze": "28",
+            "Magical Leaf": "33",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Dig": "55",
+            "Bullet Seed": "56",
+            "Zen Headbutt": "59",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Seed Bomb": "71",
+            "Light Screen": "75",
+            "Grass Knot": "81",
+            "Thunder Wave": "82",
+            "Rest": "85",
+            "Substitute": "103",
+            "Giga Drain": "111",
+            "Shadow Ball": "114",
+            "Energy Ball": "119",
+            "Play Rough": "127",
+            "Helping Hand": "130",
+            "Baton Pass": "132",
+            "Grassy Terrain": "137",
+            "Wild Charge": "147",
+            "Leaf Storm": "159",
+            "Solar Beam": "168",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Deerling": [
+            "The color and scent of their fur changes to match the mountain grass. When they sense hostility, they hide in the grass.",
+            "The turning of the seasons changes the color and scent of this Pok\u00e9mon\u2019s fur. People use it to mark the seasons.",
+            "Their coloring changes according to the seasons and can be slightly affected by the temperature and humidity as well.",
+            "Their coloring changes according to the seasons and can be slightly affected by the temperature and humidity as well.",
+            "The turning of the seasons changes the color and scent of this Pok\u00e9mon\u2019s fur. People use it to mark the seasons."
+        ],
+        "Autumn Form": [
+            "These Pok\u00e9mon are not shy\u2014they will behave as they please, even in front of people. If you feed one of them, it will quickly take a liking to you.",
+            "Deerling have different scents depending on the season. In this form, Deerling have a softly sweet scent that lingers in the nose."
+        ],
+        "Spring Form": [
+            "Deerling have different scents depending on the season. In early spring, these Pok\u00e9mon give off a delicate, sweet, and calming scent.",
+            "Despite Deerling\u2019s adorable appearance, farmers consider it a nuisance since it loves plant shoots and will eat them all up."
+        ],
+        "Summer Form": [
+            "To prevent Deerling from entering their fields, many farmers will have several Lycanroc stand guard, as they are the natural enemy of Deerling.",
+            "Deerling have different scents depending on the season. When a distinct grassy smell starts to waft from one, you know that summer has begun."
+        ],
+        "Winter Form": [
+            "Deerling\u2019s scent changes with the seasons, but when the Pok\u00e9mon is in its Winter Form, it has hardly any scent at all.",
+            "This Pok\u00e9mon will playfully headbutt those it gets along well with. It has antlers hidden under its flower, so the headbutts are a little painful."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791161812586566/585.png",
+    "discord_sprite": "<:P585:1132138481573974077>"
+}

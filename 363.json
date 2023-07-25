@@ -1,0 +1,229 @@
+{
+    "alt-version(s)": [],
+    "name": "Spheal",
+    "Spheal": {
+        "pokedex_data": {
+            "National No.": "0363",
+            "Type": [
+                "Ice",
+                "Water"
+            ],
+            "Species": "Clap Poke\u0301mon",
+            "Height": "0.8 m (2\u203207\u2032\u2032)",
+            "Weight": "39.5 kg (87.1 lbs)",
+            "Abilities": {
+                "Thick Fat": {
+                    "href": "/ability/thick-fat",
+                    "effect": "Ups resistance to Fire- and Ice-type moves.",
+                    "hidden": false
+                },
+                "Ice Body": {
+                    "href": "/ability/ice-body",
+                    "effect": "The Pok\u00e9mon gradually regains HP in a hailstorm.",
+                    "hidden": false
+                },
+                "Oblivious": {
+                    "href": "/ability/oblivious",
+                    "effect": "Prevents it from becoming infatuated.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 HP",
+            "Catch rate": "255",
+            "BaseFriendship": "50",
+            "Base Exp.": "58",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "70",
+                "Min": "250",
+                "Max": "344"
+            },
+            "Attack": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Defense": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Atk": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Sp. Def": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Speed": {
+                "Base": "25",
+                "Min": "49",
+                "Max": "163"
+            },
+            "Total": "290"
+        },
+        "defense_stats": {
+            "Thick Fat ability": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Rock": "super-effective"
+            },
+            "Ice Body ability": {
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Rock": "super-effective"
+            },
+            "Oblivious ability": {
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Rock": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Spheal",
+                    "nationalNo": "#0363",
+                    "type": [
+                        "Ice",
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Sealeo",
+                    "nationalNo": "#0364",
+                    "type": [
+                        "Ice",
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 32)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Sealeo",
+                    "nationalNo": "#0364",
+                    "type": [
+                        "Ice",
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Walrein",
+                    "nationalNo": "#0365",
+                    "type": [
+                        "Ice",
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 44)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Defense Curl": "1",
+            "Rollout": "1",
+            "Growl": "4",
+            "Water Gun": "8",
+            "Powder Snow": "12",
+            "Rest": "16",
+            "Snore": "20",
+            "Brine": "24",
+            "Aurora Beam": "28",
+            "Encore": "33",
+            "Body Slam": "36",
+            "Surf": "40",
+            "Blizzard": "44",
+            "Hail": "48",
+            "Sheer Cold": "52"
+        },
+        "egg": {
+            "Aqua Ring": null,
+            "Belly Drum": null,
+            "Curse": null,
+            "Fissure": null,
+            "Rollout": null,
+            "Spit Up": null,
+            "Stockpile": null,
+            "Swallow": null,
+            "Yawn": null
+        },
+        "tm": {
+            "Water Pulse": "03",
+            "Hail": "07",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Iron Tail": "23",
+            "Earthquake": "26",
+            "Double Team": "32",
+            "Rock Tomb": "39",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Brine": "55",
+            "Endure": "58",
+            "Rock Slide": "80",
+            "Sleep Talk": "82",
+            "Bulldoze": "83",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Surf": "95",
+            "Strength": "96",
+            "Rock Smash": "98",
+            "Waterfall": "99"
+        }
+    },
+    "entries": {
+        "Spheal": [
+            "SPHEAL is much faster rolling than walking to get around. When groups of this pok\u00e9mon eat, they all clap at once to show their pleasure. Because of this, their mealtimes are noisy.",
+            "SPHEAL always travels by rolling around on its ball-like body. When the season for ice floes arrives, this pok\u00e9mon can be seen rolling about on ice and crossing the sea.",
+            "Its body is covered in fluffy fur. The fur keeps it from feeling cold while it is rolling on ice.",
+            "It is completely covered with plushy fur. As a result, it never feels the cold even when it is rolling about on ice floes or diving in the sea.",
+            "It rolls across ice floes to reach shore because its body is poorly shaped for swimming.",
+            "It crosses the oceans by rolling itself on drifting ice. Fluffy fur keeps it warm when the temperature is below freezing.",
+            "It rolls across ice floes to reach shore because its body is poorly shaped for swimming.",
+            "They can\u2019t swim well yet, and they move much faster by rolling. When they\u2019re happy, they clap fins.",
+            "They can\u2019t swim well yet, and they move much faster by rolling. When they\u2019re happy, they clap fins.",
+            "Its body is covered in fluffy fur. The fur keeps it from feeling cold while it is rolling on ice.",
+            "Spheal is much faster rolling than walking to get around. When groups of this Pok\u00e9mon eat, they all clap at once to show their pleasure. Because of this, their mealtimes are noisy.",
+            "Spheal always travels by rolling around on its ball-like body. When the season for ice floes arrives, this Pok\u00e9mon can be seen rolling about on ice and crossing the sea.",
+            "This Pok\u00e9mon\u2019s body is covered in blubber and impressively round. It\u2019s faster for Spheal to roll around than walk.",
+            "As it drifts among the waves, Spheal probes the sea. As soon as it spots prey, it informs the Walrein in its herd.",
+            "It rolls across ice floes to reach shore because its body is poorly shaped for swimming.",
+            "During the season when drift ice approaches the shore, Spheal prefers living on the ice\u2014where fewer predators lurk\u2014rather than the land. Its fur retains heat superbly and resists harsh cold."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789436473057300/363.png",
+    "discord_sprite": "<:P363:1132128709038583848>"
+}

@@ -1,0 +1,205 @@
+{
+    "alt-version(s)": [],
+    "name": "Pidgey",
+    "Pidgey": {
+        "pokedex_data": {
+            "National No.": "0016",
+            "Type": [
+                "Normal",
+                "Flying"
+            ],
+            "Species": "Tiny Bird Poke\u0301mon",
+            "Height": "0.3 m (1\u203200\u2032\u2032)",
+            "Weight": "1.8 kg (4.0 lbs)",
+            "Abilities": {
+                "Keen Eye": {
+                    "href": "/ability/keen-eye",
+                    "effect": "Prevents other Pok\u00e9mon from lowering accuracy.",
+                    "hidden": false
+                },
+                "Tangled Feet": {
+                    "href": "/ability/tangled-feet",
+                    "effect": "Raises evasion if the Pok\u00e9mon is confused.",
+                    "hidden": false
+                },
+                "Big Pecks": {
+                    "href": "/ability/big-pecks",
+                    "effect": "Protects the Pok\u00e9mon from Defense-lowering attacks.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Speed",
+            "Catch rate": "255",
+            "BaseFriendship": "50",
+            "Base Exp.": "50",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "40",
+                "Min": "190",
+                "Max": "284"
+            },
+            "Attack": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Defense": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Atk": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Sp. Def": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Speed": {
+                "Base": "56",
+                "Min": "105",
+                "Max": "232"
+            },
+            "Total": "251"
+        },
+        "defense_stats": {
+            "default": {
+                "Electric": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Ground": "no effect",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Pidgey",
+                    "nationalNo": "#0016",
+                    "type": [
+                        "Normal",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Pidgeotto",
+                    "nationalNo": "#0017",
+                    "type": [
+                        "Normal",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 18)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Pidgeotto",
+                    "nationalNo": "#0017",
+                    "type": [
+                        "Normal",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Pidgeot",
+                    "nationalNo": "#0018",
+                    "type": [
+                        "Normal",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 36)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Tackle": "1",
+            "Sand Attack": "5",
+            "Gust": "9",
+            "Quick Attack": "13",
+            "Whirlwind": "17",
+            "Twister": "21",
+            "Feather Dance": "25",
+            "Agility": "29",
+            "Wing Attack": "33",
+            "Roost": "37",
+            "Tailwind": "41",
+            "Aerial Ace": "45",
+            "Air Slash": "49",
+            "Hurricane": "53"
+        },
+        "egg": {
+            "Air Cutter": null,
+            "Air Slash": null,
+            "Brave Bird": null,
+            "Uproar": null
+        },
+        "tm": {
+            "Work Up": "10",
+            "Sunny Day": "11",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Double Team": "32",
+            "Aerial Ace": "40",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Steel Wing": "47",
+            "Roost": "51",
+            "Endure": "58",
+            "Sleep Talk": "82",
+            "Swagger": "87",
+            "Pluck": "88",
+            "U-turn": "89",
+            "Substitute": "90",
+            "Fly": "94",
+            "Defog": "97"
+        }
+    },
+    "entries": {
+        "Pidgey": [
+            "A common sight in forests and woods. It flaps its wings at ground level to kick up blinding sand.",
+            "Very docile. If attacked, it will often kick up sand to protect itself rather than fight back.",
+            "It usually hides in tall grass. Because it dislikes fighting, it protects itself by kicking up sand.",
+            "Common in grassy areas and forests, it is very docile and will chase off enemies by flapping up sand.",
+            "It rapidly flaps its wings in the grass, stirring up a dust cloud that drives insect prey out into the open.",
+            "PIDGEY has an extremely sharp sense of direction. It is capable of unerringly returning home to its nest, however far it may be removed from its familiar surroundings.",
+            "Does not like to fight. It hides in tall grass and so on, foraging for food such as small bugs.",
+            "A common sight in forests and woods. It flaps its wings at ground level to kick up blinding sand.",
+            "It has an extremely sharp sense of direction. It can unerringly return home to its nest, however far it may be removed from its familiar surroundings.",
+            "It is docile and prefers to avoid conflict. If disturbed, however, it can ferociously strike back.",
+            "It usually hides in tall grass. Because it dislikes fighting, it protects itself by kicking up sand.",
+            "Common in grassy areas and forests, it is very docile and will chase off enemies by flapping up sand.",
+            "It is docile and prefers to avoid conflict. If disturbed, however, it can ferociously strike back.",
+            "A common sight in forests and woods. It flaps its wings at ground level to kick up blinding sand.",
+            "It is docile and prefers to avoid conflict. If disturbed, however, it can ferociously strike back.",
+            "Pidgey has an extremely sharp sense of direction. It is capable of unerringly returning home to its nest, however far it may be removed from its familiar surroundings.",
+            "Very docile. If attacked, it will often kick up sand to protect itself rather than fight back.",
+            "It is docile and prefers to avoid conflict. If disturbed, however, it can ferociously strike back."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131786713455407185/16.png",
+    "discord_sprite": "<:P16:1131972596116750366>"
+}

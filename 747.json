@@ -1,0 +1,182 @@
+{
+    "alt-version(s)": [],
+    "name": "Mareanie",
+    "Mareanie": {
+        "pokedex_data": {
+            "National No.": "0747",
+            "Type": [
+                "Poison",
+                "Water"
+            ],
+            "Species": "Brutal Star Poke\u0301mon",
+            "Height": "0.4 m (1\u203204\u2032\u2032)",
+            "Weight": "8.0 kg (17.6 lbs)",
+            "Abilities": {
+                "Merciless": {
+                    "href": "/ability/merciless",
+                    "effect": "The Pok\u00e9mon's attacks become critical hits if the target is poisoned.",
+                    "hidden": false
+                },
+                "Limber": {
+                    "href": "/ability/limber",
+                    "effect": "The Pok\u00e9mon is protected from paralysis.",
+                    "hidden": false
+                },
+                "Regenerator": {
+                    "href": "/ability/regenerator",
+                    "effect": "Restores a little HP when withdrawn from battle.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Defense",
+            "Catch rate": "190",
+            "BaseFriendship": "50",
+            "Base Exp.": "61",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "50",
+                "Min": "210",
+                "Max": "304"
+            },
+            "Attack": {
+                "Base": "53",
+                "Min": "99",
+                "Max": "225"
+            },
+            "Defense": {
+                "Base": "62",
+                "Min": "116",
+                "Max": "245"
+            },
+            "Sp. Atk": {
+                "Base": "43",
+                "Min": "81",
+                "Max": "203"
+            },
+            "Sp. Def": {
+                "Base": "52",
+                "Min": "98",
+                "Max": "223"
+            },
+            "Speed": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Total": "305"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "not very effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Mareanie",
+                    "nationalNo": "#0747",
+                    "type": [
+                        "Poison",
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Toxapex",
+                    "nationalNo": "#0748",
+                    "type": [
+                        "Poison",
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 38)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Peck": "1",
+            "Poison Sting": "1",
+            "Wide Guard": "5",
+            "Bite": "10",
+            "Venoshock": "15",
+            "Recover": "20",
+            "Pin Missile": "25",
+            "Toxic Spikes": "30",
+            "Liquidation": "35",
+            "Acid Spray": "40",
+            "Poison Jab": "45",
+            "Toxic": "50"
+        },
+        "egg": {
+            "Haze": null,
+            "Infestation": null,
+            "Spit Up": null,
+            "Stockpile": null,
+            "Swallow": null
+        },
+        "tm": {
+            "Protect": "07",
+            "Water Pulse": "11",
+            "Acid Spray": "13",
+            "Pounce": "21",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Icy Wind": "34",
+            "Mud Shot": "35",
+            "Venoshock": "45",
+            "Endure": "47",
+            "Rain Dance": "50",
+            "Sleep Talk": "70",
+            "Poison Jab": "83",
+            "Rest": "85",
+            "Toxic Spikes": "91",
+            "Gunk Shot": "102",
+            "Substitute": "103",
+            "Iron Defense": "104",
+            "Liquidation": "110",
+            "Surf": "123",
+            "Ice Spinner": "124",
+            "Ice Beam": "135",
+            "Hydro Pump": "142",
+            "Blizzard": "143",
+            "Sludge Bomb": "148",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Mareanie": [
+            "It plunges the poison spike on its head into its prey. When the prey has weakened, Mareanie deals the finishing blow with its 10 tentacles.",
+            "It\u2019s found crawling on beaches and seafloors. The coral that grows on Corsola\u2019s head is as good as a five-star banquet to this Pok\u00e9mon.",
+            "They eat Corsola branches, so Mareanie are hated by craftsmen who work with Corsola branches that have naturally fallen off.",
+            "Aside from its head, its body parts regenerate quickly if they\u2019re cut off. After a good night\u2019s sleep, Mareanie is back to normal.",
+            "The first symptom of its sting is numbness. The next is an itching sensation so intense that it\u2019s impossible to resist the urge to claw at your skin.",
+            "Unlike their Alolan counterparts, the Mareanie of the Galar region have not yet figured out that the branches of Corsola are delicious.",
+            "This Pok\u00e9mon wanders the seaside looking for food. It often gets electric shocks from broken Pincurchin spines that it tries to eat.",
+            "It has excellent regenerative capabilities. Legs that a Mareanie has lost have a very bitter, astringent flavor\u2014they\u2019re not suitable as food."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792430602129488/747.png",
+    "discord_sprite": "<:P747:1132145666760658994>"
+}

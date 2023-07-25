@@ -1,0 +1,182 @@
+{
+    "alt-version(s)": [],
+    "name": "Cufant",
+    "Cufant": {
+        "pokedex_data": {
+            "National No.": "0878",
+            "Type": [
+                "Steel"
+            ],
+            "Species": "Copperderm Poke\u0301mon",
+            "Height": "1.2 m (3\u203211\u2032\u2032)",
+            "Weight": "100.0 kg (220.5 lbs)",
+            "Abilities": {
+                "Sheer Force": {
+                    "href": "/ability/sheer-force",
+                    "effect": "Removes added effects to increase move damage.",
+                    "hidden": false
+                },
+                "Heavy Metal": {
+                    "href": "/ability/heavy-metal",
+                    "effect": "Doubles the Pok\u00e9mon's weight.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack",
+            "Catch rate": "190",
+            "BaseFriendship": "50",
+            "Base Exp.": "66",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "72",
+                "Min": "254",
+                "Max": "348"
+            },
+            "Attack": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Defense": {
+                "Base": "49",
+                "Min": "92",
+                "Max": "216"
+            },
+            "Sp. Atk": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Def": {
+                "Base": "49",
+                "Min": "92",
+                "Max": "216"
+            },
+            "Speed": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Total": "330"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Fire": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Poison": "no effect",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Dragon": "not very effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Cufant",
+                    "nationalNo": "#0878",
+                    "type": [
+                        "Steel"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Copperajah",
+                    "nationalNo": "#0879",
+                    "type": [
+                        "Steel"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 34)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Growl": "1",
+            "Tackle": "1",
+            "Rollout": "5",
+            "Rock Smash": "10",
+            "Bulldoze": "15",
+            "Stomp": "20",
+            "Iron Defense": "25",
+            "Dig": "30",
+            "Strength": "35",
+            "Iron Head": "40",
+            "Play Rough": "45",
+            "High Horsepower": "50",
+            "Superpower": "55"
+        },
+        "egg": {
+            "Belch": null,
+            "Curse": null,
+            "Defense Curl": null,
+            "Double-Edge": null,
+            "Fissure": null,
+            "Slam": null,
+            "Swagger": null,
+            "Whirlwind": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Protect": "07",
+            "Facade": "25",
+            "Bulldoze": "28",
+            "Mud Shot": "35",
+            "Rock Tomb": "36",
+            "Fling": "43",
+            "Endure": "47",
+            "Sandstorm": "51",
+            "Dig": "55",
+            "Brick Break": "58",
+            "Zen Headbutt": "59",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Rock Blast": "76",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Body Press": "89",
+            "Flash Cannon": "93",
+            "Iron Head": "99",
+            "Substitute": "103",
+            "Iron Defense": "104",
+            "Stealth Rock": "116",
+            "Heavy Slam": "121",
+            "Play Rough": "127",
+            "Earth Power": "133",
+            "Earthquake": "149",
+            "Stone Edge": "150",
+            "Steel Beam": "170",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Cufant": [
+            "It digs up the ground with its trunk. It\u2019s also very strong, being able to carry loads of over five tons without any problem at all.",
+            "If a job requires serious strength, this Pok\u00e9mon will excel at it. Its copper body tarnishes in the rain, turning a vibrant green color.",
+            "Using the pointy tip of its trunk, it carves off chunks of hard rocks to eat. It is very docile and helps people with physical labor.",
+            "Cufant can lift loads weighing five tons. In the mornings, it heads into caves with its herd, in search of the ore on which these Pok\u00e9mon feed."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793447515344916/878.png",
+    "discord_sprite": "<:P878:1132151434570387558>"
+}

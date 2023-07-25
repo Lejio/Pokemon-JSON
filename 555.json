@@ -1,0 +1,583 @@
+{
+    "alt-version(s)": [
+        "Standard Mode",
+        "Zen Mode",
+        "Galarian Standard Mode",
+        "Galarian Zen Mode"
+    ],
+    "Standard Mode": {
+        "pokedex_data": {
+            "National No.": "0555",
+            "Type": [
+                "Fire"
+            ],
+            "Species": "Blazing Poke\u0301mon",
+            "Height": "1.3 m (4\u203203\u2032\u2032)",
+            "Weight": "92.9 kg (204.8 lbs)",
+            "Abilities": {
+                "Sheer Force": {
+                    "href": "/ability/sheer-force",
+                    "effect": "Removes added effects to increase move damage.",
+                    "hidden": false
+                },
+                "Zen Mode": {
+                    "href": "/ability/zen-mode",
+                    "effect": "Changes form when HP drops below half.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "60",
+            "BaseFriendship": "50",
+            "Base Exp.": "168",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "105",
+                "Min": "320",
+                "Max": "414"
+            },
+            "Attack": {
+                "Base": "140",
+                "Min": "256",
+                "Max": "416"
+            },
+            "Defense": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Sp. Atk": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Sp. Def": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Speed": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Total": "480"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Ground": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "Zen Mode": {
+        "pokedex_data": {
+            "National No.": "0555",
+            "Type": [
+                "Fire",
+                "Psychic"
+            ],
+            "Species": "Blazing Poke\u0301mon",
+            "Height": "1.3 m (4\u203203\u2032\u2032)",
+            "Weight": "92.9 kg (204.8 lbs)",
+            "Abilities": {
+                "Sheer Force": {
+                    "href": "/ability/sheer-force",
+                    "effect": "Removes added effects to increase move damage.",
+                    "hidden": false
+                },
+                "Zen Mode": {
+                    "href": "/ability/zen-mode",
+                    "effect": "Changes form when HP drops below half.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Sp. Atk",
+            "Catch rate": "60",
+            "BaseFriendship": "50",
+            "Base Exp.": "189",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "105",
+                "Min": "320",
+                "Max": "414"
+            },
+            "Attack": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Defense": {
+                "Base": "105",
+                "Min": "193",
+                "Max": "339"
+            },
+            "Sp. Atk": {
+                "Base": "140",
+                "Min": "256",
+                "Max": "416"
+            },
+            "Sp. Def": {
+                "Base": "105",
+                "Min": "193",
+                "Max": "339"
+            },
+            "Speed": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Total": "540"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Fighting": "not very effective",
+                "Ground": "super-effective",
+                "Psychic": "not very effective",
+                "Rock": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "Galarian Standard Mode": {
+        "pokedex_data": {
+            "National No.": "0555",
+            "Type": [
+                "Ice"
+            ],
+            "Species": "Zen Charm Poke\u0301mon",
+            "Height": "1.7 m (5\u203207\u2032\u2032)",
+            "Weight": "120.0 kg (264.6 lbs)",
+            "Abilities": {
+                "Gorilla Tactics": {
+                    "href": "/ability/gorilla-tactics",
+                    "effect": "Boosts the Pok\u00e9mon's Attack stat but only allows the use of the first selected move.",
+                    "hidden": false
+                },
+                "Zen Mode": {
+                    "href": "/ability/zen-mode",
+                    "effect": "Changes form when HP drops below half.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "60",
+            "BaseFriendship": "50",
+            "Base Exp.": "168",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "105",
+                "Min": "320",
+                "Max": "414"
+            },
+            "Attack": {
+                "Base": "140",
+                "Min": "256",
+                "Max": "416"
+            },
+            "Defense": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Sp. Atk": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Sp. Def": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Speed": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Total": "480"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Rock": "super-effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "Galarian Zen Mode": {
+        "pokedex_data": {
+            "National No.": "0555",
+            "Type": [
+                "Ice",
+                "Fire"
+            ],
+            "Species": "Zen Charm Poke\u0301mon",
+            "Height": "1.7 m (5\u203207\u2032\u2032)",
+            "Weight": "120.0 kg (264.6 lbs)",
+            "Abilities": {
+                "Gorilla Tactics": {
+                    "href": "/ability/gorilla-tactics",
+                    "effect": "Boosts the Pok\u00e9mon's Attack stat but only allows the use of the first selected move.",
+                    "hidden": false
+                },
+                "Zen Mode": {
+                    "href": "/ability/zen-mode",
+                    "effect": "Changes form when HP drops below half.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Sp. Atk",
+            "Catch rate": "60",
+            "BaseFriendship": "50",
+            "Base Exp.": "168",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "105",
+                "Min": "320",
+                "Max": "414"
+            },
+            "Attack": {
+                "Base": "160",
+                "Min": "292",
+                "Max": "460"
+            },
+            "Defense": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Sp. Atk": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Sp. Def": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Speed": {
+                "Base": "135",
+                "Min": "247",
+                "Max": "405"
+            },
+            "Total": "540"
+        },
+        "defense_stats": {
+            "default": {
+                "Water": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Ground": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Darumaka",
+                    "nationalNo": "#0554",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Darmanitan",
+                    "nationalNo": "#0555",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": "Standard Mode"
+                },
+                "requirement": "(Level 35)",
+                "shed": null
+            }
+        ],
+        [
+            {
+                "from": {
+                    "name": "Darumaka",
+                    "nationalNo": "#0554",
+                    "type": [
+                        "Ice"
+                    ],
+                    "nickname": "Galarian Darumaka"
+                },
+                "to": {
+                    "name": "Darmanitan",
+                    "nationalNo": "#0555",
+                    "type": [
+                        "Ice"
+                    ],
+                    "nickname": "Galarian Standard Mode"
+                },
+                "requirement": "(use Ice Stone)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "Standard Mode": {
+            "moves": {
+                "Bite": "1",
+                "Ember": "1",
+                "Hammer Arm": "1",
+                "Tackle": "1",
+                "Taunt": "1",
+                "Incinerate": "12",
+                "Work Up": "16",
+                "Fire Fang": "20",
+                "Headbutt": "24",
+                "Fire Punch": "28",
+                "Uproar": "32",
+                "Belly Drum": "38",
+                "Flare Blitz": "44",
+                "Thrash": "50",
+                "Superpower": "56"
+            },
+            "evolution": {
+                "Hammer Arm": "100"
+            },
+            "egg": {
+                "Extrasensory": null,
+                "Flame Wheel": null,
+                "Focus Punch": null,
+                "Hammer Arm": null,
+                "Take Down": null,
+                "Yawn": null
+            },
+            "null": {
+                "Body Slam": "01",
+                "Flamethrower": "02",
+                "Earthquake": "10",
+                "Psychic": "11",
+                "Focus Energy": "13",
+                "Fire Blast": "15",
+                "Substitute": "20",
+                "Reversal": "21",
+                "Endure": "26",
+                "Sleep Talk": "27",
+                "Encore": "30",
+                "Future Sight": "34",
+                "Uproar": "35",
+                "Heat Wave": "36",
+                "Taunt": "37",
+                "Trick": "38",
+                "Superpower": "39",
+                "Overheat": "43",
+                "Iron Defense": "46",
+                "Bulk Up": "48",
+                "Gyro Ball": "52",
+                "Flare Blitz": "55",
+                "Focus Blast": "64",
+                "Zen Headbutt": "69",
+                "Iron Head": "74",
+                "Stone Edge": "75",
+                "Grass Knot": "77",
+                "Work Up": "85",
+                "Body Press": "99"
+            },
+            "tm": {
+                "Mega Punch": "00",
+                "Mega Kick": "01",
+                "Fire Punch": "03",
+                "Hyper Beam": "08",
+                "Giga Impact": "09",
+                "Solar Beam": "11",
+                "Fire Spin": "13",
+                "Dig": "15",
+                "Rest": "21",
+                "Rock Slide": "22",
+                "Thief": "23",
+                "Snore": "24",
+                "Protect": "25",
+                "Attract": "31",
+                "Sunny Day": "34",
+                "Will-O-Wisp": "38",
+                "Facade": "39",
+                "Brick Break": "43",
+                "Rock Tomb": "48",
+                "U-turn": "56",
+                "Payback": "57",
+                "Fling": "59",
+                "Power Swap": "60",
+                "Guard Swap": "61",
+                "Fire Fang": "68",
+                "Round": "76",
+                "Bulldoze": "81",
+                "Mystical Fire": "92"
+            }
+        },
+        "Galarian Standard Mode": {
+            "moves": {
+                "Bite": "1",
+                "Icicle Crash": "1",
+                "Powder Snow": "1",
+                "Tackle": "1",
+                "Taunt": "1",
+                "Avalanche": "12",
+                "Work Up": "16",
+                "Ice Fang": "20",
+                "Headbutt": "24",
+                "Ice Punch": "28",
+                "Uproar": "32",
+                "Belly Drum": "38",
+                "Blizzard": "44",
+                "Thrash": "50",
+                "Superpower": "56"
+            },
+            "evolution": {
+                "Icicle Crash": "85"
+            },
+            "egg": {
+                "Flame Wheel": null,
+                "Focus Punch": null,
+                "Freeze-Dry": null,
+                "Hammer Arm": null,
+                "Incinerate": null,
+                "Power-Up Punch": null,
+                "Take Down": null,
+                "Yawn": null
+            },
+            "null": {
+                "Body Slam": "01",
+                "Flamethrower": "02",
+                "Ice Beam": "05",
+                "Blizzard": "06",
+                "Earthquake": "10",
+                "Psychic": "11",
+                "Focus Energy": "13",
+                "Fire Blast": "15",
+                "Substitute": "20",
+                "Reversal": "21",
+                "Endure": "26",
+                "Sleep Talk": "27",
+                "Encore": "30",
+                "Uproar": "35",
+                "Heat Wave": "36",
+                "Taunt": "37",
+                "Superpower": "39",
+                "Overheat": "43",
+                "Iron Defense": "46",
+                "Bulk Up": "48",
+                "Gyro Ball": "52",
+                "Flare Blitz": "55",
+                "Focus Blast": "64",
+                "Zen Headbutt": "69",
+                "Iron Head": "74",
+                "Stone Edge": "75",
+                "Grass Knot": "77",
+                "Work Up": "85",
+                "Body Press": "99"
+            },
+            "tm": {
+                "Mega Punch": "00",
+                "Mega Kick": "01",
+                "Fire Punch": "03",
+                "Ice Punch": "04",
+                "Hyper Beam": "08",
+                "Giga Impact": "09",
+                "Solar Beam": "11",
+                "Fire Spin": "13",
+                "Dig": "15",
+                "Rest": "21",
+                "Rock Slide": "22",
+                "Thief": "23",
+                "Snore": "24",
+                "Protect": "25",
+                "Attract": "31",
+                "Sunny Day": "34",
+                "Will-O-Wisp": "38",
+                "Facade": "39",
+                "Brick Break": "43",
+                "Rock Tomb": "48",
+                "U-turn": "56",
+                "Payback": "57",
+                "Fling": "59",
+                "Avalanche": "64",
+                "Ice Fang": "67",
+                "Fire Fang": "68",
+                "Round": "76",
+                "Bulldoze": "81"
+            }
+        }
+    },
+    "entries": {
+        "Darmanitan": [
+            "Its internal fire burns at 2,500\u00b0 F, making enough power that it can destroy a dump truck with one punch.",
+            "When weakened in battle, it transforms into a stone statue. Then it sharpens its mind and fights on mentally.",
+            "When one is injured in a fierce battle, it hardens into a stone-like form. Then it meditates and sharpens its mind.",
+            "When one is injured in a fierce battle, it hardens into a stone-like form. Then it meditates and sharpens its mind.",
+            "Its internal fire burns at 2,500 degrees Fahrenheit, making enough power that it can destroy a dump truck with one punch."
+        ],
+        "Standard Mode": [
+            "The thick arms of this hot-blooded Pok\u00e9mon can deliver punches capable of obliterating a dump truck.",
+            "This Pok\u00e9mon\u2019s power level rises along with the temperature of its fire, which can reach 2,500 degrees Fahrenheit."
+        ],
+        "Zen Mode": [
+            "Through meditation, it calms its raging spirit and hones its psychic powers.",
+            "When wounded, it stops moving. It goes as still as stone to meditate, sharpening its mind and spirit."
+        ],
+        "Galarian Standard Mode": [
+            "On days when blizzards blow through, it comes down to where people live. It stashes food in the snowball on its head, taking it home for later.",
+            "Though it has a gentle disposition, it\u2019s also very strong. It will quickly freeze the snowball on its head before going for a headbutt."
+        ],
+        "Galarian Zen Mode": [
+            "Anger has reignited its atrophied flame sac. This Pok\u00e9mon spews fire everywhere as it rampages indiscriminately.",
+            "Darmanitan takes this form when enraged. It won\u2019t stop spewing flames until its rage has settled, even if its body starts to melt."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790926344360006/555.png",
+    "discord_sprite": "<:P555:1132137159567102054>"
+}

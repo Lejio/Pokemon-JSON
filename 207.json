@@ -1,0 +1,213 @@
+{
+    "alt-version(s)": [],
+    "name": "Gligar",
+    "Gligar": {
+        "pokedex_data": {
+            "National No.": "0207",
+            "Type": [
+                "Ground",
+                "Flying"
+            ],
+            "Species": "FlyScorpion Poke\u0301mon",
+            "Height": "1.1 m (3\u203207\u2032\u2032)",
+            "Weight": "64.8 kg (142.9 lbs)",
+            "Abilities": {
+                "Hyper Cutter": {
+                    "href": "/ability/hyper-cutter",
+                    "effect": "Prevents other Pok\u00e9mon from lowering Attack stat.",
+                    "hidden": false
+                },
+                "Sand Veil": {
+                    "href": "/ability/sand-veil",
+                    "effect": "Boosts the Pok\u00e9mon's evasion in a sandstorm.",
+                    "hidden": false
+                },
+                "Immunity": {
+                    "href": "/ability/immunity",
+                    "effect": "Prevents the Pok\u00e9mon from getting poisoned.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Defense",
+            "Catch rate": "60",
+            "BaseFriendship": "50",
+            "Base Exp.": "86",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "65",
+                "Min": "240",
+                "Max": "334"
+            },
+            "Attack": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Defense": {
+                "Base": "105",
+                "Min": "193",
+                "Max": "339"
+            },
+            "Sp. Atk": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Sp. Def": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Speed": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Total": "430"
+        },
+        "defense_stats": {
+            "default": {
+                "Water": "super-effective",
+                "Electric": "no effect",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Poison": "not very effective",
+                "Ground": "no effect",
+                "Bug": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Gligar",
+                    "nationalNo": "#0207",
+                    "type": [
+                        "Ground",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Gliscor",
+                    "nationalNo": "#0472",
+                    "type": [
+                        "Ground",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(hold Razor Fang, Nighttime)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Poison Sting": "1",
+            "Sand Attack": "4",
+            "Harden": "7",
+            "Knock Off": "10",
+            "Quick Attack": "13",
+            "Fury Cutter": "16",
+            "Mud-Slap": "19",
+            "Acrobatics": "22",
+            "Slash": "27",
+            "U-turn": "30",
+            "Screech": "35",
+            "X-Scissor": "40",
+            "Earthquake": "45",
+            "Swords Dance": "50",
+            "Guillotine": "55"
+        },
+        "egg": {
+            "Agility": null,
+            "Baton Pass": null,
+            "Counter": null,
+            "Cross Poison": null,
+            "Double-Edge": null,
+            "Feint": null,
+            "Metal Claw": null,
+            "Night Slash": null,
+            "Poison Tail": null,
+            "Power Trick": null,
+            "Sand Tomb": null,
+            "Wing Attack": null
+        },
+        "tm": {
+            "Sunny Day": "11",
+            "Taunt": "12",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Iron Tail": "23",
+            "Earthquake": "26",
+            "Dig": "28",
+            "Brick Break": "31",
+            "Double Team": "32",
+            "Sludge Bomb": "36",
+            "Sandstorm": "37",
+            "Rock Tomb": "39",
+            "Aerial Ace": "40",
+            "Torment": "41",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Steel Wing": "47",
+            "Roost": "51",
+            "False Swipe": "54",
+            "Fling": "56",
+            "Endure": "58",
+            "Payback": "66",
+            "Rock Polish": "69",
+            "Stone Edge": "71",
+            "Swords Dance": "75",
+            "Stealth Rock": "76",
+            "Dark Pulse": "79",
+            "Rock Slide": "80",
+            "X-Scissor": "81",
+            "Sleep Talk": "82",
+            "Bulldoze": "83",
+            "Poison Jab": "84",
+            "Swagger": "87",
+            "U-turn": "89",
+            "Substitute": "90",
+            "Cut": "93",
+            "Strength": "96",
+            "Defog": "97",
+            "Rock Smash": "98"
+        }
+    },
+    "entries": {
+        "Gligar": [
+            "It flies straight at its target\u2019s face then clamps down on the startled victim to inject poison.",
+            "It usually clings to cliffs. When it spots its prey, it spreads its wings and glides down to attack.",
+            "It builds its nest on a steep cliff. When it is done gliding, it hops along the ground back to its nest.",
+            "GLIGAR glides through the air without a sound as if it were sliding. This pok\u00e9mon hangs on to the face of its foe using its clawed hind legs and the large pincers on its forelegs, then injects the prey with its poison barb.",
+            "It usually clings to cliffs. When it spots its prey, it spreads its wings and glides down to attack.",
+            "It flies straight at its target\u2019s face, then clamps down on the startled victim to inject poison.",
+            "It glides without making a single sound. It grasps the face of its foe using its hind and large front claws, then stabs with its poison barb.",
+            "It sails on the winds with its limbs extended to strike from the sky. It aims for the prey\u2019s face.",
+            "It glides as if sliding. It startles foes by clamping on to their faces, then jabs with its poison stinger.",
+            "It flies straight at its target\u2019s face, then clamps down on the startled victim to inject poison.",
+            "It usually clings to cliffs. When it spots its prey, it spreads its wings and glides down to attack.",
+            "It glides as if sliding. It startles foes by clamping on to their faces, then jabs with its poison stinger.",
+            "It clamps on to its chosen prey then jabs the stinger on its tail into the prey while it\u2019s stunned with surprise.",
+            "It usually clings to cliffs. When it spots its prey, it spreads its wings and glides down to attack.",
+            "It flies straight at its target\u2019s face, then clamps down on the startled victim to inject poison.",
+            "Gligar glides through the air without a sound as if it were sliding. This Pok\u00e9mon hangs on to the face of its foe using its clawed hind legs and the large pincers on its forelegs, then injects the prey with its poison barb.",
+            "It sails on the winds with its limbs extended to strike from the sky. It aims for the prey\u2019s face.",
+            "Its tail is tipped by a thick, horrible stinger. To bring down prey, it will first obscure their vision by covering their faces with its body, and then it will use the stinger to inject them with venom."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788211732099082/207.png",
+    "discord_sprite": "<:P207:1132121839854944257>"
+}

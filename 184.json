@@ -1,0 +1,273 @@
+{
+    "alt-version(s)": [],
+    "name": "Azumarill",
+    "Azumarill": {
+        "pokedex_data": {
+            "National No.": "0184",
+            "Type": [
+                "Water",
+                "Fairy"
+            ],
+            "Species": "Aqua Rabbit Poke\u0301mon",
+            "Height": "0.8 m (2\u203207\u2032\u2032)",
+            "Weight": "28.5 kg (62.8 lbs)",
+            "Abilities": {
+                "Thick Fat": {
+                    "href": "/ability/thick-fat",
+                    "effect": "Ups resistance to Fire- and Ice-type moves.",
+                    "hidden": false
+                },
+                "Huge Power": {
+                    "href": "/ability/huge-power",
+                    "effect": "Raises the Pok\u00e9mon's Attack stat.",
+                    "hidden": false
+                },
+                "Sap Sipper": {
+                    "href": "/ability/sap-sipper",
+                    "effect": "Boosts Attack when hit by a Grass-type move.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 HP",
+            "Catch rate": "75",
+            "BaseFriendship": "50",
+            "Base Exp.": "210",
+            "Growth Rate": "Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "100",
+                "Min": "310",
+                "Max": "404"
+            },
+            "Attack": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Defense": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Sp. Atk": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Def": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Speed": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Total": "420"
+        },
+        "defense_stats": {
+            "Thick Fat ability": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "not very effective",
+                "Poison": "super-effective",
+                "Bug": "not very effective",
+                "Dragon": "no effect",
+                "Dark": "not very effective"
+            },
+            "Huge Power ability": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "not very effective",
+                "Poison": "super-effective",
+                "Bug": "not very effective",
+                "Dragon": "no effect",
+                "Dark": "not very effective"
+            },
+            "Sap Sipper ability": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "no effect",
+                "Ice": "not very effective",
+                "Fighting": "not very effective",
+                "Poison": "super-effective",
+                "Bug": "not very effective",
+                "Dragon": "no effect",
+                "Dark": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Azurill",
+                    "nationalNo": "#0298",
+                    "type": [
+                        "Normal",
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Marill",
+                    "nationalNo": "#0183",
+                    "type": [
+                        "Water",
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(high Friendship)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Marill",
+                    "nationalNo": "#0183",
+                    "type": [
+                        "Water",
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Azumarill",
+                    "nationalNo": "#0184",
+                    "type": [
+                        "Water",
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 18)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Defense Curl": "1",
+            "Helping Hand": "1",
+            "Rollout": "1",
+            "Tackle": "1",
+            "Tail Whip": "1",
+            "Water Gun": "1",
+            "Bubble Beam": "6",
+            "Charm": "9",
+            "Slam": "12",
+            "Bounce": "15",
+            "Aqua Tail": "21",
+            "Play Rough": "25",
+            "Aqua Ring": "30",
+            "Rain Dance": "35",
+            "Hydro Pump": "40",
+            "Double-Edge": "45",
+            "Superpower": "50"
+        },
+        "egg": {
+            "Aqua Jet": null,
+            "Belly Drum": null,
+            "Copycat": null,
+            "Perish Song": null,
+            "Present": null,
+            "Sing": null,
+            "Soak": null,
+            "Supersonic": null,
+            "Tickle": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Charm": "02",
+            "Fake Tears": "03",
+            "Mud-Slap": "05",
+            "Protect": "07",
+            "Water Pulse": "11",
+            "Disarming Voice": "19",
+            "Trailblaze": "20",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Bulldoze": "28",
+            "Swift": "32",
+            "Icy Wind": "34",
+            "Mud Shot": "35",
+            "Draining Kiss": "37",
+            "Fling": "43",
+            "Endure": "47",
+            "Rain Dance": "50",
+            "Snowscape": "52",
+            "Dig": "55",
+            "Brick Break": "58",
+            "Body Slam": "66",
+            "Ice Punch": "69",
+            "Sleep Talk": "70",
+            "Light Screen": "75",
+            "Waterfall": "77",
+            "Metronome": "80",
+            "Grass Knot": "81",
+            "Rest": "85",
+            "Substitute": "103",
+            "Liquidation": "110",
+            "Hyper Voice": "117",
+            "Encore": "122",
+            "Surf": "123",
+            "Ice Spinner": "124",
+            "Play Rough": "127",
+            "Amnesia": "128",
+            "Helping Hand": "130",
+            "Ice Beam": "135",
+            "Misty Terrain": "139",
+            "Hydro Pump": "142",
+            "Blizzard": "143",
+            "Giga Impact": "152",
+            "Focus Blast": "158",
+            "Hyper Beam": "163",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Azumarill": [
+            "By keeping still and listening intently, it can tell what is in even wild, fast-moving rivers.",
+            "When it plays in water, it rolls up its elongated ears to prevent their insides from getting wet.",
+            "The bubble-like pattern on its stomach helps it camouflage itself when it\u2019s in the water.",
+            "AZUMARILL\u2019s long ears are indispensable sensors. By focusing its hearing, this pok\u00e9mon can identify what kinds of prey are around, even in rough and fast-running rivers.",
+            "AZUMARILL can make balloons out of air. It makes these air balloons if it spots a drowning pok\u00e9mon. The air balloons enable the pok\u00e9mon in trouble to breathe.",
+            "When it plays in water, it rolls up its elongated ears to prevent their insides from getting wet.",
+            "By keeping still and listening intently, it can even tell what is in wild, fast-moving rivers.",
+            "It lives in water virtually all day long. Its body color and pattern act as camouflage that makes it tough for enemies to spot in water.",
+            "It lives in rivers and lakes. In water, its coloring and patterns trick the vision of foes.",
+            "Its long ears are superb sensors. It can distinguish the movements of living things on riverbeds.",
+            "It can spend all day in water, since it can inhale and store a large volume of air.",
+            "By keeping still and listening intently, it can tell what is in even wild, fast-moving rivers.",
+            "When it plays in water, it rolls up its elongated ears to prevent their insides from getting wet.",
+            "It can spend all day in water, since it can inhale and store a large volume of air.",
+            "Its long ears are superb sensors. It can distinguish the movements of things in water and tell what they are.",
+            "Its long ears are superb sensors. It can distinguish the movements of living things on riverbeds.",
+            "The bubble-like pattern on its stomach helps it camouflage itself when it\u2019s in the water.",
+            "Azumarill\u2019s long ears are indispensable sensors. By focusing its hearing, this Pok\u00e9mon can identify what kinds of prey are around, even in rough and fast-running rivers.",
+            "Azumarill can make balloons out of air. It makes these air balloons if it spots a drowning Pok\u00e9mon. The air balloons enable the Pok\u00e9mon in trouble to breathe.",
+            "It spends most of its time in the water. On sunny days, Azumarill floats on the surface of the water and sunbathes.",
+            "These Pok\u00e9mon create air-filled bubbles. When Azurill play in rivers, Azumarill will cover them with these bubbles.",
+            "It lives in rivers and lakes. In water, its coloring and patterns trick the vision of foes.",
+            "Its long ears are superb sensors. It can distinguish the movements of living things on riverbeds.",
+            "Its long ears are superb sensors. It can distinguish the movements of things in water and tell what they are.",
+            "By keeping still and listening intently, it can tell what is in even wild, fast-moving rivers."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788027069485076/184.png",
+    "discord_sprite": "<:P184:1132120832429277245>"
+}

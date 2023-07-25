@@ -1,0 +1,193 @@
+{
+    "alt-version(s)": [],
+    "name": "Fuecoco",
+    "Fuecoco": {
+        "pokedex_data": {
+            "National No.": "0909",
+            "Type": [
+                "Fire"
+            ],
+            "Species": "Fire Croc Poke\u0301mon",
+            "Height": "0.4 m (1\u203204\u2032\u2032)",
+            "Weight": "9.8 kg (21.6 lbs)",
+            "Abilities": {
+                "Blaze": {
+                    "href": "/ability/blaze",
+                    "effect": "Powers up Fire-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Unaware": {
+                    "href": "/ability/unaware",
+                    "effect": "Ignores any stat changes in the Pok\u00e9mon.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 HP",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "62",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "67",
+                "Min": "244",
+                "Max": "338"
+            },
+            "Attack": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Defense": {
+                "Base": "59",
+                "Min": "110",
+                "Max": "238"
+            },
+            "Sp. Atk": {
+                "Base": "63",
+                "Min": "117",
+                "Max": "247"
+            },
+            "Sp. Def": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Speed": {
+                "Base": "36",
+                "Min": "69",
+                "Max": "188"
+            },
+            "Total": "310"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Ground": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Fuecoco",
+                    "nationalNo": "#0909",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Crocalor",
+                    "nationalNo": "#0910",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 16)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Crocalor",
+                    "nationalNo": "#0910",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Skeledirge",
+                    "nationalNo": "#0911",
+                    "type": [
+                        "Fire",
+                        "Ghost"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 36)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Ember": "1",
+            "Leer": "1",
+            "Tackle": "1",
+            "Round": "7",
+            "Bite": "12",
+            "Incinerate": "15",
+            "Yawn": "17",
+            "Snarl": "21",
+            "Roar": "25",
+            "Flamethrower": "28",
+            "Hyper Voice": "32",
+            "Fire Blast": "36"
+        },
+        "egg": {
+            "Belch": null,
+            "Curse": null,
+            "Encore": null,
+            "Slack Off": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Mud-Slap": "05",
+            "Protect": "07",
+            "Fire Fang": "08",
+            "Thunder Fang": "09",
+            "Disarming Voice": "19",
+            "Fire Spin": "24",
+            "Facade": "25",
+            "Snarl": "30",
+            "Flame Charge": "38",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Dig": "55",
+            "Zen Headbutt": "59",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Seed Bomb": "71",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Substitute": "103",
+            "Will-O-Wisp": "107",
+            "Crunch": "108",
+            "Hyper Voice": "117",
+            "Heat Wave": "118",
+            "Encore": "122",
+            "Flamethrower": "125",
+            "Helping Hand": "130",
+            "Fire Blast": "141",
+            "Fire Pledge": "144",
+            "Outrage": "156",
+            "Overheat": "157",
+            "Flare Blitz": "165",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Fuecoco": [
+            "It lies on warm rocks and uses the heat absorbed by its square-shaped scales to create fire energy.",
+            "Its flame sac is small, so energy is always leaking out. This energy is released from the dent atop Fuecoco\u2019s head and flickers to and fro."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793686896836679/909.png",
+    "discord_sprite": "<:P909:1132152796540579972>"
+}

@@ -1,0 +1,379 @@
+{
+    "alt-version(s)": [
+        "Galarian Mr. Mime"
+    ],
+    "name": "Mr. Mime",
+    "Mr. Mime": {
+        "pokedex_data": {
+            "National No.": "0122",
+            "Type": [
+                "Psychic",
+                "Fairy"
+            ],
+            "Species": "Barrier Poke\u0301mon",
+            "Height": "1.3 m (4\u203203\u2032\u2032)",
+            "Weight": "54.5 kg (120.2 lbs)",
+            "Abilities": {
+                "Soundproof": {
+                    "href": "/ability/soundproof",
+                    "effect": "Gives immunity to <q>sound-based</q> moves.",
+                    "hidden": false
+                },
+                "Filter": {
+                    "href": "/ability/filter",
+                    "effect": "Reduces damage from super-effective attacks.",
+                    "hidden": false
+                },
+                "Technician": {
+                    "href": "/ability/technician",
+                    "effect": "Powers up the Pok\u00e9mon's weaker moves.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Sp. Def",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "161",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "40",
+                "Min": "190",
+                "Max": "284"
+            },
+            "Attack": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Defense": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Atk": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Sp. Def": {
+                "Base": "120",
+                "Min": "220",
+                "Max": "372"
+            },
+            "Speed": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Total": "460"
+        },
+        "defense_stats": {
+            "Soundproof ability": {
+                "Fighting": "not very effective",
+                "Poison": "super-effective",
+                "Psychic": "not very effective",
+                "Ghost": "super-effective",
+                "Dragon": "no effect",
+                "Steel": "super-effective"
+            },
+            "Filter ability": {
+                "Fighting": "not very effective",
+                "Poison": "super-effective",
+                "Psychic": "not very effective",
+                "Ghost": "super-effective",
+                "Dragon": "no effect",
+                "Steel": "super-effective"
+            },
+            "Technician ability": {
+                "Fighting": "not very effective",
+                "Poison": "super-effective",
+                "Psychic": "not very effective",
+                "Ghost": "super-effective",
+                "Dragon": "no effect",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "Galarian Mr. Mime": {
+        "pokedex_data": {
+            "National No.": "0122",
+            "Type": [
+                "Ice",
+                "Psychic"
+            ],
+            "Species": "Dancing Poke\u0301mon",
+            "Height": "1.4 m (4\u203207\u2032\u2032)",
+            "Weight": "56.8 kg (125.2 lbs)",
+            "Abilities": {
+                "Vital Spirit": {
+                    "href": "/ability/vital-spirit",
+                    "effect": "Prevents the Pok\u00e9mon from falling asleep.",
+                    "hidden": false
+                },
+                "Screen Cleaner": {
+                    "href": "/ability/screen-cleaner",
+                    "effect": "Nullifies effects of Light Screen, Reflect, and Aurora Veil.",
+                    "hidden": false
+                },
+                "Ice Body": {
+                    "href": "/ability/ice-body",
+                    "effect": "The Pok\u00e9mon gradually regains HP in a hailstorm.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Speed",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "161",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "50",
+                "Min": "210",
+                "Max": "304"
+            },
+            "Attack": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Defense": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Atk": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Sp. Def": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Speed": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Total": "460"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Ice": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "super-effective",
+                "Rock": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Mime",
+                    "nationalNo": "#0439",
+                    "type": [
+                        "Psychic",
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Mr.",
+                    "nationalNo": "#0122",
+                    "type": [
+                        "Psychic",
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(after Mimic learned, outside Galar)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Mime",
+                    "nationalNo": "#0439",
+                    "type": [
+                        "Psychic",
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Mr.",
+                    "nationalNo": "#0122",
+                    "type": [
+                        "Ice",
+                        "Psychic"
+                    ],
+                    "nickname": "Galarian Mr. Mime"
+                },
+                "requirement": "(after Mimic learned, in Galar)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Mr.",
+                    "nationalNo": "#0122",
+                    "type": [
+                        "Ice",
+                        "Psychic"
+                    ],
+                    "nickname": "Galarian Mr. Mime"
+                },
+                "to": {
+                    "name": "Mr.",
+                    "nationalNo": "#0866",
+                    "type": [
+                        "Ice",
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 42)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Baton Pass": "1",
+            "Copycat": "1",
+            "Encore": "1",
+            "Guard Swap": "1",
+            "Pound": "1",
+            "Power Swap": "1",
+            "Quick Guard": "1",
+            "Wide Guard": "1",
+            "Confusion": "12",
+            "Role Play": "16",
+            "Protect": "20",
+            "Recycle": "24",
+            "Psybeam": "28",
+            "Mimic": "32",
+            "Light Screen": "36",
+            "Reflect": "36",
+            "Safeguard": "36",
+            "Sucker Punch": "40",
+            "Dazzling Gleam": "44",
+            "Psychic": "48",
+            "Teeter Dance": "52"
+        },
+        "egg": {
+            "Confuse Ray": null,
+            "Fake Out": null,
+            "Future Sight": null,
+            "Hypnosis": null,
+            "Icy Wind": null,
+            "Magic Room": null,
+            "Mimic": null,
+            "Power Split": null,
+            "Teeter Dance": null,
+            "Tickle": null,
+            "Trick": null
+        },
+        "tm": {
+            "Focus Punch": "01",
+            "Calm Mind": "04",
+            "Sunny Day": "11",
+            "Taunt": "12",
+            "Hyper Beam": "15",
+            "Light Screen": "16",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Safeguard": "20",
+            "Dazzling Gleam": "21",
+            "Solar Beam": "22",
+            "Thunderbolt": "24",
+            "Thunder": "25",
+            "Psychic": "29",
+            "Shadow Ball": "30",
+            "Brick Break": "31",
+            "Double Team": "32",
+            "Reflect": "33",
+            "Shock Wave": "34",
+            "Aerial Ace": "40",
+            "Torment": "41",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Skill Swap": "48",
+            "Focus Blast": "52",
+            "Energy Ball": "53",
+            "Fling": "56",
+            "Charge Beam": "57",
+            "Endure": "58",
+            "Drain Punch": "60",
+            "Nasty Plot": "63",
+            "Payback": "66",
+            "Recycle": "67",
+            "Giga Impact": "68",
+            "Flash": "70",
+            "Thunder Wave": "73",
+            "Psych Up": "77",
+            "Sleep Talk": "82",
+            "Dream Eater": "85",
+            "Grass Knot": "86",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Trick Room": "92"
+        }
+    },
+    "entries": {
+        "Mr. Mime": [
+            "If interrupted while it is miming, it will slap around the offender with its broad hands.",
+            "Always practices its pantomime act. It makes enemies believe something exists that really doesn\u2019t.",
+            "A skilled mime from birth, it gains the ability to create invisible objects as it matures.",
+            "Its fingertips emit a peculiar force field that hardens air to create an actual wall.",
+            "It uses the mysterious power it has in its fingers to solidify air into an invisible wall.",
+            "MR. MIME is a master of pantomime. Its gestures and motions convince watchers that something unseeable actually exists. Once it is believed, it will exist as if it were a real thing.",
+            "It is adept at conning people. It is said to be able to create walls out of thin air by miming.",
+            "If interrupted while it is miming, it will suddenly DOUBLESLAP the offender with its broad hands.",
+            "A MR. MIME is a master of pantomime. It can convince others that something unseeable actually exists. Once believed, the imaginary object does become real.",
+            "It is a pantomime expert that can create invisible but solid walls using miming gestures.",
+            "Emanations from its fingertips solidify the air into invisible walls that repel even harsh attacks.",
+            "It shapes an invisible wall in midair by minutely vibrating its fingertips to stop molecules in the air.",
+            "A skilled mime from birth, it gains the ability to create invisible objects as it matures.",
+            "Its fingertips emit a peculiar force field that hardens air to create an actual wall.",
+            "It shapes an invisible wall in midair by minutely vibrating its fingertips to stop molecules in the air.",
+            "Emanations from its fingertips solidify the air into invisible walls that repel even harsh attacks.",
+            "It is adept at conning people. It is said to be able to create walls out of thin air by miming.",
+            "Mr. Mime is a master of pantomime. Its gestures and motions convince watchers that something unseeable actually exists. Once the watchers are convinced, the unseeable thing exists as if it were real.",
+            "Its pantomime skills are wonderful. You may become enraptured while watching it, but next thing you know, Mr. Mime has made a real wall.",
+            "It creates invisible walls with its pantomiming. If you don\u2019t act impressed, it will attack you with a double slap!",
+            "Always practices its pantomime act. It makes enemies believe something exists that really doesn\u2019t.",
+            "The broadness of its hands may be no coincidence\u2014many scientists believe its palms became enlarged specifically for pantomiming.",
+            "It\u2019s known for its top-notch pantomime skills. It protects itself from all sorts of attacks by emitting auras from its fingers to create walls.",
+            "It is a pantomime expert that can create invisible but solid walls using miming gestures.",
+            "Emanations from its fingertips solidify the air into invisible walls that repel even harsh attacks.",
+            "The behavior of this clown-like Pok\u00e9mon reminds one of pantomime. It creates invisible walls using a force emitted from its fingertips."
+        ],
+        "Galarian Mr. Mime": [
+            "Its talent is tap-dancing. It can also manipulate temperatures to create a floor of ice, which this Pok\u00e9mon can kick up to use as a barrier.",
+            "It can radiate chilliness from the bottoms of its feet. It\u2019ll spend the whole day tap-dancing on a frozen floor."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787543671734353/122.png",
+    "discord_sprite": "<:P122:1132118099685015582>"
+}

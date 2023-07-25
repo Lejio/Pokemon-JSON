@@ -1,0 +1,160 @@
+{
+    "alt-version(s)": [],
+    "name": "Raikou",
+    "Raikou": {
+        "pokedex_data": {
+            "National No.": "0243",
+            "Type": [
+                "Electric"
+            ],
+            "Species": "Thunder Poke\u0301mon",
+            "Height": "1.9 m (6\u203203\u2032\u2032)",
+            "Weight": "178.0 kg (392.4 lbs)",
+            "Abilities": {
+                "Pressure": {
+                    "href": "/ability/pressure",
+                    "effect": "The Pok\u00e9mon raises the foe's PP usage.",
+                    "hidden": false
+                },
+                "Inner Focus": {
+                    "href": "/ability/inner-focus",
+                    "effect": "The Pok\u00e9mon is protected from flinching.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Sp. Atk, 2 Speed",
+            "Catch rate": "3",
+            "BaseFriendship": "35",
+            "Base Exp.": "261",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "90",
+                "Min": "290",
+                "Max": "384"
+            },
+            "Attack": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Defense": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Sp. Atk": {
+                "Base": "115",
+                "Min": "211",
+                "Max": "361"
+            },
+            "Sp. Def": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Speed": {
+                "Base": "115",
+                "Min": "211",
+                "Max": "361"
+            },
+            "Total": "580"
+        },
+        "defense_stats": {
+            "default": {
+                "Electric": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Charge": "1",
+            "Extreme Speed": "1",
+            "Leer": "1",
+            "Quick Attack": "1",
+            "Thunder Shock": "1",
+            "Spark": "6",
+            "Bite": "12",
+            "Calm Mind": "18",
+            "Roar": "24",
+            "Thunder Fang": "30",
+            "Howl": "36",
+            "Crunch": "42",
+            "Extrasensory": "48",
+            "Discharge": "54",
+            "Reflect": "60",
+            "Rain Dance": "66",
+            "Thunder": "72",
+            "Zap Cannon": "78"
+        },
+        "egg": null,
+        "tm": {
+            "Calm Mind": "04",
+            "Roar": "05",
+            "Sunny Day": "11",
+            "Hyper Beam": "15",
+            "Light Screen": "16",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Iron Tail": "23",
+            "Thunderbolt": "24",
+            "Thunder": "25",
+            "Dig": "28",
+            "Shadow Ball": "30",
+            "Double Team": "32",
+            "Reflect": "33",
+            "Shock Wave": "34",
+            "Sandstorm": "37",
+            "Facade": "42",
+            "Volt Switch": "43",
+            "Rest": "44",
+            "Scald": "49",
+            "Charge Beam": "57",
+            "Endure": "58",
+            "Giga Impact": "68",
+            "Flash": "70",
+            "Thunder Wave": "73",
+            "Psych Up": "77",
+            "Snarl": "78",
+            "Sleep Talk": "82",
+            "Bulldoze": "83",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Cut": "93",
+            "Strength": "96",
+            "Rock Smash": "98",
+            "Rock Climb": "100"
+        }
+    },
+    "entries": {
+        "Raikou": [
+            "The rain clouds it carries let it fire thunderbolts at will. They say that it descended with lightning.",
+            "A pok\u00e9mon that races across the land while barking a cry that sounds like crashing thunder.",
+            "This rough pok\u00e9mon stores energy inside its body, then sweeps across the land, shooting off electricity.",
+            "RAIKOU embodies the speed of lightning. The roars of this pok\u00e9mon send shock waves shuddering through the air and shake the ground as if lightning bolts had come crashing down.",
+            "This pok\u00e9mon races across the land while barking a cry that sounds like crashing thunder.",
+            "The rain clouds it carries let it fire thunderbolts at will. They say that it descended with lightning.",
+            "RAIKOU embodies the speed of lightning. Its roars send shock waves shuddering through the air and ground as if lightning bolts were crashing down.",
+            "It is said to have fallen with lightning. It can fire thunderbolts from the rain clouds on its back.",
+            "The rain clouds it carries let it fire thunderbolts at will. They say that it descended with lightning.",
+            "A Pok\u00e9mon that races across the land while barking a cry that sounds like crashing thunder.",
+            "It is said to have fallen with lightning. It can fire thunderbolts from the rain clouds on its back.",
+            "The rain clouds it carries let it fire thunderbolts at will. They say that it descended with lightning.",
+            "This rough Pok\u00e9mon stores energy inside its body, then sweeps across the land, shooting off electricity.",
+            "Raikou embodies the speed of lightning. The roars of this Pok\u00e9mon send shock waves shuddering through the air and shake the ground as if lightning bolts had come crashing down.",
+            "It is said to have fallen with lightning. It can fire thunderbolts from the rain clouds on its back."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788494772129863/243.png",
+    "discord_sprite": "<:P243:1132123429294854184>"
+}

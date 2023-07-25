@@ -1,0 +1,281 @@
+{
+    "alt-version(s)": [
+        "Galarian Farfetch'd"
+    ],
+    "name": "Farfetch'd",
+    "Farfetch'd": {
+        "pokedex_data": {
+            "National No.": "0083",
+            "Type": [
+                "Normal",
+                "Flying"
+            ],
+            "Species": "Wild Duck Poke\u0301mon",
+            "Height": "0.8 m (2\u203207\u2032\u2032)",
+            "Weight": "15.0 kg (33.1 lbs)",
+            "Abilities": {
+                "Keen Eye": {
+                    "href": "/ability/keen-eye",
+                    "effect": "Prevents other Pok\u00e9mon from lowering accuracy.",
+                    "hidden": false
+                },
+                "Inner Focus": {
+                    "href": "/ability/inner-focus",
+                    "effect": "The Pok\u00e9mon is protected from flinching.",
+                    "hidden": false
+                },
+                "Defiant": {
+                    "href": "/ability/defiant",
+                    "effect": "Sharply raises Attack when the Pok\u00e9mon's stats are lowered.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "132",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "52",
+                "Min": "214",
+                "Max": "308"
+            },
+            "Attack": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Defense": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Sp. Atk": {
+                "Base": "58",
+                "Min": "108",
+                "Max": "236"
+            },
+            "Sp. Def": {
+                "Base": "62",
+                "Min": "116",
+                "Max": "245"
+            },
+            "Speed": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Total": "377"
+        },
+        "defense_stats": {
+            "default": {
+                "Electric": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Ground": "no effect",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "Galarian Farfetch'd": {
+        "pokedex_data": {
+            "National No.": "0083",
+            "Type": [
+                "Fighting"
+            ],
+            "Species": "Wild Duck Poke\u0301mon",
+            "Height": "0.8 m (2\u203207\u2032\u2032)",
+            "Weight": "42.0 kg (92.6 lbs)",
+            "Abilities": {
+                "Steadfast": {
+                    "href": "/ability/steadfast",
+                    "effect": "Raises Speed each time the Pok\u00e9mon flinches.",
+                    "hidden": false
+                },
+                "Scrappy": {
+                    "href": "/ability/scrappy",
+                    "effect": "Enables moves to hit Ghost-type Pok\u00e9mon.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "132",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "52",
+                "Min": "214",
+                "Max": "308"
+            },
+            "Attack": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Defense": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Sp. Atk": {
+                "Base": "58",
+                "Min": "108",
+                "Max": "236"
+            },
+            "Sp. Def": {
+                "Base": "62",
+                "Min": "116",
+                "Max": "245"
+            },
+            "Speed": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Total": "377"
+        },
+        "defense_stats": {
+            "default": {
+                "Flying": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Dark": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Farfetch'd",
+                    "nationalNo": "#0083",
+                    "type": [
+                        "Fighting"
+                    ],
+                    "nickname": "Galarian Farfetch'd"
+                },
+                "to": {
+                    "name": "Sirfetch'd",
+                    "nationalNo": "#0865",
+                    "type": [
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(achieve 3 critical hits in one battle)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Peck": "1",
+            "Sand Attack": "1",
+            "Leer": "5",
+            "Fury Cutter": "10",
+            "Cut": "15",
+            "Aerial Ace": "20",
+            "Air Cutter": "25",
+            "Knock Off": "30",
+            "False Swipe": "35",
+            "Slash": "40",
+            "Swords Dance": "45",
+            "Air Slash": "50",
+            "Leaf Blade": "55",
+            "Agility": "60",
+            "Brave Bird": "65"
+        },
+        "egg": {
+            "Covet": null,
+            "Curse": null,
+            "Feather Dance": null,
+            "Feint": null,
+            "Final Gambit": null,
+            "Flail": null,
+            "Gust": null,
+            "Leaf Blade": null,
+            "Mud-Slap": null,
+            "Night Slash": null,
+            "Quick Attack": null,
+            "Revenge": null,
+            "Simple Beam": null,
+            "Sky Attack": null
+        },
+        "tm": {
+            "Work Up": "10",
+            "Sunny Day": "11",
+            "Protect": "17",
+            "Iron Tail": "23",
+            "Double Team": "32",
+            "Aerial Ace": "40",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Steel Wing": "47",
+            "Roost": "51",
+            "False Swipe": "54",
+            "Endure": "58",
+            "Swords Dance": "75",
+            "Psych Up": "77",
+            "Sleep Talk": "82",
+            "Poison Jab": "84",
+            "Swagger": "87",
+            "Pluck": "88",
+            "U-turn": "89",
+            "Substitute": "90",
+            "Cut": "93",
+            "Fly": "94",
+            "Defog": "97"
+        }
+    },
+    "entries": {
+        "Farfetch'd": [
+            "The sprig of green onions it holds is its weapon. It is used much like a metal sword.",
+            "Lives where reedy plants grow. They are rarely seen, so it\u2019s thought their numbers are decreasing.",
+            "If anyone tries to disturb where the essential plant sticks grow, it uses its own stick to thwart them.",
+            "If it eats the plant stick it carries as emergency rations, it runs off in search of a new stick.",
+            "In order to prevent their extinction, more people have made an effort to breed these pok\u00e9mon.",
+            "FARFETCH\u2019D is always seen with a stick from a plant of some sort. Apparently, there are good sticks and bad sticks. This pok\u00e9mon has been known to fight with others over sticks.",
+            "It always walks about with a plant stalk clamped in its beak. The stalk is used for building its nest.",
+            "The plant stalk it holds is its weapon. The stalk is used like a sword to cut all sorts of things.",
+            "It is always seen with a stick from a plant. Apparently, there are good sticks and bad sticks. This pok\u00e9mon occasionally fights with others over choice sticks.",
+            "It can\u2019t live without the stalk it holds. That\u2019s why it defends the stalk from attackers with its life.",
+            "If anyone tries to disturb where the essential plant stalks grow, it uses its own stalk to thwart them.",
+            "If it eats the plant stalk it carries as emergency rations, it runs off in search of a new stalk.",
+            "It can\u2019t live without the stalk it holds. That\u2019s why it defends the stalk from attackers with its life.",
+            "The plant stalk it holds is its weapon. The stalk is used like a sword to cut all sorts of things.",
+            "It always walks about with a plant stalk clamped in its beak. The stalk is used for building its nest.",
+            "Farfetch\u2019d is always seen with a stalk from a plant of some sort. Apparently, there are good stalks and bad stalks. This Pok\u00e9mon has been known to fight with others over stalks.",
+            "They live where reedy plants grow. Farfetch\u2019d are rarely seen, so it\u2019s thought their numbers are decreasing.",
+            "The stalk this Pok\u00e9mon carries in its wings serves as a sword to cut down opponents. In a dire situation, the stalk can also serve as food.",
+            "They use a plant stalk as a weapon, but not all of them use it in the same way. Several distinct styles of stalk fighting have been observed.",
+            "It can\u2019t live without the stalk it holds. That\u2019s why it defends the stalk from attackers with its life."
+        ],
+        "Galarian Farfetch'd": [
+            "The Farfetch\u2019d of the Galar region are brave warriors, and they wield thick, tough leeks in battle.",
+            "The stalks of leeks are thicker and longer in the Galar region. Farfetch\u2019d that adapted to these stalks took on a unique form."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787240553578656/83.png",
+    "discord_sprite": "<:P83:1132116377990332467>"
+}

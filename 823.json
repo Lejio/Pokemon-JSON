@@ -1,0 +1,222 @@
+{
+    "alt-version(s)": [],
+    "name": "Corviknight",
+    "Corviknight": {
+        "pokedex_data": {
+            "National No.": "0823",
+            "Type": [
+                "Flying",
+                "Steel"
+            ],
+            "Species": "Raven Poke\u0301mon",
+            "Height": "2.2 m (7\u203203\u2032\u2032)",
+            "Weight": "75.0 kg (165.3 lbs)",
+            "Abilities": {
+                "Pressure": {
+                    "href": "/ability/pressure",
+                    "effect": "The Pok\u00e9mon raises the foe's PP usage.",
+                    "hidden": false
+                },
+                "Unnerve": {
+                    "href": "/ability/unnerve",
+                    "effect": "Makes the foe nervous and unable to eat Berries.",
+                    "hidden": false
+                },
+                "Mirror Armor": {
+                    "href": "/ability/mirror-armor",
+                    "effect": "Reflects any stat-lowering effects.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Defense",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "248",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "98",
+                "Min": "306",
+                "Max": "400"
+            },
+            "Attack": {
+                "Base": "87",
+                "Min": "161",
+                "Max": "300"
+            },
+            "Defense": {
+                "Base": "105",
+                "Min": "193",
+                "Max": "339"
+            },
+            "Sp. Atk": {
+                "Base": "53",
+                "Min": "99",
+                "Max": "225"
+            },
+            "Sp. Def": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Speed": {
+                "Base": "67",
+                "Min": "125",
+                "Max": "256"
+            },
+            "Total": "495"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Fire": "super-effective",
+                "Electric": "super-effective",
+                "Grass": "not very effective",
+                "Poison": "no effect",
+                "Ground": "no effect",
+                "Flying": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "not very effective",
+                "Dragon": "not very effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Rookidee",
+                    "nationalNo": "#0821",
+                    "type": [
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Corvisquire",
+                    "nationalNo": "#0822",
+                    "type": [
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 18)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Corvisquire",
+                    "nationalNo": "#0822",
+                    "type": [
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Corviknight",
+                    "nationalNo": "#0823",
+                    "type": [
+                        "Flying",
+                        "Steel"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 38)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Hone Claws": "1",
+            "Iron Defense": "1",
+            "Leer": "1",
+            "Metal Sound": "1",
+            "Peck": "1",
+            "Power Trip": "1",
+            "Screech": "1",
+            "Fury Attack": "12",
+            "Pluck": "16",
+            "Taunt": "22",
+            "Scary Face": "28",
+            "Drill Peck": "34",
+            "Swagger": "42",
+            "Brave Bird": "50"
+        },
+        "evolution": {
+            "Steel Wing": "70"
+        },
+        "egg": {
+            "Defog": null,
+            "Rock Smash": null,
+            "Roost": null,
+            "Sand Attack": null,
+            "Sky Attack": null,
+            "Spite": null,
+            "Tailwind": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Fake Tears": "03",
+            "Agility": "04",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Thief": "18",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Metal Claw": "31",
+            "Swift": "32",
+            "Air Cutter": "40",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "U-turn": "60",
+            "Bulk Up": "64",
+            "Air Slash": "65",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Reflect": "74",
+            "Light Screen": "75",
+            "Rest": "85",
+            "Taunt": "87",
+            "Body Press": "89",
+            "Flash Cannon": "93",
+            "Fly": "97",
+            "Iron Head": "99",
+            "Substitute": "103",
+            "Iron Defense": "104",
+            "Tailwind": "113",
+            "Heavy Slam": "121",
+            "Reversal": "134",
+            "Nasty Plot": "140",
+            "Giga Impact": "152",
+            "Hurricane": "160",
+            "Hyper Beam": "163",
+            "Brave Bird": "164",
+            "Steel Beam": "170",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Corviknight": [
+            "This Pok\u00e9mon reigns supreme in the skies of the Galar region. The black luster of its steel body could drive terror into the heart of any foe.",
+            "With their great intellect and flying skills, these Pok\u00e9mon very successfully act as the Galar region\u2019s airborne taxi service.",
+            "Corviknight can\u2019t serve as a taxi service in Paldea because the Pok\u00e9mon\u2019s natural predators will attack it while it flies, endangering the customer.",
+            "Although its wings have partly turned to steel and become heavy as a result, this Pok\u00e9mon flies through the skies with ease."
+        ],
+        "Gigantamax": [
+            "Imbued with Gigantamax energy, its wings can whip up winds more forceful than any a hurricane could muster. The gusts blow everything away.",
+            "The eight feathers on its back are called blade birds, and they can launch off its body to attack foes independently."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793020619071528/823.png",
+    "discord_sprite": "<:P823:1132149011575488542>"
+}

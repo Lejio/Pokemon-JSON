@@ -1,0 +1,181 @@
+{
+    "alt-version(s)": [],
+    "name": "Drizzile",
+    "Drizzile": {
+        "pokedex_data": {
+            "National No.": "0817",
+            "Type": [
+                "Water"
+            ],
+            "Species": "Water lizard Poke\u0301mon",
+            "Height": "0.7 m (2\u203204\u2032\u2032)",
+            "Weight": "11.5 kg (25.4 lbs)",
+            "Abilities": {
+                "Torrent": {
+                    "href": "/ability/torrent",
+                    "effect": "Powers up Water-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Sniper": {
+                    "href": "/ability/sniper",
+                    "effect": "Powers up moves if they become critical hits.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Sp. Atk",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "147",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "65",
+                "Min": "240",
+                "Max": "334"
+            },
+            "Attack": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Defense": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Sp. Atk": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Sp. Def": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Speed": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Total": "420"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Sobble",
+                    "nationalNo": "#0816",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Drizzile",
+                    "nationalNo": "#0817",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 16)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Drizzile",
+                    "nationalNo": "#0817",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Inteleon",
+                    "nationalNo": "#0818",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 35)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Bind": "1",
+            "Growl": "1",
+            "Pound": "1",
+            "Water Gun": "1",
+            "Water Pulse": "12",
+            "Tearful Look": "19",
+            "Sucker Punch": "24",
+            "U-turn": "30",
+            "Liquidation": "36",
+            "Soak": "42",
+            "Rain Dance": "48"
+        },
+        "egg": {
+            "Aqua Jet": null,
+            "Aqua Ring": null,
+            "Double Team": null,
+            "Fell Stinger": null,
+            "Haze": null,
+            "Ice Shard": null,
+            "Mist": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Protect": "07",
+            "Water Pulse": "11",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Swift": "32",
+            "Mud Shot": "35",
+            "Fling": "43",
+            "Endure": "47",
+            "Rain Dance": "50",
+            "U-turn": "60",
+            "Sleep Talk": "70",
+            "Reflect": "74",
+            "Light Screen": "75",
+            "Waterfall": "77",
+            "Rest": "85",
+            "Substitute": "103",
+            "Liquidation": "110",
+            "Surf": "123",
+            "Baton Pass": "132",
+            "Hydro Pump": "142",
+            "Water Pledge": "145",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Drizzile": [
+            "A clever combatant, this Pok\u00e9mon battles using water balloons created with moisture secreted from its palms.",
+            "Highly intelligent but also very lazy, it keeps enemies out of its territory by laying traps everywhere."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792974112628927/817.png",
+    "discord_sprite": "<:P817:1132148747799908473>"
+}

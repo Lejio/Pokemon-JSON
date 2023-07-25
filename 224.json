@@ -1,0 +1,211 @@
+{
+    "alt-version(s)": [],
+    "name": "Octillery",
+    "Octillery": {
+        "pokedex_data": {
+            "National No.": "0224",
+            "Type": [
+                "Water"
+            ],
+            "Species": "Jet Poke\u0301mon",
+            "Height": "0.9 m (2\u203211\u2032\u2032)",
+            "Weight": "28.5 kg (62.8 lbs)",
+            "Abilities": {
+                "Suction Cups": {
+                    "href": "/ability/suction-cups",
+                    "effect": "Negates all moves that force switching out.",
+                    "hidden": false
+                },
+                "Sniper": {
+                    "href": "/ability/sniper",
+                    "effect": "Powers up moves if they become critical hits.",
+                    "hidden": false
+                },
+                "Moody": {
+                    "href": "/ability/moody",
+                    "effect": "Raises one stat and lowers another.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack, 1 Sp. Atk",
+            "Catch rate": "75",
+            "BaseFriendship": "50",
+            "Base Exp.": "168",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "75",
+                "Min": "260",
+                "Max": "354"
+            },
+            "Attack": {
+                "Base": "105",
+                "Min": "193",
+                "Max": "339"
+            },
+            "Defense": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Sp. Atk": {
+                "Base": "105",
+                "Min": "193",
+                "Max": "339"
+            },
+            "Sp. Def": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Speed": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Total": "480"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Remoraid",
+                    "nationalNo": "#0223",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Octillery",
+                    "nationalNo": "#0224",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 25)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Focus Energy": "1",
+            "Gunk Shot": "1",
+            "Helping Hand": "1",
+            "Octazooka": "1",
+            "Rock Blast": "1",
+            "Water Gun": "1",
+            "Water Pulse": "1",
+            "Wrap": "1",
+            "Psybeam": "12",
+            "Aurora Beam": "16",
+            "Bubble Beam": "20",
+            "Lock-On": "24",
+            "Bullet Seed": "30",
+            "Ice Beam": "36",
+            "Hydro Pump": "42",
+            "Soak": "48",
+            "Hyper Beam": "54"
+        },
+        "evolution": {
+            "Octazooka": "65"
+        },
+        "egg": {
+            "Acid Spray": null,
+            "Aurora Beam": null,
+            "Entrainment": null,
+            "Flail": null,
+            "Haze": null,
+            "Mud Shot": null,
+            "Octazooka": null,
+            "Rock Blast": null,
+            "Screech": null,
+            "Snore": null,
+            "Supersonic": null,
+            "Swift": null,
+            "Water Spout": null
+        },
+        "tm": {
+            "Water Pulse": "03",
+            "Bullet Seed": "09",
+            "Sunny Day": "11",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Psychic": "29",
+            "Double Team": "32",
+            "Flamethrower": "35",
+            "Sludge Bomb": "36",
+            "Fire Blast": "38",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Scald": "49",
+            "Energy Ball": "53",
+            "Brine": "55",
+            "Charge Beam": "57",
+            "Endure": "58",
+            "Payback": "66",
+            "Giga Impact": "68",
+            "Thunder Wave": "73",
+            "Sleep Talk": "82",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Flash Cannon": "91",
+            "Surf": "95",
+            "Waterfall": "99"
+        }
+    },
+    "entries": {
+        "Octillery": [
+            "It traps enemies with its suction-cupped tentacles then smashes them with its rock-hard head.",
+            "It instinctively sneaks into rocky holes. If it gets sleepy, it steals the nest of a fellow OCTILLERY.",
+            "Its instinct is to bury itself in holes. It often steals the nesting holes of others to sleep in them.",
+            "OCTILLERY grabs onto its foe using its tentacles. This pok\u00e9mon tries to immobilize it before delivering the finishing blow. If the foe turns out to be too strong, OCTILLERY spews ink to escape.",
+            "It instinctively sneaks into rocky holes. If it gets sleepy, it steals the nest of a fellow OCTILLERY.",
+            "It traps enemies with its suction-cupped tentacles, then smashes them with its rock-hard head.",
+            "It ensnares its foe with its suction-cupped tentacles before delivering the finishing blow. If the foe turns out to be too strong, it spews ink to escape.",
+            "It lives in the gaps of boulders and in holes on the seafloor. Its suction cups grip prey tightly.",
+            "It obscures its foe\u2019s vision by spitting a cloud of murky ink. It makes its nest among boulders.",
+            "It loves to lurk inside holes in rocks. It sometimes sprays ink on prey by sticking out only its mouth.",
+            "It traps foes with the suction cups on its tentacles, then smashes them with its rock-hard head.",
+            "It instinctively sneaks into rocky holes. If it gets sleepy, it steals the nest of a fellow OCTILLERY.",
+            "It loves to lurk inside holes in rocks. It sometimes sprays ink on prey by sticking out only its mouth.",
+            "It has a tendency to want to be in holes. It prefers rock crags or pots and sprays ink from them before attacking.",
+            "It has a tendency to want to be in holes. It prefers rock crags or pots and sprays ink from them before attacking.",
+            "It traps foes with the suction cups on its tentacles, then smashes them with its rock-hard head.",
+            "Octillery grabs onto its foe using its tentacles. This Pok\u00e9mon tries to immobilize it before delivering the finishing blow. If the foe turns out to be too strong, Octillery spews ink to escape.",
+            "The ink it spits when escaping is special. It contains a substance that dulls the sense of smell, so Pok\u00e9mon with keen noses get lost.",
+            "It usually sleeps in caves. The pitch-black ink that Octillery spits is also used for cooking.",
+            "It has a tendency to want to be in holes. It prefers rock crags or pots and sprays ink from them before attacking.",
+            "It traps enemies with its suction-cupped tentacles, then smashes them with its rock-hard head.",
+            "It lives in the gaps of boulders and in holes on the seafloor. Its suction cups grip prey tightly.",
+            "It obscures its foe\u2019s vision by spitting a cloud of black ink. It makes its nest among boulders.",
+            "While Octillery still shoots water from its mouth, the drastic anatomical difference between it and Remoraid meant that for a long time, no one believed the former evolved from the latter."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788344729272511/224.png",
+    "discord_sprite": "<:P224:1132122593583964279>"
+}

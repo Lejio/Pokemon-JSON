@@ -1,0 +1,283 @@
+{
+    "alt-version(s)": [
+        "Mega Sableye"
+    ],
+    "name": "Sableye",
+    "Sableye": {
+        "pokedex_data": {
+            "National No.": "0302",
+            "Type": [
+                "Dark",
+                "Ghost"
+            ],
+            "Species": "Darkness Poke\u0301mon",
+            "Height": "0.5 m (1\u203208\u2032\u2032)",
+            "Weight": "11.0 kg (24.3 lbs)",
+            "Abilities": {
+                "Keen Eye": {
+                    "href": "/ability/keen-eye",
+                    "effect": "Prevents other Pok\u00e9mon from lowering accuracy.",
+                    "hidden": false
+                },
+                "Stall": {
+                    "href": "/ability/stall",
+                    "effect": "The Pok\u00e9mon moves after all other Pok\u00e9mon do.",
+                    "hidden": false
+                },
+                "Prankster": {
+                    "href": "/ability/prankster",
+                    "effect": "Gives priority to a status move.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack, 1 Defense",
+            "Catch rate": "45",
+            "BaseFriendship": "35",
+            "Base Exp.": "133",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "50",
+                "Min": "210",
+                "Max": "304"
+            },
+            "Attack": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Defense": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Sp. Atk": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Def": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Speed": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Total": "380"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "no effect",
+                "Fighting": "no effect",
+                "Poison": "not very effective",
+                "Psychic": "no effect",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "Mega Sableye": {
+        "pokedex_data": {
+            "National No.": "0302",
+            "Type": [
+                "Dark",
+                "Ghost"
+            ],
+            "Species": "Darkness Poke\u0301mon",
+            "Height": "0.5 m (1\u203208\u2032\u2032)",
+            "Weight": "161.0 kg (354.9 lbs)",
+            "Abilities": {
+                "Magic Bounce": {
+                    "href": "/ability/magic-bounce",
+                    "effect": "Reflects status- changing moves.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack, 1 Defense",
+            "Catch rate": "45",
+            "BaseFriendship": "35",
+            "Base Exp.": "168",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "50",
+                "Min": "210",
+                "Max": "304"
+            },
+            "Attack": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Defense": {
+                "Base": "125",
+                "Min": "229",
+                "Max": "383"
+            },
+            "Sp. Atk": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Sp. Def": {
+                "Base": "115",
+                "Min": "211",
+                "Max": "361"
+            },
+            "Speed": {
+                "Base": "20",
+                "Min": "40",
+                "Max": "152"
+            },
+            "Total": "480"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "no effect",
+                "Fighting": "no effect",
+                "Poison": "not very effective",
+                "Psychic": "no effect",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Leer": "1",
+            "Scratch": "1",
+            "Astonish": "3",
+            "Shadow Sneak": "9",
+            "Fake Out": "12",
+            "Disable": "15",
+            "Detect": "18",
+            "Night Shade": "21",
+            "Fury Swipes": "24",
+            "Knock Off": "27",
+            "Quash": "30",
+            "Shadow Claw": "33",
+            "Mean Look": "36",
+            "Power Gem": "39",
+            "Zen Headbutt": "42",
+            "Shadow Ball": "45",
+            "Foul Play": "48"
+        },
+        "egg": {
+            "Feint": null,
+            "Flatter": null,
+            "Metal Burst": null,
+            "Recover": null,
+            "Sucker Punch": null,
+            "Torment": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Mud-Slap": "05",
+            "Protect": "07",
+            "Low Kick": "12",
+            "Psybeam": "16",
+            "Confuse Ray": "17",
+            "Thief": "18",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Hex": "29",
+            "Snarl": "30",
+            "Metal Claw": "31",
+            "Icy Wind": "34",
+            "Mud Shot": "35",
+            "Rock Tomb": "36",
+            "Low Sweep": "39",
+            "Night Shade": "42",
+            "Fling": "43",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Dig": "55",
+            "Brick Break": "58",
+            "Zen Headbutt": "59",
+            "Shadow Claw": "61",
+            "Foul Play": "62",
+            "Bulk Up": "64",
+            "Body Slam": "66",
+            "Fire Punch": "67",
+            "Thunder Punch": "68",
+            "Ice Punch": "69",
+            "Sleep Talk": "70",
+            "Drain Punch": "73",
+            "Reflect": "74",
+            "Light Screen": "75",
+            "Dazzling Gleam": "79",
+            "Metronome": "80",
+            "Thunder Wave": "82",
+            "Poison Jab": "83",
+            "Rest": "85",
+            "Taunt": "87",
+            "Imprison": "92",
+            "Dark Pulse": "94",
+            "Skill Swap": "98",
+            "Power Gem": "101",
+            "Substitute": "103",
+            "X-Scissor": "105",
+            "Will-O-Wisp": "107",
+            "Trick": "109",
+            "Giga Drain": "111",
+            "Shadow Ball": "114",
+            "Energy Ball": "119",
+            "Psychic": "120",
+            "Encore": "122",
+            "Calm Mind": "129",
+            "Helping Hand": "130",
+            "Nasty Plot": "140",
+            "Phantom Force": "151",
+            "Giga Impact": "152",
+            "Hyper Beam": "163",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Sableye": [
+            "SABLEYE lead quiet lives deep inside caverns. They are feared, however, because these pok\u00e9mon are thought to steal the spirits of people when their eyes burn with a sinister glow in the darkness.",
+            "SABLEYE digs the ground with sharpened claws to find rocks that it eats. Substances in the eaten rocks crystallize and rise up to the pok\u00e9mon\u2019s body surface.",
+            "It feeds on gemstone crystals. In darkness, its eyes sparkle with the glitter of jewels.",
+            "It digs branching holes in caves using its sharp claws in search of food--raw gems. A SABLEYE lurks in darkness and is seen only rarely.",
+            "It hides in the darkness of caves. Its diet of gems has transformed its eyes into gemstones.",
+            "It dwells in the darkness of caves. It uses its sharp claws to dig up gems to nourish itself.",
+            "It hides in the darkness of caves. Its diet of gems has transformed its eyes into gemstones.",
+            "It hides in the darkness of caves. Its diet of gems has transformed its eyes into gemstones.",
+            "It dwells in the darkness of caves. It uses its sharp claws to dig up gems to nourish itself.",
+            "Sableye lead quiet lives deep inside caverns. They are feared, however, because these Pok\u00e9mon are thought to steal the spirits of people when their eyes burn with a sinister glow in the darkness.",
+            "Sableye digs the ground with sharpened claws to find rocks that it eats. Substances in the eaten rocks crystallize and rise up to the Pok\u00e9mon\u2019s body surface.",
+            "It\u2019s a fiend for gemstones, so it stalks Carbink. Unfortunately, Gabite almost always grabs them first.",
+            "This Pok\u00e9mon is feared. When its gemstone eyes begin to glow with a sinister shine, it\u2019s believed that Sableye will steal people\u2019s spirits away.",
+            "It digs through the ground with its hard claws and crunches down gems with its thick pointy teeth. Carbink is its favorite food.",
+            "Materials from gems it has eaten float to the surface of its body and can form an infinite number of patterns among individuals.",
+            "This Pok\u00e9mon is feared. When its gemstone eyes begin to glow with a sinister shine, it\u2019s believed that Sableye will steal people\u2019s spirits away.",
+            "It feeds on gemstone crystals. In darkness, its eyes sparkle with the glitter of jewels.",
+            "It hides in the darkness of caves. Its diet of gems has transformed its eyes into gemstones.",
+            "It dwells in the darkness of caves. It uses its sharp claws to dig up gems to nourish itself.",
+            "Materials from gems it has eaten float to the surface of its body and can form an infinite number of patterns among individuals."
+        ],
+        "Mega Sableye": [
+            "The jewel from its chest, which has grown gigantic due to the effects of Mega Evolution, can turn back any attack.",
+            "Supporting a giant heavy jewel, it can\u2019t change direction very nimbly and is vulnerable to attack from behind.",
+            "Bathed in the energy of Mega Evolution, the gemstone on its chest expands, rips through its skin, and falls out.",
+            "It blocks any and all attacks with its giant-sized gemstone. However, the stone\u2019s a heavy burden, and it limits Mega Sableye\u2019s movements."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788961828839525/302.png",
+    "discord_sprite": "<:P302:1132126028786061352>"
+}

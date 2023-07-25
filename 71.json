@@ -1,0 +1,224 @@
+{
+    "alt-version(s)": [],
+    "name": "Victreebel",
+    "Victreebel": {
+        "pokedex_data": {
+            "National No.": "0071",
+            "Type": [
+                "Grass",
+                "Poison"
+            ],
+            "Species": "Flycatcher Poke\u0301mon",
+            "Height": "1.7 m (5\u203207\u2032\u2032)",
+            "Weight": "15.5 kg (34.2 lbs)",
+            "Abilities": {
+                "Chlorophyll": {
+                    "href": "/ability/chlorophyll",
+                    "effect": "Boosts the Pok\u00e9mon's Speed in sunshine.",
+                    "hidden": false
+                },
+                "Gluttony": {
+                    "href": "/ability/gluttony",
+                    "effect": "Encourages the early use of a held Berry.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Attack",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "221",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "80",
+                "Min": "270",
+                "Max": "364"
+            },
+            "Attack": {
+                "Base": "105",
+                "Min": "193",
+                "Max": "339"
+            },
+            "Defense": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Atk": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Sp. Def": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Speed": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Total": "490"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Flying": "super-effective",
+                "Psychic": "super-effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Bellsprout",
+                    "nationalNo": "#0069",
+                    "type": [
+                        "Grass",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Weepinbell",
+                    "nationalNo": "#0070",
+                    "type": [
+                        "Grass",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 21)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Weepinbell",
+                    "nationalNo": "#0070",
+                    "type": [
+                        "Grass",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Victreebel",
+                    "nationalNo": "#0071",
+                    "type": [
+                        "Grass",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Leaf Stone)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Acid": "1",
+            "Gastro Acid": "1",
+            "Growth": "1",
+            "Knock Off": "1",
+            "Leaf Tornado": "1",
+            "Poison Jab": "1",
+            "Poison Powder": "1",
+            "Razor Leaf": "1",
+            "Slam": "1",
+            "Sleep Powder": "1",
+            "Spit Up": "1",
+            "Stockpile": "1",
+            "Stun Spore": "1",
+            "Swallow": "1",
+            "Sweet Scent": "1",
+            "Vine Whip": "1",
+            "Wrap": "1",
+            "Leaf Storm": "32",
+            "Leaf Blade": "44"
+        },
+        "evolution": {
+            "Leaf Tornado": "65"
+        },
+        "egg": {
+            "Acid Spray": null,
+            "Belch": null,
+            "Clear Smog": null,
+            "Encore": null,
+            "Ingrain": null,
+            "Leech Life": null,
+            "Magical Leaf": null,
+            "Power Whip": null,
+            "Strength Sap": null,
+            "Synthesis": null,
+            "Tickle": null,
+            "Weather Ball": null,
+            "Worry Seed": null
+        },
+        "tm": {
+            "Bullet Seed": "09",
+            "Sunny Day": "11",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Giga Drain": "19",
+            "Solar Beam": "22",
+            "Double Team": "32",
+            "Reflect": "33",
+            "Sludge Bomb": "36",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Energy Ball": "53",
+            "Endure": "58",
+            "Giga Impact": "68",
+            "Flash": "70",
+            "Swords Dance": "75",
+            "Sleep Talk": "82",
+            "Poison Jab": "84",
+            "Grass Knot": "86",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Cut": "93"
+        }
+    },
+    "entries": {
+        "Victreebel": [
+            "Said to live in huge colonies deep in jungles, although no one has ever returned from there.",
+            "Lures prey with the sweet aroma of honey. Swallowed whole, the prey is melted in a day, bones and all.",
+            "ACID that has dissolved many prey becomes sweeter, making it even more effective at attracting prey.",
+            "This horrifying plant pok\u00e9mon attracts prey with aromatic honey, then melts them in its mouth.",
+            "Once ingested into this pok\u00e9mon\u2019s body, even the hardest object will melt into nothing.",
+            "VICTREEBEL has a long vine that extends from its head. This vine is waved and flicked about as if it were an animal to attract prey. When an unsuspecting prey draws near, this pok\u00e9mon swallows it whole.",
+            "Lures prey into its mouth with a honeylike aroma. The helpless prey is melted with a dissolving fluid.",
+            "Said to live in huge colonies deep in jungles, although no one has ever returned from there.",
+            "The long vine extending from its head is waved about as if it were a living thing to attract prey. When an unsuspecting victim approaches, it is swallowed whole.",
+            "It pools in its mouth a fluid with a honeylike scent, which is really an acid that dissolves anything.",
+            "Acid that has dissolved many prey becomes sweeter, making it even more effective at attracting prey.",
+            "This horrifying plant Pok\u00e9mon attracts prey with aromatic honey, then melts them in its mouth.",
+            "It pools in its mouth a fluid with a honeylike scent, which is really an acid that dissolves anything.",
+            "It pools in its mouth a fluid with a honey-like scent, which is really an acid that dissolves anything.",
+            "Said to live in huge colonies deep in jungles, although no one has ever returned from there.",
+            "Once ingested into this Pok\u00e9mon\u2019s body, even the hardest object will melt into nothing.",
+            "Victreebel has a long vine that extends from its head. This vine is waved and flicked about as if it were an animal to attract prey. When an unsuspecting prey draws near, this Pok\u00e9mon swallows it whole.",
+            "Lures prey with the sweet aroma of honey. Swallowed whole, the prey is dissolved in a day, bones and all.",
+            "In its mouth, it pools a fragrant nectar-like fluid. The fluid is really an acid that dissolves anything."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787144726319125/71.png",
+    "discord_sprite": "<:P71:1132115850007171224>"
+}

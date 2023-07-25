@@ -1,0 +1,206 @@
+{
+    "alt-version(s)": [],
+    "name": "Chespin",
+    "Chespin": {
+        "pokedex_data": {
+            "National No.": "0650",
+            "Type": [
+                "Grass"
+            ],
+            "Species": "Spiny Nut Poke\u0301mon",
+            "Height": "0.4 m (1\u203204\u2032\u2032)",
+            "Weight": "9.0 kg (19.8 lbs)",
+            "Abilities": {
+                "Overgrow": {
+                    "href": "/ability/overgrow",
+                    "effect": "Powers up Grass-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Bulletproof": {
+                    "href": "/ability/bulletproof",
+                    "effect": "Protects the Pok\u00e9mon from ball and bomb moves.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Defense",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "63",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "56",
+                "Min": "222",
+                "Max": "316"
+            },
+            "Attack": {
+                "Base": "61",
+                "Min": "114",
+                "Max": "243"
+            },
+            "Defense": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Atk": {
+                "Base": "48",
+                "Min": "90",
+                "Max": "214"
+            },
+            "Sp. Def": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Speed": {
+                "Base": "38",
+                "Min": "72",
+                "Max": "192"
+            },
+            "Total": "313"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Poison": "super-effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Bug": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Chespin",
+                    "nationalNo": "#0650",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Quilladin",
+                    "nationalNo": "#0651",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 16)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Quilladin",
+                    "nationalNo": "#0651",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Chesnaught",
+                    "nationalNo": "#0652",
+                    "type": [
+                        "Grass",
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 36)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Growl": "1",
+            "Vine Whip": "1",
+            "Rollout": "8",
+            "Bite": "11",
+            "Leech Seed": "15",
+            "Pin Missile": "18",
+            "Take Down": "27",
+            "Seed Bomb": "32",
+            "Mud Shot": "35",
+            "Body Slam": "42",
+            "Pain Split": "45",
+            "Wood Hammer": "48"
+        },
+        "egg": {
+            "Belly Drum": null,
+            "Curse": null,
+            "Quick Guard": null,
+            "Spikes": null,
+            "Super Fang": null,
+            "Synthesis": null,
+            "Wide Guard": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Protect": "07",
+            "Low Kick": "12",
+            "Trailblaze": "20",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Bulldoze": "28",
+            "Metal Claw": "31",
+            "Swift": "32",
+            "Magical Leaf": "33",
+            "Mud Shot": "35",
+            "Rock Tomb": "36",
+            "Fling": "43",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Dig": "55",
+            "Bullet Seed": "56",
+            "Brick Break": "58",
+            "Zen Headbutt": "59",
+            "Shadow Claw": "61",
+            "Body Slam": "66",
+            "Thunder Punch": "68",
+            "Sleep Talk": "70",
+            "Seed Bomb": "71",
+            "Drain Punch": "73",
+            "Reflect": "74",
+            "Grass Knot": "81",
+            "Poison Jab": "83",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Spikes": "90",
+            "Iron Head": "99",
+            "Substitute": "103",
+            "Giga Drain": "111",
+            "Energy Ball": "119",
+            "Helping Hand": "130",
+            "Grassy Terrain": "137",
+            "Grass Pledge": "146",
+            "Leaf Storm": "159",
+            "Solar Beam": "168",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Chespin": [
+            "The quills on its head are usually soft. When it flexes them, the points become so hard and sharp that they can pierce rock.",
+            "Such a thick shell of wood covers its head and back that even a direct hit from a truck wouldn\u2019t faze it."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791670590050314/650.png",
+    "discord_sprite": "<:P650:1132141341988618372>"
+}

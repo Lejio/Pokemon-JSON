@@ -1,0 +1,204 @@
+{
+    "alt-version(s)": [],
+    "name": "Golisopod",
+    "Golisopod": {
+        "pokedex_data": {
+            "National No.": "0768",
+            "Type": [
+                "Bug",
+                "Water"
+            ],
+            "Species": "Hard Scale Poke\u0301mon",
+            "Height": "2.0 m (6\u203207\u2032\u2032)",
+            "Weight": "108.0 kg (238.1 lbs)",
+            "Abilities": {
+                "Emergency Exit": {
+                    "href": "/ability/emergency-exit",
+                    "effect": "Switches out when HP falls below 50%.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Defense",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "186",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "75",
+                "Min": "260",
+                "Max": "354"
+            },
+            "Attack": {
+                "Base": "125",
+                "Min": "229",
+                "Max": "383"
+            },
+            "Defense": {
+                "Base": "140",
+                "Min": "256",
+                "Max": "416"
+            },
+            "Sp. Atk": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Def": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Speed": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Total": "530"
+        },
+        "defense_stats": {
+            "default": {
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "not very effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Rock": "super-effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Wimpod",
+                    "nationalNo": "#0767",
+                    "type": [
+                        "Bug",
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Golisopod",
+                    "nationalNo": "#0768",
+                    "type": [
+                        "Bug",
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 30)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Defense Curl": "1",
+            "First Impression": "1",
+            "Sand Attack": "1",
+            "Spite": "1",
+            "Struggle Bug": "1",
+            "Rock Smash": "4",
+            "Fury Cutter": "8",
+            "Mud Shot": "12",
+            "Bug Bite": "16",
+            "Iron Defense": "20",
+            "Sucker Punch": "24",
+            "Slash": "28",
+            "Razor Shell": "32",
+            "Pin Missile": "36",
+            "Swords Dance": "40",
+            "Liquidation": "44"
+        },
+        "evolution": {
+            "First Impression": "90"
+        },
+        "egg": {
+            "Aqua Jet": null,
+            "Harden": null,
+            "Metal Claw": null,
+            "Rollout": null,
+            "Wide Guard": null
+        },
+        "null": {
+            "Swords Dance": "00",
+            "Surf": "04",
+            "Ice Beam": "05",
+            "Blizzard": "06",
+            "Waterfall": "16",
+            "Leech Life": "18",
+            "Substitute": "20",
+            "Sludge Bomb": "22",
+            "Spikes": "23",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Taunt": "37",
+            "Muddy Water": "45",
+            "Iron Defense": "46",
+            "Bulk Up": "48",
+            "Close Combat": "53",
+            "Poison Jab": "57",
+            "Dark Pulse": "58",
+            "X-Scissor": "60",
+            "Bug Buzz": "61",
+            "Focus Blast": "64",
+            "Iron Head": "74",
+            "Sludge Wave": "78",
+            "Scald": "84",
+            "Drill Run": "87",
+            "Throat Chop": "95",
+            "Liquidation": "98"
+        },
+        "tm": {
+            "Pin Missile": "07",
+            "Hyper Beam": "08",
+            "Giga Impact": "09",
+            "Screech": "16",
+            "Rest": "21",
+            "Rock Slide": "22",
+            "Snore": "24",
+            "Protect": "25",
+            "Icy Wind": "27",
+            "Attract": "31",
+            "Rain Dance": "33",
+            "Hail": "35",
+            "Facade": "39",
+            "Swift": "40",
+            "Brick Break": "43",
+            "Dive": "45",
+            "Rock Tomb": "48",
+            "Mud Shot": "53",
+            "Payback": "57",
+            "Assurance": "58",
+            "Fling": "59",
+            "Shadow Claw": "65",
+            "Venoshock": "74",
+            "Round": "76",
+            "Razor Shell": "83",
+            "Snarl": "85",
+            "False Swipe": "94"
+        }
+    },
+    "entries": {
+        "Golisopod": [
+            "With a flashing slash of its giant sharp claws, it cleaves seawater\u2014or even air\u2014right in two.",
+            "It battles skillfully with its six arms, but spends most of its time peacefully meditating in caves deep beneath the sea.",
+            "The shell covering its body is as hard as diamond. This Pok\u00e9mon will do anything it takes to win.",
+            "Its claws, which it can extend and retract at will, are its greatest weapons. Golisopod is sometimes accompanied by Wimpod.",
+            "It will do anything to win, taking advantage of every opening and finishing opponents off with the small claws on its front legs.",
+            "They live in sunken ships or in holes in the seabed. When Golisopod and Grapploct battle, the loser becomes the winner\u2019s meal."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792596709167194/768.png",
+    "discord_sprite": "<:P768:1132146593798291576>"
+}

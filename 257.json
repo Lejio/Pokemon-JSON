@@ -1,0 +1,312 @@
+{
+    "alt-version(s)": [
+        "Mega Blaziken"
+    ],
+    "name": "Blaziken",
+    "Blaziken": {
+        "pokedex_data": {
+            "National No.": "0257",
+            "Type": [
+                "Fire",
+                "Fighting"
+            ],
+            "Species": "Blaze Poke\u0301mon",
+            "Height": "1.9 m (6\u203203\u2032\u2032)",
+            "Weight": "52.0 kg (114.6 lbs)",
+            "Abilities": {
+                "Blaze": {
+                    "href": "/ability/blaze",
+                    "effect": "Powers up Fire-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Speed Boost": {
+                    "href": "/ability/speed-boost",
+                    "effect": "Its Speed stat is gradually boosted.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Attack",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "239",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "80",
+                "Min": "270",
+                "Max": "364"
+            },
+            "Attack": {
+                "Base": "120",
+                "Min": "220",
+                "Max": "372"
+            },
+            "Defense": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Atk": {
+                "Base": "110",
+                "Min": "202",
+                "Max": "350"
+            },
+            "Sp. Def": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Speed": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Total": "530"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Dark": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "Mega Blaziken": {
+        "pokedex_data": {
+            "National No.": "0257",
+            "Type": [
+                "Fire",
+                "Fighting"
+            ],
+            "Species": "Blaze Poke\u0301mon",
+            "Height": "1.9 m (6\u203203\u2032\u2032)",
+            "Weight": "52.0 kg (114.6 lbs)",
+            "Abilities": {
+                "Speed Boost": {
+                    "href": "/ability/speed-boost",
+                    "effect": "Its Speed stat is gradually boosted.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Attack",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "284",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "80",
+                "Min": "270",
+                "Max": "364"
+            },
+            "Attack": {
+                "Base": "160",
+                "Min": "292",
+                "Max": "460"
+            },
+            "Defense": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Sp. Atk": {
+                "Base": "130",
+                "Min": "238",
+                "Max": "394"
+            },
+            "Sp. Def": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Speed": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Total": "630"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Dark": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Torchic",
+                    "nationalNo": "#0255",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Combusken",
+                    "nationalNo": "#0256",
+                    "type": [
+                        "Fire",
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 16)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Combusken",
+                    "nationalNo": "#0256",
+                    "type": [
+                        "Fire",
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Blaziken",
+                    "nationalNo": "#0257",
+                    "type": [
+                        "Fire",
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 36)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Brave Bird": "1",
+            "Close Combat": "1",
+            "Double Kick": "1",
+            "Ember": "1",
+            "Feather Dance": "1",
+            "Fire Punch": "1",
+            "Flamethrower": "1",
+            "Growl": "1",
+            "Quick Attack": "1",
+            "Scratch": "1",
+            "Flame Charge": "9",
+            "Detect": "12",
+            "Sand Attack": "15",
+            "Aerial Ace": "20",
+            "Slash": "25",
+            "Bounce": "30",
+            "Focus Energy": "35",
+            "Blaze Kick": "42",
+            "Bulk Up": "49",
+            "Reversal": "56",
+            "Flare Blitz": "63"
+        },
+        "egg": {
+            "Agility": null,
+            "Baton Pass": null,
+            "Counter": null,
+            "Crush Claw": null,
+            "Curse": null,
+            "Feather Dance": null,
+            "Feint": null,
+            "Last Resort": null,
+            "Low Kick": null,
+            "Night Slash": null,
+            "Peck": null,
+            "Reversal": null
+        },
+        "null": {
+            "Blast Burn": "150"
+        },
+        "tm": {
+            "Focus Punch": "01",
+            "Roar": "05",
+            "Bulk Up": "08",
+            "Work Up": "10",
+            "Sunny Day": "11",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Solar Beam": "22",
+            "Earthquake": "26",
+            "Low Sweep": "27",
+            "Dig": "28",
+            "Brick Break": "31",
+            "Double Team": "32",
+            "Flamethrower": "35",
+            "Fire Blast": "38",
+            "Rock Tomb": "39",
+            "Aerial Ace": "40",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Overheat": "50",
+            "Focus Blast": "52",
+            "Fling": "56",
+            "Endure": "58",
+            "Will-O-Wisp": "61",
+            "Shadow Claw": "65",
+            "Giga Impact": "68",
+            "Stone Edge": "71",
+            "Swords Dance": "75",
+            "Rock Slide": "80",
+            "Sleep Talk": "82",
+            "Bulldoze": "83",
+            "Poison Jab": "84",
+            "Swagger": "87",
+            "U-turn": "89",
+            "Substitute": "90",
+            "Cut": "93",
+            "Strength": "96",
+            "Rock Smash": "98",
+            "Rock Climb": "100"
+        }
+    },
+    "entries": {
+        "Blaziken": [
+            "In battle, BLAZIKEN blows out intense flames from its wrists and attacks foes courageously. The stronger the foe, the more intensely this pok\u00e9mon\u2019s wrists burn.",
+            "BLAZIKEN has incredibly strong legs - it can easily clear a 30-story building in one leap. This pok\u00e9mon\u2019s blazing punches leave its foes scorched and blackened.",
+            "When facing a tough foe, it looses flames from its wrists. Its powerful legs let it jump clear over buildings.",
+            "It learns martial arts that use punches and kicks. Every several years, its old feathers burn off, and new, supple feathers grow back in their place.",
+            "Flames spout from its wrists, enveloping its knuckles. Its punches scorch its foes.",
+            "It can clear a 30-story building in a leap. Its fiery punches scorch its foes.",
+            "Flames spout from its wrists, enveloping its knuckles. Its punches scorch its foes.",
+            "It can clear a 30-story building in a leap. Its fiery punches scorch its foes.",
+            "When facing a tough foe, it looses flames from its wrists. Its powerful legs let it jump clear over buildings.",
+            "In battle, Blaziken blows out intense flames from its wrists and attacks foes courageously. The stronger the foe, the more intensely this Pok\u00e9mon\u2019s wrists burn.",
+            "Blaziken has incredibly strong legs\u2014it can easily clear a 30-story building in one leap. This Pok\u00e9mon\u2019s blazing punches leave its foes scorched and blackened.",
+            "Flames spout from its wrists, enveloping its knuckles. Its punches scorch its foes."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788604734177341/257.png",
+    "discord_sprite": "<:P257:1132124050651619328>"
+}

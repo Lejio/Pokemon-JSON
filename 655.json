@@ -1,0 +1,233 @@
+{
+    "alt-version(s)": [],
+    "name": "Delphox",
+    "Delphox": {
+        "pokedex_data": {
+            "National No.": "0655",
+            "Type": [
+                "Fire",
+                "Psychic"
+            ],
+            "Species": "Fox Poke\u0301mon",
+            "Height": "1.5 m (4\u203211\u2032\u2032)",
+            "Weight": "39.0 kg (86.0 lbs)",
+            "Abilities": {
+                "Blaze": {
+                    "href": "/ability/blaze",
+                    "effect": "Powers up Fire-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Magician": {
+                    "href": "/ability/magician",
+                    "effect": "The Pok\u00e9mon steals the held item of a Pok\u00e9mon it hits with a move.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Sp. Atk",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "267",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "75",
+                "Min": "260",
+                "Max": "354"
+            },
+            "Attack": {
+                "Base": "69",
+                "Min": "128",
+                "Max": "260"
+            },
+            "Defense": {
+                "Base": "72",
+                "Min": "134",
+                "Max": "267"
+            },
+            "Sp. Atk": {
+                "Base": "114",
+                "Min": "209",
+                "Max": "359"
+            },
+            "Sp. Def": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Speed": {
+                "Base": "104",
+                "Min": "191",
+                "Max": "337"
+            },
+            "Total": "534"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Fighting": "not very effective",
+                "Ground": "super-effective",
+                "Psychic": "not very effective",
+                "Rock": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Fennekin",
+                    "nationalNo": "#0653",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Braixen",
+                    "nationalNo": "#0654",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 16)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Braixen",
+                    "nationalNo": "#0654",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Delphox",
+                    "nationalNo": "#0655",
+                    "type": [
+                        "Fire",
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 36)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Ember": "1",
+            "Future Sight": "1",
+            "Howl": "1",
+            "Role Play": "1",
+            "Scratch": "1",
+            "Shadow Ball": "1",
+            "Switcheroo": "1",
+            "Tail Whip": "1",
+            "Flame Charge": "14",
+            "Psybeam": "18",
+            "Fire Spin": "22",
+            "Light Screen": "28",
+            "Psyshock": "38",
+            "Flamethrower": "45",
+            "Will-O-Wisp": "51",
+            "Psychic": "57",
+            "Sunny Day": "62",
+            "Magic Room": "68",
+            "Fire Blast": "74"
+        },
+        "evolution": {
+            "Mystical Fire": "75"
+        },
+        "egg": {
+            "Copycat": null,
+            "Heat Wave": null,
+            "Hypnosis": null,
+            "Magic Room": null,
+            "Wish": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Charm": "02",
+            "Agility": "04",
+            "Mud-Slap": "05",
+            "Protect": "07",
+            "Low Kick": "12",
+            "Psybeam": "16",
+            "Confuse Ray": "17",
+            "Thief": "18",
+            "Fire Spin": "24",
+            "Facade": "25",
+            "Hex": "29",
+            "Swift": "32",
+            "Mud Shot": "35",
+            "Flame Charge": "38",
+            "Stored Power": "41",
+            "Night Shade": "42",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Psyshock": "54",
+            "Zen Headbutt": "59",
+            "Foul Play": "62",
+            "Fire Punch": "67",
+            "Thunder Punch": "68",
+            "Sleep Talk": "70",
+            "Reflect": "74",
+            "Light Screen": "75",
+            "Dazzling Gleam": "79",
+            "Metronome": "80",
+            "Grass Knot": "81",
+            "Rest": "85",
+            "Imprison": "92",
+            "Skill Swap": "98",
+            "Substitute": "103",
+            "Will-O-Wisp": "107",
+            "Trick": "109",
+            "Shadow Ball": "114",
+            "Hyper Voice": "117",
+            "Heat Wave": "118",
+            "Psychic": "120",
+            "Encore": "122",
+            "Flamethrower": "125",
+            "Calm Mind": "129",
+            "Helping Hand": "130",
+            "Psychic Terrain": "138",
+            "Nasty Plot": "140",
+            "Fire Blast": "141",
+            "Fire Pledge": "144",
+            "Giga Impact": "152",
+            "Blast Burn": "153",
+            "Overheat": "157",
+            "Focus Blast": "158",
+            "Trick Room": "161",
+            "Hyper Beam": "163",
+            "Flare Blitz": "165",
+            "Solar Beam": "168",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Delphox": [
+            "It gazes into the flame at the tip of its branch to achieve a focused state, which allows it to see into the future.",
+            "Using psychic power, it generates a fiery vortex of 5,400 degrees Fahrenheit, incinerating foes swept into this whirl of flame."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791709609668668/655.png",
+    "discord_sprite": "<:P655:1132141564286738473>"
+}

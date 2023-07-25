@@ -1,0 +1,200 @@
+{
+    "alt-version(s)": [],
+    "name": "Pancham",
+    "Pancham": {
+        "pokedex_data": {
+            "National No.": "0674",
+            "Type": [
+                "Fighting"
+            ],
+            "Species": "Playful Poke\u0301mon",
+            "Height": "0.6 m (2\u203200\u2032\u2032)",
+            "Weight": "8.0 kg (17.6 lbs)",
+            "Abilities": {
+                "Iron Fist": {
+                    "href": "/ability/iron-fist",
+                    "effect": "Boosts the power of punching moves.",
+                    "hidden": false
+                },
+                "Mold Breaker": {
+                    "href": "/ability/mold-breaker",
+                    "effect": "Moves can be used regardless of Abilities.",
+                    "hidden": false
+                },
+                "Scrappy": {
+                    "href": "/ability/scrappy",
+                    "effect": "Enables moves to hit Ghost-type Pok\u00e9mon.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack",
+            "Catch rate": "220",
+            "BaseFriendship": "50",
+            "Base Exp.": "70",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "67",
+                "Min": "244",
+                "Max": "338"
+            },
+            "Attack": {
+                "Base": "82",
+                "Min": "152",
+                "Max": "289"
+            },
+            "Defense": {
+                "Base": "62",
+                "Min": "116",
+                "Max": "245"
+            },
+            "Sp. Atk": {
+                "Base": "46",
+                "Min": "87",
+                "Max": "210"
+            },
+            "Sp. Def": {
+                "Base": "48",
+                "Min": "90",
+                "Max": "214"
+            },
+            "Speed": {
+                "Base": "43",
+                "Min": "81",
+                "Max": "203"
+            },
+            "Total": "348"
+        },
+        "defense_stats": {
+            "default": {
+                "Flying": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Dark": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Pancham",
+                    "nationalNo": "#0674",
+                    "type": [
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Pangoro",
+                    "nationalNo": "#0675",
+                    "type": [
+                        "Fighting",
+                        "Dark"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 32, Dark type Pok\u00e9mon in party)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Leer": "1",
+            "Tackle": "1",
+            "Arm Thrust": "4",
+            "Taunt": "8",
+            "Circle Throw": "12",
+            "Low Sweep": "16",
+            "Work Up": "20",
+            "Slash": "24",
+            "Vital Throw": "28",
+            "Crunch": "33",
+            "Body Slam": "36",
+            "Parting Shot": "40",
+            "Entrainment": "44"
+        },
+        "egg": {
+            "Power Trip": null,
+            "Quash": null,
+            "Quick Guard": null,
+            "Seismic Toss": null,
+            "Storm Throw": null
+        },
+        "null": {
+            "Swords Dance": "00",
+            "Body Slam": "01",
+            "Surf": "04",
+            "Low Kick": "07",
+            "Substitute": "20",
+            "Sludge Bomb": "22",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Crunch": "32",
+            "Uproar": "35",
+            "Taunt": "37",
+            "Superpower": "39",
+            "Hyper Voice": "42",
+            "Bulk Up": "48",
+            "Dark Pulse": "58",
+            "Zen Headbutt": "69",
+            "Gunk Shot": "73",
+            "Iron Head": "74",
+            "Stone Edge": "75",
+            "Grass Knot": "77",
+            "Foul Play": "81",
+            "Work Up": "85"
+        },
+        "tm": {
+            "Mega Punch": "00",
+            "Mega Kick": "01",
+            "Fire Punch": "03",
+            "Ice Punch": "04",
+            "Thunder Punch": "05",
+            "Dig": "15",
+            "Rest": "21",
+            "Rock Slide": "22",
+            "Snore": "24",
+            "Protect": "25",
+            "Attract": "31",
+            "Rain Dance": "33",
+            "Sunny Day": "34",
+            "Facade": "39",
+            "Helping Hand": "41",
+            "Brick Break": "43",
+            "Rock Tomb": "48",
+            "Payback": "57",
+            "Fling": "59",
+            "Drain Punch": "63",
+            "Shadow Claw": "65",
+            "Low Sweep": "75",
+            "Round": "76",
+            "Retaliate": "79",
+            "Bulldoze": "81",
+            "False Swipe": "94"
+        }
+    },
+    "entries": {
+        "Pancham": [
+            "It does its best to be taken seriously by its enemies, but its glare is not sufficiently intimidating. Chewing on a leaf is its trademark.",
+            "It does its level best to glare and pull a scary face, but it can\u2019t help grinning if anyone pats its head.",
+            "It grows up imitating the behavior of Pangoro, which it looks up to as a leader.",
+            "There\u2019s no point to the leaf in its mouth, aside from an effort to look cool. It\u2019s mischievous, so it\u2019s not well suited to inexperienced Trainers.",
+            "It follows Pangoro around like a henchman. When Pancham makes a big mistake, its leaf gets taken away.",
+            "It\u2019s desperate to intimidate its opponents. Be nice and pretend to be scared if you catch it glaring at you intensely.",
+            "It chooses a Pangoro as its master and then imitates its master\u2019s actions. This is how it learns to battle and hunt for prey.",
+            "Wanting to make sure it\u2019s taken seriously, Pancham\u2019s always giving others a glare. But if it\u2019s not focusing, it ends up smiling."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791857240789073/674.png",
+    "discord_sprite": "<:P674:1132142400899391529>"
+}

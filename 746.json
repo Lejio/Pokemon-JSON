@@ -1,0 +1,225 @@
+{
+    "alt-version(s)": [
+        "Solo Form",
+        "School Form"
+    ],
+    "Solo Form": {
+        "pokedex_data": {
+            "National No.": "0746",
+            "Type": [
+                "Water"
+            ],
+            "Species": "Small Fry Poke\u0301mon",
+            "Height": "0.2 m (0\u203208\u2032\u2032)",
+            "Weight": "0.3 kg (0.7 lbs)",
+            "Abilities": {
+                "Schooling": {
+                    "href": "/ability/schooling",
+                    "effect": "Changes Wishiwashi to School Form.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 HP",
+            "Catch rate": "60",
+            "BaseFriendship": "50",
+            "Base Exp.": "61",
+            "Growth Rate": "Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "45",
+                "Min": "200",
+                "Max": "294"
+            },
+            "Attack": {
+                "Base": "20",
+                "Min": "40",
+                "Max": "152"
+            },
+            "Defense": {
+                "Base": "20",
+                "Min": "40",
+                "Max": "152"
+            },
+            "Sp. Atk": {
+                "Base": "25",
+                "Min": "49",
+                "Max": "163"
+            },
+            "Sp. Def": {
+                "Base": "25",
+                "Min": "49",
+                "Max": "163"
+            },
+            "Speed": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Total": "175"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "School Form": {
+        "pokedex_data": {
+            "National No.": "0746",
+            "Type": [
+                "Water"
+            ],
+            "Species": "Small Fry Poke\u0301mon",
+            "Height": "8.2 m (26\u203211\u2032\u2032)",
+            "Weight": "78.6 kg (173.3 lbs)",
+            "Abilities": {
+                "Schooling": {
+                    "href": "/ability/schooling",
+                    "effect": "Changes Wishiwashi to School Form.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 HP",
+            "Catch rate": "60",
+            "BaseFriendship": "50",
+            "Base Exp.": "217",
+            "Growth Rate": "Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "45",
+                "Min": "200",
+                "Max": "294"
+            },
+            "Attack": {
+                "Base": "140",
+                "Min": "256",
+                "Max": "416"
+            },
+            "Defense": {
+                "Base": "130",
+                "Min": "238",
+                "Max": "394"
+            },
+            "Sp. Atk": {
+                "Base": "140",
+                "Min": "256",
+                "Max": "416"
+            },
+            "Sp. Def": {
+                "Base": "135",
+                "Min": "247",
+                "Max": "405"
+            },
+            "Speed": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Total": "620"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Growl": "1",
+            "Water Gun": "1",
+            "Helping Hand": "4",
+            "Beat Up": "8",
+            "Brine": "12",
+            "Tearful Look": "16",
+            "Dive": "20",
+            "Soak": "24",
+            "Uproar": "28",
+            "Aqua Tail": "32",
+            "Aqua Ring": "36",
+            "Endeavor": "40",
+            "Hydro Pump": "44",
+            "Double-Edge": "48"
+        },
+        "egg": {
+            "Mist": null,
+            "Take Down": null,
+            "Water Pulse": null
+        },
+        "null": {
+            "Hydro Pump": "03",
+            "Surf": "04",
+            "Ice Beam": "05",
+            "Earthquake": "10",
+            "Waterfall": "16",
+            "Substitute": "20",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Iron Tail": "31",
+            "Uproar": "35",
+            "Muddy Water": "45",
+            "Scald": "84",
+            "Liquidation": "98"
+        },
+        "tm": {
+            "Rest": "21",
+            "Snore": "24",
+            "Protect": "25",
+            "Attract": "31",
+            "Rain Dance": "33",
+            "Hail": "35",
+            "Whirlpool": "36",
+            "Beat Up": "37",
+            "Facade": "39",
+            "Helping Hand": "41",
+            "Dive": "45",
+            "Mud Shot": "53",
+            "Brine": "55",
+            "U-turn": "56",
+            "Round": "76",
+            "Bulldoze": "81"
+        }
+    },
+    "entries": {
+        "Solo Form": [
+            "When it\u2019s in trouble, its eyes moisten and begin to shine. The shining light attracts its comrades, and they stand together against their enemies.",
+            "It\u2019s awfully weak and notably tasty, so everyone is always out to get it. As it happens, anyone trying to bully it receives a painful lesson.",
+            "They\u2019re weak, so they move in schools. However, they can also often be seen all alone, having strayed from the school.",
+            "When it\u2019s in a jam, its shining eyes attract others of its kind. The light from its eyes is visible almost 25 miles away.",
+            "Individually, they\u2019re incredibly weak. It\u2019s by gathering up into schools that they\u2019re able to confront opponents.",
+            "When it senses danger, its eyes tear up. The sparkle of its tears signals other Wishiwashi to gather."
+        ],
+        "School Form": [
+            "Weak Wishiwashi school together to concentrate their power. Their united force makes them the demon of the sea, feared near and far.",
+            "At their appearance, even Gyarados will flee. When they team up to use Water Gun, its power exceeds that of Hydro Pump.",
+            "Wishiwashi assemble in this formation to face off against strong foes. It boasts a strength that earned it the name \u201cdemon of the sea.\u201d",
+            "Called \u201cdemon of the sea\u201d by some, when Wishiwashi are injured in battle and their numbers dwindle, they become a regular school.",
+            "On their own, they\u2019re very weak. But when Wishiwashi pool their power together in a school, they become a demon of the sea.",
+            "When facing tough opponents, they get into formation. But if they get wounded in battle, they\u2019ll scatter and become solitary again."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792423106908160/746.png",
+    "discord_sprite": "<:P746:1132145559352922122>"
+}

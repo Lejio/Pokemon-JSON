@@ -1,0 +1,191 @@
+{
+    "alt-version(s)": [],
+    "name": "Grafaiai",
+    "Grafaiai": {
+        "pokedex_data": {
+            "National No.": "0945",
+            "Type": [
+                "Poison",
+                "Normal"
+            ],
+            "Species": "Toxic Monkey Poke\u0301mon",
+            "Height": "0.7 m (2\u203204\u2032\u2032)",
+            "Weight": "27.2 kg (60.0 lbs)",
+            "Abilities": {
+                "Unburden": {
+                    "href": "/ability/unburden",
+                    "effect": "Raises Speed if a held item is used.",
+                    "hidden": false
+                },
+                "Poison Touch": {
+                    "href": "/ability/poison-touch",
+                    "effect": "May poison targets when a Pok\u00e9mon makes contact.",
+                    "hidden": false
+                },
+                "Prankster": {
+                    "href": "/ability/prankster",
+                    "effect": "Gives priority to a status move.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Speed",
+            "Catch rate": "90",
+            "BaseFriendship": "50",
+            "Base Exp.": "170",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "63",
+                "Min": "236",
+                "Max": "330"
+            },
+            "Attack": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Defense": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Atk": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Sp. Def": {
+                "Base": "72",
+                "Min": "134",
+                "Max": "267"
+            },
+            "Speed": {
+                "Base": "110",
+                "Min": "202",
+                "Max": "350"
+            },
+            "Total": "485"
+        },
+        "defense_stats": {
+            "default": {
+                "Grass": "not very effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Ghost": "no effect",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Shroodle",
+                    "nationalNo": "#0944",
+                    "type": [
+                        "Poison",
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Grafaiai",
+                    "nationalNo": "#0945",
+                    "type": [
+                        "Poison",
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 28)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Leer": "1",
+            "Scratch": "1",
+            "Acid Spray": "5",
+            "Fury Swipes": "8",
+            "Switcheroo": "11",
+            "Poison Fang": "14",
+            "Flatter": "18",
+            "Slash": "21",
+            "U-turn": "25",
+            "Poison Jab": "33",
+            "Taunt": "37",
+            "Substitute": "40",
+            "Knock Off": "45",
+            "Gunk Shot": "51"
+        },
+        "evolution": {
+            "Doodle": "\u2014"
+        },
+        "egg": {
+            "Copycat": null,
+            "Cross Poison": null,
+            "Parting Shot": null,
+            "Super Fang": null,
+            "Swagger": null,
+            "Toxic": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Mud-Slap": "05",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Low Kick": "12",
+            "Acid Spray": "13",
+            "Acrobatics": "14",
+            "Thief": "18",
+            "Trailblaze": "20",
+            "Pounce": "21",
+            "Facade": "25",
+            "Poison Tail": "26",
+            "Mud Shot": "35",
+            "Low Sweep": "39",
+            "Fling": "43",
+            "Venoshock": "45",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Dig": "55",
+            "U-turn": "60",
+            "Shadow Claw": "61",
+            "Foul Play": "62",
+            "Sleep Talk": "70",
+            "Metronome": "80",
+            "Poison Jab": "83",
+            "Rest": "85",
+            "Taunt": "87",
+            "Swords Dance": "88",
+            "Gunk Shot": "102",
+            "Substitute": "103",
+            "X-Scissor": "105",
+            "Encore": "122",
+            "Helping Hand": "130",
+            "Baton Pass": "132",
+            "Nasty Plot": "140",
+            "Sludge Bomb": "148",
+            "Giga Impact": "152",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Grafaiai": [
+            "The color of the poisonous saliva depends on what the Pok\u00e9mon eats. Grafaiai covers its fingers in its saliva and draws patterns on trees in forests.",
+            "Each Grafaiai paints its own individual pattern, and it will paint that same pattern over and over again throughout its life."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793972000473098/945.png",
+    "discord_sprite": "<:P945:1132154376832684072>"
+}

@@ -1,0 +1,183 @@
+{
+    "alt-version(s)": [],
+    "name": "Minccino",
+    "Minccino": {
+        "pokedex_data": {
+            "National No.": "0572",
+            "Type": [
+                "Normal"
+            ],
+            "Species": "Chinchilla Poke\u0301mon",
+            "Height": "0.4 m (1\u203204\u2032\u2032)",
+            "Weight": "5.8 kg (12.8 lbs)",
+            "Abilities": {
+                "Cute Charm": {
+                    "href": "/ability/cute-charm",
+                    "effect": "Contact with the Pok\u00e9mon may cause infatuation.",
+                    "hidden": false
+                },
+                "Technician": {
+                    "href": "/ability/technician",
+                    "effect": "Powers up the Pok\u00e9mon's weaker moves.",
+                    "hidden": false
+                },
+                "Skill Link": {
+                    "href": "/ability/skill-link",
+                    "effect": "Increases the frequency of multi-strike moves.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Speed",
+            "Catch rate": "255",
+            "BaseFriendship": "50",
+            "Base Exp.": "60",
+            "Growth Rate": "Fast"
+        },
+        "breeding_data": {
+            "Gender": "25% male,75% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "55",
+                "Min": "220",
+                "Max": "314"
+            },
+            "Attack": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Defense": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Atk": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Def": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Speed": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Total": "300"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Minccino",
+                    "nationalNo": "#0572",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Cinccino",
+                    "nationalNo": "#0573",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Shiny Stone)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Baby-Doll Eyes": "1",
+            "Pound": "1",
+            "Helping Hand": "4",
+            "Echoed Voice": "8",
+            "Sing": "12",
+            "Charm": "16",
+            "Swift": "20",
+            "Encore": "24",
+            "After You": "28",
+            "Tail Slap": "32",
+            "Tickle": "36",
+            "Slam": "40",
+            "Hyper Voice": "44",
+            "Last Resort": "48"
+        },
+        "egg": {
+            "Aqua Tail": null,
+            "Flail": null,
+            "Knock Off": null,
+            "Tail Whip": null
+        },
+        "null": {
+            "Thunderbolt": "08",
+            "Substitute": "20",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Encore": "30",
+            "Iron Tail": "31",
+            "Uproar": "35",
+            "Hyper Voice": "42",
+            "Calm Mind": "49",
+            "Seed Bomb": "59",
+            "Gunk Shot": "73",
+            "Grass Knot": "77",
+            "Work Up": "85",
+            "Play Rough": "90",
+            "Dazzling Gleam": "92"
+        },
+        "tm": {
+            "Thunder Wave": "14",
+            "Dig": "15",
+            "Safeguard": "19",
+            "Rest": "21",
+            "Thief": "23",
+            "Snore": "24",
+            "Protect": "25",
+            "Charm": "29",
+            "Attract": "31",
+            "Rain Dance": "33",
+            "Sunny Day": "34",
+            "Facade": "39",
+            "Swift": "40",
+            "Helping Hand": "41",
+            "Fake Tears": "47",
+            "U-turn": "56",
+            "Fling": "59",
+            "Round": "76",
+            "Retaliate": "79",
+            "Tail Slap": "84"
+        }
+    },
+    "entries": {
+        "Minccino": [
+            "They greet one another by rubbing each other with their tails, which are always kept well groomed and clean.",
+            "These Pok\u00e9mon prefer a tidy habitat. They are always sweeping and dusting, using their tails as brooms.",
+            "Minccino greet each other by grooming one another thoroughly with their tails.",
+            "Minccino greet each other by grooming one another thoroughly with their tails.",
+            "These Pok\u00e9mon prefer a tidy habitat. They are always sweeping and dusting, using their tails as brooms.",
+            "A clean freak that will not allow even the slightest mess, it uses its tail like a mop to thoroughly clean any and all filth.",
+            "When its tail has gotten dirty from self-cleaning or from cleaning its nest, Minccino spends a whole day washing its tail in clean spring water.",
+            "The way it brushes away grime with its tail can be helpful when cleaning. But its focus on spotlessness can make cleaning more of a hassle.",
+            "They pet each other with their tails as a form of greeting. Of the two, the one whose tail is fluffier is a bit more boastful."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791060222361770/572.png",
+    "discord_sprite": "<:P572:1132137911542874152>"
+}

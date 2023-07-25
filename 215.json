@@ -1,0 +1,410 @@
+{
+    "alt-version(s)": [
+        "Hisuian Sneasel"
+    ],
+    "name": "Sneasel",
+    "Sneasel": {
+        "pokedex_data": {
+            "National No.": "0215",
+            "Type": [
+                "Dark",
+                "Ice"
+            ],
+            "Species": "Sharp Claw Poke\u0301mon",
+            "Height": "0.9 m (2\u203211\u2032\u2032)",
+            "Weight": "28.0 kg (61.7 lbs)",
+            "Abilities": {
+                "Inner Focus": {
+                    "href": "/ability/inner-focus",
+                    "effect": "The Pok\u00e9mon is protected from flinching.",
+                    "hidden": false
+                },
+                "Keen Eye": {
+                    "href": "/ability/keen-eye",
+                    "effect": "Prevents other Pok\u00e9mon from lowering accuracy.",
+                    "hidden": false
+                },
+                "Pickpocket": {
+                    "href": "/ability/pickpocket",
+                    "effect": "Steals an item when hit by another Pok\u00e9mon.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Speed",
+            "Catch rate": "60",
+            "BaseFriendship": "35",
+            "Base Exp.": "86",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "55",
+                "Min": "220",
+                "Max": "314"
+            },
+            "Attack": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Defense": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Sp. Atk": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Sp. Def": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Speed": {
+                "Base": "115",
+                "Min": "211",
+                "Max": "361"
+            },
+            "Total": "430"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Psychic": "no effect",
+                "Bug": "super-effective",
+                "Rock": "super-effective",
+                "Ghost": "not very effective",
+                "Dark": "not very effective",
+                "Steel": "super-effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "Hisuian Sneasel": {
+        "pokedex_data": {
+            "National No.": "0215",
+            "Type": [
+                "Fighting",
+                "Poison"
+            ],
+            "Species": "Sharp Claw Poke\u0301mon",
+            "Height": "0.9 m (2\u203211\u2032\u2032)",
+            "Weight": "27.0 kg (59.5 lbs)",
+            "Abilities": {
+                "Inner Focus": {
+                    "href": "/ability/inner-focus",
+                    "effect": "The Pok\u00e9mon is protected from flinching.",
+                    "hidden": false
+                },
+                "Keen Eye": {
+                    "href": "/ability/keen-eye",
+                    "effect": "Prevents other Pok\u00e9mon from lowering accuracy.",
+                    "hidden": false
+                },
+                "Pickpocket": {
+                    "href": "/ability/pickpocket",
+                    "effect": "Steals an item when hit by another Pok\u00e9mon.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Speed",
+            "Catch rate": "60",
+            "BaseFriendship": "35",
+            "Base Exp.": "86",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "55",
+                "Min": "220",
+                "Max": "314"
+            },
+            "Attack": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Defense": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Sp. Atk": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Sp. Def": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Speed": {
+                "Base": "115",
+                "Min": "211",
+                "Max": "361"
+            },
+            "Total": "430"
+        },
+        "defense_stats": {
+            "default": {
+                "Grass": "not very effective",
+                "Fighting": "not very effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Dark": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Sneasel",
+                    "nationalNo": "#0215",
+                    "type": [
+                        "Dark",
+                        "Ice"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Weavile",
+                    "nationalNo": "#0461",
+                    "type": [
+                        "Dark",
+                        "Ice"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(hold Razor Claw, Nighttime)",
+                "shed": null
+            }
+        ],
+        [
+            {
+                "from": {
+                    "name": "Sneasel",
+                    "nationalNo": "#0215",
+                    "type": [
+                        "Fighting",
+                        "Poison"
+                    ],
+                    "nickname": "Hisuian Sneasel"
+                },
+                "to": {
+                    "name": "Sneasler",
+                    "nationalNo": "#0903",
+                    "type": [
+                        "Fighting",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Razor Claw, Daytime)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "Sneasel": {
+            "moves": {
+                "Leer": "1",
+                "Scratch": "1",
+                "Taunt": "6",
+                "Quick Attack": "12",
+                "Metal Claw": "18",
+                "Icy Wind": "24",
+                "Fury Swipes": "30",
+                "Hone Claws": "36",
+                "Beat Up": "42",
+                "Agility": "48",
+                "Screech": "54",
+                "Slash": "60"
+            },
+            "egg": {
+                "Bite": null,
+                "Counter": null,
+                "Double Hit": null,
+                "Fake Out": null,
+                "Feint": null,
+                "Ice Shard": null,
+                "Icicle Crash": null,
+                "Spite": null
+            },
+            "tm": {
+                "Take Down": "01",
+                "Fake Tears": "03",
+                "Agility": "04",
+                "Scary Face": "06",
+                "Protect": "07",
+                "Water Pulse": "11",
+                "Low Kick": "12",
+                "Thief": "18",
+                "Trailblaze": "20",
+                "Facade": "25",
+                "Aerial Ace": "27",
+                "Snarl": "30",
+                "Metal Claw": "31",
+                "Swift": "32",
+                "Icy Wind": "34",
+                "Low Sweep": "39",
+                "Fling": "43",
+                "Avalanche": "46",
+                "Endure": "47",
+                "Sunny Day": "49",
+                "Rain Dance": "50",
+                "Snowscape": "52",
+                "Dig": "55",
+                "False Swipe": "57",
+                "Brick Break": "58",
+                "Shadow Claw": "61",
+                "Foul Play": "62",
+                "Ice Punch": "69",
+                "Sleep Talk": "70",
+                "Poison Jab": "83",
+                "Rest": "85",
+                "Taunt": "87",
+                "Swords Dance": "88",
+                "Dark Pulse": "94",
+                "Substitute": "103",
+                "X-Scissor": "105",
+                "Shadow Ball": "114",
+                "Surf": "123",
+                "Calm Mind": "129",
+                "Helping Hand": "130",
+                "Reversal": "134",
+                "Ice Beam": "135",
+                "Nasty Plot": "140",
+                "Blizzard": "143",
+                "Giga Impact": "152",
+                "Tera Blast": "171"
+            }
+        },
+        "Hisuian Sneasel": {
+            "moves": {
+                "Leer": "1",
+                "Rock Smash": "1",
+                "Scratch": "1",
+                "Taunt": "6",
+                "Quick Attack": "12",
+                "Metal Claw": "18",
+                "Poison Jab": "24",
+                "Brick Break": "30",
+                "Hone Claws": "36",
+                "Slash": "42",
+                "Agility": "48",
+                "Screech": "54",
+                "Close Combat": "60"
+            },
+            "egg": {
+                "Counter": null,
+                "Double Hit": null,
+                "Fake Out": null,
+                "Feint": null,
+                "Night Slash": null,
+                "Quick Guard": null,
+                "Switcheroo": null
+            },
+            "tm": {
+                "Take Down": "01",
+                "Agility": "04",
+                "Protect": "07",
+                "Low Kick": "12",
+                "Acid Spray": "13",
+                "Thief": "18",
+                "Trailblaze": "20",
+                "Facade": "25",
+                "Poison Tail": "26",
+                "Aerial Ace": "27",
+                "Metal Claw": "31",
+                "Swift": "32",
+                "Low Sweep": "39",
+                "Fling": "43",
+                "Venoshock": "45",
+                "Endure": "47",
+                "Sunny Day": "49",
+                "Rain Dance": "50",
+                "Dig": "55",
+                "False Swipe": "57",
+                "Brick Break": "58",
+                "Shadow Claw": "61",
+                "Bulk Up": "64",
+                "Sleep Talk": "70",
+                "Grass Knot": "81",
+                "Poison Jab": "83",
+                "Rest": "85",
+                "Taunt": "87",
+                "Swords Dance": "88",
+                "Toxic Spikes": "91",
+                "Gunk Shot": "102",
+                "Substitute": "103",
+                "X-Scissor": "105",
+                "Shadow Ball": "114",
+                "Calm Mind": "129",
+                "Reversal": "134",
+                "Nasty Plot": "140",
+                "Sludge Bomb": "148",
+                "Giga Impact": "152",
+                "Focus Blast": "158",
+                "Close Combat": "167",
+                "Tera Blast": "171"
+            }
+        }
+    },
+    "entries": {
+        "Sneasel": [
+            "Its paws conceal sharp claws. If attacked, it suddenly extends the claws and startles its enemy.",
+            "Vicious in nature, it drives PIDGEY from their nests and feasts on the eggs that are left behind.",
+            "This cunning pok\u00e9mon hides under the cover of darkness, waiting to attack its prey.",
+            "SNEASEL scales trees by punching its hooked claws into the bark. This pok\u00e9mon seeks out unguarded nests and steals eggs for food while the parents are away.",
+            "Vicious in nature, it drives PIDGEY from their nests and feasts on the eggs that are left behind.",
+            "Its paws conceal sharp claws. If attacked, it suddenly extends the claws and startles its enemy.",
+            "A SNEASEL scales trees by punching its hooked claws into the bark. It seeks out unguarded nests and steals eggs for food while the parents are away.",
+            "It feeds on eggs stolen from nests. Its sharply hooked claws rip vulnerable spots on prey.",
+            "It is extremely vicious and will not stop attacking until its foe is incapable of moving.",
+            "A smart and sneaky Pok\u00e9mon. A pair may work together to steal eggs by having one lure the parents away.",
+            "Its paws conceal sharp claws. If attacked, it suddenly extends the claws and startles its enemy.",
+            "Vicious in nature, it drives PIDGEY from their nests and scavenges any leftovers it can find.",
+            "A smart and sneaky Pok\u00e9mon. A pair may work together to steal eggs by having one lure the parents away.",
+            "A smart and sneaky Pok\u00e9mon, it makes its opponents flinch by suddenly showing the claws hidden in its paws.",
+            "It feeds on eggs stolen from nests. Its sharply hooked claws rip vulnerable spots on prey.",
+            "Its paws conceal sharp claws. If attacked, it suddenly extends the claws and startles its enemy.",
+            "Sneasel scales trees by punching its hooked claws into the bark. This Pok\u00e9mon seeks out unguarded nests and steals eggs for food while the parents are away.",
+            "It has a cunning yet savage disposition. It waits for parents to leave their nests, and then it sneaks in to steal their eggs.",
+            "It uses its claws to poke holes in eggs so it can slurp out the insides. Breeders consider it a scourge and will drive it away or eradicate it.",
+            "They will cooperate to steal eggs from the nests of bird Pok\u00e9mon, but fights break out to determine which one gets to eat the eggs.",
+            "It blends into the dark of night to ambush its prey. Sneasel will attack Sandshrew, but its hard skin can cause Sneasel\u2019s claws to snap off.",
+            "Its paws conceal sharp claws. If attacked, it suddenly extends the claws and startles its enemy.",
+            "It has a cunning yet savage disposition. It waits for parents to leave their nests, and then it sneaks in to steal their eggs.",
+            "It feeds on eggs stolen from nests. Its sharply hooked claws rip vulnerable spots on prey.",
+            "It is extremely vicious and will not stop attacking until its foe is incapable of moving.",
+            "This Pok\u00e9mon shares roots with the Sneasel of Hisui, but unlike that species, this one is spiteful in personality. I hypothesize that water and earth can affect Sneasel\u2019s mind and body.",
+            "This cunning Pok\u00e9mon hides under the cover of darkness, waiting to attack its prey.",
+            "This is a smart and sneaky Pok\u00e9mon. A pair may work together to steal eggs by having one lure the parents away."
+        ],
+        "Hisuian Sneasel": [
+            "Its sturdy, curved claws are ideal for traversing precipitous cliffs. From the tips of these claws drips a venom that infiltrates the nerves of any prey caught in Sneasel\u2019s grasp."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788273849741362/215.png",
+    "discord_sprite": "<:P215:1132122198182723605>"
+}

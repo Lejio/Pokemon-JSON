@@ -1,0 +1,174 @@
+{
+    "alt-version(s)": [],
+    "name": "Scream Tail",
+    "Scream Tail": {
+        "pokedex_data": {
+            "National No.": "0985",
+            "Type": [
+                "Fairy",
+                "Psychic"
+            ],
+            "Species": "Paradox Poke\u0301mon",
+            "Height": "1.2 m (3\u203211\u2032\u2032)",
+            "Weight": "8.0 kg (17.6 lbs)",
+            "Abilities": {
+                "Protosynthesis": {
+                    "href": "/ability/protosynthesis",
+                    "effect": "Raises highest stat in harsh sunlight, or if holding Booster Energy.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 HP",
+            "Catch rate": "50",
+            "BaseFriendship": "0",
+            "Base Exp.": "285",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "115",
+                "Min": "340",
+                "Max": "434"
+            },
+            "Attack": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Defense": {
+                "Base": "99",
+                "Min": "182",
+                "Max": "326"
+            },
+            "Sp. Atk": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Def": {
+                "Base": "115",
+                "Min": "211",
+                "Max": "361"
+            },
+            "Speed": {
+                "Base": "111",
+                "Min": "204",
+                "Max": "353"
+            },
+            "Total": "570"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "not very effective",
+                "Poison": "super-effective",
+                "Psychic": "not very effective",
+                "Ghost": "super-effective",
+                "Dragon": "no effect",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Disable": "1",
+            "Pound": "1",
+            "Sing": "1",
+            "Howl": "7",
+            "Noble Roar": "14",
+            "Bite": "21",
+            "Body Slam": "28",
+            "Rest": "35",
+            "Play Rough": "42",
+            "Hyper Voice": "49",
+            "Psychic Fangs": "56",
+            "Crunch": "63",
+            "Wish": "70",
+            "Gyro Ball": "77",
+            "Perish Song": "84",
+            "Boomburst": "91"
+        },
+        "reminder": {
+            "Sunny Day": "\u2014"
+        },
+        "egg": null,
+        "tm": {
+            "Take Down": "01",
+            "Fake Tears": "03",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Fire Fang": "08",
+            "Thunder Fang": "09",
+            "Ice Fang": "10",
+            "Water Pulse": "11",
+            "Psybeam": "16",
+            "Facade": "25",
+            "Rock Tomb": "36",
+            "Stored Power": "41",
+            "Fling": "43",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Sandstorm": "51",
+            "Snowscape": "52",
+            "Psyshock": "54",
+            "Dig": "55",
+            "Zen Headbutt": "59",
+            "Psychic Fangs": "63",
+            "Bulk Up": "64",
+            "Body Slam": "66",
+            "Fire Punch": "67",
+            "Thunder Punch": "68",
+            "Ice Punch": "69",
+            "Sleep Talk": "70",
+            "Drain Punch": "73",
+            "Reflect": "74",
+            "Light Screen": "75",
+            "Dazzling Gleam": "79",
+            "Metronome": "80",
+            "Grass Knot": "81",
+            "Thunder Wave": "82",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Imprison": "92",
+            "Substitute": "103",
+            "Crunch": "108",
+            "Trick": "109",
+            "Stealth Rock": "116",
+            "Hyper Voice": "117",
+            "Psychic": "120",
+            "Encore": "122",
+            "Flamethrower": "125",
+            "Thunderbolt": "126",
+            "Play Rough": "127",
+            "Amnesia": "128",
+            "Calm Mind": "129",
+            "Helping Hand": "130",
+            "Baton Pass": "132",
+            "Ice Beam": "135",
+            "Psychic Terrain": "138",
+            "Misty Terrain": "139",
+            "Fire Blast": "141",
+            "Blizzard": "143",
+            "Giga Impact": "152",
+            "Focus Blast": "158",
+            "Trick Room": "161",
+            "Hyper Beam": "163",
+            "Thunder": "166",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Scream Tail": [
+            "There has been only one reported sighting of this Pok\u00e9mon. It resembles a mysterious creature depicted in an old expedition journal.",
+            "It resembles a mysterious Pok\u00e9mon described in a paranormal magazine as a Jigglypuff from one billion years ago."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131794281498169465/985.png",
+    "discord_sprite": "<:P985:1132156134627741786>"
+}

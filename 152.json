@@ -1,0 +1,205 @@
+{
+    "alt-version(s)": [],
+    "name": "Chikorita",
+    "Chikorita": {
+        "pokedex_data": {
+            "National No.": "0152",
+            "Type": [
+                "Grass"
+            ],
+            "Species": "Leaf Poke\u0301mon",
+            "Height": "0.9 m (2\u203211\u2032\u2032)",
+            "Weight": "6.4 kg (14.1 lbs)",
+            "Abilities": {
+                "Overgrow": {
+                    "href": "/ability/overgrow",
+                    "effect": "Powers up Grass-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Leaf Guard": {
+                    "href": "/ability/leaf-guard",
+                    "effect": "Prevents problems with status in sunny weather.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Sp. Def",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "64",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "45",
+                "Min": "200",
+                "Max": "294"
+            },
+            "Attack": {
+                "Base": "49",
+                "Min": "92",
+                "Max": "216"
+            },
+            "Defense": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Atk": {
+                "Base": "49",
+                "Min": "92",
+                "Max": "216"
+            },
+            "Sp. Def": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Speed": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Total": "318"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Poison": "super-effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Bug": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Chikorita",
+                    "nationalNo": "#0152",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Bayleef",
+                    "nationalNo": "#0153",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 16)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Bayleef",
+                    "nationalNo": "#0153",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Meganium",
+                    "nationalNo": "#0154",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 32)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Growl": "1",
+            "Tackle": "1",
+            "Razor Leaf": "6",
+            "Poison Powder": "9",
+            "Synthesis": "12",
+            "Reflect": "17",
+            "Magical Leaf": "20",
+            "Nature Power": "23",
+            "Sweet Scent": "28",
+            "Light Screen": "31",
+            "Body Slam": "34",
+            "Safeguard": "39",
+            "Aromatherapy": "42",
+            "Solar Beam": "45"
+        },
+        "egg": {
+            "Ancient Power": null,
+            "Aromatherapy": null,
+            "Body Slam": null,
+            "Counter": null,
+            "Flail": null,
+            "Grassy Terrain": null,
+            "Heal Pulse": null,
+            "Ingrain": null,
+            "Leaf Storm": null,
+            "Leech Seed": null,
+            "Nature Power": null,
+            "Vine Whip": null
+        },
+        "tm": {
+            "Bullet Seed": "09",
+            "Work Up": "10",
+            "Sunny Day": "11",
+            "Light Screen": "16",
+            "Protect": "17",
+            "Giga Drain": "19",
+            "Safeguard": "20",
+            "Solar Beam": "22",
+            "Iron Tail": "23",
+            "Double Team": "32",
+            "Reflect": "33",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Energy Ball": "53",
+            "Endure": "58",
+            "Flash": "70",
+            "Swords Dance": "75",
+            "Sleep Talk": "82",
+            "Grass Knot": "86",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Cut": "93"
+        }
+    },
+    "entries": {
+        "Chikorita": [
+            "A sweet aroma gently wafts from the leaf on its head. It is docile and loves to soak up the sun\u2019s rays.",
+            "Its pleasantly aromatic leaves have the ability to check the humidity and temperature.",
+            "It loves to bask in the sunlight. It uses the leaf on its head to seek out warm places.",
+            "In battle, CHIKORITA waves its leaf around to keep the foe at bay. However, a sweet fragrance also wafts from the leaf, becalming the battling pok\u00e9mon and creating a cozy, friendly atmosphere all around.",
+            "Its pleasantly aromatic leaves have the ability to check the humidity and temperature.",
+            "A sweet aroma gently wafts from the leaf on its head. It is docile and loves to soak up the sun\u2019s rays.",
+            "It waves its leaf around to keep foes at bay. However, a sweet fragrance also wafts from the leaf, creating a friendly atmosphere that becalms the battlers.",
+            "It uses the leaf on its head to determine the temperature and humidity. It loves to sunbathe.",
+            "A sweet aroma gently wafts from the leaf on its head. It is docile and loves to soak up sunrays.",
+            "Its pleasantly aromatic leaf has the ability to check humidity and temperature.",
+            "It uses the leaf on its head to determine the temperature and humidity. It loves to sunbathe.",
+            "A sweet aroma gently wafts from the leaf on its head. It is docile and loves to soak up sun rays.",
+            "It uses the leaf on its head to determine the temperature and humidity. It loves to sunbathe.",
+            "In battle, Chikorita waves its leaf around to keep the foe at bay. However, a sweet fragrance also wafts from the leaf, becalming the battling Pok\u00e9mon and creating a cozy, friendly atmosphere all around.",
+            "It uses the leaf on its head to determine the air\u2019s temperature and humidity. It loves to sunbathe."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787777160269824/152.png",
+    "discord_sprite": "<:P152:1132119423881330769>"
+}

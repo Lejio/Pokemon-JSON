@@ -1,0 +1,161 @@
+{
+    "alt-version(s)": [],
+    "name": "Klefki",
+    "Klefki": {
+        "pokedex_data": {
+            "National No.": "0707",
+            "Type": [
+                "Steel",
+                "Fairy"
+            ],
+            "Species": "Key Ring Poke\u0301mon",
+            "Height": "0.2 m (0\u203208\u2032\u2032)",
+            "Weight": "3.0 kg (6.6 lbs)",
+            "Abilities": {
+                "Prankster": {
+                    "href": "/ability/prankster",
+                    "effect": "Gives priority to a status move.",
+                    "hidden": false
+                },
+                "Magician": {
+                    "href": "/ability/magician",
+                    "effect": "The Pok\u00e9mon steals the held item of a Pok\u00e9mon it hits with a move.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Defense",
+            "Catch rate": "75",
+            "BaseFriendship": "50",
+            "Base Exp.": "165",
+            "Growth Rate": "Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "57",
+                "Min": "224",
+                "Max": "318"
+            },
+            "Attack": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Defense": {
+                "Base": "91",
+                "Min": "168",
+                "Max": "309"
+            },
+            "Sp. Atk": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Sp. Def": {
+                "Base": "87",
+                "Min": "161",
+                "Max": "300"
+            },
+            "Speed": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Total": "470"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Fire": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Poison": "no effect",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Dragon": "no effect",
+                "Dark": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Astonish": "1",
+            "Tackle": "4",
+            "Fairy Wind": "8",
+            "Torment": "12",
+            "Fairy Lock": "16",
+            "Metal Sound": "20",
+            "Draining Kiss": "24",
+            "Recycle": "28",
+            "Imprison": "32",
+            "Flash Cannon": "36",
+            "Play Rough": "40",
+            "Magic Room": "44",
+            "Foul Play": "48",
+            "Last Resort": "52"
+        },
+        "egg": {
+            "Magnet Rise": null,
+            "Switcheroo": null
+        },
+        "tm": {
+            "Protect": "07",
+            "Thief": "18",
+            "Facade": "25",
+            "Swift": "32",
+            "Draining Kiss": "37",
+            "Stored Power": "41",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Sandstorm": "51",
+            "Psyshock": "54",
+            "Foul Play": "62",
+            "Sleep Talk": "70",
+            "Reflect": "74",
+            "Light Screen": "75",
+            "Dazzling Gleam": "79",
+            "Thunder Wave": "82",
+            "Rest": "85",
+            "Spikes": "90",
+            "Imprison": "92",
+            "Flash Cannon": "93",
+            "Substitute": "103",
+            "Iron Defense": "104",
+            "Psychic": "120",
+            "Play Rough": "127",
+            "Calm Mind": "129",
+            "Misty Terrain": "139",
+            "Giga Impact": "152",
+            "Trick Room": "161",
+            "Hyper Beam": "163",
+            "Steel Beam": "170",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Klefki": [
+            "These key collectors threaten any attackers by fiercely jingling their keys at them.",
+            "It never lets go of a key that it likes, so people give it the keys to vaults and safes as a way to prevent crime.",
+            "This even-tempered Pok\u00e9mon has a habit of collecting keys. It will sneak into people\u2019s homes to steal their keys.",
+            "It inserts its horn into chinks in metal, absorbing metal ions. For some reason, it collects keys.",
+            "Although it\u2019s unclear why it collects keys, giving it a key makes Klefki very happy. However, it apparently only likes master keys.",
+            "Long ago it lived in mines, but once the minerals that make up its diet became scarcer, Klefki began appearing in human settlements.",
+            "This Pok\u00e9mon is constantly collecting keys. Entrust a Klefki with important keys, and the Pok\u00e9mon will protect them no matter what.",
+            "Klefki sucks in metal ions with the horn topping its head. It seems this Pok\u00e9mon loves keys so much that its head needed to look like one, too.",
+            "Once it absorbs a key\u2019s metal ions, it discards the key without a second thought. However, it will hang on to keys it favors for decades.",
+            "In the past, noble families entrusted their vault keys to a Klefki. They passed the Klefki down through the generations, taking good care of it."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792112896188497/707.png",
+    "discord_sprite": "<:P707:1132143848592781422>"
+}

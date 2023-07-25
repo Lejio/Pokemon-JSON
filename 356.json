@@ -1,0 +1,221 @@
+{
+    "alt-version(s)": [],
+    "name": "Dusclops",
+    "Dusclops": {
+        "pokedex_data": {
+            "National No.": "0356",
+            "Type": [
+                "Ghost"
+            ],
+            "Species": "Beckon Poke\u0301mon",
+            "Height": "1.6 m (5\u203203\u2032\u2032)",
+            "Weight": "30.6 kg (67.5 lbs)",
+            "Abilities": {
+                "Pressure": {
+                    "href": "/ability/pressure",
+                    "effect": "The Pok\u00e9mon raises the foe's PP usage.",
+                    "hidden": false
+                },
+                "Frisk": {
+                    "href": "/ability/frisk",
+                    "effect": "The Pok\u00e9mon can check a foe's held item.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Defense, 1 Sp. Def",
+            "Catch rate": "90",
+            "BaseFriendship": "35",
+            "Base Exp.": "159",
+            "Growth Rate": "Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "40",
+                "Min": "190",
+                "Max": "284"
+            },
+            "Attack": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Defense": {
+                "Base": "130",
+                "Min": "238",
+                "Max": "394"
+            },
+            "Sp. Atk": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Def": {
+                "Base": "130",
+                "Min": "238",
+                "Max": "394"
+            },
+            "Speed": {
+                "Base": "25",
+                "Min": "49",
+                "Max": "163"
+            },
+            "Total": "455"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "no effect",
+                "Fighting": "no effect",
+                "Poison": "not very effective",
+                "Bug": "not very effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Duskull",
+                    "nationalNo": "#0355",
+                    "type": [
+                        "Ghost"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Dusclops",
+                    "nationalNo": "#0356",
+                    "type": [
+                        "Ghost"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 37)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Dusclops",
+                    "nationalNo": "#0356",
+                    "type": [
+                        "Ghost"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Dusknoir",
+                    "nationalNo": "#0477",
+                    "type": [
+                        "Ghost"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(trade holding Reaper Cloth)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Astonish": "1",
+            "Bind": "1",
+            "Disable": "1",
+            "Fire Punch": "1",
+            "Gravity": "1",
+            "Ice Punch": "1",
+            "Leer": "1",
+            "Shadow Punch": "1",
+            "Shadow Sneak": "1",
+            "Thunder Punch": "1",
+            "Confuse Ray": "12",
+            "Night Shade": "16",
+            "Payback": "20",
+            "Will-O-Wisp": "24",
+            "Mean Look": "28",
+            "Hex": "32",
+            "Curse": "36",
+            "Shadow Ball": "42",
+            "Future Sight": "48"
+        },
+        "evolution": {
+            "Shadow Punch": "60"
+        },
+        "egg": {
+            "Destiny Bond": null,
+            "Grudge": null,
+            "Haze": null,
+            "Imprison": null,
+            "Memento": null,
+            "Pain Split": null
+        },
+        "tm": {
+            "Focus Punch": "01",
+            "Calm Mind": "04",
+            "Sunny Day": "11",
+            "Taunt": "12",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Earthquake": "26",
+            "Psychic": "29",
+            "Shadow Ball": "30",
+            "Brick Break": "31",
+            "Double Team": "32",
+            "Rock Tomb": "39",
+            "Torment": "41",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Skill Swap": "48",
+            "Fling": "56",
+            "Charge Beam": "57",
+            "Endure": "58",
+            "Will-O-Wisp": "61",
+            "Payback": "66",
+            "Giga Impact": "68",
+            "Flash": "70",
+            "Psych Up": "77",
+            "Dark Pulse": "79",
+            "Rock Slide": "80",
+            "Sleep Talk": "82",
+            "Bulldoze": "83",
+            "Dream Eater": "85",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Trick Room": "92",
+            "Strength": "96",
+            "Rock Smash": "98"
+        }
+    },
+    "entries": {
+        "Dusclops": [
+            "DUSCLOPS\u2019s body is completely hollow - there is nothing at all inside. It is said that its body is like a black hole. This pok\u00e9mon will absorb anything into its body, but nothing will ever come back out.",
+            "DUSCLOPS absorbs anything, however large the object may be. This pok\u00e9mon hypnotizes its foe by waving its hands in a macabre manner and by bringing its single eye to bear. The hypnotized foe is made to do DUSCLOPS\u2019s bidding.",
+            "Its body is entirely hollow. When it opens its mouth, it sucks everything in as if it were a black hole.",
+            "It is thought that its body is hollow with only a spectral ball of fire burning inside. However, no one has been able to confirm this theory as fact.",
+            "Its body is hollow. It is said that those who look into its body are sucked into the void.",
+            "It seeks drifting will-o\u2019-the-wisps and sucks them into its empty body. What happens inside is a mystery.",
+            "Anyone who dares peer into its body to see its spectral ball of fire will have their spirit stolen away.",
+            "It seeks drifting will-o\u2019-the-wisps and sucks them into its empty body. What happens inside is a mystery.",
+            "Anyone who dares peer into its body to see its spectral ball of fire will have their spirit stolen away.",
+            "Its body is hollow. It is said that those who look into its body are sucked into the void.",
+            "Dusclops\u2019s body is completely hollow\u2014there is nothing at all inside. It is said that its body is like a black hole. This Pok\u00e9mon will absorb anything into its body, but nothing will ever come back out.",
+            "Dusclops absorbs anything, however large the object may be. This Pok\u00e9mon hypnotizes its foe by waving its hands in a macabre manner and by bringing its single eye to bear. The hypnotized foe is made to do Dusclops\u2019s bidding.",
+            "Its body is entirely hollow. When it opens its mouth, it sucks everything in as if it were a black hole.",
+            "It seeks drifting will-o\u2019-the-wisps and sucks them into its empty body. What happens inside is a mystery.",
+            "Its body is hollow. It is said that those who look into its body are sucked into the void.",
+            "There are rumors that peeking inside its bandage-wrapped body will cause one to get pulled in through the gaps between the bandages, never to return. I\u2019ve been too scared to verify."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789381615759460/356.png",
+    "discord_sprite": "<:P356:1132128402233634836>"
+}

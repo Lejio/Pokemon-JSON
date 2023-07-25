@@ -1,0 +1,175 @@
+{
+    "alt-version(s)": [],
+    "name": "Mudbray",
+    "Mudbray": {
+        "pokedex_data": {
+            "National No.": "0749",
+            "Type": [
+                "Ground"
+            ],
+            "Species": "Donkey Poke\u0301mon",
+            "Height": "1.0 m (3\u203203\u2032\u2032)",
+            "Weight": "110.0 kg (242.5 lbs)",
+            "Abilities": {
+                "Own Tempo": {
+                    "href": "/ability/own-tempo",
+                    "effect": "Prevents the Pok\u00e9mon from becoming confused.",
+                    "hidden": false
+                },
+                "Stamina": {
+                    "href": "/ability/stamina",
+                    "effect": "Raises Defense when attacked.",
+                    "hidden": false
+                },
+                "Inner Focus": {
+                    "href": "/ability/inner-focus",
+                    "effect": "The Pok\u00e9mon is protected from flinching.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack",
+            "Catch rate": "190",
+            "BaseFriendship": "50",
+            "Base Exp.": "77",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "70",
+                "Min": "250",
+                "Max": "344"
+            },
+            "Attack": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Defense": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Atk": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Sp. Def": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Speed": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Total": "385"
+        },
+        "defense_stats": {
+            "default": {
+                "Water": "super-effective",
+                "Electric": "no effect",
+                "Grass": "super-effective",
+                "Ice": "super-effective",
+                "Poison": "not very effective",
+                "Rock": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Mudbray",
+                    "nationalNo": "#0749",
+                    "type": [
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Mudsdale",
+                    "nationalNo": "#0750",
+                    "type": [
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 30)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Mud-Slap": "1",
+            "Rock Smash": "1",
+            "Iron Defense": "4",
+            "Double Kick": "8",
+            "Bulldoze": "12",
+            "Stomp": "16",
+            "Strength": "20",
+            "Counter": "24",
+            "High Horsepower": "28",
+            "Heavy Slam": "32",
+            "Earthquake": "36",
+            "Mega Kick": "40",
+            "Superpower": "44"
+        },
+        "egg": {
+            "Double-Edge": null,
+            "Endeavor": null,
+            "Fissure": null,
+            "Roar": null,
+            "Smack Down": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Mud-Slap": "05",
+            "Protect": "07",
+            "Low Kick": "12",
+            "Facade": "25",
+            "Bulldoze": "28",
+            "Rock Tomb": "36",
+            "Low Sweep": "39",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Sandstorm": "51",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Iron Head": "99",
+            "Substitute": "103",
+            "Iron Defense": "104",
+            "Stealth Rock": "116",
+            "Heavy Slam": "121",
+            "Earth Power": "133",
+            "Earthquake": "149",
+            "Stone Edge": "150",
+            "Close Combat": "167",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Mudbray": [
+            "The mud stuck to Mudbray\u2019s hooves enhances its grip and its powerful running gait.",
+            "It has a stubborn, individualistic disposition. Eating dirt, making mud, and playing in the mire all form part of its daily routine.",
+            "It loves playing in the mud. If it isn\u2019t showered with mud on a daily basis, it gets stressed out and stops listening to its Trainer.",
+            "Possessing mighty power, Mudbray can be loaded with 50 times its own body weight and will be totally fine.",
+            "Loads weighing up to 50 times as much as its own body weight pose no issue for this Pok\u00e9mon. It\u2019s skilled at making use of mud.",
+            "It eats dirt to create mud and smears this mud all over its feet, giving them the grip needed to walk on rough terrain without slipping.",
+            "This Pok\u00e9mon covers itself in mud that it has regurgitated. The mud won\u2019t dry out even if it\u2019s exposed to the sun for a long time.",
+            "Though a slow walker, Mudbray is plenty strong. Its pace doesn\u2019t change even when it\u2019s loaded with 50 times its own body weight."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792446653743134/749.png",
+    "discord_sprite": "<:P749:1132145754987835512>"
+}

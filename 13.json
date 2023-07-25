@@ -1,0 +1,165 @@
+{
+    "alt-version(s)": [],
+    "name": "Weedle",
+    "Weedle": {
+        "pokedex_data": {
+            "National No.": "0013",
+            "Type": [
+                "Bug",
+                "Poison"
+            ],
+            "Species": "Hairy Bug Poke\u0301mon",
+            "Height": "0.3 m (1\u203200\u2032\u2032)",
+            "Weight": "3.2 kg (7.1 lbs)",
+            "Abilities": {
+                "Shield Dust": {
+                    "href": "/ability/shield-dust",
+                    "effect": "Blocks the added effects of attacks taken.",
+                    "hidden": false
+                },
+                "Run Away": {
+                    "href": "/ability/run-away",
+                    "effect": "Enables a sure getaway from wild Pok\u00e9mon.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Speed",
+            "Catch rate": "255",
+            "BaseFriendship": "50",
+            "Base Exp.": "39",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "40",
+                "Min": "190",
+                "Max": "284"
+            },
+            "Attack": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Defense": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Sp. Atk": {
+                "Base": "20",
+                "Min": "40",
+                "Max": "152"
+            },
+            "Sp. Def": {
+                "Base": "20",
+                "Min": "40",
+                "Max": "152"
+            },
+            "Speed": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Total": "195"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Grass": "not very effective",
+                "Fighting": "not very effective",
+                "Poison": "not very effective",
+                "Flying": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Weedle",
+                    "nationalNo": "#0013",
+                    "type": [
+                        "Bug",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Kakuna",
+                    "nationalNo": "#0014",
+                    "type": [
+                        "Bug",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 7)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Kakuna",
+                    "nationalNo": "#0014",
+                    "type": [
+                        "Bug",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Beedrill",
+                    "nationalNo": "#0015",
+                    "type": [
+                        "Bug",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 10)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Poison Sting": "1",
+            "String Shot": "1",
+            "Bug Bite": "9"
+        },
+        "egg": null,
+        "tm": null
+    },
+    "entries": {
+        "Weedle": [
+            "Often found in forests, eating leaves. It has a sharp venomous stinger on its head.",
+            "Beware of the sharp stinger on its head. It hides in grass and bushes where it eats leaves.",
+            "Its poison stinger is very powerful. Its bright-colored body is intended to warn off its enemies.",
+            "It attacks using a two-inch poison barb on its head. It can usually be found under the leaves it eats.",
+            "The barb on top of its head secretes a strong poison. It uses this toxic barb to protect itself.",
+            "WEEDLE has an extremely acute sense of smell. It is capable of distinguishing its favorite kinds of leaves from those it dislikes just by sniffing with its big red proboscis (nose).",
+            "Often found in forests and grasslands. It has a sharp, toxic barb of around two inches on top of its head.",
+            "Often found in forests, eating leaves. It has a sharp stinger on its head that injects poison.",
+            "A WEEDLE has an extremely acute sense of smell. It distinguishes its favorite kinds of leaves from those it dislikes by sniffing with its big red proboscis (nose).",
+            "It eats its weight in leaves every day. It fends off attackers with the needle on its head.",
+            "Its poison stinger is very powerful. Its bright-colored body is intended to warn off its enemies.",
+            "It attacks using a two-inch poison barb on its head. It can usually be found under the leaves it eats.",
+            "It eats its weight in leaves every day. It fends off attackers with the needle on its head.",
+            "Often found in forests and grasslands. It has a sharp, toxic barb of around two inches on top of its head.",
+            "Its poison stinger is very powerful. Its bright-colored body is intended to warn off its enemies.",
+            "Weedle has an extremely acute sense of smell. It is capable of distinguishing its favorite kinds of leaves from those it dislikes just by sniffing with its big red proboscis (nose).",
+            "Beware of the sharp stinger on its head. It hides in grass and bushes where it eats leaves.",
+            "It eats its weight in leaves every day. It fends off attackers with the needle on its head."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131786690407714876/13.png",
+    "discord_sprite": "<:P13:1131972464772141197>"
+}

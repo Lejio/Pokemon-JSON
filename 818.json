@@ -1,0 +1,206 @@
+{
+    "alt-version(s)": [],
+    "name": "Inteleon",
+    "Inteleon": {
+        "pokedex_data": {
+            "National No.": "0818",
+            "Type": [
+                "Water"
+            ],
+            "Species": "Secret Agent Poke\u0301mon",
+            "Height": "1.9 m (6\u203203\u2032\u2032)",
+            "Weight": "45.2 kg (99.6 lbs)",
+            "Abilities": {
+                "Torrent": {
+                    "href": "/ability/torrent",
+                    "effect": "Powers up Water-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Sniper": {
+                    "href": "/ability/sniper",
+                    "effect": "Powers up moves if they become critical hits.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Speed",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "265",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "70",
+                "Min": "250",
+                "Max": "344"
+            },
+            "Attack": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Defense": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Atk": {
+                "Base": "125",
+                "Min": "229",
+                "Max": "383"
+            },
+            "Sp. Def": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Speed": {
+                "Base": "120",
+                "Min": "220",
+                "Max": "372"
+            },
+            "Total": "530"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Sobble",
+                    "nationalNo": "#0816",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Drizzile",
+                    "nationalNo": "#0817",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 16)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Drizzile",
+                    "nationalNo": "#0817",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Inteleon",
+                    "nationalNo": "#0818",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 35)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Acrobatics": "1",
+            "Bind": "1",
+            "Growl": "1",
+            "Pound": "1",
+            "Water Gun": "1",
+            "Water Pulse": "12",
+            "Tearful Look": "19",
+            "Sucker Punch": "24",
+            "U-turn": "30",
+            "Liquidation": "38",
+            "Soak": "46",
+            "Rain Dance": "54",
+            "Hydro Pump": "62"
+        },
+        "evolution": {
+            "Snipe Shot": "80"
+        },
+        "egg": {
+            "Aqua Jet": null,
+            "Aqua Ring": null,
+            "Double Team": null,
+            "Fell Stinger": null,
+            "Haze": null,
+            "Ice Shard": null,
+            "Mist": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Agility": "04",
+            "Protect": "07",
+            "Water Pulse": "11",
+            "Acrobatics": "14",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Swift": "32",
+            "Icy Wind": "34",
+            "Mud Shot": "35",
+            "Air Cutter": "40",
+            "Fling": "43",
+            "Endure": "47",
+            "Rain Dance": "50",
+            "Snowscape": "52",
+            "U-turn": "60",
+            "Air Slash": "65",
+            "Sleep Talk": "70",
+            "Reflect": "74",
+            "Light Screen": "75",
+            "Waterfall": "77",
+            "Metronome": "80",
+            "Rest": "85",
+            "Taunt": "87",
+            "Swords Dance": "88",
+            "Dark Pulse": "94",
+            "Substitute": "103",
+            "Liquidation": "110",
+            "Shadow Ball": "114",
+            "Surf": "123",
+            "Baton Pass": "132",
+            "Ice Beam": "135",
+            "Hydro Pump": "142",
+            "Blizzard": "143",
+            "Water Pledge": "145",
+            "Giga Impact": "152",
+            "Hydro Cannon": "154",
+            "Hyper Beam": "163",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Inteleon": [
+            "It has many hidden capabilities, such as fingertips that can shoot water and a membrane on its back that it can use to glide through the air.",
+            "Its nictitating membranes let it pick out foes\u2019 weak points so it can precisely blast them with water that shoots from its fingertips at Mach 3."
+        ],
+        "Gigantamax": [
+            "Gigantamax Inteleon\u2019s Water Gun move fires at Mach 7. As the Pok\u00e9mon takes aim, it uses the crest on its head to gauge wind and temperature.",
+            "It has excellent sniping skills. Shooting a berry rolling along over nine miles away is a piece of cake for this Pok\u00e9mon."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792981989539901/818.png",
+    "discord_sprite": "<:P818:1132148791944937512>"
+}

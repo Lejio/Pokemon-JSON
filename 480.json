@@ -1,0 +1,168 @@
+{
+    "alt-version(s)": [],
+    "name": "Uxie",
+    "Uxie": {
+        "pokedex_data": {
+            "National No.": "0480",
+            "Type": [
+                "Psychic"
+            ],
+            "Species": "Knowledge Poke\u0301mon",
+            "Height": "0.3 m (1\u203200\u2032\u2032)",
+            "Weight": "0.3 kg (0.7 lbs)",
+            "Abilities": {
+                "Levitate": {
+                    "href": "/ability/levitate",
+                    "effect": "Gives immunity to Ground type moves.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Defense, 1 Sp. Def",
+            "Catch rate": "3",
+            "BaseFriendship": "140",
+            "Base Exp.": "290",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "75",
+                "Min": "260",
+                "Max": "354"
+            },
+            "Attack": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Defense": {
+                "Base": "130",
+                "Min": "238",
+                "Max": "394"
+            },
+            "Sp. Atk": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Sp. Def": {
+                "Base": "130",
+                "Min": "238",
+                "Max": "394"
+            },
+            "Speed": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Total": "580"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "not very effective",
+                "Ground": "no effect",
+                "Psychic": "not very effective",
+                "Bug": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Confusion": "1",
+            "Rest": "1",
+            "Swift": "7",
+            "Endure": "14",
+            "Psybeam": "21",
+            "Imprison": "28",
+            "Extrasensory": "35",
+            "Amnesia": "42",
+            "Psychic": "49",
+            "Yawn": "56",
+            "Future Sight": "63",
+            "Flail": "70",
+            "Memento": "77",
+            "Mystical Power": "84"
+        },
+        "egg": null,
+        "tm": {
+            "Mud-Slap": "05",
+            "Protect": "07",
+            "Water Pulse": "11",
+            "Acrobatics": "14",
+            "Psybeam": "16",
+            "Confuse Ray": "17",
+            "Charge Beam": "23",
+            "Facade": "25",
+            "Swift": "32",
+            "Draining Kiss": "37",
+            "Stored Power": "41",
+            "Fling": "43",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Sandstorm": "51",
+            "Psyshock": "54",
+            "Zen Headbutt": "59",
+            "U-turn": "60",
+            "Foul Play": "62",
+            "Fire Punch": "67",
+            "Thunder Punch": "68",
+            "Ice Punch": "69",
+            "Sleep Talk": "70",
+            "Drain Punch": "73",
+            "Reflect": "74",
+            "Light Screen": "75",
+            "Dazzling Gleam": "79",
+            "Metronome": "80",
+            "Grass Knot": "81",
+            "Thunder Wave": "82",
+            "Rest": "85",
+            "Imprison": "92",
+            "Skill Swap": "98",
+            "Substitute": "103",
+            "Trick": "109",
+            "Giga Drain": "111",
+            "Shadow Ball": "114",
+            "Stealth Rock": "116",
+            "Energy Ball": "119",
+            "Psychic": "120",
+            "Encore": "122",
+            "Thunderbolt": "126",
+            "Play Rough": "127",
+            "Amnesia": "128",
+            "Calm Mind": "129",
+            "Helping Hand": "130",
+            "Baton Pass": "132",
+            "Nasty Plot": "140",
+            "Giga Impact": "152",
+            "Trick Room": "161",
+            "Hyper Beam": "163",
+            "Thunder": "166",
+            "Solar Beam": "168",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Uxie": [
+            "Known as \u201cThe Being of Knowledge.\u201d It is said that it can wipe out the memory of those who see its eyes.",
+            "It is said that its emergence gave humans the intelligence to improve their quality of life.",
+            "When UXIE flew, people gained the ability to solve problems. It was the birth of knowledge.",
+            "According to some sources, this Pok\u00e9mon provided people with the intelligence necessary to solve various problems.",
+            "When Uxie flew, people gained the ability to solve problems. It was the birth of knowledge.",
+            "Known as \u201cThe Being of Knowledge.\u201d It is said that it can wipe out the memory of those who see its eyes.",
+            "It is said that its emergence gave humans the intelligence to improve their quality of life.",
+            "Known as the Being of Knowledge, it is said that it can wipe out the memory of those who see its eyes.",
+            "It is said that its emergence gave humans the intelligence to improve their quality of life.",
+            "A Pok\u00e9mon feared but also respected for stealing away the memories of evildoers. I have found records that suggest Uxie holds dominion over knowledge."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790341356396604/480.png",
+    "discord_sprite": "<:P480:1132133855093084232>"
+}

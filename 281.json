@@ -1,0 +1,260 @@
+{
+    "alt-version(s)": [],
+    "name": "Kirlia",
+    "Kirlia": {
+        "pokedex_data": {
+            "National No.": "0281",
+            "Type": [
+                "Psychic",
+                "Fairy"
+            ],
+            "Species": "Emotion Poke\u0301mon",
+            "Height": "0.8 m (2\u203207\u2032\u2032)",
+            "Weight": "20.2 kg (44.5 lbs)",
+            "Abilities": {
+                "Synchronize": {
+                    "href": "/ability/synchronize",
+                    "effect": "Passes a burn, poison, or paralysis to the foe.",
+                    "hidden": false
+                },
+                "Trace": {
+                    "href": "/ability/trace",
+                    "effect": "The Pok\u00e9mon copies a foe's Ability.",
+                    "hidden": false
+                },
+                "Telepathy": {
+                    "href": "/ability/telepathy",
+                    "effect": "Anticipates an ally's attack and dodges it.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Sp. Atk",
+            "Catch rate": "120",
+            "BaseFriendship": "35",
+            "Base Exp.": "97",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "38",
+                "Min": "186",
+                "Max": "280"
+            },
+            "Attack": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Defense": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Sp. Atk": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Def": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Speed": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Total": "278"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "not very effective",
+                "Poison": "super-effective",
+                "Psychic": "not very effective",
+                "Ghost": "super-effective",
+                "Dragon": "no effect",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Ralts",
+                    "nationalNo": "#0280",
+                    "type": [
+                        "Psychic",
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Kirlia",
+                    "nationalNo": "#0281",
+                    "type": [
+                        "Psychic",
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 20)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Kirlia",
+                    "nationalNo": "#0281",
+                    "type": [
+                        "Psychic",
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Gardevoir",
+                    "nationalNo": "#0282",
+                    "type": [
+                        "Psychic",
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 30)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Kirlia",
+                    "nationalNo": "#0281",
+                    "type": [
+                        "Psychic",
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Gallade",
+                    "nationalNo": "#0475",
+                    "type": [
+                        "Psychic",
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Dawn Stone, Male)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Confusion": "1",
+            "Disarming Voice": "1",
+            "Double Team": "1",
+            "Growl": "1",
+            "Hypnosis": "9",
+            "Draining Kiss": "12",
+            "Teleport": "15",
+            "Psybeam": "18",
+            "Life Dew": "23",
+            "Charm": "28",
+            "Calm Mind": "33",
+            "Psychic": "38",
+            "Heal Pulse": "43",
+            "Dream Eater": "48",
+            "Future Sight": "53"
+        },
+        "egg": {
+            "Confuse Ray": null,
+            "Destiny Bond": null,
+            "Disable": null,
+            "Knock Off": null,
+            "Mean Look": null,
+            "Memento": null,
+            "Mystical Fire": null,
+            "Shadow Sneak": null
+        },
+        "tm": {
+            "Charm": "02",
+            "Protect": "07",
+            "Psybeam": "16",
+            "Confuse Ray": "17",
+            "Thief": "18",
+            "Disarming Voice": "19",
+            "Charge Beam": "23",
+            "Facade": "25",
+            "Swift": "32",
+            "Magical Leaf": "33",
+            "Icy Wind": "34",
+            "Draining Kiss": "37",
+            "Stored Power": "41",
+            "Fling": "43",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Psyshock": "54",
+            "Zen Headbutt": "59",
+            "Body Slam": "66",
+            "Fire Punch": "67",
+            "Thunder Punch": "68",
+            "Ice Punch": "69",
+            "Sleep Talk": "70",
+            "Reflect": "74",
+            "Light Screen": "75",
+            "Dazzling Gleam": "79",
+            "Metronome": "80",
+            "Grass Knot": "81",
+            "Thunder Wave": "82",
+            "Rest": "85",
+            "Taunt": "87",
+            "Imprison": "92",
+            "Skill Swap": "98",
+            "Substitute": "103",
+            "Will-O-Wisp": "107",
+            "Trick": "109",
+            "Shadow Ball": "114",
+            "Hyper Voice": "117",
+            "Psychic": "120",
+            "Encore": "122",
+            "Thunderbolt": "126",
+            "Calm Mind": "129",
+            "Helping Hand": "130",
+            "Psychic Terrain": "138",
+            "Misty Terrain": "139",
+            "Trick Room": "161",
+            "Hyper Beam": "163",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Kirlia": [
+            "It is said that a KIRLIA that is exposed to the positive emotions of its TRAINER grows beautiful. This pok\u00e9mon controls psychokinetic powers with its highly developed brain.",
+            "KIRLIA uses the horns on its head to amplify its psychokinetic power. When the pok\u00e9mon uses its power, the air around it becomes distorted, creating mirages of nonexistent scenery.",
+            "The cheerful spirit of its TRAINER gives it energy for its psychokinetic power. It spins and dances when happy.",
+            "A KIRLIA has the psychic power to create a rip in the dimensions and see into the future. It is said to dance with pleasure on sunny mornings.",
+            "It is highly perceptive of its Trainer\u2019s feelings. It dances when it is feeling happy.",
+            "If its Trainer becomes happy, it overflows with energy, dancing joyously while spinning about.",
+            "It has a psychic power that enables it to distort the space around it and see into the future.",
+            "If its Trainer becomes happy, it overflows with energy, dancing joyously while spinning about.",
+            "The cheerful spirit of its Trainer gives it energy for its psychokinetic power. It spins and dances when happy.",
+            "It has a psychic power that enables it to distort the space around it and see into the future.",
+            "It is said that a Kirlia that is exposed to the positive emotions of its Trainer grows beautiful. This Pok\u00e9mon controls psychokinetic powers with its highly developed brain.",
+            "Kirlia uses the horns on its head to amplify its psychokinetic power. When the Pok\u00e9mon uses its power, the air around it becomes distorted, creating mirages of nonexistent scenery.",
+            "If its Trainer becomes happy, it overflows with energy, dancing joyously while spinning about.",
+            "It has a psychic power that enables it to distort the space around it and see into the future.",
+            "It is highly perceptive of its Trainer\u2019s feelings. It dances when it is feeling happy.",
+            "It resembles a maiden in appearance, but it wields strange powers to project visions of paradise. I suspect the crimson ornaments on its head are the key to its abilities.",
+            "It has a psychic power that enables it to distort the space around it and see into the future.",
+            "The cheerful spirit of its Trainer gives it energy for its psychokinetic power. It spins and dances when happy."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788792198602873/281.png",
+    "discord_sprite": "<:P281:1132125109608513557>"
+}

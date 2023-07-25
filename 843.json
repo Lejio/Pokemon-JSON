@@ -1,0 +1,168 @@
+{
+    "alt-version(s)": [],
+    "name": "Silicobra",
+    "Silicobra": {
+        "pokedex_data": {
+            "National No.": "0843",
+            "Type": [
+                "Ground"
+            ],
+            "Species": "Sand Snake Poke\u0301mon",
+            "Height": "2.2 m (7\u203203\u2032\u2032)",
+            "Weight": "7.6 kg (16.8 lbs)",
+            "Abilities": {
+                "Sand Spit": {
+                    "href": "/ability/sand-spit",
+                    "effect": "Creates a sandstorm when hit by an attack.",
+                    "hidden": false
+                },
+                "Shed Skin": {
+                    "href": "/ability/shed-skin",
+                    "effect": "The Pok\u00e9mon may heal its own status problems.",
+                    "hidden": false
+                },
+                "Sand Veil": {
+                    "href": "/ability/sand-veil",
+                    "effect": "Boosts the Pok\u00e9mon's evasion in a sandstorm.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Defense",
+            "Catch rate": "255",
+            "BaseFriendship": "50",
+            "Base Exp.": "63",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "52",
+                "Min": "214",
+                "Max": "308"
+            },
+            "Attack": {
+                "Base": "57",
+                "Min": "107",
+                "Max": "234"
+            },
+            "Defense": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Sp. Atk": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Sp. Def": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Speed": {
+                "Base": "46",
+                "Min": "87",
+                "Max": "210"
+            },
+            "Total": "315"
+        },
+        "defense_stats": {
+            "default": {
+                "Water": "super-effective",
+                "Electric": "no effect",
+                "Grass": "super-effective",
+                "Ice": "super-effective",
+                "Poison": "not very effective",
+                "Rock": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Silicobra",
+                    "nationalNo": "#0843",
+                    "type": [
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Sandaconda",
+                    "nationalNo": "#0844",
+                    "type": [
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 36)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Sand Attack": "1",
+            "Wrap": "1",
+            "Minimize": "5",
+            "Brutal Swing": "10",
+            "Bulldoze": "15",
+            "Headbutt": "20",
+            "Glare": "25",
+            "Dig": "30",
+            "Sandstorm": "35",
+            "Slam": "40",
+            "Coil": "45",
+            "Sand Tomb": "50"
+        },
+        "egg": {
+            "Belch": null,
+            "Dragon Rush": null,
+            "Last Resort": null,
+            "Mud-Slap": null,
+            "Poison Tail": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Mud-Slap": "05",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Facade": "25",
+            "Poison Tail": "26",
+            "Bulldoze": "28",
+            "Mud Shot": "35",
+            "Rock Tomb": "36",
+            "Endure": "47",
+            "Sandstorm": "51",
+            "Dig": "55",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Rock Blast": "76",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Substitute": "103",
+            "Drill Run": "106",
+            "Stealth Rock": "116",
+            "Earth Power": "133",
+            "Earthquake": "149",
+            "Stone Edge": "150",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Silicobra": [
+            "As it digs, it swallows sand and stores it in its neck pouch. The pouch can hold more than 17 pounds of sand.",
+            "It spews sand from its nostrils. While the enemy is blinded, it burrows into the ground to hide.",
+            "Silicobra\u2019s neck pouch, which can inflate and deflate like a balloon, gets more elastic each time Silicobra sheds its skin.",
+            "Silicobra\u2019s large nostrils are specialized for spraying sand, so this Pok\u00e9mon is not very good at telling apart different smells."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793175476961421/843.png",
+    "discord_sprite": "<:P843:1132149889162285106>"
+}

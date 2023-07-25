@@ -1,0 +1,206 @@
+{
+    "alt-version(s)": [],
+    "name": "Boldore",
+    "Boldore": {
+        "pokedex_data": {
+            "National No.": "0525",
+            "Type": [
+                "Rock"
+            ],
+            "Species": "Ore Poke\u0301mon",
+            "Height": "0.9 m (2\u203211\u2032\u2032)",
+            "Weight": "102.0 kg (224.9 lbs)",
+            "Abilities": {
+                "Sturdy": {
+                    "href": "/ability/sturdy",
+                    "effect": "It cannot be knocked out with one hit.",
+                    "hidden": false
+                },
+                "Weak Armor": {
+                    "href": "/ability/weak-armor",
+                    "effect": "Physical attacks lower Defense and raise Speed.",
+                    "hidden": false
+                },
+                "Sand Force": {
+                    "href": "/ability/sand-force",
+                    "effect": "Boosts certain moves' power in a sandstorm.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack, 1 Defense",
+            "Catch rate": "120",
+            "BaseFriendship": "50",
+            "Base Exp.": "137",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "70",
+                "Min": "250",
+                "Max": "344"
+            },
+            "Attack": {
+                "Base": "105",
+                "Min": "193",
+                "Max": "339"
+            },
+            "Defense": {
+                "Base": "105",
+                "Min": "193",
+                "Max": "339"
+            },
+            "Sp. Atk": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Def": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Speed": {
+                "Base": "20",
+                "Min": "40",
+                "Max": "152"
+            },
+            "Total": "390"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Grass": "super-effective",
+                "Fighting": "super-effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Roggenrola",
+                    "nationalNo": "#0524",
+                    "type": [
+                        "Rock"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Boldore",
+                    "nationalNo": "#0525",
+                    "type": [
+                        "Rock"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 25)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Boldore",
+                    "nationalNo": "#0525",
+                    "type": [
+                        "Rock"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Gigalith",
+                    "nationalNo": "#0526",
+                    "type": [
+                        "Rock"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Trade)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Harden": "1",
+            "Power Gem": "1",
+            "Sand Attack": "1",
+            "Stealth Rock": "1",
+            "Tackle": "1",
+            "Mud-Slap": "12",
+            "Smack Down": "16",
+            "Iron Defense": "20",
+            "Headbutt": "24",
+            "Rock Slide": "30",
+            "Rock Blast": "36",
+            "Sandstorm": "42",
+            "Stone Edge": "48",
+            "Explosion": "54"
+        },
+        "evolution": {
+            "Power Gem": "80"
+        },
+        "egg": {
+            "Autotomize": null,
+            "Curse": null,
+            "Gravity": null,
+            "Take Down": null,
+            "Wide Guard": null
+        },
+        "null": {
+            "Earthquake": "10",
+            "Substitute": "20",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Iron Defense": "46",
+            "Power Gem": "63",
+            "Earth Power": "67",
+            "Flash Cannon": "70",
+            "Stone Edge": "75",
+            "Stealth Rock": "76",
+            "Heavy Slam": "79",
+            "Body Press": "99"
+        },
+        "tm": {
+            "Rest": "21",
+            "Rock Slide": "22",
+            "Snore": "24",
+            "Protect": "25",
+            "Attract": "31",
+            "Sandstorm": "32",
+            "Facade": "39",
+            "Rock Tomb": "48",
+            "Sand Tomb": "49",
+            "Rock Blast": "54",
+            "Round": "76",
+            "Bulldoze": "81",
+            "Stomping Tantrum": "98"
+        }
+    },
+    "entries": {
+        "Boldore": [
+            "When it overflows with power, the orange crystal on its body glows. It looks for underground water in caves.",
+            "Because its energy was too great to be contained, the energy leaked and formed orange crystals.",
+            "When it is healthy, its core sticks out. Always facing the same way, it swiftly moves front to back and left to right.",
+            "Because its energy was too great to be contained, the energy leaked and formed orange crystals.",
+            "When it is healthy, its core sticks out. Always facing the same way, it swiftly moves front to back and left to right.",
+            "Its orange crystal is a mass of energy. Just one crystal fragment would provide enough fuel for a hundred dump trucks.",
+            "It explores caves in search of underground water. It\u2019s not comfortable around water, so this Pok\u00e9mon takes great care in lapping it up.",
+            "The energy overflowing from its body has turned into orange crystals that are hard enough to smash diamonds.",
+            "Its orange crystals are lumps of powerful energy. They\u2019re valuable, so Boldore is sometimes targeted for them.",
+            "If you see its orange crystals start to glow, be wary. It\u2019s about to fire off bursts of energy.",
+            "It relies on sound in order to monitor what\u2019s in its vicinity. When angered, it will attack without ever changing the direction it\u2019s facing."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790694651007036/525.png",
+    "discord_sprite": "<:P525:1132135834599039116>"
+}

@@ -1,0 +1,185 @@
+{
+    "alt-version(s)": [],
+    "name": "Munna",
+    "Munna": {
+        "pokedex_data": {
+            "National No.": "0517",
+            "Type": [
+                "Psychic"
+            ],
+            "Species": "Dream Eater Poke\u0301mon",
+            "Height": "0.6 m (2\u203200\u2032\u2032)",
+            "Weight": "23.3 kg (51.4 lbs)",
+            "Abilities": {
+                "Forewarn": {
+                    "href": "/ability/forewarn",
+                    "effect": "Determines what moves a foe has.",
+                    "hidden": false
+                },
+                "Synchronize": {
+                    "href": "/ability/synchronize",
+                    "effect": "Passes a burn, poison, or paralysis to the foe.",
+                    "hidden": false
+                },
+                "Telepathy": {
+                    "href": "/ability/telepathy",
+                    "effect": "Anticipates an ally's attack and dodges it.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 HP",
+            "Catch rate": "190",
+            "BaseFriendship": "50",
+            "Base Exp.": "58",
+            "Growth Rate": "Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "76",
+                "Min": "262",
+                "Max": "356"
+            },
+            "Attack": {
+                "Base": "25",
+                "Min": "49",
+                "Max": "163"
+            },
+            "Defense": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Sp. Atk": {
+                "Base": "67",
+                "Min": "125",
+                "Max": "256"
+            },
+            "Sp. Def": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Speed": {
+                "Base": "24",
+                "Min": "47",
+                "Max": "161"
+            },
+            "Total": "292"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Munna",
+                    "nationalNo": "#0517",
+                    "type": [
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Musharna",
+                    "nationalNo": "#0518",
+                    "type": [
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Moon Stone)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Defense Curl": "1",
+            "Stored Power": "1",
+            "Hypnosis": "4",
+            "Psybeam": "8",
+            "Imprison": "12",
+            "Moonlight": "16",
+            "Magic Coat": "20",
+            "Zen Headbutt": "24",
+            "Calm Mind": "28",
+            "Yawn": "32",
+            "Psychic": "36",
+            "Moonblast": "40",
+            "Dream Eater": "44",
+            "Future Sight": "48",
+            "Wonder Room": "52"
+        },
+        "egg": {
+            "Curse": null,
+            "Healing Wish": null
+        },
+        "null": {
+            "Psychic": "11",
+            "Amnesia": "17",
+            "Substitute": "20",
+            "Psyshock": "25",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Shadow Ball": "33",
+            "Future Sight": "34",
+            "Trick": "38",
+            "Skill Swap": "40",
+            "Calm Mind": "49",
+            "Gyro Ball": "52",
+            "Energy Ball": "65",
+            "Zen Headbutt": "69",
+            "Stored Power": "82",
+            "Ally Switch": "83",
+            "Dazzling Gleam": "92"
+        },
+        "tm": {
+            "Thunder Wave": "14",
+            "Light Screen": "17",
+            "Reflect": "18",
+            "Safeguard": "19",
+            "Rest": "21",
+            "Rock Slide": "22",
+            "Snore": "24",
+            "Protect": "25",
+            "Attract": "31",
+            "Rain Dance": "33",
+            "Facade": "39",
+            "Swift": "40",
+            "Helping Hand": "41",
+            "Imprison": "44",
+            "Rock Tomb": "48",
+            "Power Swap": "60",
+            "Guard Swap": "61",
+            "Trick Room": "70",
+            "Wonder Room": "71",
+            "Round": "76"
+        }
+    },
+    "entries": {
+        "Munna": [
+            "Munna always float in the air. People whose dreams are eaten by them forget what the dreams had been about.",
+            "It eats the dreams of people and Pok\u00e9mon. When it eats a pleasant dream, it expels pink-colored mist.",
+            "This Pok\u00e9mon appears before people and Pok\u00e9mon who are having nightmares and eats those dreams.",
+            "This Pok\u00e9mon appears before people and Pok\u00e9mon who are having nightmares and eats those dreams.",
+            "It eats the dreams of people and Pok\u00e9mon. When it eats a pleasant dream, it expels pink-colored mist.",
+            "Late at night, it appears beside people\u2019s pillows. As it feeds on dreams, the patterns on its body give off a faint glow.",
+            "It eats dreams and releases mist. The mist is pink when it\u2019s eating a good dream, and black when it\u2019s eating a nightmare."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790631795163146/517.png",
+    "discord_sprite": "<:P517:1132135480436195338>"
+}

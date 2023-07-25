@@ -1,0 +1,212 @@
+{
+    "alt-version(s)": [],
+    "name": "Seel",
+    "Seel": {
+        "pokedex_data": {
+            "National No.": "0086",
+            "Type": [
+                "Water"
+            ],
+            "Species": "Sea Lion Poke\u0301mon",
+            "Height": "1.1 m (3\u203207\u2032\u2032)",
+            "Weight": "90.0 kg (198.4 lbs)",
+            "Abilities": {
+                "Thick Fat": {
+                    "href": "/ability/thick-fat",
+                    "effect": "Ups resistance to Fire- and Ice-type moves.",
+                    "hidden": false
+                },
+                "Hydration": {
+                    "href": "/ability/hydration",
+                    "effect": "Heals status problems if it is raining.",
+                    "hidden": false
+                },
+                "Ice Body": {
+                    "href": "/ability/ice-body",
+                    "effect": "The Pok\u00e9mon gradually regains HP in a hailstorm.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Sp. Def",
+            "Catch rate": "190",
+            "BaseFriendship": "50",
+            "Base Exp.": "65",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "65",
+                "Min": "240",
+                "Max": "334"
+            },
+            "Attack": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Defense": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Sp. Atk": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Sp. Def": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Speed": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Total": "325"
+        },
+        "defense_stats": {
+            "Thick Fat ability": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Steel": "not very effective"
+            },
+            "Hydration ability": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Steel": "not very effective"
+            },
+            "Ice Body ability": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Seel",
+                    "nationalNo": "#0086",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Dewgong",
+                    "nationalNo": "#0087",
+                    "type": [
+                        "Water",
+                        "Ice"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 34)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Headbutt": "1",
+            "Growl": "3",
+            "Water Gun": "7",
+            "Icy Wind": "11",
+            "Encore": "13",
+            "Ice Shard": "17",
+            "Rest": "21",
+            "Aqua Ring": "23",
+            "Aurora Beam": "27",
+            "Aqua Jet": "31",
+            "Brine": "33",
+            "Take Down": "37",
+            "Dive": "41",
+            "Aqua Tail": "43",
+            "Ice Beam": "47",
+            "Safeguard": "51",
+            "Hail": "53"
+        },
+        "egg": {
+            "Belch": null,
+            "Disable": null,
+            "Encore": null,
+            "Entrainment": null,
+            "Fake Out": null,
+            "Horn Drill": null,
+            "Icicle Spear": null,
+            "Lick": null,
+            "Perish Song": null,
+            "Slam": null,
+            "Spit Up": null,
+            "Stockpile": null,
+            "Swallow": null
+        },
+        "tm": {
+            "Water Pulse": "03",
+            "Hail": "07",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Safeguard": "20",
+            "Iron Tail": "23",
+            "Double Team": "32",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Brine": "55",
+            "Fling": "56",
+            "Endure": "58",
+            "Sleep Talk": "82",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Surf": "95",
+            "Waterfall": "99"
+        }
+    },
+    "entries": {
+        "Seel": [
+            "The protruding horn on its head is very hard. It is used for bashing through thick ice.",
+            "Loves freezing cold conditions. Relishes swimming in a frigid climate of around 14F degrees.",
+            "Although it can\u2019t walk well on land, it is a graceful swimmer. It especially loves being in frigid seas.",
+            "In daytime, it is often found asleep on the seabed in shallow waters. Its nostrils close while it swims.",
+            "The light blue fur that covers it keeps it protected against the cold. It loves iceberg-filled oceans.",
+            "SEEL hunts for prey in the frigid sea underneath sheets of ice. When it needs to breathe, it punches a hole through the ice with the sharply protruding section of its head.",
+            "Covered with light blue fur, its hide is thick and tough. It is active in bitter cold of minus 40 degrees Fahrenheit.",
+            "The protruding horn on its head is very hard. It is used for bashing through thick icebergs.",
+            "SEEL hunt for prey in frigid, ice-covered seas. When it needs to breathe, it punches a hole through the ice with the sharply protruding section of its head.",
+            "A Pok\u00e9mon that lives on icebergs. It swims in the sea using the point on its head to break up ice.",
+            "Although it can\u2019t walk well on land, it is a graceful swimmer. It especially loves being in frigid seas.",
+            "In daytime, it is often found asleep on the seabed in shallow waters. Its nostrils close while it swims.",
+            "A Pok\u00e9mon that lives on icebergs. It swims in the sea using the point on its head to break up ice.",
+            "The colder it gets, the better it feels. It joyfully swims around oceans so cold that they are filled with floating ice.",
+            "A Pok\u00e9mon that lives on icebergs. It swims in the sea using the point on its head to break up ice.",
+            "Covered with light blue fur, its hide is thick and tough. It is active in bitter cold of -40 degrees Fahrenheit.",
+            "Seel hunts for prey in the frigid sea underneath sheets of ice. When it needs to breathe, it punches a hole through the ice with the sharply protruding section of its head.",
+            "It has always been supposed that Seel live only in cold seas. Their having shown up in Alola is a mystery.",
+            "Thanks to its thick fat, cold seas don\u2019t bother it at all, but it gets tired pretty easily in warm waters.",
+            "Loves freezing-cold conditions. Relishes swimming in a frigid climate of around 14 degrees Fahrenheit.",
+            "This Pok\u00e9mon lives on icebergs. It uses the sharp point on its head to break up ice as it swims in the sea."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787263391571998/86.png",
+    "discord_sprite": "<:P86:1132116509448228914>"
+}

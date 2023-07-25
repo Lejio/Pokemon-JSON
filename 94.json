@@ -1,0 +1,338 @@
+{
+    "alt-version(s)": [
+        "Mega Gengar"
+    ],
+    "name": "Gengar",
+    "Gengar": {
+        "pokedex_data": {
+            "National No.": "0094",
+            "Type": [
+                "Ghost",
+                "Poison"
+            ],
+            "Species": "Shadow Poke\u0301mon",
+            "Height": "1.5 m (4\u203211\u2032\u2032)",
+            "Weight": "40.5 kg (89.3 lbs)",
+            "Abilities": {
+                "Cursed Body": {
+                    "href": "/ability/cursed-body",
+                    "effect": "May disable a move used on the Pok\u00e9mon.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Sp. Atk",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "250",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "60",
+                "Min": "230",
+                "Max": "324"
+            },
+            "Attack": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Defense": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Atk": {
+                "Base": "130",
+                "Min": "238",
+                "Max": "394"
+            },
+            "Sp. Def": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Speed": {
+                "Base": "110",
+                "Min": "202",
+                "Max": "350"
+            },
+            "Total": "500"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "no effect",
+                "Grass": "not very effective",
+                "Fighting": "no effect",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "Mega Gengar": {
+        "pokedex_data": {
+            "National No.": "0094",
+            "Type": [
+                "Ghost",
+                "Poison"
+            ],
+            "Species": "Shadow Poke\u0301mon",
+            "Height": "1.4 m (4\u203207\u2032\u2032)",
+            "Weight": "40.5 kg (89.3 lbs)",
+            "Abilities": {
+                "Shadow Tag": {
+                    "href": "/ability/shadow-tag",
+                    "effect": "Prevents the foe from escaping.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Sp. Atk",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "270",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "60",
+                "Min": "230",
+                "Max": "324"
+            },
+            "Attack": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Defense": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Sp. Atk": {
+                "Base": "170",
+                "Min": "310",
+                "Max": "482"
+            },
+            "Sp. Def": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Speed": {
+                "Base": "130",
+                "Min": "238",
+                "Max": "394"
+            },
+            "Total": "600"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "no effect",
+                "Grass": "not very effective",
+                "Fighting": "no effect",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Gastly",
+                    "nationalNo": "#0092",
+                    "type": [
+                        "Ghost",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Haunter",
+                    "nationalNo": "#0093",
+                    "type": [
+                        "Ghost",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 25)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Haunter",
+                    "nationalNo": "#0093",
+                    "type": [
+                        "Ghost",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Gengar",
+                    "nationalNo": "#0094",
+                    "type": [
+                        "Ghost",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Trade)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Confuse Ray": "1",
+            "Hypnosis": "1",
+            "Lick": "1",
+            "Mean Look": "1",
+            "Perish Song": "1",
+            "Reflect Type": "1",
+            "Shadow Punch": "1",
+            "Payback": "12",
+            "Spite": "16",
+            "Curse": "20",
+            "Hex": "24",
+            "Night Shade": "30",
+            "Sucker Punch": "36",
+            "Dark Pulse": "42",
+            "Shadow Ball": "48",
+            "Destiny Bond": "54",
+            "Dream Eater": "60"
+        },
+        "egg": {
+            "Astonish": null,
+            "Clear Smog": null,
+            "Disable": null,
+            "Haze": null,
+            "Perish Song": null,
+            "Reflect Type": null,
+            "Smog": null,
+            "Toxic": null
+        },
+        "tm": {
+            "Scary Face": "06",
+            "Protect": "07",
+            "Acid Spray": "13",
+            "Confuse Ray": "17",
+            "Thief": "18",
+            "Facade": "25",
+            "Hex": "29",
+            "Icy Wind": "34",
+            "Night Shade": "42",
+            "Fling": "43",
+            "Venoshock": "45",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Brick Break": "58",
+            "Shadow Claw": "61",
+            "Foul Play": "62",
+            "Body Slam": "66",
+            "Fire Punch": "67",
+            "Thunder Punch": "68",
+            "Ice Punch": "69",
+            "Sleep Talk": "70",
+            "Drain Punch": "73",
+            "Dazzling Gleam": "79",
+            "Metronome": "80",
+            "Thunder Wave": "82",
+            "Poison Jab": "83",
+            "Rest": "85",
+            "Taunt": "87",
+            "Toxic Spikes": "91",
+            "Imprison": "92",
+            "Dark Pulse": "94",
+            "Skill Swap": "98",
+            "Gunk Shot": "102",
+            "Substitute": "103",
+            "Will-O-Wisp": "107",
+            "Trick": "109",
+            "Giga Drain": "111",
+            "Shadow Ball": "114",
+            "Energy Ball": "119",
+            "Psychic": "120",
+            "Encore": "122",
+            "Thunderbolt": "126",
+            "Nasty Plot": "140",
+            "Sludge Bomb": "148",
+            "Phantom Force": "151",
+            "Giga Impact": "152",
+            "Focus Blast": "158",
+            "Trick Room": "161",
+            "Hyper Beam": "163",
+            "Thunder": "166",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Gengar": [
+            "Under a full moon, this pok\u00e9mon likes to mimic the shadows of people and laugh at their fright.",
+            "A GENGAR is close by if you feel a sudden chill. It may be trying to lay a curse on you.",
+            "It steals heat from its surroundings. If you feel a sudden chill, it is certain that a GENGAR appeared.",
+            "To steal the life of its target, it slips into the prey\u2019s shadow and silently waits for an opportunity.",
+            "Hiding in people\u2019s shadows at night, it absorbs their heat. The chill it causes makes the victims shake.",
+            "Sometimes, on a dark night, your shadow thrown by a streetlight will suddenly and startlingly overtake you. It is actually a GENGAR running past you, pretending to be your shadow.",
+            "It is said to emerge from darkness to steal the lives of those who become lost in mountains.",
+            "On the night of a full moon, if shadows move on their own and laugh, it must be GENGAR\u2019s doing.",
+            "Deep in the night, your shadow cast by a streetlight may suddenly overtake you. It is actually a GENGAR running past you, pretending to be your shadow.",
+            "It hides in shadows. It is said that if GENGAR is hiding, it cools the area by nearly 10 degrees F.",
+            "Lurking in the shadowy corners of rooms, it awaits chances to steal its prey\u2019s life force.",
+            "The leer that floats in darkness belongs to a GENGAR delighting in casting curses on people.",
+            "It steals heat from its surroundings. If you feel a sudden chill, it is certain that a GENGAR appeared.",
+            "To steal the life of its target, it slips into the prey\u2019s shadow and silently waits for an opportunity.",
+            "The leer that floats in darkness belongs to a Gengar delighting in casting curses on people.",
+            "It hides in shadows. It is said that if Gengar is hiding, it cools the area by nearly 10 degrees Fahrenheit.",
+            "Hiding in people\u2019s shadows at night, it absorbs their heat. The chill it causes makes the victims shake.",
+            "Sometimes, on a dark night, your shadow thrown by a streetlight will suddenly and startlingly overtake you. It is actually a Gengar running past you, pretending to be your shadow.",
+            "Should you feel yourself attacked by a sudden chill, it is evidence of an approaching Gengar. There is no escaping it. Give up.",
+            "It apparently wishes for a traveling companion. Since it was once human itself, it tries to create one by taking the lives of other humans.",
+            "You can hear tales told all over the world about how Gengar will pay a visit to children who are naughty.",
+            "Even your home isn\u2019t safe. Gengar will lurk in whatever dark corner of a room it can find and wait for its chance to catch its prey.",
+            "A Gengar is close by if you feel a sudden chill. It may be trying to lay a curse on you.",
+            "On the night of a full moon, if shadows move on their own and laugh, it must be Gengar\u2019s doing.",
+            "It is said to emerge from darkness to steal the lives of those who become lost in mountains.",
+            "It hides in shadows. It is said that in rooms where Gengar is hiding, the temperature drops by nearly 10 degrees Fahrenheit.",
+            "Lurking in the shadowy corners of rooms, it awaits chances to steal its prey\u2019s life-force.",
+            "Possesses potential victims\u2019 shadows in an effort to steal away the victims\u2019 lives. If your shadow begins to laugh, you must take hold of a protective charm posthaste!",
+            "To steal the life of its target, it slips into the prey\u2019s shadow and silently waits for an opportunity.",
+            "Hiding in people\u2019s shadows at night, it absorbs their heat. The chill it causes makes the victims shake."
+        ],
+        "Gigantamax": [
+            "Rumor has it that its gigantic mouth leads not into its body, filled with cursed energy, but instead directly to the afterlife.",
+            "It lays traps, hoping to steal the lives of those it catches. If you stand in front of its mouth, you\u2019ll hear your loved ones\u2019 voices calling out to you."
+        ],
+        "Mega Gengar": [
+            "Gengar\u2019s relationships are warped. It has no interest in opponents unless it perceives them as prey.",
+            "The energy of Mega Evolution awakened it. It sinks into another dimension, where it keeps a patient watch for its chance to attack.",
+            "It tries to take the lives of anyone and everyone. It will even try to curse the Trainer who is its master!",
+            "Mega Evolution has made it possible for Gengar to access other dimensions. Its entire body is brimming with strange power.",
+            "It can pass through other dimensions and can appear anywhere. It caused a stir one time when it stuck just one leg out of a wall."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787325723127808/94.png",
+    "discord_sprite": "<:P94:1132116859383201884>"
+}

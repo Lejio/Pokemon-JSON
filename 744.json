@@ -1,0 +1,304 @@
+{
+    "alt-version(s)": [
+        "Own Tempo Rockruff"
+    ],
+    "name": "Rockruff",
+    "Rockruff": {
+        "pokedex_data": {
+            "National No.": "0744",
+            "Type": [
+                "Rock"
+            ],
+            "Species": "Puppy Poke\u0301mon",
+            "Height": "0.5 m (1\u203208\u2032\u2032)",
+            "Weight": "9.2 kg (20.3 lbs)",
+            "Abilities": {
+                "Keen Eye": {
+                    "href": "/ability/keen-eye",
+                    "effect": "Prevents other Pok\u00e9mon from lowering accuracy.",
+                    "hidden": false
+                },
+                "Vital Spirit": {
+                    "href": "/ability/vital-spirit",
+                    "effect": "Prevents the Pok\u00e9mon from falling asleep.",
+                    "hidden": false
+                },
+                "Steadfast": {
+                    "href": "/ability/steadfast",
+                    "effect": "Raises Speed each time the Pok\u00e9mon flinches.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack",
+            "Catch rate": "190",
+            "BaseFriendship": "50",
+            "Base Exp.": "56",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "45",
+                "Min": "200",
+                "Max": "294"
+            },
+            "Attack": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Defense": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Atk": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Sp. Def": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Speed": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Total": "280"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Grass": "super-effective",
+                "Fighting": "super-effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "Own Tempo Rockruff": {
+        "pokedex_data": {
+            "National No.": "0744",
+            "Type": [
+                "Rock"
+            ],
+            "Species": "Puppy Poke\u0301mon",
+            "Height": "0.5 m (1\u203208\u2032\u2032)",
+            "Weight": "9.2 kg (20.3 lbs)",
+            "Abilities": {
+                "Own Tempo": {
+                    "href": "/ability/own-tempo",
+                    "effect": "Prevents the Pok\u00e9mon from becoming confused.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack",
+            "Catch rate": "190",
+            "BaseFriendship": "50",
+            "Base Exp.": "56",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "45",
+                "Min": "200",
+                "Max": "294"
+            },
+            "Attack": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Defense": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Atk": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Sp. Def": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Speed": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Total": "280"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Grass": "super-effective",
+                "Fighting": "super-effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Rockruff",
+                    "nationalNo": "#0744",
+                    "type": [
+                        "Rock"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Lycanroc",
+                    "nationalNo": "#0745",
+                    "type": [
+                        "Rock"
+                    ],
+                    "nickname": "Midday Form"
+                },
+                "requirement": "(Level 25, Daytime)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Rockruff",
+                    "nationalNo": "#0744",
+                    "type": [
+                        "Rock"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Lycanroc",
+                    "nationalNo": "#0745",
+                    "type": [
+                        "Rock"
+                    ],
+                    "nickname": "Midnight Form"
+                },
+                "requirement": "(Level 25, Nighttime)",
+                "shed": null
+            }
+        ],
+        [
+            {
+                "from": {
+                    "name": "Rockruff",
+                    "nationalNo": "#0744",
+                    "type": [
+                        "Rock"
+                    ],
+                    "nickname": "Own Tempo Rockruff"
+                },
+                "to": {
+                    "name": "Lycanroc",
+                    "nationalNo": "#0745",
+                    "type": [
+                        "Rock"
+                    ],
+                    "nickname": "Dusk Form"
+                },
+                "requirement": "(Level 25, Dusk)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Leer": "1",
+            "Tackle": "1",
+            "Sand Attack": "4",
+            "Double Team": "8",
+            "Rock Throw": "12",
+            "Howl": "16",
+            "Bite": "20",
+            "Rock Tomb": "24",
+            "Roar": "28",
+            "Rock Slide": "32",
+            "Crunch": "36",
+            "Scary Face": "40",
+            "Stealth Rock": "44",
+            "Stone Edge": "48"
+        },
+        "egg": {
+            "Endeavor": null,
+            "Last Resort": null,
+            "Thrash": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Charm": "02",
+            "Mud-Slap": "05",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Fire Fang": "08",
+            "Thunder Fang": "09",
+            "Trailblaze": "20",
+            "Facade": "25",
+            "Bulldoze": "28",
+            "Snarl": "30",
+            "Rock Tomb": "36",
+            "Endure": "47",
+            "Sandstorm": "51",
+            "Dig": "55",
+            "Zen Headbutt": "59",
+            "Psychic Fangs": "63",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Taunt": "87",
+            "Swords Dance": "88",
+            "Iron Head": "99",
+            "Substitute": "103",
+            "Iron Defense": "104",
+            "Crunch": "108",
+            "Stealth Rock": "116",
+            "Hyper Voice": "117",
+            "Play Rough": "127",
+            "Helping Hand": "130",
+            "Earth Power": "133",
+            "Stone Edge": "150",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Rockruff": [
+            "It\u2019s considered to be a good Pok\u00e9mon for beginners because of its friendliness, but its disposition grows rougher as it grows up.",
+            "This Pok\u00e9mon has lived with people since times long ago. It can sense when its Trainer is in the dumps and will stick close by its Trainer\u2019s side.",
+            "As they develop, their disposition grows more violent and aggressive. Many Trainers find them too much to handle and abandon them.",
+            "When it rubs the rocks on its neck against you, that\u2019s proof of its love for you. However, the rocks are sharp, so the gesture is quite painful!",
+            "This Pok\u00e9mon can bond very strongly with its Trainer, but it also has a habit of biting. Raising a Rockruff for a long time can be challenging.",
+            "This Pok\u00e9mon intimidates opponents by striking the ground with the rocks on its neck. The moment an opponent flinches, Rockruff attacks.",
+            "This Pok\u00e9mon is very friendly when it\u2019s young. Its disposition becomes vicious once it matures, but it never forgets the kindness of its master.",
+            "This Pok\u00e9mon travels in a pack with others until it grows up. When its mood turns sour, it starts striking the ground with the rocks on its neck."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792407680266320/744.png",
+    "discord_sprite": "<:P744:1132145470932779038>"
+}

@@ -1,0 +1,212 @@
+{
+    "alt-version(s)": [],
+    "name": "Talonflame",
+    "Talonflame": {
+        "pokedex_data": {
+            "National No.": "0663",
+            "Type": [
+                "Fire",
+                "Flying"
+            ],
+            "Species": "Scorching Poke\u0301mon",
+            "Height": "1.2 m (3\u203211\u2032\u2032)",
+            "Weight": "24.5 kg (54.0 lbs)",
+            "Abilities": {
+                "Flame Body": {
+                    "href": "/ability/flame-body",
+                    "effect": "Contact with the Pok\u00e9mon may burn the attacker.",
+                    "hidden": false
+                },
+                "Gale Wings": {
+                    "href": "/ability/gale-wings",
+                    "effect": "Gives priority to Flying-type moves.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Speed",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "175",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "78",
+                "Min": "266",
+                "Max": "360"
+            },
+            "Attack": {
+                "Base": "81",
+                "Min": "150",
+                "Max": "287"
+            },
+            "Defense": {
+                "Base": "71",
+                "Min": "132",
+                "Max": "265"
+            },
+            "Sp. Atk": {
+                "Base": "74",
+                "Min": "137",
+                "Max": "271"
+            },
+            "Sp. Def": {
+                "Base": "69",
+                "Min": "128",
+                "Max": "260"
+            },
+            "Speed": {
+                "Base": "126",
+                "Min": "231",
+                "Max": "386"
+            },
+            "Total": "499"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Electric": "super-effective",
+                "Grass": "not very effective",
+                "Fighting": "not very effective",
+                "Ground": "no effect",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Fletchling",
+                    "nationalNo": "#0661",
+                    "type": [
+                        "Normal",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Fletchinder",
+                    "nationalNo": "#0662",
+                    "type": [
+                        "Fire",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 17)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Fletchinder",
+                    "nationalNo": "#0662",
+                    "type": [
+                        "Fire",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Talonflame",
+                    "nationalNo": "#0663",
+                    "type": [
+                        "Fire",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 35)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Ember": "1",
+            "Feint": "1",
+            "Flame Charge": "1",
+            "Flare Blitz": "1",
+            "Growl": "1",
+            "Peck": "1",
+            "Quick Attack": "1",
+            "Flail": "15",
+            "Acrobatics": "22",
+            "Agility": "29",
+            "Aerial Ace": "38",
+            "Tailwind": "47",
+            "Steel Wing": "56",
+            "Roost": "65",
+            "Fly": "74",
+            "Brave Bird": "83"
+        },
+        "egg": {
+            "Defog": null,
+            "Flame Charge": null,
+            "Quick Guard": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Agility": "04",
+            "Protect": "07",
+            "Acrobatics": "14",
+            "Thief": "18",
+            "Fire Spin": "24",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Swift": "32",
+            "Flame Charge": "38",
+            "Air Cutter": "40",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "U-turn": "60",
+            "Bulk Up": "64",
+            "Air Slash": "65",
+            "Sleep Talk": "70",
+            "Rest": "85",
+            "Taunt": "87",
+            "Swords Dance": "88",
+            "Fly": "97",
+            "Substitute": "103",
+            "Will-O-Wisp": "107",
+            "Tailwind": "113",
+            "Heat Wave": "118",
+            "Flamethrower": "125",
+            "Fire Blast": "141",
+            "Giga Impact": "152",
+            "Overheat": "157",
+            "Hurricane": "160",
+            "Hyper Beam": "163",
+            "Brave Bird": "164",
+            "Flare Blitz": "165",
+            "Solar Beam": "168",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Talonflame": [
+            "In the fever of an exciting battle, it showers embers from the gaps between its feathers and takes to the air.",
+            "When attacking prey, it can reach speeds of up to 310 mph. It finishes its prey off with a colossal kick.",
+            "Its favorite foods are Wingull and Pikipek. It attacks with a powerful kick and grasps them firmly in its talons.",
+            "It zooms directly at its prey at flight speeds of close to 310 mph, while fiery embers scatter from gaps in its feathers.",
+            "Its tough wings don\u2019t allow fire to pass through them. A long time ago, firefighters\u2019 outfits were made from Talonflame wings.",
+            "Bird Pok\u00e9mon make up most of its diet. It approaches at high speeds and smacks them down to the ground with its powerful kick.",
+            "Talonflame mainly preys upon other bird Pok\u00e9mon. To intimidate opponents, it sends embers spewing from gaps between its feathers.",
+            "Talonflame dives toward prey at speeds of up to 310 mph and assaults them with powerful kicks, giving the prey no chance to escape.",
+            "It has top-notch flying capabilities. It flies around easily, even while carrying prey that weighs more than 220 lbs.",
+            "When it gets excited, it vents sparks from the gaps between its feathers. These unburnable feathers are used as a fireproof material."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791770640986215/663.png",
+    "discord_sprite": "<:P663:1132141918290198618>"
+}

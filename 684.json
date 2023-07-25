@@ -1,0 +1,170 @@
+{
+    "alt-version(s)": [],
+    "name": "Swirlix",
+    "Swirlix": {
+        "pokedex_data": {
+            "National No.": "0684",
+            "Type": [
+                "Fairy"
+            ],
+            "Species": "Cotton Candy Poke\u0301mon",
+            "Height": "0.4 m (1\u203204\u2032\u2032)",
+            "Weight": "3.5 kg (7.7 lbs)",
+            "Abilities": {
+                "Sweet Veil": {
+                    "href": "/ability/sweet-veil",
+                    "effect": "Prevents the Pok\u00e9mon and allies from falling asleep.",
+                    "hidden": false
+                },
+                "Unburden": {
+                    "href": "/ability/unburden",
+                    "effect": "Raises Speed if a held item is used.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Defense",
+            "Catch rate": "200",
+            "BaseFriendship": "50",
+            "Base Exp.": "68",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "62",
+                "Min": "234",
+                "Max": "328"
+            },
+            "Attack": {
+                "Base": "48",
+                "Min": "90",
+                "Max": "214"
+            },
+            "Defense": {
+                "Base": "66",
+                "Min": "123",
+                "Max": "254"
+            },
+            "Sp. Atk": {
+                "Base": "59",
+                "Min": "110",
+                "Max": "238"
+            },
+            "Sp. Def": {
+                "Base": "57",
+                "Min": "107",
+                "Max": "234"
+            },
+            "Speed": {
+                "Base": "49",
+                "Min": "92",
+                "Max": "216"
+            },
+            "Total": "341"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "not very effective",
+                "Poison": "super-effective",
+                "Bug": "not very effective",
+                "Dragon": "no effect",
+                "Dark": "not very effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Swirlix",
+                    "nationalNo": "#0684",
+                    "type": [
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Slurpuff",
+                    "nationalNo": "#0685",
+                    "type": [
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(trade holding Whipped Dream)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Sweet Scent": "1",
+            "Tackle": "1",
+            "Play Nice": "3",
+            "Fairy Wind": "6",
+            "Aromatherapy": "9",
+            "Draining Kiss": "12",
+            "Fake Tears": "15",
+            "Round": "18",
+            "String Shot": "21",
+            "Cotton Spore": "24",
+            "Energy Ball": "27",
+            "Wish": "30",
+            "Play Rough": "33",
+            "Cotton Guard": "36",
+            "Endeavor": "39"
+        },
+        "egg": {
+            "After You": null,
+            "Copycat": null,
+            "Sticky Web": null,
+            "Yawn": null
+        },
+        "null": {
+            "Flamethrower": "02",
+            "Surf": "04",
+            "Thunderbolt": "08",
+            "Psychic": "11",
+            "Amnesia": "17",
+            "Substitute": "20",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Calm Mind": "49",
+            "Energy Ball": "65",
+            "Play Rough": "90",
+            "Dazzling Gleam": "92"
+        },
+        "tm": {
+            "Light Screen": "17",
+            "Safeguard": "19",
+            "Rest": "21",
+            "Thief": "23",
+            "Snore": "24",
+            "Protect": "25",
+            "Charm": "29",
+            "Attract": "31",
+            "Rain Dance": "33",
+            "Sunny Day": "34",
+            "Facade": "39",
+            "Helping Hand": "41",
+            "Fake Tears": "47",
+            "Round": "76",
+            "Draining Kiss": "87"
+        }
+    },
+    "entries": {
+        "Swirlix": [
+            "To entangle its opponents in battle, it extrudes white threads as sweet and sticky as cotton candy.",
+            "Because it eats nothing but sweets, its fur is as sticky sweet as cotton candy.",
+            "It eats its own weight in sugar every day. If it doesn\u2019t get enough sugar, it becomes incredibly grumpy.",
+            "The sweet smell of cotton candy perfumes Swirlix\u2019s fluffy fur. This Pok\u00e9mon spits out sticky string to tangle up its enemies."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791934885744670/684.png",
+    "discord_sprite": "<:P684:1132142840483414169>"
+}

@@ -1,0 +1,190 @@
+{
+    "alt-version(s)": [],
+    "name": "Buizel",
+    "Buizel": {
+        "pokedex_data": {
+            "National No.": "0418",
+            "Type": [
+                "Water"
+            ],
+            "Species": "Sea Weasel Poke\u0301mon",
+            "Height": "0.7 m (2\u203204\u2032\u2032)",
+            "Weight": "29.5 kg (65.0 lbs)",
+            "Abilities": {
+                "Swift Swim": {
+                    "href": "/ability/swift-swim",
+                    "effect": "Boosts the Pok\u00e9mon's Speed in rain.",
+                    "hidden": false
+                },
+                "Water Veil": {
+                    "href": "/ability/water-veil",
+                    "effect": "Prevents the Pok\u00e9mon from getting a burn.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Speed",
+            "Catch rate": "190",
+            "BaseFriendship": "50",
+            "Base Exp.": "66",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "55",
+                "Min": "220",
+                "Max": "314"
+            },
+            "Attack": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Defense": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Sp. Atk": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Def": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Speed": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Total": "330"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Buizel",
+                    "nationalNo": "#0418",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Floatzel",
+                    "nationalNo": "#0419",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 26)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Tackle": "1",
+            "Growl": "4",
+            "Soak": "7",
+            "Quick Attack": "11",
+            "Water Gun": "15",
+            "Bite": "18",
+            "Swift": "21",
+            "Aqua Jet": "24",
+            "Double Hit": "27",
+            "Whirlpool": "31",
+            "Liquidation": "35",
+            "Aqua Tail": "38",
+            "Agility": "41",
+            "Hydro Pump": "45",
+            "Wave Crash": "49"
+        },
+        "egg": {
+            "Aqua Ring": null,
+            "Baton Pass": null,
+            "Fury Cutter": null,
+            "Fury Swipes": null,
+            "Headbutt": null,
+            "Helping Hand": null,
+            "Mud-Slap": null,
+            "Slash": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Agility": "04",
+            "Mud-Slap": "05",
+            "Protect": "07",
+            "Ice Fang": "10",
+            "Water Pulse": "11",
+            "Low Kick": "12",
+            "Thief": "18",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Swift": "32",
+            "Icy Wind": "34",
+            "Rock Tomb": "36",
+            "Low Sweep": "39",
+            "Fling": "43",
+            "Endure": "47",
+            "Rain Dance": "50",
+            "Dig": "55",
+            "Brick Break": "58",
+            "Bulk Up": "64",
+            "Ice Punch": "69",
+            "Sleep Talk": "70",
+            "Waterfall": "77",
+            "Rest": "85",
+            "Taunt": "87",
+            "Substitute": "103",
+            "Crunch": "108",
+            "Liquidation": "110",
+            "Surf": "123",
+            "Ice Spinner": "124",
+            "Helping Hand": "130",
+            "Baton Pass": "132",
+            "Ice Beam": "135",
+            "Hydro Pump": "142",
+            "Blizzard": "143",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Buizel": [
+            "It has a flotation sac that is like an inflatable collar. It floats on water with its head out.",
+            "It swims by rotating its two tails like a screw. When it dives, its flotation sac collapses.",
+            "It spins its two tails like a screw to propel itself through water. The tails also slice clinging seaweed.",
+            "It inflates its flotation sac, keeping its face above water in order to watch for prey movement.",
+            "It spins its two tails like a screw to propel itself through water. The tails also slice clinging seaweed.",
+            "It inflates the flotation sac around its neck and pokes its head out of the water to see what is going on.",
+            "It swims by rotating its two tails like a screw. When it dives, its flotation sac collapses.",
+            "It inflates the flotation sac around its neck and pokes its head out of the water to see what is going on.",
+            "When air fills the flotation sac on its neck, the sac balloons like an inner tube. This Pok\u00e9mon floats with its head out of the water.",
+            "It swims by rotating its two tails like a screw. When it dives, its flotation sac collapses.",
+            "It moves freely in the water by spinning its forked tail for propulsion. The resemblance to the screw of a steamboat is coincidental.",
+            "It spins its two tails like a screw to propel itself through water. The tails also slice clinging seaweed.",
+            "It inflates its flotation sac, keeping its face above water in order to watch for prey movement."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789861620293662/418.png",
+    "discord_sprite": "<:P418:1132131125104496710>"
+}

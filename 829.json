@@ -1,0 +1,170 @@
+{
+    "alt-version(s)": [],
+    "name": "Gossifleur",
+    "Gossifleur": {
+        "pokedex_data": {
+            "National No.": "0829",
+            "Type": [
+                "Grass"
+            ],
+            "Species": "Flowering Poke\u0301mon",
+            "Height": "0.4 m (1\u203204\u2032\u2032)",
+            "Weight": "2.2 kg (4.9 lbs)",
+            "Abilities": {
+                "Cotton Down": {
+                    "href": "/ability/cotton-down",
+                    "effect": "Lowers foe's Speed when hit.",
+                    "hidden": false
+                },
+                "Regenerator": {
+                    "href": "/ability/regenerator",
+                    "effect": "Restores a little HP when withdrawn from battle.",
+                    "hidden": false
+                },
+                "Effect Spore": {
+                    "href": "/ability/effect-spore",
+                    "effect": "Contact may poison or cause paralysis or sleep.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Sp. Def",
+            "Catch rate": "190",
+            "BaseFriendship": "50",
+            "Base Exp.": "50",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "40",
+                "Min": "190",
+                "Max": "284"
+            },
+            "Attack": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Defense": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Atk": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Def": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Speed": {
+                "Base": "10",
+                "Min": "22",
+                "Max": "130"
+            },
+            "Total": "250"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Poison": "super-effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Bug": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Gossifleur",
+                    "nationalNo": "#0829",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Eldegoss",
+                    "nationalNo": "#0830",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 20)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Leafage": "1",
+            "Sing": "1",
+            "Rapid Spin": "4",
+            "Sweet Scent": "8",
+            "Razor Leaf": "12",
+            "Round": "16",
+            "Leaf Tornado": "21",
+            "Synthesis": "24",
+            "Hyper Voice": "28",
+            "Aromatherapy": "32",
+            "Leaf Storm": "36"
+        },
+        "egg": {
+            "Growth": null,
+            "Leech Seed": null,
+            "Poison Powder": null,
+            "Sleep Powder": null,
+            "Stun Spore": null,
+            "Worry Seed": null
+        },
+        "null": {
+            "Substitute": "20",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Hyper Voice": "42",
+            "Energy Ball": "65",
+            "Leaf Storm": "71",
+            "Grass Knot": "77",
+            "Pollen Puff": "96"
+        },
+        "tm": {
+            "Magical Leaf": "10",
+            "Solar Beam": "11",
+            "Light Screen": "17",
+            "Rest": "21",
+            "Snore": "24",
+            "Protect": "25",
+            "Giga Drain": "28",
+            "Charm": "29",
+            "Attract": "31",
+            "Sunny Day": "34",
+            "Facade": "39",
+            "Helping Hand": "41",
+            "Bullet Seed": "50",
+            "Round": "76",
+            "Grassy Terrain": "88"
+        }
+    },
+    "entries": {
+        "Gossifleur": [
+            "It anchors itself in the ground with its single leg, then basks in the sun. After absorbing enough sunlight, its petals spread as it blooms brilliantly.",
+            "It whirls around in the wind while singing a joyous song. This delightful display has charmed many into raising this Pok\u00e9mon."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793067540754462/829.png",
+    "discord_sprite": "<:P829:1132149276336734228>"
+}

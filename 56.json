@@ -1,0 +1,236 @@
+{
+    "alt-version(s)": [],
+    "name": "Mankey",
+    "Mankey": {
+        "pokedex_data": {
+            "National No.": "0056",
+            "Type": [
+                "Fighting"
+            ],
+            "Species": "Pig Monkey Poke\u0301mon",
+            "Height": "0.5 m (1\u203208\u2032\u2032)",
+            "Weight": "28.0 kg (61.7 lbs)",
+            "Abilities": {
+                "Vital Spirit": {
+                    "href": "/ability/vital-spirit",
+                    "effect": "Prevents the Pok\u00e9mon from falling asleep.",
+                    "hidden": false
+                },
+                "Anger Point": {
+                    "href": "/ability/anger-point",
+                    "effect": "Maxes Attack after taking a critical hit.",
+                    "hidden": false
+                },
+                "Defiant": {
+                    "href": "/ability/defiant",
+                    "effect": "Sharply raises Attack when the Pok\u00e9mon's stats are lowered.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack",
+            "Catch rate": "190",
+            "BaseFriendship": "50",
+            "Base Exp.": "61",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "40",
+                "Min": "190",
+                "Max": "284"
+            },
+            "Attack": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Defense": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Sp. Atk": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Sp. Def": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Speed": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Total": "305"
+        },
+        "defense_stats": {
+            "default": {
+                "Flying": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Dark": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Mankey",
+                    "nationalNo": "#0056",
+                    "type": [
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Primeape",
+                    "nationalNo": "#0057",
+                    "type": [
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 28)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Primeape",
+                    "nationalNo": "#0057",
+                    "type": [
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Annihilape",
+                    "nationalNo": "#0979",
+                    "type": [
+                        "Fighting",
+                        "Ghost"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Use Rage Fist 20 times)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Covet": "1",
+            "Focus Energy": "1",
+            "Leer": "1",
+            "Scratch": "1",
+            "Fury Swipes": "5",
+            "Low Kick": "8",
+            "Seismic Toss": "12",
+            "Swagger": "17",
+            "Cross Chop": "22",
+            "Assurance": "26",
+            "Thrash": "29",
+            "Close Combat": "33",
+            "Screech": "36",
+            "Stomping Tantrum": "40",
+            "Outrage": "44",
+            "Final Gambit": "48"
+        },
+        "egg": {
+            "Beat Up": null,
+            "Counter": null,
+            "Curse": null,
+            "Encore": null,
+            "Night Slash": null,
+            "Spite": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Low Kick": "12",
+            "Acrobatics": "14",
+            "Thief": "18",
+            "Facade": "25",
+            "Bulldoze": "28",
+            "Swift": "32",
+            "Rock Tomb": "36",
+            "Low Sweep": "39",
+            "Fling": "43",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Dig": "55",
+            "Brick Break": "58",
+            "U-turn": "60",
+            "Shadow Claw": "61",
+            "Bulk Up": "64",
+            "Body Slam": "66",
+            "Fire Punch": "67",
+            "Thunder Punch": "68",
+            "Ice Punch": "69",
+            "Sleep Talk": "70",
+            "Seed Bomb": "71",
+            "Drain Punch": "73",
+            "Metronome": "80",
+            "Poison Jab": "83",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Taunt": "87",
+            "Gunk Shot": "102",
+            "Substitute": "103",
+            "Encore": "122",
+            "Thunderbolt": "126",
+            "Helping Hand": "130",
+            "Reversal": "134",
+            "Earthquake": "149",
+            "Stone Edge": "150",
+            "Outrage": "156",
+            "Overheat": "157",
+            "Focus Blast": "158",
+            "Close Combat": "167",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Mankey": [
+            "Extremely quick to anger. It could be docile one moment then thrashing away the next instant.",
+            "An agile pok\u00e9mon that lives in trees. It angers easily and will not hesitate to attack anything.",
+            "It is extremely ill-tempered. Groups of them will attack any handy target for no reason.",
+            "It\u2019s unsafe to approach if it gets violently enraged for no reason and can\u2019t distinguish friends from foes.",
+            "It lives in groups in the treetops. If it loses sight of its group, it becomes infuriated by its loneliness.",
+            "When MANKEY starts shaking and its nasal breathing turns rough, it\u2019s a sure sign that it is becoming angry. However, because it goes into a towering rage almost instantly, it is impossible for anyone to flee its wrath.",
+            "Light and agile on its feet, and ferocious in temperament. When angered, it flies into an uncontrollable frenzy.",
+            "Extremely quick to anger. It could be docile one moment, then thrashing away the next instant.",
+            "When it starts shaking and its nasal breathing turns rough, it\u2019s a sure sign of anger. However, since this happens instantly, there is no time to flee.",
+            "It lives in treetop colonies. If one becomes enraged, the whole colony rampages for no reason.",
+            "It is extremely ill-tempered. Groups of them will attack any handy target for no reason.",
+            "It\u2019s unsafe to approach if it gets violently enraged for no reason and can\u2019t distinguish friends from foes.",
+            "It lives in treetop colonies. If one becomes enraged, the whole colony rampages for no reason.",
+            "It\u2019s unsafe to approach if it gets violently enraged for no reason and can\u2019t distinguish friends from foes.",
+            "It lives in treetop colonies. If one becomes enraged, the whole colony rampages for no reason.",
+            "When Mankey starts shaking and its nasal breathing turns rough, it\u2019s a sure sign that it is becoming angry. However, because it goes into a towering rage almost instantly, it is impossible for anyone to flee its wrath.",
+            "It can spontaneously become enraged. Everyone near it clears out as it rampages, and the resulting loneliness makes it angrier still.",
+            "Its raging tires it out and causes it to fall asleep, but the anger resonating in its dreams causes it to wake up\u2014which infuriates it all over again.",
+            "The smallest of things could cause it to lose its temper. Because it doesn\u2019t hold in its stress, this Pok\u00e9mon can live a long time.",
+            "If one gets angry, all the others around it will get angry, so silence is a rare visitor in a troop of Mankey.",
+            "An agile Pok\u00e9mon that lives in trees. It angers easily and will not hesitate to attack anything.",
+            "It lives in treetop colonies. If one member of the group becomes enraged, the whole colony rampages for no reason.",
+            "It lives in groups in the treetops. If it loses sight of its group, it becomes infuriated by its loneliness.",
+            "It is extremely quick to anger. It could be docile one moment, then thrashing away the next instant."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787028078530662/56.png",
+    "discord_sprite": "<:P56:1132115184119447593>"
+}

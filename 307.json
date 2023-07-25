@@ -1,0 +1,214 @@
+{
+    "alt-version(s)": [],
+    "name": "Meditite",
+    "Meditite": {
+        "pokedex_data": {
+            "National No.": "0307",
+            "Type": [
+                "Fighting",
+                "Psychic"
+            ],
+            "Species": "Meditate Poke\u0301mon",
+            "Height": "0.6 m (2\u203200\u2032\u2032)",
+            "Weight": "11.2 kg (24.7 lbs)",
+            "Abilities": {
+                "Pure Power": {
+                    "href": "/ability/pure-power",
+                    "effect": "Raises the Pok\u00e9mon's Attack stat.",
+                    "hidden": false
+                },
+                "Telepathy": {
+                    "href": "/ability/telepathy",
+                    "effect": "Anticipates an ally's attack and dodges it.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Speed",
+            "Catch rate": "180",
+            "BaseFriendship": "50",
+            "Base Exp.": "56",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "30",
+                "Min": "170",
+                "Max": "264"
+            },
+            "Attack": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Defense": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Sp. Atk": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Def": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Speed": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Total": "280"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "not very effective",
+                "Flying": "super-effective",
+                "Rock": "not very effective",
+                "Ghost": "super-effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Meditite",
+                    "nationalNo": "#0307",
+                    "type": [
+                        "Fighting",
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Medicham",
+                    "nationalNo": "#0308",
+                    "type": [
+                        "Fighting",
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 37)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Confusion": "1",
+            "Work Up": "1",
+            "Detect": "9",
+            "Endure": "12",
+            "Feint": "15",
+            "Force Palm": "17",
+            "Psybeam": "20",
+            "Calm Mind": "23",
+            "Zen Headbutt": "25",
+            "High Jump Kick": "28",
+            "Psych Up": "31",
+            "Acupressure": "33",
+            "Power Trick": "36",
+            "Reversal": "39",
+            "Recover": "41",
+            "Counter": "44"
+        },
+        "egg": {
+            "Baton Pass": null,
+            "Bullet Punch": null,
+            "Dynamic Punch": null,
+            "Fake Out": null,
+            "Fire Punch": null,
+            "Guard Swap": null,
+            "Ice Punch": null,
+            "Power Swap": null,
+            "Psycho Cut": null,
+            "Quick Guard": null,
+            "Thunder Punch": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Protect": "07",
+            "Low Kick": "12",
+            "Psybeam": "16",
+            "Thief": "18",
+            "Trailblaze": "20",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Swift": "32",
+            "Rock Tomb": "36",
+            "Low Sweep": "39",
+            "Stored Power": "41",
+            "Night Shade": "42",
+            "Fling": "43",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Psyshock": "54",
+            "Brick Break": "58",
+            "Zen Headbutt": "59",
+            "Bulk Up": "64",
+            "Body Slam": "66",
+            "Fire Punch": "67",
+            "Thunder Punch": "68",
+            "Ice Punch": "69",
+            "Sleep Talk": "70",
+            "Drain Punch": "73",
+            "Reflect": "74",
+            "Light Screen": "75",
+            "Metronome": "80",
+            "Grass Knot": "81",
+            "Poison Jab": "83",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Taunt": "87",
+            "Imprison": "92",
+            "Skill Swap": "98",
+            "Substitute": "103",
+            "Trick": "109",
+            "Shadow Ball": "114",
+            "Psychic": "120",
+            "Calm Mind": "129",
+            "Helping Hand": "130",
+            "Baton Pass": "132",
+            "Reversal": "134",
+            "Psychic Terrain": "138",
+            "Focus Blast": "158",
+            "Trick Room": "161",
+            "Close Combat": "167",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Meditite": [
+            "MEDITITE undertakes rigorous mental training deep in the mountains. However, whenever it meditates, this pok\u00e9mon always loses its concentration and focus. As a result, its training never ends.",
+            "MEDITITE heightens its inner energy through meditation. It survives on just one berry a day. Minimal eating is another aspect of this pok\u00e9mon\u2019s training.",
+            "It never skips its daily yoga training. It heightens its inner strength through meditation.",
+            "It continually meditates for hours every day. As a result of rigorous and dedicated yoga training, it has tempered its spiritual power so much it can fly.",
+            "It eats just one berry a day. By enduring hunger, its spirit is tempered and made sharper.",
+            "It never misses its daily yoga workouts, and it heightens its spiritual power through meditation.",
+            "It always trains deep in mountains. It levitates when it heightens its spiritual power through meditation.",
+            "It meditates to heighten its inner energy and to float in the air. It eats one berry a day.",
+            "It always trains deep in mountains. It levitates when it heightens its spiritual power through meditation.",
+            "It always trains deep in mountains. It levitates when it heightens its spiritual power through meditation.",
+            "It eats just one berry a day. By enduring hunger, its spirit is tempered and made sharper.",
+            "Meditite undertakes rigorous mental training deep in the mountains. However, whenever it meditates, this Pok\u00e9mon always loses its concentration and focus. As a result, its training never ends.",
+            "Meditite heightens its inner energy through meditation. It survives on just one berry a day. Minimal eating is another aspect of this Pok\u00e9mon\u2019s training.",
+            "It meditates in order to build up its mental energy. It\u2019s said to eat just one Berry a day.",
+            "It never misses its daily yoga workouts, and it heightens its spiritual power through meditation.",
+            "It never skips its daily yoga training. It heightens its inner strength through meditation.",
+            "It meditates to heighten its inner energy and to float in the air. It eats one berry a day."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789001968320612/307.png",
+    "discord_sprite": "<:P307:1132126247271534602>"
+}

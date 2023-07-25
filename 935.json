@@ -1,0 +1,188 @@
+{
+    "alt-version(s)": [],
+    "name": "Charcadet",
+    "Charcadet": {
+        "pokedex_data": {
+            "National No.": "0935",
+            "Type": [
+                "Fire"
+            ],
+            "Species": "Fire Child Poke\u0301mon",
+            "Height": "0.6 m (2\u203200\u2032\u2032)",
+            "Weight": "10.5 kg (23.1 lbs)",
+            "Abilities": {
+                "Flash Fire": {
+                    "href": "/ability/flash-fire",
+                    "effect": "It powers up Fire-type moves if it's hit by one.",
+                    "hidden": false
+                },
+                "Flame Body": {
+                    "href": "/ability/flame-body",
+                    "effect": "Contact with the Pok\u00e9mon may burn the attacker.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Sp. Atk",
+            "Catch rate": "90",
+            "BaseFriendship": "50",
+            "Base Exp.": "51",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "40",
+                "Min": "190",
+                "Max": "284"
+            },
+            "Attack": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Defense": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Atk": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Def": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Speed": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Total": "255"
+        },
+        "defense_stats": {
+            "Flash Fire ability": {
+                "Fire": "no effect",
+                "Water": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Ground": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            },
+            "Flame Body ability": {
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Ground": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Charcadet",
+                    "nationalNo": "#0935",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Armarouge",
+                    "nationalNo": "#0936",
+                    "type": [
+                        "Fire",
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Auspicious Armor)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Charcadet",
+                    "nationalNo": "#0935",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Ceruledge",
+                    "nationalNo": "#0937",
+                    "type": [
+                        "Fire",
+                        "Ghost"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Malicious Armor)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Astonish": "1",
+            "Ember": "1",
+            "Leer": "1",
+            "Clear Smog": "8",
+            "Fire Spin": "12",
+            "Will-O-Wisp": "16",
+            "Night Shade": "20",
+            "Flame Charge": "24",
+            "Incinerate": "28",
+            "Lava Plume": "32"
+        },
+        "egg": {
+            "Destiny Bond": null,
+            "Disable": null,
+            "Spite": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Protect": "07",
+            "Confuse Ray": "17",
+            "Fire Spin": "24",
+            "Facade": "25",
+            "Flame Charge": "38",
+            "Night Shade": "42",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Sleep Talk": "70",
+            "Substitute": "103",
+            "Will-O-Wisp": "107",
+            "Heat Wave": "118",
+            "Flamethrower": "125",
+            "Helping Hand": "130",
+            "Fire Blast": "141",
+            "Overheat": "157",
+            "Flare Blitz": "165",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Charcadet": [
+            "Burnt charcoal came to life and became a Pok\u00e9mon. Possessing a fiery fighting spirit, Charcadet will battle even tough opponents.",
+            "Its firepower increases when it fights, reaching over 1,800 degrees Fahrenheit. It likes berries that are rich in fat."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793896519774300/935.png",
+    "discord_sprite": "<:P935:1132153935826788434>"
+}

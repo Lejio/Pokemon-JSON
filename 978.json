@@ -1,0 +1,284 @@
+{
+    "alt-version(s)": [
+        "Curly Form",
+        "Droopy Form",
+        "Stretchy Form"
+    ],
+    "Curly Form": {
+        "pokedex_data": {
+            "National No.": "0978",
+            "Type": [
+                "Dragon",
+                "Water"
+            ],
+            "Species": "Mimicry Poke\u0301mon",
+            "Height": "0.3 m (1\u203200\u2032\u2032)",
+            "Weight": "8.0 kg (17.6 lbs)",
+            "Abilities": {
+                "Commander": {
+                    "href": "/ability/commander",
+                    "effect": "Goes inside the mouth of an ally Dondozo if one is on the field.",
+                    "hidden": false
+                },
+                "Storm Drain": {
+                    "href": "/ability/storm-drain",
+                    "effect": "Draws in all Water-type moves to up Sp. Attack.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Sp. Atk",
+            "Catch rate": "100",
+            "BaseFriendship": "50",
+            "Base Exp.": "166",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "68",
+                "Min": "246",
+                "Max": "340"
+            },
+            "Attack": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Defense": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Atk": {
+                "Base": "120",
+                "Min": "220",
+                "Max": "372"
+            },
+            "Sp. Def": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Speed": {
+                "Base": "82",
+                "Min": "152",
+                "Max": "289"
+            },
+            "Total": "475"
+        },
+        "defense_stats": {
+            "Commander ability": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Dragon": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "super-effective"
+            },
+            "Storm Drain ability": {
+                "Fire": "not very effective",
+                "Water": "no effect",
+                "Dragon": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "Droopy Form": {
+        "pokedex_data": {
+            "National No.": "0978",
+            "Type": [
+                "Dragon",
+                "Water"
+            ],
+            "Species": "Mimicry Poke\u0301mon",
+            "Height": "0.3 m (1\u203200\u2032\u2032)",
+            "Weight": "8.0 kg (17.6 lbs)",
+            "Abilities": {}
+        },
+        "training_data": {
+            "EV yield": "2 Sp. Atk",
+            "Catch rate": "100",
+            "BaseFriendship": "50",
+            "Base Exp.": "166",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "68",
+                "Min": "246",
+                "Max": "340"
+            },
+            "Attack": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Defense": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Atk": {
+                "Base": "120",
+                "Min": "220",
+                "Max": "372"
+            },
+            "Sp. Def": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Speed": {
+                "Base": "82",
+                "Min": "152",
+                "Max": "289"
+            },
+            "Total": "475"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Dragon": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "Stretchy Form": {
+        "pokedex_data": {
+            "National No.": "0978",
+            "Type": [
+                "Dragon",
+                "Water"
+            ],
+            "Species": "Mimicry Poke\u0301mon",
+            "Height": "0.3 m (1\u203200\u2032\u2032)",
+            "Weight": "8.0 kg (17.6 lbs)",
+            "Abilities": {}
+        },
+        "training_data": {
+            "EV yield": "2 Sp. Atk",
+            "Catch rate": "100",
+            "BaseFriendship": "50",
+            "Base Exp.": "166",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "68",
+                "Min": "246",
+                "Max": "340"
+            },
+            "Attack": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Defense": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Atk": {
+                "Base": "120",
+                "Min": "220",
+                "Max": "372"
+            },
+            "Sp. Def": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Speed": {
+                "Base": "82",
+                "Min": "152",
+                "Max": "289"
+            },
+            "Total": "475"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Dragon": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Splash": "1",
+            "Water Gun": "1",
+            "Harden": "6",
+            "Helping Hand": "12",
+            "Water Pulse": "17",
+            "Soak": "23",
+            "Taunt": "28",
+            "Memento": "34",
+            "Muddy Water": "39",
+            "Nasty Plot": "43",
+            "Mirror Coat": "47",
+            "Dragon Pulse": "52"
+        },
+        "egg": {
+            "Baton Pass": null,
+            "Counter": null,
+            "Rapid Spin": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Protect": "07",
+            "Water Pulse": "11",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Icy Wind": "34",
+            "Endure": "47",
+            "Rain Dance": "50",
+            "Sleep Talk": "70",
+            "Rest": "85",
+            "Taunt": "87",
+            "Dragon Dance": "100",
+            "Substitute": "103",
+            "Dragon Pulse": "115",
+            "Surf": "123",
+            "Helping Hand": "130",
+            "Baton Pass": "132",
+            "Nasty Plot": "140",
+            "Hydro Pump": "142",
+            "Giga Impact": "152",
+            "Outrage": "156",
+            "Hyper Beam": "163",
+            "Draco Meteor": "169",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Curly Form": [
+            "This is a small dragon Pok\u00e9mon. It lives inside the mouth of Dondozo to protect itself from enemies on the outside.",
+            "Tatsugiri is an extremely cunning Pok\u00e9mon. It feigns weakness to lure in prey, then orders its partner to attack."
+        ],
+        "Droopy Form": [
+            "This species\u2019 differing colors and patterns are apparently the result of Tatsugiri changing itself to suit the preferences of the prey it lures in.",
+            "This Pok\u00e9mon tricks its opponents by playing dead. It is small and weak, but it uses its smarts to survive."
+        ],
+        "Stretchy Form": [
+            "Bird Pok\u00e9mon are its main prey. This Pok\u00e9mon knows it\u2019s weak, so it hunts with a partner.",
+            "It\u2019s one of the most intelligent dragon Pok\u00e9mon. It camouflages itself by inflating its throat sac."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131794227773313044/978.png",
+    "discord_sprite": "<:P978:1132155826702913576>"
+}

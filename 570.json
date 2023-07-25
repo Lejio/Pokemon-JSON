@@ -1,0 +1,346 @@
+{
+    "alt-version(s)": [
+        "Hisuian Zorua"
+    ],
+    "name": "Zorua",
+    "Zorua": {
+        "pokedex_data": {
+            "National No.": "0570",
+            "Type": [
+                "Dark"
+            ],
+            "Species": "Tricky Fox Poke\u0301mon",
+            "Height": "0.7 m (2\u203204\u2032\u2032)",
+            "Weight": "12.5 kg (27.6 lbs)",
+            "Abilities": {
+                "Illusion": {
+                    "href": "/ability/illusion",
+                    "effect": "Enters battle disguised as the last Pok\u00e9mon in the party.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Sp. Atk",
+            "Catch rate": "75",
+            "BaseFriendship": "50",
+            "Base Exp.": "66",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "40",
+                "Min": "190",
+                "Max": "284"
+            },
+            "Attack": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Defense": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Atk": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Sp. Def": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Speed": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Total": "330"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "super-effective",
+                "Psychic": "no effect",
+                "Bug": "super-effective",
+                "Ghost": "not very effective",
+                "Dark": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "Hisuian Zorua": {
+        "pokedex_data": {
+            "National No.": "0570",
+            "Type": [
+                "Normal",
+                "Ghost"
+            ],
+            "Species": "Spiteful Fox Poke\u0301mon",
+            "Height": "0.7 m (2\u203204\u2032\u2032)",
+            "Weight": "12.5 kg (27.6 lbs)",
+            "Abilities": {
+                "Illusion": {
+                    "href": "/ability/illusion",
+                    "effect": "Enters battle disguised as the last Pok\u00e9mon in the party.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Sp. Atk",
+            "Catch rate": "75",
+            "BaseFriendship": "50",
+            "Base Exp.": "66",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "35",
+                "Min": "180",
+                "Max": "274"
+            },
+            "Attack": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Defense": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Atk": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Sp. Def": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Speed": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Total": "330"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "no effect",
+                "Fighting": "no effect",
+                "Poison": "not very effective",
+                "Bug": "not very effective",
+                "Ghost": "no effect",
+                "Dark": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Zorua",
+                    "nationalNo": "#0570",
+                    "type": [
+                        "Dark"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Zoroark",
+                    "nationalNo": "#0571",
+                    "type": [
+                        "Dark"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 30)",
+                "shed": null
+            }
+        ],
+        [
+            {
+                "from": {
+                    "name": "Zorua",
+                    "nationalNo": "#0570",
+                    "type": [
+                        "Normal",
+                        "Ghost"
+                    ],
+                    "nickname": "Hisuian Zorua"
+                },
+                "to": {
+                    "name": "Zoroark",
+                    "nationalNo": "#0571",
+                    "type": [
+                        "Normal",
+                        "Ghost"
+                    ],
+                    "nickname": "Hisuian Zoroark"
+                },
+                "requirement": "(Level 30, in Legends: Arceus)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "Zorua": {
+            "moves": {
+                "Leer": "1",
+                "Scratch": "1",
+                "Torment": "4",
+                "Hone Claws": "8",
+                "Fury Swipes": "12",
+                "Scary Face": "16",
+                "Taunt": "20",
+                "Knock Off": "24",
+                "Fake Tears": "28",
+                "Agility": "32",
+                "Imprison": "36",
+                "Night Daze": "40",
+                "Nasty Plot": "44",
+                "Foul Play": "48"
+            },
+            "egg": {
+                "Copycat": null,
+                "Counter": null,
+                "Detect": null,
+                "Extrasensory": null,
+                "Memento": null,
+                "Sucker Punch": null
+            },
+            "tm": {
+                "Take Down": "01",
+                "Fake Tears": "03",
+                "Agility": "04",
+                "Scary Face": "06",
+                "Protect": "07",
+                "Confuse Ray": "17",
+                "Thief": "18",
+                "Facade": "25",
+                "Hex": "29",
+                "Snarl": "30",
+                "Swift": "32",
+                "Night Shade": "42",
+                "Fling": "43",
+                "Endure": "47",
+                "Sunny Day": "49",
+                "Rain Dance": "50",
+                "Dig": "55",
+                "U-turn": "60",
+                "Shadow Claw": "61",
+                "Foul Play": "62",
+                "Sleep Talk": "70",
+                "Grass Knot": "81",
+                "Rest": "85",
+                "Taunt": "87",
+                "Swords Dance": "88",
+                "Imprison": "92",
+                "Dark Pulse": "94",
+                "Substitute": "103",
+                "Trick": "109",
+                "Shadow Ball": "114",
+                "Hyper Voice": "117",
+                "Encore": "122",
+                "Calm Mind": "129",
+                "Helping Hand": "130",
+                "Nasty Plot": "140",
+                "Sludge Bomb": "148",
+                "Tera Blast": "171"
+            }
+        },
+        "Hisuian Zorua": {
+            "moves": {
+                "Leer": "1",
+                "Scratch": "1",
+                "Torment": "4",
+                "Hone Claws": "8",
+                "Shadow Sneak": "12",
+                "Curse": "16",
+                "Taunt": "20",
+                "Knock Off": "24",
+                "Spite": "28",
+                "Agility": "32",
+                "Shadow Ball": "36",
+                "Bitter Malice": "40",
+                "Nasty Plot": "44",
+                "Foul Play": "48"
+            },
+            "egg": {
+                "Comeuppance": null,
+                "Detect": null,
+                "Extrasensory": null,
+                "Memento": null
+            },
+            "tm": {
+                "Take Down": "01",
+                "Fake Tears": "03",
+                "Agility": "04",
+                "Protect": "07",
+                "Confuse Ray": "17",
+                "Thief": "18",
+                "Facade": "25",
+                "Hex": "29",
+                "Snarl": "30",
+                "Swift": "32",
+                "Icy Wind": "34",
+                "Night Shade": "42",
+                "Fling": "43",
+                "Endure": "47",
+                "Rain Dance": "50",
+                "Snowscape": "52",
+                "Dig": "55",
+                "U-turn": "60",
+                "Shadow Claw": "61",
+                "Foul Play": "62",
+                "Sleep Talk": "70",
+                "Rest": "85",
+                "Taunt": "87",
+                "Imprison": "92",
+                "Dark Pulse": "94",
+                "Substitute": "103",
+                "Will-O-Wisp": "107",
+                "Trick": "109",
+                "Shadow Ball": "114",
+                "Calm Mind": "129",
+                "Nasty Plot": "140",
+                "Sludge Bomb": "148",
+                "Phantom Force": "151",
+                "Giga Impact": "152",
+                "Hyper Beam": "163",
+                "Tera Blast": "171"
+            }
+        }
+    },
+    "entries": {
+        "Zorua": [
+            "It changes into the forms of others to surprise them. Apparently, it often transforms into a silent child.",
+            "To protect themselves from danger, they hide their true identities by transforming into people and Pok\u00e9mon.",
+            "It changes so it looks just like its foe, tricks it, and then uses that opportunity to flee.",
+            "It changes so it looks just like its foe, tricks it, and then uses that opportunity to flee.",
+            "To protect themselves from danger, they hide their true identities by transforming into people and Pok\u00e9mon.",
+            "This Pok\u00e9mon has a cowardly disposition, so when it\u2019s not around friends, it basically always stays transformed as something else.",
+            "If a normally talkative child suddenly stops talking, it may have been replaced by Zorua.",
+            "Zorua is a timid Pok\u00e9mon. This disposition seems to be what led to the development of Zorua\u2019s ability to take on the forms of other creatures.",
+            "Zorua sometimes transforms into a person and goes into cities to search for food. When Zorua does this, it usually takes on the form of a child.",
+            "It changes into the forms of others to surprise them. Apparently, it often transforms into a silent child.",
+            "To protect themselves from danger, they hide their true identities by transforming into people and Pok\u00e9mon."
+        ],
+        "Hisuian Zorua": [
+            "A once-departed soul, returned to life in Hisui. Derives power from resentment, which rises as energy atop its head and takes on the forms of foes. In this way, Zorua vents lingering malice."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791044640518255/570.png",
+    "discord_sprite": "<:P570:1132137823978401903>"
+}

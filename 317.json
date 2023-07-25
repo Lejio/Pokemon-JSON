@@ -1,0 +1,207 @@
+{
+    "alt-version(s)": [],
+    "name": "Swalot",
+    "Swalot": {
+        "pokedex_data": {
+            "National No.": "0317",
+            "Type": [
+                "Poison"
+            ],
+            "Species": "Poison Bag Poke\u0301mon",
+            "Height": "1.7 m (5\u203207\u2032\u2032)",
+            "Weight": "80.0 kg (176.4 lbs)",
+            "Abilities": {
+                "Liquid Ooze": {
+                    "href": "/ability/liquid-ooze",
+                    "effect": "Damages attackers using any draining move.",
+                    "hidden": false
+                },
+                "Sticky Hold": {
+                    "href": "/ability/sticky-hold",
+                    "effect": "Protects the Pok\u00e9mon from item theft.",
+                    "hidden": false
+                },
+                "Gluttony": {
+                    "href": "/ability/gluttony",
+                    "effect": "Encourages the early use of a held Berry.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 HP",
+            "Catch rate": "75",
+            "BaseFriendship": "50",
+            "Base Exp.": "163",
+            "Growth Rate": "Fluctuating"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "100",
+                "Min": "310",
+                "Max": "404"
+            },
+            "Attack": {
+                "Base": "73",
+                "Min": "135",
+                "Max": "269"
+            },
+            "Defense": {
+                "Base": "83",
+                "Min": "153",
+                "Max": "291"
+            },
+            "Sp. Atk": {
+                "Base": "73",
+                "Min": "135",
+                "Max": "269"
+            },
+            "Sp. Def": {
+                "Base": "83",
+                "Min": "153",
+                "Max": "291"
+            },
+            "Speed": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Total": "467"
+        },
+        "defense_stats": {
+            "default": {
+                "Grass": "not very effective",
+                "Fighting": "not very effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Gulpin",
+                    "nationalNo": "#0316",
+                    "type": [
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Swalot",
+                    "nationalNo": "#0317",
+                    "type": [
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 26)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Gunk Shot": "1",
+            "Poison Gas": "1",
+            "Pound": "1",
+            "Sludge": "1",
+            "Yawn": "1",
+            "Amnesia": "12",
+            "Acid Spray": "17",
+            "Encore": "20",
+            "Toxic": "25",
+            "Spit Up": "30",
+            "Stockpile": "30",
+            "Swallow": "30",
+            "Sludge Bomb": "37",
+            "Gastro Acid": "42",
+            "Belch": "49"
+        },
+        "evolution": {
+            "Body Slam": "85"
+        },
+        "egg": {
+            "Acid Armor": null,
+            "Clear Smog": null,
+            "Curse": null,
+            "Destiny Bond": null,
+            "Mud-Slap": null,
+            "Smog": null,
+            "Stuff Cheeks": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Mud-Slap": "05",
+            "Protect": "07",
+            "Water Pulse": "11",
+            "Acid Spray": "13",
+            "Thief": "18",
+            "Facade": "25",
+            "Bulldoze": "28",
+            "Mud Shot": "35",
+            "Fling": "43",
+            "Venoshock": "45",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Bullet Seed": "56",
+            "Brick Break": "58",
+            "Zen Headbutt": "59",
+            "Body Slam": "66",
+            "Fire Punch": "67",
+            "Thunder Punch": "68",
+            "Ice Punch": "69",
+            "Sleep Talk": "70",
+            "Seed Bomb": "71",
+            "Metronome": "80",
+            "Thunder Wave": "82",
+            "Poison Jab": "83",
+            "Rest": "85",
+            "Swords Dance": "88",
+            "Body Press": "89",
+            "Toxic Spikes": "91",
+            "Gunk Shot": "102",
+            "Substitute": "103",
+            "Giga Drain": "111",
+            "Shadow Ball": "114",
+            "Encore": "122",
+            "Amnesia": "128",
+            "Helping Hand": "130",
+            "Ice Beam": "135",
+            "Sludge Bomb": "148",
+            "Earthquake": "149",
+            "Giga Impact": "152",
+            "Hyper Beam": "163",
+            "Solar Beam": "168",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Swalot": [
+            "When SWALOT spots prey, it spurts out a hideously toxic fluid from its pores and sprays the target. Once the prey has weakened, this pok\u00e9mon gulps it down whole with its cavernous mouth.",
+            "SWALOT has no teeth, so what it eats, it swallows whole, no matter what. Its cavernous mouth yawns widely. An automobile tire could easily fit inside this pok\u00e9mon\u2019s mouth.",
+            "It can swallow a tire whole in one gulp. It secretes a horribly toxic fluid from the pores on its body.",
+            "Its powerful stomach acid is capable of digesting almost anything. The one thing in the whole world a SWALOT can\u2019t digest is its own stomach.",
+            "It swallows anything whole. It sweats toxic fluids from its follicles to douse foes.",
+            "It gulps anything that fits in its mouth. Its special enzymes can dissolve anything.",
+            "It swallows anything whole. It sweats toxic fluids from its follicles to douse foes.",
+            "It swallows anything whole. It sweats toxic fluids from its follicles to douse foes.",
+            "It gulps anything that fits in its mouth. Its special enzymes can dissolve anything.",
+            "When Swalot spots prey, it spurts out a hideously toxic fluid from its pores and sprays the target. Once the prey has weakened, this Pok\u00e9mon gulps it down whole with its cavernous mouth.",
+            "Swalot has no teeth, so what it eats, it swallows whole, no matter what. Its cavernous mouth yawns widely. An automobile tire could easily fit inside this Pok\u00e9mon\u2019s mouth.",
+            "It swallows anything whole. It sweats toxic fluids from its follicles to douse foes.",
+            "It gulps anything that fits in its mouth. Its special enzymes can dissolve anything.",
+            "It can swallow a tire whole in one gulp. It secretes a horribly toxic fluid from the pores on its body."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789078493401158/317.png",
+    "discord_sprite": "<:P317:1132126686448726076>"
+}

@@ -1,0 +1,150 @@
+{
+    "alt-version(s)": [],
+    "name": "Wobbuffet",
+    "Wobbuffet": {
+        "pokedex_data": {
+            "National No.": "0202",
+            "Type": [
+                "Psychic"
+            ],
+            "Species": "Patient Poke\u0301mon",
+            "Height": "1.3 m (4\u203203\u2032\u2032)",
+            "Weight": "28.5 kg (62.8 lbs)",
+            "Abilities": {
+                "Shadow Tag": {
+                    "href": "/ability/shadow-tag",
+                    "effect": "Prevents the foe from escaping.",
+                    "hidden": false
+                },
+                "Telepathy": {
+                    "href": "/ability/telepathy",
+                    "effect": "Anticipates an ally's attack and dodges it.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 HP",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "142",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "190",
+                "Min": "490",
+                "Max": "584"
+            },
+            "Attack": {
+                "Base": "33",
+                "Min": "63",
+                "Max": "181"
+            },
+            "Defense": {
+                "Base": "58",
+                "Min": "108",
+                "Max": "236"
+            },
+            "Sp. Atk": {
+                "Base": "33",
+                "Min": "63",
+                "Max": "181"
+            },
+            "Sp. Def": {
+                "Base": "58",
+                "Min": "108",
+                "Max": "236"
+            },
+            "Speed": {
+                "Base": "33",
+                "Min": "63",
+                "Max": "181"
+            },
+            "Total": "405"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Wynaut",
+                    "nationalNo": "#0360",
+                    "type": [
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Wobbuffet",
+                    "nationalNo": "#0202",
+                    "type": [
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 15)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Amnesia": "1",
+            "Charm": "1",
+            "Counter": "1",
+            "Destiny Bond": "1",
+            "Encore": "1",
+            "Mirror Coat": "1",
+            "Safeguard": "1",
+            "Splash": "1"
+        },
+        "evolution": {
+            "Counter": "\u2014",
+            "Destiny Bond": "\u2014",
+            "Mirror Coat": "\u2014",
+            "Safeguard": "\u2014"
+        },
+        "egg": null,
+        "tm": {
+            "Safeguard": "20"
+        }
+    },
+    "entries": {
+        "Wobbuffet": [
+            "It hates light and shock. If attacked, it inflates its body to pump up its counterstrike.",
+            "To keep its pitch-black tail hidden, it lives quietly in the darkness. It is never first to attack.",
+            "In order to conceal its black tail, it lives in a dark cave and only moves about at night.",
+            "If two or more WOBBUFFET meet, they will turn competitive and try to outdo each other\u2019s endurance. However, they may try to see which one can endure the longest without food. TRAINERS need to beware of this habit.",
+            "WOBBUFFET does nothing but endure attacks - it won\u2019t attack on its own. However, it won\u2019t endure an attack on its tail. When that happens, the pok\u00e9mon will try to take the foe with it using DESTINY BOND.",
+            "To keep its pitch-black tail hidden, it lives quietly in the darkness. It is never first to attack.",
+            "It hates light and shock. If attacked, it inflates its body to pump up its counterstrike.",
+            "Usually docile, a WOBBUFFET strikes back ferociously if its black tail is attacked. It makes its lair in caves where it waits for nightfall.",
+            "It desperately tries to keep its black tail hidden. It is said to be proof the tail hides a secret.",
+            "It hates light and shock. If attacked, it inflates its body to build up its counterstrike.",
+            "To keep its pitch-black tail hidden, it lives quietly in the darkness. It is never first to attack.",
+            "It desperately tries to keep its black tail hidden. It is said to be proof the tail hides a secret.",
+            "It hates light and shock. If attacked, it inflates its body to build up its counterstrike.",
+            "To keep its pitch-black tail hidden, it lives quietly in the darkness. It is never first to attack.",
+            "If two or more Wobbuffet meet, they will turn competitive and try to outdo each other\u2019s endurance. However, they may try to see which one can endure the longest without food. Trainers need to beware of this habit.",
+            "Wobbuffet does nothing but endure attacks\u2014it won\u2019t attack on its own. However, it won\u2019t endure an attack on its tail. When that happens, the Pok\u00e9mon will try to take the foe with it using Destiny Bond.",
+            "It hates light and shock. If attacked, it inflates its body to pump up its counterstrike.",
+            "To keep its pitch-black tail hidden, it lives quietly in the darkness. It is never first to attack.",
+            "It desperately tries to keep its black tail hidden. This behavior is said to be proof that its tail hides a secret."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788172456644678/202.png",
+    "discord_sprite": "<:P202:1132121621725990972>"
+}

@@ -1,0 +1,191 @@
+{
+    "alt-version(s)": [],
+    "name": "Vullaby",
+    "Vullaby": {
+        "pokedex_data": {
+            "National No.": "0629",
+            "Type": [
+                "Dark",
+                "Flying"
+            ],
+            "Species": "Diapered Poke\u0301mon",
+            "Height": "0.5 m (1\u203208\u2032\u2032)",
+            "Weight": "9.0 kg (19.8 lbs)",
+            "Abilities": {
+                "Big Pecks": {
+                    "href": "/ability/big-pecks",
+                    "effect": "Protects the Pok\u00e9mon from Defense-lowering attacks.",
+                    "hidden": false
+                },
+                "Overcoat": {
+                    "href": "/ability/overcoat",
+                    "effect": "Protects the Pok\u00e9mon from weather damage.",
+                    "hidden": false
+                },
+                "Weak Armor": {
+                    "href": "/ability/weak-armor",
+                    "effect": "Physical attacks lower Defense and raise Speed.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Defense",
+            "Catch rate": "190",
+            "BaseFriendship": "35",
+            "Base Exp.": "74",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "0% male,100% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "70",
+                "Min": "250",
+                "Max": "344"
+            },
+            "Attack": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Defense": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Sp. Atk": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Sp. Def": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Speed": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Total": "370"
+        },
+        "defense_stats": {
+            "default": {
+                "Electric": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Ground": "no effect",
+                "Psychic": "no effect",
+                "Rock": "super-effective",
+                "Ghost": "not very effective",
+                "Dark": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Vullaby",
+                    "nationalNo": "#0629",
+                    "type": [
+                        "Dark",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Mandibuzz",
+                    "nationalNo": "#0630",
+                    "type": [
+                        "Dark",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 54)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Gust": "1",
+            "Leer": "1",
+            "Flatter": "6",
+            "Pluck": "12",
+            "Tailwind": "18",
+            "Knock Off": "24",
+            "Iron Defense": "30",
+            "Whirlwind": "36",
+            "Air Slash": "42",
+            "Dark Pulse": "48",
+            "Nasty Plot": "54",
+            "Defog": "60",
+            "Attract": "66",
+            "Brave Bird": "72"
+        },
+        "egg": {
+            "Mean Look": null,
+            "Roost": null,
+            "Toxic": null
+        },
+        "null": {
+            "Substitute": "20",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Shadow Ball": "33",
+            "Heat Wave": "36",
+            "Taunt": "37",
+            "Iron Defense": "46",
+            "Dark Pulse": "58",
+            "Brave Bird": "66",
+            "Nasty Plot": "68",
+            "Foul Play": "81"
+        },
+        "tm": {
+            "Fly": "06",
+            "Rest": "21",
+            "Thief": "23",
+            "Snore": "24",
+            "Protect": "25",
+            "Scary Face": "26",
+            "Steel Wing": "30",
+            "Attract": "31",
+            "Rain Dance": "33",
+            "Sunny Day": "34",
+            "Facade": "39",
+            "Swift": "40",
+            "Fake Tears": "47",
+            "Rock Tomb": "48",
+            "U-turn": "56",
+            "Payback": "57",
+            "Assurance": "58",
+            "Round": "76",
+            "Retaliate": "79",
+            "Snarl": "85",
+            "Air Slash": "95"
+        }
+    },
+    "entries": {
+        "Vullaby": [
+            "Its wings are too tiny to allow it to fly. As the time approaches for it to evolve, it discards the bones it was wearing.",
+            "They tend to guard their posteriors with suitable bones they have found. They pursue weak Pok\u00e9mon.",
+            "Their wings are too tiny to allow them to fly. They guard their posteriors with bones that were gathered by Mandibuzz.",
+            "Its wings are too tiny to allow it to fly. As the time approaches for it to evolve, it discards the bones it was wearing.",
+            "Their wings are too tiny to allow them to fly. They guard their posteriors with bones that were gathered by Mandibuzz.",
+            "It protects its plump posterior with the bones of prey it has consumed. As it grows, it replaces the bones.",
+            "It can\u2019t fly yet and must wait until its wings have developed more. Since it\u2019s still at a playful age, it hops around friskily.",
+            "Mandibuzz gives it the bones it wears. Vullaby\u2019s wings are short, so it can\u2019t fly yet, but it jumps around, dreaming of wide open skies.",
+            "Its healthy appetite leads to visible growth spurts. It often has to replace the bones it wears as its size increases.",
+            "It wears a bone to protect its rear. It often squabbles with others of its kind over particularly comfy bones.",
+            "Vullaby grow quickly. Bones that have gotten too small for older Vullaby to wear often get passed down to younger ones in the nest."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791507280625754/629.png",
+    "discord_sprite": "<:P629:1132140421301162005>"
+}

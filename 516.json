@@ -1,0 +1,189 @@
+{
+    "alt-version(s)": [],
+    "name": "Simipour",
+    "Simipour": {
+        "pokedex_data": {
+            "National No.": "0516",
+            "Type": [
+                "Water"
+            ],
+            "Species": "Geyser Poke\u0301mon",
+            "Height": "1.0 m (3\u203203\u2032\u2032)",
+            "Weight": "29.0 kg (63.9 lbs)",
+            "Abilities": {
+                "Gluttony": {
+                    "href": "/ability/gluttony",
+                    "effect": "Encourages the early use of a held Berry.",
+                    "hidden": false
+                },
+                "Torrent": {
+                    "href": "/ability/torrent",
+                    "effect": "Powers up Water-type moves in a pinch.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Speed",
+            "Catch rate": "75",
+            "BaseFriendship": "50",
+            "Base Exp.": "174",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "75",
+                "Min": "260",
+                "Max": "354"
+            },
+            "Attack": {
+                "Base": "98",
+                "Min": "180",
+                "Max": "324"
+            },
+            "Defense": {
+                "Base": "63",
+                "Min": "117",
+                "Max": "247"
+            },
+            "Sp. Atk": {
+                "Base": "98",
+                "Min": "180",
+                "Max": "324"
+            },
+            "Sp. Def": {
+                "Base": "63",
+                "Min": "117",
+                "Max": "247"
+            },
+            "Speed": {
+                "Base": "101",
+                "Min": "186",
+                "Max": "331"
+            },
+            "Total": "498"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Panpour",
+                    "nationalNo": "#0515",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Simipour",
+                    "nationalNo": "#0516",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Water Stone)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Fury Swipes": "1",
+            "Leer": "1",
+            "Lick": "1",
+            "Scald": "1"
+        },
+        "egg": {
+            "Aqua Ring": null,
+            "Aqua Tail": null,
+            "Astonish": null,
+            "Covet": null,
+            "Disarming Voice": null,
+            "Hydro Pump": null,
+            "Low Kick": null,
+            "Mud Sport": null,
+            "Nasty Plot": null,
+            "Role Play": null,
+            "Tickle": null
+        },
+        "null": {
+            "Acrobatics": "55",
+            "Bite": "60",
+            "Brine": "65",
+            "Crunch": "80",
+            "Fling": "\u2014",
+            "Natural Gift": "\u2014",
+            "Play Nice": "\u2014",
+            "Recycle": "\u2014",
+            "Scratch": "40",
+            "Taunt": "\u2014",
+            "Water Gun": "40",
+            "Water Sport": "\u2014"
+        },
+        "tm": {
+            "Work Up": "01",
+            "Toxic": "06",
+            "Hail": "07",
+            "Hidden Power": "10",
+            "Taunt": "12",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Frustration": "21",
+            "Return": "27",
+            "Brick Break": "31",
+            "Double Team": "32",
+            "Rock Tomb": "39",
+            "Torment": "41",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Low Sweep": "47",
+            "Round": "48",
+            "Focus Blast": "52",
+            "Scald": "55",
+            "Fling": "56",
+            "Acrobatics": "62",
+            "Shadow Claw": "65",
+            "Payback": "66",
+            "Giga Impact": "68",
+            "Rock Slide": "80",
+            "Grass Knot": "86",
+            "Swagger": "87",
+            "Sleep Talk": "88",
+            "Substitute": "90",
+            "Surf": "94",
+            "Waterfall": "98",
+            "Confide": "100"
+        }
+    },
+    "entries": {
+        "Simipour": [
+            "The tuft on its head holds water. When the level runs low, it replenishes the tuft by siphoning up water with its tail.",
+            "The high-pressure water expelled from its tail is so powerful, it can destroy a concrete wall.",
+            "It prefers places with clean water. When its tuft runs low, it replenishes it by siphoning up water with its tail.",
+            "The high-pressure water expelled from its tail is so powerful, it can destroy a concrete wall.",
+            "It prefers places with clean water. When its tuft runs low, it replenishes it by siphoning up water with its tail."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790624362860685/516.png",
+    "discord_sprite": "<:P516:1132135436106596424>"
+}

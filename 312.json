@@ -1,0 +1,161 @@
+{
+    "alt-version(s)": [],
+    "name": "Minun",
+    "Minun": {
+        "pokedex_data": {
+            "National No.": "0312",
+            "Type": [
+                "Electric"
+            ],
+            "Species": "Cheering Poke\u0301mon",
+            "Height": "0.4 m (1\u203204\u2032\u2032)",
+            "Weight": "4.2 kg (9.3 lbs)",
+            "Abilities": {
+                "Minus": {
+                    "href": "/ability/minus",
+                    "effect": "Ups Sp. Atk if another Pok\u00e9mon has Plus or Minus.",
+                    "hidden": false
+                },
+                "Volt Absorb": {
+                    "href": "/ability/volt-absorb",
+                    "effect": "Restores HP if hit by an Electric-type move.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Speed",
+            "Catch rate": "200",
+            "BaseFriendship": "50",
+            "Base Exp.": "142",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "60",
+                "Min": "230",
+                "Max": "324"
+            },
+            "Attack": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Defense": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Atk": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Sp. Def": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Speed": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Total": "405"
+        },
+        "defense_stats": {
+            "Minus ability": {
+                "Electric": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Steel": "not very effective"
+            },
+            "Volt Absorb ability": {
+                "Electric": "no effect",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Growl": "1",
+            "Nuzzle": "1",
+            "Play Nice": "1",
+            "Quick Attack": "1",
+            "Thunder Wave": "1",
+            "Helping Hand": "4",
+            "Spark": "7",
+            "Encore": "10",
+            "Switcheroo": "13",
+            "Swift": "16",
+            "Electro Ball": "19",
+            "Copycat": "22",
+            "Fake Tears": "25",
+            "Charge": "28",
+            "Discharge": "31",
+            "Baton Pass": "34",
+            "Agility": "37",
+            "Last Resort": "40",
+            "Thunder": "43",
+            "Nasty Plot": "46",
+            "Entrainment": "49"
+        },
+        "egg": {
+            "Charm": null,
+            "Discharge": null,
+            "Fake Tears": null,
+            "Sing": null,
+            "Sweet Kiss": null,
+            "Tearful Look": null,
+            "Wish": null
+        },
+        "tm": {
+            "Light Screen": "16",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Iron Tail": "23",
+            "Thunderbolt": "24",
+            "Thunder": "25",
+            "Double Team": "32",
+            "Shock Wave": "34",
+            "Facade": "42",
+            "Volt Switch": "43",
+            "Rest": "44",
+            "Attract": "45",
+            "Fling": "56",
+            "Charge Beam": "57",
+            "Endure": "58",
+            "Nasty Plot": "63",
+            "Flash": "70",
+            "Thunder Wave": "73",
+            "Sleep Talk": "82",
+            "Grass Knot": "86",
+            "Swagger": "87",
+            "Substitute": "90"
+        }
+    },
+    "entries": {
+        "Minun": [
+            "MINUN is more concerned about cheering on its partners than its own safety. It shorts out the electricity in its body to create brilliant showers of sparks to cheer on its teammates.",
+            "MINUN loves to cheer on its partner in battle. It gives off sparks from its body while it is doing so. If its partner is in trouble, this pok\u00e9mon gives off increasing amounts of sparks.",
+            "Its dislike of water makes it take shelter under the eaves of houses in rain. It uses pom-poms made of sparks for cheering.",
+            "At a meeting of pok\u00e9mon academics, it was announced that simultaneous exposure to electricity from a PLUSLE and MINUN will promote circulation and boost vitality.",
+            "It cheers on friends. If its friends are losing, its body lets off more and more sparks.",
+            "Exposure to electricity from MINUN and PLUSLE promotes blood circulation and relaxes muscles.",
+            "It cheers on friends. If its friends are losing, its body lets off more and more sparks.",
+            "Exposure to electricity from Minun and Plusle promotes blood circulation and relaxes muscles.",
+            "It cheers on friends. If its friends are losing, its body lets off more and more sparks.",
+            "Minun is more concerned about cheering on its partners than its own safety. It shorts out the electricity in its body to create brilliant showers of sparks to cheer on its teammates.",
+            "Minun loves to cheer on its partner in battle. It gives off sparks from its body while it is doing so. If its partner is in trouble, this Pok\u00e9mon gives off increasing amounts of sparks.",
+            "It cheers on friends. If its friends are losing, its body lets off more and more sparks."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789040614637579/312.png",
+    "discord_sprite": "<:P312:1132126466725920924>"
+}

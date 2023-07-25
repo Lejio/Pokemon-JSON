@@ -1,0 +1,230 @@
+{
+    "alt-version(s)": [],
+    "name": "Jynx",
+    "Jynx": {
+        "pokedex_data": {
+            "National No.": "0124",
+            "Type": [
+                "Ice",
+                "Psychic"
+            ],
+            "Species": "Human Shape Poke\u0301mon",
+            "Height": "1.4 m (4\u203207\u2032\u2032)",
+            "Weight": "40.6 kg (89.5 lbs)",
+            "Abilities": {
+                "Oblivious": {
+                    "href": "/ability/oblivious",
+                    "effect": "Prevents it from becoming infatuated.",
+                    "hidden": false
+                },
+                "Forewarn": {
+                    "href": "/ability/forewarn",
+                    "effect": "Determines what moves a foe has.",
+                    "hidden": false
+                },
+                "Dry Skin": {
+                    "href": "/ability/dry-skin",
+                    "effect": "Reduces HP if it is hot. Water restores HP.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Sp. Atk",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "159",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "0% male,100% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "65",
+                "Min": "240",
+                "Max": "334"
+            },
+            "Attack": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Defense": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Sp. Atk": {
+                "Base": "115",
+                "Min": "211",
+                "Max": "361"
+            },
+            "Sp. Def": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Speed": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Total": "455"
+        },
+        "defense_stats": {
+            "Oblivious ability": {
+                "Fire": "super-effective",
+                "Ice": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "super-effective",
+                "Rock": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective",
+                "Steel": "super-effective"
+            },
+            "Forewarn ability": {
+                "Fire": "super-effective",
+                "Ice": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "super-effective",
+                "Rock": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective",
+                "Steel": "super-effective"
+            },
+            "Dry Skin ability": {
+                "Fire": "super-effective",
+                "Water": "no effect",
+                "Ice": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "super-effective",
+                "Rock": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Smoochum",
+                    "nationalNo": "#0238",
+                    "type": [
+                        "Ice",
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Jynx",
+                    "nationalNo": "#0124",
+                    "type": [
+                        "Ice",
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 30)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Copycat": "1",
+            "Lick": "1",
+            "Pound": "1",
+            "Powder Snow": "1",
+            "Sweet Kiss": "1",
+            "Confusion": "12",
+            "Covet": "16",
+            "Sing": "20",
+            "Fake Tears": "24",
+            "Ice Punch": "28",
+            "Psychic": "34",
+            "Lovely Kiss": "40",
+            "Mean Look": "46",
+            "Perish Song": "52",
+            "Blizzard": "58"
+        },
+        "egg": {
+            "Fake Out": null,
+            "Ice Punch": null,
+            "Role Play": null,
+            "Wish": null
+        },
+        "tm": {
+            "Focus Punch": "01",
+            "Water Pulse": "03",
+            "Calm Mind": "04",
+            "Hail": "07",
+            "Taunt": "12",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Hyper Beam": "15",
+            "Light Screen": "16",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Psychic": "29",
+            "Shadow Ball": "30",
+            "Brick Break": "31",
+            "Double Team": "32",
+            "Reflect": "33",
+            "Torment": "41",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Skill Swap": "48",
+            "Focus Blast": "52",
+            "Energy Ball": "53",
+            "Fling": "56",
+            "Endure": "58",
+            "Drain Punch": "60",
+            "Nasty Plot": "63",
+            "Payback": "66",
+            "Recycle": "67",
+            "Giga Impact": "68",
+            "Flash": "70",
+            "Avalanche": "72",
+            "Psych Up": "77",
+            "Sleep Talk": "82",
+            "Dream Eater": "85",
+            "Grass Knot": "86",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Trick Room": "92"
+        }
+    },
+    "entries": {
+        "Jynx": [
+            "It seductively wiggles its hips as it walks. It can cause people to dance in unison with it.",
+            "Appears to move to a rhythm of its own, as if it were dancing. It wiggles its hips as it walks.",
+            "It rocks its body rhythmically. It appears to alter the rhythm depending on how it is feeling.",
+            "It speaks a language similar to that of humans. However, it seems to use dancing to communicate.",
+            "It has several different cry patterns, each of which seems to have its own meaning.",
+            "JYNX walks rhythmically, swaying and shaking its hips as if it were dancing. Its motions are so bouncingly alluring, people seeing it are compelled to shake their hips without giving any thought to what they are doing.",
+            "It speaks using a language that sounds human. Research is under way to determine what is being said.",
+            "It seductively wiggles its hips as it walks. It can cause people to dance in unison with it.",
+            "A JYNX sashays rhythmically as if it were dancing. Its motions are so bouncingly alluring, people seeing it are compelled to shake their hips without noticing.",
+            "Its cries sound like human speech. However, it is impossible to tell what it is trying to say.",
+            "It rocks its body rhythmically. It appears to alter the rhythm depending on how it is feeling.",
+            "It speaks a language similar to that of humans. However, it seems to use dancing to communicate.",
+            "Its cries sound like human speech. However, it is impossible to tell what it is trying to say.",
+            "It wiggles its hips as it walks. It can cause people to dance in unison with it.",
+            "It speaks using a language that sounds human. Research is under way to determine what is being said.",
+            "Jynx walks rhythmically, swaying and shaking its hips as if it were dancing. Its motions are so bouncingly alluring, people seeing it are compelled to shake their hips without giving any thought to what they are doing.",
+            "It sways its hips to a rhythm all its own. The precise movements of Jynx living in Alola are truly wonderful.",
+            "Its strange cries sound like human language. There are some musicians who compose songs for Jynx to sing.",
+            "Appears to move to a rhythm of its own, as if it were dancing. It wiggles its hips as it walks.",
+            "In certain parts of Galar, Jynx was once feared and worshiped as the Queen of Ice.",
+            "The Jynx of Galar often have beautiful and delicate voices. Some of these Pok\u00e9mon have even gathered a fan base.",
+            "Its cries sound like human speech. However, it is impossible to tell what it is trying to say."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787558712524860/124.png",
+    "discord_sprite": "<:P124:1132118190542028881>"
+}

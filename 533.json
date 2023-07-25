@@ -1,0 +1,214 @@
+{
+    "alt-version(s)": [],
+    "name": "Gurdurr",
+    "Gurdurr": {
+        "pokedex_data": {
+            "National No.": "0533",
+            "Type": [
+                "Fighting"
+            ],
+            "Species": "Muscular Poke\u0301mon",
+            "Height": "1.2 m (3\u203211\u2032\u2032)",
+            "Weight": "40.0 kg (88.2 lbs)",
+            "Abilities": {
+                "Guts": {
+                    "href": "/ability/guts",
+                    "effect": "Boosts Attack if there is a status problem.",
+                    "hidden": false
+                },
+                "Sheer Force": {
+                    "href": "/ability/sheer-force",
+                    "effect": "Removes added effects to increase move damage.",
+                    "hidden": false
+                },
+                "Iron Fist": {
+                    "href": "/ability/iron-fist",
+                    "effect": "Boosts the power of punching moves.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "90",
+            "BaseFriendship": "50",
+            "Base Exp.": "142",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "75% male,25% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "85",
+                "Min": "280",
+                "Max": "374"
+            },
+            "Attack": {
+                "Base": "105",
+                "Min": "193",
+                "Max": "339"
+            },
+            "Defense": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Sp. Atk": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Def": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Speed": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Total": "405"
+        },
+        "defense_stats": {
+            "default": {
+                "Flying": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Dark": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Timburr",
+                    "nationalNo": "#0532",
+                    "type": [
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Gurdurr",
+                    "nationalNo": "#0533",
+                    "type": [
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 25)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Gurdurr",
+                    "nationalNo": "#0533",
+                    "type": [
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Conkeldurr",
+                    "nationalNo": "#0534",
+                    "type": [
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Trade)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Leer": "1",
+            "Low Kick": "1",
+            "Pound": "1",
+            "Rock Throw": "1",
+            "Focus Energy": "12",
+            "Bulk Up": "16",
+            "Rock Slide": "20",
+            "Slam": "24",
+            "Scary Face": "30",
+            "Dynamic Punch": "36",
+            "Hammer Arm": "42",
+            "Stone Edge": "48",
+            "Superpower": "54",
+            "Focus Punch": "60"
+        },
+        "egg": {
+            "Counter": null,
+            "Defog": null,
+            "Detect": null,
+            "Mach Punch": null,
+            "Power-Up Punch": null,
+            "Wide Guard": null
+        },
+        "null": {
+            "Low Kick": "07",
+            "Focus Energy": "13",
+            "Substitute": "20",
+            "Reversal": "21",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Taunt": "37",
+            "Superpower": "39",
+            "Bulk Up": "48",
+            "Close Combat": "53",
+            "Poison Jab": "57",
+            "Focus Blast": "64",
+            "Stone Edge": "75",
+            "Grass Knot": "77",
+            "Work Up": "85",
+            "High Horsepower": "94"
+        },
+        "tm": {
+            "Mega Punch": "00",
+            "Mega Kick": "01",
+            "Fire Punch": "03",
+            "Ice Punch": "04",
+            "Thunder Punch": "05",
+            "Dig": "15",
+            "Rest": "21",
+            "Rock Slide": "22",
+            "Snore": "24",
+            "Protect": "25",
+            "Scary Face": "26",
+            "Attract": "31",
+            "Rain Dance": "33",
+            "Sunny Day": "34",
+            "Facade": "39",
+            "Helping Hand": "41",
+            "Revenge": "42",
+            "Brick Break": "43",
+            "Rock Tomb": "48",
+            "Payback": "57",
+            "Fling": "59",
+            "Drain Punch": "63",
+            "Low Sweep": "75",
+            "Round": "76",
+            "Retaliate": "79",
+            "Brutal Swing": "97"
+        }
+    },
+    "entries": {
+        "Gurdurr": [
+            "This Pok\u00e9mon is so muscular and strongly built that even a group of wrestlers could not make it budge an inch.",
+            "They strengthen their bodies by carrying steel beams. They show off their big muscles to their friends.",
+            "With strengthened bodies, they skillfully wield steel beams to take down buildings.",
+            "With strengthened bodies, they skillfully wield steel beams to take down buildings.",
+            "This Pok\u00e9mon is so muscular and strongly built that even a group of wrestlers could not make it budge an inch.",
+            "It shows off its muscles to Machoke and other Gurdurr. If it fails to measure up to the other Pok\u00e9mon, it lies low for a little while.",
+            "Gurdurr excels at demolition\u2014construction is not its forte. In any case, there\u2019s skill in the way this Pok\u00e9mon wields its metal beam."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790757037092924/533.png",
+    "discord_sprite": "<:P533:1132136187826552952>"
+}

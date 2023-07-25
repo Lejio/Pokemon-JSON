@@ -1,0 +1,185 @@
+{
+    "alt-version(s)": [],
+    "name": "Spearow",
+    "Spearow": {
+        "pokedex_data": {
+            "National No.": "0021",
+            "Type": [
+                "Normal",
+                "Flying"
+            ],
+            "Species": "Tiny Bird Poke\u0301mon",
+            "Height": "0.3 m (1\u203200\u2032\u2032)",
+            "Weight": "2.0 kg (4.4 lbs)",
+            "Abilities": {
+                "Keen Eye": {
+                    "href": "/ability/keen-eye",
+                    "effect": "Prevents other Pok\u00e9mon from lowering accuracy.",
+                    "hidden": false
+                },
+                "Sniper": {
+                    "href": "/ability/sniper",
+                    "effect": "Powers up moves if they become critical hits.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Speed",
+            "Catch rate": "255",
+            "BaseFriendship": "50",
+            "Base Exp.": "52",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "40",
+                "Min": "190",
+                "Max": "284"
+            },
+            "Attack": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Defense": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Sp. Atk": {
+                "Base": "31",
+                "Min": "60",
+                "Max": "177"
+            },
+            "Sp. Def": {
+                "Base": "31",
+                "Min": "60",
+                "Max": "177"
+            },
+            "Speed": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Total": "262"
+        },
+        "defense_stats": {
+            "default": {
+                "Electric": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Ground": "no effect",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Spearow",
+                    "nationalNo": "#0021",
+                    "type": [
+                        "Normal",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Fearow",
+                    "nationalNo": "#0022",
+                    "type": [
+                        "Normal",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 20)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Growl": "1",
+            "Peck": "1",
+            "Leer": "4",
+            "Assurance": "8",
+            "Fury Attack": "11",
+            "Aerial Ace": "15",
+            "Wing Attack": "18",
+            "Take Down": "22",
+            "Agility": "25",
+            "Focus Energy": "29",
+            "Roost": "32",
+            "Drill Peck": "36"
+        },
+        "egg": {
+            "Astonish": null,
+            "Feather Dance": null,
+            "Quick Attack": null,
+            "Scary Face": null,
+            "Sky Attack": null,
+            "Tri Attack": null,
+            "Uproar": null,
+            "Whirlwind": null
+        },
+        "tm": {
+            "Work Up": "10",
+            "Sunny Day": "11",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Double Team": "32",
+            "Aerial Ace": "40",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Steel Wing": "47",
+            "Roost": "51",
+            "False Swipe": "54",
+            "Endure": "58",
+            "Sleep Talk": "82",
+            "Swagger": "87",
+            "Pluck": "88",
+            "U-turn": "89",
+            "Substitute": "90",
+            "Fly": "94",
+            "Defog": "97"
+        }
+    },
+    "entries": {
+        "Spearow": [
+            "Eats bugs in grassy areas. It has to flap its short wings at high speed to stay airborne.",
+            "Inept at flying high. However, it can fly around very fast to protect its territory.",
+            "It flaps its short wings to flush out insects from tall grass. It then plucks them with its stubby beak.",
+            "Very protective of its territory, it flaps its short wings busily to dart around at high speed.",
+            "To protect its territory, it flies around ceaselessly, making high-pitched cries.",
+            "SPEAROW has a very loud cry that can be heard over half a mile away. If its high, keening cry is heard echoing all around, it is a sign that they are warning each other of danger.",
+            "It busily flits around here and there. Even if it is frail, it can be a tough foe that uses MIRROR MOVE.",
+            "Eats bugs in grassy areas. It has to flap its short wings at high speed to stay airborne.",
+            "Its loud cry can be heard over half a mile away. If its high, keening cry is heard echoing all around, it is a sign that they are warning each other of danger.",
+            "It flaps its small wings busily to fly. Using its beak, it searches in grass for prey.",
+            "It flaps its short wings to flush out insects from tall grass. It then plucks them with its stubby beak.",
+            "Very protective of its territory, it flaps its short wings busily to dart around at high speed.",
+            "It flaps its small wings busily to fly. Using its beak, it searches in grass for prey.",
+            "Very protective of its territory, it flaps its short wings busily to dart around at high speed.",
+            "Eats bugs in grassy areas. It has to flap its short wings at high speed to stay airborne.",
+            "Spearow has a very loud cry that can be heard over half a mile away. If its high, keening cry is heard echoing all around, it is a sign that they are warning each other of danger.",
+            "Its short wings make it inept at flying. It moves about hurriedly and pecks at Bug-type Pok\u00e9mon in the tall grass.",
+            "Farmers whose fields are troubled by bug Pok\u00e9mon appreciate Spearow for its vigorous appetite and look after it.",
+            "Its reckless nature leads it to stand up to others\u2014even large Pok\u00e9mon\u2014if it has to protect its territory.",
+            "Due to its short wings, it can\u2019t fly long distances. It wanders about restlessly and pecks at bug Pok\u00e9mon.",
+            "Inept at flying high. However, it can fly around very fast to protect its territory.",
+            "It flaps its small wings busily to fly. Using its beak, it searches in grass for prey."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131786752508575845/21.png",
+    "discord_sprite": "<:P21:1131972815671799848>"
+}

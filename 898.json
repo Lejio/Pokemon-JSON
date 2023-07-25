@@ -1,0 +1,513 @@
+{
+    "alt-version(s)": [
+        "Ice Rider",
+        "Shadow Rider"
+    ],
+    "name": "Calyrex",
+    "Calyrex": {
+        "pokedex_data": {
+            "National No.": "0898",
+            "Type": [
+                "Psychic",
+                "Grass"
+            ],
+            "Species": "King Poke\u0301mon",
+            "Height": "1.1 m (3\u203207\u2032\u2032)",
+            "Weight": "7.7 kg (17.0 lbs)",
+            "Abilities": {
+                "Unnerve": {
+                    "href": "/ability/unnerve",
+                    "effect": "Makes the foe nervous and unable to eat Berries.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 HP",
+            "Catch rate": "3",
+            "BaseFriendship": "100",
+            "Base Exp.": "250",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "100",
+                "Min": "310",
+                "Max": "404"
+            },
+            "Attack": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Defense": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Sp. Atk": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Sp. Def": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Speed": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Total": "500"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Poison": "super-effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Psychic": "not very effective",
+                "Bug": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective"
+            }
+        }
+    },
+    "Ice Rider": {
+        "pokedex_data": {
+            "National No.": "0898",
+            "Type": [
+                "Psychic",
+                "Ice"
+            ],
+            "Species": "High King Poke\u0301mon",
+            "Height": "2.4 m (7\u203210\u2032\u2032)",
+            "Weight": "809.1 kg (1783.8 lbs)",
+            "Abilities": {
+                "As One": {
+                    "href": "/ability/as-one",
+                    "effect": "Combines Unnerve and Chilling Neigh/Grim Neigh",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Attack",
+            "Catch rate": "3",
+            "BaseFriendship": "100",
+            "Base Exp.": "340",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "100",
+                "Min": "310",
+                "Max": "404"
+            },
+            "Attack": {
+                "Base": "165",
+                "Min": "301",
+                "Max": "471"
+            },
+            "Defense": {
+                "Base": "150",
+                "Min": "274",
+                "Max": "438"
+            },
+            "Sp. Atk": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Sp. Def": {
+                "Base": "130",
+                "Min": "238",
+                "Max": "394"
+            },
+            "Speed": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Total": "680"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Ice": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "super-effective",
+                "Rock": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "Shadow Rider": {
+        "pokedex_data": {
+            "National No.": "0898",
+            "Type": [
+                "Psychic",
+                "Ghost"
+            ],
+            "Species": "High King Poke\u0301mon",
+            "Height": "2.4 m (7\u203210\u2032\u2032)",
+            "Weight": "53.6 kg (118.2 lbs)",
+            "Abilities": {
+                "As One": {
+                    "href": "/ability/as-one",
+                    "effect": "Combines Unnerve and Chilling Neigh/Grim Neigh",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Sp. Atk",
+            "Catch rate": "3",
+            "BaseFriendship": "100",
+            "Base Exp.": "340",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "100",
+                "Min": "310",
+                "Max": "404"
+            },
+            "Attack": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Defense": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Sp. Atk": {
+                "Base": "165",
+                "Min": "301",
+                "Max": "471"
+            },
+            "Sp. Def": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Speed": {
+                "Base": "150",
+                "Min": "274",
+                "Max": "438"
+            },
+            "Total": "680"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "no effect",
+                "Fighting": "no effect",
+                "Poison": "not very effective",
+                "Psychic": "not very effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "Calyrex": {
+            "moves": {
+                "Confusion": "1",
+                "Growth": "1",
+                "Mega Drain": "1",
+                "Pound": "1",
+                "Life Dew": "8",
+                "Giga Drain": "16",
+                "Psyshock": "24",
+                "Helping Hand": "32",
+                "Grassy Terrain": "40",
+                "Psychic Terrain": "40",
+                "Energy Ball": "48",
+                "Psychic": "56",
+                "Leech Seed": "64",
+                "Heal Pulse": "72",
+                "Solar Beam": "80",
+                "Future Sight": "88"
+            },
+            "tm": {
+                "Take Down": "01",
+                "Agility": "04",
+                "Scary Face": "06",
+                "Protect": "07",
+                "Psybeam": "16",
+                "Facade": "25",
+                "Snarl": "30",
+                "Swift": "32",
+                "Magical Leaf": "33",
+                "Mud Shot": "35",
+                "Draining Kiss": "37",
+                "Stored Power": "41",
+                "Endure": "47",
+                "Sunny Day": "49",
+                "Psyshock": "54",
+                "Bullet Seed": "56",
+                "Zen Headbutt": "59",
+                "Sleep Talk": "70",
+                "Seed Bomb": "71",
+                "Reflect": "74",
+                "Light Screen": "75",
+                "Metronome": "80",
+                "Grass Knot": "81",
+                "Rest": "85",
+                "Body Press": "89",
+                "Imprison": "92",
+                "Skill Swap": "98",
+                "Substitute": "103",
+                "Trick": "109",
+                "Giga Drain": "111",
+                "Energy Ball": "119",
+                "Psychic": "120",
+                "Encore": "122",
+                "Calm Mind": "129",
+                "Helping Hand": "130",
+                "Pollen Puff": "131",
+                "Baton Pass": "132",
+                "Grassy Terrain": "137",
+                "Psychic Terrain": "138",
+                "Giga Impact": "152",
+                "Leaf Storm": "159",
+                "Trick Room": "161",
+                "Hyper Beam": "163",
+                "Solar Beam": "168",
+                "Tera Blast": "171"
+            }
+        },
+        "Ice Rider": {
+            "moves": {
+                "Avalanche": "1",
+                "Confusion": "1",
+                "Double-Edge": "1",
+                "Double Kick": "1",
+                "Glacial Lance": "1",
+                "Growth": "1",
+                "Icicle Crash": "1",
+                "Iron Defense": "1",
+                "Mega Drain": "1",
+                "Mist": "1",
+                "Pound": "1",
+                "Stomp": "1",
+                "Swords Dance": "1",
+                "Tackle": "1",
+                "Tail Whip": "1",
+                "Take Down": "1",
+                "Taunt": "1",
+                "Thrash": "1",
+                "Torment": "1",
+                "Life Dew": "8",
+                "Giga Drain": "16",
+                "Psyshock": "24",
+                "Helping Hand": "32",
+                "Aromatherapy": "40",
+                "Grassy Terrain": "40",
+                "Energy Ball": "48",
+                "Psychic": "56",
+                "Leech Seed": "64",
+                "Heal Pulse": "72",
+                "Solar Beam": "80",
+                "Future Sight": "88"
+            },
+            "tm": {
+                "Take Down": "01",
+                "Agility": "04",
+                "Scary Face": "06",
+                "Protect": "07",
+                "Psybeam": "16",
+                "Trailblaze": "20",
+                "Facade": "25",
+                "Bulldoze": "28",
+                "Snarl": "30",
+                "Swift": "32",
+                "Magical Leaf": "33",
+                "Icy Wind": "34",
+                "Mud Shot": "35",
+                "Draining Kiss": "37",
+                "Stored Power": "41",
+                "Avalanche": "46",
+                "Endure": "47",
+                "Sunny Day": "49",
+                "Snowscape": "52",
+                "Smart Strike": "53",
+                "Psyshock": "54",
+                "Bullet Seed": "56",
+                "Zen Headbutt": "59",
+                "Body Slam": "66",
+                "Sleep Talk": "70",
+                "Seed Bomb": "71",
+                "Reflect": "74",
+                "Light Screen": "75",
+                "Metronome": "80",
+                "Grass Knot": "81",
+                "Stomping Tantrum": "84",
+                "Rest": "85",
+                "Taunt": "87",
+                "Swords Dance": "88",
+                "Body Press": "89",
+                "Imprison": "92",
+                "Skill Swap": "98",
+                "Substitute": "103",
+                "Iron Defense": "104",
+                "Crunch": "108",
+                "Trick": "109",
+                "Giga Drain": "111",
+                "Energy Ball": "119",
+                "Psychic": "120",
+                "Heavy Slam": "121",
+                "Encore": "122",
+                "Calm Mind": "129",
+                "Helping Hand": "130",
+                "Pollen Puff": "131",
+                "Baton Pass": "132",
+                "Ice Beam": "135",
+                "Grassy Terrain": "137",
+                "Psychic Terrain": "138",
+                "Blizzard": "143",
+                "Giga Impact": "152",
+                "Outrage": "156",
+                "Leaf Storm": "159",
+                "Trick Room": "161",
+                "Hyper Beam": "163",
+                "Close Combat": "167",
+                "Solar Beam": "168",
+                "Tera Blast": "171"
+            }
+        },
+        "Shadow Rider": {
+            "moves": {
+                "Agility": "1",
+                "Astral Barrage": "1",
+                "Confuse Ray": "1",
+                "Confusion": "1",
+                "Disable": "1",
+                "Double-Edge": "1",
+                "Double Kick": "1",
+                "Growth": "1",
+                "Haze": "1",
+                "Hex": "1",
+                "Mega Drain": "1",
+                "Nasty Plot": "1",
+                "Pound": "1",
+                "Shadow Ball": "1",
+                "Stomp": "1",
+                "Tackle": "1",
+                "Tail Whip": "1",
+                "Take Down": "1",
+                "Thrash": "1",
+                "Life Dew": "8",
+                "Giga Drain": "16",
+                "Psyshock": "24",
+                "Helping Hand": "32",
+                "Grassy Terrain": "40",
+                "Psychic Terrain": "40",
+                "Energy Ball": "48",
+                "Psychic": "56",
+                "Leech Seed": "64",
+                "Heal Pulse": "72",
+                "Solar Beam": "80",
+                "Future Sight": "88"
+            },
+            "tm": {
+                "Take Down": "01",
+                "Agility": "04",
+                "Scary Face": "06",
+                "Protect": "07",
+                "Psybeam": "16",
+                "Confuse Ray": "17",
+                "Facade": "25",
+                "Bulldoze": "28",
+                "Hex": "29",
+                "Snarl": "30",
+                "Swift": "32",
+                "Magical Leaf": "33",
+                "Mud Shot": "35",
+                "Draining Kiss": "37",
+                "Stored Power": "41",
+                "Night Shade": "42",
+                "Endure": "47",
+                "Sunny Day": "49",
+                "Psyshock": "54",
+                "Bullet Seed": "56",
+                "Zen Headbutt": "59",
+                "Foul Play": "62",
+                "Body Slam": "66",
+                "Sleep Talk": "70",
+                "Seed Bomb": "71",
+                "Reflect": "74",
+                "Light Screen": "75",
+                "Metronome": "80",
+                "Grass Knot": "81",
+                "Stomping Tantrum": "84",
+                "Rest": "85",
+                "Taunt": "87",
+                "Imprison": "92",
+                "Dark Pulse": "94",
+                "Skill Swap": "98",
+                "Substitute": "103",
+                "Will-O-Wisp": "107",
+                "Crunch": "108",
+                "Trick": "109",
+                "Giga Drain": "111",
+                "Shadow Ball": "114",
+                "Energy Ball": "119",
+                "Psychic": "120",
+                "Encore": "122",
+                "Calm Mind": "129",
+                "Helping Hand": "130",
+                "Pollen Puff": "131",
+                "Baton Pass": "132",
+                "Grassy Terrain": "137",
+                "Psychic Terrain": "138",
+                "Nasty Plot": "140",
+                "Phantom Force": "151",
+                "Giga Impact": "152",
+                "Leaf Storm": "159",
+                "Trick Room": "161",
+                "Hyper Beam": "163",
+                "Solar Beam": "168",
+                "Tera Blast": "171"
+            }
+        },
+        "egg": null
+    },
+    "entries": {
+        "Calyrex": [
+            "Calyrex is a merciful Pok\u00e9mon, capable of providing healing and blessings. It reigned over the Galar region in times of yore.",
+            "Calyrex is known in legend as a king that ruled over Galar in ancient times. It has the power to cause hearts to mend and plants to spring forth."
+        ],
+        "Ice Rider": [
+            "According to lore, this Pok\u00e9mon showed no mercy to those who got in its way, yet it would heal its opponents\u2019 wounds after battle.",
+            "It\u2019s said that this Pok\u00e9mon once moved a large forest\u2014and all the Pok\u00e9mon living there\u2014to a new location overnight."
+        ],
+        "Shadow Rider": [
+            "It\u2019s said that Calyrex and a Pok\u00e9mon that had bonded with it ran all across the Galar region to bring green to the wastelands.",
+            "Legend says that by using its power to see all events from past to future, this Pok\u00e9mon saved the creatures of a forest from a meteorite strike."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793604084502588/898.png",
+    "discord_sprite": "<:P898:1132152314766032906>"
+}

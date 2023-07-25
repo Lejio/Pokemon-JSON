@@ -1,0 +1,209 @@
+{
+    "alt-version(s)": [],
+    "name": "Whimsicott",
+    "Whimsicott": {
+        "pokedex_data": {
+            "National No.": "0547",
+            "Type": [
+                "Grass",
+                "Fairy"
+            ],
+            "Species": "Windveiled Poke\u0301mon",
+            "Height": "0.7 m (2\u203204\u2032\u2032)",
+            "Weight": "6.6 kg (14.6 lbs)",
+            "Abilities": {
+                "Prankster": {
+                    "href": "/ability/prankster",
+                    "effect": "Gives priority to a status move.",
+                    "hidden": false
+                },
+                "Infiltrator": {
+                    "href": "/ability/infiltrator",
+                    "effect": "Passes through the foe's barrier and strikes.",
+                    "hidden": false
+                },
+                "Chlorophyll": {
+                    "href": "/ability/chlorophyll",
+                    "effect": "Boosts the Pok\u00e9mon's Speed in sunshine.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Speed",
+            "Catch rate": "75",
+            "BaseFriendship": "50",
+            "Base Exp.": "168",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "60",
+                "Min": "230",
+                "Max": "324"
+            },
+            "Attack": {
+                "Base": "67",
+                "Min": "125",
+                "Max": "256"
+            },
+            "Defense": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Sp. Atk": {
+                "Base": "77",
+                "Min": "143",
+                "Max": "278"
+            },
+            "Sp. Def": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Speed": {
+                "Base": "116",
+                "Min": "213",
+                "Max": "364"
+            },
+            "Total": "480"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Poison": "super-effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Dragon": "no effect",
+                "Dark": "not very effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Cottonee",
+                    "nationalNo": "#0546",
+                    "type": [
+                        "Grass",
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Whimsicott",
+                    "nationalNo": "#0547",
+                    "type": [
+                        "Grass",
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Sun Stone)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Absorb": "1",
+            "Charm": "1",
+            "Cotton Guard": "1",
+            "Cotton Spore": "1",
+            "Endeavor": "1",
+            "Energy Ball": "1",
+            "Fairy Wind": "1",
+            "Giga Drain": "1",
+            "Growth": "1",
+            "Gust": "1",
+            "Helping Hand": "1",
+            "Hurricane": "1",
+            "Leech Seed": "1",
+            "Mega Drain": "1",
+            "Memento": "1",
+            "Moonblast": "1",
+            "Poison Powder": "1",
+            "Razor Leaf": "1",
+            "Solar Beam": "1",
+            "Stun Spore": "1",
+            "Sunny Day": "1",
+            "Tailwind": "1"
+        },
+        "egg": {
+            "Memento": null,
+            "Nature Power": null,
+            "Switcheroo": null,
+            "Tickle": null,
+            "Worry Seed": null
+        },
+        "null": {
+            "Psychic": "11",
+            "Substitute": "20",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Encore": "30",
+            "Shadow Ball": "33",
+            "Taunt": "37",
+            "Seed Bomb": "59",
+            "Energy Ball": "65",
+            "Grass Knot": "77",
+            "Hurricane": "89",
+            "Play Rough": "90",
+            "Dazzling Gleam": "92"
+        },
+        "tm": {
+            "Hyper Beam": "08",
+            "Giga Impact": "09",
+            "Solar Beam": "11",
+            "Light Screen": "17",
+            "Safeguard": "19",
+            "Rest": "21",
+            "Thief": "23",
+            "Snore": "24",
+            "Protect": "25",
+            "Giga Drain": "28",
+            "Charm": "29",
+            "Attract": "31",
+            "Sunny Day": "34",
+            "Beat Up": "37",
+            "Facade": "39",
+            "Swift": "40",
+            "Helping Hand": "41",
+            "Fake Tears": "47",
+            "U-turn": "56",
+            "Fling": "59",
+            "Trick Room": "70",
+            "Round": "76",
+            "Grassy Terrain": "88",
+            "Misty Terrain": "89"
+        }
+    },
+    "entries": {
+        "Whimsicott": [
+            "Like the wind, it can slip through any gap, no matter how small. It leaves balls of white fluff behind.",
+            "Riding whirlwinds, they appear. These Pok\u00e9mon sneak through gaps into houses and cause all sorts of mischief.",
+            "They appear along with whirlwinds. They pull pranks, such as moving furniture and leaving balls of cotton in homes.",
+            "They appear along with whirlwinds. They pull pranks, such as moving furniture and leaving balls of cotton in homes.",
+            "Like the wind, it can slip through any gap, no matter how small. It leaves balls of white fluff behind.",
+            "It rides on the wind and slips into people\u2019s homes. After it has turned a room into a cotton-filled mess, it giggles to itself and takes off.",
+            "This Pok\u00e9mon appears, riding upon the wind. But if the wind gusts up, it\u2019ll blow the cotton on this Pok\u00e9mon\u2019s head clean off.",
+            "This nuisance sneaks into people\u2019s homes, where it hides important things and scatters cotton all over the place.",
+            "Whimsicott doesn\u2019t live in a fixed location. It floats around on whirling winds, appearing all over the place to perform its mischief.",
+            "It scatters cotton all over the place as a prank. If it gets wet, it\u2019ll become too heavy to move and have no choice but to answer for its mischief.",
+            "As long as this Pok\u00e9mon bathes in sunlight, its cotton keeps growing. If too much cotton fluff builds up, Whimsicott tears it off and scatters it."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790864151236759/547.png",
+    "discord_sprite": "<:P547:1132136806381527151>"
+}

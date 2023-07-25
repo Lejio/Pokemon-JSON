@@ -1,0 +1,225 @@
+{
+    "alt-version(s)": [],
+    "name": "Ninjask",
+    "Ninjask": {
+        "pokedex_data": {
+            "National No.": "0291",
+            "Type": [
+                "Bug",
+                "Flying"
+            ],
+            "Species": "Ninja Poke\u0301mon",
+            "Height": "0.8 m (2\u203207\u2032\u2032)",
+            "Weight": "12.0 kg (26.5 lbs)",
+            "Abilities": {
+                "Speed Boost": {
+                    "href": "/ability/speed-boost",
+                    "effect": "Its Speed stat is gradually boosted.",
+                    "hidden": false
+                },
+                "Infiltrator": {
+                    "href": "/ability/infiltrator",
+                    "effect": "Passes through the foe's barrier and strikes.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Speed",
+            "Catch rate": "120",
+            "BaseFriendship": "50",
+            "Base Exp.": "160",
+            "Growth Rate": "Erratic"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "61",
+                "Min": "232",
+                "Max": "326"
+            },
+            "Attack": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Defense": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Sp. Atk": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Def": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Speed": {
+                "Base": "160",
+                "Min": "292",
+                "Max": "460"
+            },
+            "Total": "456"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Electric": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Ground": "no effect",
+                "Flying": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Nincada",
+                    "nationalNo": "#0290",
+                    "type": [
+                        "Bug",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Ninjask",
+                    "nationalNo": "#0291",
+                    "type": [
+                        "Bug",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 20)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Nincada",
+                    "nationalNo": "#0290",
+                    "type": [
+                        "Bug",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Ninjask",
+                    "nationalNo": "#0291",
+                    "type": [
+                        "Bug",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 20, empty spot in party, Pok\u00e9ball in bag)",
+                "shed": {
+                    "name": "Shedinja",
+                    "nationalNo": "#0292",
+                    "type": [
+                        "Bug",
+                        "Ghost"
+                    ],
+                    "nickname": null
+                }
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Aerial Ace": "1",
+            "Baton Pass": "1",
+            "Dig": "1",
+            "Double Team": "1",
+            "False Swipe": "1",
+            "Fury Cutter": "1",
+            "Harden": "1",
+            "Metal Claw": "1",
+            "Mud-Slap": "1",
+            "Sand Attack": "1",
+            "Scratch": "1",
+            "Screech": "1",
+            "Agility": "15",
+            "Absorb": "23",
+            "Bug Bite": "29",
+            "Fury Swipes": "36",
+            "Mind Reader": "43",
+            "Slash": "50",
+            "Swords Dance": "57",
+            "X-Scissor": "64"
+        },
+        "evolution": {
+            "Double Team": "\u2014",
+            "Fury Cutter": "40",
+            "Screech": "\u2014"
+        },
+        "egg": {
+            "Bug Bite": null,
+            "Final Gambit": null,
+            "Flail": null,
+            "Gust": null,
+            "Night Slash": null
+        },
+        "tm": {
+            "Sunny Day": "11",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Giga Drain": "19",
+            "Solar Beam": "22",
+            "Dig": "28",
+            "Shadow Ball": "30",
+            "Double Team": "32",
+            "Sandstorm": "37",
+            "Aerial Ace": "40",
+            "Facade": "42",
+            "Rest": "44",
+            "Thief": "46",
+            "Roost": "51",
+            "False Swipe": "54",
+            "Endure": "58",
+            "Bug Buzz": "62",
+            "Giga Impact": "68",
+            "Flash": "70",
+            "Swords Dance": "75",
+            "X-Scissor": "81",
+            "Sleep Talk": "82",
+            "Swagger": "87",
+            "U-turn": "89",
+            "Substitute": "90",
+            "Cut": "93",
+            "Defog": "97"
+        }
+    },
+    "entries": {
+        "Ninjask": [
+            "NINJASK moves around at such a high speed that it cannot be seen, even while its crying can be clearly heard. For that reason, this pok\u00e9mon was long believed to be invisible.",
+            "If NINJASK is not trained properly, it will refuse to obey the TRAINER and cry loudly continuously. Because of this quality, this pok\u00e9mon is said to be one that puts the TRAINER\u2019s abilities to the test.",
+            "This pok\u00e9mon is so quick, it is said to be able to avoid any attack. It loves to feed on tree sap.",
+            "Because it darts about vigorously at high speed, it is very difficult to see. Hearing its distinctive cries for too long induces a headache.",
+            "Because it moves so quickly, it sometimes becomes unseeable. It congregates around tree sap.",
+            "Its cry leaves a lasting headache if heard for too long. It moves so quickly that it is almost invisible.",
+            "Because it moves so quickly, it sometimes becomes unseeable. It congregates around tree sap.",
+            "Its cry leaves a lasting headache if heard for too long. It moves so quickly that it is almost invisible.",
+            "Because it moves so quickly, it sometimes becomes unseeable. It congregates around tree sap.",
+            "Ninjask moves around at such a high speed that it cannot be seen, even while its crying can be clearly heard. For that reason, this Pok\u00e9mon was long believed to be invisible.",
+            "If Ninjask is not trained properly, it will refuse to obey the Trainer and cry loudly continuously. Because of this quality, this Pok\u00e9mon is said to be one that puts the Trainer\u2019s abilities to the test.",
+            "Its cry leaves a lasting headache if heard for too long. It moves so quickly that it is almost invisible.",
+            "This Pok\u00e9mon is so quick, it is said to be able to avoid any attack. It loves to feed on tree sap.",
+            "Because they move so quickly, they sometimes become unseeable. They congregate around tree sap."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788871278002247/291.png",
+    "discord_sprite": "<:P291:1132125546822770738>"
+}

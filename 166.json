@@ -1,0 +1,201 @@
+{
+    "alt-version(s)": [],
+    "name": "Ledian",
+    "Ledian": {
+        "pokedex_data": {
+            "National No.": "0166",
+            "Type": [
+                "Bug",
+                "Flying"
+            ],
+            "Species": "Five Star Poke\u0301mon",
+            "Height": "1.4 m (4\u203207\u2032\u2032)",
+            "Weight": "35.6 kg (78.5 lbs)",
+            "Abilities": {
+                "Swarm": {
+                    "href": "/ability/swarm",
+                    "effect": "Powers up Bug-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Early Bird": {
+                    "href": "/ability/early-bird",
+                    "effect": "The Pok\u00e9mon awakens quickly from sleep.",
+                    "hidden": false
+                },
+                "Iron Fist": {
+                    "href": "/ability/iron-fist",
+                    "effect": "Boosts the power of punching moves.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Sp. Def",
+            "Catch rate": "90",
+            "BaseFriendship": "50",
+            "Base Exp.": "137",
+            "Growth Rate": "Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "55",
+                "Min": "220",
+                "Max": "314"
+            },
+            "Attack": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Defense": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Atk": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Sp. Def": {
+                "Base": "110",
+                "Min": "202",
+                "Max": "350"
+            },
+            "Speed": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Total": "390"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Electric": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Ground": "no effect",
+                "Flying": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Ledyba",
+                    "nationalNo": "#0165",
+                    "type": [
+                        "Bug",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Ledian",
+                    "nationalNo": "#0166",
+                    "type": [
+                        "Bug",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 18)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Supersonic": "5",
+            "Swift": "8",
+            "Tackle": "1",
+            "Light Screen": "12",
+            "Reflect": "12",
+            "Safeguard": "12",
+            "Mach Punch": "15",
+            "Roost": "20",
+            "Struggle Bug": "24",
+            "Baton Pass": "29",
+            "Agility": "33",
+            "Bug Buzz": "38",
+            "Air Slash": "42",
+            "Double-Edge": "47"
+        },
+        "egg": {
+            "Bug Bite": null,
+            "Counter": null,
+            "Encore": null,
+            "Knock Off": null,
+            "Psybeam": null,
+            "Screech": null,
+            "Tailwind": null
+        },
+        "tm": {
+            "Focus Punch": "01",
+            "Sunny Day": "11",
+            "Hyper Beam": "15",
+            "Light Screen": "16",
+            "Protect": "17",
+            "Giga Drain": "19",
+            "Safeguard": "20",
+            "Solar Beam": "22",
+            "Dig": "28",
+            "Brick Break": "31",
+            "Double Team": "32",
+            "Reflect": "33",
+            "Aerial Ace": "40",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Roost": "51",
+            "Focus Blast": "52",
+            "Fling": "56",
+            "Endure": "58",
+            "Drain Punch": "60",
+            "Bug Buzz": "62",
+            "Giga Impact": "68",
+            "Flash": "70",
+            "Swords Dance": "75",
+            "Sleep Talk": "82",
+            "Swagger": "87",
+            "U-turn": "89",
+            "Substitute": "90",
+            "Strength": "96",
+            "Rock Smash": "98"
+        }
+    },
+    "entries": {
+        "Ledian": [
+            "When the stars flicker in the night sky, it flutters about, scattering a glowing powder.",
+            "The star patterns on its back grow larger or smaller depending on the number of stars in the night sky.",
+            "In the daytime when it gets warm, it curls up inside a big leaf and drifts off into a deep slumber.",
+            "It is said that in lands with clean air, where the stars fill the sky, there live LEDIAN in countless numbers. There is a good reason for this - the pok\u00e9mon uses the light of the stars as its energy.",
+            "The star patterns on its back grow larger or smaller depending on the number of stars in the night sky.",
+            "When the stars flicker in the night sky, it flutters about, scattering a glowing powder.",
+            "It is said that in lands with clean air, where the stars fill the sky, there live many LEDIAN. For good reason, they use the light of the stars as energy.",
+            "It uses starlight as energy. When more stars appear at night, the patterns on its back grow larger.",
+            "When the stars flicker in the night sky, it flutters about, scattering a glowing powder.",
+            "The spot patterns on its back grow larger or smaller depending on the number of stars in the night sky.",
+            "It uses starlight as energy. When more stars appear at night, the patterns on its back grow larger.",
+            "When the stars flicker in the night sky, it flutters about, scattering a glowing powder.",
+            "The spot patterns on its back grow larger or smaller depending on the number of stars in the night sky.",
+            "It is said that in lands with clean air, where the stars fill the sky, there live Ledian in countless numbers. There is a good reason for this\u2014the Pok\u00e9mon uses the light of the stars as its energy.",
+            "While it\u2019s believed that starlight provides it with energy, this Pok\u00e9mon also loves to eat berries. In the daytime, it curls up in the grass to sleep.",
+            "In battle, it throws punches with all four arms. The power of each individual blow is piddly, so it aims to win by quantity rather than quality.",
+            "It\u2019s said that the patterns on its back are related to the stars in the night sky, but the details of that relationship remain unclear.",
+            "It flies through the night sky, sprinkling sparkly dust. According to some, if that dust sticks to you, good things will happen to you.",
+            "It uses starlight as energy. When more stars appear at night, the patterns on its back grow larger."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787887520792717/166.png",
+    "discord_sprite": "<:P166:1132120039894548611>"
+}

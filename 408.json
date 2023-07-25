@@ -1,0 +1,194 @@
+{
+    "alt-version(s)": [],
+    "name": "Cranidos",
+    "Cranidos": {
+        "pokedex_data": {
+            "National No.": "0408",
+            "Type": [
+                "Rock"
+            ],
+            "Species": "Head Butt Poke\u0301mon",
+            "Height": "0.9 m (2\u203211\u2032\u2032)",
+            "Weight": "31.5 kg (69.4 lbs)",
+            "Abilities": {
+                "Mold Breaker": {
+                    "href": "/ability/mold-breaker",
+                    "effect": "Moves can be used regardless of Abilities.",
+                    "hidden": false
+                },
+                "Sheer Force": {
+                    "href": "/ability/sheer-force",
+                    "effect": "Removes added effects to increase move damage.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "70",
+            "Growth Rate": "Erratic"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "67",
+                "Min": "244",
+                "Max": "338"
+            },
+            "Attack": {
+                "Base": "125",
+                "Min": "229",
+                "Max": "383"
+            },
+            "Defense": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Atk": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Sp. Def": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Speed": {
+                "Base": "58",
+                "Min": "108",
+                "Max": "236"
+            },
+            "Total": "350"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Grass": "super-effective",
+                "Fighting": "super-effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Cranidos",
+                    "nationalNo": "#0408",
+                    "type": [
+                        "Rock"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Rampardos",
+                    "nationalNo": "#0409",
+                    "type": [
+                        "Rock"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 30)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Headbutt": "1",
+            "Leer": "1",
+            "Focus Energy": "6",
+            "Rock Polish": "10",
+            "Take Down": "15",
+            "Scary Face": "19",
+            "Assurance": "24",
+            "Swords Dance": "28",
+            "Ancient Power": "33",
+            "Zen Headbutt": "37",
+            "Screech": "42",
+            "Head Smash": "46"
+        },
+        "egg": {
+            "Crunch": null,
+            "Curse": null,
+            "Double-Edge": null,
+            "Hammer Arm": null,
+            "Iron Head": null,
+            "Leer": null,
+            "Slam": null,
+            "Stomp": null,
+            "Thrash": null,
+            "Whirlwind": null
+        },
+        "tm": {
+            "Roar": "05",
+            "Sunny Day": "11",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Iron Tail": "23",
+            "Thunderbolt": "24",
+            "Thunder": "25",
+            "Earthquake": "26",
+            "Dig": "28",
+            "Double Team": "32",
+            "Shock Wave": "34",
+            "Flamethrower": "35",
+            "Sandstorm": "37",
+            "Fire Blast": "38",
+            "Rock Tomb": "39",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Fling": "56",
+            "Endure": "58",
+            "Dragon Pulse": "59",
+            "Payback": "66",
+            "Rock Polish": "69",
+            "Stone Edge": "71",
+            "Swords Dance": "75",
+            "Stealth Rock": "76",
+            "Rock Slide": "80",
+            "Sleep Talk": "82",
+            "Bulldoze": "83",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Strength": "96",
+            "Rock Smash": "98",
+            "Rock Climb": "100"
+        }
+    },
+    "entries": {
+        "Cranidos": [
+            "It lived in jungles around 100 million years ago. Its skull is as hard as iron.",
+            "It was resurrected from an iron ball-like fossil. It downs prey with its head butts.",
+            "A lifelong jungle dweller from 100 million years ago, it would snap obstructing trees with head butts.",
+            "CRANIDOS toughen up their already rock-hard heads by headbutting one another.",
+            "A lifelong jungle dweller from 100 million years ago, it would snap obstructing trees with head butts.",
+            "It was resurrected from an iron ball-like fossil. It downs prey with its headbutts.",
+            "A lifelong jungle dweller from 100 million years ago, it would snap obstructing trees with headbutts.",
+            "It lived in jungles around a hundred million years ago. It used its skillful headbutts to combat Aerodactyl.",
+            "In rock layers where Cranidos fossils are found, the fossilized trunks of trees snapped in two are also often found.",
+            "A primeval Pok\u00e9mon, it possesses a hard and sturdy skull, lacking any intelligence within.",
+            "Its hard skull is its distinguishing feature. It snapped trees by headbutting them, and then it fed on their ripe berries.",
+            "It lived in jungles around 100 million years ago. Its skull is as hard as iron.",
+            "It was resurrected from an iron-ball-like fossil. It downs prey with its headbutts.",
+            "An incredibly rare sight. They duel each other by ramming their heads together, and the resulting sound echoes throughout the area like the pealing of a bell."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789784327667784/408.png",
+    "discord_sprite": "<:P408:1132130686925549618>"
+}

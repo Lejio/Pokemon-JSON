@@ -1,0 +1,200 @@
+{
+    "alt-version(s)": [],
+    "name": "Hoothoot",
+    "Hoothoot": {
+        "pokedex_data": {
+            "National No.": "0163",
+            "Type": [
+                "Normal",
+                "Flying"
+            ],
+            "Species": "Owl Poke\u0301mon",
+            "Height": "0.7 m (2\u203204\u2032\u2032)",
+            "Weight": "21.2 kg (46.7 lbs)",
+            "Abilities": {
+                "Insomnia": {
+                    "href": "/ability/insomnia",
+                    "effect": "Prevents the Pok\u00e9mon from falling asleep.",
+                    "hidden": false
+                },
+                "Keen Eye": {
+                    "href": "/ability/keen-eye",
+                    "effect": "Prevents other Pok\u00e9mon from lowering accuracy.",
+                    "hidden": false
+                },
+                "Tinted Lens": {
+                    "href": "/ability/tinted-lens",
+                    "effect": "Powers up \u201cnot very effective\u201d moves.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 HP",
+            "Catch rate": "255",
+            "BaseFriendship": "50",
+            "Base Exp.": "52",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "60",
+                "Min": "230",
+                "Max": "324"
+            },
+            "Attack": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Defense": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Sp. Atk": {
+                "Base": "36",
+                "Min": "69",
+                "Max": "188"
+            },
+            "Sp. Def": {
+                "Base": "56",
+                "Min": "105",
+                "Max": "232"
+            },
+            "Speed": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Total": "262"
+        },
+        "defense_stats": {
+            "default": {
+                "Electric": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Ground": "no effect",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Hoothoot",
+                    "nationalNo": "#0163",
+                    "type": [
+                        "Normal",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Noctowl",
+                    "nationalNo": "#0164",
+                    "type": [
+                        "Normal",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 20)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Growl": "1",
+            "Peck": "1",
+            "Tackle": "3",
+            "Echoed Voice": "6",
+            "Confusion": "9",
+            "Reflect": "12",
+            "Psycho Shift": "15",
+            "Air Slash": "18",
+            "Extrasensory": "21",
+            "Take Down": "24",
+            "Uproar": "27",
+            "Roost": "30",
+            "Moonblast": "33",
+            "Hypnosis": "36",
+            "Dream Eater": "39"
+        },
+        "egg": {
+            "Agility": null,
+            "Feather Dance": null,
+            "Hurricane": null,
+            "Mean Look": null,
+            "Night Shade": null,
+            "Sky Attack": null,
+            "Supersonic": null,
+            "Whirlwind": null,
+            "Wing Attack": null
+        },
+        "tm": {
+            "Calm Mind": "04",
+            "Work Up": "10",
+            "Sunny Day": "11",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Psychic": "29",
+            "Shadow Ball": "30",
+            "Double Team": "32",
+            "Reflect": "33",
+            "Aerial Ace": "40",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Steel Wing": "47",
+            "Roost": "51",
+            "Endure": "58",
+            "Nasty Plot": "63",
+            "Recycle": "67",
+            "Psych Up": "77",
+            "Sleep Talk": "82",
+            "Dream Eater": "85",
+            "Swagger": "87",
+            "Pluck": "88",
+            "Substitute": "90",
+            "Fly": "94",
+            "Defog": "97"
+        }
+    },
+    "entries": {
+        "Hoothoot": [
+            "It always stands on one foot. It changes feet so fast, the movement can rarely be seen.",
+            "It has a perfect sense of time. Whatever happens, it keeps rhythm by precisely tilting its head in time.",
+            "It begins to hoot at the same time every day. Some trainers use them in place of clocks.",
+            "HOOTHOOT has an internal organ that senses and tracks the earth\u2019s rotation. Using this special organ, this pok\u00e9mon begins hooting at precisely the same time every day.",
+            "It has a perfect sense of time. Whatever happens, it keeps rhythm by precisely tilting its head in time.",
+            "It always stands on one foot. It changes feet so fast, the movement can rarely be seen.",
+            "It has an internal organ that senses the earth\u2019s rotation. Using this special organ, a HOOTHOOT begins hooting at precisely the same time every day.",
+            "It always stands on one foot. Even when attacked, it does not brace itself using both feet.",
+            "It switches its standing foot so quickly, it can\u2019t be seen. It cries at the same time every day.",
+            "It marks time precisely. Some countries consider it to be a wise friend, versed in the world\u2019s ways.",
+            "It always stands on one foot. It changes feet so fast, the movement can rarely be seen.",
+            "It has a perfect sense of time. Whatever happens, it keeps rhythm by precisely tilting its head in time.",
+            "It marks time precisely. Some countries consider it to be a wise friend, versed in the world\u2019s ways.",
+            "It has a perfect sense of time. Whatever happens, it keeps rhythm by precisely tilting its head in time.",
+            "It always stands on one foot. It changes feet so fast, the movement can rarely be seen.",
+            "Hoothoot has an internal organ that senses and tracks the earth\u2019s rotation. Using this special organ, this Pok\u00e9mon begins hooting at precisely the same time every day.",
+            "Every day, it tilts its head in the same rhythm. A long time ago, people raised these Pok\u00e9mon to serve as clocks.",
+            "It cries out at the same time every day. A long time ago, people cherished it and considered it a divine messenger sent to tell the time.",
+            "It always stands on one foot. It changes feet so fast, the movement can rarely be seen.",
+            "It begins to hoot at the same time every day. Some Trainers use them in place of clocks.",
+            "It always stands on one foot. Even when attacked, it does not brace itself using both feet.",
+            "It switches its standing foot so quickly that the switch can\u2019t be seen. It cries at the same time every day."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787863885881344/163.png",
+    "discord_sprite": "<:P163:1132119907622998036>"
+}

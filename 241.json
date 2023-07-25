@@ -1,0 +1,188 @@
+{
+    "alt-version(s)": [],
+    "name": "Miltank",
+    "Miltank": {
+        "pokedex_data": {
+            "National No.": "0241",
+            "Type": [
+                "Normal"
+            ],
+            "Species": "Milk Cow Poke\u0301mon",
+            "Height": "1.2 m (3\u203211\u2032\u2032)",
+            "Weight": "75.5 kg (166.4 lbs)",
+            "Abilities": {
+                "Thick Fat": {
+                    "href": "/ability/thick-fat",
+                    "effect": "Ups resistance to Fire- and Ice-type moves.",
+                    "hidden": false
+                },
+                "Scrappy": {
+                    "href": "/ability/scrappy",
+                    "effect": "Enables moves to hit Ghost-type Pok\u00e9mon.",
+                    "hidden": false
+                },
+                "Sap Sipper": {
+                    "href": "/ability/sap-sipper",
+                    "effect": "Boosts Attack when hit by a Grass-type move.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Defense",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "172",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "0% male,100% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "95",
+                "Min": "300",
+                "Max": "394"
+            },
+            "Attack": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Defense": {
+                "Base": "105",
+                "Min": "193",
+                "Max": "339"
+            },
+            "Sp. Atk": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Def": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Speed": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Total": "490"
+        },
+        "defense_stats": {
+            "Thick Fat ability": {
+                "Fire": "not very effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Ghost": "no effect"
+            },
+            "Scrappy ability": {
+                "Fighting": "super-effective",
+                "Ghost": "no effect"
+            },
+            "Sap Sipper ability": {
+                "Grass": "no effect",
+                "Fighting": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Growl": "1",
+            "Tackle": "1",
+            "Rollout": "5",
+            "Defense Curl": "10",
+            "Stomp": "15",
+            "Heal Bell": "20",
+            "Headbutt": "25",
+            "Zen Headbutt": "30",
+            "Milk Drink": "35",
+            "Body Slam": "40",
+            "Play Rough": "45",
+            "Charm": "50",
+            "High Horsepower": "55"
+        },
+        "egg": {
+            "Belch": null,
+            "Curse": null,
+            "Double-Edge": null,
+            "Hammer Arm": null,
+            "Helping Hand": null,
+            "Present": null,
+            "Reversal": null,
+            "Seismic Toss": null
+        },
+        "tm": {
+            "Focus Punch": "01",
+            "Water Pulse": "03",
+            "Work Up": "10",
+            "Sunny Day": "11",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Solar Beam": "22",
+            "Iron Tail": "23",
+            "Thunderbolt": "24",
+            "Thunder": "25",
+            "Earthquake": "26",
+            "Shadow Ball": "30",
+            "Brick Break": "31",
+            "Double Team": "32",
+            "Shock Wave": "34",
+            "Sandstorm": "37",
+            "Rock Tomb": "39",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Focus Blast": "52",
+            "Fling": "56",
+            "Endure": "58",
+            "Giga Impact": "68",
+            "Thunder Wave": "73",
+            "Gyro Ball": "74",
+            "Stealth Rock": "76",
+            "Psych Up": "77",
+            "Rock Slide": "80",
+            "Sleep Talk": "82",
+            "Bulldoze": "83",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Surf": "95",
+            "Strength": "96",
+            "Rock Smash": "98"
+        }
+    },
+    "entries": {
+        "Miltank": [
+            "Its milk is packed with nutrition, making it the ultimate beverage for the sick or weary.",
+            "If it has just had a baby, the milk it produces contains much more nutrition than usual.",
+            "In order to milk a MILTANK, one must have a knack for rhythmically pulling up and down on its udders.",
+            "MILTANK gives over five gallons of milk on a daily basis. Its sweet milk is enjoyed by children and grown-ups alike. People who can\u2019t drink milk turn it into yogurt and eat it instead.",
+            "If it has just had a baby, the milk it produces contains much more nutrition than usual.",
+            "Its milk is packed with nutrition, making it the ultimate beverage for the sick or weary.",
+            "It gives over five gallons of milk daily. Its sweet milk is enjoyed by children and grown-ups alike. People who can\u2019t drink milk turn it into yogurt and eat it instead.",
+            "It is said that kids who drink MILTANK\u2019s milk grow up to become hearty, healthy adults.",
+            "Its milk is packed with nutrition, making it the ultimate beverage for the sick or weary.",
+            "If it is around babies, the milk it produces contains much more nutrition than usual.",
+            "It is said that kids who drink Miltank\u2019s milk grow up to become hearty, healthy adults.",
+            "If it is around babies, the milk it produces contains much more nutrition than usual.",
+            "Its milk is packed with nutrition, making it the ultimate beverage for the sick or weary.",
+            "Miltank gives over five gallons of milk on a daily basis. Its sweet milk is enjoyed by children and grown-ups alike. People who can\u2019t drink milk turn it into yogurt and eat it instead.",
+            "Its milk is high in calories and packed with nutrients. Therefore, if you drink too much of it, you may wind up with a body like Miltank\u2019s.",
+            "Most people raise it for its milk, but it\u2019s quite tough and strong, so it\u2019s also well suited for battle.",
+            "It produces over five gallons of milk a day. The higher the quality of the pastures it lives in, the richer and tastier its milk becomes.",
+            "Its milk is delicious and chock-full of nutrients. However, if you drink too much, it could make your stomach hurt, so be careful.",
+            "Miltank produces highly nutritious milk, so it\u2019s been supporting the lives of people and other Pok\u00e9mon since ancient times.",
+            "This Pok\u00e9mon needs to be milked every day, or else it will fall ill. The flavor of Miltank milk changes with the seasons.",
+            "It is said that kids who drink Miltank\u2019s milk grow up to become hearty, healthy adults."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788478389161984/241.png",
+    "discord_sprite": "<:P241:1132123341994606653>"
+}

@@ -1,0 +1,253 @@
+{
+    "alt-version(s)": [],
+    "name": "Clodsire",
+    "Clodsire": {
+        "pokedex_data": {
+            "National No.": "0980",
+            "Type": [
+                "Poison",
+                "Ground"
+            ],
+            "Species": "Spiny Fish Poke\u0301mon",
+            "Height": "1.8 m (5\u203211\u2032\u2032)",
+            "Weight": "223.0 kg (491.6 lbs)",
+            "Abilities": {
+                "Poison Point": {
+                    "href": "/ability/poison-point",
+                    "effect": "Contact with the Pok\u00e9mon may poison the attacker.",
+                    "hidden": false
+                },
+                "Water Absorb": {
+                    "href": "/ability/water-absorb",
+                    "effect": "Restores HP if hit by a Water-type move.",
+                    "hidden": false
+                },
+                "Unaware": {
+                    "href": "/ability/unaware",
+                    "effect": "Ignores any stat changes in the Pok\u00e9mon.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 HP",
+            "Catch rate": "90",
+            "BaseFriendship": "50",
+            "Base Exp.": "151",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "130",
+                "Min": "370",
+                "Max": "464"
+            },
+            "Attack": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Defense": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Atk": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Sp. Def": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Speed": {
+                "Base": "20",
+                "Min": "40",
+                "Max": "152"
+            },
+            "Total": "430"
+        },
+        "defense_stats": {
+            "Poison Point ability": {
+                "Water": "super-effective",
+                "Electric": "no effect",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Fairy": "not very effective"
+            },
+            "Water Absorb ability": {
+                "Water": "no effect",
+                "Electric": "no effect",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Fairy": "not very effective"
+            },
+            "Unaware ability": {
+                "Water": "super-effective",
+                "Electric": "no effect",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Wooper",
+                    "nationalNo": "#0194",
+                    "type": [
+                        "Water",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Quagsire",
+                    "nationalNo": "#0195",
+                    "type": [
+                        "Water",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 20)",
+                "shed": null
+            }
+        ],
+        [
+            {
+                "from": {
+                    "name": "Wooper",
+                    "nationalNo": "#0194",
+                    "type": [
+                        "Poison",
+                        "Ground"
+                    ],
+                    "nickname": "Paldean Wooper"
+                },
+                "to": {
+                    "name": "Clodsire",
+                    "nationalNo": "#0980",
+                    "type": [
+                        "Poison",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 20)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Poison Sting": "1",
+            "Tail Whip": "1",
+            "Toxic Spikes": "4",
+            "Mud Shot": "8",
+            "Poison Tail": "12",
+            "Slam": "16",
+            "Yawn": "21",
+            "Poison Jab": "24",
+            "Sludge Wave": "30",
+            "Megahorn": "36",
+            "Toxic": "40",
+            "Earthquake": "48"
+        },
+        "evolution": {
+            "Amnesia": "\u2014"
+        },
+        "egg": {
+            "Acid Spray": null,
+            "After You": null,
+            "Ancient Power": null,
+            "Counter": null,
+            "Curse": null,
+            "Double Kick": null,
+            "Haze": null,
+            "Mist": null,
+            "Recover": null,
+            "Spit Up": null,
+            "Stockpile": null,
+            "Swallow": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Mud-Slap": "05",
+            "Protect": "07",
+            "Water Pulse": "11",
+            "Low Kick": "12",
+            "Acid Spray": "13",
+            "Trailblaze": "20",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Poison Tail": "26",
+            "Bulldoze": "28",
+            "Mud Shot": "35",
+            "Rock Tomb": "36",
+            "Venoshock": "45",
+            "Endure": "47",
+            "Rain Dance": "50",
+            "Sandstorm": "51",
+            "Dig": "55",
+            "Zen Headbutt": "59",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Waterfall": "77",
+            "Poison Jab": "83",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Body Press": "89",
+            "Spikes": "90",
+            "Toxic Spikes": "91",
+            "Iron Head": "99",
+            "Gunk Shot": "102",
+            "Substitute": "103",
+            "Liquidation": "110",
+            "Stealth Rock": "116",
+            "Heavy Slam": "121",
+            "Surf": "123",
+            "Amnesia": "128",
+            "Helping Hand": "130",
+            "Earth Power": "133",
+            "Hydro Pump": "142",
+            "Sludge Bomb": "148",
+            "Earthquake": "149",
+            "Stone Edge": "150",
+            "Giga Impact": "152",
+            "Hyper Beam": "163",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Clodsire": [
+            "When attacked, this Pok\u00e9mon will retaliate by sticking thick spines out from its body. It\u2019s a risky move that puts everything on the line.",
+            "It lives at the bottom of ponds and swamps. It will carry Wooper on its back and ferry them across water from one shore to the other."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131794243741040640/980.png",
+    "discord_sprite": "<:P980:1132155914091245628>"
+}

@@ -1,0 +1,343 @@
+{
+    "alt-version(s)": [],
+    "name": "Sylveon",
+    "Sylveon": {
+        "pokedex_data": {
+            "National No.": "0700",
+            "Type": [
+                "Fairy"
+            ],
+            "Species": "Intertwining Poke\u0301mon",
+            "Height": "1.0 m (3\u203203\u2032\u2032)",
+            "Weight": "23.5 kg (51.8 lbs)",
+            "Abilities": {
+                "Cute Charm": {
+                    "href": "/ability/cute-charm",
+                    "effect": "Contact with the Pok\u00e9mon may cause infatuation.",
+                    "hidden": false
+                },
+                "Pixilate": {
+                    "href": "/ability/pixilate",
+                    "effect": "Turns Normal-type moves into Fairy-type moves.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Sp. Def",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "184",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "95",
+                "Min": "300",
+                "Max": "394"
+            },
+            "Attack": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Defense": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Atk": {
+                "Base": "110",
+                "Min": "202",
+                "Max": "350"
+            },
+            "Sp. Def": {
+                "Base": "130",
+                "Min": "238",
+                "Max": "394"
+            },
+            "Speed": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Total": "525"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "not very effective",
+                "Poison": "super-effective",
+                "Bug": "not very effective",
+                "Dragon": "no effect",
+                "Dark": "not very effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Eevee",
+                    "nationalNo": "#0133",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Vaporeon",
+                    "nationalNo": "#0134",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Water Stone)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Eevee",
+                    "nationalNo": "#0133",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Jolteon",
+                    "nationalNo": "#0135",
+                    "type": [
+                        "Electric"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Thunder Stone)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Eevee",
+                    "nationalNo": "#0133",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Flareon",
+                    "nationalNo": "#0136",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Fire Stone)",
+                "shed": null
+            }
+        ],
+        [
+            {
+                "from": {
+                    "name": "Eevee",
+                    "nationalNo": "#0133",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Espeon",
+                    "nationalNo": "#0196",
+                    "type": [
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(high Friendship, Daytime)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Eevee",
+                    "nationalNo": "#0133",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Umbreon",
+                    "nationalNo": "#0197",
+                    "type": [
+                        "Dark"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(high Friendship, Nighttime)",
+                "shed": null
+            }
+        ],
+        [
+            {
+                "from": {
+                    "name": "Eevee",
+                    "nationalNo": "#0133",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Leafeon",
+                    "nationalNo": "#0470",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Leaf Stone, or level up near a Mossy Rock)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Eevee",
+                    "nationalNo": "#0133",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Glaceon",
+                    "nationalNo": "#0471",
+                    "type": [
+                        "Ice"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Ice Stone, or level up near an Icy Rock)",
+                "shed": null
+            }
+        ],
+        [
+            {
+                "from": {
+                    "name": "Eevee",
+                    "nationalNo": "#0133",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Sylveon",
+                    "nationalNo": "#0700",
+                    "type": [
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(after Fairy-type move learned, and either \u2665\u2665 Affection in Gen 6-7 or high friendship in Gen 8+)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Baton Pass": "1",
+            "Bite": "1",
+            "Charm": "1",
+            "Copycat": "1",
+            "Covet": "1",
+            "Double-Edge": "1",
+            "Growl": "1",
+            "Helping Hand": "1",
+            "Tackle": "1",
+            "Tail Whip": "1",
+            "Take Down": "1",
+            "Sand Attack": "5",
+            "Quick Attack": "10",
+            "Baby-Doll Eyes": "15",
+            "Swift": "20",
+            "Light Screen": "25",
+            "Draining Kiss": "30",
+            "Misty Terrain": "35",
+            "Skill Swap": "40",
+            "Psych Up": "45",
+            "Moonblast": "50",
+            "Last Resort": "55"
+        },
+        "evolution": {
+            "Disarming Voice": "40"
+        },
+        "egg": {
+            "Curse": null,
+            "Detect": null,
+            "Double Kick": null,
+            "Flail": null,
+            "Mud-Slap": null,
+            "Tickle": null,
+            "Wish": null,
+            "Yawn": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Charm": "02",
+            "Fake Tears": "03",
+            "Protect": "07",
+            "Disarming Voice": "19",
+            "Trailblaze": "20",
+            "Facade": "25",
+            "Swift": "32",
+            "Magical Leaf": "33",
+            "Draining Kiss": "37",
+            "Stored Power": "41",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Psyshock": "54",
+            "Dig": "55",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Reflect": "74",
+            "Light Screen": "75",
+            "Dazzling Gleam": "79",
+            "Rest": "85",
+            "Skill Swap": "98",
+            "Substitute": "103",
+            "Shadow Ball": "114",
+            "Hyper Voice": "117",
+            "Psychic": "120",
+            "Play Rough": "127",
+            "Calm Mind": "129",
+            "Helping Hand": "130",
+            "Baton Pass": "132",
+            "Misty Terrain": "139",
+            "Giga Impact": "152",
+            "Hyper Beam": "163",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Sylveon": [
+            "It sends a soothing aura from its ribbonlike feelers to calm fights.",
+            "It wraps its ribbonlike feelers around the arm of its beloved Trainer and walks with him or her.",
+            "Its ribbonlike feelers give off an aura that weakens hostility in its prey, causing them to let down their guard. Then it attacks.",
+            "When this Pok\u00e9mon sights its prey, it swirls its ribbonlike feelers as a distraction. A moment later, it pounces.",
+            "Once a fight breaks out, it will unflinchingly charge at dragon Pok\u00e9mon that are many times larger than itself.",
+            "Sylveon wraps its ribbonlike feelers around its Trainer\u2019s arm because this touch enables it to read its Trainer\u2019s feelings.",
+            "By releasing enmity-erasing waves from its ribbonlike feelers, Sylveon stops any conflict.",
+            "There\u2019s a Galarian fairy tale that describes a beautiful Sylveon vanquishing a dreadful dragon Pok\u00e9mon.",
+            "It emits a soothing aura from its ribbon-shaped organs. It wraps these appendages around quarrelers to instantly restore calm to the situation.",
+            "This Pok\u00e9mon uses its ribbonlike feelers to send a soothing aura into its opponents, erasing their hostility.",
+            "Sylveon cuts an elegant figure as it dances lightly around, feelers fluttering, but its piercing moves aim straight for its opponents\u2019 weak spots."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792059007783014/700.png",
+    "discord_sprite": "<:P700:1132143543566217268>"
+}

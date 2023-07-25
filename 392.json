@@ -1,0 +1,242 @@
+{
+    "alt-version(s)": [],
+    "name": "Infernape",
+    "Infernape": {
+        "pokedex_data": {
+            "National No.": "0392",
+            "Type": [
+                "Fire",
+                "Fighting"
+            ],
+            "Species": "Flame Poke\u0301mon",
+            "Height": "1.2 m (3\u203211\u2032\u2032)",
+            "Weight": "55.0 kg (121.3 lbs)",
+            "Abilities": {
+                "Blaze": {
+                    "href": "/ability/blaze",
+                    "effect": "Powers up Fire-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Iron Fist": {
+                    "href": "/ability/iron-fist",
+                    "effect": "Boosts the power of punching moves.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack, 1 Sp. Atk, 1 Speed",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "240",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "76",
+                "Min": "262",
+                "Max": "356"
+            },
+            "Attack": {
+                "Base": "104",
+                "Min": "191",
+                "Max": "337"
+            },
+            "Defense": {
+                "Base": "71",
+                "Min": "132",
+                "Max": "265"
+            },
+            "Sp. Atk": {
+                "Base": "104",
+                "Min": "191",
+                "Max": "337"
+            },
+            "Sp. Def": {
+                "Base": "71",
+                "Min": "132",
+                "Max": "265"
+            },
+            "Speed": {
+                "Base": "108",
+                "Min": "198",
+                "Max": "346"
+            },
+            "Total": "534"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Dark": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Chimchar",
+                    "nationalNo": "#0390",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Monferno",
+                    "nationalNo": "#0391",
+                    "type": [
+                        "Fire",
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 14)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Monferno",
+                    "nationalNo": "#0391",
+                    "type": [
+                        "Fire",
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Infernape",
+                    "nationalNo": "#0392",
+                    "type": [
+                        "Fire",
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 36)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Close Combat": "1",
+            "Ember": "7",
+            "Facade": "1",
+            "Flamethrower": "1",
+            "Flare Blitz": "68",
+            "Leer": "1",
+            "Mach Punch": "1",
+            "Nasty Plot": "1",
+            "Scratch": "1",
+            "Slack Off": "1",
+            "Taunt": "9",
+            "Torment": "1",
+            "Power-Up Punch": "12",
+            "Fury Swipes": "16",
+            "Flame Wheel": "19",
+            "Feint": "26",
+            "U-turn": "29",
+            "Fire Spin": "42",
+            "Acrobatics": "52",
+            "Calm Mind": "58"
+        },
+        "evolution": {
+            "Close Combat": "120"
+        },
+        "egg": {
+            "Blaze Kick": null,
+            "Counter": null,
+            "Double Kick": null,
+            "Encore": null,
+            "Fake Out": null,
+            "Fire Punch": null,
+            "Focus Energy": null,
+            "Heat Wave": null,
+            "Helping Hand": null,
+            "Power-Up Punch": null,
+            "Quick Guard": null,
+            "Submission": null,
+            "Thunder Punch": null
+        },
+        "null": {
+            "Blast Burn": "150"
+        },
+        "tm": {
+            "Focus Punch": "01",
+            "Calm Mind": "04",
+            "Roar": "05",
+            "Bulk Up": "08",
+            "Work Up": "10",
+            "Sunny Day": "11",
+            "Taunt": "12",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Solar Beam": "22",
+            "Iron Tail": "23",
+            "Earthquake": "26",
+            "Low Sweep": "27",
+            "Dig": "28",
+            "Brick Break": "31",
+            "Double Team": "32",
+            "Flamethrower": "35",
+            "Fire Blast": "38",
+            "Rock Tomb": "39",
+            "Aerial Ace": "40",
+            "Torment": "41",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Overheat": "50",
+            "Focus Blast": "52",
+            "Fling": "56",
+            "Endure": "58",
+            "Will-O-Wisp": "61",
+            "Nasty Plot": "63",
+            "Shadow Claw": "65",
+            "Giga Impact": "68",
+            "Stone Edge": "71",
+            "Swords Dance": "75",
+            "Stealth Rock": "76",
+            "Rock Slide": "80",
+            "Sleep Talk": "82",
+            "Bulldoze": "83",
+            "Poison Jab": "84",
+            "Grass Knot": "86",
+            "Swagger": "87",
+            "U-turn": "89",
+            "Substitute": "90",
+            "Cut": "93",
+            "Strength": "96",
+            "Rock Smash": "98",
+            "Rock Climb": "100"
+        }
+    },
+    "entries": {
+        "Infernape": [
+            "It uses a special kind of martial arts involving all its limbs. Its fire never goes out.",
+            "Its crown of fire is indicative of its fiery nature. It is beaten by none in terms of quickness.",
+            "It uses unique fighting moves with fire on its hands and feet. It will take on any opponent.",
+            "It tosses its enemies around with agility. It uses all its limbs to fight in its own unique style.",
+            "It uses unique fighting moves with fire on its hands and feet. It will take on any opponent.",
+            "Its crown of fire is indicative of its fiery nature. It is beaten by none in terms of quickness.",
+            "It tosses its enemies around with agility. It uses all its limbs to fight in its own unique style.",
+            "It uses a special kind of martial arts involving all its limbs. Its fire never goes out.",
+            "Its crown of fire is indicative of its fiery nature. It is beaten by none in terms of quickness.",
+            "A tall, hardy Pok\u00e9mon with a dazzling appearance. It shrouds itself in flame and battles as if engaged in dance\u2014truly a sight to behold."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789662202118184/392.png",
+    "discord_sprite": "<:P392:1132129981384888441>"
+}

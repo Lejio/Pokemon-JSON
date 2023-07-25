@@ -1,0 +1,203 @@
+{
+    "alt-version(s)": [],
+    "name": "Noctowl",
+    "Noctowl": {
+        "pokedex_data": {
+            "National No.": "0164",
+            "Type": [
+                "Normal",
+                "Flying"
+            ],
+            "Species": "Owl Poke\u0301mon",
+            "Height": "1.6 m (5\u203203\u2032\u2032)",
+            "Weight": "40.8 kg (89.9 lbs)",
+            "Abilities": {
+                "Insomnia": {
+                    "href": "/ability/insomnia",
+                    "effect": "Prevents the Pok\u00e9mon from falling asleep.",
+                    "hidden": false
+                },
+                "Keen Eye": {
+                    "href": "/ability/keen-eye",
+                    "effect": "Prevents other Pok\u00e9mon from lowering accuracy.",
+                    "hidden": false
+                },
+                "Tinted Lens": {
+                    "href": "/ability/tinted-lens",
+                    "effect": "Powers up \u201cnot very effective\u201d moves.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 HP",
+            "Catch rate": "90",
+            "BaseFriendship": "50",
+            "Base Exp.": "158",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "100",
+                "Min": "310",
+                "Max": "404"
+            },
+            "Attack": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Defense": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Atk": {
+                "Base": "86",
+                "Min": "159",
+                "Max": "298"
+            },
+            "Sp. Def": {
+                "Base": "96",
+                "Min": "177",
+                "Max": "320"
+            },
+            "Speed": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Total": "452"
+        },
+        "defense_stats": {
+            "default": {
+                "Electric": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Ground": "no effect",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Hoothoot",
+                    "nationalNo": "#0163",
+                    "type": [
+                        "Normal",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Noctowl",
+                    "nationalNo": "#0164",
+                    "type": [
+                        "Normal",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 20)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Echoed Voice": "1",
+            "Growl": "1",
+            "Peck": "1",
+            "Sky Attack": "1",
+            "Tackle": "1",
+            "Confusion": "9",
+            "Reflect": "12",
+            "Psycho Shift": "15",
+            "Air Slash": "18",
+            "Extrasensory": "23",
+            "Take Down": "28",
+            "Uproar": "33",
+            "Roost": "38",
+            "Moonblast": "43",
+            "Hypnosis": "48",
+            "Dream Eater": "53"
+        },
+        "egg": {
+            "Agility": null,
+            "Feather Dance": null,
+            "Hurricane": null,
+            "Mean Look": null,
+            "Night Shade": null,
+            "Sky Attack": null,
+            "Supersonic": null,
+            "Whirlwind": null,
+            "Wing Attack": null
+        },
+        "tm": {
+            "Calm Mind": "04",
+            "Work Up": "10",
+            "Sunny Day": "11",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Psychic": "29",
+            "Shadow Ball": "30",
+            "Double Team": "32",
+            "Reflect": "33",
+            "Aerial Ace": "40",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Steel Wing": "47",
+            "Roost": "51",
+            "Endure": "58",
+            "Nasty Plot": "63",
+            "Recycle": "67",
+            "Giga Impact": "68",
+            "Psych Up": "77",
+            "Sleep Talk": "82",
+            "Dream Eater": "85",
+            "Swagger": "87",
+            "Pluck": "88",
+            "Substitute": "90",
+            "Fly": "94",
+            "Defog": "97"
+        }
+    },
+    "entries": {
+        "Noctowl": [
+            "Its eyes are specially adapted. They concentrate even faint light and enable it to see in the dark.",
+            "When it needs to think, it rotates its head 180 degrees to sharpen its intellectual power.",
+            "Its extremely soft feathers make no sound in flight. It silently sneaks up on prey without being detected.",
+            "NOCTOWL never fails at catching prey in darkness. This pok\u00e9mon owes its success to its superior vision that allows it to see in minimal light, and to its soft, supple wings that make no sound in flight.",
+            "When it needs to think, it rotates its head 180 degrees to sharpen its intellectual power.",
+            "Its eyes are specially adapted. They concentrate even faint light and enable it to see in the dark.",
+            "It unfailingly catches prey in darkness. NOCTOWL owe their success to superior vision that allows them to see in minimal light, and to their supple and silent wings.",
+            "Its eyes are special. They can pick out objects as long as there is the tiniest amount of light.",
+            "If it flips its head upside down, it\u2019s a sign that it is engaged in very complex thinking.",
+            "Its eyes are specially developed to enable it to see clearly even in murky darkness and minimal light.",
+            "Its eyes are specially adapted. They concentrate even faint light and enable it to see in the dark.",
+            "When it needs to think, it rotates its head 180 degrees to sharpen its intellectual power.",
+            "Its eyes are specially developed to enable it to see clearly even in murky darkness and minimal light.",
+            "Its eyes are specially adapted. They concentrate even faint light and enable it to see in the dark.",
+            "When it needs to think, it rotates its head 180 degrees to sharpen its intellectual power.",
+            "Noctowl never fails at catching prey in darkness. This Pok\u00e9mon owes its success to its superior vision that allows it to see in minimal light, and to its soft, supple wings that make no sound in flight.",
+            "With eyes that can see in pitch-darkness, it never lets its prey escape. Some even call it \u201cthe emperor of dark nights.\u201d",
+            "When it turns its head entirely upside down, you know it\u2019s troubled by something. If you don\u2019t leave it be, it will peck you.",
+            "Its eyes are specially developed to enable it to see clearly even in murky darkness and minimal light.",
+            "When it needs to think, it rotates its head 180 degrees to sharpen its intellectual power.",
+            "Its eyes are special. They can pick out objects as long as there is the tiniest amount of light.",
+            "If it flips its head upside down, it\u2019s a sign that it is engaged in very complex thinking."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787871938940948/164.png",
+    "discord_sprite": "<:P164:1132119952221032568>"
+}

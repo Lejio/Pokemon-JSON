@@ -1,0 +1,189 @@
+{
+    "alt-version(s)": [],
+    "name": "Smoliv",
+    "Smoliv": {
+        "pokedex_data": {
+            "National No.": "0928",
+            "Type": [
+                "Grass",
+                "Normal"
+            ],
+            "Species": "Olive Poke\u0301mon",
+            "Height": "0.3 m (1\u203200\u2032\u2032)",
+            "Weight": "6.5 kg (14.3 lbs)",
+            "Abilities": {
+                "Early Bird": {
+                    "href": "/ability/early-bird",
+                    "effect": "The Pok\u00e9mon awakens quickly from sleep.",
+                    "hidden": false
+                },
+                "Harvest": {
+                    "href": "/ability/harvest",
+                    "effect": "May create another Berry after one is used.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Sp. Atk",
+            "Catch rate": "255",
+            "BaseFriendship": "50",
+            "Base Exp.": "52",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "41",
+                "Min": "192",
+                "Max": "286"
+            },
+            "Attack": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Defense": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Sp. Atk": {
+                "Base": "58",
+                "Min": "108",
+                "Max": "236"
+            },
+            "Sp. Def": {
+                "Base": "51",
+                "Min": "96",
+                "Max": "221"
+            },
+            "Speed": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Total": "260"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "super-effective",
+                "Poison": "super-effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Bug": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Smoliv",
+                    "nationalNo": "#0928",
+                    "type": [
+                        "Grass",
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Dolliv",
+                    "nationalNo": "#0929",
+                    "type": [
+                        "Grass",
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 25)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Dolliv",
+                    "nationalNo": "#0929",
+                    "type": [
+                        "Grass",
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Arboliva",
+                    "nationalNo": "#0930",
+                    "type": [
+                        "Grass",
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 35)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Sweet Scent": "1",
+            "Tackle": "1",
+            "Absorb": "5",
+            "Growth": "7",
+            "Razor Leaf": "10",
+            "Helping Hand": "13",
+            "Flail": "16",
+            "Mega Drain": "20",
+            "Grassy Terrain": "23",
+            "Seed Bomb": "27",
+            "Energy Ball": "30",
+            "Leech Seed": "34",
+            "Terrain Pulse": "38"
+        },
+        "egg": {
+            "Memento": null,
+            "Strength Sap": null,
+            "Synthesis": null,
+            "Weather Ball": null
+        },
+        "tm": {
+            "Charm": "02",
+            "Protect": "07",
+            "Trailblaze": "20",
+            "Facade": "25",
+            "Swift": "32",
+            "Magical Leaf": "33",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Bullet Seed": "56",
+            "Sleep Talk": "70",
+            "Seed Bomb": "71",
+            "Grass Knot": "81",
+            "Rest": "85",
+            "Substitute": "103",
+            "Giga Drain": "111",
+            "Energy Ball": "119",
+            "Helping Hand": "130",
+            "Earth Power": "133",
+            "Grassy Terrain": "137",
+            "Leaf Storm": "159",
+            "Solar Beam": "168",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Smoliv": [
+            "It protects itself from enemies by emitting oil from the fruit on its head. This oil is bitter and astringent enough to make someone flinch.",
+            "This Pok\u00e9mon converts nutrients into oil, which it stores in the fruit on its head. It can easily go a whole week without eating or drinking."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793839938613289/928.png",
+    "discord_sprite": "<:P928:1132153627579002951>"
+}

@@ -1,0 +1,159 @@
+{
+    "alt-version(s)": [],
+    "name": "Buzzwole",
+    "Buzzwole": {
+        "pokedex_data": {
+            "National No.": "0794",
+            "Type": [
+                "Bug",
+                "Fighting"
+            ],
+            "Species": "Swollen Poke\u0301mon",
+            "Height": "2.4 m (7\u203210\u2032\u2032)",
+            "Weight": "333.6 kg (735.5 lbs)",
+            "Abilities": {
+                "Beast Boost": {
+                    "href": "/ability/beast-boost",
+                    "effect": "The Pok\u00e9mon boosts its most proficient stat each time it knocks out a Pok\u00e9mon.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack, 2 Defense",
+            "Catch rate": "45",
+            "BaseFriendship": "0",
+            "Base Exp.": "257",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "107",
+                "Min": "324",
+                "Max": "418"
+            },
+            "Attack": {
+                "Base": "139",
+                "Min": "254",
+                "Max": "414"
+            },
+            "Defense": {
+                "Base": "139",
+                "Min": "254",
+                "Max": "414"
+            },
+            "Sp. Atk": {
+                "Base": "53",
+                "Min": "99",
+                "Max": "225"
+            },
+            "Sp. Def": {
+                "Base": "53",
+                "Min": "99",
+                "Max": "225"
+            },
+            "Speed": {
+                "Base": "79",
+                "Min": "146",
+                "Max": "282"
+            },
+            "Total": "570"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Grass": "not very effective",
+                "Fighting": "not very effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Dark": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Harden": "1",
+            "Power-Up Punch": "1",
+            "Taunt": "5",
+            "Fell Stinger": "10",
+            "Vital Throw": "15",
+            "Bulk Up": "20",
+            "Endure": "25",
+            "Reversal": "30",
+            "Mega Punch": "35",
+            "Lunge": "40",
+            "Focus Energy": "45",
+            "Dynamic Punch": "50",
+            "Counter": "55",
+            "Hammer Arm": "60",
+            "Superpower": "65",
+            "Focus Punch": "70"
+        },
+        "egg": {
+            "Coaching": null,
+            "Dual Wingbeat": null
+        },
+        "null": {
+            "Body Slam": "01",
+            "Earthquake": "10",
+            "Focus Energy": "13",
+            "Leech Life": "18",
+            "Substitute": "20",
+            "Reversal": "21",
+            "Outrage": "24",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Taunt": "37",
+            "Superpower": "39",
+            "Bulk Up": "48",
+            "Gyro Ball": "52",
+            "Close Combat": "53",
+            "Poison Jab": "57",
+            "Iron Head": "74",
+            "Stone Edge": "75",
+            "Work Up": "85",
+            "Darkest Lariat": "93",
+            "High Horsepower": "94"
+        },
+        "tm": {
+            "Mega Punch": "00",
+            "Ice Punch": "04",
+            "Thunder Punch": "05",
+            "Giga Impact": "09",
+            "Rest": "21",
+            "Rock Slide": "22",
+            "Snore": "24",
+            "Protect": "25",
+            "Facade": "39",
+            "Revenge": "42",
+            "Brick Break": "43",
+            "Rock Tomb": "48",
+            "Bounce": "52",
+            "Payback": "57",
+            "Fling": "59",
+            "Drain Punch": "63",
+            "Low Sweep": "75",
+            "Round": "76",
+            "Bulldoze": "81",
+            "False Swipe": "94",
+            "Stomping Tantrum": "98"
+        }
+    },
+    "entries": {
+        "Buzzwole": [
+            "This Ultra Beast appeared from another world. It shows off its body, but whether that display is a boast or a threat remains unclear.",
+            "A mysterious life-form called an Ultra Beast. Witnesses saw it pulverize a dump truck with a single punch.",
+            "Although it\u2019s alien to this world and a danger here, it\u2019s apparently a common organism in the world where it normally lives.",
+            "Buzzwole goes around showing off its abnormally swollen muscles. It is one kind of Ultra Beast."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792796886519860/794.png",
+    "discord_sprite": "<:P794:1132147740118351923>"
+}

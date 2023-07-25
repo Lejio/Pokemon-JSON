@@ -1,0 +1,153 @@
+{
+    "alt-version(s)": [],
+    "name": "Blipbug",
+    "Blipbug": {
+        "pokedex_data": {
+            "National No.": "0824",
+            "Type": [
+                "Bug"
+            ],
+            "Species": "Larva Poke\u0301mon",
+            "Height": "0.4 m (1\u203204\u2032\u2032)",
+            "Weight": "8.0 kg (17.6 lbs)",
+            "Abilities": {
+                "Swarm": {
+                    "href": "/ability/swarm",
+                    "effect": "Powers up Bug-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Compound Eyes": {
+                    "href": "/ability/compound-eyes",
+                    "effect": "The Pok\u00e9mon's accuracy is boosted.",
+                    "hidden": false
+                },
+                "Telepathy": {
+                    "href": "/ability/telepathy",
+                    "effect": "Anticipates an ally's attack and dodges it.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Sp. Def",
+            "Catch rate": "255",
+            "BaseFriendship": "50",
+            "Base Exp.": "36",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "25",
+                "Min": "160",
+                "Max": "254"
+            },
+            "Attack": {
+                "Base": "20",
+                "Min": "40",
+                "Max": "152"
+            },
+            "Defense": {
+                "Base": "20",
+                "Min": "40",
+                "Max": "152"
+            },
+            "Sp. Atk": {
+                "Base": "25",
+                "Min": "49",
+                "Max": "163"
+            },
+            "Sp. Def": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Speed": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Total": "180"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Grass": "not very effective",
+                "Fighting": "not very effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Rock": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Blipbug",
+                    "nationalNo": "#0824",
+                    "type": [
+                        "Bug"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Dottler",
+                    "nationalNo": "#0825",
+                    "type": [
+                        "Bug",
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 10)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Dottler",
+                    "nationalNo": "#0825",
+                    "type": [
+                        "Bug",
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Orbeetle",
+                    "nationalNo": "#0826",
+                    "type": [
+                        "Bug",
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 30)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Struggle Bug": "1"
+        },
+        "egg": {
+            "Infestation": null,
+            "Recover": null,
+            "Sticky Web": null,
+            "Supersonic": null
+        },
+        "tm": null,
+        "null": null
+    },
+    "entries": {
+        "Blipbug": [
+            "A constant collector of information, this Pok\u00e9mon is very smart. Very strong is what it isn\u2019t.",
+            "Often found in gardens, this Pok\u00e9mon has hairs on its body that it uses to assess its surroundings."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793028441444373/824.png",
+    "discord_sprite": "<:P824:1132149056043495495>"
+}

@@ -1,0 +1,270 @@
+{
+    "alt-version(s)": [],
+    "name": "Jigglypuff",
+    "Jigglypuff": {
+        "pokedex_data": {
+            "National No.": "0039",
+            "Type": [
+                "Normal",
+                "Fairy"
+            ],
+            "Species": "Balloon Poke\u0301mon",
+            "Height": "0.5 m (1\u203208\u2032\u2032)",
+            "Weight": "5.5 kg (12.1 lbs)",
+            "Abilities": {
+                "Cute Charm": {
+                    "href": "/ability/cute-charm",
+                    "effect": "Contact with the Pok\u00e9mon may cause infatuation.",
+                    "hidden": false
+                },
+                "Competitive": {
+                    "href": "/ability/competitive",
+                    "effect": "Sharply raises Special Attack when the Pok\u00e9mon's stats are lowered.",
+                    "hidden": false
+                },
+                "Friend Guard": {
+                    "href": "/ability/friend-guard",
+                    "effect": "Reduces damage done to allies.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 HP",
+            "Catch rate": "170",
+            "BaseFriendship": "50",
+            "Base Exp.": "95",
+            "Growth Rate": "Fast"
+        },
+        "breeding_data": {
+            "Gender": "25% male,75% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "115",
+                "Min": "340",
+                "Max": "434"
+            },
+            "Attack": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Defense": {
+                "Base": "20",
+                "Min": "40",
+                "Max": "152"
+            },
+            "Sp. Atk": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Sp. Def": {
+                "Base": "25",
+                "Min": "49",
+                "Max": "163"
+            },
+            "Speed": {
+                "Base": "20",
+                "Min": "40",
+                "Max": "152"
+            },
+            "Total": "270"
+        },
+        "defense_stats": {
+            "default": {
+                "Poison": "super-effective",
+                "Bug": "not very effective",
+                "Ghost": "no effect",
+                "Dragon": "no effect",
+                "Dark": "not very effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Igglybuff",
+                    "nationalNo": "#0174",
+                    "type": [
+                        "Normal",
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Jigglypuff",
+                    "nationalNo": "#0039",
+                    "type": [
+                        "Normal",
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(high Friendship)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Jigglypuff",
+                    "nationalNo": "#0039",
+                    "type": [
+                        "Normal",
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Wigglytuff",
+                    "nationalNo": "#0040",
+                    "type": [
+                        "Normal",
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Moon Stone)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Charm": "1",
+            "Copycat": "1",
+            "Defense Curl": "1",
+            "Disable": "1",
+            "Disarming Voice": "1",
+            "Pound": "1",
+            "Sing": "1",
+            "Sweet Kiss": "1",
+            "Echoed Voice": "4",
+            "Covet": "8",
+            "Spit Up": "12",
+            "Stockpile": "12",
+            "Swallow": "12",
+            "Round": "16",
+            "Rest": "20",
+            "Body Slam": "24",
+            "Mimic": "28",
+            "Gyro Ball": "32",
+            "Hyper Voice": "36",
+            "Double-Edge": "44"
+        },
+        "egg": {
+            "Covet": null,
+            "Gravity": null,
+            "Heal Pulse": null,
+            "Last Resort": null,
+            "Perish Song": null,
+            "Present": null,
+            "Rollout": null,
+            "Wish": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Charm": "02",
+            "Fake Tears": "03",
+            "Protect": "07",
+            "Water Pulse": "11",
+            "Thief": "18",
+            "Disarming Voice": "19",
+            "Trailblaze": "20",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Swift": "32",
+            "Magical Leaf": "33",
+            "Icy Wind": "34",
+            "Draining Kiss": "37",
+            "Stored Power": "41",
+            "Fling": "43",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Sandstorm": "51",
+            "Psyshock": "54",
+            "Dig": "55",
+            "Brick Break": "58",
+            "Zen Headbutt": "59",
+            "Body Slam": "66",
+            "Fire Punch": "67",
+            "Thunder Punch": "68",
+            "Ice Punch": "69",
+            "Sleep Talk": "70",
+            "Drain Punch": "73",
+            "Reflect": "74",
+            "Light Screen": "75",
+            "Dazzling Gleam": "79",
+            "Metronome": "80",
+            "Grass Knot": "81",
+            "Thunder Wave": "82",
+            "Rest": "85",
+            "Taunt": "87",
+            "Body Press": "89",
+            "Dark Pulse": "94",
+            "Skill Swap": "98",
+            "Substitute": "103",
+            "Shadow Ball": "114",
+            "Stealth Rock": "116",
+            "Hyper Voice": "117",
+            "Energy Ball": "119",
+            "Psychic": "120",
+            "Encore": "122",
+            "Ice Spinner": "124",
+            "Flamethrower": "125",
+            "Thunderbolt": "126",
+            "Play Rough": "127",
+            "Amnesia": "128",
+            "Calm Mind": "129",
+            "Helping Hand": "130",
+            "Baton Pass": "132",
+            "Ice Beam": "135",
+            "Misty Terrain": "139",
+            "Nasty Plot": "140",
+            "Fire Blast": "141",
+            "Blizzard": "143",
+            "Wild Charge": "147",
+            "Thunder": "166",
+            "Solar Beam": "168",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Jigglypuff": [
+            "When its huge eyes light up, it sings a mysteriously soothing melody that lulls its enemies to sleep.",
+            "Uses its alluring eyes to enrapture its foe. It then sings a pleasing melody that lulls the foe to sleep.",
+            "If it inflates to SING a lullaby, it can perform longer and cause sure drowsiness in its audience.",
+            "Looking into its cute, round eyes causes it to sing a relaxing melody, inducing its enemies to sleep.",
+            "It rolls its cute eyes as it sings a soothing lullaby. Its gentle song puts anyone who hears it to sleep.",
+            "JIGGLYPUFF\u2019s vocal chords can freely adjust the wavelength of its voice. This pok\u00e9mon uses this ability to sing at precisely the right wavelength to make its foes most drowsy.",
+            "When this pok\u00e9mon sings, it never pauses to breathe. If it is in a battle against an opponent that does not easily fall asleep, JIGGLYPUFF cannot breathe, endangering its life.",
+            "It captivates foes with its huge, round eyes, then lulls them to sleep by singing a soothing melody.",
+            "When its huge eyes waver, it sings a mysteriously soothing melody that lulls its enemies to sleep.",
+            "Nothing can avoid falling asleep hearing a JIGGLYPUFF\u2019s song. The sound waves of its singing voice match the brain waves of someone in a deep sleep.",
+            "When it wavers its big, round eyes, it begins singing a lullaby that makes everyone drowsy.",
+            "If it inflates to sing a lullaby, it can perform longer and cause sure drowsiness in its audience.",
+            "Looking into its cute, round eyes causes it to sing a relaxing melody, inducing its enemies to sleep.",
+            "When it wavers its big, round eyes, it begins singing a lullaby that makes everyone drowsy.",
+            "Looking into its cute, round eyes makes it start singing a song so pleasant listeners can\u2019t help but fall asleep.",
+            "It captivates foes with its huge, round eyes, then lulls them to sleep by singing a soothing melody.",
+            "If it inflates to sing a lullaby, it can perform longer and cause sure drowsiness in its audience.",
+            "Jigglypuff\u2019s vocal cords can freely adjust the wavelength of its voice. This Pok\u00e9mon uses this ability to sing at precisely the right wavelength to make its foes most drowsy.",
+            "When this Pok\u00e9mon sings, it never pauses to breathe. If it is in a battle against an opponent that does not easily fall asleep, Jigglypuff cannot breathe, endangering its life.",
+            "It hugely inflates its stomach and sings a mysterious melody. If you hear this melody, you\u2019ll become sleepy right away.",
+            "Jigglypuff possess a vocal range that exceeds 12 octaves, but each individual\u2019s singing skill depends on its own effort.",
+            "Recordings of Jigglypuff\u2019s strange lullabies can be purchased from department stores. These CDs can be found near the bedding area.",
+            "The songs they sing are totally different depending on the region they live in. Some even sound like they\u2019re shouting!",
+            "Uses its cute round eyes to enrapture its foe. It then sings a pleasing melody that lulls the foe to sleep.",
+            "Jigglypuff has top-notch lung capacity, even by comparison to other Pok\u00e9mon. It won\u2019t stop singing its lullabies until its foes fall asleep.",
+            "By freely changing the wavelength of its voice, Jigglypuff sings a mysterious melody sure to make any listener sleepy.",
+            "When it wavers its big, round eyes, it begins singing a lullaby that makes everyone drowsy.",
+            "When its huge eyes waver, it sings a mysteriously soothing melody that lulls its enemies to sleep.",
+            "If it inflates to sing a lullaby, it can perform longer and cause sure drowsiness in its audience."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131786893651087392/39.png",
+    "discord_sprite": "<:P39:1131973608835653662>"
+}

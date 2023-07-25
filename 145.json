@@ -1,0 +1,308 @@
+{
+    "alt-version(s)": [
+        "Galarian Zapdos"
+    ],
+    "name": "Zapdos",
+    "Zapdos": {
+        "pokedex_data": {
+            "National No.": "0145",
+            "Type": [
+                "Electric",
+                "Flying"
+            ],
+            "Species": "Electric Poke\u0301mon",
+            "Height": "1.6 m (5\u203203\u2032\u2032)",
+            "Weight": "52.6 kg (116.0 lbs)",
+            "Abilities": {
+                "Pressure": {
+                    "href": "/ability/pressure",
+                    "effect": "The Pok\u00e9mon raises the foe's PP usage.",
+                    "hidden": false
+                },
+                "Static": {
+                    "href": "/ability/static",
+                    "effect": "Contact with the Pok\u00e9mon may cause paralysis.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Sp. Atk",
+            "Catch rate": "3",
+            "BaseFriendship": "35",
+            "Base Exp.": "290",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "90",
+                "Min": "290",
+                "Max": "384"
+            },
+            "Attack": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Defense": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Sp. Atk": {
+                "Base": "125",
+                "Min": "229",
+                "Max": "383"
+            },
+            "Sp. Def": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Speed": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Total": "580"
+        },
+        "defense_stats": {
+            "default": {
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Ground": "no effect",
+                "Flying": "not very effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "Galarian Zapdos": {
+        "pokedex_data": {
+            "National No.": "0145",
+            "Type": [
+                "Fighting",
+                "Flying"
+            ],
+            "Species": "Strong Legs Poke\u0301mon",
+            "Height": "1.6 m (5\u203203\u2032\u2032)",
+            "Weight": "58.2 kg (128.3 lbs)",
+            "Abilities": {
+                "Defiant": {
+                    "href": "/ability/defiant",
+                    "effect": "Sharply raises Attack when the Pok\u00e9mon's stats are lowered.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Attack",
+            "Catch rate": "3",
+            "BaseFriendship": "35",
+            "Base Exp.": "290",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "90",
+                "Min": "290",
+                "Max": "384"
+            },
+            "Attack": {
+                "Base": "125",
+                "Min": "229",
+                "Max": "383"
+            },
+            "Defense": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Sp. Atk": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Sp. Def": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Speed": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Total": "580"
+        },
+        "defense_stats": {
+            "default": {
+                "Electric": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Ground": "no effect",
+                "Flying": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Dark": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "Zapdos": {
+            "moves": {
+                "Peck": "1",
+                "Thunder Wave": "1",
+                "Thunder Shock": "5",
+                "Light Screen": "10",
+                "Pluck": "15",
+                "Agility": "20",
+                "Ancient Power": "25",
+                "Charge": "30",
+                "Drill Peck": "35",
+                "Roost": "40",
+                "Discharge": "45",
+                "Rain Dance": "50",
+                "Thunder": "55",
+                "Detect": "60",
+                "Magnetic Flux": "65",
+                "Zap Cannon": "70"
+            },
+            "tm": {
+                "Take Down": "01",
+                "Agility": "04",
+                "Protect": "07",
+                "Acrobatics": "14",
+                "Facade": "25",
+                "Aerial Ace": "27",
+                "Swift": "32",
+                "Air Cutter": "40",
+                "Endure": "47",
+                "Volt Switch": "48",
+                "Sunny Day": "49",
+                "Rain Dance": "50",
+                "Sandstorm": "51",
+                "U-turn": "60",
+                "Sleep Talk": "70",
+                "Electro Ball": "72",
+                "Light Screen": "75",
+                "Thunder Wave": "82",
+                "Rest": "85",
+                "Eerie Impulse": "96",
+                "Fly": "97",
+                "Substitute": "103",
+                "Tailwind": "113",
+                "Heat Wave": "118",
+                "Thunderbolt": "126",
+                "Helping Hand": "130",
+                "Baton Pass": "132",
+                "Electric Terrain": "136",
+                "Wild Charge": "147",
+                "Giga Impact": "152",
+                "Hurricane": "160",
+                "Hyper Beam": "163",
+                "Brave Bird": "164",
+                "Thunder": "166",
+                "Tera Blast": "171"
+            }
+        },
+        "Galarian Zapdos": {
+            "moves": {
+                "Focus Energy": "1",
+                "Peck": "1",
+                "Rock Smash": "5",
+                "Light Screen": "10",
+                "Pluck": "15",
+                "Agility": "20",
+                "Ancient Power": "25",
+                "Brick Break": "30",
+                "Drill Peck": "35",
+                "Quick Guard": "40",
+                "Thunderous Kick": "45",
+                "Bulk Up": "50",
+                "Counter": "55",
+                "Detect": "60",
+                "Close Combat": "65",
+                "Reversal": "70"
+            },
+            "tm": {
+                "Take Down": "01",
+                "Agility": "04",
+                "Scary Face": "06",
+                "Protect": "07",
+                "Low Kick": "12",
+                "Acrobatics": "14",
+                "Trailblaze": "20",
+                "Facade": "25",
+                "Aerial Ace": "27",
+                "Swift": "32",
+                "Low Sweep": "39",
+                "Endure": "47",
+                "Sunny Day": "49",
+                "Rain Dance": "50",
+                "Sandstorm": "51",
+                "Brick Break": "58",
+                "U-turn": "60",
+                "Bulk Up": "64",
+                "Sleep Talk": "70",
+                "Light Screen": "75",
+                "Stomping Tantrum": "84",
+                "Rest": "85",
+                "Taunt": "87",
+                "Fly": "97",
+                "Substitute": "103",
+                "Tailwind": "113",
+                "Helping Hand": "130",
+                "Reversal": "134",
+                "Giga Impact": "152",
+                "Hurricane": "160",
+                "Hyper Beam": "163",
+                "Brave Bird": "164",
+                "Close Combat": "167",
+                "Tera Blast": "171"
+            }
+        },
+        "egg": null
+    },
+    "entries": {
+        "Zapdos": [
+            "A legendary bird pok\u00e9mon that is said to appear from clouds while dropping enormous lightning bolts.",
+            "This legendary bird pok\u00e9mon is said to appear when the sky turns dark and lightning showers down.",
+            "This legendary bird pok\u00e9mon causes savage thunderstorms by flapping its glittering wings.",
+            "This legendary bird pok\u00e9mon is said to appear only when a thundercloud parts into two halves.",
+            "Legendary bird pok\u00e9mon. They say lightning caused by the flapping of its wings causes summer storms.",
+            "ZAPDOS is a legendary bird pok\u00e9mon that has the ability to control electricity. It usually lives in thunderclouds. The pok\u00e9mon gains power if it is stricken by lightning bolts.",
+            "One of the legendary bird pok\u00e9mon. While it is flying, it makes crackling and snapping sounds.",
+            "A legendary bird pok\u00e9mon that is said to appear from clouds while dropping enormous lightning bolts.",
+            "ZAPDOS is a legendary bird pok\u00e9mon that has the ability to control electricity. It usually lives in thunderclouds. It gains power if it is stricken by lightning bolts.",
+            "A legendary Pok\u00e9mon that is said to live in thunderclouds. It freely controls lightning bolts.",
+            "This legendary bird Pok\u00e9mon causes savage thunderstorms by flapping its glittering wings.",
+            "This legendary bird Pok\u00e9mon is said to appear only when a thundercloud parts into two halves.",
+            "A legendary Pok\u00e9mon that is said to live in thunderclouds. It freely controls lightning bolts.",
+            "A legendary bird Pok\u00e9mon that is said to appear from clouds while dropping enormous lightning bolts.",
+            "A legendary Pok\u00e9mon that is said to live in thunderclouds. It freely controls lightning bolts.",
+            "Zapdos is a legendary bird Pok\u00e9mon that has the ability to control electricity. It usually lives in thunderclouds. The Pok\u00e9mon gains power if it is stricken by lightning bolts.",
+            "This legendary bird Pok\u00e9mon is said to appear when the sky turns dark and lightning showers down.",
+            "This Pok\u00e9mon has complete control over electricity. There are tales of Zapdos nesting in the dark depths of pitch-black thunderclouds.",
+            "Zapdos is a legendary bird Pok\u00e9mon. It\u2019s said that when Zapdos rubs its feathers together, lightning will fall immediately after.",
+            "This legendary Pok\u00e9mon is said to live in thunderclouds. It freely controls lightning bolts."
+        ],
+        "Galarian Zapdos": [
+            "When its feathers rub together, they produce a crackling sound like the zapping of electricity. That\u2019s why this Pok\u00e9mon is called Zapdos.",
+            "One kick from its powerful legs will pulverize a dump truck. Supposedly, this Pok\u00e9mon runs through the mountains at over 180 mph."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787721648652308/145.png",
+    "discord_sprite": "<:P145:1132119115167973518>"
+}

@@ -1,0 +1,195 @@
+{
+    "alt-version(s)": [],
+    "name": "Hatenna",
+    "Hatenna": {
+        "pokedex_data": {
+            "National No.": "0856",
+            "Type": [
+                "Psychic"
+            ],
+            "Species": "Calm Poke\u0301mon",
+            "Height": "0.4 m (1\u203204\u2032\u2032)",
+            "Weight": "3.4 kg (7.5 lbs)",
+            "Abilities": {
+                "Healer": {
+                    "href": "/ability/healer",
+                    "effect": "May heal an ally's status conditions.",
+                    "hidden": false
+                },
+                "Anticipation": {
+                    "href": "/ability/anticipation",
+                    "effect": "Senses a foe's dangerous moves.",
+                    "hidden": false
+                },
+                "Magic Bounce": {
+                    "href": "/ability/magic-bounce",
+                    "effect": "Reflects status- changing moves.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Sp. Atk",
+            "Catch rate": "235",
+            "BaseFriendship": "50",
+            "Base Exp.": "53",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "0% male,100% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "42",
+                "Min": "194",
+                "Max": "288"
+            },
+            "Attack": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Defense": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Sp. Atk": {
+                "Base": "56",
+                "Min": "105",
+                "Max": "232"
+            },
+            "Sp. Def": {
+                "Base": "53",
+                "Min": "99",
+                "Max": "225"
+            },
+            "Speed": {
+                "Base": "39",
+                "Min": "74",
+                "Max": "194"
+            },
+            "Total": "265"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Hatenna",
+                    "nationalNo": "#0856",
+                    "type": [
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Hattrem",
+                    "nationalNo": "#0857",
+                    "type": [
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 32)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Hattrem",
+                    "nationalNo": "#0857",
+                    "type": [
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Hatterene",
+                    "nationalNo": "#0858",
+                    "type": [
+                        "Psychic",
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 42)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Confusion": "1",
+            "Play Nice": "1",
+            "Life Dew": "5",
+            "Disarming Voice": "10",
+            "Aromatic Mist": "15",
+            "Psybeam": "20",
+            "Heal Pulse": "25",
+            "Dazzling Gleam": "30",
+            "Calm Mind": "35",
+            "Psychic": "40",
+            "Healing Wish": "45"
+        },
+        "egg": {
+            "After You": null,
+            "Mystical Fire": null,
+            "Nuzzle": null,
+            "Quash": null
+        },
+        "tm": {
+            "Charm": "02",
+            "Protect": "07",
+            "Psybeam": "16",
+            "Disarming Voice": "19",
+            "Facade": "25",
+            "Swift": "32",
+            "Magical Leaf": "33",
+            "Draining Kiss": "37",
+            "Stored Power": "41",
+            "Endure": "47",
+            "Psyshock": "54",
+            "Sleep Talk": "70",
+            "Reflect": "74",
+            "Light Screen": "75",
+            "Dazzling Gleam": "79",
+            "Metronome": "80",
+            "Thunder Wave": "82",
+            "Rest": "85",
+            "Imprison": "92",
+            "Dark Pulse": "94",
+            "Skill Swap": "98",
+            "Substitute": "103",
+            "Trick": "109",
+            "Giga Drain": "111",
+            "Psychic": "120",
+            "Play Rough": "127",
+            "Calm Mind": "129",
+            "Helping Hand": "130",
+            "Baton Pass": "132",
+            "Psychic Terrain": "138",
+            "Misty Terrain": "139",
+            "Trick Room": "161",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Hatenna": [
+            "Via the protrusion on its head, it senses other creatures\u2019 emotions. If you don\u2019t have a calm disposition, it will never warm up to you.",
+            "If this Pok\u00e9mon senses a strong emotion, it will run away as fast as it can. It prefers areas without people.",
+            "Because the emotions of others constantly flow into its head, this Pok\u00e9mon prefers environments where no other creatures live.",
+            "It senses the feelings of other living creatures. Be careful not to expose it to strong emotions for too long, or it will end up exhausted."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793273447530586/856.png",
+    "discord_sprite": "<:P856:1132150462703996928>"
+}

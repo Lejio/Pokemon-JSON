@@ -1,0 +1,191 @@
+{
+    "alt-version(s)": [],
+    "name": "Araquanid",
+    "Araquanid": {
+        "pokedex_data": {
+            "National No.": "0752",
+            "Type": [
+                "Water",
+                "Bug"
+            ],
+            "Species": "Water Bubble Poke\u0301mon",
+            "Height": "1.8 m (5\u203211\u2032\u2032)",
+            "Weight": "82.0 kg (180.8 lbs)",
+            "Abilities": {
+                "Water Bubble": {
+                    "href": "/ability/water-bubble",
+                    "effect": "Halves damage from Fire-type moves, doubles power of Water-type moves used, and prevents burns.",
+                    "hidden": false
+                },
+                "Water Absorb": {
+                    "href": "/ability/water-absorb",
+                    "effect": "Restores HP if hit by a Water-type move.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Sp. Def",
+            "Catch rate": "100",
+            "BaseFriendship": "50",
+            "Base Exp.": "159",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "68",
+                "Min": "246",
+                "Max": "340"
+            },
+            "Attack": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Defense": {
+                "Base": "92",
+                "Min": "170",
+                "Max": "311"
+            },
+            "Sp. Atk": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Def": {
+                "Base": "132",
+                "Min": "242",
+                "Max": "399"
+            },
+            "Speed": {
+                "Base": "42",
+                "Min": "80",
+                "Max": "201"
+            },
+            "Total": "454"
+        },
+        "defense_stats": {
+            "Water Bubble ability": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "not very effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Rock": "super-effective",
+                "Steel": "not very effective"
+            },
+            "Water Absorb ability": {
+                "Water": "no effect",
+                "Electric": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "not very effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Rock": "super-effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Dewpider",
+                    "nationalNo": "#0751",
+                    "type": [
+                        "Water",
+                        "Bug"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Araquanid",
+                    "nationalNo": "#0752",
+                    "type": [
+                        "Water",
+                        "Bug"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 22)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Bite": "1",
+            "Bug Bite": "1",
+            "Infestation": "1",
+            "Water Gun": "1",
+            "Wide Guard": "1",
+            "Bubble Beam": "12",
+            "Aqua Ring": "16",
+            "Headbutt": "20",
+            "Crunch": "26",
+            "Soak": "32",
+            "Entrainment": "38",
+            "Lunge": "44",
+            "Liquidation": "50",
+            "Leech Life": "56",
+            "Mirror Coat": "62"
+        },
+        "egg": {
+            "Power Split": null,
+            "Spit Up": null,
+            "Sticky Web": null,
+            "Stockpile": null
+        },
+        "null": {
+            "Hydro Pump": "03",
+            "Surf": "04",
+            "Ice Beam": "05",
+            "Blizzard": "06",
+            "Waterfall": "16",
+            "Leech Life": "18",
+            "Substitute": "20",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Crunch": "32",
+            "Iron Defense": "46",
+            "Poison Jab": "57",
+            "X-Scissor": "60",
+            "Bug Buzz": "61",
+            "Scald": "84",
+            "Liquidation": "98"
+        },
+        "tm": {
+            "Reflect": "18",
+            "Safeguard": "19",
+            "Rest": "21",
+            "Snore": "24",
+            "Protect": "25",
+            "Icy Wind": "27",
+            "Giga Drain": "28",
+            "Attract": "31",
+            "Rain Dance": "33",
+            "Facade": "39",
+            "Dive": "45",
+            "Wonder Room": "71",
+            "Magic Room": "72",
+            "Round": "76"
+        }
+    },
+    "entries": {
+        "Araquanid": [
+            "It delivers headbutts with the water bubble on its head. Small Pok\u00e9mon get sucked into the bubble, where they drown.",
+            "Despite what its appearance suggests, it cares for others. If it finds vulnerable, weak Pok\u00e9mon, it protectively brings them into its water bubble.",
+            "It usually passes its time in the water. When its belly is full, it stores its subdued prey in the water bubble on its head.",
+            "It has a habit of storing things it values in its water bubble. If its Trainer doesn\u2019t watch out, Araquanid will try to put them in its bubble!",
+            "It launches water bubbles with its legs, drowning prey within the bubbles. This Pok\u00e9mon can then take its time to savor its meal.",
+            "It acts as a caretaker for Dewpider, putting them inside its bubble and letting them eat any leftover food."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792470028599326/752.png",
+    "discord_sprite": "<:P752:1132145892493889576>"
+}

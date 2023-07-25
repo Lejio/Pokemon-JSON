@@ -1,0 +1,196 @@
+{
+    "alt-version(s)": [],
+    "name": "Ledyba",
+    "Ledyba": {
+        "pokedex_data": {
+            "National No.": "0165",
+            "Type": [
+                "Bug",
+                "Flying"
+            ],
+            "Species": "Five Star Poke\u0301mon",
+            "Height": "1.0 m (3\u203203\u2032\u2032)",
+            "Weight": "10.8 kg (23.8 lbs)",
+            "Abilities": {
+                "Swarm": {
+                    "href": "/ability/swarm",
+                    "effect": "Powers up Bug-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Early Bird": {
+                    "href": "/ability/early-bird",
+                    "effect": "The Pok\u00e9mon awakens quickly from sleep.",
+                    "hidden": false
+                },
+                "Rattled": {
+                    "href": "/ability/rattled",
+                    "effect": "Bug, Ghost or Dark type moves scare it and boost its Speed.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Sp. Def",
+            "Catch rate": "255",
+            "BaseFriendship": "50",
+            "Base Exp.": "53",
+            "Growth Rate": "Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "40",
+                "Min": "190",
+                "Max": "284"
+            },
+            "Attack": {
+                "Base": "20",
+                "Min": "40",
+                "Max": "152"
+            },
+            "Defense": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Sp. Atk": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Def": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Speed": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Total": "265"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Electric": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Ground": "no effect",
+                "Flying": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Ledyba",
+                    "nationalNo": "#0165",
+                    "type": [
+                        "Bug",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Ledian",
+                    "nationalNo": "#0166",
+                    "type": [
+                        "Bug",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 18)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Tackle": "1",
+            "Supersonic": "5",
+            "Swift": "8",
+            "Light Screen": "12",
+            "Reflect": "12",
+            "Safeguard": "12",
+            "Mach Punch": "15",
+            "Roost": "19",
+            "Struggle Bug": "22",
+            "Baton Pass": "26",
+            "Agility": "29",
+            "Bug Buzz": "33",
+            "Air Slash": "36",
+            "Double-Edge": "40"
+        },
+        "egg": {
+            "Bug Bite": null,
+            "Counter": null,
+            "Encore": null,
+            "Knock Off": null,
+            "Psybeam": null,
+            "Screech": null,
+            "Tailwind": null
+        },
+        "tm": {
+            "Focus Punch": "01",
+            "Sunny Day": "11",
+            "Light Screen": "16",
+            "Protect": "17",
+            "Giga Drain": "19",
+            "Safeguard": "20",
+            "Solar Beam": "22",
+            "Dig": "28",
+            "Brick Break": "31",
+            "Double Team": "32",
+            "Reflect": "33",
+            "Aerial Ace": "40",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Roost": "51",
+            "Fling": "56",
+            "Endure": "58",
+            "Drain Punch": "60",
+            "Bug Buzz": "62",
+            "Flash": "70",
+            "Swords Dance": "75",
+            "Sleep Talk": "82",
+            "Swagger": "87",
+            "U-turn": "89",
+            "Substitute": "90"
+        }
+    },
+    "entries": {
+        "Ledyba": [
+            "It is very timid. It will be afraid to move if it is alone. But it will be active if it is in a group.",
+            "When the weather turns cold, lots of LEDYBA gather from everywhere to cluster and keep each other warm.",
+            "It is timid and clusters together with others. The fluid secreted by its feet indicates its location.",
+            "LEDYBA secretes an aromatic fluid from where its legs join its body. This fluid is used for communicating with others. This pok\u00e9mon conveys its feelings to others by altering the fluid\u2019s scent.",
+            "When the weather turns cold, numerous LEDYBA gather from everywhere to cluster and keep each other warm.",
+            "It is very timid. It will be afraid to move if it is alone. But it will be active if it is in a group.",
+            "LEDYBA communicate using a fluid that they secrete from where the legs join the body. They are said to convey feelings to others by altering the fluid\u2019s scent.",
+            "It is so timid, it can\u2019t move if it isn\u2019t with a swarm of others. It conveys its feelings with scent.",
+            "It is very timid. It will be afraid to move if it is alone. But it will be active if it is in a group.",
+            "When the weather turns cold, lots of LEDYBA gather from everywhere to cluster and keep each other warm.",
+            "It is so timid, it can\u2019t move if it isn\u2019t with a swarm of others. It conveys its feelings with scent.",
+            "When the weather turns cold, lots of Ledyba gather from everywhere to cluster and keep each other warm.",
+            "It is timid and clusters together with others. The fluid secreted by its feet indicates its location.",
+            "Ledyba secretes an aromatic fluid from where its legs join its body. This fluid is used for communicating with others. This Pok\u00e9mon conveys its feelings to others by altering the fluid\u2019s scent.",
+            "They are timid and grow uneasy when not in a swarm with others of their kind. The pattern on their backs differs slightly from one to another.",
+            "They communicate with one another using bodily fluids that give off odors. When they\u2019re angry, their odor smells sour.",
+            "This Pok\u00e9mon is very sensitive to cold. In the warmth of Alola, it appears quite lively.",
+            "These very cowardly Pok\u00e9mon join together and use Reflect to protect their nest.",
+            "It\u2019s so timid that it can\u2019t move unless it\u2019s with a swarm. It conveys its feelings through scent."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787880008781835/165.png",
+    "discord_sprite": "<:P165:1132119995757903933>"
+}

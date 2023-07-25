@@ -1,0 +1,192 @@
+{
+    "alt-version(s)": [],
+    "name": "Corvisquire",
+    "Corvisquire": {
+        "pokedex_data": {
+            "National No.": "0822",
+            "Type": [
+                "Flying"
+            ],
+            "Species": "Raven Poke\u0301mon",
+            "Height": "0.8 m (2\u203207\u2032\u2032)",
+            "Weight": "16.0 kg (35.3 lbs)",
+            "Abilities": {
+                "Keen Eye": {
+                    "href": "/ability/keen-eye",
+                    "effect": "Prevents other Pok\u00e9mon from lowering accuracy.",
+                    "hidden": false
+                },
+                "Unnerve": {
+                    "href": "/ability/unnerve",
+                    "effect": "Makes the foe nervous and unable to eat Berries.",
+                    "hidden": false
+                },
+                "Big Pecks": {
+                    "href": "/ability/big-pecks",
+                    "effect": "Protects the Pok\u00e9mon from Defense-lowering attacks.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Speed",
+            "Catch rate": "120",
+            "BaseFriendship": "50",
+            "Base Exp.": "128",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "68",
+                "Min": "246",
+                "Max": "340"
+            },
+            "Attack": {
+                "Base": "67",
+                "Min": "125",
+                "Max": "256"
+            },
+            "Defense": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Sp. Atk": {
+                "Base": "43",
+                "Min": "81",
+                "Max": "203"
+            },
+            "Sp. Def": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Speed": {
+                "Base": "77",
+                "Min": "143",
+                "Max": "278"
+            },
+            "Total": "365"
+        },
+        "defense_stats": {
+            "default": {
+                "Electric": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Ground": "no effect",
+                "Bug": "not very effective",
+                "Rock": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Rookidee",
+                    "nationalNo": "#0821",
+                    "type": [
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Corvisquire",
+                    "nationalNo": "#0822",
+                    "type": [
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 18)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Corvisquire",
+                    "nationalNo": "#0822",
+                    "type": [
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Corviknight",
+                    "nationalNo": "#0823",
+                    "type": [
+                        "Flying",
+                        "Steel"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 38)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Hone Claws": "1",
+            "Leer": "1",
+            "Peck": "1",
+            "Power Trip": "1",
+            "Fury Attack": "12",
+            "Pluck": "16",
+            "Taunt": "22",
+            "Scary Face": "28",
+            "Drill Peck": "34",
+            "Swagger": "40",
+            "Brave Bird": "46"
+        },
+        "egg": {
+            "Defog": null,
+            "Rock Smash": null,
+            "Roost": null,
+            "Sand Attack": null,
+            "Sky Attack": null,
+            "Spite": null,
+            "Tailwind": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Fake Tears": "03",
+            "Agility": "04",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Thief": "18",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Swift": "32",
+            "Air Cutter": "40",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "U-turn": "60",
+            "Air Slash": "65",
+            "Sleep Talk": "70",
+            "Rest": "85",
+            "Taunt": "87",
+            "Fly": "97",
+            "Substitute": "103",
+            "Tailwind": "113",
+            "Reversal": "134",
+            "Nasty Plot": "140",
+            "Hurricane": "160",
+            "Brave Bird": "164",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Corvisquire": [
+            "Smart enough to use tools in battle, these Pok\u00e9mon have been seen picking up rocks and flinging them or using ropes to wrap up enemies.",
+            "The lessons of many harsh battles have taught it how to accurately judge an opponent\u2019s strength.",
+            "It\u2019s said that the reason behind Corvisquire\u2019s high level of intelligence is the large size of its brain relative to those of other bird Pok\u00e9mon.",
+            "This intelligent Pok\u00e9mon will quickly learn how to use any tool it can hold in its beak or its talons."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793012729581598/822.png",
+    "discord_sprite": "<:P822:1132148967891812434>"
+}

@@ -1,0 +1,228 @@
+{
+    "alt-version(s)": [],
+    "name": "Dragapult",
+    "Dragapult": {
+        "pokedex_data": {
+            "National No.": "0887",
+            "Type": [
+                "Dragon",
+                "Ghost"
+            ],
+            "Species": "Stealth Poke\u0301mon",
+            "Height": "3.0 m (9\u203210\u2032\u2032)",
+            "Weight": "50.0 kg (110.2 lbs)",
+            "Abilities": {
+                "Clear Body": {
+                    "href": "/ability/clear-body",
+                    "effect": "Prevents other Pok\u00e9mon from lowering its stats.",
+                    "hidden": false
+                },
+                "Infiltrator": {
+                    "href": "/ability/infiltrator",
+                    "effect": "Passes through the foe's barrier and strikes.",
+                    "hidden": false
+                },
+                "Cursed Body": {
+                    "href": "/ability/cursed-body",
+                    "effect": "May disable a move used on the Pok\u00e9mon.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Speed",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "300",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "88",
+                "Min": "286",
+                "Max": "380"
+            },
+            "Attack": {
+                "Base": "120",
+                "Min": "220",
+                "Max": "372"
+            },
+            "Defense": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Sp. Atk": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Sp. Def": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Speed": {
+                "Base": "142",
+                "Min": "260",
+                "Max": "421"
+            },
+            "Total": "600"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "no effect",
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "no effect",
+                "Poison": "not very effective",
+                "Bug": "not very effective",
+                "Ghost": "super-effective",
+                "Dragon": "super-effective",
+                "Dark": "super-effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Dreepy",
+                    "nationalNo": "#0885",
+                    "type": [
+                        "Dragon",
+                        "Ghost"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Drakloak",
+                    "nationalNo": "#0886",
+                    "type": [
+                        "Dragon",
+                        "Ghost"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 50)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Drakloak",
+                    "nationalNo": "#0886",
+                    "type": [
+                        "Dragon",
+                        "Ghost"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Dragapult",
+                    "nationalNo": "#0887",
+                    "type": [
+                        "Dragon",
+                        "Ghost"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 60)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Astonish": "1",
+            "Bite": "1",
+            "Dragon Breath": "1",
+            "Infestation": "1",
+            "Quick Attack": "1",
+            "Lock-On": "6",
+            "Assurance": "12",
+            "Hex": "18",
+            "Agility": "24",
+            "Double Hit": "30",
+            "U-turn": "36",
+            "Dragon Dance": "42",
+            "Phantom Force": "48",
+            "Take Down": "54",
+            "Dragon Rush": "63",
+            "Double-Edge": "70",
+            "Last Resort": "78"
+        },
+        "evolution": {
+            "Dragon Darts": "50"
+        },
+        "egg": {
+            "Confuse Ray": null,
+            "Curse": null,
+            "Disable": null,
+            "Double Team": null,
+            "Dragon Tail": null,
+            "Sucker Punch": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Agility": "04",
+            "Protect": "07",
+            "Acrobatics": "14",
+            "Thief": "18",
+            "Pounce": "21",
+            "Facade": "25",
+            "Hex": "29",
+            "Swift": "32",
+            "Night Shade": "42",
+            "Dragon Tail": "44",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "U-turn": "60",
+            "Psychic Fangs": "63",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Reflect": "74",
+            "Light Screen": "75",
+            "Dragon Claw": "78",
+            "Thunder Wave": "82",
+            "Rest": "85",
+            "Fly": "97",
+            "Dragon Dance": "100",
+            "Substitute": "103",
+            "Will-O-Wisp": "107",
+            "Shadow Ball": "114",
+            "Dragon Pulse": "115",
+            "Surf": "123",
+            "Flamethrower": "125",
+            "Thunderbolt": "126",
+            "Helping Hand": "130",
+            "Baton Pass": "132",
+            "Fire Blast": "141",
+            "Hydro Pump": "142",
+            "Phantom Force": "151",
+            "Giga Impact": "152",
+            "Outrage": "156",
+            "Hyper Beam": "163",
+            "Thunder": "166",
+            "Solar Beam": "168",
+            "Draco Meteor": "169",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Dragapult": [
+            "When it isn\u2019t battling, it keeps Dreepy in the holes on its horns. Once a fight starts, it launches the Dreepy like supersonic missiles.",
+            "Apparently the Dreepy inside Dragapult\u2019s horns eagerly look forward to being launched out at Mach speeds.",
+            "Dragapult can make its whole body transparent by clearing its mind and focusing. Even the Dreepy in Dragapult\u2019s horns become invisible.",
+            "The fastest Dragapult of the group is always surrounded by Dreepy that want to fly at sonic speed."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793519602847814/887.png",
+    "discord_sprite": "<:P887:1132151828734287922>"
+}

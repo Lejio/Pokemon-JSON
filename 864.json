@@ -1,0 +1,196 @@
+{
+    "alt-version(s)": [],
+    "name": "Cursola",
+    "Cursola": {
+        "pokedex_data": {
+            "National No.": "0864",
+            "Type": [
+                "Ghost"
+            ],
+            "Species": "Coral Poke\u0301mon",
+            "Height": "1.0 m (3\u203203\u2032\u2032)",
+            "Weight": "0.4 kg (0.9 lbs)",
+            "Abilities": {
+                "Weak Armor": {
+                    "href": "/ability/weak-armor",
+                    "effect": "Physical attacks lower Defense and raise Speed.",
+                    "hidden": false
+                },
+                "Perish Body": {
+                    "href": "/ability/perish-body",
+                    "effect": "When hit by a move that makes direct contact, the Pok\u00e9mon and the attacker will faint after three turns unless they switch out of battle.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Sp. Atk",
+            "Catch rate": "30",
+            "BaseFriendship": "50",
+            "Base Exp.": "179",
+            "Growth Rate": "Fast"
+        },
+        "breeding_data": {
+            "Gender": "25% male,75% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "60",
+                "Min": "230",
+                "Max": "324"
+            },
+            "Attack": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Defense": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Atk": {
+                "Base": "145",
+                "Min": "265",
+                "Max": "427"
+            },
+            "Sp. Def": {
+                "Base": "130",
+                "Min": "238",
+                "Max": "394"
+            },
+            "Speed": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Total": "510"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "no effect",
+                "Fighting": "no effect",
+                "Poison": "not very effective",
+                "Bug": "not very effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Corsola",
+                    "nationalNo": "#0222",
+                    "type": [
+                        "Ghost"
+                    ],
+                    "nickname": "Galarian Corsola"
+                },
+                "to": {
+                    "name": "Cursola",
+                    "nationalNo": "#0864",
+                    "type": [
+                        "Ghost"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 38)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Astonish": "1",
+            "Disable": "1",
+            "Harden": "1",
+            "Perish Song": "1",
+            "Tackle": "1",
+            "Spite": "15",
+            "Ancient Power": "20",
+            "Hex": "25",
+            "Curse": "30",
+            "Strength Sap": "35",
+            "Power Gem": "40",
+            "Night Shade": "45",
+            "Grudge": "50",
+            "Mirror Coat": "55"
+        },
+        "egg": {
+            "Confuse Ray": null,
+            "Destiny Bond": null,
+            "Haze": null,
+            "Head Smash": null,
+            "Nature Power": null,
+            "Water Pulse": null
+        },
+        "null": {
+            "Body Slam": "01",
+            "Hydro Pump": "03",
+            "Surf": "04",
+            "Ice Beam": "05",
+            "Blizzard": "06",
+            "Earthquake": "10",
+            "Psychic": "11",
+            "Amnesia": "17",
+            "Leech Life": "18",
+            "Substitute": "20",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Shadow Ball": "33",
+            "Iron Defense": "46",
+            "Calm Mind": "49",
+            "Power Gem": "63",
+            "Earth Power": "67",
+            "Stone Edge": "75",
+            "Stealth Rock": "76",
+            "Scald": "84",
+            "Throat Chop": "95",
+            "Liquidation": "98"
+        },
+        "tm": {
+            "Pin Missile": "07",
+            "Hyper Beam": "08",
+            "Giga Impact": "09",
+            "Dig": "15",
+            "Screech": "16",
+            "Light Screen": "17",
+            "Reflect": "18",
+            "Safeguard": "19",
+            "Self-Destruct": "20",
+            "Rest": "21",
+            "Rock Slide": "22",
+            "Snore": "24",
+            "Protect": "25",
+            "Icy Wind": "27",
+            "Giga Drain": "28",
+            "Attract": "31",
+            "Sandstorm": "32",
+            "Rain Dance": "33",
+            "Sunny Day": "34",
+            "Hail": "35",
+            "Whirlpool": "36",
+            "Will-O-Wisp": "38",
+            "Facade": "39",
+            "Revenge": "42",
+            "Rock Tomb": "48",
+            "Icicle Spear": "51",
+            "Rock Blast": "54",
+            "Brine": "55",
+            "Round": "76",
+            "Hex": "77",
+            "Bulldoze": "81",
+            "Stomping Tantrum": "98"
+        }
+    },
+    "entries": {
+        "Cursola": [
+            "Its shell is overflowing with its heightened otherworldly energy. The ectoplasm serves as protection for this Pok\u00e9mon\u2019s core spirit.",
+            "Be cautious of the ectoplasmic body surrounding its soul. You\u2019ll become stiff as stone if you touch it."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793337557467226/864.png",
+    "discord_sprite": "<:P864:1132150820058693702>"
+}

@@ -1,0 +1,192 @@
+{
+    "alt-version(s)": [],
+    "name": "Accelgor",
+    "Accelgor": {
+        "pokedex_data": {
+            "National No.": "0617",
+            "Type": [
+                "Bug"
+            ],
+            "Species": "Shell Out Poke\u0301mon",
+            "Height": "0.8 m (2\u203207\u2032\u2032)",
+            "Weight": "25.3 kg (55.8 lbs)",
+            "Abilities": {
+                "Hydration": {
+                    "href": "/ability/hydration",
+                    "effect": "Heals status problems if it is raining.",
+                    "hidden": false
+                },
+                "Sticky Hold": {
+                    "href": "/ability/sticky-hold",
+                    "effect": "Protects the Pok\u00e9mon from item theft.",
+                    "hidden": false
+                },
+                "Unburden": {
+                    "href": "/ability/unburden",
+                    "effect": "Raises Speed if a held item is used.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Speed",
+            "Catch rate": "75",
+            "BaseFriendship": "50",
+            "Base Exp.": "173",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "80",
+                "Min": "270",
+                "Max": "364"
+            },
+            "Attack": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Defense": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Atk": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Sp. Def": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Speed": {
+                "Base": "145",
+                "Min": "265",
+                "Max": "427"
+            },
+            "Total": "495"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Grass": "not very effective",
+                "Fighting": "not very effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Rock": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Shelmet",
+                    "nationalNo": "#0616",
+                    "type": [
+                        "Bug"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Accelgor",
+                    "nationalNo": "#0617",
+                    "type": [
+                        "Bug"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Trade with Karrablast)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Absorb": "1",
+            "Acid": "1",
+            "Acid Armor": "1",
+            "Acid Spray": "1",
+            "Body Slam": "1",
+            "Curse": "1",
+            "Double Team": "1",
+            "Guard Swap": "1",
+            "Quick Attack": "1",
+            "Water Shuriken": "1",
+            "Yawn": "1",
+            "Mega Drain": "12",
+            "Struggle Bug": "16",
+            "Swift": "20",
+            "Agility": "24",
+            "Giga Drain": "28",
+            "Power Swap": "32",
+            "U-turn": "36",
+            "Recover": "40",
+            "Bug Buzz": "44",
+            "Final Gambit": "48",
+            "Toxic": "52"
+        },
+        "egg": {
+            "Double-Edge": null,
+            "Feint": null,
+            "Guard Split": null,
+            "Mind Reader": null
+        },
+        "null": {
+            "Body Slam": "01",
+            "Agility": "12",
+            "Leech Life": "18",
+            "Substitute": "20",
+            "Reversal": "21",
+            "Sludge Bomb": "22",
+            "Spikes": "23",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Baton Pass": "29",
+            "Encore": "30",
+            "Toxic Spikes": "54",
+            "Bug Buzz": "61",
+            "Focus Blast": "64",
+            "Energy Ball": "65",
+            "Venom Drench": "91"
+        },
+        "tm": {
+            "Hyper Beam": "08",
+            "Giga Impact": "09",
+            "Rest": "21",
+            "Snore": "24",
+            "Protect": "25",
+            "Giga Drain": "28",
+            "Attract": "31",
+            "Sandstorm": "32",
+            "Rain Dance": "33",
+            "Facade": "39",
+            "Swift": "40",
+            "Mud Shot": "53",
+            "U-turn": "56",
+            "Power Swap": "60",
+            "Guard Swap": "61",
+            "Drain Punch": "63",
+            "Venoshock": "74",
+            "Round": "76"
+        }
+    },
+    "entries": {
+        "Accelgor": [
+            "When its body dries out, it weakens. So, to prevent dehydration, it wraps itself in many layers of thin membrane.",
+            "Having removed its heavy shell, it becomes very light and can fight with ninja-like movements.",
+            "When its body dries out, it weakens. So it wraps a membrane around itself for protection while it spits poison.",
+            "Having removed its heavy shell, it becomes very light and can fight with ninja-like movements.",
+            "When its body dries out, it weakens. So, to prevent dehydration, it wraps itself in many layers of thin membrane.",
+            "It moves with blinding speed and lobs poison at foes. Featuring Accelgor as a main character is a surefire way to make a movie or comic popular.",
+            "Discarding its shell made it nimble. To keep itself from dehydrating, it wraps its body in bands of membrane."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791413173035168/617.png",
+    "discord_sprite": "<:P617:1132139895385751642>"
+}

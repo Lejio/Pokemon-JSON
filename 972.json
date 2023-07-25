@@ -1,0 +1,191 @@
+{
+    "alt-version(s)": [],
+    "name": "Houndstone",
+    "Houndstone": {
+        "pokedex_data": {
+            "National No.": "0972",
+            "Type": [
+                "Ghost"
+            ],
+            "Species": "Ghost Dog Poke\u0301mon",
+            "Height": "2.0 m (6\u203207\u2032\u2032)",
+            "Weight": "15.0 kg (33.1 lbs)",
+            "Abilities": {
+                "Sand Rush": {
+                    "href": "/ability/sand-rush",
+                    "effect": "Boosts the Pok\u00e9mon's Speed in a sandstorm.",
+                    "hidden": false
+                },
+                "Fluffy": {
+                    "href": "/ability/fluffy",
+                    "effect": "Halves damage from contact moves, but doubles damage from Fire-type moves.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "60",
+            "BaseFriendship": "50",
+            "Base Exp.": "171",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "72",
+                "Min": "254",
+                "Max": "348"
+            },
+            "Attack": {
+                "Base": "101",
+                "Min": "186",
+                "Max": "331"
+            },
+            "Defense": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Sp. Atk": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Def": {
+                "Base": "97",
+                "Min": "179",
+                "Max": "322"
+            },
+            "Speed": {
+                "Base": "68",
+                "Min": "126",
+                "Max": "258"
+            },
+            "Total": "488"
+        },
+        "defense_stats": {
+            "Sand Rush ability": {
+                "Normal": "no effect",
+                "Fighting": "no effect",
+                "Poison": "not very effective",
+                "Bug": "not very effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective"
+            },
+            "Fluffy ability": {
+                "Normal": "no effect",
+                "Fire": "super-effective",
+                "Fighting": "no effect",
+                "Poison": "not very effective",
+                "Bug": "not very effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Greavard",
+                    "nationalNo": "#0971",
+                    "type": [
+                        "Ghost"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Houndstone",
+                    "nationalNo": "#0972",
+                    "type": [
+                        "Ghost"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 30, Nighttime)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Growl": "1",
+            "Tackle": "1",
+            "Lick": "3",
+            "Bite": "6",
+            "Tail Whip": "6",
+            "Roar": "9",
+            "Headbutt": "12",
+            "Dig": "16",
+            "Rest": "24",
+            "Crunch": "28",
+            "Play Rough": "36",
+            "Helping Hand": "41",
+            "Phantom Force": "46",
+            "Charm": "51",
+            "Double-Edge": "58"
+        },
+        "evolution": {
+            "Last Respects": "50"
+        },
+        "egg": {
+            "Ally Switch": null,
+            "Destiny Bond": null,
+            "Disable": null,
+            "Howl": null,
+            "Memento": null,
+            "Shadow Sneak": null,
+            "Yawn": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Charm": "02",
+            "Mud-Slap": "05",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Fire Fang": "08",
+            "Thunder Fang": "09",
+            "Ice Fang": "10",
+            "Confuse Ray": "17",
+            "Thief": "18",
+            "Facade": "25",
+            "Bulldoze": "28",
+            "Hex": "29",
+            "Snarl": "30",
+            "Mud Shot": "35",
+            "Night Shade": "42",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Sandstorm": "51",
+            "Dig": "55",
+            "Psychic Fangs": "63",
+            "Sleep Talk": "70",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Body Press": "89",
+            "Substitute": "103",
+            "Will-O-Wisp": "107",
+            "Crunch": "108",
+            "Trick": "109",
+            "Shadow Ball": "114",
+            "Play Rough": "127",
+            "Helping Hand": "130",
+            "Phantom Force": "151",
+            "Giga Impact": "152",
+            "Hyper Beam": "163",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Houndstone": [
+            "Houndstone spends most of its time sleeping in graveyards. Among all the dog Pok\u00e9mon, this one is most loyal to its master.",
+            "A lovingly mourned Pok\u00e9mon was reborn as Houndstone. It doesn\u2019t like anyone touching the protuberance atop its head."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131794180436402226/972.png",
+    "discord_sprite": "<:P972:1132155561635487864>"
+}

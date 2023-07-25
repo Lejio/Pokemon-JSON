@@ -1,0 +1,171 @@
+{
+    "alt-version(s)": [],
+    "name": "Zekrom",
+    "Zekrom": {
+        "pokedex_data": {
+            "National No.": "0644",
+            "Type": [
+                "Dragon",
+                "Electric"
+            ],
+            "Species": "Deep Black Poke\u0301mon",
+            "Height": "2.9 m (9\u203206\u2032\u2032)",
+            "Weight": "345.0 kg (760.6 lbs)",
+            "Abilities": {
+                "Teravolt": {
+                    "href": "/ability/teravolt",
+                    "effect": "Moves can be used regardless of Abilities.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Attack",
+            "Catch rate": "3",
+            "BaseFriendship": "0",
+            "Base Exp.": "306",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "100",
+                "Min": "310",
+                "Max": "404"
+            },
+            "Attack": {
+                "Base": "150",
+                "Min": "274",
+                "Max": "438"
+            },
+            "Defense": {
+                "Base": "120",
+                "Min": "220",
+                "Max": "372"
+            },
+            "Sp. Atk": {
+                "Base": "120",
+                "Min": "220",
+                "Max": "372"
+            },
+            "Sp. Def": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Speed": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Total": "680"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Dragon": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Ancient Power": "1",
+            "Dragon Breath": "1",
+            "Noble Roar": "1",
+            "Thunder Fang": "1",
+            "Slash": "8",
+            "Crunch": "16",
+            "Zen Headbutt": "24",
+            "Dragon Claw": "32",
+            "Thunderbolt": "40",
+            "Fusion Bolt": "48",
+            "Hyper Voice": "56",
+            "Thunder": "64",
+            "Imprison": "72",
+            "Outrage": "80",
+            "Bolt Strike": "88"
+        },
+        "egg": {
+            "Dual Wingbeat": null,
+            "Rising Voltage": null,
+            "Scale Shot": null
+        },
+        "null": {
+            "Thunderbolt": "08",
+            "Thunder": "09",
+            "Psychic": "11",
+            "Substitute": "20",
+            "Outrage": "24",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Crunch": "32",
+            "Shadow Ball": "33",
+            "Hyper Voice": "42",
+            "Dragon Claw": "47",
+            "Dragon Dance": "51",
+            "Dragon Pulse": "62",
+            "Focus Blast": "64",
+            "Earth Power": "67",
+            "Zen Headbutt": "69",
+            "Flash Cannon": "70",
+            "Stone Edge": "75",
+            "Electro Ball": "80",
+            "Wild Charge": "86",
+            "Body Press": "99"
+        },
+        "tm": {
+            "Thunder Punch": "05",
+            "Fly": "06",
+            "Hyper Beam": "08",
+            "Giga Impact": "09",
+            "Thunder Wave": "14",
+            "Light Screen": "17",
+            "Reflect": "18",
+            "Safeguard": "19",
+            "Rest": "21",
+            "Rock Slide": "22",
+            "Snore": "24",
+            "Protect": "25",
+            "Steel Wing": "30",
+            "Rain Dance": "33",
+            "Facade": "39",
+            "Swift": "40",
+            "Helping Hand": "41",
+            "Imprison": "44",
+            "Weather Ball": "46",
+            "Rock Tomb": "48",
+            "Payback": "57",
+            "Fling": "59",
+            "Shadow Claw": "65",
+            "Thunder Fang": "66",
+            "Round": "76",
+            "Volt Switch": "80",
+            "Brutal Swing": "97",
+            "Breaking Swipe": "99"
+        }
+    },
+    "entries": {
+        "Zekrom": [
+            "Concealing itself in lightning clouds, it flies throughout the Unova region. It creates electricity in its tail.",
+            "This Pok\u00e9mon appears in legends. In its tail, it has a giant generator that creates electricity.",
+            "This legendary Pok\u00e9mon can scorch the world with lightning. It assists those who want to build an ideal world.",
+            "This legendary Pok\u00e9mon can scorch the world with lightning. It assists those who want to build an ideal world.",
+            "Concealing itself in lightning clouds, it flies throughout the Unova region. It creates electricity in its tail.",
+            "When the interior part of its tail spins like a motor, Zekrom can generate many bolts of lightning to blast its surroundings.",
+            "Mythology tells us that if people lose the righteousness in their hearts, their kingdoms will be razed by Zekrom\u2019s lightning."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791623202816040/644.png",
+    "discord_sprite": "<:P644:1132141078036889723>"
+}

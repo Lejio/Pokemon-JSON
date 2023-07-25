@@ -1,0 +1,161 @@
+{
+    "alt-version(s)": [],
+    "name": "Volcanion",
+    "Volcanion": {
+        "pokedex_data": {
+            "National No.": "0721",
+            "Type": [
+                "Fire",
+                "Water"
+            ],
+            "Species": "Steam Poke\u0301mon",
+            "Height": "1.7 m (5\u203207\u2032\u2032)",
+            "Weight": "195.0 kg (429.9 lbs)",
+            "Abilities": {
+                "Water Absorb": {
+                    "href": "/ability/water-absorb",
+                    "effect": "Restores HP if hit by a Water-type move.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Sp. Atk",
+            "Catch rate": "3",
+            "BaseFriendship": "100",
+            "Base Exp.": "300",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "80",
+                "Min": "270",
+                "Max": "364"
+            },
+            "Attack": {
+                "Base": "110",
+                "Min": "202",
+                "Max": "350"
+            },
+            "Defense": {
+                "Base": "120",
+                "Min": "220",
+                "Max": "372"
+            },
+            "Sp. Atk": {
+                "Base": "130",
+                "Min": "238",
+                "Max": "394"
+            },
+            "Sp. Def": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Speed": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Total": "600"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "no effect",
+                "Electric": "super-effective",
+                "Ice": "not very effective",
+                "Ground": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Fire Spin": "1",
+            "Steam Eruption": "1",
+            "Water Gun": "1",
+            "Leer": "6",
+            "Weather Ball": "12",
+            "Flame Charge": "18",
+            "Water Pulse": "24",
+            "Scary Face": "30",
+            "Incinerate": "36",
+            "Stomp": "42",
+            "Scald": "48",
+            "Take Down": "54",
+            "Haze": "60",
+            "Mist": "60",
+            "Hydro Pump": "66",
+            "Flare Blitz": "78",
+            "Overheat": "84",
+            "Explosion": "90"
+        },
+        "egg": null,
+        "tm": {
+            "Take Down": "01",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Fire Fang": "08",
+            "Thunder Fang": "09",
+            "Water Pulse": "11",
+            "Fire Spin": "24",
+            "Facade": "25",
+            "Bulldoze": "28",
+            "Mud Shot": "35",
+            "Rock Tomb": "36",
+            "Flame Charge": "38",
+            "Fling": "43",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Sandstorm": "51",
+            "Dig": "55",
+            "Brick Break": "58",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Taunt": "87",
+            "Body Press": "89",
+            "Flash Cannon": "93",
+            "Substitute": "103",
+            "Will-O-Wisp": "107",
+            "Liquidation": "110",
+            "Heat Wave": "118",
+            "Heavy Slam": "121",
+            "Flamethrower": "125",
+            "Earth Power": "133",
+            "Misty Terrain": "139",
+            "Fire Blast": "141",
+            "Hydro Pump": "142",
+            "Wild Charge": "147",
+            "Sludge Bomb": "148",
+            "Earthquake": "149",
+            "Stone Edge": "150",
+            "Giga Impact": "152",
+            "Overheat": "157",
+            "Focus Blast": "158",
+            "Hyper Beam": "163",
+            "Flare Blitz": "165",
+            "Solar Beam": "168",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Volcanion": [
+            "It lets out billows of steam and disappears into the dense fog. It\u2019s said to live in mountains where humans do not tread.",
+            "It expels its internal steam from the arms on its back. It has enough power to blow away a mountain."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792230730969138/721.png",
+    "discord_sprite": "<:P721:1132144460931797063>"
+}

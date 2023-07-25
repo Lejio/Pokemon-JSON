@@ -1,0 +1,237 @@
+{
+    "alt-version(s)": [
+        "Incarnate Forme",
+        "Therian Forme"
+    ],
+    "Incarnate Forme": {
+        "pokedex_data": {
+            "National No.": "0641",
+            "Type": [
+                "Flying"
+            ],
+            "Species": "Cyclone Poke\u0301mon",
+            "Height": "1.5 m (4\u203211\u2032\u2032)",
+            "Weight": "63.0 kg (138.9 lbs)",
+            "Abilities": {
+                "Prankster": {
+                    "href": "/ability/prankster",
+                    "effect": "Gives priority to a status move.",
+                    "hidden": false
+                },
+                "Defiant": {
+                    "href": "/ability/defiant",
+                    "effect": "Sharply raises Attack when the Pok\u00e9mon's stats are lowered.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Attack",
+            "Catch rate": "3",
+            "BaseFriendship": "90",
+            "Base Exp.": "290",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "100% male,0% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "79",
+                "Min": "268",
+                "Max": "362"
+            },
+            "Attack": {
+                "Base": "115",
+                "Min": "211",
+                "Max": "361"
+            },
+            "Defense": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Atk": {
+                "Base": "125",
+                "Min": "229",
+                "Max": "383"
+            },
+            "Sp. Def": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Speed": {
+                "Base": "111",
+                "Min": "204",
+                "Max": "353"
+            },
+            "Total": "580"
+        },
+        "defense_stats": {
+            "default": {
+                "Electric": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Ground": "no effect",
+                "Bug": "not very effective",
+                "Rock": "super-effective"
+            }
+        }
+    },
+    "Therian Forme": {
+        "pokedex_data": {
+            "National No.": "0641",
+            "Type": [
+                "Flying"
+            ],
+            "Species": "Cyclone Poke\u0301mon",
+            "Height": "1.4 m (4\u203207\u2032\u2032)",
+            "Weight": "63.0 kg (138.9 lbs)",
+            "Abilities": {
+                "Regenerator": {
+                    "href": "/ability/regenerator",
+                    "effect": "Restores a little HP when withdrawn from battle.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Speed",
+            "Catch rate": "3",
+            "BaseFriendship": "90",
+            "Base Exp.": "290",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "100% male,0% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "79",
+                "Min": "268",
+                "Max": "362"
+            },
+            "Attack": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Defense": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Sp. Atk": {
+                "Base": "110",
+                "Min": "202",
+                "Max": "350"
+            },
+            "Sp. Def": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Speed": {
+                "Base": "121",
+                "Min": "222",
+                "Max": "375"
+            },
+            "Total": "580"
+        },
+        "defense_stats": {
+            "default": {
+                "Electric": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Ground": "no effect",
+                "Bug": "not very effective",
+                "Rock": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Astonish": "1",
+            "Gust": "1",
+            "Leer": "5",
+            "Swagger": "10",
+            "Bite": "15",
+            "Air Cutter": "20",
+            "Agility": "25",
+            "Tailwind": "30",
+            "Air Slash": "35",
+            "Crunch": "40",
+            "Extrasensory": "45",
+            "Uproar": "50",
+            "Hammer Arm": "55",
+            "Rain Dance": "60",
+            "Hurricane": "65",
+            "Thrash": "70",
+            "Bleakwind Storm": "77"
+        },
+        "egg": null,
+        "tm": {
+            "Take Down": "01",
+            "Agility": "04",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Acrobatics": "14",
+            "Thief": "18",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Icy Wind": "34",
+            "Air Cutter": "40",
+            "Fling": "43",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Sandstorm": "51",
+            "Snowscape": "52",
+            "Brick Break": "58",
+            "U-turn": "60",
+            "Foul Play": "62",
+            "Bulk Up": "64",
+            "Air Slash": "65",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Metronome": "80",
+            "Grass Knot": "81",
+            "Rest": "85",
+            "Taunt": "87",
+            "Dark Pulse": "94",
+            "Fly": "97",
+            "Substitute": "103",
+            "Crunch": "108",
+            "Tailwind": "113",
+            "Heat Wave": "118",
+            "Psychic": "120",
+            "Reversal": "134",
+            "Nasty Plot": "140",
+            "Sludge Bomb": "148",
+            "Giga Impact": "152",
+            "Focus Blast": "158",
+            "Hurricane": "160",
+            "Hyper Beam": "163",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Incarnate Forme": [
+            "The lower half of its body is wrapped in a cloud of energy. It zooms through the sky at 200 mph.",
+            "Tornadus expels massive energy from its tail, causing severe storms. Its power is great enough to blow houses away.",
+            "In every direction it flies, creating winds so powerful, they blow everything away.",
+            "The lower half of its body is wrapped in a cloud of energy. It zooms through the sky at 200 mph.",
+            "Tornadus expels massive energy from its tail, causing severe storms. Its power is great enough to blow houses away.",
+            "This storm-stirring Pok\u00e9mon is said to cause the seasons to turn by whipping up the air. I suspect its humanlike form to be a false one."
+        ],
+        "Therian Forme": [
+            "An example of what is known as a \u201cform change,\u201d though I suspect this strange avian guise to be Tornadus\u2019s true form. Tornadus has been sighted crossing the ocean while in this form."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791600914288670/641.png",
+    "discord_sprite": "<:P641:1132140947120074912>"
+}

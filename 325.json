@@ -1,0 +1,218 @@
+{
+    "alt-version(s)": [],
+    "name": "Spoink",
+    "Spoink": {
+        "pokedex_data": {
+            "National No.": "0325",
+            "Type": [
+                "Psychic"
+            ],
+            "Species": "Bounce Poke\u0301mon",
+            "Height": "0.7 m (2\u203204\u2032\u2032)",
+            "Weight": "30.6 kg (67.5 lbs)",
+            "Abilities": {
+                "Thick Fat": {
+                    "href": "/ability/thick-fat",
+                    "effect": "Ups resistance to Fire- and Ice-type moves.",
+                    "hidden": false
+                },
+                "Own Tempo": {
+                    "href": "/ability/own-tempo",
+                    "effect": "Prevents the Pok\u00e9mon from becoming confused.",
+                    "hidden": false
+                },
+                "Gluttony": {
+                    "href": "/ability/gluttony",
+                    "effect": "Encourages the early use of a held Berry.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Sp. Def",
+            "Catch rate": "255",
+            "BaseFriendship": "50",
+            "Base Exp.": "66",
+            "Growth Rate": "Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "60",
+                "Min": "230",
+                "Max": "324"
+            },
+            "Attack": {
+                "Base": "25",
+                "Min": "49",
+                "Max": "163"
+            },
+            "Defense": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Sp. Atk": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Def": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Speed": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Total": "330"
+        },
+        "defense_stats": {
+            "Thick Fat ability": {
+                "Fire": "not very effective",
+                "Ice": "not very effective",
+                "Fighting": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective"
+            },
+            "Own Tempo ability": {
+                "Fighting": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective"
+            },
+            "Gluttony ability": {
+                "Fighting": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Spoink",
+                    "nationalNo": "#0325",
+                    "type": [
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Grumpig",
+                    "nationalNo": "#0326",
+                    "type": [
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 32)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Splash": "1",
+            "Confusion": "7",
+            "Growl": "10",
+            "Psybeam": "14",
+            "Psych Up": "18",
+            "Confuse Ray": "22",
+            "Power Gem": "29",
+            "Rest": "29",
+            "Snore": "33",
+            "Psyshock": "38",
+            "Payback": "40",
+            "Psychic": "44",
+            "Bounce": "50"
+        },
+        "egg": {
+            "Amnesia": null,
+            "Extrasensory": null,
+            "Future Sight": null,
+            "Mirror Coat": null,
+            "Simple Beam": null,
+            "Trick": null,
+            "Whirlwind": null,
+            "Zen Headbutt": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Protect": "07",
+            "Psybeam": "16",
+            "Confuse Ray": "17",
+            "Thief": "18",
+            "Trailblaze": "20",
+            "Chilling Water": "22",
+            "Charge Beam": "23",
+            "Facade": "25",
+            "Snarl": "30",
+            "Swift": "32",
+            "Icy Wind": "34",
+            "Stored Power": "41",
+            "Night Shade": "42",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Snowscape": "52",
+            "Psyshock": "54",
+            "Zen Headbutt": "59",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Reflect": "74",
+            "Light Screen": "75",
+            "Dazzling Gleam": "79",
+            "Grass Knot": "81",
+            "Thunder Wave": "82",
+            "Rest": "85",
+            "Taunt": "87",
+            "Imprison": "92",
+            "Flash Cannon": "93",
+            "Skill Swap": "98",
+            "Power Gem": "101",
+            "Substitute": "103",
+            "Trick": "109",
+            "Shadow Ball": "114",
+            "Psychic": "120",
+            "Encore": "122",
+            "Amnesia": "128",
+            "Calm Mind": "129",
+            "Helping Hand": "130",
+            "Psychic Terrain": "138",
+            "Trick Room": "161",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Spoink": [
+            "SPOINK bounces around on its tail. The shock of its bouncing makes its heart pump. As a result, this pok\u00e9mon cannot afford to stop bouncing - if it stops, its heart will stop.",
+            "SPOINK keeps a pearl on top of its head. The pearl functions to amplify this pok\u00e9mon\u2019s psychokinetic powers. It is therefore on a constant search for a bigger pearl.",
+            "It apparently dies if it stops bouncing about. It carries a pearl from CLAMPERL on its head.",
+            "A pok\u00e9mon that manipulates psychic power at will. It doesn\u2019t stop bouncing even when it is asleep. It loves eating mushrooms that grow underground.",
+            "It bounces constantly, using its tail like a spring. The shock of bouncing keeps its heart beating.",
+            "It bounces around on its tail to keep its heart pumping. It carries a pearl from CLAMPERL on its head.",
+            "It bounces constantly, using its tail like a spring. The shock of bouncing keeps its heart beating.",
+            "Using its tail like a spring, it keeps its heart beating by bouncing constantly. If it stops, it dies.",
+            "It bounces constantly, using its tail like a spring. The shock of bouncing keeps its heart beating.",
+            "It bounces around on its tail to keep its heart pumping. It carries a pearl from Clamperl on its head.",
+            "Spoink bounces around on its tail. The shock of its bouncing makes its heart pump. As a result, this Pok\u00e9mon cannot afford to stop bouncing\u2014if it stops, its heart will stop.",
+            "Spoink keeps a pearl on top of its head. The pearl functions to amplify this Pok\u00e9mon\u2019s psychokinetic powers. It is therefore on a constant search for a bigger pearl.",
+            "It bounces constantly, using its tail like a spring. The shock of bouncing keeps its heart beating.",
+            "Spoink will die if it stops bouncing. The pearl on its head amplifies its psychic powers.",
+            "Using its tail like a spring, it keeps its heart beating by bouncing constantly. If it stops, it dies."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789141118566490/325.png",
+    "discord_sprite": "<:P325:1132127039130960013>"
+}

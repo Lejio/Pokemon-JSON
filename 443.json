@@ -1,0 +1,216 @@
+{
+    "alt-version(s)": [],
+    "name": "Gible",
+    "Gible": {
+        "pokedex_data": {
+            "National No.": "0443",
+            "Type": [
+                "Dragon",
+                "Ground"
+            ],
+            "Species": "Land Shark Poke\u0301mon",
+            "Height": "0.7 m (2\u203204\u2032\u2032)",
+            "Weight": "20.5 kg (45.2 lbs)",
+            "Abilities": {
+                "Sand Veil": {
+                    "href": "/ability/sand-veil",
+                    "effect": "Boosts the Pok\u00e9mon's evasion in a sandstorm.",
+                    "hidden": false
+                },
+                "Rough Skin": {
+                    "href": "/ability/rough-skin",
+                    "effect": "Inflicts damage to the attacker on contact.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "60",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "58",
+                "Min": "226",
+                "Max": "320"
+            },
+            "Attack": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Defense": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Sp. Atk": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Def": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Speed": {
+                "Base": "42",
+                "Min": "80",
+                "Max": "201"
+            },
+            "Total": "300"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Electric": "no effect",
+                "Ice": "super-effective",
+                "Poison": "not very effective",
+                "Rock": "not very effective",
+                "Dragon": "super-effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Gible",
+                    "nationalNo": "#0443",
+                    "type": [
+                        "Dragon",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Gabite",
+                    "nationalNo": "#0444",
+                    "type": [
+                        "Dragon",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 24)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Gabite",
+                    "nationalNo": "#0444",
+                    "type": [
+                        "Dragon",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Garchomp",
+                    "nationalNo": "#0445",
+                    "type": [
+                        "Dragon",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 48)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Sand Tomb": "1",
+            "Tackle": "1",
+            "Sand Attack": "6",
+            "Dragon Breath": "12",
+            "Bulldoze": "18",
+            "Bite": "25",
+            "Slash": "30",
+            "Dragon Claw": "36",
+            "Dig": "42",
+            "Sandstorm": "48",
+            "Take Down": "54",
+            "Dragon Rush": "60"
+        },
+        "egg": {
+            "Double-Edge": null,
+            "Metal Claw": null,
+            "Thrash": null,
+            "Twister": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Fire Fang": "08",
+            "Thunder Fang": "09",
+            "Facade": "25",
+            "Bulldoze": "28",
+            "Metal Claw": "31",
+            "Swift": "32",
+            "Mud Shot": "35",
+            "Rock Tomb": "36",
+            "Dragon Tail": "44",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Sandstorm": "51",
+            "Dig": "55",
+            "False Swipe": "57",
+            "Shadow Claw": "61",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Dragon Claw": "78",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Swords Dance": "88",
+            "Iron Head": "99",
+            "Substitute": "103",
+            "Dragon Pulse": "115",
+            "Stealth Rock": "116",
+            "Flamethrower": "125",
+            "Helping Hand": "130",
+            "Earth Power": "133",
+            "Fire Blast": "141",
+            "Earthquake": "149",
+            "Stone Edge": "150",
+            "Outrage": "156",
+            "Draco Meteor": "169",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Gible": [
+            "It nests in small, horizontal holes in cave walls. It pounces to catch prey that stray too close.",
+            "It once lived in the tropics. To avoid the cold, it lives in caves warmed by geothermal heat.",
+            "It attacks using its huge mouth. While its attacks are powerful, it hurts itself out of clumsiness, too.",
+            "It nests in horizontal holes warmed by geothermal heat. Foes who get too close can expect to be pounced on and bitten.",
+            "It attacks using its huge mouth. While its attacks are powerful, it hurts itself out of clumsiness, too.",
+            "It nests in horizontal holes warmed by geothermal heat. Foes who get too close can expect to be pounced on and bitten.",
+            "It nests in small, horizontal holes in cave walls. It pounces to catch prey that stray too close.",
+            "It lives in caves warmed by geothermal heat. Even so, when the weather gets cold, it will huddle close with others of its kind.",
+            "It skulks in caves, and when prey or an enemy passes by, it leaps out and chomps them. The force of its attack sometimes chips its teeth.",
+            "It reacts to anything that moves\u2014flies right at it and bites it. Sometimes it injures itself, but it doesn\u2019t care too much.",
+            "Its original home is an area much hotter than Alola. If you\u2019re planning to live with one, your heating bill will soar.",
+            "Gible prefers to stay in narrow holes in the sides of caves heated by geothermal energy. This way, Gible can stay warm even during a blizzard.",
+            "Gible attacks anything that moves, and it drags whatever it catches into the crevice that is its lair. Despite the big mouth, Gible\u2019s stomach is small.",
+            "It nests in small, horizontal holes in cave walls. It pounces to catch prey that stray too close.",
+            "It once lived in the tropics. To avoid the cold, it lives in caves warmed by geothermal heat.",
+            "It nests in caves untouched by sunlight. Its sharp teeth may fall out when worn away or after an impact, but they regrow within a few days.",
+            "It skulks in caves, and when prey or an enemy passes by, it leaps out and chomps them. The force of its attack sometimes chips its teeth.",
+            "It nests in horizontal holes warmed by geothermal heat. Foes who get too close can expect to be pounced on and bitten."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790057183911996/443.png",
+    "discord_sprite": "<:P443:1132132224230244394>"
+}

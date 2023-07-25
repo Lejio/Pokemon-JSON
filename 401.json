@@ -1,0 +1,135 @@
+{
+    "alt-version(s)": [],
+    "name": "Kricketot",
+    "Kricketot": {
+        "pokedex_data": {
+            "National No.": "0401",
+            "Type": [
+                "Bug"
+            ],
+            "Species": "Cricket Poke\u0301mon",
+            "Height": "0.3 m (1\u203200\u2032\u2032)",
+            "Weight": "2.2 kg (4.9 lbs)",
+            "Abilities": {
+                "Shed Skin": {
+                    "href": "/ability/shed-skin",
+                    "effect": "The Pok\u00e9mon may heal its own status problems.",
+                    "hidden": false
+                },
+                "Run Away": {
+                    "href": "/ability/run-away",
+                    "effect": "Enables a sure getaway from wild Pok\u00e9mon.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Defense",
+            "Catch rate": "255",
+            "BaseFriendship": "50",
+            "Base Exp.": "39",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "37",
+                "Min": "184",
+                "Max": "278"
+            },
+            "Attack": {
+                "Base": "25",
+                "Min": "49",
+                "Max": "163"
+            },
+            "Defense": {
+                "Base": "41",
+                "Min": "78",
+                "Max": "199"
+            },
+            "Sp. Atk": {
+                "Base": "25",
+                "Min": "49",
+                "Max": "163"
+            },
+            "Sp. Def": {
+                "Base": "41",
+                "Min": "78",
+                "Max": "199"
+            },
+            "Speed": {
+                "Base": "25",
+                "Min": "49",
+                "Max": "163"
+            },
+            "Total": "194"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Grass": "not very effective",
+                "Fighting": "not very effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Rock": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Kricketot",
+                    "nationalNo": "#0401",
+                    "type": [
+                        "Bug"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Kricketune",
+                    "nationalNo": "#0402",
+                    "type": [
+                        "Bug"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 10)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Growl": "1",
+            "Tackle": "1",
+            "Struggle Bug": "6",
+            "Bug Bite": "16"
+        },
+        "egg": null,
+        "tm": {
+            "Struggle Bug": "15",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Kricketot": [
+            "It shakes its head back to front, causing its antennae to hit each other and sound like a xylophone.",
+            "It chats with others using the sounds of its colliding antennae. These sounds are fall hallmarks.",
+            "Its legs are short. Whenever it stumbles, its stiff antennae clack with a xylophone-like sound.",
+            "When its antennae hit each other, it sounds like the music of a xylophone.",
+            "Its legs are short. Whenever it stumbles, its stiff antennae clack with a xylophone-like sound.",
+            "It chats with others using the sounds of its colliding antennae. These sounds are fall hallmarks.",
+            "When its antennae hit each other, it sounds like the music of a xylophone.",
+            "It shakes its head back to front, causing its antennae to hit each other and sound like a xylophone.",
+            "It chats with others using the sounds of its colliding antennae. These sounds are the hallmarks of fall evenings.",
+            "When the trees take on new hues, more of these Pok\u00e9mon appear. The tone they create by striking their antennae together resembles that of the marimba, an instrument of foreign lands.",
+            "Its legs are short. Whenever it stumbles, its stiff antennae clack with a xylophone-like sound.",
+            "When its antennae hit each other, it sounds like the music of a xylophone."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789730909008003/401.png",
+    "discord_sprite": "<:P401:1132130379227217940>"
+}

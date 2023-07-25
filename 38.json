@@ -1,0 +1,333 @@
+{
+    "alt-version(s)": [
+        "Alolan Ninetales"
+    ],
+    "name": "Ninetales",
+    "Ninetales": {
+        "pokedex_data": {
+            "National No.": "0038",
+            "Type": [
+                "Fire"
+            ],
+            "Species": "Fox Poke\u0301mon",
+            "Height": "1.1 m (3\u203207\u2032\u2032)",
+            "Weight": "19.9 kg (43.9 lbs)",
+            "Abilities": {
+                "Flash Fire": {
+                    "href": "/ability/flash-fire",
+                    "effect": "It powers up Fire-type moves if it's hit by one.",
+                    "hidden": false
+                },
+                "Drought": {
+                    "href": "/ability/drought",
+                    "effect": "Turns the sunlight harsh when the Pok\u00e9mon enters a battle.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Sp. Def, 1 Speed",
+            "Catch rate": "75",
+            "BaseFriendship": "50",
+            "Base Exp.": "177",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "25% male,75% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "73",
+                "Min": "256",
+                "Max": "350"
+            },
+            "Attack": {
+                "Base": "76",
+                "Min": "141",
+                "Max": "276"
+            },
+            "Defense": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Sp. Atk": {
+                "Base": "81",
+                "Min": "150",
+                "Max": "287"
+            },
+            "Sp. Def": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Speed": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Total": "505"
+        },
+        "defense_stats": {
+            "Flash Fire ability": {
+                "Fire": "no effect",
+                "Water": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Ground": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            },
+            "Drought ability": {
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Ground": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "Alolan Ninetales": {
+        "pokedex_data": {
+            "National No.": "0038",
+            "Type": [
+                "Ice",
+                "Fairy"
+            ],
+            "Species": "Fox Poke\u0301mon",
+            "Height": "1.1 m (3\u203207\u2032\u2032)",
+            "Weight": "19.9 kg (43.9 lbs)",
+            "Abilities": {
+                "Snow Cloak": {
+                    "href": "/ability/snow-cloak",
+                    "effect": "Raises evasion in a hailstorm.",
+                    "hidden": false
+                },
+                "Snow Warning": {
+                    "href": "/ability/snow-warning",
+                    "effect": "The Pok\u00e9mon summons a hailstorm in battle.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Speed",
+            "Catch rate": "75",
+            "BaseFriendship": "50",
+            "Base Exp.": "177",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "25% male,75% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "73",
+                "Min": "256",
+                "Max": "350"
+            },
+            "Attack": {
+                "Base": "67",
+                "Min": "125",
+                "Max": "256"
+            },
+            "Defense": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Sp. Atk": {
+                "Base": "81",
+                "Min": "150",
+                "Max": "287"
+            },
+            "Sp. Def": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Speed": {
+                "Base": "109",
+                "Min": "200",
+                "Max": "348"
+            },
+            "Total": "505"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Ice": "not very effective",
+                "Poison": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Dragon": "no effect",
+                "Dark": "not very effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Vulpix",
+                    "nationalNo": "#0037",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Ninetales",
+                    "nationalNo": "#0038",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Fire Stone)",
+                "shed": null
+            }
+        ],
+        [
+            {
+                "from": {
+                    "name": "Vulpix",
+                    "nationalNo": "#0037",
+                    "type": [
+                        "Ice"
+                    ],
+                    "nickname": "Alolan Vulpix"
+                },
+                "to": {
+                    "name": "Ninetales",
+                    "nationalNo": "#0038",
+                    "type": [
+                        "Ice",
+                        "Fairy"
+                    ],
+                    "nickname": "Alolan Ninetales"
+                },
+                "requirement": "(use Ice Stone)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Confuse Ray": "1",
+            "Disable": "1",
+            "Ember": "1",
+            "Extrasensory": "1",
+            "Fire Blast": "1",
+            "Fire Spin": "1",
+            "Flamethrower": "1",
+            "Grudge": "1",
+            "Imprison": "1",
+            "Incinerate": "1",
+            "Inferno": "1",
+            "Nasty Plot": "1",
+            "Quick Attack": "1",
+            "Safeguard": "1",
+            "Spite": "1",
+            "Tail Whip": "1",
+            "Will-O-Wisp": "1"
+        },
+        "egg": {
+            "Baby-Doll Eyes": null,
+            "Disable": null,
+            "Extrasensory": null,
+            "Flail": null,
+            "Flame Charge": null,
+            "Flare Blitz": null,
+            "Heat Wave": null,
+            "Hex": null,
+            "Howl": null,
+            "Hypnosis": null,
+            "Memento": null,
+            "Power Swap": null,
+            "Spite": null
+        },
+        "tm": {
+            "Calm Mind": "04",
+            "Roar": "05",
+            "Sunny Day": "11",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Safeguard": "20",
+            "Solar Beam": "22",
+            "Iron Tail": "23",
+            "Dig": "28",
+            "Shadow Ball": "30",
+            "Double Team": "32",
+            "Flamethrower": "35",
+            "Fire Blast": "38",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Overheat": "50",
+            "Energy Ball": "53",
+            "Endure": "58",
+            "Will-O-Wisp": "61",
+            "Nasty Plot": "63",
+            "Payback": "66",
+            "Giga Impact": "68",
+            "Psych Up": "77",
+            "Dark Pulse": "79",
+            "Sleep Talk": "82",
+            "Dream Eater": "85",
+            "Swagger": "87",
+            "Substitute": "90"
+        }
+    },
+    "entries": {
+        "Ninetales": [
+            "Very smart and very vengeful. Grabbing one of its many tails could result in a 1000-year curse.",
+            "According to an enduring legend, 9 noble saints were united and reincarnated as this pok\u00e9mon.",
+            "Some legends claim that each of its nine tails has its own unique type of special mystical power.",
+            "Its nine beautiful tails are filled with a wondrous energy that could keep it alive for 1,000 years.",
+            "It is said to live a thousand years, and each of its tails is loaded with supernatural powers.",
+            "NINETALES casts a sinister light from its bright red eyes to gain total control over its foe\u2019s mind. This pok\u00e9mon is said to live for a thousand years.",
+            "Legend has it that NINETALES came into being when nine wizards possessing sacred powers merged into one. This pok\u00e9mon is highly intelligent - it can understand human speech.",
+            "It has nine long tails and fur that gleams gold. It is said to live for 1,000 years.",
+            "Very smart and very vengeful. Grabbing one of its many tails could result in a 1,000-year curse.",
+            "It has long been said that each of the nine tails embody an enchanted power. A long-lived NINETALES will have fur that shines like gold.",
+            "Its nine tails are said to be imbued with a mystic power. It can live for a thousand years.",
+            "Some legends claim that each of its nine tails has its own unique type of special mystical power.",
+            "Its nine beautiful tails are filled with a wondrous energy that could keep it alive for 1,000 years.",
+            "Its nine tails are said to be imbued with a mystic power. It can live for a thousand years.",
+            "Each of its nine tails is imbued with supernatural power, and it can live for a thousand years.",
+            "It has nine long tails and fur that gleams gold. It is said to live for 1,000 years.",
+            "Very smart and very vengeful. Grabbing one of its many tails could result in a 1,000-year curse.",
+            "Ninetales casts a sinister light from its bright red eyes to gain total control over its foe\u2019s mind. This Pok\u00e9mon is said to live for a thousand years.",
+            "Legend has it that Ninetales came into being when nine wizards possessing sacred powers merged into one. This Pok\u00e9mon is highly intelligent\u2014it can understand human speech.",
+            "Legend has it that this mystical Pok\u00e9mon was formed when nine saints coalesced into one.",
+            "Said to live for a thousand years, this Pok\u00e9mon uses its supernatural abilities to manipulate fire. It can burn its prey to a crisp as it pleases.",
+            "It is vindictive and relentless by nature. Those who cross it even once will be cursed for a thousand years, along with their descendants.",
+            "The flickering flames it spews from its mouth leave its opponents hypnotized. Then, this extremely intelligent Pok\u00e9mon attacks.",
+            "According to an enduring legend, nine noble saints were united and reincarnated as this Pok\u00e9mon.",
+            "It is said to live 1,000 years, and each of its tails is loaded with supernatural powers.",
+            "Very smart and very vengeful. Grabbing one of its many tails could result in a 1,000-year curse.",
+            "Its nine tails are said to be imbued with a mystic power. The Pok\u00e9mon is said to live for 1,000 years.",
+            "The coat of gleaming golden fur is quite magnificent. This species is said to store sacred power in its nine long tails and to live for a millennium."
+        ],
+        "Alolan Ninetales": [
+            "It creates drops of ice in its coat and showers them over its enemies. Anyone who angers it will be frozen stiff in an instant.",
+            "Possessing a calm demeanor, this Pok\u00e9mon was revered as a deity incarnate before it was identified as a regional variant of Ninetales.",
+            "The reason it guides people all the way down to the mountain\u2019s base is that it wants them to hurry up and leave.",
+            "Some said that deities visited mountains where Ninetales live, so in times long past, no one was allowed to go into those mountains.",
+            "It lives on mountains perpetually covered in snow and is revered as a deity incarnate. It appears draped in a blizzard.",
+            "A deity resides in the snowy mountains where this Pok\u00e9mon lives. In ancient times, it was worshiped as that deity\u2019s incarnation.",
+            "While it will guide travelers who get lost on a snowy mountain down to the mountain\u2019s base, it won\u2019t forgive anyone who harms nature.",
+            "Dwells on sacred peaks perpetually covered in snow. Said to appear to virtuous people who have lost their way on mountain paths\u2014it then guides them back down to the mountain\u2019s base."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131786885698691202/38.png",
+    "discord_sprite": "<:P38:1131973564959031358>"
+}

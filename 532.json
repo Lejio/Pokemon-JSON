@@ -1,0 +1,212 @@
+{
+    "alt-version(s)": [],
+    "name": "Timburr",
+    "Timburr": {
+        "pokedex_data": {
+            "National No.": "0532",
+            "Type": [
+                "Fighting"
+            ],
+            "Species": "Muscular Poke\u0301mon",
+            "Height": "0.6 m (2\u203200\u2032\u2032)",
+            "Weight": "12.5 kg (27.6 lbs)",
+            "Abilities": {
+                "Guts": {
+                    "href": "/ability/guts",
+                    "effect": "Boosts Attack if there is a status problem.",
+                    "hidden": false
+                },
+                "Sheer Force": {
+                    "href": "/ability/sheer-force",
+                    "effect": "Removes added effects to increase move damage.",
+                    "hidden": false
+                },
+                "Iron Fist": {
+                    "href": "/ability/iron-fist",
+                    "effect": "Boosts the power of punching moves.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack",
+            "Catch rate": "180",
+            "BaseFriendship": "70",
+            "Base Exp.": "61",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "75% male,25% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "75",
+                "Min": "260",
+                "Max": "354"
+            },
+            "Attack": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Defense": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Sp. Atk": {
+                "Base": "25",
+                "Min": "49",
+                "Max": "163"
+            },
+            "Sp. Def": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Speed": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Total": "305"
+        },
+        "defense_stats": {
+            "default": {
+                "Flying": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Dark": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Timburr",
+                    "nationalNo": "#0532",
+                    "type": [
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Gurdurr",
+                    "nationalNo": "#0533",
+                    "type": [
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 25)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Gurdurr",
+                    "nationalNo": "#0533",
+                    "type": [
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Conkeldurr",
+                    "nationalNo": "#0534",
+                    "type": [
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Trade)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Leer": "1",
+            "Pound": "1",
+            "Low Kick": "4",
+            "Rock Throw": "8",
+            "Focus Energy": "12",
+            "Bulk Up": "16",
+            "Rock Slide": "20",
+            "Slam": "24",
+            "Scary Face": "28",
+            "Dynamic Punch": "32",
+            "Hammer Arm": "36",
+            "Stone Edge": "40",
+            "Superpower": "44",
+            "Focus Punch": "48"
+        },
+        "egg": {
+            "Counter": null,
+            "Defog": null,
+            "Detect": null,
+            "Mach Punch": null,
+            "Power-Up Punch": null,
+            "Wide Guard": null
+        },
+        "null": {
+            "Low Kick": "07",
+            "Focus Energy": "13",
+            "Substitute": "20",
+            "Reversal": "21",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Taunt": "37",
+            "Superpower": "39",
+            "Bulk Up": "48",
+            "Poison Jab": "57",
+            "Focus Blast": "64",
+            "Stone Edge": "75",
+            "Grass Knot": "77",
+            "Work Up": "85"
+        },
+        "tm": {
+            "Mega Punch": "00",
+            "Mega Kick": "01",
+            "Fire Punch": "03",
+            "Ice Punch": "04",
+            "Thunder Punch": "05",
+            "Dig": "15",
+            "Rest": "21",
+            "Rock Slide": "22",
+            "Snore": "24",
+            "Protect": "25",
+            "Scary Face": "26",
+            "Attract": "31",
+            "Rain Dance": "33",
+            "Sunny Day": "34",
+            "Facade": "39",
+            "Helping Hand": "41",
+            "Revenge": "42",
+            "Brick Break": "43",
+            "Rock Tomb": "48",
+            "Payback": "57",
+            "Fling": "59",
+            "Drain Punch": "63",
+            "Low Sweep": "75",
+            "Round": "76",
+            "Retaliate": "79",
+            "Brutal Swing": "97"
+        }
+    },
+    "entries": {
+        "Timburr": [
+            "It fights by swinging a piece of lumber around. It is close to evolving when it can handle the lumber without difficulty.",
+            "These Pok\u00e9mon appear at building sites and help out with construction. They always carry squared logs.",
+            "Always carrying squared logs, they help out with construction. As they grow, they carry bigger logs.",
+            "These Pok\u00e9mon appear at building sites and help out with construction. They always carry squared logs.",
+            "Always carrying squared logs, they help out with construction. As they grow, they carry bigger logs.",
+            "It loves helping out with construction projects. It loves it so much that if rain causes work to halt, it swings its log around and throws a tantrum.",
+            "Timburr that have started carrying logs that are about three times their size are nearly ready to evolve."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790749118247023/532.png",
+    "discord_sprite": "<:P532:1132136143173988422>"
+}

@@ -1,0 +1,228 @@
+{
+    "alt-version(s)": [],
+    "name": "Azurill",
+    "Azurill": {
+        "pokedex_data": {
+            "National No.": "0298",
+            "Type": [
+                "Normal",
+                "Fairy"
+            ],
+            "Species": "Polka Dot Poke\u0301mon",
+            "Height": "0.2 m (0\u203208\u2032\u2032)",
+            "Weight": "2.0 kg (4.4 lbs)",
+            "Abilities": {
+                "Thick Fat": {
+                    "href": "/ability/thick-fat",
+                    "effect": "Ups resistance to Fire- and Ice-type moves.",
+                    "hidden": false
+                },
+                "Huge Power": {
+                    "href": "/ability/huge-power",
+                    "effect": "Raises the Pok\u00e9mon's Attack stat.",
+                    "hidden": false
+                },
+                "Sap Sipper": {
+                    "href": "/ability/sap-sipper",
+                    "effect": "Boosts Attack when hit by a Grass-type move.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 HP",
+            "Catch rate": "150",
+            "BaseFriendship": "50",
+            "Base Exp.": "38",
+            "Growth Rate": "Fast"
+        },
+        "breeding_data": {
+            "Gender": "25% male,75% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "50",
+                "Min": "210",
+                "Max": "304"
+            },
+            "Attack": {
+                "Base": "20",
+                "Min": "40",
+                "Max": "152"
+            },
+            "Defense": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Atk": {
+                "Base": "20",
+                "Min": "40",
+                "Max": "152"
+            },
+            "Sp. Def": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Speed": {
+                "Base": "20",
+                "Min": "40",
+                "Max": "152"
+            },
+            "Total": "190"
+        },
+        "defense_stats": {
+            "Thick Fat ability": {
+                "Fire": "not very effective",
+                "Ice": "not very effective",
+                "Poison": "super-effective",
+                "Bug": "not very effective",
+                "Ghost": "no effect",
+                "Dragon": "no effect",
+                "Dark": "not very effective",
+                "Steel": "super-effective"
+            },
+            "Huge Power ability": {
+                "Poison": "super-effective",
+                "Bug": "not very effective",
+                "Ghost": "no effect",
+                "Dragon": "no effect",
+                "Dark": "not very effective",
+                "Steel": "super-effective"
+            },
+            "Sap Sipper ability": {
+                "Grass": "no effect",
+                "Poison": "super-effective",
+                "Bug": "not very effective",
+                "Ghost": "no effect",
+                "Dragon": "no effect",
+                "Dark": "not very effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Azurill",
+                    "nationalNo": "#0298",
+                    "type": [
+                        "Normal",
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Marill",
+                    "nationalNo": "#0183",
+                    "type": [
+                        "Water",
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(high Friendship)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Marill",
+                    "nationalNo": "#0183",
+                    "type": [
+                        "Water",
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Azumarill",
+                    "nationalNo": "#0184",
+                    "type": [
+                        "Water",
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 18)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Splash": "1",
+            "Tail Whip": "1",
+            "Water Gun": "1",
+            "Helping Hand": "3",
+            "Bubble Beam": "6",
+            "Charm": "9",
+            "Slam": "12",
+            "Bounce": "15"
+        },
+        "egg": {
+            "Aqua Jet": null,
+            "Belly Drum": null,
+            "Copycat": null,
+            "Perish Song": null,
+            "Present": null,
+            "Sing": null,
+            "Soak": null,
+            "Supersonic": null,
+            "Tickle": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Charm": "02",
+            "Fake Tears": "03",
+            "Mud-Slap": "05",
+            "Protect": "07",
+            "Facade": "25",
+            "Icy Wind": "34",
+            "Mud Shot": "35",
+            "Draining Kiss": "37",
+            "Endure": "47",
+            "Rain Dance": "50",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Light Screen": "75",
+            "Waterfall": "77",
+            "Rest": "85",
+            "Substitute": "103",
+            "Hyper Voice": "117",
+            "Encore": "122",
+            "Surf": "123",
+            "Helping Hand": "130",
+            "Ice Beam": "135",
+            "Blizzard": "143",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Azurill": [
+            "AZURILL spins its tail as if it were a lasso, then hurls it far. The momentum of the throw sends its body flying, too. Using this unique action, one of these pok\u00e9mon managed to hurl itself a record 33 feet.",
+            "AZURILL\u2019s tail is large and bouncy. It is packed full of the nutrients this pok\u00e9mon needs to grow. AZURILL can be seen bouncing and playing on its big, rubbery tail.",
+            "It battles by flinging around its tail, which is bigger than its body. The tail is a flotation device in water.",
+            "Its tail, which is packed with nutrition, is very bouncy like a rubber ball. On sunny days they gather at the edge of water and splash about for fun.",
+            "A Pok\u00e9mon that lives by water. It moves quickly on land by bouncing on its big tail.",
+            "Its tail is filled with nutrients necessary for growth. It plays by bouncing on its tail.",
+            "Its tail bounces like a rubber ball. It flings that tail around to fight opponents bigger than itself.",
+            "Its tail is packed full of the nutrients it needs to grow.",
+            "Its tail bounces like a rubber ball. It flings that tail around to fight opponents bigger than itself.",
+            "It swings its large, nutrient-filled tail around to fight opponents bigger than itself.",
+            "A Pok\u00e9mon that lives by water. It moves quickly on land by bouncing on its big tail.",
+            "It swings its large, nutrient-filled tail around to fight opponents bigger than itself.",
+            "Azurill spins its tail as if it were a lasso, then hurls it far. The momentum of the throw sends its body flying, too. Using this unique action, one of these Pok\u00e9mon managed to hurl itself a record 33 feet.",
+            "Azurill\u2019s tail is large and bouncy. It is packed full of the nutrients this Pok\u00e9mon needs to grow. Azurill can be seen bouncing and playing on its big, rubbery tail.",
+            "The ball on Azurill\u2019s tail bounces like a rubber ball, and it\u2019s full of the nutrients the Pok\u00e9mon needs to grow.",
+            "Although Azurill are normally docile, an angry one will swing around the big ball on its tail and try to smash its opponents.",
+            "It\u2019s a Pok\u00e9mon that lives by water. It moves quickly on land by bouncing on its big tail.",
+            "Its tail is filled with nutrients necessary for growth. It plays by bouncing on its tail.",
+            "Its tail bounces like a rubber ball. It flings that tail around to fight opponents bigger than itself.",
+            "Its tail is packed full of the nutrients it needs to grow."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788928983236608/298.png",
+    "discord_sprite": "<:P298:1132125853216682145>"
+}

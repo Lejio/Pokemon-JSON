@@ -1,0 +1,210 @@
+{
+    "alt-version(s)": [],
+    "name": "Seedot",
+    "Seedot": {
+        "pokedex_data": {
+            "National No.": "0273",
+            "Type": [
+                "Grass"
+            ],
+            "Species": "Acorn Poke\u0301mon",
+            "Height": "0.5 m (1\u203208\u2032\u2032)",
+            "Weight": "4.0 kg (8.8 lbs)",
+            "Abilities": {
+                "Chlorophyll": {
+                    "href": "/ability/chlorophyll",
+                    "effect": "Boosts the Pok\u00e9mon's Speed in sunshine.",
+                    "hidden": false
+                },
+                "Early Bird": {
+                    "href": "/ability/early-bird",
+                    "effect": "The Pok\u00e9mon awakens quickly from sleep.",
+                    "hidden": false
+                },
+                "Pickpocket": {
+                    "href": "/ability/pickpocket",
+                    "effect": "Steals an item when hit by another Pok\u00e9mon.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Defense",
+            "Catch rate": "255",
+            "BaseFriendship": "50",
+            "Base Exp.": "44",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "40",
+                "Min": "190",
+                "Max": "284"
+            },
+            "Attack": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Defense": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Atk": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Sp. Def": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Speed": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Total": "220"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Poison": "super-effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Bug": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Seedot",
+                    "nationalNo": "#0273",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Nuzleaf",
+                    "nationalNo": "#0274",
+                    "type": [
+                        "Grass",
+                        "Dark"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 14)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Nuzleaf",
+                    "nationalNo": "#0274",
+                    "type": [
+                        "Grass",
+                        "Dark"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Shiftry",
+                    "nationalNo": "#0275",
+                    "type": [
+                        "Grass",
+                        "Dark"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Leaf Stone)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Harden": "1",
+            "Tackle": "1",
+            "Absorb": "3",
+            "Astonish": "6",
+            "Growth": "9",
+            "Rollout": "12",
+            "Mega Drain": "15",
+            "Payback": "18",
+            "Nature Power": "21",
+            "Sunny Day": "24",
+            "Synthesis": "27",
+            "Sucker Punch": "30",
+            "Explosion": "33"
+        },
+        "egg": {
+            "Amnesia": null,
+            "Beat Up": null,
+            "Foul Play": null,
+            "Grassy Terrain": null,
+            "Leech Seed": null,
+            "Night Slash": null,
+            "Power Swap": null,
+            "Quick Attack": null,
+            "Take Down": null,
+            "Worry Seed": null
+        },
+        "tm": {
+            "Bullet Seed": "09",
+            "Sunny Day": "11",
+            "Protect": "17",
+            "Giga Drain": "19",
+            "Solar Beam": "22",
+            "Dig": "28",
+            "Shadow Ball": "30",
+            "Double Team": "32",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Energy Ball": "53",
+            "False Swipe": "54",
+            "Endure": "58",
+            "Nasty Plot": "63",
+            "Explosion": "64",
+            "Payback": "66",
+            "Flash": "70",
+            "Swords Dance": "75",
+            "Sleep Talk": "82",
+            "Grass Knot": "86",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Rock Smash": "98"
+        }
+    },
+    "entries": {
+        "Seedot": [
+            "SEEDOT attaches itself to a tree branch using the top of its head. It sucks moisture from the tree while hanging off the branch. The more water it drinks, the glossier this pok\u00e9mon\u2019s body becomes.",
+            "SEEDOT looks exactly like an acorn when it is dangling from a tree branch. It startles other pok\u00e9mon by suddenly moving. This pok\u00e9mon polishes its body once a day using leaves.",
+            "If it remains still, it becomes impossible to distinguish from real nuts. It delights in surprising foraging PIDGEY.",
+            "It hangs off branches and absorbs nutrients. When it finishes eating, its body becomes so heavy that it drops to the ground with a thump.",
+            "When it dangles from a tree branch, it looks just like an acorn. It enjoys scaring other Pok\u00e9mon.",
+            "It attaches itself to a tree branch using the top of its head. Strong winds can sometimes make it fall.",
+            "When it dangles from a tree branch, it looks just like an acorn. It enjoys scaring other Pok\u00e9mon.",
+            "It attaches itself to a tree branch using the top of its head. Strong winds can sometimes make it fall.",
+            "When it dangles from a tree branch, it looks just like an acorn. It enjoys scaring other Pok\u00e9mon.",
+            "Seedot attaches itself to a tree branch using the top of its head. It sucks moisture from the tree while hanging off the branch. The more water it drinks, the glossier this Pok\u00e9mon\u2019s body becomes.",
+            "Seedot looks exactly like an acorn when it is dangling from a tree branch. It startles other Pok\u00e9mon by suddenly moving. This Pok\u00e9mon polishes its body once a day using leaves.",
+            "If it remains still, it looks just like a real nut. It delights in surprising foraging Pok\u00e9mon.",
+            "It attaches itself to a tree branch using the top of its head. Strong winds can sometimes make it fall.",
+            "When it dangles from a tree branch, it looks just like an acorn. It enjoys scaring other Pok\u00e9mon that try to peck at it."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788730361970718/273.png",
+    "discord_sprite": "<:P273:1132124757274415246>"
+}

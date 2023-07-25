@@ -1,0 +1,152 @@
+{
+    "alt-version(s)": [],
+    "name": "Milcery",
+    "Milcery": {
+        "pokedex_data": {
+            "National No.": "0868",
+            "Type": [
+                "Fairy"
+            ],
+            "Species": "Cream Poke\u0301mon",
+            "Height": "0.2 m (0\u203208\u2032\u2032)",
+            "Weight": "0.3 kg (0.7 lbs)",
+            "Abilities": {
+                "Sweet Veil": {
+                    "href": "/ability/sweet-veil",
+                    "effect": "Prevents the Pok\u00e9mon and allies from falling asleep.",
+                    "hidden": false
+                },
+                "Aroma Veil": {
+                    "href": "/ability/aroma-veil",
+                    "effect": "Protects allies from attacks that limit their move choices.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Sp. Def",
+            "Catch rate": "200",
+            "BaseFriendship": "50",
+            "Base Exp.": "54",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "0% male,100% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "45",
+                "Min": "200",
+                "Max": "294"
+            },
+            "Attack": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Defense": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Atk": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Def": {
+                "Base": "61",
+                "Min": "114",
+                "Max": "243"
+            },
+            "Speed": {
+                "Base": "34",
+                "Min": "65",
+                "Max": "183"
+            },
+            "Total": "270"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "not very effective",
+                "Poison": "super-effective",
+                "Bug": "not very effective",
+                "Dragon": "no effect",
+                "Dark": "not very effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Milcery",
+                    "nationalNo": "#0868",
+                    "type": [
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Alcremie",
+                    "nationalNo": "#0869",
+                    "type": [
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(spin around holding Sweet)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Aromatic Mist": "1",
+            "Tackle": "1",
+            "Sweet Kiss": "5",
+            "Sweet Scent": "10",
+            "Draining Kiss": "15",
+            "Aromatherapy": "20",
+            "Attract": "25",
+            "Acid Armor": "30",
+            "Dazzling Gleam": "35",
+            "Recover": "40",
+            "Misty Terrain": "45",
+            "Entrainment": "50"
+        },
+        "egg": {
+            "Baby-Doll Eyes": null,
+            "Last Resort": null
+        },
+        "tm": {
+            "Rest": "21",
+            "Snore": "24",
+            "Protect": "25",
+            "Charm": "29",
+            "Attract": "31",
+            "Facade": "39",
+            "Helping Hand": "41",
+            "Fling": "59",
+            "Round": "76",
+            "Draining Kiss": "87",
+            "Misty Terrain": "89"
+        },
+        "null": {
+            "Substitute": "20",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Stored Power": "82",
+            "Dazzling Gleam": "92"
+        }
+    },
+    "entries": {
+        "Milcery": [
+            "This Pok\u00e9mon was born from sweet-smelling particles in the air. Its body is made of cream.",
+            "They say that any patisserie visited by Milcery is guaranteed success and good fortune."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793372407943188/868.png",
+    "discord_sprite": "<:P868:1132150995313508462>"
+}

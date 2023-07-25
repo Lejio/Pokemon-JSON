@@ -1,0 +1,205 @@
+{
+    "alt-version(s)": [],
+    "name": "Lillipup",
+    "Lillipup": {
+        "pokedex_data": {
+            "National No.": "0506",
+            "Type": [
+                "Normal"
+            ],
+            "Species": "Puppy Poke\u0301mon",
+            "Height": "0.4 m (1\u203204\u2032\u2032)",
+            "Weight": "4.1 kg (9.0 lbs)",
+            "Abilities": {
+                "Vital Spirit": {
+                    "href": "/ability/vital-spirit",
+                    "effect": "Prevents the Pok\u00e9mon from falling asleep.",
+                    "hidden": false
+                },
+                "Pickup": {
+                    "href": "/ability/pickup",
+                    "effect": "The Pok\u00e9mon may pick up items.",
+                    "hidden": false
+                },
+                "Run Away": {
+                    "href": "/ability/run-away",
+                    "effect": "Enables a sure getaway from wild Pok\u00e9mon.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack",
+            "Catch rate": "255",
+            "BaseFriendship": "50",
+            "Base Exp.": "55",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "45",
+                "Min": "200",
+                "Max": "294"
+            },
+            "Attack": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Defense": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Sp. Atk": {
+                "Base": "25",
+                "Min": "49",
+                "Max": "163"
+            },
+            "Sp. Def": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Speed": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Total": "275"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Lillipup",
+                    "nationalNo": "#0506",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Herdier",
+                    "nationalNo": "#0507",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 16)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Herdier",
+                    "nationalNo": "#0507",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Stoutland",
+                    "nationalNo": "#0508",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 32)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Leer": "1",
+            "Tackle": "1",
+            "Work Up": "4",
+            "Bite": "8",
+            "Retaliate": "12",
+            "Baby-Doll Eyes": "17",
+            "Play Rough": "20",
+            "Crunch": "24",
+            "Take Down": "28",
+            "Helping Hand": "32",
+            "Reversal": "36",
+            "Roar": "40",
+            "Last Resort": "44",
+            "Giga Impact": "48"
+        },
+        "egg": {
+            "After You": null,
+            "Covet": null,
+            "Howl": null,
+            "Lick": null,
+            "Mud-Slap": null,
+            "Yawn": null
+        },
+        "tm": {
+            "Giga Impact": "09",
+            "Thunder Wave": "14",
+            "Dig": "15",
+            "Rest": "21",
+            "Snore": "24",
+            "Protect": "25",
+            "Charm": "29",
+            "Attract": "31",
+            "Rain Dance": "33",
+            "Sunny Day": "34",
+            "Facade": "39",
+            "Helping Hand": "41",
+            "Rock Tomb": "48",
+            "Payback": "57",
+            "Thunder Fang": "66",
+            "Ice Fang": "67",
+            "Fire Fang": "68",
+            "Round": "76",
+            "Retaliate": "79",
+            "Snarl": "85"
+        },
+        "null": {
+            "Thunderbolt": "08",
+            "Substitute": "20",
+            "Reversal": "21",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Crunch": "32",
+            "Shadow Ball": "33",
+            "Uproar": "35",
+            "Hyper Voice": "42",
+            "Work Up": "85",
+            "Wild Charge": "86",
+            "Play Rough": "90",
+            "Psychic Fangs": "97"
+        }
+    },
+    "entries": {
+        "Lillipup": [
+            "It faces strong opponents with great courage. But, when at a disadvantage in a fight, this intelligent Pok\u00e9mon flees.",
+            "The long hair around its face provides an amazing radar that lets it sense subtle changes in its surroundings.",
+            "Though it is a very brave Pok\u00e9mon, it\u2019s also smart enough to check its foe\u2019s strength and avoid battle.",
+            "The long hair around its face provides an amazing radar that lets it sense subtle changes in its surroundings.",
+            "Though it is a very brave Pok\u00e9mon, it\u2019s also smart enough to check its foe\u2019s strength and avoid battle.",
+            "Because it doesn\u2019t yelp, it\u2019s extremely popular with Trainers who live in apartment buildings.",
+            "The long fur surrounding its face functions as radar, enabling it to probe the condition of its battle opponents.",
+            "This Pok\u00e9mon has excellent judgment. If it decides it can\u2019t defeat an opponent, it immediately turns tail and vamooses.",
+            "This Pok\u00e9mon is popular with beginners because it\u2019s intelligent, obedient to its Trainer\u2019s commands, and easy to raise.",
+            "This Pok\u00e9mon is courageous but also cautious. It uses the soft fur covering its face to collect information about its surroundings.",
+            "This Pok\u00e9mon is far brighter than the average child, and Lillipup won\u2019t forget the love it receives or any abuse it suffers."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790545191190660/506.png",
+    "discord_sprite": "<:P506:1132134996438691934>"
+}

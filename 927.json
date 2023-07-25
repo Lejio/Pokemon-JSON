@@ -1,0 +1,183 @@
+{
+    "alt-version(s)": [],
+    "name": "Dachsbun",
+    "Dachsbun": {
+        "pokedex_data": {
+            "National No.": "0927",
+            "Type": [
+                "Fairy"
+            ],
+            "Species": "Dog Poke\u0301mon",
+            "Height": "0.5 m (1\u203208\u2032\u2032)",
+            "Weight": "14.9 kg (32.8 lbs)",
+            "Abilities": {
+                "Well-Baked Body": {
+                    "href": "/ability/well-baked-body",
+                    "effect": "Immune to Fire-type moves, and Defense is sharply boosted.",
+                    "hidden": false
+                },
+                "Aroma Veil": {
+                    "href": "/ability/aroma-veil",
+                    "effect": "Protects allies from attacks that limit their move choices.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Speed",
+            "Catch rate": "90",
+            "BaseFriendship": "50",
+            "Base Exp.": "167",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "57",
+                "Min": "224",
+                "Max": "318"
+            },
+            "Attack": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Defense": {
+                "Base": "115",
+                "Min": "211",
+                "Max": "361"
+            },
+            "Sp. Atk": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Def": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Speed": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Total": "477"
+        },
+        "defense_stats": {
+            "Well-Baked Body ability": {
+                "Fire": "no effect",
+                "Fighting": "not very effective",
+                "Poison": "super-effective",
+                "Bug": "not very effective",
+                "Dragon": "no effect",
+                "Dark": "not very effective",
+                "Steel": "super-effective"
+            },
+            "Aroma Veil ability": {
+                "Fighting": "not very effective",
+                "Poison": "super-effective",
+                "Bug": "not very effective",
+                "Dragon": "no effect",
+                "Dark": "not very effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Fidough",
+                    "nationalNo": "#0926",
+                    "type": [
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Dachsbun",
+                    "nationalNo": "#0927",
+                    "type": [
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 26)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Growl": "1",
+            "Tackle": "1",
+            "Lick": "3",
+            "Tail Whip": "6",
+            "Covet": "8",
+            "Bite": "11",
+            "Baby-Doll Eyes": "15",
+            "Play Rough": "18",
+            "Work Up": "22",
+            "Baton Pass": "29",
+            "Roar": "33",
+            "Double-Edge": "38",
+            "Charm": "42",
+            "Crunch": "47",
+            "Last Resort": "53"
+        },
+        "egg": {
+            "Copycat": null,
+            "Howl": null,
+            "Sweet Scent": null,
+            "Wish": null,
+            "Yawn": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Charm": "02",
+            "Agility": "04",
+            "Mud-Slap": "05",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Fire Fang": "08",
+            "Thunder Fang": "09",
+            "Ice Fang": "10",
+            "Trailblaze": "20",
+            "Facade": "25",
+            "Snarl": "30",
+            "Mud Shot": "35",
+            "Draining Kiss": "37",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Dig": "55",
+            "Psychic Fangs": "63",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Dazzling Gleam": "79",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Body Press": "89",
+            "Substitute": "103",
+            "Crunch": "108",
+            "Play Rough": "127",
+            "Helping Hand": "130",
+            "Baton Pass": "132",
+            "Misty Terrain": "139",
+            "Giga Impact": "152",
+            "Hyper Beam": "163",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Dachsbun": [
+            "The pleasant aroma that emanates from this Pok\u00e9mon\u2019s body helps wheat grow, so Dachsbun has been treasured by farming villages.",
+            "The surface of this Pok\u00e9mon\u2019s skin hardens when exposed to intense heat, and its body has an appetizing aroma."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793832183332874/927.png",
+    "discord_sprite": "<:P927:1132153583815626774>"
+}

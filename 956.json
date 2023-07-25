@@ -1,0 +1,193 @@
+{
+    "alt-version(s)": [],
+    "name": "Espathra",
+    "Espathra": {
+        "pokedex_data": {
+            "National No.": "0956",
+            "Type": [
+                "Psychic"
+            ],
+            "Species": "Ostrich Poke\u0301mon",
+            "Height": "1.9 m (6\u203203\u2032\u2032)",
+            "Weight": "90.0 kg (198.4 lbs)",
+            "Abilities": {
+                "Opportunist": {
+                    "href": "/ability/opportunist",
+                    "effect": "Copies stat boosts by the opponent.",
+                    "hidden": false
+                },
+                "Frisk": {
+                    "href": "/ability/frisk",
+                    "effect": "The Pok\u00e9mon can check a foe's held item.",
+                    "hidden": false
+                },
+                "Speed Boost": {
+                    "href": "/ability/speed-boost",
+                    "effect": "Its Speed stat is gradually boosted.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Speed",
+            "Catch rate": "60",
+            "BaseFriendship": "50",
+            "Base Exp.": "168",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "95",
+                "Min": "300",
+                "Max": "394"
+            },
+            "Attack": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Defense": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Atk": {
+                "Base": "101",
+                "Min": "186",
+                "Max": "331"
+            },
+            "Sp. Def": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Speed": {
+                "Base": "105",
+                "Min": "193",
+                "Max": "339"
+            },
+            "Total": "481"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Flittle",
+                    "nationalNo": "#0955",
+                    "type": [
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Espathra",
+                    "nationalNo": "#0956",
+                    "type": [
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 35)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Drill Peck": "1",
+            "Feather Dance": "1",
+            "Growl": "1",
+            "Peck": "1",
+            "Confusion": "5",
+            "Baby-Doll Eyes": "8",
+            "Disarming Voice": "11",
+            "Quick Attack": "15",
+            "Psybeam": "19",
+            "Pluck": "24",
+            "Agility": "29",
+            "Uproar": "34",
+            "Dazzling Gleam": "43",
+            "Psychic": "49",
+            "Last Resort": "54"
+        },
+        "evolution": {
+            "Lumina Crash": "80"
+        },
+        "egg": {
+            "Ally Switch": null,
+            "Hypnosis": null,
+            "Roost": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Agility": "04",
+            "Mud-Slap": "05",
+            "Protect": "07",
+            "Low Kick": "12",
+            "Psybeam": "16",
+            "Confuse Ray": "17",
+            "Thief": "18",
+            "Disarming Voice": "19",
+            "Pounce": "21",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Hex": "29",
+            "Swift": "32",
+            "Stored Power": "41",
+            "Night Shade": "42",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Sandstorm": "51",
+            "Psyshock": "54",
+            "Zen Headbutt": "59",
+            "U-turn": "60",
+            "Foul Play": "62",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Seed Bomb": "71",
+            "Reflect": "74",
+            "Light Screen": "75",
+            "Dazzling Gleam": "79",
+            "Rest": "85",
+            "Flash Cannon": "93",
+            "Skill Swap": "98",
+            "Substitute": "103",
+            "Trick": "109",
+            "Shadow Ball": "114",
+            "Hyper Voice": "117",
+            "Energy Ball": "119",
+            "Psychic": "120",
+            "Calm Mind": "129",
+            "Helping Hand": "130",
+            "Baton Pass": "132",
+            "Psychic Terrain": "138",
+            "Giga Impact": "152",
+            "Trick Room": "161",
+            "Hyper Beam": "163",
+            "Brave Bird": "164",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Espathra": [
+            "It immobilizes opponents by bathing them in psychic power from its large eyes. Despite its appearance, it has a vicious temperament.",
+            "It emits psychic power from the gaps between its multicolored frills and sprints at speeds greater than 120 mph."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131794056884785172/956.png",
+    "discord_sprite": "<:P956:1132154857923563670>"
+}

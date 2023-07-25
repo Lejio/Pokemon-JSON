@@ -1,0 +1,144 @@
+{
+    "alt-version(s)": [],
+    "name": "Manaphy",
+    "Manaphy": {
+        "pokedex_data": {
+            "National No.": "0490",
+            "Type": [
+                "Water"
+            ],
+            "Species": "Seafaring Poke\u0301mon",
+            "Height": "0.3 m (1\u203200\u2032\u2032)",
+            "Weight": "1.4 kg (3.1 lbs)",
+            "Abilities": {
+                "Hydration": {
+                    "href": "/ability/hydration",
+                    "effect": "Heals status problems if it is raining.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 HP",
+            "Catch rate": "3",
+            "BaseFriendship": "50",
+            "Base Exp.": "270",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "100",
+                "Min": "310",
+                "Max": "404"
+            },
+            "Attack": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Defense": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Sp. Atk": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Sp. Def": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Speed": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Total": "600"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Tail Glow": "1",
+            "Water Gun": "1",
+            "Charm": "9",
+            "Supersonic": "16",
+            "Bubble Beam": "24",
+            "Acid Armor": "31",
+            "Whirlpool": "39",
+            "Water Pulse": "46",
+            "Aqua Ring": "54",
+            "Dive": "61",
+            "Rain Dance": "69",
+            "Heart Swap": "76"
+        },
+        "egg": null,
+        "tm": {
+            "Water Pulse": "03",
+            "Calm Mind": "04",
+            "Hail": "07",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Hyper Beam": "15",
+            "Light Screen": "16",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Safeguard": "20",
+            "Dazzling Gleam": "21",
+            "Psychic": "29",
+            "Shadow Ball": "30",
+            "Double Team": "32",
+            "Reflect": "33",
+            "Facade": "42",
+            "Rest": "44",
+            "Skill Swap": "48",
+            "Scald": "49",
+            "Energy Ball": "53",
+            "Brine": "55",
+            "Fling": "56",
+            "Endure": "58",
+            "Giga Impact": "68",
+            "Flash": "70",
+            "Psych Up": "77",
+            "Sleep Talk": "82",
+            "Grass Knot": "86",
+            "Swagger": "87",
+            "U-turn": "89",
+            "Substitute": "90",
+            "Surf": "95",
+            "Waterfall": "99"
+        }
+    },
+    "entries": {
+        "Manaphy": [
+            "Born on a cold seafloor, it will swim great distances to return to its birthplace.",
+            "Water makes up 80% of its body. This Pok\u00e9mon is easily affected by its environment.",
+            "It is born with a wondrous power that lets it bond with any kind of Pok\u00e9mon.",
+            "It starts its life with a wondrous power that permits it to bond with any kind of Pok\u00e9mon.",
+            "It is born with a wondrous power that lets it bond with any kind of Pok\u00e9mon.",
+            "It is born with a wondrous power that lets it bond with any kind of Pok\u00e9mon.",
+            "It starts its life with a wondrous power that permits it to bond with any kind of Pok\u00e9mon.",
+            "Born on a cold seafloor, it will swim great distances to return to its birthplace.",
+            "Water makes up 80 percent of its body. This Pok\u00e9mon is easily affected by its environment.",
+            "Rumored to migrate across the oceans and visit Hisui\u2019s coastal waters only rarely. Although Manaphy resembles Phione, it is also quite different. The relation between the two is unclear."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790419378835537/490.png",
+    "discord_sprite": "<:P490:1132134295918608404>"
+}

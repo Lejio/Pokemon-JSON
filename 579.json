@@ -1,0 +1,224 @@
+{
+    "alt-version(s)": [],
+    "name": "Reuniclus",
+    "Reuniclus": {
+        "pokedex_data": {
+            "National No.": "0579",
+            "Type": [
+                "Psychic"
+            ],
+            "Species": "Multiplying Poke\u0301mon",
+            "Height": "1.0 m (3\u203203\u2032\u2032)",
+            "Weight": "20.1 kg (44.3 lbs)",
+            "Abilities": {
+                "Overcoat": {
+                    "href": "/ability/overcoat",
+                    "effect": "Protects the Pok\u00e9mon from weather damage.",
+                    "hidden": false
+                },
+                "Magic Guard": {
+                    "href": "/ability/magic-guard",
+                    "effect": "Protects the Pok\u00e9mon from indirect damage.",
+                    "hidden": false
+                },
+                "Regenerator": {
+                    "href": "/ability/regenerator",
+                    "effect": "Restores a little HP when withdrawn from battle.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Sp. Atk",
+            "Catch rate": "50",
+            "BaseFriendship": "50",
+            "Base Exp.": "221",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "110",
+                "Min": "330",
+                "Max": "424"
+            },
+            "Attack": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Defense": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Sp. Atk": {
+                "Base": "125",
+                "Min": "229",
+                "Max": "383"
+            },
+            "Sp. Def": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Speed": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Total": "490"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Solosis",
+                    "nationalNo": "#0577",
+                    "type": [
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Duosion",
+                    "nationalNo": "#0578",
+                    "type": [
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 32)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Duosion",
+                    "nationalNo": "#0578",
+                    "type": [
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Reuniclus",
+                    "nationalNo": "#0579",
+                    "type": [
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 41)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Confusion": "1",
+            "Endeavor": "1",
+            "Hammer Arm": "1",
+            "Protect": "1",
+            "Recover": "1",
+            "Psybeam": "12",
+            "Charm": "16",
+            "Psyshock": "20",
+            "Light Screen": "24",
+            "Reflect": "24",
+            "Ally Switch": "28",
+            "Pain Split": "35",
+            "Psychic": "40",
+            "Skill Swap": "48",
+            "Future Sight": "56",
+            "Wonder Room": "64"
+        },
+        "evolution": {
+            "Hammer Arm": "100"
+        },
+        "egg": {
+            "Acid Armor": null,
+            "Astonish": null,
+            "Confuse Ray": null
+        },
+        "null": {
+            "Thunder": "09",
+            "Psychic": "11",
+            "Substitute": "20",
+            "Psyshock": "25",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Encore": "30",
+            "Shadow Ball": "33",
+            "Future Sight": "34",
+            "Trick": "38",
+            "Superpower": "39",
+            "Skill Swap": "40",
+            "Iron Defense": "46",
+            "Calm Mind": "49",
+            "Gyro Ball": "52",
+            "Focus Blast": "64",
+            "Energy Ball": "65",
+            "Zen Headbutt": "69",
+            "Flash Cannon": "70",
+            "Grass Knot": "77",
+            "Stored Power": "82",
+            "Ally Switch": "83"
+        },
+        "tm": {
+            "Mega Punch": "00",
+            "Fire Punch": "03",
+            "Ice Punch": "04",
+            "Thunder Punch": "05",
+            "Hyper Beam": "08",
+            "Giga Impact": "09",
+            "Thunder Wave": "14",
+            "Light Screen": "17",
+            "Reflect": "18",
+            "Safeguard": "19",
+            "Rest": "21",
+            "Rock Slide": "22",
+            "Snore": "24",
+            "Protect": "25",
+            "Charm": "29",
+            "Attract": "31",
+            "Rain Dance": "33",
+            "Facade": "39",
+            "Helping Hand": "41",
+            "Imprison": "44",
+            "Rock Tomb": "48",
+            "Fling": "59",
+            "Power Swap": "60",
+            "Guard Swap": "61",
+            "Drain Punch": "63",
+            "Trick Room": "70",
+            "Wonder Room": "71",
+            "Round": "76",
+            "Psychic Terrain": "91"
+        }
+    },
+    "entries": {
+        "Reuniclus": [
+            "When Reuniclus shake hands, a network forms between their brains, increasing their psychic power.",
+            "These remarkably intelligent Pok\u00e9mon fight by controlling arms that can grip with rock-crushing power.",
+            "They use psychic power to control their arms, which are made of a special liquid. They can crush boulders psychically.",
+            "They use psychic power to control their arms, which are made of a special liquid. They can crush boulders psychically.",
+            "When Reuniclus shake hands, a network forms between their brains, increasing their psychic power.",
+            "While it could use its psychic abilities in battle, this Pok\u00e9mon prefers to swing its powerful arms around to beat opponents into submission.",
+            "It\u2019s said that drinking the liquid surrounding Reuniclus grants wisdom. Problem is, the liquid is highly toxic to anything besides Reuniclus itself."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791115322921030/579.png",
+    "discord_sprite": "<:P579:1132138218817585205>"
+}

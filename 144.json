@@ -1,0 +1,305 @@
+{
+    "alt-version(s)": [
+        "Galarian Articuno"
+    ],
+    "name": "Articuno",
+    "Articuno": {
+        "pokedex_data": {
+            "National No.": "0144",
+            "Type": [
+                "Ice",
+                "Flying"
+            ],
+            "Species": "Freeze Poke\u0301mon",
+            "Height": "1.7 m (5\u203207\u2032\u2032)",
+            "Weight": "55.4 kg (122.1 lbs)",
+            "Abilities": {
+                "Pressure": {
+                    "href": "/ability/pressure",
+                    "effect": "The Pok\u00e9mon raises the foe's PP usage.",
+                    "hidden": false
+                },
+                "Snow Cloak": {
+                    "href": "/ability/snow-cloak",
+                    "effect": "Raises evasion in a hailstorm.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Sp. Def",
+            "Catch rate": "3",
+            "BaseFriendship": "35",
+            "Base Exp.": "290",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "90",
+                "Min": "290",
+                "Max": "384"
+            },
+            "Attack": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Defense": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Sp. Atk": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Sp. Def": {
+                "Base": "125",
+                "Min": "229",
+                "Max": "383"
+            },
+            "Speed": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Total": "580"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Electric": "super-effective",
+                "Grass": "not very effective",
+                "Ground": "no effect",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "Galarian Articuno": {
+        "pokedex_data": {
+            "National No.": "0144",
+            "Type": [
+                "Psychic",
+                "Flying"
+            ],
+            "Species": "Cruel Poke\u0301mon",
+            "Height": "1.7 m (5\u203207\u2032\u2032)",
+            "Weight": "50.9 kg (112.2 lbs)",
+            "Abilities": {
+                "Competitive": {
+                    "href": "/ability/competitive",
+                    "effect": "Sharply raises Special Attack when the Pok\u00e9mon's stats are lowered.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Sp. Atk",
+            "Catch rate": "3",
+            "BaseFriendship": "35",
+            "Base Exp.": "290",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "90",
+                "Min": "290",
+                "Max": "384"
+            },
+            "Attack": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Defense": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Sp. Atk": {
+                "Base": "125",
+                "Min": "229",
+                "Max": "383"
+            },
+            "Sp. Def": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Speed": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Total": "580"
+        },
+        "defense_stats": {
+            "default": {
+                "Electric": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Ground": "no effect",
+                "Psychic": "not very effective",
+                "Rock": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "Articuno": {
+            "moves": {
+                "Gust": "1",
+                "Mist": "1",
+                "Powder Snow": "5",
+                "Reflect": "10",
+                "Ice Shard": "15",
+                "Agility": "20",
+                "Ancient Power": "25",
+                "Tailwind": "30",
+                "Freeze-Dry": "35",
+                "Roost": "40",
+                "Ice Beam": "45",
+                "Snowscape": "50",
+                "Hurricane": "55",
+                "Haze": "60",
+                "Blizzard": "65",
+                "Sheer Cold": "70"
+            },
+            "tm": {
+                "Take Down": "01",
+                "Agility": "04",
+                "Protect": "07",
+                "Water Pulse": "11",
+                "Facade": "25",
+                "Aerial Ace": "27",
+                "Swift": "32",
+                "Icy Wind": "34",
+                "Air Cutter": "40",
+                "Avalanche": "46",
+                "Endure": "47",
+                "Sunny Day": "49",
+                "Rain Dance": "50",
+                "Sandstorm": "51",
+                "Snowscape": "52",
+                "U-turn": "60",
+                "Air Slash": "65",
+                "Sleep Talk": "70",
+                "Reflect": "74",
+                "Light Screen": "75",
+                "Rest": "85",
+                "Fly": "97",
+                "Substitute": "103",
+                "Tailwind": "113",
+                "Ice Spinner": "124",
+                "Helping Hand": "130",
+                "Ice Beam": "135",
+                "Blizzard": "143",
+                "Giga Impact": "152",
+                "Hurricane": "160",
+                "Hyper Beam": "163",
+                "Brave Bird": "164",
+                "Tera Blast": "171"
+            }
+        },
+        "Galarian Articuno": {
+            "moves": {
+                "Gust": "1",
+                "Confusion": "5",
+                "Reflect": "10",
+                "Hypnosis": "15",
+                "Agility": "20",
+                "Ancient Power": "25",
+                "Tailwind": "30",
+                "Psycho Cut": "35",
+                "Recover": "40",
+                "Freezing Glare": "45",
+                "Dream Eater": "50",
+                "Hurricane": "55",
+                "Double Team": "60",
+                "Future Sight": "65",
+                "Trick Room": "70"
+            },
+            "tm": {
+                "Take Down": "01",
+                "Agility": "04",
+                "Scary Face": "06",
+                "Protect": "07",
+                "Psybeam": "16",
+                "Facade": "25",
+                "Swift": "32",
+                "Air Cutter": "40",
+                "Stored Power": "41",
+                "Endure": "47",
+                "Sunny Day": "49",
+                "Rain Dance": "50",
+                "Snowscape": "52",
+                "Psyshock": "54",
+                "U-turn": "60",
+                "Air Slash": "65",
+                "Sleep Talk": "70",
+                "Reflect": "74",
+                "Light Screen": "75",
+                "Rest": "85",
+                "Imprison": "92",
+                "Fly": "97",
+                "Skill Swap": "98",
+                "Substitute": "103",
+                "Trick": "109",
+                "Tailwind": "113",
+                "Shadow Ball": "114",
+                "Hyper Voice": "117",
+                "Psychic": "120",
+                "Calm Mind": "129",
+                "Helping Hand": "130",
+                "Giga Impact": "152",
+                "Hurricane": "160",
+                "Trick Room": "161",
+                "Hyper Beam": "163",
+                "Brave Bird": "164",
+                "Tera Blast": "171"
+            }
+        },
+        "egg": null
+    },
+    "entries": {
+        "Articuno": [
+            "A legendary bird pok\u00e9mon that is said to appear to doomed people who are lost in icy mountains.",
+            "A legendary bird pok\u00e9mon. It freezes water that is contained in winter air and makes it snow.",
+            "The magnificent, seemingly translucent wings of this legendary bird pok\u00e9mon are said to be made of ice.",
+            "One of the legendary bird pok\u00e9mon, it chills moisture in the atmosphere to create snow while flying.",
+            "Legendary bird pok\u00e9mon. As it flies through the sky, it cools the air, causing snow to fall.",
+            "ARTICUNO is a legendary bird pok\u00e9mon that can control ice. The flapping of its wings chills the air. As a result, it is said that when this pok\u00e9mon flies, snow will fall.",
+            "One of the legendary bird pok\u00e9mon. With its long tail trailing behind, its flying form is magnificent.",
+            "A legendary bird pok\u00e9mon that is said to appear to doomed people who are lost in icy mountains.",
+            "A legendary bird Pok\u00e9mon. It can create blizzards by freezing moisture in the air.",
+            "The magnificent, seemingly translucent wings of this legendary bird Pok\u00e9mon are said to be made of ice.",
+            "One of the legendary bird Pok\u00e9mon, it chills moisture in the atmosphere to create snow while flying.",
+            "A legendary bird Pok\u00e9mon. It can create blizzards by freezing moisture in the air.",
+            "A legendary bird Pok\u00e9mon. It can create blizzards by freezing moisture in the air.",
+            "A legendary bird Pok\u00e9mon that is said to appear to doomed people who are lost in icy mountains.",
+            "Articuno is a legendary bird Pok\u00e9mon that can control ice. The flapping of its wings chills the air. As a result, it is said that when this Pok\u00e9mon flies, snow will fall.",
+            "A legendary bird Pok\u00e9mon. It freezes water that is contained in winter air and makes it snow.",
+            "It\u2019s said that this Pok\u00e9mon\u2019s beautiful blue wings are made of ice. Articuno flies over snowy mountains, its long tail fluttering along behind it.",
+            "This Pok\u00e9mon can control ice at will. Articuno is said to live in snowy mountains riddled with permafrost.",
+            "This legendary bird Pok\u00e9mon can create blizzards by freezing moisture in the air."
+        ],
+        "Galarian Articuno": [
+            "Its feather-like blades are composed of psychic energy and can shear through thick iron sheets as if they were paper.",
+            "Known as Articuno, this Pok\u00e9mon fires beams that can immobilize opponents as if they had been frozen solid."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787714279256104/144.png",
+    "discord_sprite": "<:P144:1132119071450730528>"
+}

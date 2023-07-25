@@ -1,0 +1,279 @@
+{
+    "alt-version(s)": [
+        "Mega Manectric"
+    ],
+    "name": "Manectric",
+    "Manectric": {
+        "pokedex_data": {
+            "National No.": "0310",
+            "Type": [
+                "Electric"
+            ],
+            "Species": "Discharge Poke\u0301mon",
+            "Height": "1.5 m (4\u203211\u2032\u2032)",
+            "Weight": "40.2 kg (88.6 lbs)",
+            "Abilities": {
+                "Static": {
+                    "href": "/ability/static",
+                    "effect": "Contact with the Pok\u00e9mon may cause paralysis.",
+                    "hidden": false
+                },
+                "Lightning Rod": {
+                    "href": "/ability/lightning-rod",
+                    "effect": "Draws in all Electric-type moves to up Sp. Attack.",
+                    "hidden": false
+                },
+                "Minus": {
+                    "href": "/ability/minus",
+                    "effect": "Ups Sp. Atk if another Pok\u00e9mon has Plus or Minus.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Speed",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "166",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "70",
+                "Min": "250",
+                "Max": "344"
+            },
+            "Attack": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Defense": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Atk": {
+                "Base": "105",
+                "Min": "193",
+                "Max": "339"
+            },
+            "Sp. Def": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Speed": {
+                "Base": "105",
+                "Min": "193",
+                "Max": "339"
+            },
+            "Total": "475"
+        },
+        "defense_stats": {
+            "Static ability": {
+                "Electric": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Steel": "not very effective"
+            },
+            "Lightning Rod ability": {
+                "Electric": "no effect",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Steel": "not very effective"
+            },
+            "Minus ability": {
+                "Electric": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "Mega Manectric": {
+        "pokedex_data": {
+            "National No.": "0310",
+            "Type": [
+                "Electric"
+            ],
+            "Species": "Discharge Poke\u0301mon",
+            "Height": "1.8 m (5\u203211\u2032\u2032)",
+            "Weight": "44.0 kg (97.0 lbs)",
+            "Abilities": {
+                "Intimidate": {
+                    "href": "/ability/intimidate",
+                    "effect": "Lowers the foe's Attack stat.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Speed",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "201",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "70",
+                "Min": "250",
+                "Max": "344"
+            },
+            "Attack": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Defense": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Sp. Atk": {
+                "Base": "135",
+                "Min": "247",
+                "Max": "405"
+            },
+            "Sp. Def": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Speed": {
+                "Base": "135",
+                "Min": "247",
+                "Max": "405"
+            },
+            "Total": "575"
+        },
+        "defense_stats": {
+            "default": {
+                "Electric": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Electrike",
+                    "nationalNo": "#0309",
+                    "type": [
+                        "Electric"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Manectric",
+                    "nationalNo": "#0310",
+                    "type": [
+                        "Electric"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 26)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Fire Fang": "1",
+            "Howl": "1",
+            "Leer": "1",
+            "Tackle": "1",
+            "Thunder Wave": "1",
+            "Quick Attack": "12",
+            "Shock Wave": "16",
+            "Bite": "20",
+            "Thunder Fang": "24",
+            "Roar": "30",
+            "Discharge": "36",
+            "Charge": "42",
+            "Wild Charge": "48",
+            "Thunder": "54",
+            "Electric Terrain": "60"
+        },
+        "egg": {
+            "Crunch": null,
+            "Curse": null,
+            "Discharge": null,
+            "Eerie Impulse": null,
+            "Electro Ball": null,
+            "Fire Fang": null,
+            "Headbutt": null,
+            "Ice Fang": null,
+            "Spark": null,
+            "Swift": null,
+            "Switcheroo": null,
+            "Thunder Fang": null,
+            "Uproar": null
+        },
+        "tm": {
+            "Roar": "05",
+            "Hyper Beam": "15",
+            "Light Screen": "16",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Iron Tail": "23",
+            "Thunderbolt": "24",
+            "Thunder": "25",
+            "Double Team": "32",
+            "Shock Wave": "34",
+            "Flamethrower": "35",
+            "Facade": "42",
+            "Volt Switch": "43",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Overheat": "50",
+            "Charge Beam": "57",
+            "Endure": "58",
+            "Giga Impact": "68",
+            "Flash": "70",
+            "Thunder Wave": "73",
+            "Snarl": "78",
+            "Sleep Talk": "82",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Strength": "96"
+        }
+    },
+    "entries": {
+        "Manectric": [
+            "MANECTRIC is constantly discharging electricity from its mane. The sparks sometimes ignite forest fires. When it enters a battle, this pok\u00e9mon creates thunderclouds.",
+            "MANECTRIC discharges strong electricity from its mane. The mane is used for collecting electricity in the atmosphere. This pok\u00e9mon creates thunderclouds above its head.",
+            "It rarely appears before people. It is said to nest where lightning has fallen.",
+            "Because lightning falls in their vicinities, MANECTRIC were thought to have been born from lightning. In battle, they create thunderclouds.",
+            "It discharges electricity from its mane. It creates a thundercloud overhead to drop lightning bolts.",
+            "Its nest can be found where a thunderbolt hits. It is discharging electricity from its mane.",
+            "It discharges electricity from its mane. It creates a thundercloud overhead to drop lightning bolts.",
+            "It rarely appears before people. It is said to nest where lightning has fallen.",
+            "It discharges electricity from its mane. It creates a thundercloud overhead to drop lightning bolts.",
+            "Manectric is constantly discharging electricity from its mane. The sparks sometimes ignite forest fires. When it enters a battle, this Pok\u00e9mon creates thunderclouds.",
+            "Manectric discharges strong electricity from its mane. The mane is used for collecting electricity in the atmosphere. This Pok\u00e9mon creates thunderclouds above its head.",
+            "Manectric can be found beneath unnatural thunderclouds. People say it can run at the same speed as lightning striking.",
+            "It stimulates its own muscles with electricity, so it can move quickly. It eases its soreness with electricity, too, so it can recover quickly as well.",
+            "It stimulates its own muscles with electricity, so it can move quickly. It eases its soreness with electricity, too, so it can recover quickly as well.",
+            "It rarely appears before people. It is said to nest where lightning has fallen.",
+            "It discharges electricity from its mane. The Pok\u00e9mon creates a thundercloud overhead from which to drop lightning bolts."
+        ],
+        "Mega Manectric": [
+            "Mega Evolution fills its body with a tremendous amount of electricity, but it\u2019s too much for Manectric to fully control.",
+            "Too much electricity has built up in its body, irritating Manectric. Its explosive speed is equal to that of a lightning bolt."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789025649360896/310.png",
+    "discord_sprite": "<:P310:1132126379606032575>"
+}

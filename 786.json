@@ -1,0 +1,160 @@
+{
+    "alt-version(s)": [],
+    "name": "Tapu Lele",
+    "Tapu Lele": {
+        "pokedex_data": {
+            "National No.": "0786",
+            "Type": [
+                "Psychic",
+                "Fairy"
+            ],
+            "Species": "Land Spirit Poke\u0301mon",
+            "Height": "1.2 m (3\u203211\u2032\u2032)",
+            "Weight": "18.6 kg (41.0 lbs)",
+            "Abilities": {
+                "Psychic Surge": {
+                    "href": "/ability/psychic-surge",
+                    "effect": "The Pok\u00e9mon creates a Psychic Terrain when it enters a battle.",
+                    "hidden": false
+                },
+                "Telepathy": {
+                    "href": "/ability/telepathy",
+                    "effect": "Anticipates an ally's attack and dodges it.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Sp. Atk",
+            "Catch rate": "3",
+            "BaseFriendship": "50",
+            "Base Exp.": "257",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "70",
+                "Min": "250",
+                "Max": "344"
+            },
+            "Attack": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Defense": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Sp. Atk": {
+                "Base": "130",
+                "Min": "238",
+                "Max": "394"
+            },
+            "Sp. Def": {
+                "Base": "115",
+                "Min": "211",
+                "Max": "361"
+            },
+            "Speed": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Total": "570"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "not very effective",
+                "Poison": "super-effective",
+                "Psychic": "not very effective",
+                "Ghost": "super-effective",
+                "Dragon": "no effect",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Astonish": "1",
+            "Confusion": "1",
+            "Withdraw": "5",
+            "Aromatherapy": "10",
+            "Draining Kiss": "15",
+            "Psybeam": "20",
+            "Flatter": "25",
+            "Aromatic Mist": "30",
+            "Sweet Scent": "35",
+            "Extrasensory": "40",
+            "Psyshock": "45",
+            "Mean Look": "50",
+            "Nature's Madness": "55",
+            "Moonblast": "60",
+            "Tickle": "65",
+            "Skill Swap": "70",
+            "Psychic Terrain": "75"
+        },
+        "egg": null,
+        "tm": {
+            "Hyper Beam": "08",
+            "Giga Impact": "09",
+            "Light Screen": "17",
+            "Reflect": "18",
+            "Safeguard": "19",
+            "Rest": "21",
+            "Thief": "23",
+            "Snore": "24",
+            "Protect": "25",
+            "Charm": "29",
+            "Sunny Day": "34",
+            "Facade": "39",
+            "Fling": "59",
+            "Power Swap": "60",
+            "Guard Swap": "61",
+            "Speed Swap": "62",
+            "Psycho Cut": "69",
+            "Wonder Room": "71",
+            "Magic Room": "72",
+            "Round": "76",
+            "Draining Kiss": "87",
+            "Psychic Terrain": "91"
+        },
+        "null": {
+            "Thunderbolt": "08",
+            "Thunder": "09",
+            "Psychic": "11",
+            "Substitute": "20",
+            "Psyshock": "25",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Shadow Ball": "33",
+            "Future Sight": "34",
+            "Taunt": "37",
+            "Skill Swap": "40",
+            "Iron Defense": "46",
+            "Calm Mind": "49",
+            "Focus Blast": "64",
+            "Energy Ball": "65",
+            "Grass Knot": "77",
+            "Stored Power": "82",
+            "Ally Switch": "83",
+            "Play Rough": "90",
+            "Dazzling Gleam": "92"
+        }
+    },
+    "entries": {
+        "Tapu Lele": [
+            "This guardian deity of Akala is guilelessly cruel. The fragrant aroma of flowers is the source of its energy.",
+            "As it flutters about, it scatters its strangely glowing scales. Touching them is said to restore good health on the spot.",
+            "It heals the wounds of people and Pok\u00e9mon by sprinkling them with its sparkling scales. This guardian deity is worshiped on Akala.",
+            "Although called a guardian deity, Tapu Lele is devoid of guilt about its cruel disposition and can be described as nature incarnate."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792735058272316/786.png",
+    "discord_sprite": "<:P786:1132147388899926097>"
+}

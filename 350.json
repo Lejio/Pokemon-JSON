@@ -1,0 +1,200 @@
+{
+    "alt-version(s)": [],
+    "name": "Milotic",
+    "Milotic": {
+        "pokedex_data": {
+            "National No.": "0350",
+            "Type": [
+                "Water"
+            ],
+            "Species": "Tender Poke\u0301mon",
+            "Height": "6.2 m (20\u203204\u2032\u2032)",
+            "Weight": "162.0 kg (357.1 lbs)",
+            "Abilities": {
+                "Marvel Scale": {
+                    "href": "/ability/marvel-scale",
+                    "effect": "Ups Defense if there is a status problem.",
+                    "hidden": false
+                },
+                "Competitive": {
+                    "href": "/ability/competitive",
+                    "effect": "Sharply raises Special Attack when the Pok\u00e9mon's stats are lowered.",
+                    "hidden": false
+                },
+                "Cute Charm": {
+                    "href": "/ability/cute-charm",
+                    "effect": "Contact with the Pok\u00e9mon may cause infatuation.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Sp. Def",
+            "Catch rate": "60",
+            "BaseFriendship": "50",
+            "Base Exp.": "189",
+            "Growth Rate": "Erratic"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "95",
+                "Min": "300",
+                "Max": "394"
+            },
+            "Attack": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Defense": {
+                "Base": "79",
+                "Min": "146",
+                "Max": "282"
+            },
+            "Sp. Atk": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Sp. Def": {
+                "Base": "125",
+                "Min": "229",
+                "Max": "383"
+            },
+            "Speed": {
+                "Base": "81",
+                "Min": "150",
+                "Max": "287"
+            },
+            "Total": "540"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Feebas",
+                    "nationalNo": "#0349",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Milotic",
+                    "nationalNo": "#0350",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(trade holding Prism Scale, or level up with max Beauty)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Flail": "1",
+            "Splash": "1",
+            "Tackle": "1",
+            "Water Gun": "1",
+            "Water Pulse": "1",
+            "Wrap": "1",
+            "Disarming Voice": "4",
+            "Twister": "8",
+            "Aqua Ring": "12",
+            "Attract": "16",
+            "Life Dew": "20",
+            "Dragon Tail": "24",
+            "Recover": "28",
+            "Aqua Tail": "32",
+            "Safeguard": "36",
+            "Surf": "40",
+            "Rain Dance": "44",
+            "Coil": "48",
+            "Hydro Pump": "52"
+        },
+        "evolution": {
+            "Water Pulse": "60"
+        },
+        "egg": {
+            "Confuse Ray": null,
+            "Dragon Breath": null,
+            "Haze": null,
+            "Hypnosis": null,
+            "Mirror Coat": null,
+            "Mist": null,
+            "Tickle": null
+        },
+        "tm": {
+            "Water Pulse": "03",
+            "Hail": "07",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Hyper Beam": "15",
+            "Light Screen": "16",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Safeguard": "20",
+            "Iron Tail": "23",
+            "Double Team": "32",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Scald": "49",
+            "Brine": "55",
+            "Endure": "58",
+            "Dragon Pulse": "59",
+            "Giga Impact": "68",
+            "Avalanche": "72",
+            "Psych Up": "77",
+            "Sleep Talk": "82",
+            "Bulldoze": "83",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Surf": "95",
+            "Waterfall": "99"
+        }
+    },
+    "entries": {
+        "Milotic": [
+            "MILOTIC is said to be the most beautiful of all the pok\u00e9mon. It has the power to becalm such emotions as anger and hostility to quell bitter feuding.",
+            "MILOTIC live at the bottom of large lakes. When this pok\u00e9mon\u2019s body glows a vivid pink, it releases a pulsing wave of energy that brings soothing calm to restless spirits.",
+            "MILOTIC is breathtakingly beautiful. Those that see it are said to forget their combative spirits.",
+            "It is said to live at the bottom of large lakes. Considered to be the most beautiful of all pok\u00e9mon, it has been depicted in paintings and statues.",
+            "When people bicker, it is said to arise from the depths of lakes to becalm violent hearts.",
+            "It is the world\u2019s most beautiful Pok\u00e9mon. There are many works of art featuring MILOTIC.",
+            "Its lovely scales are described as rainbow colored. They change color depending on the viewing angle.",
+            "It\u2019s said that a glimpse of a MILOTIC and its beauty will calm any hostile emotions you\u2019re feeling.",
+            "Its lovely scales are described as rainbow colored. They change color depending on the viewing angle.",
+            "Milotic is breathtakingly beautiful. Those that see it are said to forget their combative spirits.",
+            "It is the world\u2019s most beautiful Pok\u00e9mon. There are many works of art featuring Milotic.",
+            "Milotic is said to be the most beautiful of all the Pok\u00e9mon. It has the power to becalm such emotions as anger and hostility to quell bitter feuding.",
+            "Milotic live at the bottom of large lakes. When this Pok\u00e9mon\u2019s body glows a vivid pink, it releases a pulsing wave of energy that brings soothing calm to troubled hearts.",
+            "Milotic has provided inspiration to many artists. It has even been referred to as the most beautiful Pok\u00e9mon of all.",
+            "It lives at the bottom of clear lakes. In times of war, it shows itself, which soothes people\u2019s minds and hearts.",
+            "While Milotic is said to be the most beautiful Pok\u00e9mon, Trainers who like Feebas and have raised it are seemingly disappointed by Milotic.",
+            "Its dwelling place is the bottom of big lakes. Those who behold its loveliness are said to have their hearts purified.",
+            "Milotic has provided inspiration to many artists. It has even been referred to as the most beautiful Pok\u00e9mon of all.",
+            "It\u2019s said that a glimpse of a Milotic and its beauty will calm any hostile emotions you\u2019re feeling.",
+            "When people bicker, it is said to arise from the depths of lakes to becalm violent hearts.",
+            "It is the world\u2019s most beautiful Pok\u00e9mon. There are many works of art featuring Milotic."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789335893659719/350.png",
+    "discord_sprite": "<:P350:1132128138705522828>"
+}

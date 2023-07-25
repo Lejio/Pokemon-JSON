@@ -1,0 +1,202 @@
+{
+    "alt-version(s)": [],
+    "name": "Nincada",
+    "Nincada": {
+        "pokedex_data": {
+            "National No.": "0290",
+            "Type": [
+                "Bug",
+                "Ground"
+            ],
+            "Species": "Trainee Poke\u0301mon",
+            "Height": "0.5 m (1\u203208\u2032\u2032)",
+            "Weight": "5.5 kg (12.1 lbs)",
+            "Abilities": {
+                "Compound Eyes": {
+                    "href": "/ability/compound-eyes",
+                    "effect": "The Pok\u00e9mon's accuracy is boosted.",
+                    "hidden": false
+                },
+                "Run Away": {
+                    "href": "/ability/run-away",
+                    "effect": "Enables a sure getaway from wild Pok\u00e9mon.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Defense",
+            "Catch rate": "255",
+            "BaseFriendship": "50",
+            "Base Exp.": "53",
+            "Growth Rate": "Erratic"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "31",
+                "Min": "172",
+                "Max": "266"
+            },
+            "Attack": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Defense": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Sp. Atk": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Sp. Def": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Speed": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Total": "266"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Water": "super-effective",
+                "Electric": "no effect",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Poison": "not very effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Nincada",
+                    "nationalNo": "#0290",
+                    "type": [
+                        "Bug",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Ninjask",
+                    "nationalNo": "#0291",
+                    "type": [
+                        "Bug",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 20)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Nincada",
+                    "nationalNo": "#0290",
+                    "type": [
+                        "Bug",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Ninjask",
+                    "nationalNo": "#0291",
+                    "type": [
+                        "Bug",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 20, empty spot in party, Pok\u00e9ball in bag)",
+                "shed": {
+                    "name": "Shedinja",
+                    "nationalNo": "#0292",
+                    "type": [
+                        "Bug",
+                        "Ghost"
+                    ],
+                    "nickname": null
+                }
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Sand Attack": "1",
+            "Scratch": "1",
+            "Harden": "5",
+            "False Swipe": "10",
+            "Mud-Slap": "15",
+            "Absorb": "21",
+            "Metal Claw": "25",
+            "Fury Swipes": "30",
+            "Mind Reader": "35",
+            "Dig": "40"
+        },
+        "egg": {
+            "Bug Bite": null,
+            "Final Gambit": null,
+            "Flail": null,
+            "Gust": null,
+            "Night Slash": null
+        },
+        "tm": {
+            "Sunny Day": "11",
+            "Protect": "17",
+            "Giga Drain": "19",
+            "Solar Beam": "22",
+            "Dig": "28",
+            "Shadow Ball": "30",
+            "Double Team": "32",
+            "Sandstorm": "37",
+            "Aerial Ace": "40",
+            "Facade": "42",
+            "Rest": "44",
+            "False Swipe": "54",
+            "Endure": "58",
+            "Bug Buzz": "62",
+            "Flash": "70",
+            "X-Scissor": "81",
+            "Sleep Talk": "82",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Cut": "93"
+        }
+    },
+    "entries": {
+        "Nincada": [
+            "NINCADA lives underground for many years in complete darkness. This pok\u00e9mon absorbs nutrients from the roots of trees. It stays motionless as it waits for evolution.",
+            "NINCADA lives underground. It uses its sharp claws to carve the roots of trees and absorb moisture and nutrients. This pok\u00e9mon can\u2019t withstand bright sunlight so avoids it.",
+            "Because it lived almost entirely underground, it is nearly blind. It uses its antennae instead.",
+            "It makes its nest at the roots of a mighty tree. Using its whiskerlike antennae, it probes its surroundings in the pitch-black darkness of soil.",
+            "It grows underground, sensing its surroundings using antennae instead of its virtually blind eyes.",
+            "It can sometimes live underground for more than 10 years. It absorbs nutrients from the roots of trees.",
+            "It grows underground, sensing its surroundings using antennae instead of its virtually blind eyes.",
+            "Because it lived almost entirely underground, it is nearly blind. It uses its antennae instead.",
+            "It can sometimes live underground for more than 10 years. It absorbs nutrients from the roots of trees.",
+            "Nincada lives underground for many years in complete darkness. This Pok\u00e9mon absorbs nutrients from the roots of trees. It stays motionless as it waits for evolution.",
+            "Nincada lives underground. It uses its sharp claws to carve the roots of trees and absorb moisture and nutrients. This Pok\u00e9mon can\u2019t withstand bright sunlight so avoids it.",
+            "Because it lived almost entirely underground, it is nearly blind. It uses its antennae instead.",
+            "It can sometimes live underground for more than 10 years. It absorbs nutrients from the roots of trees.",
+            "It grows underground, sensing its surroundings using antennae instead of its virtually blind eyes."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788863510159360/290.png",
+    "discord_sprite": "<:P290:1132125503231361054>"
+}

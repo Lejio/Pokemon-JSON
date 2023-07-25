@@ -1,0 +1,247 @@
+{
+    "alt-version(s)": [],
+    "name": "Dustox",
+    "Dustox": {
+        "pokedex_data": {
+            "National No.": "0269",
+            "Type": [
+                "Bug",
+                "Poison"
+            ],
+            "Species": "Poison Moth Poke\u0301mon",
+            "Height": "1.2 m (3\u203211\u2032\u2032)",
+            "Weight": "31.6 kg (69.7 lbs)",
+            "Abilities": {
+                "Shield Dust": {
+                    "href": "/ability/shield-dust",
+                    "effect": "Blocks the added effects of attacks taken.",
+                    "hidden": false
+                },
+                "Compound Eyes": {
+                    "href": "/ability/compound-eyes",
+                    "effect": "The Pok\u00e9mon's accuracy is boosted.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Sp. Def",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "173",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "60",
+                "Min": "230",
+                "Max": "324"
+            },
+            "Attack": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Defense": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Atk": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Def": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Speed": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Total": "385"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Grass": "not very effective",
+                "Fighting": "not very effective",
+                "Poison": "not very effective",
+                "Flying": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Wurmple",
+                    "nationalNo": "#0265",
+                    "type": [
+                        "Bug"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Silcoon",
+                    "nationalNo": "#0266",
+                    "type": [
+                        "Bug"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 7, random based on personality)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Silcoon",
+                    "nationalNo": "#0266",
+                    "type": [
+                        "Bug"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Beautifly",
+                    "nationalNo": "#0267",
+                    "type": [
+                        "Bug",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 10)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Wurmple",
+                    "nationalNo": "#0265",
+                    "type": [
+                        "Bug"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Cascoon",
+                    "nationalNo": "#0268",
+                    "type": [
+                        "Bug"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 7, random based on personality)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Cascoon",
+                    "nationalNo": "#0268",
+                    "type": [
+                        "Bug"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Dustox",
+                    "nationalNo": "#0269",
+                    "type": [
+                        "Bug",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 10)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Bug Bite": "1",
+            "Gust": "1",
+            "Harden": "1",
+            "Poison Sting": "1",
+            "String Shot": "1",
+            "Tackle": "1",
+            "Confusion": "12",
+            "Poison Powder": "15",
+            "Moonlight": "17",
+            "Venoshock": "20",
+            "Psybeam": "22",
+            "Leech Life": "25",
+            "Light Screen": "27",
+            "Whirlwind": "30",
+            "Toxic": "32",
+            "Bug Buzz": "35",
+            "Protect": "37",
+            "Quiver Dance": "40"
+        },
+        "evolution": {
+            "Gust": "40"
+        },
+        "egg": null,
+        "tm": {
+            "Toxic": "06",
+            "Sunny Day": "11",
+            "Hyper Beam": "15",
+            "Light Screen": "16",
+            "Protect": "17",
+            "Giga Drain": "19",
+            "Solar Beam": "22",
+            "Psychic": "29",
+            "Shadow Ball": "30",
+            "Double Team": "32",
+            "Sludge Bomb": "36",
+            "Aerial Ace": "40",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Roost": "51",
+            "Energy Ball": "53",
+            "Endure": "58",
+            "Bug Buzz": "62",
+            "Giga Impact": "68",
+            "Flash": "70",
+            "Sleep Talk": "82",
+            "Swagger": "87",
+            "U-turn": "89",
+            "Substitute": "90",
+            "Defog": "97"
+        }
+    },
+    "entries": {
+        "Dustox": [
+            "DUSTOX is instinctively drawn to light. Swarms of this pok\u00e9mon are attracted by the bright lights of cities, where they wreak havoc by stripping the leaves off roadside trees for food.",
+            "When DUSTOX flaps its wings, a fine dust is scattered all over. This dust is actually a powerful poison that will even make a pro wrestler sick. This pok\u00e9mon searches for food using its antennae like radar.",
+            "It scatters horribly toxic dust when it senses danger. They tend to gather in the glow of streetlamps at night.",
+            "It is a nocturnal pok\u00e9mon that flies from fields and mountains to the attraction of streetlights at night. It looses highly toxic powder from its wings.",
+            "A nocturnal Pok\u00e9mon. Drawn by streetlights, they messily eat the leaves of trees lining boulevards.",
+            "It violently flutters its wings to scatter toxic dust when attacked. It becomes active after sunset.",
+            "Toxic powder is scattered with each flap. At night, it is known to strip leaves off trees lining boulevards.",
+            "It scatters its fine dust all over when it is attacked. It is a nocturnal Pok\u00e9mon.",
+            "Toxic powder is scattered with each flap. At night, it is known to strip leaves off trees lining boulevards.",
+            "A nocturnal Pok\u00e9mon. Drawn by streetlights, they messily eat the leaves of trees lining boulevards.",
+            "It violently flutters its wings to scatter toxic dust when attacked. It becomes active after sunset.",
+            "Dustox is instinctively drawn to light. Swarms of this Pok\u00e9mon are attracted by the bright lights of cities, where they wreak havoc by stripping the leaves off roadside trees for food.",
+            "When Dustox flaps its wings, a fine dust is scattered all over. This dust is actually a powerful poison that will even make a pro wrestler sick. This Pok\u00e9mon searches for food using its antennae like radar.",
+            "Dustox are nocturnal Pok\u00e9mon. Drawn by streetlights, they messily eat the leaves of trees lining boulevards.",
+            "It violently flutters its wings to scatter toxic dust when attacked. It becomes active after sunset.",
+            "Tends to be drawn to bonfires on dark nights. Difficult to chase away from settlements because of the way it scatters highly toxic scales."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788698334285884/269.png",
+    "discord_sprite": "<:P269:1132124582392897560>"
+}

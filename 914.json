@@ -1,0 +1,219 @@
+{
+    "alt-version(s)": [],
+    "name": "Quaquaval",
+    "Quaquaval": {
+        "pokedex_data": {
+            "National No.": "0914",
+            "Type": [
+                "Water",
+                "Fighting"
+            ],
+            "Species": "Dancer Poke\u0301mon",
+            "Height": "1.8 m (5\u203211\u2032\u2032)",
+            "Weight": "61.9 kg (136.5 lbs)",
+            "Abilities": {
+                "Torrent": {
+                    "href": "/ability/torrent",
+                    "effect": "Powers up Water-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Moxie": {
+                    "href": "/ability/moxie",
+                    "effect": "Boosts Attack after knocking out any Pok\u00e9mon.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Attack",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "265",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "85",
+                "Min": "280",
+                "Max": "374"
+            },
+            "Attack": {
+                "Base": "120",
+                "Min": "220",
+                "Max": "372"
+            },
+            "Defense": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Sp. Atk": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Sp. Def": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Speed": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Total": "530"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Flying": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Dark": "not very effective",
+                "Steel": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Quaxly",
+                    "nationalNo": "#0912",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Quaxwell",
+                    "nationalNo": "#0913",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 16)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Quaxwell",
+                    "nationalNo": "#0913",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Quaquaval",
+                    "nationalNo": "#0914",
+                    "type": [
+                        "Water",
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 36)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Double Hit": "1",
+            "Growl": "1",
+            "Pound": "1",
+            "Water Gun": "1",
+            "Work Up": "7",
+            "Wing Attack": "10",
+            "Aqua Jet": "13",
+            "Low Sweep": "17",
+            "Water Pulse": "17",
+            "Aqua Cutter": "21",
+            "Air Slash": "27",
+            "Focus Energy": "32",
+            "Mega Kick": "38",
+            "Acrobatics": "43",
+            "Liquidation": "47",
+            "Feather Dance": "52",
+            "Close Combat": "58",
+            "Wave Crash": "64"
+        },
+        "evolution": {
+            "Aqua Step": "80"
+        },
+        "reminder": {
+            "Counter": "\u2014"
+        },
+        "egg": {
+            "Detect": null,
+            "Last Resort": null,
+            "Rapid Spin": null,
+            "Roost": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Agility": "04",
+            "Protect": "07",
+            "Water Pulse": "11",
+            "Low Kick": "12",
+            "Acrobatics": "14",
+            "Disarming Voice": "19",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Swift": "32",
+            "Icy Wind": "34",
+            "Low Sweep": "39",
+            "Air Cutter": "40",
+            "Fling": "43",
+            "Endure": "47",
+            "Rain Dance": "50",
+            "Brick Break": "58",
+            "U-turn": "60",
+            "Bulk Up": "64",
+            "Air Slash": "65",
+            "Sleep Talk": "70",
+            "Rest": "85",
+            "Taunt": "87",
+            "Swords Dance": "88",
+            "Substitute": "103",
+            "Liquidation": "110",
+            "Encore": "122",
+            "Surf": "123",
+            "Ice Spinner": "124",
+            "Helping Hand": "130",
+            "Baton Pass": "132",
+            "Reversal": "134",
+            "Misty Terrain": "139",
+            "Hydro Pump": "142",
+            "Water Pledge": "145",
+            "Giga Impact": "152",
+            "Hydro Cannon": "154",
+            "Hurricane": "160",
+            "Hyper Beam": "163",
+            "Brave Bird": "164",
+            "Close Combat": "167",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Quaquaval": [
+            "A single kick from a Quaquaval can send a truck rolling. This Pok\u00e9mon uses its powerful legs to perform striking dances from far-off lands.",
+            "Dancing in ways that evoke far-away places, this Pok\u00e9mon mesmerizes all that see it. Flourishes of its decorative water feathers slice into its foes."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793727682269254/914.png",
+    "discord_sprite": "<:P914:1132153014929600572>"
+}

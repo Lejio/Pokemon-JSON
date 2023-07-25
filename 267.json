@@ -1,0 +1,245 @@
+{
+    "alt-version(s)": [],
+    "name": "Beautifly",
+    "Beautifly": {
+        "pokedex_data": {
+            "National No.": "0267",
+            "Type": [
+                "Bug",
+                "Flying"
+            ],
+            "Species": "Butterfly Poke\u0301mon",
+            "Height": "1.0 m (3\u203203\u2032\u2032)",
+            "Weight": "28.4 kg (62.6 lbs)",
+            "Abilities": {
+                "Swarm": {
+                    "href": "/ability/swarm",
+                    "effect": "Powers up Bug-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Rivalry": {
+                    "href": "/ability/rivalry",
+                    "effect": "Deals more damage to a Pok\u00e9mon of same gender.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Sp. Atk",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "178",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "60",
+                "Min": "230",
+                "Max": "324"
+            },
+            "Attack": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Defense": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Atk": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Sp. Def": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Speed": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Total": "395"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Electric": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Ground": "no effect",
+                "Flying": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Wurmple",
+                    "nationalNo": "#0265",
+                    "type": [
+                        "Bug"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Silcoon",
+                    "nationalNo": "#0266",
+                    "type": [
+                        "Bug"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 7, random based on personality)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Silcoon",
+                    "nationalNo": "#0266",
+                    "type": [
+                        "Bug"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Beautifly",
+                    "nationalNo": "#0267",
+                    "type": [
+                        "Bug",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 10)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Wurmple",
+                    "nationalNo": "#0265",
+                    "type": [
+                        "Bug"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Cascoon",
+                    "nationalNo": "#0268",
+                    "type": [
+                        "Bug"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 7, random based on personality)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Cascoon",
+                    "nationalNo": "#0268",
+                    "type": [
+                        "Bug"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Dustox",
+                    "nationalNo": "#0269",
+                    "type": [
+                        "Bug",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 10)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Bug Bite": "1",
+            "Gust": "1",
+            "Harden": "1",
+            "Poison Sting": "1",
+            "String Shot": "1",
+            "Tackle": "1",
+            "Absorb": "12",
+            "Stun Spore": "15",
+            "Morning Sun": "17",
+            "Air Cutter": "20",
+            "Mega Drain": "22",
+            "Leech Life": "25",
+            "Attract": "27",
+            "Whirlwind": "30",
+            "Giga Drain": "32",
+            "Bug Buzz": "35",
+            "Protect": "37",
+            "Quiver Dance": "40"
+        },
+        "evolution": {
+            "Gust": "40"
+        },
+        "egg": null,
+        "tm": {
+            "Sunny Day": "11",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Giga Drain": "19",
+            "Safeguard": "20",
+            "Solar Beam": "22",
+            "Psychic": "29",
+            "Shadow Ball": "30",
+            "Double Team": "32",
+            "Aerial Ace": "40",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Roost": "51",
+            "Energy Ball": "53",
+            "Endure": "58",
+            "Bug Buzz": "62",
+            "Giga Impact": "68",
+            "Flash": "70",
+            "Sleep Talk": "82",
+            "Swagger": "87",
+            "U-turn": "89",
+            "Substitute": "90",
+            "Defog": "97"
+        }
+    },
+    "entries": {
+        "Beautifly": [
+            "BEAUTIFLY\u2019s favorite food is the sweet pollen of flowers. If you want to see this pok\u00e9mon, just leave a potted flower by an open window. BEAUTIFLY is sure to come looking for pollen.",
+            "BEAUTIFLY has a long mouth like a coiled needle, which is very convenient for collecting pollen from flowers. This pok\u00e9mon rides the spring winds as it flits around gathering pollen.",
+            "Despite its appearance, it has an aggressive nature. It attacks by jabbing with its long, thin mouth.",
+            "Its colorfully patterned wings are its most prominent feature. It flies through flower-covered fields collecting pollen. It attacks ferociously when angered.",
+            "It has an aggressive nature. It stabs prey with its long, narrow mouth to drain the prey\u2019s fluids.",
+            "When flower fields bloom, it flits around, collecting pollen. Despite its appearance, it is savage.",
+            "Despite its looks, it is aggressive. It jabs with its long, thin mouth if disturbed while collecting pollen.",
+            "Vibrantly patterned wings are its prominent feature. It sucks sweet flower nectar with its long mouth.",
+            "Despite its looks, it is aggressive. It jabs with its long, thin mouth if disturbed while collecting pollen.",
+            "Vibrantly patterned wings are its prominent feature. It sucks sweet flower nectar with its long mouth.",
+            "It has an aggressive nature. It stabs prey with its long, narrow mouth to drain the prey\u2019s fluids.",
+            "Beautifly\u2019s favorite food is the sweet pollen of flowers. If you want to see this Pok\u00e9mon, just leave a potted flower by an open window. Beautifly is sure to come looking for pollen.",
+            "Beautifly has a long mouth like a coiled needle, which is very convenient for collecting pollen from flowers. This Pok\u00e9mon rides the spring winds as it flits around gathering pollen.",
+            "It has an aggressive nature. It stabs prey with its long, narrow mouth to drain the prey\u2019s fluids.",
+            "When flower fields bloom, it flits around, collecting pollen. Despite its appearance, it is savage.",
+            "A colorful and incredibly beautiful but also greedy Pok\u00e9mon. In an effort to keep its favorite food all to itself, it will chase away Combee as they try to gather nectar."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788683041845258/267.png",
+    "discord_sprite": "<:P267:1132124495168143551>"
+}

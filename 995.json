@@ -1,0 +1,176 @@
+{
+    "alt-version(s)": [],
+    "name": "Iron Thorns",
+    "Iron Thorns": {
+        "pokedex_data": {
+            "National No.": "0995",
+            "Type": [
+                "Rock",
+                "Electric"
+            ],
+            "Species": "Paradox Poke\u0301mon",
+            "Height": "1.6 m (5\u203203\u2032\u2032)",
+            "Weight": "303.0 kg (668.0 lbs)",
+            "Abilities": {
+                "Quark Drive": {
+                    "href": "/ability/quark-drive",
+                    "effect": "Raises highest stat on Electric Terrain, or if holding Booster Energy.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Attack",
+            "Catch rate": "30",
+            "BaseFriendship": "0",
+            "Base Exp.": "285",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "100",
+                "Min": "310",
+                "Max": "404"
+            },
+            "Attack": {
+                "Base": "134",
+                "Min": "245",
+                "Max": "403"
+            },
+            "Defense": {
+                "Base": "110",
+                "Min": "202",
+                "Max": "350"
+            },
+            "Sp. Atk": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Def": {
+                "Base": "84",
+                "Min": "155",
+                "Max": "293"
+            },
+            "Speed": {
+                "Base": "72",
+                "Min": "134",
+                "Max": "267"
+            },
+            "Total": "570"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Electric": "not very effective",
+                "Grass": "super-effective",
+                "Fighting": "super-effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Fire Fang": "1",
+            "Ice Fang": "1",
+            "Iron Defense": "1",
+            "Rock Throw": "1",
+            "Thunder Fang": "1",
+            "Screech": "7",
+            "Rock Tomb": "21",
+            "Bite": "28",
+            "Charge": "35",
+            "Rock Slide": "42",
+            "Sandstorm": "49",
+            "Wild Charge": "56",
+            "Pin Missile": "63",
+            "Earthquake": "70",
+            "Stealth Rock": "77",
+            "Stone Edge": "84",
+            "Giga Impact": "91"
+        },
+        "reminder": {
+            "Electric Terrain": "\u2014"
+        },
+        "egg": null,
+        "tm": {
+            "Take Down": "01",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Fire Fang": "08",
+            "Thunder Fang": "09",
+            "Ice Fang": "10",
+            "Low Kick": "12",
+            "Charge Beam": "23",
+            "Facade": "25",
+            "Bulldoze": "28",
+            "Snarl": "30",
+            "Metal Claw": "31",
+            "Rock Tomb": "36",
+            "Fling": "43",
+            "Dragon Tail": "44",
+            "Endure": "47",
+            "Volt Switch": "48",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Sandstorm": "51",
+            "Dig": "55",
+            "Brick Break": "58",
+            "Body Slam": "66",
+            "Fire Punch": "67",
+            "Thunder Punch": "68",
+            "Ice Punch": "69",
+            "Electro Ball": "72",
+            "Rock Blast": "76",
+            "Dragon Claw": "78",
+            "Thunder Wave": "82",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Taunt": "87",
+            "Swords Dance": "88",
+            "Body Press": "89",
+            "Spikes": "90",
+            "Eerie Impulse": "96",
+            "Iron Head": "99",
+            "Dragon Dance": "100",
+            "Power Gem": "101",
+            "Substitute": "103",
+            "Iron Defense": "104",
+            "Crunch": "108",
+            "Stealth Rock": "116",
+            "Heavy Slam": "121",
+            "Flamethrower": "125",
+            "Thunderbolt": "126",
+            "Earth Power": "133",
+            "Ice Beam": "135",
+            "Electric Terrain": "136",
+            "Fire Blast": "141",
+            "Blizzard": "143",
+            "Wild Charge": "147",
+            "Earthquake": "149",
+            "Stone Edge": "150",
+            "Giga Impact": "152",
+            "Focus Blast": "158",
+            "Hyper Beam": "163",
+            "Thunder": "166",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Iron Thorns": [
+            "It has some similarities to a Pok\u00e9mon introduced in a dubious magazine as a Tyranitar from one billion years into the future.",
+            "Some of its notable features match those of an object named within a certain expedition journal as Iron Thorns."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131794360837611520/995.png",
+    "discord_sprite": "<:P995:1132156575071621220>"
+}

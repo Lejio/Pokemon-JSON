@@ -1,0 +1,263 @@
+{
+    "alt-version(s)": [],
+    "name": "Dragonite",
+    "Dragonite": {
+        "pokedex_data": {
+            "National No.": "0149",
+            "Type": [
+                "Dragon",
+                "Flying"
+            ],
+            "Species": "Dragon Poke\u0301mon",
+            "Height": "2.2 m (7\u203203\u2032\u2032)",
+            "Weight": "210.0 kg (463.0 lbs)",
+            "Abilities": {
+                "Inner Focus": {
+                    "href": "/ability/inner-focus",
+                    "effect": "The Pok\u00e9mon is protected from flinching.",
+                    "hidden": false
+                },
+                "Multiscale": {
+                    "href": "/ability/multiscale",
+                    "effect": "Reduces damage when HP is full.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Attack",
+            "Catch rate": "45",
+            "BaseFriendship": "35",
+            "Base Exp.": "300",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "91",
+                "Min": "292",
+                "Max": "386"
+            },
+            "Attack": {
+                "Base": "134",
+                "Min": "245",
+                "Max": "403"
+            },
+            "Defense": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Sp. Atk": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Sp. Def": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Speed": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Total": "600"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Ground": "no effect",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Dragon": "super-effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Dratini",
+                    "nationalNo": "#0147",
+                    "type": [
+                        "Dragon"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Dragonair",
+                    "nationalNo": "#0148",
+                    "type": [
+                        "Dragon"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 30)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Dragonair",
+                    "nationalNo": "#0148",
+                    "type": [
+                        "Dragon"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Dragonite",
+                    "nationalNo": "#0149",
+                    "type": [
+                        "Dragon",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 55)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Extreme Speed": "1",
+            "Fire Punch": "1",
+            "Leer": "1",
+            "Roost": "1",
+            "Thunder Punch": "1",
+            "Thunder Wave": "1",
+            "Twister": "1",
+            "Wing Attack": "1",
+            "Wrap": "1",
+            "Dragon Tail": "15",
+            "Agility": "20",
+            "Slam": "25",
+            "Aqua Tail": "33",
+            "Dragon Rush": "39",
+            "Outrage": "41",
+            "Safeguard": "46",
+            "Rain Dance": "53",
+            "Dragon Dance": "62",
+            "Hyper Beam": "80"
+        },
+        "evolution": {
+            "Hurricane": "110"
+        },
+        "egg": {
+            "Aqua Jet": null,
+            "Dragon Breath": null,
+            "Extreme Speed": null,
+            "Mist": null,
+            "Supersonic": null,
+            "Water Pulse": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Agility": "04",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Water Pulse": "11",
+            "Low Kick": "12",
+            "Chilling Water": "22",
+            "Fire Spin": "24",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Bulldoze": "28",
+            "Swift": "32",
+            "Icy Wind": "34",
+            "Rock Tomb": "36",
+            "Air Cutter": "40",
+            "Fling": "43",
+            "Dragon Tail": "44",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Sandstorm": "51",
+            "Snowscape": "52",
+            "Brick Break": "58",
+            "Air Slash": "65",
+            "Body Slam": "66",
+            "Fire Punch": "67",
+            "Thunder Punch": "68",
+            "Ice Punch": "69",
+            "Sleep Talk": "70",
+            "Light Screen": "75",
+            "Waterfall": "77",
+            "Dragon Claw": "78",
+            "Metronome": "80",
+            "Thunder Wave": "82",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Body Press": "89",
+            "Fly": "97",
+            "Iron Head": "99",
+            "Dragon Dance": "100",
+            "Substitute": "103",
+            "Tailwind": "113",
+            "Dragon Pulse": "115",
+            "Heat Wave": "118",
+            "Encore": "122",
+            "Surf": "123",
+            "Ice Spinner": "124",
+            "Flamethrower": "125",
+            "Thunderbolt": "126",
+            "Helping Hand": "130",
+            "Ice Beam": "135",
+            "Fire Blast": "141",
+            "Hydro Pump": "142",
+            "Blizzard": "143",
+            "Earthquake": "149",
+            "Stone Edge": "150",
+            "Giga Impact": "152",
+            "Outrage": "156",
+            "Focus Blast": "158",
+            "Hurricane": "160",
+            "Hyper Beam": "163",
+            "Thunder": "166",
+            "Draco Meteor": "169",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Dragonite": [
+            "An extremely rarely seen marine pok\u00e9mon. Its intelligence is said to match that of humans.",
+            "It is said that this pok\u00e9mon lives somewhere in the sea and that it flies. However, it is only a rumor.",
+            "It is said that this pok\u00e9mon constantly flies over the immense seas and rescues drowning people.",
+            "This marine pok\u00e9mon has an impressive build that lets it freely fly over raging seas without trouble.",
+            "It is said that somewhere in the ocean lies an island where these gather. Only they live there.",
+            "DRAGONITE is capable of circling the globe in just sixteen hours. It is a kindhearted pok\u00e9mon that leads lost and foundering ships in a storm to the safety of land.",
+            "It can fly in spite of its big and bulky physique. It circles the globe in just 16 hours.",
+            "Only a very few people ever see this pok\u00e9mon. Its intelligence is said to match that of humans.",
+            "It can circle the globe in just 16 hours. It is a kindhearted pok\u00e9mon that leads lost and foundering ships in a storm to the safety of land.",
+            "It is said to make its home somewhere in the sea. It guides crews of shipwrecks to shore.",
+            "It is said that this Pok\u00e9mon constantly flies over the immense seas and rescues drowning people.",
+            "This marine Pok\u00e9mon has an impressive build that lets it freely fly over raging seas without trouble.",
+            "It is said to make its home somewhere in the sea. It guides crews of shipwrecks to shore.",
+            "It can fly in spite of its big and bulky physique. It circles the globe in just 16 hours.",
+            "It is said to make its home somewhere in the sea. It guides crews of shipwrecks to shore.",
+            "Dragonite is capable of circling the globe in just 16 hours. It is a kindhearted Pok\u00e9mon that leads lost and foundering ships in a storm to the safety of land.",
+            "This Pok\u00e9mon saved a shipwrecked man, taking him to a remote island\u2014a paradise occupied solely by Dragonite.",
+            "Incur the wrath of this normally calm Pok\u00e9mon at your peril, because it will smash everything to smithereens before it\u2019s satisfied.",
+            "It flies over raging seas as if they were nothing. Observing this, a ship\u2019s captain dubbed this Pok\u00e9mon \u201cthe sea incarnate.\u201d",
+            "You\u2019ll often hear tales of this kindhearted Pok\u00e9mon rescuing people or Pok\u00e9mon that are drowning.",
+            "It is said that this Pok\u00e9mon lives somewhere in the sea and that it flies. However, these are only rumors.",
+            "It\u2019s a kindhearted Pok\u00e9mon. If it spots a drowning person or Pok\u00e9mon, Dragonite simply must help them.",
+            "This Pok\u00e9mon is known as the Sea Incarnate. Figureheads that resemble Dragonite decorate the bows of many ships.",
+            "It is said to make its home somewhere in the sea. It guides wrecked ships to shore.",
+            "It is said that somewhere in the ocean lies an island where these gather. Only they live there.",
+            "It can fly in spite of its big and bulky physique. It circles the globe in just 16 hours."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787753336610878/149.png",
+    "discord_sprite": "<:P149:1132119290875752519>"
+}

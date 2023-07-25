@@ -1,0 +1,307 @@
+{
+    "alt-version(s)": [
+        "Mega Steelix"
+    ],
+    "name": "Steelix",
+    "Steelix": {
+        "pokedex_data": {
+            "National No.": "0208",
+            "Type": [
+                "Steel",
+                "Ground"
+            ],
+            "Species": "Iron Snake Poke\u0301mon",
+            "Height": "9.2 m (30\u203202\u2032\u2032)",
+            "Weight": "400.0 kg (881.8 lbs)",
+            "Abilities": {
+                "Rock Head": {
+                    "href": "/ability/rock-head",
+                    "effect": "Protects the Pok\u00e9mon from recoil damage.",
+                    "hidden": false
+                },
+                "Sturdy": {
+                    "href": "/ability/sturdy",
+                    "effect": "It cannot be knocked out with one hit.",
+                    "hidden": false
+                },
+                "Sheer Force": {
+                    "href": "/ability/sheer-force",
+                    "effect": "Removes added effects to increase move damage.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Defense",
+            "Catch rate": "25",
+            "BaseFriendship": "50",
+            "Base Exp.": "179",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "75",
+                "Min": "260",
+                "Max": "354"
+            },
+            "Attack": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Defense": {
+                "Base": "200",
+                "Min": "364",
+                "Max": "548"
+            },
+            "Sp. Atk": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Sp. Def": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Speed": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Total": "510"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Fire": "super-effective",
+                "Water": "super-effective",
+                "Electric": "no effect",
+                "Fighting": "super-effective",
+                "Poison": "no effect",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Dragon": "not very effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "Mega Steelix": {
+        "pokedex_data": {
+            "National No.": "0208",
+            "Type": [
+                "Steel",
+                "Ground"
+            ],
+            "Species": "Iron Snake Poke\u0301mon",
+            "Height": "10.5 m (34\u203205\u2032\u2032)",
+            "Weight": "740.0 kg (1631.4 lbs)",
+            "Abilities": {
+                "Sand Force": {
+                    "href": "/ability/sand-force",
+                    "effect": "Boosts certain moves' power in a sandstorm.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Defense",
+            "Catch rate": "25",
+            "BaseFriendship": "50",
+            "Base Exp.": "214",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "75",
+                "Min": "260",
+                "Max": "354"
+            },
+            "Attack": {
+                "Base": "125",
+                "Min": "229",
+                "Max": "383"
+            },
+            "Defense": {
+                "Base": "230",
+                "Min": "418",
+                "Max": "614"
+            },
+            "Sp. Atk": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Sp. Def": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Speed": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Total": "610"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Fire": "super-effective",
+                "Water": "super-effective",
+                "Electric": "no effect",
+                "Fighting": "super-effective",
+                "Poison": "no effect",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Dragon": "not very effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Onix",
+                    "nationalNo": "#0095",
+                    "type": [
+                        "Rock",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Steelix",
+                    "nationalNo": "#0208",
+                    "type": [
+                        "Steel",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(trade holding Metal Coat)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Bind": "1",
+            "Crunch": "1",
+            "Fire Fang": "1",
+            "Harden": "1",
+            "Ice Fang": "1",
+            "Rock Polish": "1",
+            "Rock Throw": "1",
+            "Tackle": "1",
+            "Thunder Fang": "1",
+            "Smack Down": "4",
+            "Autotomize": "8",
+            "Dragon Breath": "12",
+            "Curse": "16",
+            "Rock Slide": "20",
+            "Screech": "24",
+            "Sand Tomb": "28",
+            "Stealth Rock": "32",
+            "Slam": "36",
+            "Sandstorm": "40",
+            "Dig": "44",
+            "Iron Tail": "48",
+            "Stone Edge": "52",
+            "Double-Edge": "56",
+            "Magnet Rise": "60"
+        },
+        "egg": {
+            "Block": null,
+            "Defense Curl": null,
+            "Dragon Tail": null,
+            "Flail": null,
+            "Head Smash": null,
+            "Heavy Slam": null,
+            "Rock Blast": null,
+            "Rollout": null,
+            "Wide Guard": null
+        },
+        "tm": {
+            "Roar": "05",
+            "Sunny Day": "11",
+            "Taunt": "12",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Iron Tail": "23",
+            "Earthquake": "26",
+            "Dig": "28",
+            "Double Team": "32",
+            "Sandstorm": "37",
+            "Rock Tomb": "39",
+            "Torment": "41",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Endure": "58",
+            "Dragon Pulse": "59",
+            "Explosion": "64",
+            "Payback": "66",
+            "Giga Impact": "68",
+            "Rock Polish": "69",
+            "Stone Edge": "71",
+            "Gyro Ball": "74",
+            "Stealth Rock": "76",
+            "Psych Up": "77",
+            "Dark Pulse": "79",
+            "Rock Slide": "80",
+            "Sleep Talk": "82",
+            "Bulldoze": "83",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Flash Cannon": "91",
+            "Cut": "93",
+            "Strength": "96",
+            "Rock Smash": "98",
+            "Rock Climb": "100"
+        }
+    },
+    "entries": {
+        "Steelix": [
+            "Its body has been compressed deep under the ground. As a result, it is even harder than a diamond.",
+            "It is said that if an ONIX lives for over 100 years, its composition changes to become diamond-like.",
+            "The many small metal particles that cover this pok\u00e9mon\u2019s body reflect bright light well.",
+            "STEELIX lives even further underground than ONIX. This pok\u00e9mon is known to dig towards the earth\u2019s core. There are records of this pok\u00e9mon reaching a depth of over six-tenths of a mile underground.",
+            "It is said that if an ONIX lives for over 100 years, its composition changes to become diamond-like.",
+            "Its body has been compressed deep under the ground. As a result, it is even harder than diamond.",
+            "STEELIX live even further underground than ONIX. This pok\u00e9mon is known to dig toward the earth\u2019s core, reaching a depth of over six-tenths of a mile underground.",
+            "Tempered underground under high pressure and heat, its body is harder than any metal.",
+            "It chews its way through boulders with its sturdy jaws. Its eyes can see in the darkness underground.",
+            "It is thought its body transformed as a result of iron accumulating internally from swallowing soil.",
+            "Its body has been compressed deep under the ground. As a result, it is even harder than a diamond.",
+            "It\u2019s said that if an ONIX lives for 100 years, its composition becomes diamondlike as it evolves into a STEELIX.",
+            "It is thought its body transformed as a result of iron accumulating internally from swallowing soil.",
+            "The iron it ingested with the soil it swallowed transformed its body and made it harder than diamonds.",
+            "Tempered underground under high pressure and heat, its body is harder than any metal.",
+            "It chews its way through boulders with its sturdy jaws. Its eyes can see in the darkness underground.",
+            "Steelix lives even further underground than Onix. This Pok\u00e9mon is known to dig toward the earth\u2019s core. There are records of this Pok\u00e9mon reaching a depth of over six-tenths of a mile underground.",
+            "It is said that if an Onix lives for over 100 years, its composition changes to become diamond-like.",
+            "It is thought its body transformed as a result of iron accumulating internally from swallowing soil.",
+            "Tempered underground under high pressure and heat, its body is harder than any metal.",
+            "It chews its way through boulders with its sturdy jaws. Its eyes can see in the darkness underground.",
+            "This Pok\u00e9mon evolved through use of a strange item. Its body is coated with steel powder and notably hard\u2014not even diamond can leave so much as a scratch."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788219416055849/208.png",
+    "discord_sprite": "<:P208:1132121883345682444>"
+}

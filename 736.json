@@ -1,0 +1,179 @@
+{
+    "alt-version(s)": [],
+    "name": "Grubbin",
+    "Grubbin": {
+        "pokedex_data": {
+            "National No.": "0736",
+            "Type": [
+                "Bug"
+            ],
+            "Species": "Larva Poke\u0301mon",
+            "Height": "0.4 m (1\u203204\u2032\u2032)",
+            "Weight": "4.4 kg (9.7 lbs)",
+            "Abilities": {
+                "Swarm": {
+                    "href": "/ability/swarm",
+                    "effect": "Powers up Bug-type moves in a pinch.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack",
+            "Catch rate": "255",
+            "BaseFriendship": "50",
+            "Base Exp.": "60",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "47",
+                "Min": "204",
+                "Max": "298"
+            },
+            "Attack": {
+                "Base": "62",
+                "Min": "116",
+                "Max": "245"
+            },
+            "Defense": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Sp. Atk": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Sp. Def": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Speed": {
+                "Base": "46",
+                "Min": "87",
+                "Max": "210"
+            },
+            "Total": "300"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Grass": "not very effective",
+                "Fighting": "not very effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Rock": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Grubbin",
+                    "nationalNo": "#0736",
+                    "type": [
+                        "Bug"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Charjabug",
+                    "nationalNo": "#0737",
+                    "type": [
+                        "Bug",
+                        "Electric"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 20)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Charjabug",
+                    "nationalNo": "#0737",
+                    "type": [
+                        "Bug",
+                        "Electric"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Vikavolt",
+                    "nationalNo": "#0738",
+                    "type": [
+                        "Bug",
+                        "Electric"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Thunder Stone, in Gen 8, or level up in a Magnetic Field area)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Mud-Slap": "1",
+            "Vise Grip": "1",
+            "String Shot": "5",
+            "Bug Bite": "10",
+            "Bite": "15",
+            "Spark": "21",
+            "Sticky Web": "25",
+            "X-Scissor": "30",
+            "Crunch": "35",
+            "Dig": "40"
+        },
+        "egg": {
+            "Discharge": null,
+            "Harden": null
+        },
+        "null": {
+            "Thunderbolt": "08",
+            "Substitute": "20",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Crunch": "32",
+            "Poison Jab": "57",
+            "X-Scissor": "60",
+            "Wild Charge": "86"
+        },
+        "tm": {
+            "Thunder Wave": "14",
+            "Dig": "15",
+            "Screech": "16",
+            "Light Screen": "17",
+            "Rest": "21",
+            "Snore": "24",
+            "Protect": "25",
+            "Attract": "31",
+            "Rain Dance": "33",
+            "Facade": "39",
+            "Mud Shot": "53",
+            "Round": "76",
+            "Acrobatics": "78",
+            "Volt Switch": "80",
+            "Electroweb": "82"
+        }
+    },
+    "entries": {
+        "Grubbin": [
+            "Its strong jaw enables it to scrape trees and slurp out the sap. It normally lives underground.",
+            "They often gather near places frequented by electric Pok\u00e9mon in order to avoid being attacked by bird Pok\u00e9mon.",
+            "If you find its nest, you shouldn\u2019t stick your hand inside. You\u2019ll get bitten by an irritated Grubbin.",
+            "It spits a sticky thread to stop opponents in their tracks, and then it grabs them in its sharp, sturdy mandibles to take them down.",
+            "Its natural enemies, like Rookidee, may flee rather than risk getting caught in its large mandibles that can snap thick tree branches.",
+            "It uses its big jaws to dig nests into the forest floor, and it loves to feed on sweet tree sap."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792345445183539/736.png",
+    "discord_sprite": "<:P736:1132145118841942136>"
+}

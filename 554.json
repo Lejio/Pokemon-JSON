@@ -1,0 +1,368 @@
+{
+    "alt-version(s)": [
+        "Galarian Darumaka"
+    ],
+    "name": "Darumaka",
+    "Darumaka": {
+        "pokedex_data": {
+            "National No.": "0554",
+            "Type": [
+                "Fire"
+            ],
+            "Species": "Zen Charm Poke\u0301mon",
+            "Height": "0.6 m (2\u203200\u2032\u2032)",
+            "Weight": "37.5 kg (82.7 lbs)",
+            "Abilities": {
+                "Hustle": {
+                    "href": "/ability/hustle",
+                    "effect": "Boosts the Attack stat, but lowers accuracy.",
+                    "hidden": false
+                },
+                "Inner Focus": {
+                    "href": "/ability/inner-focus",
+                    "effect": "The Pok\u00e9mon is protected from flinching.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack",
+            "Catch rate": "120",
+            "BaseFriendship": "50",
+            "Base Exp.": "63",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "70",
+                "Min": "250",
+                "Max": "344"
+            },
+            "Attack": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Defense": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Sp. Atk": {
+                "Base": "15",
+                "Min": "31",
+                "Max": "141"
+            },
+            "Sp. Def": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Speed": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Total": "315"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Ground": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "Galarian Darumaka": {
+        "pokedex_data": {
+            "National No.": "0554",
+            "Type": [
+                "Ice"
+            ],
+            "Species": "Zen Charm Poke\u0301mon",
+            "Height": "0.7 m (2\u203204\u2032\u2032)",
+            "Weight": "40.0 kg (88.2 lbs)",
+            "Abilities": {
+                "Hustle": {
+                    "href": "/ability/hustle",
+                    "effect": "Boosts the Attack stat, but lowers accuracy.",
+                    "hidden": false
+                },
+                "Inner Focus": {
+                    "href": "/ability/inner-focus",
+                    "effect": "The Pok\u00e9mon is protected from flinching.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack",
+            "Catch rate": "120",
+            "BaseFriendship": "50",
+            "Base Exp.": "63",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "70",
+                "Min": "250",
+                "Max": "344"
+            },
+            "Attack": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Defense": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Sp. Atk": {
+                "Base": "15",
+                "Min": "31",
+                "Max": "141"
+            },
+            "Sp. Def": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Speed": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Total": "315"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Rock": "super-effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Darumaka",
+                    "nationalNo": "#0554",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Darmanitan",
+                    "nationalNo": "#0555",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": "Standard Mode"
+                },
+                "requirement": "(Level 35)",
+                "shed": null
+            }
+        ],
+        [
+            {
+                "from": {
+                    "name": "Darumaka",
+                    "nationalNo": "#0554",
+                    "type": [
+                        "Ice"
+                    ],
+                    "nickname": "Galarian Darumaka"
+                },
+                "to": {
+                    "name": "Darmanitan",
+                    "nationalNo": "#0555",
+                    "type": [
+                        "Ice"
+                    ],
+                    "nickname": "Galarian Standard Mode"
+                },
+                "requirement": "(use Ice Stone)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "Darumaka": {
+            "moves": {
+                "Ember": "1",
+                "Tackle": "1",
+                "Taunt": "4",
+                "Bite": "8",
+                "Incinerate": "12",
+                "Work Up": "16",
+                "Fire Fang": "20",
+                "Headbutt": "24",
+                "Fire Punch": "28",
+                "Uproar": "32",
+                "Belly Drum": "36",
+                "Flare Blitz": "40",
+                "Thrash": "44",
+                "Superpower": "48"
+            },
+            "egg": {
+                "Extrasensory": null,
+                "Flame Wheel": null,
+                "Focus Punch": null,
+                "Hammer Arm": null,
+                "Take Down": null,
+                "Yawn": null
+            },
+            "tm": {
+                "Mega Punch": "00",
+                "Mega Kick": "01",
+                "Fire Punch": "03",
+                "Solar Beam": "11",
+                "Fire Spin": "13",
+                "Dig": "15",
+                "Rest": "21",
+                "Rock Slide": "22",
+                "Thief": "23",
+                "Snore": "24",
+                "Protect": "25",
+                "Attract": "31",
+                "Sunny Day": "34",
+                "Will-O-Wisp": "38",
+                "Facade": "39",
+                "Brick Break": "43",
+                "Rock Tomb": "48",
+                "U-turn": "56",
+                "Fling": "59",
+                "Fire Fang": "68",
+                "Round": "76"
+            },
+            "null": {
+                "Flamethrower": "02",
+                "Focus Energy": "13",
+                "Fire Blast": "15",
+                "Substitute": "20",
+                "Endure": "26",
+                "Sleep Talk": "27",
+                "Encore": "30",
+                "Uproar": "35",
+                "Heat Wave": "36",
+                "Taunt": "37",
+                "Superpower": "39",
+                "Overheat": "43",
+                "Gyro Ball": "52",
+                "Flare Blitz": "55",
+                "Zen Headbutt": "69",
+                "Grass Knot": "77",
+                "Work Up": "85"
+            }
+        },
+        "Galarian Darumaka": {
+            "moves": {
+                "Powder Snow": "1",
+                "Tackle": "1",
+                "Taunt": "4",
+                "Bite": "8",
+                "Avalanche": "12",
+                "Work Up": "16",
+                "Ice Fang": "20",
+                "Headbutt": "24",
+                "Ice Punch": "28",
+                "Uproar": "32",
+                "Belly Drum": "36",
+                "Blizzard": "40",
+                "Thrash": "44",
+                "Superpower": "48"
+            },
+            "egg": {
+                "Flame Wheel": null,
+                "Focus Punch": null,
+                "Freeze-Dry": null,
+                "Hammer Arm": null,
+                "Incinerate": null,
+                "Power-Up Punch": null,
+                "Take Down": null,
+                "Yawn": null
+            },
+            "tm": {
+                "Mega Punch": "00",
+                "Mega Kick": "01",
+                "Fire Punch": "03",
+                "Ice Punch": "04",
+                "Solar Beam": "11",
+                "Fire Spin": "13",
+                "Dig": "15",
+                "Rest": "21",
+                "Rock Slide": "22",
+                "Thief": "23",
+                "Snore": "24",
+                "Protect": "25",
+                "Attract": "31",
+                "Sunny Day": "34",
+                "Will-O-Wisp": "38",
+                "Facade": "39",
+                "Brick Break": "43",
+                "Rock Tomb": "48",
+                "U-turn": "56",
+                "Fling": "59",
+                "Avalanche": "64",
+                "Ice Fang": "67",
+                "Fire Fang": "68",
+                "Round": "76"
+            },
+            "null": {
+                "Flamethrower": "02",
+                "Ice Beam": "05",
+                "Blizzard": "06",
+                "Focus Energy": "13",
+                "Fire Blast": "15",
+                "Substitute": "20",
+                "Endure": "26",
+                "Sleep Talk": "27",
+                "Encore": "30",
+                "Uproar": "35",
+                "Heat Wave": "36",
+                "Taunt": "37",
+                "Superpower": "39",
+                "Overheat": "43",
+                "Gyro Ball": "52",
+                "Flare Blitz": "55",
+                "Zen Headbutt": "69",
+                "Grass Knot": "77",
+                "Work Up": "85"
+            }
+        }
+    },
+    "entries": {
+        "Darumaka": [
+            "When its internal fire is burning, it cannot calm down and it runs around. When the fire diminishes, it falls asleep.",
+            "Darumaka\u2019s droppings are hot, so people used to put them in their clothes to keep themselves warm.",
+            "When it sleeps, it pulls its limbs into its body and its internal fire goes down to 1,100\u00b0 F.",
+            "Darumaka\u2019s droppings are hot, so people used to put them in their clothes to keep themselves warm.",
+            "When it sleeps, it pulls its limbs into its body and its internal fire goes down to 1,100 degrees Fahrenheit.",
+            "It derives its power from fire burning inside its body. If the fire dwindles, this Pok\u00e9mon will immediately fall asleep.",
+            "This popular symbol of good fortune will never fall over in its sleep, no matter how it\u2019s pushed or pulled."
+        ],
+        "Galarian Darumaka": [
+            "It lived in snowy areas for so long that its fire sac cooled off and atrophied. It now has an organ that generates cold instead.",
+            "The colder they get, the more energetic they are. They freeze their breath to make snowballs, using them as ammo for playful snowball fights."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790918131929088/554.png",
+    "discord_sprite": "<:P554:1132137116218966077>"
+}

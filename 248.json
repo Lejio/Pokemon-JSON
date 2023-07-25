@@ -1,0 +1,355 @@
+{
+    "alt-version(s)": [
+        "Mega Tyranitar"
+    ],
+    "name": "Tyranitar",
+    "Tyranitar": {
+        "pokedex_data": {
+            "National No.": "0248",
+            "Type": [
+                "Rock",
+                "Dark"
+            ],
+            "Species": "Armor Poke\u0301mon",
+            "Height": "2.0 m (6\u203207\u2032\u2032)",
+            "Weight": "202.0 kg (445.3 lbs)",
+            "Abilities": {
+                "Sand Stream": {
+                    "href": "/ability/sand-stream",
+                    "effect": "The Pok\u00e9mon summons a sandstorm in battle.",
+                    "hidden": false
+                },
+                "Unnerve": {
+                    "href": "/ability/unnerve",
+                    "effect": "Makes the foe nervous and unable to eat Berries.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Attack",
+            "Catch rate": "45",
+            "BaseFriendship": "35",
+            "Base Exp.": "300",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "100",
+                "Min": "310",
+                "Max": "404"
+            },
+            "Attack": {
+                "Base": "134",
+                "Min": "245",
+                "Max": "403"
+            },
+            "Defense": {
+                "Base": "110",
+                "Min": "202",
+                "Max": "350"
+            },
+            "Sp. Atk": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Sp. Def": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Speed": {
+                "Base": "61",
+                "Min": "114",
+                "Max": "243"
+            },
+            "Total": "600"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Grass": "super-effective",
+                "Fighting": "super-effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Psychic": "no effect",
+                "Bug": "super-effective",
+                "Ghost": "not very effective",
+                "Dark": "not very effective",
+                "Steel": "super-effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "Mega Tyranitar": {
+        "pokedex_data": {
+            "National No.": "0248",
+            "Type": [
+                "Rock",
+                "Dark"
+            ],
+            "Species": "Armor Poke\u0301mon",
+            "Height": "2.5 m (8\u203202\u2032\u2032)",
+            "Weight": "255.0 kg (562.2 lbs)",
+            "Abilities": {
+                "Sand Stream": {
+                    "href": "/ability/sand-stream",
+                    "effect": "The Pok\u00e9mon summons a sandstorm in battle.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Attack",
+            "Catch rate": "45",
+            "BaseFriendship": "35",
+            "Base Exp.": "315",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "100",
+                "Min": "310",
+                "Max": "404"
+            },
+            "Attack": {
+                "Base": "164",
+                "Min": "299",
+                "Max": "469"
+            },
+            "Defense": {
+                "Base": "150",
+                "Min": "274",
+                "Max": "438"
+            },
+            "Sp. Atk": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Sp. Def": {
+                "Base": "120",
+                "Min": "220",
+                "Max": "372"
+            },
+            "Speed": {
+                "Base": "71",
+                "Min": "132",
+                "Max": "265"
+            },
+            "Total": "700"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Grass": "super-effective",
+                "Fighting": "super-effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Psychic": "no effect",
+                "Bug": "super-effective",
+                "Ghost": "not very effective",
+                "Dark": "not very effective",
+                "Steel": "super-effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Larvitar",
+                    "nationalNo": "#0246",
+                    "type": [
+                        "Rock",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Pupitar",
+                    "nationalNo": "#0247",
+                    "type": [
+                        "Rock",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 30)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Pupitar",
+                    "nationalNo": "#0247",
+                    "type": [
+                        "Rock",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Tyranitar",
+                    "nationalNo": "#0248",
+                    "type": [
+                        "Rock",
+                        "Dark"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 55)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Dark Pulse": "1",
+            "Fire Fang": "1",
+            "Ice Fang": "1",
+            "Iron Defense": "1",
+            "Leer": "1",
+            "Payback": "1",
+            "Rock Throw": "1",
+            "Tackle": "1",
+            "Thunder Fang": "1",
+            "Bite": "9",
+            "Scary Face": "12",
+            "Rock Slide": "15",
+            "Stomping Tantrum": "18",
+            "Screech": "21",
+            "Smack Down": "24",
+            "Crunch": "27",
+            "Earthquake": "33",
+            "Stone Edge": "37",
+            "Thrash": "42",
+            "Sandstorm": "47",
+            "Hyper Beam": "52",
+            "Giga Impact": "59"
+        },
+        "egg": {
+            "Ancient Power": null,
+            "Assurance": null,
+            "Curse": null,
+            "Dragon Dance": null,
+            "Focus Energy": null,
+            "Iron Defense": null,
+            "Iron Head": null,
+            "Outrage": null,
+            "Stomp": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Mud-Slap": "05",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Fire Fang": "08",
+            "Thunder Fang": "09",
+            "Ice Fang": "10",
+            "Low Kick": "12",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Bulldoze": "28",
+            "Snarl": "30",
+            "Icy Wind": "34",
+            "Mud Shot": "35",
+            "Rock Tomb": "36",
+            "Fling": "43",
+            "Dragon Tail": "44",
+            "Avalanche": "46",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Sandstorm": "51",
+            "Dig": "55",
+            "Brick Break": "58",
+            "Shadow Claw": "61",
+            "Foul Play": "62",
+            "Body Slam": "66",
+            "Fire Punch": "67",
+            "Thunder Punch": "68",
+            "Ice Punch": "69",
+            "Sleep Talk": "70",
+            "Rock Blast": "76",
+            "Dragon Claw": "78",
+            "Thunder Wave": "82",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Taunt": "87",
+            "Body Press": "89",
+            "Dark Pulse": "94",
+            "Iron Head": "99",
+            "Dragon Dance": "100",
+            "Power Gem": "101",
+            "Substitute": "103",
+            "Iron Defense": "104",
+            "Crunch": "108",
+            "Dragon Pulse": "115",
+            "Stealth Rock": "116",
+            "Heavy Slam": "121",
+            "Surf": "123",
+            "Flamethrower": "125",
+            "Thunderbolt": "126",
+            "Helping Hand": "130",
+            "Earth Power": "133",
+            "Ice Beam": "135",
+            "Fire Blast": "141",
+            "Hydro Pump": "142",
+            "Blizzard": "143",
+            "Earthquake": "149",
+            "Stone Edge": "150",
+            "Giga Impact": "152",
+            "Outrage": "156",
+            "Focus Blast": "158",
+            "Hyper Beam": "163",
+            "Thunder": "166",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Tyranitar": [
+            "Its body can\u2019t be harmed by any sort of attack, so it is very eager to make challenges against enemies.",
+            "Extremely strong, it can change the landscape. It has an insolent nature that makes it not care about others.",
+            "In just one of its mighty hands, it has the power to make the ground shake and mountains crumble.",
+            "TYRANITAR is so overwhelmingly powerful, it can bring down a whole mountain to make its nest. This pok\u00e9mon wanders about in mountains seeking new opponents to fight.",
+            "Its body can\u2019t be harmed by any sort of attack, so it is very eager to make challenges against enemies.",
+            "A TYRANITAR is so overwhelmingly powerful, it can bring down a whole mountain to make its nest. It roams in mountains seeking new opponents to fight.",
+            "If it rampages, it knocks down mountains and buries rivers. Maps must be redrawn afterward.",
+            "Its body can\u2019t be harmed by any sort of attack, so it is very eager to make challenges against enemies.",
+            "Extremely strong, it can change the landscape. It has an insolent nature that makes it not care about others.",
+            "If it rampages, it knocks down mountains and buries rivers. Maps must be redrawn afterward.",
+            "The quakes caused when it walks make even great mountains crumble and change the surrounding terrain.",
+            "In just one of its mighty hands, it has the power to make the ground shake and mountains crumble.",
+            "If it rampages, it knocks down mountains and buries rivers. Maps must be redrawn afterward.",
+            "Tyranitar is so overwhelmingly powerful, it can bring down a whole mountain to make its nest. This Pok\u00e9mon wanders about in mountains seeking new opponents to fight.",
+            "It wanders through the mountains seeking opponents to fight. If it finds an opponent that\u2019s not worthy, Tyranitar ignores it and wanders on.",
+            "This Pok\u00e9mon is a mobile disaster, leaving mountains crumbled and houses destroyed in its wake.",
+            "Its body can\u2019t be harmed by any sort of attack, so it is very eager to make challenges against enemies.",
+            "The quakes caused when it walks make even great mountains crumble and change the surrounding terrain.",
+            "If it rampages, it knocks down mountains and buries rivers. Maps must be redrawn afterward.",
+            "Extremely strong, it can change the landscape. It is so insolent that it doesn\u2019t care about others.",
+            "In just one of its mighty hands, it has the power to make the ground shake and mountains crumble."
+        ],
+        "Mega Tyranitar": [
+            "Due to the colossal power poured into it, this Pok\u00e9mon\u2019s back split right open. Its destructive instincts are the only thing keeping it moving.",
+            "The effects of Mega Evolution make it more ferocious than ever. It\u2019s unclear whether it can even hear its Trainer\u2019s orders."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788533674291251/248.png",
+    "discord_sprite": "<:P248:1132123651425177653>"
+}

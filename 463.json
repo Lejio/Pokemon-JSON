@@ -1,0 +1,201 @@
+{
+    "alt-version(s)": [],
+    "name": "Lickilicky",
+    "Lickilicky": {
+        "pokedex_data": {
+            "National No.": "0463",
+            "Type": [
+                "Normal"
+            ],
+            "Species": "Licking Poke\u0301mon",
+            "Height": "1.7 m (5\u203207\u2032\u2032)",
+            "Weight": "140.0 kg (308.6 lbs)",
+            "Abilities": {
+                "Own Tempo": {
+                    "href": "/ability/own-tempo",
+                    "effect": "Prevents the Pok\u00e9mon from becoming confused.",
+                    "hidden": false
+                },
+                "Oblivious": {
+                    "href": "/ability/oblivious",
+                    "effect": "Prevents it from becoming infatuated.",
+                    "hidden": false
+                },
+                "Cloud Nine": {
+                    "href": "/ability/cloud-nine",
+                    "effect": "Eliminates the effects of weather.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 HP",
+            "Catch rate": "30",
+            "BaseFriendship": "50",
+            "Base Exp.": "180",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "110",
+                "Min": "330",
+                "Max": "424"
+            },
+            "Attack": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Defense": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Sp. Atk": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Sp. Def": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Speed": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Total": "515"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Lickitung",
+                    "nationalNo": "#0108",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Lickilicky",
+                    "nationalNo": "#0463",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(after Rollout learned)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Defense Curl": "1",
+            "Lick": "1",
+            "Rollout": "1",
+            "Supersonic": "1",
+            "Wrap": "18",
+            "Disable": "24",
+            "Stomp": "30",
+            "Knock Off": "36",
+            "Screech": "42",
+            "Slam": "48",
+            "Power Whip": "54",
+            "Belly Drum": "60"
+        },
+        "egg": {
+            "Amnesia": null,
+            "Belch": null,
+            "Belly Drum": null,
+            "Body Slam": null,
+            "Curse": null,
+            "Hammer Arm": null,
+            "Muddy Water": null,
+            "Snore": null,
+            "Thrash": null,
+            "Zen Headbutt": null
+        },
+        "tm": {
+            "Focus Punch": "01",
+            "Water Pulse": "03",
+            "Work Up": "10",
+            "Sunny Day": "11",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Solar Beam": "22",
+            "Iron Tail": "23",
+            "Thunderbolt": "24",
+            "Thunder": "25",
+            "Earthquake": "26",
+            "Dig": "28",
+            "Shadow Ball": "30",
+            "Brick Break": "31",
+            "Double Team": "32",
+            "Shock Wave": "34",
+            "Flamethrower": "35",
+            "Sandstorm": "37",
+            "Fire Blast": "38",
+            "Rock Tomb": "39",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Focus Blast": "52",
+            "Fling": "56",
+            "Endure": "58",
+            "Explosion": "64",
+            "Giga Impact": "68",
+            "Gyro Ball": "74",
+            "Swords Dance": "75",
+            "Psych Up": "77",
+            "Rock Slide": "80",
+            "Sleep Talk": "82",
+            "Bulldoze": "83",
+            "Dream Eater": "85",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Cut": "93",
+            "Surf": "95",
+            "Strength": "96",
+            "Rock Smash": "98",
+            "Rock Climb": "100"
+        }
+    },
+    "entries": {
+        "Lickilicky": [
+            "It wraps things with its extensible tongue. Getting too close to it will leave you soaked with drool.",
+            "The long tongue is always soggy with slobber. The saliva contains a solvent that causes numbness.",
+            "Its saliva can decompose anything. It wraps its long tongue around things to coat them with its sticky saliva.",
+            "It has space in its throat to store saliva. It can also roll up its tongue and store it in the same spot.",
+            "The long tongue is always soggy with slobber. The saliva contains a solvent that causes numbness.",
+            "Their saliva contains lots of components that can dissolve anything. The numbness caused by their lick does not dissipate.",
+            "It wraps things with its extensible tongue. Getting too close to it will leave you soaked with drool.",
+            "Their saliva contains lots of components that can dissolve anything. The numbness caused by their lick does not dissipate.",
+            "A contest is under way to determine which one can stick its tongue out the farthest. The current record is...more than 82 feet.",
+            "It uses its tongue much more skillfully than its hands or its feet. It can deftly pick up a single small bean with its tongue.",
+            "Lickilicky\u2019s strange tongue can stretch to many times the length of its body. No one has figured out how Lickilicky\u2019s tongue can stretch so far.",
+            "Lickilicky can do just about anything with its tongue, which is as dexterous as the human hand. In contrast, Lickilicky\u2019s use of its fingers is clumsy.",
+            "It wraps things with its extensible tongue. Getting too close to it will leave you soaked with drool.",
+            "Its tongue can extend and contract freely, and it is capable of reaching lengths over 10 times Lickilicky\u2019s height. Beware of the saliva, as it contains corrosive elements."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790212691927040/463.png",
+    "discord_sprite": "<:P463:1132133104270721124>"
+}

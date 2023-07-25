@@ -1,0 +1,309 @@
+{
+    "alt-version(s)": [
+        "Mega Ampharos"
+    ],
+    "name": "Ampharos",
+    "Ampharos": {
+        "pokedex_data": {
+            "National No.": "0181",
+            "Type": [
+                "Electric"
+            ],
+            "Species": "Light Poke\u0301mon",
+            "Height": "1.4 m (4\u203207\u2032\u2032)",
+            "Weight": "61.5 kg (135.6 lbs)",
+            "Abilities": {
+                "Static": {
+                    "href": "/ability/static",
+                    "effect": "Contact with the Pok\u00e9mon may cause paralysis.",
+                    "hidden": false
+                },
+                "Plus": {
+                    "href": "/ability/plus",
+                    "effect": "Ups Sp. Atk if another Pok\u00e9mon has Plus or Minus.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Sp. Atk",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "255",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "90",
+                "Min": "290",
+                "Max": "384"
+            },
+            "Attack": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Defense": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Sp. Atk": {
+                "Base": "115",
+                "Min": "211",
+                "Max": "361"
+            },
+            "Sp. Def": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Speed": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Total": "510"
+        },
+        "defense_stats": {
+            "default": {
+                "Electric": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "Mega Ampharos": {
+        "pokedex_data": {
+            "National No.": "0181",
+            "Type": [
+                "Electric",
+                "Dragon"
+            ],
+            "Species": "Light Poke\u0301mon",
+            "Height": "1.4 m (4\u203207\u2032\u2032)",
+            "Weight": "61.5 kg (135.6 lbs)",
+            "Abilities": {
+                "Mold Breaker": {
+                    "href": "/ability/mold-breaker",
+                    "effect": "Moves can be used regardless of Abilities.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Sp. Atk",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "275",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "90",
+                "Min": "290",
+                "Max": "384"
+            },
+            "Attack": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Defense": {
+                "Base": "105",
+                "Min": "193",
+                "Max": "339"
+            },
+            "Sp. Atk": {
+                "Base": "165",
+                "Min": "301",
+                "Max": "471"
+            },
+            "Sp. Def": {
+                "Base": "110",
+                "Min": "202",
+                "Max": "350"
+            },
+            "Speed": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Total": "610"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Dragon": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Mareep",
+                    "nationalNo": "#0179",
+                    "type": [
+                        "Electric"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Flaaffy",
+                    "nationalNo": "#0180",
+                    "type": [
+                        "Electric"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 15)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Flaaffy",
+                    "nationalNo": "#0180",
+                    "type": [
+                        "Electric"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Ampharos",
+                    "nationalNo": "#0181",
+                    "type": [
+                        "Electric"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 30)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Dragon Pulse": "1",
+            "Fire Punch": "1",
+            "Growl": "1",
+            "Magnetic Flux": "1",
+            "Tackle": "1",
+            "Thunder Shock": "1",
+            "Thunder Wave": "1",
+            "Zap Cannon": "1",
+            "Cotton Spore": "11",
+            "Charge": "16",
+            "Take Down": "20",
+            "Electro Ball": "25",
+            "Confuse Ray": "29",
+            "Power Gem": "35",
+            "Discharge": "40",
+            "Cotton Guard": "46",
+            "Dazzling Gleam": "51",
+            "Light Screen": "57",
+            "Thunder": "62"
+        },
+        "evolution": {
+            "Thunder Punch": "75"
+        },
+        "egg": {
+            "After You": null,
+            "Agility": null,
+            "Eerie Impulse": null,
+            "Electric Terrain": null,
+            "Electroweb": null,
+            "Flatter": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Agility": "04",
+            "Protect": "07",
+            "Low Kick": "12",
+            "Confuse Ray": "17",
+            "Trailblaze": "20",
+            "Charge Beam": "23",
+            "Facade": "25",
+            "Bulldoze": "28",
+            "Swift": "32",
+            "Fling": "43",
+            "Dragon Tail": "44",
+            "Endure": "47",
+            "Volt Switch": "48",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Dig": "55",
+            "Brick Break": "58",
+            "Body Slam": "66",
+            "Fire Punch": "67",
+            "Thunder Punch": "68",
+            "Ice Punch": "69",
+            "Sleep Talk": "70",
+            "Electro Ball": "72",
+            "Reflect": "74",
+            "Light Screen": "75",
+            "Dazzling Gleam": "79",
+            "Thunder Wave": "82",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Eerie Impulse": "96",
+            "Power Gem": "101",
+            "Substitute": "103",
+            "Dragon Pulse": "115",
+            "Thunderbolt": "126",
+            "Helping Hand": "130",
+            "Electric Terrain": "136",
+            "Wild Charge": "147",
+            "Giga Impact": "152",
+            "Outrage": "156",
+            "Focus Blast": "158",
+            "Hyper Beam": "163",
+            "Thunder": "166",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Ampharos": [
+            "The tail\u2019s tip shines brightly and can be seen from far away. It acts as a beacon for lost people.",
+            "The bright light on its tail can be seen far away. It has been treasured since ancient times as a beacon.",
+            "When it gets dark, the light from its bright, shiny tail can be seen from far away on the ocean\u2019s surface.",
+            "AMPHAROS gives off so much light that it can be seen even from space. People in the old days used the light of this pok\u00e9mon to send signals back and forth with others far away.",
+            "The bright light on its tail can be seen far away. It has been treasured since ancient times as a beacon.",
+            "The tail\u2019s tip shines brightly and can be seen from far away. It acts as a beacon for lost people.",
+            "It gives off so much light that it can be seen even from space. People in the old days used its light to send signals back and forth with others far away.",
+            "The tip of its tail shines brightly. In the olden days, people sent signals using the tail\u2019s light.",
+            "The tail\u2019s tip shines brightly and can be seen from far away. It acts as a beacon for lost people.",
+            "The bright light on its tail can be seen far away. It has been treasured since ancient times as a beacon.",
+            "The tip of its tail shines brightly. In the olden days, people sent signals using the tail\u2019s light.",
+            "The tip of its tail shines so brightly it can be used to send sea-navigation beacons to distant foreign shores.",
+            "The tail\u2019s tip shines brightly and can be seen from far away. It acts as a beacon for lost people.",
+            "Ampharos gives off so much light that it can be seen even from space. People in the old days used the light of this Pok\u00e9mon to send signals back and forth with others far away.",
+            "The light from its tail can be seen from space. This is why you can always tell exactly where it is, which is why it usually keeps the light off.",
+            "Its tail shines bright and strong. It has been prized since long ago as a beacon for sailors.",
+            "The tip of its tail shines brightly. In the olden days, people sent signals using the light from this Pok\u00e9mon\u2019s tail.",
+            "The bright light on its tail can be seen far away. It has been treasured since ancient times as a beacon.",
+            "When it gets dark, the light from its bright, shiny tail can be seen from far away on the ocean\u2019s surface."
+        ],
+        "Mega Ampharos": [
+            "Excess energy from Mega Evolution stimulates its genes, and the wool it had lost grows in again.",
+            "Massive amounts of energy intensely stimulated Ampharos\u2019s cells, apparently awakening its long-sleeping dragon\u2019s blood."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788004499931208/181.png",
+    "discord_sprite": "<:P181:1132120699759243294>"
+}

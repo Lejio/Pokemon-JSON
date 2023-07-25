@@ -1,0 +1,222 @@
+{
+    "alt-version(s)": [],
+    "name": "Hakamo-o",
+    "Hakamo-o": {
+        "pokedex_data": {
+            "National No.": "0783",
+            "Type": [
+                "Dragon",
+                "Fighting"
+            ],
+            "Species": "Scaly Poke\u0301mon",
+            "Height": "1.2 m (3\u203211\u2032\u2032)",
+            "Weight": "47.0 kg (103.6 lbs)",
+            "Abilities": {
+                "Bulletproof": {
+                    "href": "/ability/bulletproof",
+                    "effect": "Protects the Pok\u00e9mon from ball and bomb moves.",
+                    "hidden": false
+                },
+                "Soundproof": {
+                    "href": "/ability/soundproof",
+                    "effect": "Gives immunity to <q>sound-based</q> moves.",
+                    "hidden": false
+                },
+                "Overcoat": {
+                    "href": "/ability/overcoat",
+                    "effect": "Protects the Pok\u00e9mon from weather damage.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Defense",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "147",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "55",
+                "Min": "220",
+                "Max": "314"
+            },
+            "Attack": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Defense": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Sp. Atk": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Def": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Speed": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Total": "420"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Flying": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Dragon": "super-effective",
+                "Dark": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Jangmo-o",
+                    "nationalNo": "#0782",
+                    "type": [
+                        "Dragon"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Hakamo-o",
+                    "nationalNo": "#0783",
+                    "type": [
+                        "Dragon",
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 35)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Hakamo-o",
+                    "nationalNo": "#0783",
+                    "type": [
+                        "Dragon",
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Kommo-o",
+                    "nationalNo": "#0784",
+                    "type": [
+                        "Dragon",
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 45)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Autotomize": "1",
+            "Dragon Tail": "1",
+            "Leer": "1",
+            "Protect": "1",
+            "Tackle": "1",
+            "Scary Face": "12",
+            "Headbutt": "16",
+            "Work Up": "20",
+            "Screech": "24",
+            "Iron Defense": "28",
+            "Dragon Claw": "32",
+            "Noble Roar": "38",
+            "Dragon Dance": "44",
+            "Outrage": "50",
+            "Close Combat": "56"
+        },
+        "egg": {
+            "Counter": null,
+            "Dragon Breath": null,
+            "Focus Punch": null
+        },
+        "null": {
+            "Swords Dance": "00",
+            "Low Kick": "07",
+            "Earthquake": "10",
+            "Substitute": "20",
+            "Reversal": "21",
+            "Outrage": "24",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Iron Tail": "31",
+            "Uproar": "35",
+            "Taunt": "37",
+            "Iron Defense": "46",
+            "Dragon Claw": "47",
+            "Bulk Up": "48",
+            "Dragon Dance": "51",
+            "Close Combat": "53",
+            "X-Scissor": "60",
+            "Dragon Pulse": "62",
+            "Focus Blast": "64",
+            "Iron Head": "74",
+            "Work Up": "85"
+        },
+        "tm": {
+            "Mega Punch": "00",
+            "Mega Kick": "01",
+            "Screech": "16",
+            "Safeguard": "19",
+            "Rest": "21",
+            "Rock Slide": "22",
+            "Snore": "24",
+            "Protect": "25",
+            "Scary Face": "26",
+            "Attract": "31",
+            "Sandstorm": "32",
+            "Facade": "39",
+            "Brick Break": "43",
+            "Rock Tomb": "48",
+            "Payback": "57",
+            "Fling": "59",
+            "Drain Punch": "63",
+            "Shadow Claw": "65",
+            "Round": "76",
+            "Bulldoze": "81",
+            "False Swipe": "94",
+            "Brutal Swing": "97"
+        }
+    },
+    "entries": {
+        "Hakamo-o": [
+            "It leaps at its prey with a courageous shout. Its scaly punches tear its opponents to shreds.",
+            "It sheds and regrows its scales on a continuous basis. The scales become harder and sharper each time they\u2019re regrown.",
+            "It makes noise by clanging its scales together. When the rhythm has reached its peak, Hakamo-o attacks.",
+            "The scales it sheds can be molded and processed to make pots and pans. They conduct heat well, so they\u2019re a popular item.",
+            "The scaleless, scarred parts of its body are signs of its strength. It shows them off to defeated opponents.",
+            "Before attacking its enemies, it clashes its scales together and roars. Its sharp claws shred the opposition."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792712044134481/783.png",
+    "discord_sprite": "<:P783:1132147252568277037>"
+}

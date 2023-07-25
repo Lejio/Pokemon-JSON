@@ -1,0 +1,246 @@
+{
+    "alt-version(s)": [
+        "Full Belly Mode",
+        "Hangry Mode"
+    ],
+    "Full Belly Mode": {
+        "pokedex_data": {
+            "National No.": "0877",
+            "Type": [
+                "Electric",
+                "Dark"
+            ],
+            "Species": "Two-Sided Poke\u0301mon",
+            "Height": "0.3 m (1\u203200\u2032\u2032)",
+            "Weight": "3.0 kg (6.6 lbs)",
+            "Abilities": {
+                "Hunger Switch": {
+                    "href": "/ability/hunger-switch",
+                    "effect": "Changes forms each turn.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Speed",
+            "Catch rate": "180",
+            "BaseFriendship": "50",
+            "Base Exp.": "153",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "58",
+                "Min": "226",
+                "Max": "320"
+            },
+            "Attack": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Defense": {
+                "Base": "58",
+                "Min": "108",
+                "Max": "236"
+            },
+            "Sp. Atk": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Def": {
+                "Base": "58",
+                "Min": "108",
+                "Max": "236"
+            },
+            "Speed": {
+                "Base": "97",
+                "Min": "179",
+                "Max": "322"
+            },
+            "Total": "436"
+        },
+        "defense_stats": {
+            "default": {
+                "Electric": "not very effective",
+                "Fighting": "super-effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Psychic": "no effect",
+                "Bug": "super-effective",
+                "Ghost": "not very effective",
+                "Dark": "not very effective",
+                "Steel": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "Hangry Mode": {
+        "pokedex_data": {
+            "National No.": "0877",
+            "Type": [
+                "Electric",
+                "Dark"
+            ],
+            "Species": "Two-Sided Poke\u0301mon",
+            "Height": "0.3 m (1\u203200\u2032\u2032)",
+            "Weight": "3.0 kg (6.6 lbs)",
+            "Abilities": {
+                "Hunger Switch": {
+                    "href": "/ability/hunger-switch",
+                    "effect": "Changes forms each turn.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Speed",
+            "Catch rate": "180",
+            "BaseFriendship": "50",
+            "Base Exp.": "153",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "58",
+                "Min": "226",
+                "Max": "320"
+            },
+            "Attack": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Defense": {
+                "Base": "58",
+                "Min": "108",
+                "Max": "236"
+            },
+            "Sp. Atk": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Def": {
+                "Base": "58",
+                "Min": "108",
+                "Max": "236"
+            },
+            "Speed": {
+                "Base": "97",
+                "Min": "179",
+                "Max": "322"
+            },
+            "Total": "436"
+        },
+        "defense_stats": {
+            "default": {
+                "Electric": "not very effective",
+                "Fighting": "super-effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Psychic": "no effect",
+                "Bug": "super-effective",
+                "Ghost": "not very effective",
+                "Dark": "not very effective",
+                "Steel": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Tail Whip": "1",
+            "Thunder Shock": "1",
+            "Leer": "5",
+            "Power Trip": "10",
+            "Quick Attack": "15",
+            "Flatter": "20",
+            "Bite": "25",
+            "Spark": "30",
+            "Torment": "35",
+            "Agility": "40",
+            "Bullet Seed": "45",
+            "Crunch": "50",
+            "Aura Wheel": "55",
+            "Thrash": "60"
+        },
+        "egg": {
+            "Charge": null,
+            "Fake Out": null,
+            "Parting Shot": null,
+            "Quash": null,
+            "Rapid Spin": null,
+            "Super Fang": null,
+            "Swagger": null,
+            "Tickle": null
+        },
+        "null": {
+            "Thunderbolt": "08",
+            "Thunder": "09",
+            "Agility": "12",
+            "Substitute": "20",
+            "Outrage": "24",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Crunch": "32",
+            "Uproar": "35",
+            "Taunt": "37",
+            "Dark Pulse": "58",
+            "Seed Bomb": "59",
+            "Nasty Plot": "68",
+            "Electro Ball": "80",
+            "Foul Play": "81",
+            "Wild Charge": "86",
+            "Psychic Fangs": "97"
+        },
+        "tm": {
+            "Thunder Punch": "05",
+            "Thunder Wave": "14",
+            "Rest": "21",
+            "Thief": "23",
+            "Snore": "24",
+            "Protect": "25",
+            "Scary Face": "26",
+            "Attract": "31",
+            "Facade": "39",
+            "Swift": "40",
+            "Revenge": "42",
+            "Brick Break": "43",
+            "Fake Tears": "47",
+            "Bullet Seed": "50",
+            "Payback": "57",
+            "Assurance": "58",
+            "Fling": "59",
+            "Thunder Fang": "66",
+            "Ice Fang": "67",
+            "Fire Fang": "68",
+            "Round": "76",
+            "Volt Switch": "80",
+            "Electroweb": "82",
+            "Snarl": "85",
+            "Electric Terrain": "90",
+            "Stomping Tantrum": "98"
+        }
+    },
+    "entries": {
+        "Full Belly Mode": [
+            "As it eats the seeds stored up in its pocket-like pouches, this Pok\u00e9mon is not just satisfying its constant hunger. It\u2019s also generating electricity.",
+            "It carries electrically roasted seeds with it as if they\u2019re precious treasures. No matter how much it eats, it always gets hungry again in short order."
+        ],
+        "Hangry Mode": [
+            "Intense hunger drives it to extremes of violence, and the electricity in its cheek sacs has converted into a Dark-type energy.",
+            "Hunger hormones affect its temperament. Until its hunger is appeased, it gets up to all manner of evil deeds."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793440124977232/877.png",
+    "discord_sprite": "<:P877:1132151390253359184>"
+}

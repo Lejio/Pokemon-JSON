@@ -1,0 +1,235 @@
+{
+    "alt-version(s)": [],
+    "name": "Oddish",
+    "Oddish": {
+        "pokedex_data": {
+            "National No.": "0043",
+            "Type": [
+                "Grass",
+                "Poison"
+            ],
+            "Species": "Weed Poke\u0301mon",
+            "Height": "0.5 m (1\u203208\u2032\u2032)",
+            "Weight": "5.4 kg (11.9 lbs)",
+            "Abilities": {
+                "Chlorophyll": {
+                    "href": "/ability/chlorophyll",
+                    "effect": "Boosts the Pok\u00e9mon's Speed in sunshine.",
+                    "hidden": false
+                },
+                "Run Away": {
+                    "href": "/ability/run-away",
+                    "effect": "Enables a sure getaway from wild Pok\u00e9mon.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Sp. Atk",
+            "Catch rate": "255",
+            "BaseFriendship": "50",
+            "Base Exp.": "64",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "45",
+                "Min": "200",
+                "Max": "294"
+            },
+            "Attack": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Defense": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Sp. Atk": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Sp. Def": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Speed": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Total": "320"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Flying": "super-effective",
+                "Psychic": "super-effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Oddish",
+                    "nationalNo": "#0043",
+                    "type": [
+                        "Grass",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Gloom",
+                    "nationalNo": "#0044",
+                    "type": [
+                        "Grass",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 21)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Gloom",
+                    "nationalNo": "#0044",
+                    "type": [
+                        "Grass",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Vileplume",
+                    "nationalNo": "#0045",
+                    "type": [
+                        "Grass",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Leaf Stone)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Gloom",
+                    "nationalNo": "#0044",
+                    "type": [
+                        "Grass",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Bellossom",
+                    "nationalNo": "#0182",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Sun Stone)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Absorb": "1",
+            "Growth": "1",
+            "Acid": "4",
+            "Sweet Scent": "8",
+            "Mega Drain": "12",
+            "Poison Powder": "14",
+            "Stun Spore": "16",
+            "Sleep Powder": "18",
+            "Giga Drain": "20",
+            "Toxic": "24",
+            "Moonblast": "28",
+            "Grassy Terrain": "32",
+            "Moonlight": "36",
+            "Petal Dance": "40"
+        },
+        "egg": {
+            "After You": null,
+            "Charm": null,
+            "Flail": null,
+            "Ingrain": null,
+            "Leech Seed": null,
+            "Nature Power": null,
+            "Razor Leaf": null,
+            "Strength Sap": null,
+            "Synthesis": null,
+            "Teeter Dance": null,
+            "Tickle": null
+        },
+        "tm": {
+            "Toxic": "06",
+            "Bullet Seed": "09",
+            "Sunny Day": "11",
+            "Protect": "17",
+            "Giga Drain": "19",
+            "Dazzling Gleam": "21",
+            "Solar Beam": "22",
+            "Double Team": "32",
+            "Sludge Bomb": "36",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Energy Ball": "53",
+            "Endure": "58",
+            "Flash": "70",
+            "Swords Dance": "75",
+            "Sleep Talk": "82",
+            "Grass Knot": "86",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Cut": "93"
+        }
+    },
+    "entries": {
+        "Oddish": [
+            "During the day, it keeps its face buried in the ground. At night, it wanders around sowing its seeds.",
+            "It may be mistaken for a clump of weeds. If you try to yank it out of the ground, it shrieks horribly.",
+            "Awakened by moonlight, it roams actively at night. In the day, it stays quietly underground.",
+            "If exposed to moonlight, it starts to move. It roams far and wide at night to scatter its seeds.",
+            "During the day, it stays in the cold underground to avoid the sun. It grows by bathing in moonlight.",
+            "During the daytime, ODDISH buries itself in soil to absorb nutrients from the ground using its entire body. The more fertile the soil, the glossier its leaves become.",
+            "ODDISH searches for fertile, nutrient-rich soil, then plants itself. During the daytime, while it is planted, this pok\u00e9mon\u2019s feet are thought to change shape and become similar to the roots of trees.",
+            "Its scientific name is \u201cOddium Wanderus.\u201d At night, it is said to walk nearly 1,000 feet on its two roots.",
+            "During the day, it keeps its face buried in the ground. At night, it wanders around sowing its seeds.",
+            "This pok\u00e9mon grows by absorbing moonlight. During the daytime, it buries itself in the ground, leaving only its leaves exposed to avoid detection by its enemies.",
+            "It often plants its root feet in the ground during the day and sows seeds as it walks about at night.",
+            "Awakened by moonlight, it roams actively at night. In the day, it stays quietly underground.",
+            "If exposed to moonlight, it starts to move. It roams far and wide at night to scatter its seeds.",
+            "It often plants its root feet in the ground during the day and sows seeds as it walks about at night.",
+            "During the day, it stays in the cold underground to avoid the sun. It grows by bathing in moonlight.",
+            "Its scientific name is \u201cOddium Wanderus.\u201d At night, it is said to walk nearly 1,000 feet on its two roots.",
+            "During the daytime, Oddish buries itself in soil to absorb nutrients from the ground using its entire body. The more fertile the soil, the glossier its leaves become.",
+            "Oddish searches for fertile, nutrient-rich soil, then plants itself. During the daytime, while it is planted, this Pok\u00e9mon\u2019s feet are thought to change shape and become similar to the roots of trees.",
+            "It may be mistaken for a clump of weeds. If you try to yank it out of the ground, it shrieks horribly.",
+            "If exposed to moonlight, it starts to move. It roams far and wide at night to scatter its seeds.",
+            "During the day, it stays in the cold underground to avoid the sun. It grows by bathing in moonlight.",
+            "It often plants its root feet in the ground during the day and sows seeds as it walks about at night."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131786926236651672/43.png",
+    "discord_sprite": "<:P43:1131973784497299548>"
+}

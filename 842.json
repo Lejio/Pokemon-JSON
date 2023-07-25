@@ -1,0 +1,248 @@
+{
+    "alt-version(s)": [],
+    "name": "Appletun",
+    "Appletun": {
+        "pokedex_data": {
+            "National No.": "0842",
+            "Type": [
+                "Grass",
+                "Dragon"
+            ],
+            "Species": "Apple Nectar Poke\u0301mon",
+            "Height": "0.4 m (1\u203204\u2032\u2032)",
+            "Weight": "13.0 kg (28.7 lbs)",
+            "Abilities": {
+                "Ripen": {
+                    "href": "/ability/ripen",
+                    "effect": "Doubles the effect of berries.",
+                    "hidden": false
+                },
+                "Gluttony": {
+                    "href": "/ability/gluttony",
+                    "effect": "Encourages the early use of a held Berry.",
+                    "hidden": false
+                },
+                "Thick Fat": {
+                    "href": "/ability/thick-fat",
+                    "effect": "Ups resistance to Fire- and Ice-type moves.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 HP",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "170",
+            "Growth Rate": "Erratic"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "110",
+                "Min": "330",
+                "Max": "424"
+            },
+            "Attack": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Defense": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Sp. Atk": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Sp. Def": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Speed": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Total": "485"
+        },
+        "defense_stats": {
+            "Ripen ability": {
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Poison": "super-effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Bug": "super-effective",
+                "Dragon": "super-effective",
+                "Fairy": "super-effective"
+            },
+            "Gluttony ability": {
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Poison": "super-effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Bug": "super-effective",
+                "Dragon": "super-effective",
+                "Fairy": "super-effective"
+            },
+            "Thick Fat ability": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Poison": "super-effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Bug": "super-effective",
+                "Dragon": "super-effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Applin",
+                    "nationalNo": "#0840",
+                    "type": [
+                        "Grass",
+                        "Dragon"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Flapple",
+                    "nationalNo": "#0841",
+                    "type": [
+                        "Grass",
+                        "Dragon"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Tart Apple)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Applin",
+                    "nationalNo": "#0840",
+                    "type": [
+                        "Grass",
+                        "Dragon"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Appletun",
+                    "nationalNo": "#0842",
+                    "type": [
+                        "Grass",
+                        "Dragon"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Sweet Apple)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Astonish": "1",
+            "Growth": "1",
+            "Recycle": "1",
+            "Sweet Scent": "1",
+            "Withdraw": "1",
+            "Curse": "4",
+            "Stomp": "8",
+            "Leech Seed": "12",
+            "Protect": "16",
+            "Bullet Seed": "20",
+            "Recover": "24",
+            "Apple Acid": "28",
+            "Body Slam": "32",
+            "Iron Defense": "36",
+            "Dragon Pulse": "40",
+            "Energy Ball": "44"
+        },
+        "evolution": {
+            "Headbutt": "70"
+        },
+        "egg": {
+            "Defense Curl": null,
+            "Recycle": null,
+            "Rollout": null,
+            "Sucker Punch": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Protect": "07",
+            "Trailblaze": "20",
+            "Pounce": "21",
+            "Facade": "25",
+            "Bulldoze": "28",
+            "Magical Leaf": "33",
+            "Dragon Tail": "44",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Bullet Seed": "56",
+            "Zen Headbutt": "59",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Seed Bomb": "71",
+            "Reflect": "74",
+            "Light Screen": "75",
+            "Grass Knot": "81",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Body Press": "89",
+            "Iron Head": "99",
+            "Substitute": "103",
+            "Iron Defense": "104",
+            "Giga Drain": "111",
+            "Dragon Pulse": "115",
+            "Energy Ball": "119",
+            "Heavy Slam": "121",
+            "Amnesia": "128",
+            "Helping Hand": "130",
+            "Grassy Terrain": "137",
+            "Earthquake": "149",
+            "Giga Impact": "152",
+            "Outrage": "156",
+            "Leaf Storm": "159",
+            "Hyper Beam": "163",
+            "Solar Beam": "168",
+            "Draco Meteor": "169",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Appletun": [
+            "Eating a sweet apple caused its evolution. A nectarous scent wafts from its body, luring in the bug Pok\u00e9mon it preys on.",
+            "Its body is covered in sweet nectar, and the skin on its back is especially yummy. Children used to have it as a snack.",
+            "It feeds mainly on sweet apples. It will also eat small bug Pok\u00e9mon that are attracted by its sweet nectar.",
+            "When some Lechonk come along to lick the sweet nectar on Appletun\u2019s back, Appletun will spew sticky nectar at them to drive them away."
+        ],
+        "Gigantamax": [
+            "It blasts its opponents with massive amounts of sweet, sticky nectar, drowning them under the deluge.",
+            "Due to Gigantamax energy, this Pok\u00e9mon\u2019s nectar has thickened. The increased viscosity lets the nectar absorb more damage than before."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793168078225469/842.png",
+    "discord_sprite": "<:P842:1132149844715262125>"
+}

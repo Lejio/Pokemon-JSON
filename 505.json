@@ -1,0 +1,190 @@
+{
+    "alt-version(s)": [],
+    "name": "Watchog",
+    "Watchog": {
+        "pokedex_data": {
+            "National No.": "0505",
+            "Type": [
+                "Normal"
+            ],
+            "Species": "Lookout Poke\u0301mon",
+            "Height": "1.1 m (3\u203207\u2032\u2032)",
+            "Weight": "27.0 kg (59.5 lbs)",
+            "Abilities": {
+                "Illuminate": {
+                    "href": "/ability/illuminate",
+                    "effect": "Raises the likelihood of meeting wild Pok\u00e9mon.",
+                    "hidden": false
+                },
+                "Keen Eye": {
+                    "href": "/ability/keen-eye",
+                    "effect": "Prevents other Pok\u00e9mon from lowering accuracy.",
+                    "hidden": false
+                },
+                "Analytic": {
+                    "href": "/ability/analytic",
+                    "effect": "Boosts move power when the Pok\u00e9mon moves last.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "255",
+            "BaseFriendship": "50",
+            "Base Exp.": "147",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "60",
+                "Min": "230",
+                "Max": "324"
+            },
+            "Attack": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Defense": {
+                "Base": "69",
+                "Min": "128",
+                "Max": "260"
+            },
+            "Sp. Atk": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Def": {
+                "Base": "69",
+                "Min": "128",
+                "Max": "260"
+            },
+            "Speed": {
+                "Base": "77",
+                "Min": "143",
+                "Max": "278"
+            },
+            "Total": "420"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Patrat",
+                    "nationalNo": "#0504",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Watchog",
+                    "nationalNo": "#0505",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 20)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Bite": "6",
+            "Confuse Ray": "1",
+            "Leer": "3",
+            "Low Kick": "1",
+            "Rototiller": "1",
+            "Tackle": "1",
+            "Bide": "8",
+            "Detect": "11",
+            "Sand Attack": "13",
+            "Crunch": "16",
+            "Hypnosis": "18",
+            "Super Fang": "22",
+            "After You": "25",
+            "Focus Energy": "29",
+            "Psych Up": "32",
+            "Hyper Fang": "36",
+            "Nasty Plot": "39",
+            "Mean Look": "43",
+            "Baton Pass": "46",
+            "Slam": "50"
+        },
+        "evolution": {
+            "Confuse Ray": "\u2014"
+        },
+        "egg": {
+            "Assurance": null,
+            "Bullet Seed": null,
+            "Flail": null,
+            "Foresight": null,
+            "Iron Tail": null,
+            "Pursuit": null,
+            "Revenge": null,
+            "Screech": null,
+            "Tearful Look": null
+        },
+        "null": {
+            "Work Up": "\u2014"
+        },
+        "tm": {
+            "Work Up": "01",
+            "Toxic": "06",
+            "Hidden Power": "10",
+            "Sunny Day": "11",
+            "Hyper Beam": "15",
+            "Light Screen": "16",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Frustration": "21",
+            "Thunderbolt": "24",
+            "Thunder": "25",
+            "Return": "27",
+            "Shadow Ball": "30",
+            "Double Team": "32",
+            "Flamethrower": "35",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Round": "48",
+            "Focus Blast": "52",
+            "Fling": "56",
+            "Giga Impact": "68",
+            "Thunder Wave": "73",
+            "Swords Dance": "75",
+            "Psych Up": "77",
+            "Dream Eater": "85",
+            "Grass Knot": "86",
+            "Swagger": "87",
+            "Sleep Talk": "88",
+            "Substitute": "90",
+            "Confide": "100"
+        }
+    },
+    "entries": {
+        "Watchog": [
+            "When they see an enemy, their tails stand high, and they spit the seeds of berries stored in their cheek pouches.",
+            "They make the patterns on their bodies shine in order to threaten predators. Keen eyesight lets them see in the dark.",
+            "Using luminescent matter, it makes its eyes and body glow and stuns attacking opponents.",
+            "Using luminescent matter, it makes its eyes and body glow and stuns attacking opponents.",
+            "When they see an enemy, their tails stand high, and they spit the seeds of berries stored in their cheek pouches."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790537515618364/505.png",
+    "discord_sprite": "<:P505:1132134952083918938>"
+}

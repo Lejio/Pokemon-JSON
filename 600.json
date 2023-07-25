@@ -1,0 +1,197 @@
+{
+    "alt-version(s)": [],
+    "name": "Klang",
+    "Klang": {
+        "pokedex_data": {
+            "National No.": "0600",
+            "Type": [
+                "Steel"
+            ],
+            "Species": "Gear Poke\u0301mon",
+            "Height": "0.6 m (2\u203200\u2032\u2032)",
+            "Weight": "51.0 kg (112.4 lbs)",
+            "Abilities": {
+                "Plus": {
+                    "href": "/ability/plus",
+                    "effect": "Ups Sp. Atk if another Pok\u00e9mon has Plus or Minus.",
+                    "hidden": false
+                },
+                "Minus": {
+                    "href": "/ability/minus",
+                    "effect": "Ups Sp. Atk if another Pok\u00e9mon has Plus or Minus.",
+                    "hidden": false
+                },
+                "Clear Body": {
+                    "href": "/ability/clear-body",
+                    "effect": "Prevents other Pok\u00e9mon from lowering its stats.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Defense",
+            "Catch rate": "60",
+            "BaseFriendship": "50",
+            "Base Exp.": "154",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "60",
+                "Min": "230",
+                "Max": "324"
+            },
+            "Attack": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Defense": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Sp. Atk": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Def": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Speed": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Total": "440"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Fire": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Poison": "no effect",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Dragon": "not very effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Klink",
+                    "nationalNo": "#0599",
+                    "type": [
+                        "Steel"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Klang",
+                    "nationalNo": "#0600",
+                    "type": [
+                        "Steel"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 38)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Klang",
+                    "nationalNo": "#0600",
+                    "type": [
+                        "Steel"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Klinklang",
+                    "nationalNo": "#0601",
+                    "type": [
+                        "Steel"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 49)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Bind": "1",
+            "Charge": "1",
+            "Thunder Shock": "1",
+            "Vise Grip": "1",
+            "Charge Beam": "12",
+            "Metal Sound": "16",
+            "Autotomize": "20",
+            "Discharge": "24",
+            "Screech": "28",
+            "Gear Grind": "32",
+            "Lock-On": "36",
+            "Shift Gear": "42",
+            "Zap Cannon": "48",
+            "Hyper Beam": "54"
+        },
+        "egg": {
+            "Rising Voltage": null,
+            "Steel Roller": null
+        },
+        "null": {
+            "Thunderbolt": "08",
+            "Substitute": "20",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Uproar": "35",
+            "Iron Defense": "46",
+            "Power Gem": "63",
+            "Flash Cannon": "70",
+            "Ally Switch": "83",
+            "Wild Charge": "86"
+        },
+        "tm": {
+            "Hyper Beam": "08",
+            "Thunder Wave": "14",
+            "Screech": "16",
+            "Rest": "21",
+            "Snore": "24",
+            "Protect": "25",
+            "Sandstorm": "32",
+            "Facade": "39",
+            "Assurance": "58",
+            "Round": "76",
+            "Volt Switch": "80"
+        }
+    },
+    "entries": {
+        "Klang": [
+            "By changing the direction in which it rotates, it communicates its feelings to others. When angry, it rotates faster.",
+            "Spinning minigears are rotated at high speed and repeatedly fired away. It is dangerous if the gears don\u2019t return.",
+            "A minigear and big gear comprise its body. If the minigear it launches at a foe doesn\u2019t return, it will die.",
+            "By changing the direction in which it rotates, it communicates its feelings to others. When angry, it rotates faster.",
+            "A minigear and big gear comprise its body. If the minigear it launches at a foe doesn\u2019t return, it will die.",
+            "When Klang goes all out, the minigear links up perfectly with the outer part of the big gear, and this Pok\u00e9mon\u2019s rotation speed increases sharply.",
+            "Many companies in the Galar region choose Klang as their logo. This Pok\u00e9mon is considered the symbol of industrial technology."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791277210488902/600.png",
+    "discord_sprite": "<:P600:1132139141266673685>"
+}

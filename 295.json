@@ -1,0 +1,218 @@
+{
+    "alt-version(s)": [],
+    "name": "Exploud",
+    "Exploud": {
+        "pokedex_data": {
+            "National No.": "0295",
+            "Type": [
+                "Normal"
+            ],
+            "Species": "Loud Noise Poke\u0301mon",
+            "Height": "1.5 m (4\u203211\u2032\u2032)",
+            "Weight": "84.0 kg (185.2 lbs)",
+            "Abilities": {
+                "Soundproof": {
+                    "href": "/ability/soundproof",
+                    "effect": "Gives immunity to <q>sound-based</q> moves.",
+                    "hidden": false
+                },
+                "Scrappy": {
+                    "href": "/ability/scrappy",
+                    "effect": "Enables moves to hit Ghost-type Pok\u00e9mon.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 HP",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "221",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "104",
+                "Min": "318",
+                "Max": "412"
+            },
+            "Attack": {
+                "Base": "91",
+                "Min": "168",
+                "Max": "309"
+            },
+            "Defense": {
+                "Base": "63",
+                "Min": "117",
+                "Max": "247"
+            },
+            "Sp. Atk": {
+                "Base": "91",
+                "Min": "168",
+                "Max": "309"
+            },
+            "Sp. Def": {
+                "Base": "73",
+                "Min": "135",
+                "Max": "269"
+            },
+            "Speed": {
+                "Base": "68",
+                "Min": "126",
+                "Max": "258"
+            },
+            "Total": "490"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Whismur",
+                    "nationalNo": "#0293",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Loudred",
+                    "nationalNo": "#0294",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 20)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Loudred",
+                    "nationalNo": "#0294",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Exploud",
+                    "nationalNo": "#0295",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 40)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Astonish": "1",
+            "Bite": "1",
+            "Crunch": "1",
+            "Echoed Voice": "1",
+            "Fire Fang": "1",
+            "Howl": "1",
+            "Ice Fang": "1",
+            "Pound": "1",
+            "Thunder Fang": "1",
+            "Rest": "15",
+            "Sleep Talk": "15",
+            "Stomp": "23",
+            "Roar": "29",
+            "Supersonic": "36",
+            "Uproar": "45",
+            "Screech": "54",
+            "Hyper Voice": "63",
+            "Boomburst": "72",
+            "Hyper Beam": "81"
+        },
+        "evolution": {
+            "Crunch": "80"
+        },
+        "egg": {
+            "Circle Throw": null,
+            "Disarming Voice": null,
+            "Endeavor": null,
+            "Extrasensory": null,
+            "Fake Tears": null,
+            "Hammer Arm": null,
+            "Smokescreen": null,
+            "Snore": null,
+            "Take Down": null,
+            "Whirlwind": null
+        },
+        "tm": {
+            "Water Pulse": "03",
+            "Roar": "05",
+            "Work Up": "10",
+            "Sunny Day": "11",
+            "Taunt": "12",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Solar Beam": "22",
+            "Earthquake": "26",
+            "Shadow Ball": "30",
+            "Brick Break": "31",
+            "Double Team": "32",
+            "Shock Wave": "34",
+            "Flamethrower": "35",
+            "Fire Blast": "38",
+            "Rock Tomb": "39",
+            "Torment": "41",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Overheat": "50",
+            "Focus Blast": "52",
+            "Fling": "56",
+            "Endure": "58",
+            "Giga Impact": "68",
+            "Avalanche": "72",
+            "Rock Slide": "80",
+            "Sleep Talk": "82",
+            "Bulldoze": "83",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Surf": "95",
+            "Strength": "96",
+            "Rock Smash": "98",
+            "Rock Climb": "100"
+        }
+    },
+    "entries": {
+        "Exploud": [
+            "EXPLOUD triggers earthquakes with the tremors it creates by bellowing. If this pok\u00e9mon violently inhales from the ports on its body, it\u2019s a sign that it is preparing to let loose a huge bellow.",
+            "EXPLOUD communicates its feelings to the others by emitting whistle-like sounds from the tubes on its body. This pok\u00e9mon only raises its voice when it is in battle.",
+            "It emits a variety of sounds from the holes all over its body. Its loud cries can be heard from over six miles away.",
+            "It has sound-generating organs all over its body. It communicates with others by adjusting the tone and volume of the cries it emits.",
+            "Its howls can be heard over six miles away. It emits all sorts of noises from the ports on its body.",
+            "Its roar in battle shakes the ground like a tremor--or like an earthquake has struck.",
+            "Its howls can be heard over six miles away. It emits all sorts of noises from the ports on its body.",
+            "Its howls can be heard over six miles away. It emits all sorts of noises from the ports on its body.",
+            "Its roar in battle shakes the ground like a tremor--or like an earthquake has struck.",
+            "Exploud triggers earthquakes with the tremors it creates by bellowing. If this Pok\u00e9mon violently inhales from the ports on its body, it\u2019s a sign that it is preparing to let loose a huge bellow.",
+            "Exploud communicates its feelings to the others by emitting whistle-like sounds from the tubes on its body. This Pok\u00e9mon only raises its voice when it is in battle.",
+            "In the past, people would use the loud voices of these Pok\u00e9mon as a means of communication between distant cities.",
+            "This Pok\u00e9mon can do more than just shout. To communicate with others of its kind, it\u2019ll emit all sorts of sounds from the holes in its body.",
+            "Its howls can be heard over six miles away. It emits all sorts of noises from the ports on its body."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788903087624313/295.png",
+    "discord_sprite": "<:P295:1132125721771380808>"
+}

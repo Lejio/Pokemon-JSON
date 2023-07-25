@@ -1,0 +1,189 @@
+{
+    "alt-version(s)": [],
+    "name": "Sentret",
+    "Sentret": {
+        "pokedex_data": {
+            "National No.": "0161",
+            "Type": [
+                "Normal"
+            ],
+            "Species": "Scout Poke\u0301mon",
+            "Height": "0.8 m (2\u203207\u2032\u2032)",
+            "Weight": "6.0 kg (13.2 lbs)",
+            "Abilities": {
+                "Run Away": {
+                    "href": "/ability/run-away",
+                    "effect": "Enables a sure getaway from wild Pok\u00e9mon.",
+                    "hidden": false
+                },
+                "Keen Eye": {
+                    "href": "/ability/keen-eye",
+                    "effect": "Prevents other Pok\u00e9mon from lowering accuracy.",
+                    "hidden": false
+                },
+                "Frisk": {
+                    "href": "/ability/frisk",
+                    "effect": "The Pok\u00e9mon can check a foe's held item.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack",
+            "Catch rate": "255",
+            "BaseFriendship": "50",
+            "Base Exp.": "43",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "35",
+                "Min": "180",
+                "Max": "274"
+            },
+            "Attack": {
+                "Base": "46",
+                "Min": "87",
+                "Max": "210"
+            },
+            "Defense": {
+                "Base": "34",
+                "Min": "65",
+                "Max": "183"
+            },
+            "Sp. Atk": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Sp. Def": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Speed": {
+                "Base": "20",
+                "Min": "40",
+                "Max": "152"
+            },
+            "Total": "215"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Sentret",
+                    "nationalNo": "#0161",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Furret",
+                    "nationalNo": "#0162",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 15)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Growl": "1",
+            "Scratch": "1",
+            "Defense Curl": "4",
+            "Quick Attack": "7",
+            "Fury Swipes": "13",
+            "Helping Hand": "16",
+            "Follow Me": "19",
+            "Slam": "25",
+            "Rest": "28",
+            "Sucker Punch": "31",
+            "Amnesia": "36",
+            "Baton Pass": "39",
+            "Reversal": "42",
+            "Hyper Voice": "47"
+        },
+        "egg": {
+            "Baby-Doll Eyes": null,
+            "Charm": null,
+            "Covet": null,
+            "Double-Edge": null,
+            "Focus Energy": null,
+            "Last Resort": null,
+            "Reversal": null,
+            "Slash": null,
+            "Trick": null
+        },
+        "tm": {
+            "Focus Punch": "01",
+            "Water Pulse": "03",
+            "Work Up": "10",
+            "Sunny Day": "11",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Solar Beam": "22",
+            "Iron Tail": "23",
+            "Thunderbolt": "24",
+            "Dig": "28",
+            "Shadow Ball": "30",
+            "Brick Break": "31",
+            "Double Team": "32",
+            "Shock Wave": "34",
+            "Flamethrower": "35",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Fling": "56",
+            "Charge Beam": "57",
+            "Endure": "58",
+            "Shadow Claw": "65",
+            "Sleep Talk": "82",
+            "Grass Knot": "86",
+            "Swagger": "87",
+            "U-turn": "89",
+            "Substitute": "90",
+            "Cut": "93",
+            "Surf": "95"
+        }
+    },
+    "entries": {
+        "Sentret": [
+            "A very cautious pok\u00e9mon, it raises itself up using its tail to get a better view of its surroundings.",
+            "It stands on its tail so it can see a long way. If it spots an enemy, it cries loudly to warn its kind.",
+            "When acting as a lookout, it warns others of danger by screeching and hitting the ground with its tail.",
+            "When SENTRET sleeps, it does so while another stands guard. The sentry wakes the others at the first sign of danger. When this pok\u00e9mon becomes separated from its pack, it becomes incapable of sleep due to fear.",
+            "It stands on its tail so it can see a long way. If it spots an enemy, it cries loudly to warn its kind.",
+            "A very cautious pok\u00e9mon, it raises itself up using its tail to get a better view of its surroundings.",
+            "They take turns standing guard when it is time to sleep. The sentry awakens the others if it senses danger. If one becomes separated, it turns sleepless with fear.",
+            "It has a very nervous nature. It stands up high on its tail so it can scan wide areas.",
+            "A very cautious Pok\u00e9mon, it raises itself up using its tail to get a better view of its surroundings.",
+            "It stands on its tail so it can see a long way. If it spots an enemy, it cries loudly to warn its kind.",
+            "It has a very nervous nature. It stands up high on its tail so it can scan wide areas.",
+            "When acting as a lookout, it warns others of danger by screeching and hitting the ground with its tail.",
+            "It stands on its tail so it can see a long way. If it spots an enemy, it cries loudly to warn its kind.",
+            "When Sentret sleeps, it does so while another stands guard. The sentry wakes the others at the first sign of danger. When this Pok\u00e9mon becomes separated from its pack, it becomes incapable of sleep due to fear.",
+            "It has a very nervous nature. It stands up high on its tail so it can scan wide areas."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787848442458163/161.png",
+    "discord_sprite": "<:P161:1132119820310171689>"
+}

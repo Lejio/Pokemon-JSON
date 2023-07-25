@@ -1,0 +1,200 @@
+{
+    "alt-version(s)": [],
+    "name": "Vanillite",
+    "Vanillite": {
+        "pokedex_data": {
+            "National No.": "0582",
+            "Type": [
+                "Ice"
+            ],
+            "Species": "Fresh Snow Poke\u0301mon",
+            "Height": "0.4 m (1\u203204\u2032\u2032)",
+            "Weight": "5.7 kg (12.6 lbs)",
+            "Abilities": {
+                "Ice Body": {
+                    "href": "/ability/ice-body",
+                    "effect": "The Pok\u00e9mon gradually regains HP in a hailstorm.",
+                    "hidden": false
+                },
+                "Snow Cloak": {
+                    "href": "/ability/snow-cloak",
+                    "effect": "Raises evasion in a hailstorm.",
+                    "hidden": false
+                },
+                "Weak Armor": {
+                    "href": "/ability/weak-armor",
+                    "effect": "Physical attacks lower Defense and raise Speed.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Sp. Atk",
+            "Catch rate": "255",
+            "BaseFriendship": "50",
+            "Base Exp.": "61",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "36",
+                "Min": "182",
+                "Max": "276"
+            },
+            "Attack": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Defense": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Atk": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Def": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Speed": {
+                "Base": "44",
+                "Min": "83",
+                "Max": "205"
+            },
+            "Total": "305"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Rock": "super-effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Vanillite",
+                    "nationalNo": "#0582",
+                    "type": [
+                        "Ice"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Vanillish",
+                    "nationalNo": "#0583",
+                    "type": [
+                        "Ice"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 35)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Vanillish",
+                    "nationalNo": "#0583",
+                    "type": [
+                        "Ice"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Vanilluxe",
+                    "nationalNo": "#0584",
+                    "type": [
+                        "Ice"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 47)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Astonish": "1",
+            "Harden": "1",
+            "Taunt": "4",
+            "Mist": "8",
+            "Icy Wind": "12",
+            "Avalanche": "16",
+            "Hail": "20",
+            "Icicle Spear": "24",
+            "Uproar": "28",
+            "Acid Armor": "32",
+            "Mirror Coat": "36",
+            "Ice Beam": "40",
+            "Blizzard": "44",
+            "Sheer Cold": "48"
+        },
+        "egg": {
+            "Aurora Veil": null,
+            "Autotomize": null,
+            "Explosion": null,
+            "Ice Shard": null,
+            "Icicle Crash": null,
+            "Magnet Rise": null
+        },
+        "tm": {
+            "Light Screen": "17",
+            "Self-Destruct": "20",
+            "Rest": "21",
+            "Snore": "24",
+            "Protect": "25",
+            "Icy Wind": "27",
+            "Attract": "31",
+            "Rain Dance": "33",
+            "Hail": "35",
+            "Facade": "39",
+            "Imprison": "44",
+            "Icicle Spear": "51",
+            "Avalanche": "64",
+            "Round": "76"
+        },
+        "null": {
+            "Ice Beam": "05",
+            "Blizzard": "06",
+            "Substitute": "20",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Uproar": "35",
+            "Taunt": "37",
+            "Hyper Voice": "42",
+            "Iron Defense": "46",
+            "Flash Cannon": "70",
+            "Ally Switch": "83"
+        }
+    },
+    "entries": {
+        "Vanillite": [
+            "The temperature of their breath is -58\u00b0 F. They create snow crystals and make snow fall in the areas around them.",
+            "This Pok\u00e9mon formed from icicles bathed in energy from the morning sun. It sleeps buried in snow.",
+            "Theoretically, this Pok\u00e9mon formed from icicles bathed in energy from the morning sun. Their breath is -58\u00b0 F.",
+            "The temperature of their breath is -58 degrees Fahrenheit. They create snow crystals and make snow fall in the areas around them.",
+            "This Pok\u00e9mon formed from icicles bathed in energy from the morning sun. It sleeps buried in snow.",
+            "Born of an icicle, this Pok\u00e9mon uses its frosty breath to make ice crystals, causing snow to fall.",
+            "It feels pleasantly cool when embraced. This Pok\u00e9mon is treasured by households in warm regions.",
+            "It exhales cold air that is at \u201358 degrees Fahrenheit. When it\u2019s in a warm place, it shrinks little by little.",
+            "When the morning sun hit an icicle, it wished not to melt, and thus Vanillite was born. At night, it buries itself in snow to sleep.",
+            "Unable to survive in hot areas, it makes itself comfortable by breathing out air cold enough to cause snow. It burrows into the snow to sleep.",
+            "Supposedly, this Pok\u00e9mon was born from an icicle. It spews out freezing air at \u221258 degrees Fahrenheit to make itself more comfortable."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791138739736676/582.png",
+    "discord_sprite": "<:P582:1132138350665535510>"
+}

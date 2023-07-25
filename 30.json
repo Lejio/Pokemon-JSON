@@ -1,0 +1,217 @@
+{
+    "alt-version(s)": [],
+    "name": "Nidorina",
+    "Nidorina": {
+        "pokedex_data": {
+            "National No.": "0030",
+            "Type": [
+                "Poison"
+            ],
+            "Species": "Poison Pin Poke\u0301mon",
+            "Height": "0.8 m (2\u203207\u2032\u2032)",
+            "Weight": "20.0 kg (44.1 lbs)",
+            "Abilities": {
+                "Poison Point": {
+                    "href": "/ability/poison-point",
+                    "effect": "Contact with the Pok\u00e9mon may poison the attacker.",
+                    "hidden": false
+                },
+                "Rivalry": {
+                    "href": "/ability/rivalry",
+                    "effect": "Deals more damage to a Pok\u00e9mon of same gender.",
+                    "hidden": false
+                },
+                "Hustle": {
+                    "href": "/ability/hustle",
+                    "effect": "Boosts the Attack stat, but lowers accuracy.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 HP",
+            "Catch rate": "120",
+            "BaseFriendship": "50",
+            "Base Exp.": "128",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "0% male,100% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "70",
+                "Min": "250",
+                "Max": "344"
+            },
+            "Attack": {
+                "Base": "62",
+                "Min": "116",
+                "Max": "245"
+            },
+            "Defense": {
+                "Base": "67",
+                "Min": "125",
+                "Max": "256"
+            },
+            "Sp. Atk": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Sp. Def": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Speed": {
+                "Base": "56",
+                "Min": "105",
+                "Max": "232"
+            },
+            "Total": "365"
+        },
+        "defense_stats": {
+            "default": {
+                "Grass": "not very effective",
+                "Fighting": "not very effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Nidoran\u2640",
+                    "nationalNo": "#0029",
+                    "type": [
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Nidorina",
+                    "nationalNo": "#0030",
+                    "type": [
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 16)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Nidorina",
+                    "nationalNo": "#0030",
+                    "type": [
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Nidoqueen",
+                    "nationalNo": "#0031",
+                    "type": [
+                        "Poison",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Moon Stone)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Growl": "1",
+            "Poison Sting": "1",
+            "Scratch": "1",
+            "Tail Whip": "1",
+            "Fury Swipes": "15",
+            "Toxic Spikes": "22",
+            "Double Kick": "29",
+            "Bite": "36",
+            "Helping Hand": "43",
+            "Toxic": "50",
+            "Flatter": "57",
+            "Crunch": "64",
+            "Earth Power": "71"
+        },
+        "egg": {
+            "Beat Up": null,
+            "Charm": null,
+            "Counter": null,
+            "Disable": null,
+            "Focus Energy": null,
+            "Poison Fang": null,
+            "Poison Tail": null,
+            "Skull Bash": null,
+            "Supersonic": null,
+            "Take Down": null,
+            "Venom Drench": null
+        },
+        "tm": {
+            "Water Pulse": "03",
+            "Toxic": "06",
+            "Sunny Day": "11",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Iron Tail": "23",
+            "Thunderbolt": "24",
+            "Thunder": "25",
+            "Dig": "28",
+            "Double Team": "32",
+            "Shock Wave": "34",
+            "Sludge Bomb": "36",
+            "Aerial Ace": "40",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Endure": "58",
+            "Shadow Claw": "65",
+            "Sleep Talk": "82",
+            "Poison Jab": "84",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Cut": "93",
+            "Strength": "96",
+            "Rock Smash": "98"
+        }
+    },
+    "entries": {
+        "Nidorina": [
+            "The female\u2019s horn develops slowly. Prefers physical attacks such as clawing and biting.",
+            "When resting deep in its burrow, its thorns always retract. This is proof that it is relaxed.",
+            "When feeding its young, it first chews and tenderizes the food, then spits it out for the offspring.",
+            "It has a calm and caring nature. Because its horn grows slowly, it prefers not to fight.",
+            "It has a docile nature. If it is threatened with attack, it raises the barbs that are all over its body.",
+            "When NIDORINA are with their friends or family, they keep their barbs tucked away to prevent hurting each other. This pok\u00e9mon appears to become nervous if separated from the others.",
+            "The female has a gentle temperament. It emits ultrasonic cries that have the power to befuddle foes.",
+            "The female\u2019s horns develop slowly. Prefers physical attacks such as clawing and biting.",
+            "When it is with its friends or family, its barbs are tucked away to prevent injury. It appears to become nervous if separated from the others.",
+            "When it senses danger, it raises all the barbs on its body. These barbs grow slower than NIDORINO\u2019s.",
+            "When feeding its young, it first chews the food into a paste, then spits it out for the offspring.",
+            "It has a calm and caring nature. Because its horn grows slowly, it prefers not to fight.",
+            "When it senses danger, it raises all the barbs on its body. These barbs grow slower than Nidorino\u2019s.",
+            "The female has a gentle temperament. It emits ultrasonic cries that have the power to befuddle foes.",
+            "When feeding its young, it first chews the food into a paste, then spits it out for the offspring.",
+            "When Nidorina are with their friends or family, they keep their barbs tucked away to prevent hurting each other. This Pok\u00e9mon appears to become nervous if separated from the others.",
+            "When resting deep in its burrow, its barbs always retract. This is proof that it is relaxed.",
+            "The horn on its head has atrophied. It\u2019s thought that this happens so Nidorina\u2019s children won\u2019t get poked while their mother is feeding them.",
+            "If the group is threatened, these Pok\u00e9mon will band together to assault enemies with a chorus of ultrasonic waves.",
+            "When it senses danger, it raises all the barbs on its body. These barbs grow more slowly than Nidorino\u2019s."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131786823320998011/30.png",
+    "discord_sprite": "<:P30:1131973210007670916>"
+}

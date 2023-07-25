@@ -1,0 +1,391 @@
+{
+    "alt-version(s)": [
+        "Alolan Persian"
+    ],
+    "name": "Persian",
+    "Persian": {
+        "pokedex_data": {
+            "National No.": "0053",
+            "Type": [
+                "Normal"
+            ],
+            "Species": "Classy Cat Poke\u0301mon",
+            "Height": "1.0 m (3\u203203\u2032\u2032)",
+            "Weight": "32.0 kg (70.5 lbs)",
+            "Abilities": {
+                "Limber": {
+                    "href": "/ability/limber",
+                    "effect": "The Pok\u00e9mon is protected from paralysis.",
+                    "hidden": false
+                },
+                "Technician": {
+                    "href": "/ability/technician",
+                    "effect": "Powers up the Pok\u00e9mon's weaker moves.",
+                    "hidden": false
+                },
+                "Unnerve": {
+                    "href": "/ability/unnerve",
+                    "effect": "Makes the foe nervous and unable to eat Berries.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Speed",
+            "Catch rate": "90",
+            "BaseFriendship": "50",
+            "Base Exp.": "154",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "65",
+                "Min": "240",
+                "Max": "334"
+            },
+            "Attack": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Defense": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Atk": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Def": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Speed": {
+                "Base": "115",
+                "Min": "211",
+                "Max": "361"
+            },
+            "Total": "440"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "Alolan Persian": {
+        "pokedex_data": {
+            "National No.": "0053",
+            "Type": [
+                "Dark"
+            ],
+            "Species": "Classy Cat Poke\u0301mon",
+            "Height": "1.1 m (3\u203207\u2032\u2032)",
+            "Weight": "33.0 kg (72.8 lbs)",
+            "Abilities": {
+                "Fur Coat": {
+                    "href": "/ability/fur-coat",
+                    "effect": "Reduces damage from physical moves.",
+                    "hidden": false
+                },
+                "Technician": {
+                    "href": "/ability/technician",
+                    "effect": "Powers up the Pok\u00e9mon's weaker moves.",
+                    "hidden": false
+                },
+                "Rattled": {
+                    "href": "/ability/rattled",
+                    "effect": "Bug, Ghost or Dark type moves scare it and boost its Speed.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Speed",
+            "Catch rate": "90",
+            "BaseFriendship": "50",
+            "Base Exp.": "154",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "65",
+                "Min": "240",
+                "Max": "334"
+            },
+            "Attack": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Defense": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Atk": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Sp. Def": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Speed": {
+                "Base": "115",
+                "Min": "211",
+                "Max": "361"
+            },
+            "Total": "440"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "super-effective",
+                "Psychic": "no effect",
+                "Bug": "super-effective",
+                "Ghost": "not very effective",
+                "Dark": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Meowth",
+                    "nationalNo": "#0052",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Persian",
+                    "nationalNo": "#0053",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 28)",
+                "shed": null
+            }
+        ],
+        [
+            {
+                "from": {
+                    "name": "Meowth",
+                    "nationalNo": "#0052",
+                    "type": [
+                        "Dark"
+                    ],
+                    "nickname": "Alolan Meowth"
+                },
+                "to": {
+                    "name": "Persian",
+                    "nationalNo": "#0053",
+                    "type": [
+                        "Dark"
+                    ],
+                    "nickname": "Alolan Persian"
+                },
+                "requirement": "(high Friendship)",
+                "shed": null
+            }
+        ],
+        [
+            {
+                "from": {
+                    "name": "Meowth",
+                    "nationalNo": "#0052",
+                    "type": [
+                        "Steel"
+                    ],
+                    "nickname": "Galarian Meowth"
+                },
+                "to": {
+                    "name": "Perrserker",
+                    "nationalNo": "#0863",
+                    "type": [
+                        "Steel"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 28)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Power Gem": "80"
+        },
+        "evolution": {
+            "Power Gem": "80"
+        },
+        "Persian": {
+            "egg": {
+                "Covet": null,
+                "Flail": null,
+                "Hypnosis": null,
+                "Last Resort": null,
+                "Spite": null,
+                "Tail Whip": null
+            },
+            "tm": {
+                "Take Down": "01",
+                "Charm": "02",
+                "Fake Tears": "03",
+                "Agility": "04",
+                "Protect": "07",
+                "Thief": "18",
+                "Trailblaze": "20",
+                "Chilling Water": "22",
+                "Facade": "25",
+                "Aerial Ace": "27",
+                "Snarl": "30",
+                "Metal Claw": "31",
+                "Swift": "32",
+                "Icy Wind": "34",
+                "Endure": "47",
+                "Sunny Day": "49",
+                "Rain Dance": "50",
+                "Dig": "55",
+                "False Swipe": "57",
+                "U-turn": "60",
+                "Shadow Claw": "61",
+                "Foul Play": "62",
+                "Body Slam": "66",
+                "Sleep Talk": "70",
+                "Seed Bomb": "71",
+                "Thunder Wave": "82",
+                "Rest": "85",
+                "Taunt": "87",
+                "Dark Pulse": "94",
+                "Power Gem": "101",
+                "Gunk Shot": "102",
+                "Substitute": "103",
+                "Shadow Ball": "114",
+                "Hyper Voice": "117",
+                "Thunderbolt": "126",
+                "Play Rough": "127",
+                "Amnesia": "128",
+                "Helping Hand": "130",
+                "Nasty Plot": "140",
+                "Giga Impact": "152",
+                "Hyper Beam": "163",
+                "Thunder": "166",
+                "Tera Blast": "171"
+            }
+        },
+        "Alolan Persian": {
+            "egg": {
+                "Covet": null,
+                "Flail": null,
+                "Flatter": null,
+                "Hypnosis": null,
+                "Parting Shot": null,
+                "Spite": null
+            },
+            "tm": {
+                "Take Down": "01",
+                "Charm": "02",
+                "Fake Tears": "03",
+                "Agility": "04",
+                "Protect": "07",
+                "Confuse Ray": "17",
+                "Thief": "18",
+                "Trailblaze": "20",
+                "Chilling Water": "22",
+                "Facade": "25",
+                "Aerial Ace": "27",
+                "Snarl": "30",
+                "Metal Claw": "31",
+                "Swift": "32",
+                "Icy Wind": "34",
+                "Endure": "47",
+                "Sunny Day": "49",
+                "Rain Dance": "50",
+                "Dig": "55",
+                "U-turn": "60",
+                "Shadow Claw": "61",
+                "Foul Play": "62",
+                "Body Slam": "66",
+                "Sleep Talk": "70",
+                "Seed Bomb": "71",
+                "Thunder Wave": "82",
+                "Rest": "85",
+                "Taunt": "87",
+                "Dark Pulse": "94",
+                "Power Gem": "101",
+                "Gunk Shot": "102",
+                "Substitute": "103",
+                "Shadow Ball": "114",
+                "Hyper Voice": "117",
+                "Thunderbolt": "126",
+                "Play Rough": "127",
+                "Amnesia": "128",
+                "Helping Hand": "130",
+                "Nasty Plot": "140",
+                "Giga Impact": "152",
+                "Hyper Beam": "163",
+                "Thunder": "166",
+                "Tera Blast": "171"
+            }
+        }
+    },
+    "entries": {
+        "Persian": [
+            "Although its fur has many admirers, it is tough to raise as a pet because of its fickle meanness.",
+            "The gem in its forehead glows on its own! It walks with all the grace and elegance of a proud queen.",
+            "Many adore it for its sophisticated air. However, it will lash out and scratch for little reason.",
+            "Its lithe muscles allow it to walk without making a sound. It attacks in an instant.",
+            "Behind its lithe, elegant appearance lies a barbaric side. It will tear apart its prey on a mere whim.",
+            "PERSIAN has six bold whiskers that give it a look of toughness. The whiskers sense air movements to determine what is in the pok\u00e9mon\u2019s surrounding vicinity. It becomes docile if grabbed by the whiskers.",
+            "Has a vicious temperament. Beware if it raises its tail straight up. It is a signal that it is about to pounce and bite.",
+            "Although its fur has many admirers, it is tough to raise as a pet because of its fickle meanness.",
+            "A PERSIAN\u2019s six bold whiskers sense air movements to determine what is in its vicinity. It becomes docile if grabbed by the whiskers.",
+            "A very haughty Pok\u00e9mon. Among fans, the size of the jewel in its forehead is a topic of much talk.",
+            "Many adore it for its sophisticated air. However, it will lash out and scratch for little reason.",
+            "Its lithe muscles allow it to walk without making a sound. It attacks in an instant.",
+            "A very haughty Pok\u00e9mon. Among fans, the size of the jewel in its forehead is a topic of much talk.",
+            "Although its fur has many admirers, it is tough to raise as a pet because of its fickle meanness.",
+            "Its lithe muscles allow it to walk without making a sound. It attacks in an instant.",
+            "Persian has six bold whiskers that give it a look of toughness. The whiskers sense air movements to determine what is in the Pok\u00e9mon\u2019s surrounding vicinity. It becomes docile if grabbed by the whiskers.",
+            "It has a violent temperament. It will attack anything that looks it in the eye. Its sharp claws inflict deep wounds.",
+            "It has a high opinion of itself, although not to the same extent as the Alolan Persian. It\u2019s quite difficult to make friends with this Pok\u00e9mon.",
+            "Although the jewel on its forehead appears to be a different color than those of Alolan Persian, it\u2019s mostly made of the same material.",
+            "This Pok\u00e9mon is popular with rich people. It\u2019s also targeted by hunters who are after the jewel in its forehead.",
+            "The gem in its forehead glows on its own! It walks with all the grace and elegance of a proud queen.",
+            "Getting this prideful Pok\u00e9mon to warm up to you takes a lot of effort, and it will claw at you the moment it gets annoyed.",
+            "Its elegant and refined behavior clashes with that of the barbaric Perrserker. The relationship between the two is one of mutual disdain.",
+            "It is a very haughty Pok\u00e9mon. Among fans of Persian, the size of the jewel in its forehead is a topic of much talk.",
+            "Although its fur has many admirers, it is tough to raise as a pet because of its fickle meanness.",
+            "It has a vicious temperament. Beware if it raises its tail straight up. This is a signal that it is about to pounce and bite."
+        ],
+        "Alolan Persian": [
+            "Its round face and smooth coat\u2014softer than the most high-class velvet\u2014have made this a very popular Pok\u00e9mon in Alola.",
+            "It looks down on everyone other than itself. Its preferred tactics are sucker punches and blindside attacks.",
+            "In contrast to its lovely face, it\u2019s so brutal that it tortures its weakened prey rather than finishing them off.",
+            "Its round face is a symbol of wealth. Persian that have bigger, plumper faces are considered more beautiful.",
+            "It has the classiest coat. The rippling of its fur in the heat of battle has a beauty all its own.",
+            "The round face of Alolan Persian is considered to be a symbol of prosperity in the Alola region, so these Pok\u00e9mon are very well cared for.",
+            "This Pok\u00e9mon is one tough opponent. Not only does it have formidable physical abilities, but it\u2019s also not above fighting dirty."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787005056004176/53.png",
+    "discord_sprite": "<:P53:1132115049255809035>"
+}

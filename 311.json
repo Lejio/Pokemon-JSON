@@ -1,0 +1,162 @@
+{
+    "alt-version(s)": [],
+    "name": "Plusle",
+    "Plusle": {
+        "pokedex_data": {
+            "National No.": "0311",
+            "Type": [
+                "Electric"
+            ],
+            "Species": "Cheering Poke\u0301mon",
+            "Height": "0.4 m (1\u203204\u2032\u2032)",
+            "Weight": "4.2 kg (9.3 lbs)",
+            "Abilities": {
+                "Plus": {
+                    "href": "/ability/plus",
+                    "effect": "Ups Sp. Atk if another Pok\u00e9mon has Plus or Minus.",
+                    "hidden": false
+                },
+                "Lightning Rod": {
+                    "href": "/ability/lightning-rod",
+                    "effect": "Draws in all Electric-type moves to up Sp. Attack.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Speed",
+            "Catch rate": "200",
+            "BaseFriendship": "50",
+            "Base Exp.": "142",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "60",
+                "Min": "230",
+                "Max": "324"
+            },
+            "Attack": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Defense": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Atk": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Sp. Def": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Speed": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Total": "405"
+        },
+        "defense_stats": {
+            "Plus ability": {
+                "Electric": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Steel": "not very effective"
+            },
+            "Lightning Rod ability": {
+                "Electric": "no effect",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Growl": "1",
+            "Nuzzle": "1",
+            "Play Nice": "1",
+            "Quick Attack": "1",
+            "Thunder Wave": "1",
+            "Helping Hand": "4",
+            "Spark": "7",
+            "Encore": "10",
+            "Skill Swap": "13",
+            "Swift": "16",
+            "Electro Ball": "19",
+            "Copycat": "22",
+            "Charm": "25",
+            "Charge": "28",
+            "Discharge": "31",
+            "Baton Pass": "34",
+            "Agility": "37",
+            "Last Resort": "40",
+            "Thunder": "43",
+            "Nasty Plot": "46",
+            "Entrainment": "49"
+        },
+        "egg": {
+            "Charm": null,
+            "Discharge": null,
+            "Fake Tears": null,
+            "Sing": null,
+            "Sweet Kiss": null,
+            "Tearful Look": null,
+            "Wish": null
+        },
+        "tm": {
+            "Light Screen": "16",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Iron Tail": "23",
+            "Thunderbolt": "24",
+            "Thunder": "25",
+            "Double Team": "32",
+            "Shock Wave": "34",
+            "Facade": "42",
+            "Volt Switch": "43",
+            "Rest": "44",
+            "Attract": "45",
+            "Skill Swap": "48",
+            "Fling": "56",
+            "Charge Beam": "57",
+            "Endure": "58",
+            "Nasty Plot": "63",
+            "Flash": "70",
+            "Thunder Wave": "73",
+            "Sleep Talk": "82",
+            "Grass Knot": "86",
+            "Swagger": "87",
+            "Substitute": "90"
+        }
+    },
+    "entries": {
+        "Plusle": [
+            "PLUSLE always acts as a cheerleader for its partners. Whenever a teammate puts out a good effort in battle, this pok\u00e9mon shorts out its body to create the crackling noises of sparks to show its joy.",
+            "When PLUSLE is cheering on its partner, it flashes with electric sparks from all over its body. If its partner loses, this pok\u00e9mon cries loudly.",
+            "It cheers on partners while scattering sparks from its body. It climbs telephone poles to absorb electricity.",
+            "It has the trait of cheering on its fellow pok\u00e9mon. By shorting out the electricity it releases from its paws, it creates pom-poms for cheering.",
+            "It cheers on friends with pom-poms made of sparks. It drains power from telephone poles.",
+            "It absorbs electricity from telephone poles. It shorts out its body to create crackling noises.",
+            "It cheers on friends with pom-poms made of sparks. It drains power from telephone poles.",
+            "It cheers on friends with pom-poms made of sparks. It drains power from telephone poles.",
+            "It absorbs electricity from telephone poles. It shorts out its body to create crackling noises.",
+            "Plusle always acts as a cheerleader for its partners. Whenever a teammate puts out a good effort in battle, this Pok\u00e9mon shorts out its body to create the crackling noises of sparks to show its joy.",
+            "When Plusle is cheering on its partner, it flashes with electric sparks from all over its body. If its partner loses, this Pok\u00e9mon cries loudly.",
+            "It cheers on friends with pom-poms made of sparks. It drains power from telephone poles."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789033316548638/311.png",
+    "discord_sprite": "<:P311:1132126423474241576>"
+}

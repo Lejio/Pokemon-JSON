@@ -1,0 +1,202 @@
+{
+    "alt-version(s)": [],
+    "name": "Budew",
+    "Budew": {
+        "pokedex_data": {
+            "National No.": "0406",
+            "Type": [
+                "Grass",
+                "Poison"
+            ],
+            "Species": "Bud Poke\u0301mon",
+            "Height": "0.2 m (0\u203208\u2032\u2032)",
+            "Weight": "1.2 kg (2.6 lbs)",
+            "Abilities": {
+                "Natural Cure": {
+                    "href": "/ability/natural-cure",
+                    "effect": "All status problems heal when it switches out.",
+                    "hidden": false
+                },
+                "Poison Point": {
+                    "href": "/ability/poison-point",
+                    "effect": "Contact with the Pok\u00e9mon may poison the attacker.",
+                    "hidden": false
+                },
+                "Leaf Guard": {
+                    "href": "/ability/leaf-guard",
+                    "effect": "Prevents problems with status in sunny weather.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Sp. Atk",
+            "Catch rate": "255",
+            "BaseFriendship": "50",
+            "Base Exp.": "56",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "40",
+                "Min": "190",
+                "Max": "284"
+            },
+            "Attack": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Defense": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Sp. Atk": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Def": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Speed": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Total": "280"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Flying": "super-effective",
+                "Psychic": "super-effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Budew",
+                    "nationalNo": "#0406",
+                    "type": [
+                        "Grass",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Roselia",
+                    "nationalNo": "#0315",
+                    "type": [
+                        "Grass",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(high Friendship, Daytime)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Roselia",
+                    "nationalNo": "#0315",
+                    "type": [
+                        "Grass",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Roserade",
+                    "nationalNo": "#0407",
+                    "type": [
+                        "Grass",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Shiny Stone)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Absorb": "1",
+            "Growth": "1",
+            "Stun Spore": "1",
+            "Worry Seed": "1"
+        },
+        "egg": {
+            "Cotton Spore": null,
+            "Extrasensory": null,
+            "Leaf Storm": null,
+            "Life Dew": null,
+            "Mind Reader": null,
+            "Pin Missile": null,
+            "Razor Leaf": null,
+            "Seed Bomb": null,
+            "Sleep Powder": null,
+            "Spikes": null,
+            "Synthesis": null
+        },
+        "tm": {
+            "Bullet Seed": "09",
+            "Sunny Day": "11",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Giga Drain": "19",
+            "Dazzling Gleam": "21",
+            "Solar Beam": "22",
+            "Shadow Ball": "30",
+            "Double Team": "32",
+            "Sludge Bomb": "36",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Energy Ball": "53",
+            "Endure": "58",
+            "Flash": "70",
+            "Swords Dance": "75",
+            "Psych Up": "77",
+            "Sleep Talk": "82",
+            "Grass Knot": "86",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Cut": "93"
+        }
+    },
+    "entries": {
+        "Budew": [
+            "Over the winter, it closes its bud and endures the cold. In spring, the bud opens and releases pollen.",
+            "It lives alongside clear ponds. It scatters pollen that induces harsh sneezing and runny noses.",
+            "Sensitive to changing temperature, the bud is said to bloom when it feels the sun\u2019s warm touch.",
+            "When it feels the sun\u2019s warm touch, it opens its bud to release pollen. It lives alongside clear pools.",
+            "Sensitive to changing temperature, the bud is said to bloom when it feels the sun\u2019s warm touch.",
+            "Sensitive to changing temperatures, the bud blooms when it\u2019s warm, releasing toxic pollen.",
+            "When it feels the sun\u2019s warm touch, it opens its bud to release pollen. It lives alongside clear pools.",
+            "Over the winter, it closes its bud and endures the cold. In spring, the bud opens and releases pollen.",
+            "The pollen it releases contains poison. If this Pok\u00e9mon is raised on clean water, the poison\u2019s toxicity is increased.",
+            "This Pok\u00e9mon is highly sensitive to temperature changes. When its bud starts to open, that means spring is right around the corner.",
+            "Over the winter, it closes its bud and endures the cold. In spring, the bud opens and releases pollen.",
+            "It lives alongside clear ponds. It scatters pollen that induces harsh sneezing and runny noses.",
+            "When the sun\u2019s light strengthens, the bud atop this Pok\u00e9mon\u2019s head opens. This is a sign to the people that the harsh winter is over, and the season of budding has begun."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789769043628093/406.png",
+    "discord_sprite": "<:P406:1132130599306526770>"
+}

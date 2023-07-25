@@ -1,0 +1,212 @@
+{
+    "alt-version(s)": [],
+    "name": "Rolycoly",
+    "Rolycoly": {
+        "pokedex_data": {
+            "National No.": "0837",
+            "Type": [
+                "Rock"
+            ],
+            "Species": "Coal Poke\u0301mon",
+            "Height": "0.3 m (1\u203200\u2032\u2032)",
+            "Weight": "12.0 kg (26.5 lbs)",
+            "Abilities": {
+                "Steam Engine": {
+                    "href": "/ability/steam-engine",
+                    "effect": "Drastically raises Speed when hit by a Fire- or Water-type move.",
+                    "hidden": false
+                },
+                "Heatproof": {
+                    "href": "/ability/heatproof",
+                    "effect": "Weakens the power of Fire-type moves.",
+                    "hidden": false
+                },
+                "Flash Fire": {
+                    "href": "/ability/flash-fire",
+                    "effect": "It powers up Fire-type moves if it's hit by one.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Defense",
+            "Catch rate": "255",
+            "BaseFriendship": "50",
+            "Base Exp.": "48",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "30",
+                "Min": "170",
+                "Max": "264"
+            },
+            "Attack": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Defense": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Atk": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Def": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Speed": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Total": "240"
+        },
+        "defense_stats": {
+            "Steam Engine ability": {
+                "Normal": "not very effective",
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Grass": "super-effective",
+                "Fighting": "super-effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Steel": "super-effective"
+            },
+            "Heatproof ability": {
+                "Normal": "not very effective",
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Grass": "super-effective",
+                "Fighting": "super-effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Steel": "super-effective"
+            },
+            "Flash Fire ability": {
+                "Normal": "not very effective",
+                "Fire": "no effect",
+                "Water": "super-effective",
+                "Grass": "super-effective",
+                "Fighting": "super-effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Rolycoly",
+                    "nationalNo": "#0837",
+                    "type": [
+                        "Rock"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Carkol",
+                    "nationalNo": "#0838",
+                    "type": [
+                        "Rock",
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 18)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Carkol",
+                    "nationalNo": "#0838",
+                    "type": [
+                        "Rock",
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Coalossal",
+                    "nationalNo": "#0839",
+                    "type": [
+                        "Rock",
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 34)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Smokescreen": "1",
+            "Tackle": "1",
+            "Rapid Spin": "5",
+            "Smack Down": "10",
+            "Rock Polish": "15",
+            "Ancient Power": "20",
+            "Incinerate": "25",
+            "Stealth Rock": "30",
+            "Heat Crash": "35",
+            "Rock Blast": "40"
+        },
+        "egg": {
+            "Block": null,
+            "Explosion": null,
+            "Mud-Slap": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Mud-Slap": "05",
+            "Protect": "07",
+            "Facade": "25",
+            "Bulldoze": "28",
+            "Rock Tomb": "36",
+            "Endure": "47",
+            "Sandstorm": "51",
+            "Dig": "55",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Reflect": "74",
+            "Rock Blast": "76",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Spikes": "90",
+            "Iron Head": "99",
+            "Power Gem": "101",
+            "Substitute": "103",
+            "Iron Defense": "104",
+            "Will-O-Wisp": "107",
+            "Stealth Rock": "116",
+            "Stone Edge": "150",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Rolycoly": [
+            "Most of its body has the same composition as coal. Fittingly, this Pok\u00e9mon was first discovered in coal mines about 400 years ago.",
+            "It can race around like a unicycle, even on rough, rocky terrain. Burning coal sustains it.",
+            "On sunny days, Rolycoly will come out onto grassy plains and roll around. Then it will eat the grass that gets tangled in its wheel-like leg.",
+            "Chunks of the surface of this Pok\u00e9mon\u2019s body that have grown old and flaked off have long been used for fuel as an alternative to coal."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793128534310952/837.png",
+    "discord_sprite": "<:P837:1132149625231519784>"
+}

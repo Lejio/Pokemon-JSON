@@ -1,0 +1,210 @@
+{
+    "alt-version(s)": [],
+    "name": "Prinplup",
+    "Prinplup": {
+        "pokedex_data": {
+            "National No.": "0394",
+            "Type": [
+                "Water"
+            ],
+            "Species": "Penguin Poke\u0301mon",
+            "Height": "0.8 m (2\u203207\u2032\u2032)",
+            "Weight": "23.0 kg (50.7 lbs)",
+            "Abilities": {
+                "Torrent": {
+                    "href": "/ability/torrent",
+                    "effect": "Powers up Water-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Defiant": {
+                    "href": "/ability/defiant",
+                    "effect": "Sharply raises Attack when the Pok\u00e9mon's stats are lowered.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Sp. Atk",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "142",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "64",
+                "Min": "238",
+                "Max": "332"
+            },
+            "Attack": {
+                "Base": "66",
+                "Min": "123",
+                "Max": "254"
+            },
+            "Defense": {
+                "Base": "68",
+                "Min": "126",
+                "Max": "258"
+            },
+            "Sp. Atk": {
+                "Base": "81",
+                "Min": "150",
+                "Max": "287"
+            },
+            "Sp. Def": {
+                "Base": "76",
+                "Min": "141",
+                "Max": "276"
+            },
+            "Speed": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Total": "405"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Piplup",
+                    "nationalNo": "#0393",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Prinplup",
+                    "nationalNo": "#0394",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 16)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Prinplup",
+                    "nationalNo": "#0394",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Empoleon",
+                    "nationalNo": "#0395",
+                    "type": [
+                        "Water",
+                        "Steel"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 36)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Growl": "4",
+            "Metal Claw": "1",
+            "Pound": "1",
+            "Tackle": "1",
+            "Water Gun": "8",
+            "Charm": "11",
+            "Peck": "15",
+            "Bubble Beam": "19",
+            "Swagger": "24",
+            "Fury Attack": "28",
+            "Brine": "33",
+            "Whirlpool": "37",
+            "Mist": "42",
+            "Drill Peck": "46",
+            "Hydro Pump": "50"
+        },
+        "evolution": {
+            "Metal Claw": "50"
+        },
+        "egg": {
+            "Agility": null,
+            "Aqua Ring": null,
+            "Double Hit": null,
+            "Feather Dance": null,
+            "Flail": null,
+            "Hydro Pump": null,
+            "Icy Wind": null,
+            "Mud-Slap": null,
+            "Snore": null,
+            "Supersonic": null,
+            "Yawn": null
+        },
+        "tm": {
+            "Water Pulse": "03",
+            "Hail": "07",
+            "Work Up": "10",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Dig": "28",
+            "Brick Break": "31",
+            "Double Team": "32",
+            "Rock Tomb": "39",
+            "Aerial Ace": "40",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Scald": "49",
+            "Brine": "55",
+            "Fling": "56",
+            "Endure": "58",
+            "Shadow Claw": "65",
+            "Stealth Rock": "76",
+            "Sleep Talk": "82",
+            "Grass Knot": "86",
+            "Swagger": "87",
+            "Pluck": "88",
+            "Substitute": "90",
+            "Cut": "93",
+            "Surf": "95",
+            "Strength": "96",
+            "Defog": "97",
+            "Rock Smash": "98",
+            "Waterfall": "99"
+        }
+    },
+    "entries": {
+        "Prinplup": [
+            "It lives alone, away from others. Apparently, every one of them believes it is the most important.",
+            "Its wings deliver wicked blows that snap even the thickest of trees. It searches for prey in icy seas.",
+            "Because every PRINPLUP considers itself to be the most important, they can never form a group.",
+            "It lives a solitary life. Its wings deliver wicked blows that can snap even the thickest of trees.",
+            "Because every Prinplup considers itself to be the most important, they can never form a group.",
+            "It lives alone, away from others. Apparently, every one of them believes it is the most important.",
+            "It lives a solitary life. Its wings deliver wicked blows that can snap even the thickest of trees.",
+            "It lives alone, away from others. Apparently, every one of them believes it is the most important.",
+            "Its wings deliver wicked blows that snap even the thickest of trees. It searches for prey in icy seas.",
+            "It swims gracefully through the frigid sea and sings with a voice like the roaring tide. It has powerful, sturdy wings and dignity to match."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789677901393993/394.png",
+    "discord_sprite": "<:P394:1132130071390462002>"
+}

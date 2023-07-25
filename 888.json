@@ -1,0 +1,232 @@
+{
+    "alt-version(s)": [
+        "Hero of Many Battles",
+        "Crowned Sword"
+    ],
+    "Hero of Many Battles": {
+        "pokedex_data": {
+            "National No.": "0888",
+            "Type": [
+                "Fairy"
+            ],
+            "Species": "Warrior Poke\u0301mon",
+            "Height": "2.8 m (9\u203202\u2032\u2032)",
+            "Weight": "110.0 kg (242.5 lbs)",
+            "Abilities": {
+                "Intrepid Sword": {
+                    "href": "/ability/intrepid-sword",
+                    "effect": "Boosts Attack in battle.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Speed",
+            "Catch rate": "10",
+            "BaseFriendship": "0",
+            "Base Exp.": "330",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "92",
+                "Min": "294",
+                "Max": "388"
+            },
+            "Attack": {
+                "Base": "120",
+                "Min": "220",
+                "Max": "372"
+            },
+            "Defense": {
+                "Base": "115",
+                "Min": "211",
+                "Max": "361"
+            },
+            "Sp. Atk": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Sp. Def": {
+                "Base": "115",
+                "Min": "211",
+                "Max": "361"
+            },
+            "Speed": {
+                "Base": "138",
+                "Min": "252",
+                "Max": "412"
+            },
+            "Total": "660"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "not very effective",
+                "Poison": "super-effective",
+                "Bug": "not very effective",
+                "Dragon": "no effect",
+                "Dark": "not very effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "Crowned Sword": {
+        "pokedex_data": {
+            "National No.": "0888",
+            "Type": [
+                "Fairy",
+                "Steel"
+            ],
+            "Species": "Warrior Poke\u0301mon",
+            "Height": "2.8 m (9\u203202\u2032\u2032)",
+            "Weight": "355.0 kg (782.6 lbs)",
+            "Abilities": {
+                "Intrepid Sword": {
+                    "href": "/ability/intrepid-sword",
+                    "effect": "Boosts Attack in battle.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Speed",
+            "Catch rate": "10",
+            "BaseFriendship": "0",
+            "Base Exp.": "350",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "92",
+                "Min": "294",
+                "Max": "388"
+            },
+            "Attack": {
+                "Base": "150",
+                "Min": "274",
+                "Max": "438"
+            },
+            "Defense": {
+                "Base": "115",
+                "Min": "211",
+                "Max": "361"
+            },
+            "Sp. Atk": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Sp. Def": {
+                "Base": "115",
+                "Min": "211",
+                "Max": "361"
+            },
+            "Speed": {
+                "Base": "148",
+                "Min": "270",
+                "Max": "434"
+            },
+            "Total": "700"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Fire": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Poison": "no effect",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Dragon": "no effect",
+                "Dark": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Bite": "1",
+            "Howl": "1",
+            "Metal Claw": "1",
+            "Quick Attack": "1",
+            "Quick Guard": "1",
+            "Sacred Sword": "1",
+            "Slash": "11",
+            "Swords Dance": "22",
+            "Iron Head": "33",
+            "Noble Roar": "44",
+            "Crunch": "55",
+            "Moonblast": "66",
+            "Close Combat": "77",
+            "Giga Impact": "88"
+        },
+        "egg": null,
+        "tm": {
+            "Take Down": "01",
+            "Agility": "04",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Fire Fang": "08",
+            "Thunder Fang": "09",
+            "Ice Fang": "10",
+            "Trailblaze": "20",
+            "Facade": "25",
+            "Snarl": "30",
+            "Metal Claw": "31",
+            "Swift": "32",
+            "Endure": "47",
+            "Dig": "55",
+            "False Swipe": "57",
+            "Brick Break": "58",
+            "Psychic Fangs": "63",
+            "Air Slash": "65",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Dazzling Gleam": "79",
+            "Poison Jab": "83",
+            "Rest": "85",
+            "Swords Dance": "88",
+            "Imprison": "92",
+            "Flash Cannon": "93",
+            "Iron Head": "99",
+            "Substitute": "103",
+            "Iron Defense": "104",
+            "Crunch": "108",
+            "Hyper Voice": "117",
+            "Play Rough": "127",
+            "Helping Hand": "130",
+            "Reversal": "134",
+            "Misty Terrain": "139",
+            "Wild Charge": "147",
+            "Giga Impact": "152",
+            "Focus Blast": "158",
+            "Hyper Beam": "163",
+            "Close Combat": "167",
+            "Steel Beam": "170",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Hero of Many Battles": [
+            "Known as a legendary hero, this Pok\u00e9mon absorbs metal particles, transforming them into a weapon it uses to battle.",
+            "This Pok\u00e9mon has slumbered for many years. Some say it\u2019s Zamazenta\u2019s elder sister\u2014others say the two Pok\u00e9mon are rivals."
+        ],
+        "Crowned Sword": [
+            "Now armed with a weapon it used in ancient times, this Pok\u00e9mon needs only a single strike to fell even Gigantamax Pok\u00e9mon.",
+            "Able to cut down anything with a single strike, it became known as the Fairy King\u2019s Sword, and it inspired awe in friend and foe alike."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793527425220718/888.png",
+    "discord_sprite": "<:P888:1132151875026817096>"
+}

@@ -1,0 +1,201 @@
+{
+    "alt-version(s)": [],
+    "name": "Eelektross",
+    "Eelektross": {
+        "pokedex_data": {
+            "National No.": "0604",
+            "Type": [
+                "Electric"
+            ],
+            "Species": "EleFish Poke\u0301mon",
+            "Height": "2.1 m (6\u203211\u2032\u2032)",
+            "Weight": "80.5 kg (177.5 lbs)",
+            "Abilities": {
+                "Levitate": {
+                    "href": "/ability/levitate",
+                    "effect": "Gives immunity to Ground type moves.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Attack",
+            "Catch rate": "30",
+            "BaseFriendship": "50",
+            "Base Exp.": "258",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "85",
+                "Min": "280",
+                "Max": "374"
+            },
+            "Attack": {
+                "Base": "115",
+                "Min": "211",
+                "Max": "361"
+            },
+            "Defense": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Sp. Atk": {
+                "Base": "105",
+                "Min": "193",
+                "Max": "339"
+            },
+            "Sp. Def": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Speed": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Total": "515"
+        },
+        "defense_stats": {
+            "default": {
+                "Electric": "not very effective",
+                "Ground": "no effect",
+                "Flying": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Tynamo",
+                    "nationalNo": "#0602",
+                    "type": [
+                        "Electric"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Eelektrik",
+                    "nationalNo": "#0603",
+                    "type": [
+                        "Electric"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 39)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Eelektrik",
+                    "nationalNo": "#0603",
+                    "type": [
+                        "Electric"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Eelektross",
+                    "nationalNo": "#0604",
+                    "type": [
+                        "Electric"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Thunder Stone)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Acid": "1",
+            "Coil": "1",
+            "Crunch": "1",
+            "Crush Claw": "1",
+            "Discharge": "1",
+            "Gastro Acid": "1",
+            "Headbutt": "1",
+            "Thrash": "1",
+            "Zap Cannon": "1",
+            "Wild Charge": "5"
+        },
+        "egg": null,
+        "tm": {
+            "Take Down": "01",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Thunder Fang": "09",
+            "Acid Spray": "13",
+            "Acrobatics": "14",
+            "Confuse Ray": "17",
+            "Charge Beam": "23",
+            "Facade": "25",
+            "Bulldoze": "28",
+            "Hex": "29",
+            "Swift": "32",
+            "Rock Tomb": "36",
+            "Dragon Tail": "44",
+            "Endure": "47",
+            "Volt Switch": "48",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Brick Break": "58",
+            "Zen Headbutt": "59",
+            "U-turn": "60",
+            "Bulk Up": "64",
+            "Body Slam": "66",
+            "Fire Punch": "67",
+            "Thunder Punch": "68",
+            "Sleep Talk": "70",
+            "Electro Ball": "72",
+            "Drain Punch": "73",
+            "Light Screen": "75",
+            "Dragon Claw": "78",
+            "Grass Knot": "81",
+            "Thunder Wave": "82",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Body Press": "89",
+            "Flash Cannon": "93",
+            "Eerie Impulse": "96",
+            "Substitute": "103",
+            "Crunch": "108",
+            "Liquidation": "110",
+            "Giga Drain": "111",
+            "Dragon Pulse": "115",
+            "Heavy Slam": "121",
+            "Flamethrower": "125",
+            "Thunderbolt": "126",
+            "Electric Terrain": "136",
+            "Wild Charge": "147",
+            "Giga Impact": "152",
+            "Outrage": "156",
+            "Hyper Beam": "163",
+            "Thunder": "166",
+            "Close Combat": "167",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Eelektross": [
+            "They crawl out of the ocean using their arms. They will attack prey on shore and immediately drag it into the ocean.",
+            "With their sucker mouths, they suck in prey. Then they use their fangs to shock the prey with electricity.",
+            "It latches on to prey with its sucker mouth, sinking in its fangs and shocking the prey with powerful electricity.",
+            "With their sucker mouths, they suck in prey. Then they use their fangs to shock the prey with electricity.",
+            "They crawl out of the ocean using their arms. They will attack prey on shore and immediately drag it into the ocean.",
+            "They crawl out of the ocean using their arms. They will attack prey on shore and immediately drag it into the ocean.",
+            "It latches on to prey with its sucker mouth, sinking in its fangs and shocking the prey with powerful electricity."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791312715251773/604.png",
+    "discord_sprite": "<:P604:1132139316445974640>"
+}

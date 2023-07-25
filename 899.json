@@ -1,0 +1,206 @@
+{
+    "alt-version(s)": [],
+    "name": "Wyrdeer",
+    "Wyrdeer": {
+        "pokedex_data": {
+            "National No.": "0899",
+            "Type": [
+                "Normal",
+                "Psychic"
+            ],
+            "Species": "Big Horn Poke\u0301mon",
+            "Height": "1.8 m (5\u203211\u2032\u2032)",
+            "Weight": "95.1 kg (209.7 lbs)",
+            "Abilities": {
+                "Intimidate": {
+                    "href": "/ability/intimidate",
+                    "effect": "Lowers the foe's Attack stat.",
+                    "hidden": false
+                },
+                "Frisk": {
+                    "href": "/ability/frisk",
+                    "effect": "The Pok\u00e9mon can check a foe's held item.",
+                    "hidden": false
+                },
+                "Sap Sipper": {
+                    "href": "/ability/sap-sipper",
+                    "effect": "Boosts Attack when hit by a Grass-type move.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack, 1 Sp. Atk",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "263",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "103",
+                "Min": "316",
+                "Max": "410"
+            },
+            "Attack": {
+                "Base": "105",
+                "Min": "193",
+                "Max": "339"
+            },
+            "Defense": {
+                "Base": "72",
+                "Min": "134",
+                "Max": "267"
+            },
+            "Sp. Atk": {
+                "Base": "105",
+                "Min": "193",
+                "Max": "339"
+            },
+            "Sp. Def": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Speed": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Total": "525"
+        },
+        "defense_stats": {
+            "Intimidate ability": {
+                "Psychic": "not very effective",
+                "Bug": "super-effective",
+                "Ghost": "no effect",
+                "Dark": "super-effective"
+            },
+            "Frisk ability": {
+                "Psychic": "not very effective",
+                "Bug": "super-effective",
+                "Ghost": "no effect",
+                "Dark": "super-effective"
+            },
+            "Sap Sipper ability": {
+                "Grass": "no effect",
+                "Psychic": "not very effective",
+                "Bug": "super-effective",
+                "Ghost": "no effect",
+                "Dark": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Stantler",
+                    "nationalNo": "#0234",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Wyrdeer",
+                    "nationalNo": "#0899",
+                    "type": [
+                        "Normal",
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Psyshield Bash 20 times in Agile Style)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Tackle": "1",
+            "Leer": "3",
+            "Astonish": "7",
+            "Hypnosis": "10",
+            "Stomp": "13",
+            "Sand Attack": "16",
+            "Take Down": "21",
+            "Confuse Ray": "23",
+            "Calm Mind": "27",
+            "Role Play": "32",
+            "Zen Headbutt": "37",
+            "Imprison": "49",
+            "Double-Edge": "55",
+            "Megahorn": "62"
+        },
+        "evolution": {
+            "Psyshield Bash": "70"
+        },
+        "egg": {
+            "Bite": null,
+            "Disable": null,
+            "Double Kick": null,
+            "Extrasensory": null,
+            "Megahorn": null,
+            "Psyshield Bash": null,
+            "Spite": null,
+            "Thrash": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Agility": "04",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Psybeam": "16",
+            "Confuse Ray": "17",
+            "Thief": "18",
+            "Trailblaze": "20",
+            "Charge Beam": "23",
+            "Facade": "25",
+            "Bulldoze": "28",
+            "Swift": "32",
+            "Stored Power": "41",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Psyshock": "54",
+            "Dig": "55",
+            "Zen Headbutt": "59",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Reflect": "74",
+            "Light Screen": "75",
+            "Thunder Wave": "82",
+            "Rest": "85",
+            "Imprison": "92",
+            "Skill Swap": "98",
+            "Substitute": "103",
+            "Trick": "109",
+            "Shadow Ball": "114",
+            "Energy Ball": "119",
+            "Psychic": "120",
+            "Thunderbolt": "126",
+            "Calm Mind": "129",
+            "Helping Hand": "130",
+            "Earth Power": "133",
+            "Wild Charge": "147",
+            "Earthquake": "149",
+            "Giga Impact": "152",
+            "Trick Room": "161",
+            "Hyper Beam": "163",
+            "Thunder": "166",
+            "Solar Beam": "168",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Wyrdeer": [
+            "The black orbs shine with an uncanny light when the Pok\u00e9mon is erecting invisible barriers. The fur shed from its beard retains heat well and is a highly useful material for winter clothing."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793611634262096/899.png",
+    "discord_sprite": "<:P899:1132152358332276817>"
+}

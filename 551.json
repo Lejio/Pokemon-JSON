@@ -1,0 +1,222 @@
+{
+    "alt-version(s)": [],
+    "name": "Sandile",
+    "Sandile": {
+        "pokedex_data": {
+            "National No.": "0551",
+            "Type": [
+                "Ground",
+                "Dark"
+            ],
+            "Species": "Desert Croc Poke\u0301mon",
+            "Height": "0.7 m (2\u203204\u2032\u2032)",
+            "Weight": "15.2 kg (33.5 lbs)",
+            "Abilities": {
+                "Intimidate": {
+                    "href": "/ability/intimidate",
+                    "effect": "Lowers the foe's Attack stat.",
+                    "hidden": false
+                },
+                "Moxie": {
+                    "href": "/ability/moxie",
+                    "effect": "Boosts Attack after knocking out any Pok\u00e9mon.",
+                    "hidden": false
+                },
+                "Anger Point": {
+                    "href": "/ability/anger-point",
+                    "effect": "Maxes Attack after taking a critical hit.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack",
+            "Catch rate": "180",
+            "BaseFriendship": "50",
+            "Base Exp.": "58",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "50",
+                "Min": "210",
+                "Max": "304"
+            },
+            "Attack": {
+                "Base": "72",
+                "Min": "134",
+                "Max": "267"
+            },
+            "Defense": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Sp. Atk": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Sp. Def": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Speed": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Total": "292"
+        },
+        "defense_stats": {
+            "default": {
+                "Water": "super-effective",
+                "Electric": "no effect",
+                "Grass": "super-effective",
+                "Ice": "super-effective",
+                "Fighting": "super-effective",
+                "Poison": "not very effective",
+                "Psychic": "no effect",
+                "Bug": "super-effective",
+                "Rock": "not very effective",
+                "Ghost": "not very effective",
+                "Dark": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Sandile",
+                    "nationalNo": "#0551",
+                    "type": [
+                        "Ground",
+                        "Dark"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Krokorok",
+                    "nationalNo": "#0552",
+                    "type": [
+                        "Ground",
+                        "Dark"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 29)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Krokorok",
+                    "nationalNo": "#0552",
+                    "type": [
+                        "Ground",
+                        "Dark"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Krookodile",
+                    "nationalNo": "#0553",
+                    "type": [
+                        "Ground",
+                        "Dark"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 40)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Leer": "1",
+            "Power Trip": "1",
+            "Sand Attack": "3",
+            "Hone Claws": "6",
+            "Sand Tomb": "9",
+            "Scary Face": "12",
+            "Bite": "15",
+            "Torment": "18",
+            "Dig": "21",
+            "Swagger": "24",
+            "Crunch": "27",
+            "Sandstorm": "30",
+            "Foul Play": "33",
+            "Earthquake": "36",
+            "Thrash": "39"
+        },
+        "egg": {
+            "Aqua Tail": null,
+            "Counter": null,
+            "Double-Edge": null,
+            "Spite": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Mud-Slap": "05",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Fire Fang": "08",
+            "Thunder Fang": "09",
+            "Thief": "18",
+            "Facade": "25",
+            "Bulldoze": "28",
+            "Snarl": "30",
+            "Mud Shot": "35",
+            "Rock Tomb": "36",
+            "Fling": "43",
+            "Endure": "47",
+            "Sandstorm": "51",
+            "Dig": "55",
+            "Brick Break": "58",
+            "Shadow Claw": "61",
+            "Foul Play": "62",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Grass Knot": "81",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Taunt": "87",
+            "Dark Pulse": "94",
+            "Substitute": "103",
+            "Crunch": "108",
+            "Stealth Rock": "116",
+            "Helping Hand": "130",
+            "Earth Power": "133",
+            "Sludge Bomb": "148",
+            "Earthquake": "149",
+            "Stone Edge": "150",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Sandile": [
+            "They live buried in the sands of the desert. The sun-warmed sands prevent their body temperature from dropping.",
+            "It moves along below the sand\u2019s surface, except for its nose and eyes. A dark membrane shields its eyes from the sun.",
+            "They live hidden under hot desert sands in order to keep their body temperature from dropping.",
+            "It moves along below the sand\u2019s surface, except for its nose and eyes. A dark membrane shields its eyes from the sun.",
+            "They live buried in the sands of the desert. The sun-warmed sands prevent their body temperature from dropping.",
+            "It submerges itself in sand and moves as if swimming. This wise behavior keeps its enemies from finding it and maintains its temperature.",
+            "It conceals itself in the sand and chomps down on the legs of any prey that unwarily walk over it. Its favorite food is Trapinch.",
+            "Alola, where it\u2019s warm all year round, is a comfortable environment for this Pok\u00e9mon. Sometimes you\u2019ll even see it outside of deserts.",
+            "Sandile\u2019s still not good at hunting, so it mostly eats things that have collapsed in the desert. It\u2019s called \u201cthe cleaner of the desert.\u201d",
+            "The desert gets cold at night, so when the sun sets, this Pok\u00e9mon burrows deep into the sand and sleeps until sunrise.",
+            "Sandile is small, but its legs and lower body are powerful. Pushing sand aside as it goes, Sandile moves through the desert as if it\u2019s swimming.",
+            "It submerges itself in sand and moves as if swimming. This wise behavior keeps its enemies from finding it and maintains its temperature.",
+            "They live hidden under hot desert sands in order to keep their body temperature from dropping."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790894752858142/551.png",
+    "discord_sprite": "<:P551:1132136983242735668>"
+}

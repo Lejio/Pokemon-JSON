@@ -1,0 +1,209 @@
+{
+    "alt-version(s)": [],
+    "name": "Trumbeak",
+    "Trumbeak": {
+        "pokedex_data": {
+            "National No.": "0732",
+            "Type": [
+                "Normal",
+                "Flying"
+            ],
+            "Species": "Bugle Beak Poke\u0301mon",
+            "Height": "0.6 m (2\u203200\u2032\u2032)",
+            "Weight": "14.8 kg (32.6 lbs)",
+            "Abilities": {
+                "Keen Eye": {
+                    "href": "/ability/keen-eye",
+                    "effect": "Prevents other Pok\u00e9mon from lowering accuracy.",
+                    "hidden": false
+                },
+                "Skill Link": {
+                    "href": "/ability/skill-link",
+                    "effect": "Increases the frequency of multi-strike moves.",
+                    "hidden": false
+                },
+                "Pickup": {
+                    "href": "/ability/pickup",
+                    "effect": "The Pok\u00e9mon may pick up items.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "120",
+            "BaseFriendship": "50",
+            "Base Exp.": "124",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "55",
+                "Min": "220",
+                "Max": "314"
+            },
+            "Attack": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Defense": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Atk": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Def": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Speed": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Total": "355"
+        },
+        "defense_stats": {
+            "default": {
+                "Electric": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Ground": "no effect",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Pikipek",
+                    "nationalNo": "#0731",
+                    "type": [
+                        "Normal",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Trumbeak",
+                    "nationalNo": "#0732",
+                    "type": [
+                        "Normal",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 14)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Trumbeak",
+                    "nationalNo": "#0732",
+                    "type": [
+                        "Normal",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Toucannon",
+                    "nationalNo": "#0733",
+                    "type": [
+                        "Normal",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 28)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Echoed Voice": "7",
+            "Growl": "3",
+            "Peck": "1",
+            "Rock Blast": "1",
+            "Rock Smash": "9",
+            "Supersonic": "13",
+            "Pluck": "16",
+            "Roost": "21",
+            "Fury Attack": "24",
+            "Screech": "29",
+            "Drill Peck": "32",
+            "Bullet Seed": "37",
+            "Feather Dance": "40",
+            "Hyper Voice": "45"
+        },
+        "egg": {
+            "Boomburst": null,
+            "Brave Bird": null,
+            "Mirror Move": null,
+            "Tailwind": null,
+            "Uproar": null
+        },
+        "null": {
+            "Defog": "\u2014",
+            "Gunk Shot": "120",
+            "Heat Wave": "95",
+            "Hyper Voice": "90",
+            "Knock Off": "65",
+            "Sky Attack": "140",
+            "Snore": "50",
+            "Tailwind": "\u2014",
+            "Uproar": "90"
+        },
+        "tm": {
+            "Work Up": "01",
+            "Toxic": "06",
+            "Hidden Power": "10",
+            "Sunny Day": "11",
+            "Protect": "17",
+            "Roost": "19",
+            "Frustration": "21",
+            "Smack Down": "23",
+            "Return": "27",
+            "Brick Break": "31",
+            "Double Team": "32",
+            "Aerial Ace": "40",
+            "Flame Charge": "43",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Round": "48",
+            "Echoed Voice": "49",
+            "Steel Wing": "51",
+            "Swords Dance": "75",
+            "Fly": "76",
+            "Swagger": "87",
+            "Sleep Talk": "88",
+            "U-turn": "89",
+            "Substitute": "90",
+            "Confide": "100"
+        }
+    },
+    "entries": {
+        "Trumbeak": [
+            "It eats berries and stores their seeds in its beak. When it encounters enemies or prey, it fires off all the seeds in a burst.",
+            "By bending its beak, it can produce a variety of calls and brand itself a noisy nuisance for its neighbors.",
+            "It can bend the tip of its beak to produce over a hundred different cries at will.",
+            "From its mouth, it fires the seeds of berries it has eaten. The scattered seeds give rise to new plants."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792314562510878/732.png",
+    "discord_sprite": "<:P732:1132144942995738734>"
+}

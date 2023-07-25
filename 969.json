@@ -1,0 +1,172 @@
+{
+    "alt-version(s)": [],
+    "name": "Glimmet",
+    "Glimmet": {
+        "pokedex_data": {
+            "National No.": "0969",
+            "Type": [
+                "Rock",
+                "Poison"
+            ],
+            "Species": "Ore Poke\u0301mon",
+            "Height": "0.7 m (2\u203204\u2032\u2032)",
+            "Weight": "8.0 kg (17.6 lbs)",
+            "Abilities": {
+                "Toxic Debris": {
+                    "href": "/ability/toxic-debris",
+                    "effect": "Scatters poison spikes at the feet of the opposing team when the Pok\u00e9mon takes damage from physical moves.",
+                    "hidden": false
+                },
+                "Corrosion": {
+                    "href": "/ability/corrosion",
+                    "effect": "The Pok\u00e9mon can poison Steel and Poison types.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Sp. Atk",
+            "Catch rate": "70",
+            "BaseFriendship": "50",
+            "Base Exp.": "70",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "48",
+                "Min": "206",
+                "Max": "300"
+            },
+            "Attack": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Defense": {
+                "Base": "42",
+                "Min": "80",
+                "Max": "201"
+            },
+            "Sp. Atk": {
+                "Base": "105",
+                "Min": "193",
+                "Max": "339"
+            },
+            "Sp. Def": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Speed": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Total": "350"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Steel": "super-effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Glimmet",
+                    "nationalNo": "#0969",
+                    "type": [
+                        "Rock",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Glimmora",
+                    "nationalNo": "#0970",
+                    "type": [
+                        "Rock",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 35)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Harden": "1",
+            "Rock Throw": "1",
+            "Smack Down": "1",
+            "Acid Spray": "7",
+            "Ancient Power": "11",
+            "Rock Polish": "15",
+            "Stealth Rock": "18",
+            "Venoshock": "22",
+            "Sandstorm": "26",
+            "Self-Destruct": "29",
+            "Rock Slide": "33",
+            "Power Gem": "37",
+            "Acid Armor": "41",
+            "Sludge Wave": "46"
+        },
+        "egg": {
+            "Explosion": null,
+            "Memento": null,
+            "Toxic": null
+        },
+        "tm": {
+            "Protect": "07",
+            "Acid Spray": "13",
+            "Confuse Ray": "17",
+            "Facade": "25",
+            "Mud Shot": "35",
+            "Rock Tomb": "36",
+            "Venoshock": "45",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Sandstorm": "51",
+            "Sleep Talk": "70",
+            "Reflect": "74",
+            "Light Screen": "75",
+            "Rock Blast": "76",
+            "Dazzling Gleam": "79",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Spikes": "90",
+            "Toxic Spikes": "91",
+            "Power Gem": "101",
+            "Gunk Shot": "102",
+            "Substitute": "103",
+            "Iron Defense": "104",
+            "Stealth Rock": "116",
+            "Sludge Bomb": "148",
+            "Stone Edge": "150",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Glimmet": [
+            "It absorbs nutrients from cave walls. The petals it wears are made of crystallized poison.",
+            "Glimmet\u2019s toxic mineral crystals look just like flower petals. This Pok\u00e9mon scatters poisonous powder like pollen to protect itself."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131794156847648778/969.png",
+    "discord_sprite": "<:P969:1132155429951131698>"
+}

@@ -1,0 +1,235 @@
+{
+    "alt-version(s)": [],
+    "name": "Lunala",
+    "Lunala": {
+        "pokedex_data": {
+            "National No.": "0792",
+            "Type": [
+                "Psychic",
+                "Ghost"
+            ],
+            "Species": "Moone Poke\u0301mon",
+            "Height": "4.0 m (13\u203201\u2032\u2032)",
+            "Weight": "120.0 kg (264.6 lbs)",
+            "Abilities": {
+                "Shadow Shield": {
+                    "href": "/ability/shadow-shield",
+                    "effect": "Reduces damage when HP is full.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Sp. Atk",
+            "Catch rate": "45",
+            "BaseFriendship": "0",
+            "Base Exp.": "306",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "137",
+                "Min": "384",
+                "Max": "478"
+            },
+            "Attack": {
+                "Base": "113",
+                "Min": "207",
+                "Max": "357"
+            },
+            "Defense": {
+                "Base": "89",
+                "Min": "164",
+                "Max": "304"
+            },
+            "Sp. Atk": {
+                "Base": "137",
+                "Min": "251",
+                "Max": "410"
+            },
+            "Sp. Def": {
+                "Base": "107",
+                "Min": "197",
+                "Max": "344"
+            },
+            "Speed": {
+                "Base": "97",
+                "Min": "179",
+                "Max": "322"
+            },
+            "Total": "680"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "no effect",
+                "Fighting": "no effect",
+                "Poison": "not very effective",
+                "Psychic": "not very effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Cosmog",
+                    "nationalNo": "#0789",
+                    "type": [
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Cosmoem",
+                    "nationalNo": "#0790",
+                    "type": [
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 43)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Cosmoem",
+                    "nationalNo": "#0790",
+                    "type": [
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Solgaleo",
+                    "nationalNo": "#0791",
+                    "type": [
+                        "Psychic",
+                        "Steel"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 53, in Pok\u00e9mon Sun or Ultra Sun)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Cosmoem",
+                    "nationalNo": "#0790",
+                    "type": [
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Lunala",
+                    "nationalNo": "#0792",
+                    "type": [
+                        "Psychic",
+                        "Ghost"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 53, in Pok\u00e9mon Moon or Ultra Moon)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Confusion": "1",
+            "Cosmic Power": "1",
+            "Hypnosis": "1",
+            "Moongeist Beam": "1",
+            "Teleport": "1",
+            "Night Shade": "7",
+            "Confuse Ray": "14",
+            "Air Slash": "21",
+            "Shadow Ball": "28",
+            "Moonlight": "35",
+            "Night Daze": "42",
+            "Magic Coat": "49",
+            "Moonblast": "56",
+            "Phantom Force": "63",
+            "Dream Eater": "70",
+            "Wide Guard": "77",
+            "Hyper Beam": "84"
+        },
+        "evolution": {
+            "Moongeist Beam": "100"
+        },
+        "egg": {
+            "Dual Wingbeat": null,
+            "Expanding Force": null,
+            "Meteor Beam": null,
+            "Poltergeist": null
+        },
+        "null": {
+            "Ice Beam": "05",
+            "Blizzard": "06",
+            "Thunderbolt": "08",
+            "Thunder": "09",
+            "Psychic": "11",
+            "Agility": "12",
+            "Substitute": "20",
+            "Psyshock": "25",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Shadow Ball": "33",
+            "Future Sight": "34",
+            "Heat Wave": "36",
+            "Trick": "38",
+            "Cosmic Power": "44",
+            "Calm Mind": "49",
+            "Focus Blast": "64",
+            "Work Up": "85",
+            "Dazzling Gleam": "92"
+        },
+        "tm": {
+            "Fly": "06",
+            "Hyper Beam": "08",
+            "Giga Impact": "09",
+            "Solar Beam": "11",
+            "Thunder Wave": "14",
+            "Light Screen": "17",
+            "Reflect": "18",
+            "Safeguard": "19",
+            "Rest": "21",
+            "Snore": "24",
+            "Protect": "25",
+            "Scary Face": "26",
+            "Icy Wind": "27",
+            "Sunny Day": "34",
+            "Will-O-Wisp": "38",
+            "Facade": "39",
+            "Swift": "40",
+            "Helping Hand": "41",
+            "Shadow Claw": "65",
+            "Psycho Cut": "69",
+            "Trick Room": "70",
+            "Wonder Room": "71",
+            "Magic Room": "72",
+            "Round": "76",
+            "Hex": "77",
+            "Acrobatics": "78",
+            "Phantom Force": "86",
+            "Air Slash": "95"
+        }
+    },
+    "entries": {
+        "Lunala": [
+            "It is said to be a female evolution of Cosmog. When its third eye activates, away it flies to another world.",
+            "Said to live in another world, this Pok\u00e9mon devours light, drawing the moonless dark veil of night over the brightness of day.",
+            "Records of it exist in writings from long, long ago, where it was known by the name \u201cthe beast that calls the moon.\u201d",
+            "It sometimes summons unknown powers and life-forms here to this world from holes that lead to other worlds.",
+            "Known as the Beast That Calls the Moon, this Pok\u00e9mon lives by taking in any and all light and converting it into its own energy.",
+            "It steals the light from its surroundings and then becomes the full moon, showering its own light across the night sky."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792781304664065/792.png",
+    "discord_sprite": "<:P792:1132147651341713429>"
+}

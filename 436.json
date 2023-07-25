@@ -1,0 +1,240 @@
+{
+    "alt-version(s)": [],
+    "name": "Bronzor",
+    "Bronzor": {
+        "pokedex_data": {
+            "National No.": "0436",
+            "Type": [
+                "Steel",
+                "Psychic"
+            ],
+            "Species": "Bronze Poke\u0301mon",
+            "Height": "0.5 m (1\u203208\u2032\u2032)",
+            "Weight": "60.5 kg (133.4 lbs)",
+            "Abilities": {
+                "Levitate": {
+                    "href": "/ability/levitate",
+                    "effect": "Gives immunity to Ground type moves.",
+                    "hidden": false
+                },
+                "Heatproof": {
+                    "href": "/ability/heatproof",
+                    "effect": "Weakens the power of Fire-type moves.",
+                    "hidden": false
+                },
+                "Heavy Metal": {
+                    "href": "/ability/heavy-metal",
+                    "effect": "Doubles the Pok\u00e9mon's weight.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Defense",
+            "Catch rate": "255",
+            "BaseFriendship": "50",
+            "Base Exp.": "60",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "57",
+                "Min": "224",
+                "Max": "318"
+            },
+            "Attack": {
+                "Base": "24",
+                "Min": "47",
+                "Max": "161"
+            },
+            "Defense": {
+                "Base": "86",
+                "Min": "159",
+                "Max": "298"
+            },
+            "Sp. Atk": {
+                "Base": "24",
+                "Min": "47",
+                "Max": "161"
+            },
+            "Sp. Def": {
+                "Base": "86",
+                "Min": "159",
+                "Max": "298"
+            },
+            "Speed": {
+                "Base": "23",
+                "Min": "45",
+                "Max": "159"
+            },
+            "Total": "300"
+        },
+        "defense_stats": {
+            "Levitate ability": {
+                "Normal": "not very effective",
+                "Fire": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Poison": "no effect",
+                "Ground": "no effect",
+                "Flying": "not very effective",
+                "Psychic": "not very effective",
+                "Rock": "not very effective",
+                "Ghost": "super-effective",
+                "Dragon": "not very effective",
+                "Dark": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            },
+            "Heatproof ability": {
+                "Normal": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Poison": "no effect",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Psychic": "not very effective",
+                "Rock": "not very effective",
+                "Ghost": "super-effective",
+                "Dragon": "not very effective",
+                "Dark": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            },
+            "Heavy Metal ability": {
+                "Normal": "not very effective",
+                "Fire": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Poison": "no effect",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Psychic": "not very effective",
+                "Rock": "not very effective",
+                "Ghost": "super-effective",
+                "Dragon": "not very effective",
+                "Dark": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Bronzor",
+                    "nationalNo": "#0436",
+                    "type": [
+                        "Steel",
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Bronzong",
+                    "nationalNo": "#0437",
+                    "type": [
+                        "Steel",
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 33)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Confusion": "1",
+            "Tackle": "1",
+            "Confuse Ray": "4",
+            "Payback": "8",
+            "Imprison": "12",
+            "Gyro Ball": "16",
+            "Hypnosis": "20",
+            "Safeguard": "24",
+            "Extrasensory": "28",
+            "Heavy Slam": "32",
+            "Iron Defense": "36",
+            "Metal Sound": "40",
+            "Future Sight": "44"
+        },
+        "egg": {
+            "Gravity": null,
+            "Recycle": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Protect": "07",
+            "Confuse Ray": "17",
+            "Charge Beam": "23",
+            "Facade": "25",
+            "Bulldoze": "28",
+            "Hex": "29",
+            "Rock Tomb": "36",
+            "Stored Power": "41",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Sandstorm": "51",
+            "Psyshock": "54",
+            "Zen Headbutt": "59",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Reflect": "74",
+            "Light Screen": "75",
+            "Rock Blast": "76",
+            "Grass Knot": "81",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Imprison": "92",
+            "Flash Cannon": "93",
+            "Skill Swap": "98",
+            "Iron Head": "99",
+            "Power Gem": "101",
+            "Substitute": "103",
+            "Iron Defense": "104",
+            "Trick": "109",
+            "Shadow Ball": "114",
+            "Stealth Rock": "116",
+            "Psychic": "120",
+            "Heavy Slam": "121",
+            "Ice Spinner": "124",
+            "Calm Mind": "129",
+            "Helping Hand": "130",
+            "Psychic Terrain": "138",
+            "Earthquake": "149",
+            "Trick Room": "161",
+            "Solar Beam": "168",
+            "Steel Beam": "170",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Bronzor": [
+            "Implements shaped like it were discovered in ancient tombs. It is unknown if they are related.",
+            "X-ray photos were taken to check its body structure. Nothing appeared, however.",
+            "There are researchers who believe this Pok\u00e9mon reflected like a mirror in the distant past.",
+            "Ancient people believed that the pattern on BRONZOR\u2019s back contained a mysterious power.",
+            "There are researchers who believe this Pok\u00e9mon reflected like a mirror in the distant past.",
+            "They are found in ancient tombs. The patterns on their backs are said to be imbued with mysterious power.",
+            "Ancient people believed that the pattern on Bronzor\u2019s back contained a mysterious power.",
+            "Implements shaped like it were discovered in ancient tombs. It is unknown if they are related.",
+            "It appears in ancient ruins. The pattern on its body doesn\u2019t come from any culture in the Galar region, so it remains shrouded in mystery.",
+            "Polishing Bronzor to a shine makes its surface reflect the truth, according to common lore. Be that as it may, Bronzor hates being polished.",
+            "Implements shaped like Bronzor were discovered in ancient tombs. It is unknown whether they are related.",
+            "X-ray photos were taken to check its body structure, but nothing was seen.",
+            "Floats using a mysterious energy. The pattern engraved upon its back is held as sacred and can sometimes be found in imagery from ancient cemeteries and other such timeworn places.",
+            "Ancient people believed that the pattern on Bronzor\u2019s back contained a mysterious power.",
+            "They are found in ancient tombs. The patterns on their backs are said to be imbued with mysterious power."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790001978482718/436.png",
+    "discord_sprite": "<:P436:1132131917576286218>"
+}

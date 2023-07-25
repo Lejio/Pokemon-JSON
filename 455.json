@@ -1,0 +1,152 @@
+{
+    "alt-version(s)": [],
+    "name": "Carnivine",
+    "Carnivine": {
+        "pokedex_data": {
+            "National No.": "0455",
+            "Type": [
+                "Grass"
+            ],
+            "Species": "Bug Catcher Poke\u0301mon",
+            "Height": "1.4 m (4\u203207\u2032\u2032)",
+            "Weight": "27.0 kg (59.5 lbs)",
+            "Abilities": {
+                "Levitate": {
+                    "href": "/ability/levitate",
+                    "effect": "Gives immunity to Ground type moves.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "200",
+            "BaseFriendship": "50",
+            "Base Exp.": "159",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "74",
+                "Min": "258",
+                "Max": "352"
+            },
+            "Attack": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Defense": {
+                "Base": "72",
+                "Min": "134",
+                "Max": "267"
+            },
+            "Sp. Atk": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Sp. Def": {
+                "Base": "72",
+                "Min": "134",
+                "Max": "267"
+            },
+            "Speed": {
+                "Base": "46",
+                "Min": "87",
+                "Max": "210"
+            },
+            "Total": "454"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Poison": "super-effective",
+                "Ground": "no effect",
+                "Flying": "super-effective",
+                "Bug": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Bind": "1",
+            "Growth": "1",
+            "Bite": "7",
+            "Vine Whip": "11",
+            "Sweet Scent": "17",
+            "Ingrain": "21",
+            "Grass Knot": "27",
+            "Leaf Tornado": "31",
+            "Spit Up": "37",
+            "Stockpile": "37",
+            "Swallow": "37",
+            "Crunch": "41",
+            "Seed Bomb": "47",
+            "Power Whip": "50"
+        },
+        "egg": {
+            "Acid Spray": null,
+            "Leech Seed": null,
+            "Magical Leaf": null,
+            "Rage Powder": null,
+            "Razor Leaf": null,
+            "Slam": null,
+            "Sleep Powder": null,
+            "Stun Spore": null,
+            "Synthesis": null,
+            "Worry Seed": null
+        },
+        "tm": {
+            "Bullet Seed": "09",
+            "Sunny Day": "11",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Giga Drain": "19",
+            "Solar Beam": "22",
+            "Double Team": "32",
+            "Sludge Bomb": "36",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Energy Ball": "53",
+            "Fling": "56",
+            "Endure": "58",
+            "Payback": "66",
+            "Giga Impact": "68",
+            "Flash": "70",
+            "Swords Dance": "75",
+            "Sleep Talk": "82",
+            "Grass Knot": "86",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Cut": "93"
+        }
+    },
+    "entries": {
+        "Carnivine": [
+            "It attracts prey with its sweet-smelling saliva, then chomps down. It takes a whole day to eat prey.",
+            "Hanging from branches using its tentacles, it looks like a plant. It awaits prey, mouth wide open.",
+            "It binds itself to trees in marshes. It attracts prey with its sweet-smelling drool and gulps them down.",
+            "It walks around on its tentacles in search of a tree branch where it can dangle down and ambush prey.",
+            "It binds itself to trees in marshes. It attracts prey with its sweet-smelling drool and gulps them down.",
+            "Using its tentacles to lash itself to trees, it lies in wait for prey, luring it close with sweet-smelling drool.",
+            "It attracts prey with its sweet-smelling saliva, then chomps down. It takes a whole day to eat prey.",
+            "It binds itself to trees in marshes. It attracts prey with its sweet-smelling drool and gulps them down.",
+            "It attracts prey with its sweet-smelling saliva, then chomps down. It takes a whole day to eat its prey.",
+            "Using its tentacles to hang from branches, it looks like a plant when it is not moving. It awaits prey with its mouth wide open.",
+            "Though this is a plant Pok\u00e9mon, it has a gluttonous and unruly temperament. Carnivine attacks its prey with its cavernous maw wide open."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790150607839242/455.png",
+    "discord_sprite": "<:P455:1132132752477651077>"
+}

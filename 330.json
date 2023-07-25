@@ -1,0 +1,234 @@
+{
+    "alt-version(s)": [],
+    "name": "Flygon",
+    "Flygon": {
+        "pokedex_data": {
+            "National No.": "0330",
+            "Type": [
+                "Ground",
+                "Dragon"
+            ],
+            "Species": "Mystic Poke\u0301mon",
+            "Height": "2.0 m (6\u203207\u2032\u2032)",
+            "Weight": "82.0 kg (180.8 lbs)",
+            "Abilities": {
+                "Levitate": {
+                    "href": "/ability/levitate",
+                    "effect": "Gives immunity to Ground type moves.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack, 2 Speed",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "234",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "80",
+                "Min": "270",
+                "Max": "364"
+            },
+            "Attack": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Defense": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Sp. Atk": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Sp. Def": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Speed": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Total": "520"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Electric": "no effect",
+                "Ice": "super-effective",
+                "Poison": "not very effective",
+                "Ground": "no effect",
+                "Rock": "not very effective",
+                "Dragon": "super-effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Trapinch",
+                    "nationalNo": "#0328",
+                    "type": [
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Vibrava",
+                    "nationalNo": "#0329",
+                    "type": [
+                        "Ground",
+                        "Dragon"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 35)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Vibrava",
+                    "nationalNo": "#0329",
+                    "type": [
+                        "Ground",
+                        "Dragon"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Flygon",
+                    "nationalNo": "#0330",
+                    "type": [
+                        "Ground",
+                        "Dragon"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 45)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Astonish": "1",
+            "Bite": "1",
+            "Bulldoze": "1",
+            "Crunch": "1",
+            "Dig": "1",
+            "Dragon Breath": "1",
+            "Dragon Claw": "1",
+            "Dragon Dance": "1",
+            "Feint": "1",
+            "Fissure": "1",
+            "Laser Focus": "1",
+            "Outrage": "1",
+            "Sand Attack": "1",
+            "Superpower": "1",
+            "Supersonic": "1",
+            "Mud-Slap": "12",
+            "Sand Tomb": "16",
+            "Dragon Tail": "20",
+            "Screech": "24",
+            "Bug Buzz": "28",
+            "Sandstorm": "32",
+            "Earth Power": "38",
+            "Earthquake": "44",
+            "Uproar": "52",
+            "Dragon Rush": "60",
+            "Boomburst": "68"
+        },
+        "evolution": {
+            "Dragon Claw": "80"
+        },
+        "egg": {
+            "Bug Bite": null,
+            "Earth Power": null,
+            "Feint": null,
+            "Flail": null,
+            "Focus Energy": null,
+            "Fury Cutter": null,
+            "Gust": null,
+            "Mud Shot": null,
+            "Quick Attack": null
+        },
+        "null": {
+            "Draco Meteor": "130"
+        },
+        "tm": {
+            "Dragon Claw": "02",
+            "Sunny Day": "11",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Giga Drain": "19",
+            "Solar Beam": "22",
+            "Iron Tail": "23",
+            "Earthquake": "26",
+            "Dig": "28",
+            "Double Team": "32",
+            "Flamethrower": "35",
+            "Sandstorm": "37",
+            "Fire Blast": "38",
+            "Rock Tomb": "39",
+            "Aerial Ace": "40",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Steel Wing": "47",
+            "Roost": "51",
+            "Endure": "58",
+            "Dragon Pulse": "59",
+            "Bug Buzz": "62",
+            "Giga Impact": "68",
+            "Stone Edge": "71",
+            "Rock Slide": "80",
+            "Sleep Talk": "82",
+            "Bulldoze": "83",
+            "Swagger": "87",
+            "U-turn": "89",
+            "Substitute": "90",
+            "Fly": "94",
+            "Strength": "96",
+            "Defog": "97",
+            "Rock Smash": "98"
+        }
+    },
+    "entries": {
+        "Flygon": [
+            "FLYGON is nicknamed \u201cthe elemental spirit of the desert.\u201d Because its flapping wings whip up a cloud of sand, this pok\u00e9mon is always enveloped in a sandstorm while flying.",
+            "FLYGON whips up a sandstorm by flapping its wings. The wings create a series of notes that sound like singing. Because the \u201csinging\u201d is the only thing that can be heard in a sandstorm, this pok\u00e9mon is said to be the desert spirit.",
+            "It hides itself by kicking up desert sand with its wings. Red covers shield its eyes from sand.",
+            "The flapping of its wings sounds like singing. To prevent detection by enemies, it hides itself by flapping up a cloud of desert sand.",
+            "It whips up sandstorms with powerful flaps of its wings. It is known as \u201cThe Desert Spirit.\u201d",
+            "It is nicknamed \u201cThe Desert Spirit\u201d because the flapping of its wings sounds like a woman singing.",
+            "It whips up sandstorms with powerful flaps of its wings. It is known as \u201cThe Desert Spirit.\u201d",
+            "Known as \u201cThe Desert Spirit,\u201d this Pok\u00e9mon hides in the sandstorms it causes by beating its wings.",
+            "It hides itself by kicking up desert sand with its wings. Red covers shield its eyes from sand.",
+            "Known as \u201cThe Desert Spirit,\u201d this Pok\u00e9mon hides in the sandstorms it causes by beating its wings.",
+            "Flygon is nicknamed \u201cthe elemental spirit of the desert.\u201d Because its flapping wings whip up a cloud of sand, this Pok\u00e9mon is always enveloped in a sandstorm while flying.",
+            "Flygon whips up a sandstorm by flapping its wings. The wings create a series of notes that sound like singing. Because the \u201csinging\u201d is the only thing that can be heard in a sandstorm, this Pok\u00e9mon is said to be the desert spirit.",
+            "The flapping of its wings sounds something like singing. Those lured by the sound are enveloped in a sandstorm, becoming Flygon\u2019s prey.",
+            "This Pok\u00e9mon hides in the heart of sandstorms it creates and seldom appears where people can see it.",
+            "By flapping their wings, Flygon cause sandstorms that conceal Krookodile. The team then splits the prey they catch.",
+            "People continue to have their hearts stolen by its enchanting songs and find themselves stranded in the desert.",
+            "This Pok\u00e9mon hides in the heart of sandstorms it creates and seldom appears where people can see it.",
+            "It is nicknamed the Desert Spirit because the flapping of its wings sounds like a woman singing.",
+            "It whips up sandstorms with powerful flaps of its wings. It is known as the Desert Spirit."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789180104622130/330.png",
+    "discord_sprite": "<:P330:1132127258698596403>"
+}

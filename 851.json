@@ -1,0 +1,210 @@
+{
+    "alt-version(s)": [],
+    "name": "Centiskorch",
+    "Centiskorch": {
+        "pokedex_data": {
+            "National No.": "0851",
+            "Type": [
+                "Fire",
+                "Bug"
+            ],
+            "Species": "Radiator Poke\u0301mon",
+            "Height": "3.0 m (9\u203210\u2032\u2032)",
+            "Weight": "120.0 kg (264.6 lbs)",
+            "Abilities": {
+                "Flash Fire": {
+                    "href": "/ability/flash-fire",
+                    "effect": "It powers up Fire-type moves if it's hit by one.",
+                    "hidden": false
+                },
+                "White Smoke": {
+                    "href": "/ability/white-smoke",
+                    "effect": "Prevents other Pok\u00e9mon from lowering its stats.",
+                    "hidden": false
+                },
+                "Flame Body": {
+                    "href": "/ability/flame-body",
+                    "effect": "Contact with the Pok\u00e9mon may burn the attacker.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "75",
+            "BaseFriendship": "50",
+            "Base Exp.": "184",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "100",
+                "Min": "310",
+                "Max": "404"
+            },
+            "Attack": {
+                "Base": "115",
+                "Min": "211",
+                "Max": "361"
+            },
+            "Defense": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Atk": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Sp. Def": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Speed": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Total": "525"
+        },
+        "defense_stats": {
+            "Flash Fire ability": {
+                "Fire": "no effect",
+                "Water": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Fighting": "not very effective",
+                "Flying": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            },
+            "White Smoke ability": {
+                "Water": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Fighting": "not very effective",
+                "Flying": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            },
+            "Flame Body ability": {
+                "Water": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Fighting": "not very effective",
+                "Flying": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Sizzlipede",
+                    "nationalNo": "#0850",
+                    "type": [
+                        "Fire",
+                        "Bug"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Centiskorch",
+                    "nationalNo": "#0851",
+                    "type": [
+                        "Fire",
+                        "Bug"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 28)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Bite": "1",
+            "Ember": "1",
+            "Inferno": "1",
+            "Smokescreen": "1",
+            "Wrap": "1",
+            "Flame Wheel": "15",
+            "Bug Bite": "20",
+            "Coil": "25",
+            "Slam": "32",
+            "Fire Spin": "39",
+            "Crunch": "46",
+            "Fire Lash": "53",
+            "Lunge": "60",
+            "Burn Up": "67"
+        },
+        "egg": {
+            "Defense Curl": null,
+            "Knock Off": null,
+            "Rollout": null,
+            "Struggle Bug": null
+        },
+        "null": {
+            "Flamethrower": "02",
+            "Fire Blast": "15",
+            "Leech Life": "18",
+            "Substitute": "20",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Crunch": "32",
+            "Heat Wave": "36",
+            "Overheat": "43",
+            "Flare Blitz": "55",
+            "X-Scissor": "60",
+            "Bug Buzz": "61",
+            "Power Whip": "72",
+            "Scald": "84",
+            "Heat Crash": "88"
+        },
+        "tm": {
+            "Hyper Beam": "08",
+            "Giga Impact": "09",
+            "Solar Beam": "11",
+            "Fire Spin": "13",
+            "Rest": "21",
+            "Snore": "24",
+            "Protect": "25",
+            "Attract": "31",
+            "Sunny Day": "34",
+            "Will-O-Wisp": "38",
+            "Facade": "39",
+            "Thunder Fang": "66",
+            "Fire Fang": "68",
+            "Venoshock": "74",
+            "Round": "76",
+            "Mystical Fire": "92",
+            "Brutal Swing": "97"
+        }
+    },
+    "entries": {
+        "Centiskorch": [
+            "When it heats up, its body temperature reaches about 1,500 degrees Fahrenheit. It lashes its body like a whip and launches itself at enemies.",
+            "While its burning body is already dangerous on its own, this excessively hostile Pok\u00e9mon also has large and very sharp fangs."
+        ],
+        "Gigantamax": [
+            "Gigantamax energy has evoked a rise in its body temperature, now reaching over 1,800 degrees Fahrenheit. Its heat waves incinerate its enemies.",
+            "The heat that comes off a Gigantamax Centiskorch may destabilize air currents. Sometimes it can even cause storms."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793235577155635/851.png",
+    "discord_sprite": "<:P851:1132150244260462713>"
+}

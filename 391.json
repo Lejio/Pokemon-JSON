@@ -1,0 +1,229 @@
+{
+    "alt-version(s)": [],
+    "name": "Monferno",
+    "Monferno": {
+        "pokedex_data": {
+            "National No.": "0391",
+            "Type": [
+                "Fire",
+                "Fighting"
+            ],
+            "Species": "Playful Poke\u0301mon",
+            "Height": "0.9 m (2\u203211\u2032\u2032)",
+            "Weight": "22.0 kg (48.5 lbs)",
+            "Abilities": {
+                "Blaze": {
+                    "href": "/ability/blaze",
+                    "effect": "Powers up Fire-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Iron Fist": {
+                    "href": "/ability/iron-fist",
+                    "effect": "Boosts the power of punching moves.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Sp. Atk, 1 Speed",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "142",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "64",
+                "Min": "238",
+                "Max": "332"
+            },
+            "Attack": {
+                "Base": "78",
+                "Min": "144",
+                "Max": "280"
+            },
+            "Defense": {
+                "Base": "52",
+                "Min": "98",
+                "Max": "223"
+            },
+            "Sp. Atk": {
+                "Base": "78",
+                "Min": "144",
+                "Max": "280"
+            },
+            "Sp. Def": {
+                "Base": "52",
+                "Min": "98",
+                "Max": "223"
+            },
+            "Speed": {
+                "Base": "81",
+                "Min": "150",
+                "Max": "287"
+            },
+            "Total": "405"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Dark": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Chimchar",
+                    "nationalNo": "#0390",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Monferno",
+                    "nationalNo": "#0391",
+                    "type": [
+                        "Fire",
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 14)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Monferno",
+                    "nationalNo": "#0391",
+                    "type": [
+                        "Fire",
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Infernape",
+                    "nationalNo": "#0392",
+                    "type": [
+                        "Fire",
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 36)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Ember": "7",
+            "Facade": "1",
+            "Flamethrower": "1",
+            "Leer": "1",
+            "Mach Punch": "1",
+            "Nasty Plot": "1",
+            "Scratch": "1",
+            "Taunt": "9",
+            "Power-Up Punch": "12",
+            "Fury Swipes": "16",
+            "Flame Wheel": "19",
+            "Feint": "26",
+            "Torment": "29",
+            "Close Combat": "36",
+            "Fire Spin": "39",
+            "Acrobatics": "46",
+            "Slack Off": "49",
+            "Flare Blitz": "56"
+        },
+        "evolution": {
+            "Mach Punch": "40"
+        },
+        "egg": {
+            "Blaze Kick": null,
+            "Counter": null,
+            "Double Kick": null,
+            "Encore": null,
+            "Fake Out": null,
+            "Fire Punch": null,
+            "Focus Energy": null,
+            "Heat Wave": null,
+            "Helping Hand": null,
+            "Power-Up Punch": null,
+            "Quick Guard": null,
+            "Submission": null,
+            "Thunder Punch": null
+        },
+        "tm": {
+            "Focus Punch": "01",
+            "Bulk Up": "08",
+            "Work Up": "10",
+            "Sunny Day": "11",
+            "Taunt": "12",
+            "Protect": "17",
+            "Iron Tail": "23",
+            "Low Sweep": "27",
+            "Dig": "28",
+            "Brick Break": "31",
+            "Double Team": "32",
+            "Flamethrower": "35",
+            "Fire Blast": "38",
+            "Rock Tomb": "39",
+            "Aerial Ace": "40",
+            "Torment": "41",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Overheat": "50",
+            "Focus Blast": "52",
+            "Fling": "56",
+            "Endure": "58",
+            "Will-O-Wisp": "61",
+            "Nasty Plot": "63",
+            "Shadow Claw": "65",
+            "Swords Dance": "75",
+            "Stealth Rock": "76",
+            "Rock Slide": "80",
+            "Sleep Talk": "82",
+            "Poison Jab": "84",
+            "Grass Knot": "86",
+            "Swagger": "87",
+            "U-turn": "89",
+            "Substitute": "90",
+            "Cut": "93",
+            "Strength": "96",
+            "Rock Smash": "98",
+            "Rock Climb": "100"
+        }
+    },
+    "entries": {
+        "Monferno": [
+            "To intimidate attackers, it stretches the fire on its tail to make itself appear bigger.",
+            "It uses ceilings and walls to launch aerial attacks. Its fiery tail is but one weapon.",
+            "It skillfully controls the intensity of the fire on its tail to keep its foes at an ideal distance.",
+            "A bigger fire on its tail and a brighter blue pattern on its face means its rank in its pack is higher.",
+            "It skillfully controls the intensity of the fire on its tail to keep its foes at an ideal distance.",
+            "It skillfully controls the intensity of the fire on its tail to keep its foes at an ideal distance.",
+            "It uses ceilings and walls to launch aerial attacks. Its fiery tail is but one weapon.",
+            "To intimidate attackers, it expands the fire on its tail to make itself appear bigger.",
+            "It uses ceilings and walls to launch aerial attacks. Its fiery tail is but one of its weapons.",
+            "The deeper the blue on its face, the more powerful it will grow to become. It leaps about every which way and lands powerful blows against its opponents with the flame on its tail."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789654195195994/391.png",
+    "discord_sprite": "<:P391:1132129937244028928>"
+}

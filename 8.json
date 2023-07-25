@@ -1,0 +1,214 @@
+{
+    "alt-version(s)": [],
+    "name": "Wartortle",
+    "Wartortle": {
+        "pokedex_data": {
+            "National No.": "0008",
+            "Type": [
+                "Water"
+            ],
+            "Species": "Turtle Poke\u0301mon",
+            "Height": "1.0 m (3\u203203\u2032\u2032)",
+            "Weight": "22.5 kg (49.6 lbs)",
+            "Abilities": {
+                "Torrent": {
+                    "href": "/ability/torrent",
+                    "effect": "Powers up Water-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Rain Dish": {
+                    "href": "/ability/rain-dish",
+                    "effect": "The Pok\u00e9mon gradually regains HP in rain.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Defense, 1 Sp. Def",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "142",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "59",
+                "Min": "228",
+                "Max": "322"
+            },
+            "Attack": {
+                "Base": "63",
+                "Min": "117",
+                "Max": "247"
+            },
+            "Defense": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Sp. Atk": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Def": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Speed": {
+                "Base": "58",
+                "Min": "108",
+                "Max": "236"
+            },
+            "Total": "405"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Squirtle",
+                    "nationalNo": "#0007",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Wartortle",
+                    "nationalNo": "#0008",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 16)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Wartortle",
+                    "nationalNo": "#0008",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Blastoise",
+                    "nationalNo": "#0009",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 36)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Tackle": "1",
+            "Tail Whip": "1",
+            "Water Gun": "1",
+            "Withdraw": "1",
+            "Rapid Spin": "9",
+            "Bite": "12",
+            "Water Pulse": "15",
+            "Protect": "20",
+            "Rain Dance": "25",
+            "Aqua Tail": "30",
+            "Shell Smash": "35",
+            "Iron Defense": "40",
+            "Hydro Pump": "45",
+            "Skull Bash": "50"
+        },
+        "egg": {
+            "Aqua Jet": null,
+            "Aqua Ring": null,
+            "Aura Sphere": null,
+            "Fake Out": null,
+            "Flail": null,
+            "Haze": null,
+            "Life Dew": null,
+            "Mirror Coat": null,
+            "Mist": null,
+            "Muddy Water": null,
+            "Water Spout": null,
+            "Yawn": null
+        },
+        "tm": {
+            "Focus Punch": "01",
+            "Water Pulse": "03",
+            "Hail": "07",
+            "Work Up": "10",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Iron Tail": "23",
+            "Dig": "28",
+            "Brick Break": "31",
+            "Double Team": "32",
+            "Rock Tomb": "39",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Scald": "49",
+            "False Swipe": "54",
+            "Brine": "55",
+            "Fling": "56",
+            "Endure": "58",
+            "Dragon Pulse": "59",
+            "Gyro Ball": "74",
+            "Sleep Talk": "82",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Surf": "95",
+            "Strength": "96",
+            "Rock Smash": "98",
+            "Waterfall": "99"
+        }
+    },
+    "entries": {
+        "Wartortle": [
+            "Often hides in water to stalk unwary prey. For swimming fast, it moves its ears to maintain balance.",
+            "When tapped, this pok\u00e9mon will pull in its head, but its tail will still stick out a little bit.",
+            "It is recognized as a symbol of longevity. If its shell has algae on it, that WARTORTLE is very old.",
+            "It cleverly controls its furry ears and tail to maintain its balance while swimming.",
+            "Its long, furry tail is a symbol of longevity, making it quite popular among older people.",
+            "Its tail is large and covered with a rich, thick fur. The tail becomes increasingly deeper in color as WARTORTLE ages. The scratches on its shell are evidence of this pok\u00e9mon\u2019s toughness as a battler.",
+            "This pok\u00e9mon is very popular as a pet. Its fur-covered tail is a symbol of its longevity.",
+            "It often hides in water to stalk unwary prey. For fast swimming, it moves its ears to maintain balance.",
+            "Its large tail is covered with rich, thick fur that deepens in color with age. The scratches on its shell are evidence of this pok\u00e9mon\u2019s toughness in battle.",
+            "It is said to live 10,000 years. Its furry tail is popular as a symbol of longevity.",
+            "It is a well-established symbol of longevity. If its shell has algae on it, that WARTORTLE is very old.",
+            "It cleverly controls its furry ears and tail to maintain its balance while swimming.",
+            "It is said to live 10,000 years. Its furry tail is popular as a symbol of longevity.",
+            "When tapped, this Pok\u00e9mon will pull in its head, but its tail will still stick out a little bit.",
+            "It is said to live 10,000 years. Its furry tail is popular as a symbol of longevity.",
+            "Its tail is large and covered with a rich, thick fur. The tail becomes increasingly deeper in color as Wartortle ages. The scratches on its shell are evidence of this Pok\u00e9mon\u2019s toughness as a battler.",
+            "When tapped on its head, this Pok\u00e9mon will pull it in, but its tail will stick out a little bit.",
+            "It is recognized as a symbol of longevity. If its shell has algae on it, that Wartortle is very old.",
+            "It cleverly controls its furry ears and tail to maintain its balance while swimming.",
+            "It is said to live 10,000 years. Its furry tail is popular as a symbol of longevity."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131786650842824745/8.png",
+    "discord_sprite": "<:P8:1131972244608917576>"
+}

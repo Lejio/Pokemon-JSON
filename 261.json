@@ -1,0 +1,184 @@
+{
+    "alt-version(s)": [],
+    "name": "Poochyena",
+    "Poochyena": {
+        "pokedex_data": {
+            "National No.": "0261",
+            "Type": [
+                "Dark"
+            ],
+            "Species": "Bite Poke\u0301mon",
+            "Height": "0.5 m (1\u203208\u2032\u2032)",
+            "Weight": "13.6 kg (30.0 lbs)",
+            "Abilities": {
+                "Run Away": {
+                    "href": "/ability/run-away",
+                    "effect": "Enables a sure getaway from wild Pok\u00e9mon.",
+                    "hidden": false
+                },
+                "Quick Feet": {
+                    "href": "/ability/quick-feet",
+                    "effect": "Boosts Speed if there is a status problem.",
+                    "hidden": false
+                },
+                "Rattled": {
+                    "href": "/ability/rattled",
+                    "effect": "Bug, Ghost or Dark type moves scare it and boost its Speed.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack",
+            "Catch rate": "255",
+            "BaseFriendship": "50",
+            "Base Exp.": "56",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "35",
+                "Min": "180",
+                "Max": "274"
+            },
+            "Attack": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Defense": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Sp. Atk": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Sp. Def": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Speed": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Total": "220"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "super-effective",
+                "Psychic": "no effect",
+                "Bug": "super-effective",
+                "Ghost": "not very effective",
+                "Dark": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Poochyena",
+                    "nationalNo": "#0261",
+                    "type": [
+                        "Dark"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Mightyena",
+                    "nationalNo": "#0262",
+                    "type": [
+                        "Dark"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 18)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Tackle": "1",
+            "Howl": "4",
+            "Sand Attack": "7",
+            "Bite": "10",
+            "Mud-Slap": "13",
+            "Roar": "16",
+            "Swagger": "19",
+            "Assurance": "22",
+            "Scary Face": "25",
+            "Headbutt": "28",
+            "Taunt": "31",
+            "Crunch": "34",
+            "Yawn": "37",
+            "Take Down": "40",
+            "Sucker Punch": "43",
+            "Play Rough": "46"
+        },
+        "egg": {
+            "Astonish": null,
+            "Covet": null,
+            "Fire Fang": null,
+            "Ice Fang": null,
+            "Leer": null,
+            "Play Rough": null,
+            "Poison Fang": null,
+            "Sucker Punch": null,
+            "Thunder Fang": null,
+            "Yawn": null
+        },
+        "tm": {
+            "Roar": "05",
+            "Sunny Day": "11",
+            "Taunt": "12",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Iron Tail": "23",
+            "Dig": "28",
+            "Shadow Ball": "30",
+            "Double Team": "32",
+            "Torment": "41",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Endure": "58",
+            "Nasty Plot": "63",
+            "Payback": "66",
+            "Snarl": "78",
+            "Dark Pulse": "79",
+            "Sleep Talk": "82",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Rock Smash": "98"
+        }
+    },
+    "entries": {
+        "Poochyena": [
+            "At first sight, POOCHYENA takes a bite at anything that moves. This pok\u00e9mon chases after prey until the victim becomes exhausted. However, it may turn tail if the prey strikes back.",
+            "POOCHYENA is an omnivore - it will eat anything. A distinguishing feature is how large its fangs are compared to its body. This pok\u00e9mon tries to intimidate its foes by making the hair on its tail bristle out.",
+            "It has a very tenacious nature. Its acute sense of smell lets it chase a chosen prey without ever losing track.",
+            "It savagely threatens foes with bared fangs. It chases after fleeing targets tenaciously. It turns tail and runs, however, if the foe strikes back.",
+            "A Pok\u00e9mon with a persistent nature, it chases its chosen prey until the prey becomes exhausted.",
+            "It chases its prey until the victim becomes exhausted. However, it turns tail if the prey strikes back.",
+            "A Pok\u00e9mon with a persistent nature, it chases its chosen prey until the prey becomes exhausted.",
+            "A Pok\u00e9mon with a persistent nature, it chases its chosen prey until the prey becomes exhausted.",
+            "It has a very tenacious nature. Its acute sense of smell lets it chase a chosen prey without ever losing track.",
+            "At first sight, Poochyena takes a bite at anything that moves. This Pok\u00e9mon chases after prey until the victim becomes exhausted. However, it may turn tail if the prey strikes back.",
+            "Poochyena is an omnivore\u2014it will eat anything. A distinguishing feature is how large its fangs are compared to its body. This Pok\u00e9mon tries to intimidate its foes by making the hair on its tail bristle out.",
+            "A Pok\u00e9mon with a persistent nature, it chases its chosen prey until the prey becomes exhausted."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788636799639635/261.png",
+    "discord_sprite": "<:P261:1132124231585509507>"
+}

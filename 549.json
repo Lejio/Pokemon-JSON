@@ -1,0 +1,337 @@
+{
+    "alt-version(s)": [
+        "Hisuian Lilligant"
+    ],
+    "name": "Lilligant",
+    "Lilligant": {
+        "pokedex_data": {
+            "National No.": "0549",
+            "Type": [
+                "Grass"
+            ],
+            "Species": "Flowering Poke\u0301mon",
+            "Height": "1.1 m (3\u203207\u2032\u2032)",
+            "Weight": "16.3 kg (35.9 lbs)",
+            "Abilities": {
+                "Chlorophyll": {
+                    "href": "/ability/chlorophyll",
+                    "effect": "Boosts the Pok\u00e9mon's Speed in sunshine.",
+                    "hidden": false
+                },
+                "Own Tempo": {
+                    "href": "/ability/own-tempo",
+                    "effect": "Prevents the Pok\u00e9mon from becoming confused.",
+                    "hidden": false
+                },
+                "Leaf Guard": {
+                    "href": "/ability/leaf-guard",
+                    "effect": "Prevents problems with status in sunny weather.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Sp. Atk",
+            "Catch rate": "75",
+            "BaseFriendship": "50",
+            "Base Exp.": "168",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "0% male,100% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "70",
+                "Min": "250",
+                "Max": "344"
+            },
+            "Attack": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Defense": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Sp. Atk": {
+                "Base": "110",
+                "Min": "202",
+                "Max": "350"
+            },
+            "Sp. Def": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Speed": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Total": "480"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Poison": "super-effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Bug": "super-effective"
+            }
+        }
+    },
+    "Hisuian Lilligant": {
+        "pokedex_data": {
+            "National No.": "0549",
+            "Type": [
+                "Grass",
+                "Fighting"
+            ],
+            "Species": "Spinning Poke\u0301mon",
+            "Height": "1.2 m (3\u203211\u2032\u2032)",
+            "Weight": "19.2 kg (42.3 lbs)",
+            "Abilities": {
+                "Chlorophyll": {
+                    "href": "/ability/chlorophyll",
+                    "effect": "Boosts the Pok\u00e9mon's Speed in sunshine.",
+                    "hidden": false
+                },
+                "Hustle": {
+                    "href": "/ability/hustle",
+                    "effect": "Boosts the Attack stat, but lowers accuracy.",
+                    "hidden": false
+                },
+                "Leaf Guard": {
+                    "href": "/ability/leaf-guard",
+                    "effect": "Prevents problems with status in sunny weather.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack, 1 Speed",
+            "Catch rate": "75",
+            "BaseFriendship": "50",
+            "Base Exp.": "168",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "0% male,100% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "70",
+                "Min": "250",
+                "Max": "344"
+            },
+            "Attack": {
+                "Base": "105",
+                "Min": "193",
+                "Max": "339"
+            },
+            "Defense": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Sp. Atk": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Def": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Speed": {
+                "Base": "105",
+                "Min": "193",
+                "Max": "339"
+            },
+            "Total": "480"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Poison": "super-effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Psychic": "super-effective",
+                "Rock": "not very effective",
+                "Dark": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Petilil",
+                    "nationalNo": "#0548",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Lilligant",
+                    "nationalNo": "#0549",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Sun Stone)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Petilil",
+                    "nationalNo": "#0548",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Lilligant",
+                    "nationalNo": "#0549",
+                    "type": [
+                        "Grass",
+                        "Fighting"
+                    ],
+                    "nickname": "Hisuian Lilligant"
+                },
+                "requirement": "(use Sun Stone, in Legends: Arceus)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Healing Wish": "\u2014",
+            "Ingrain": "\u2014",
+            "Sweet Scent": "\u2014",
+            "Worry Seed": "\u2014"
+        },
+        "evolution": {
+            "Healing Wish": "\u2014",
+            "Ingrain": "\u2014",
+            "Sweet Scent": "\u2014",
+            "Worry Seed": "\u2014"
+        },
+        "egg": {
+            "Healing Wish": null,
+            "Ingrain": null,
+            "Sweet Scent": null,
+            "Worry Seed": null
+        },
+        "Lilligant": {
+            "tm": {
+                "Charm": "02",
+                "Protect": "07",
+                "Trailblaze": "20",
+                "Facade": "25",
+                "Magical Leaf": "33",
+                "Endure": "47",
+                "Sunny Day": "49",
+                "Bullet Seed": "56",
+                "Sleep Talk": "70",
+                "Seed Bomb": "71",
+                "Light Screen": "75",
+                "Grass Knot": "81",
+                "Rest": "85",
+                "Swords Dance": "88",
+                "Substitute": "103",
+                "Giga Drain": "111",
+                "Energy Ball": "119",
+                "Encore": "122",
+                "Helping Hand": "130",
+                "Pollen Puff": "131",
+                "Grassy Terrain": "137",
+                "Giga Impact": "152",
+                "Leaf Storm": "159",
+                "Hyper Beam": "163",
+                "Solar Beam": "168",
+                "Tera Blast": "171"
+            }
+        },
+        "Hisuian Lilligant": {
+            "tm": {
+                "Take Down": "01",
+                "Charm": "02",
+                "Protect": "07",
+                "Low Kick": "12",
+                "Acrobatics": "14",
+                "Trailblaze": "20",
+                "Facade": "25",
+                "Aerial Ace": "27",
+                "Magical Leaf": "33",
+                "Low Sweep": "39",
+                "Endure": "47",
+                "Sunny Day": "49",
+                "Rain Dance": "50",
+                "Bullet Seed": "56",
+                "Brick Break": "58",
+                "Air Slash": "65",
+                "Sleep Talk": "70",
+                "Seed Bomb": "71",
+                "Metronome": "80",
+                "Grass Knot": "81",
+                "Poison Jab": "83",
+                "Rest": "85",
+                "Swords Dance": "88",
+                "Substitute": "103",
+                "Giga Drain": "111",
+                "Energy Ball": "119",
+                "Encore": "122",
+                "Ice Spinner": "124",
+                "Helping Hand": "130",
+                "Pollen Puff": "131",
+                "Grassy Terrain": "137",
+                "Giga Impact": "152",
+                "Leaf Storm": "159",
+                "Hurricane": "160",
+                "Hyper Beam": "163",
+                "Close Combat": "167",
+                "Solar Beam": "168",
+                "Tera Blast": "171"
+            }
+        }
+    },
+    "entries": {
+        "Lilligant": [
+            "Even veteran Trainers face a challenge in getting its beautiful flower to bloom. This Pok\u00e9mon is popular with celebrities.",
+            "The fragrance of the garland on its head has a relaxing effect. It withers if a Trainer does not take good care of it.",
+            "The fragrance of the garland on its head has a relaxing effect, but taking care of it is very difficult.",
+            "The fragrance of the garland on its head has a relaxing effect. It withers if a Trainer does not take good care of it.",
+            "Even veteran Trainers face a challenge in getting its beautiful flower to bloom. This Pok\u00e9mon is popular with celebrities.",
+            "No matter how much time and money is spent raising it, its flowers are the most beautiful when they bloom in the wild.",
+            "As soon as it finds a male to be its partner, the beautiful flower on its head darkens, droops, and withers away.",
+            "The fragrance of its flower differs slightly depending on the soil where it grew up. Sniffing the aroma calms your heart and mind.",
+            "It\u2019s well liked by other Pok\u00e9mon because of its beauty. The flower on its head needs constant care, or it will soon wither and rot.",
+            "It\u2019s believed that even first-rate gardeners have a hard time getting the flower on a Lilligant\u2019s head to bloom.",
+            "Essential oils made from Lilligant flowers have a sublime scent, but they\u2019re also staggeringly expensive.",
+            "The fragrance of the garland on its head has a relaxing effect, but taking care of it is very difficult.",
+            "No matter how much time and money is spent raising it, its flowers are the most beautiful when they bloom in the wild."
+        ],
+        "Hisuian Lilligant": [
+            "I suspect that its well-developed legs are the result of a life spent on mountains covered in deep snow. The scent it exudes from its flower crown heartens those in proximity."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790879682727997/549.png",
+    "discord_sprite": "<:P549:1132136895082672128>"
+}

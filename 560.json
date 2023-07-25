@@ -1,0 +1,216 @@
+{
+    "alt-version(s)": [],
+    "name": "Scrafty",
+    "Scrafty": {
+        "pokedex_data": {
+            "National No.": "0560",
+            "Type": [
+                "Dark",
+                "Fighting"
+            ],
+            "Species": "Hoodlum Poke\u0301mon",
+            "Height": "1.1 m (3\u203207\u2032\u2032)",
+            "Weight": "30.0 kg (66.1 lbs)",
+            "Abilities": {
+                "Shed Skin": {
+                    "href": "/ability/shed-skin",
+                    "effect": "The Pok\u00e9mon may heal its own status problems.",
+                    "hidden": false
+                },
+                "Moxie": {
+                    "href": "/ability/moxie",
+                    "effect": "Boosts Attack after knocking out any Pok\u00e9mon.",
+                    "hidden": false
+                },
+                "Intimidate": {
+                    "href": "/ability/intimidate",
+                    "effect": "Lowers the foe's Attack stat.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Defense, 1 Sp. Def",
+            "Catch rate": "90",
+            "BaseFriendship": "50",
+            "Base Exp.": "171",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "65",
+                "Min": "240",
+                "Max": "334"
+            },
+            "Attack": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Defense": {
+                "Base": "115",
+                "Min": "211",
+                "Max": "361"
+            },
+            "Sp. Atk": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Sp. Def": {
+                "Base": "115",
+                "Min": "211",
+                "Max": "361"
+            },
+            "Speed": {
+                "Base": "58",
+                "Min": "108",
+                "Max": "236"
+            },
+            "Total": "488"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "super-effective",
+                "Flying": "super-effective",
+                "Psychic": "no effect",
+                "Rock": "not very effective",
+                "Ghost": "not very effective",
+                "Dark": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Scraggy",
+                    "nationalNo": "#0559",
+                    "type": [
+                        "Dark",
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Scrafty",
+                    "nationalNo": "#0560",
+                    "type": [
+                        "Dark",
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 39)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Headbutt": "1",
+            "Leer": "1",
+            "Low Kick": "1",
+            "Payback": "1",
+            "Sand Attack": "12",
+            "Facade": "16",
+            "Protect": "20",
+            "Beat Up": "24",
+            "Scary Face": "28",
+            "Brick Break": "32",
+            "Swagger": "36",
+            "Crunch": "42",
+            "High Jump Kick": "48",
+            "Focus Punch": "54",
+            "Head Smash": "60"
+        },
+        "egg": {
+            "Acid Spray": null,
+            "Counter": null,
+            "Detect": null,
+            "Fake Out": null,
+            "Power-Up Punch": null,
+            "Quick Guard": null
+        },
+        "null": {
+            "Low Kick": "07",
+            "Amnesia": "17",
+            "Substitute": "20",
+            "Sludge Bomb": "22",
+            "Outrage": "24",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Iron Tail": "31",
+            "Crunch": "32",
+            "Taunt": "37",
+            "Iron Defense": "46",
+            "Dragon Claw": "47",
+            "Bulk Up": "48",
+            "Dragon Dance": "51",
+            "Close Combat": "53",
+            "Poison Jab": "57",
+            "Dark Pulse": "58",
+            "Dragon Pulse": "62",
+            "Focus Blast": "64",
+            "Zen Headbutt": "69",
+            "Iron Head": "74",
+            "Stone Edge": "75",
+            "Grass Knot": "77",
+            "Foul Play": "81",
+            "Work Up": "85",
+            "Throat Chop": "95"
+        },
+        "tm": {
+            "Mega Punch": "00",
+            "Mega Kick": "01",
+            "Fire Punch": "03",
+            "Ice Punch": "04",
+            "Thunder Punch": "05",
+            "Hyper Beam": "08",
+            "Giga Impact": "09",
+            "Dig": "15",
+            "Rest": "21",
+            "Rock Slide": "22",
+            "Thief": "23",
+            "Snore": "24",
+            "Protect": "25",
+            "Scary Face": "26",
+            "Attract": "31",
+            "Rain Dance": "33",
+            "Sunny Day": "34",
+            "Beat Up": "37",
+            "Facade": "39",
+            "Revenge": "42",
+            "Brick Break": "43",
+            "Fake Tears": "47",
+            "Rock Tomb": "48",
+            "Payback": "57",
+            "Assurance": "58",
+            "Fling": "59",
+            "Drain Punch": "63",
+            "Low Sweep": "75",
+            "Round": "76",
+            "Retaliate": "79",
+            "Snarl": "85"
+        }
+    },
+    "entries": {
+        "Scrafty": [
+            "Groups of them beat up anything that enters their territory. Each can spit acidic liquid from its mouth.",
+            "It can smash concrete blocks with its kicking attacks. The one with the biggest crest is the group leader.",
+            "It pulls up its shed skin to protect itself while it kicks. The bigger the crest, the more respected it is.",
+            "It pulls up its shed skin to protect itself while it kicks. The bigger the crest, the more respected it is.",
+            "It can smash concrete blocks with its kicking attacks. The one with the biggest crest is the group leader.",
+            "This Pok\u00e9mon may be rude, but it takes very good care of its family, its friends, and its turf.",
+            "It taunts its opponents by spitting. It has a certain territory that it never leaves its whole life long.",
+            "As halfhearted as this Pok\u00e9mon\u2019s kicks may seem, they pack enough power to shatter Conkeldurr\u2019s concrete pillars.",
+            "While mostly known for having the temperament of an aggressive ruffian, this Pok\u00e9mon takes very good care of its family, friends, and territory."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790965938589776/560.png",
+    "discord_sprite": "<:P560:1132137377717031085>"
+}

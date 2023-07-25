@@ -1,0 +1,183 @@
+{
+    "alt-version(s)": [],
+    "name": "Sirfetch'd",
+    "Sirfetch'd": {
+        "pokedex_data": {
+            "National No.": "0865",
+            "Type": [
+                "Fighting"
+            ],
+            "Species": "Wild Duck Poke\u0301mon",
+            "Height": "0.8 m (2\u203207\u2032\u2032)",
+            "Weight": "117.0 kg (257.9 lbs)",
+            "Abilities": {
+                "Steadfast": {
+                    "href": "/ability/steadfast",
+                    "effect": "Raises Speed each time the Pok\u00e9mon flinches.",
+                    "hidden": false
+                },
+                "Scrappy": {
+                    "href": "/ability/scrappy",
+                    "effect": "Enables moves to hit Ghost-type Pok\u00e9mon.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "177",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "62",
+                "Min": "234",
+                "Max": "328"
+            },
+            "Attack": {
+                "Base": "135",
+                "Min": "247",
+                "Max": "405"
+            },
+            "Defense": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Sp. Atk": {
+                "Base": "68",
+                "Min": "126",
+                "Max": "258"
+            },
+            "Sp. Def": {
+                "Base": "82",
+                "Min": "152",
+                "Max": "289"
+            },
+            "Speed": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Total": "507"
+        },
+        "defense_stats": {
+            "default": {
+                "Flying": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Dark": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Farfetch'd",
+                    "nationalNo": "#0083",
+                    "type": [
+                        "Fighting"
+                    ],
+                    "nickname": "Galarian Farfetch'd"
+                },
+                "to": {
+                    "name": "Sirfetch'd",
+                    "nationalNo": "#0865",
+                    "type": [
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(achieve 3 critical hits in one battle)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "First Impression": "1",
+            "Fury Cutter": "1",
+            "Iron Defense": "1",
+            "Leer": "1",
+            "Peck": "1",
+            "Sand Attack": "1",
+            "Rock Smash": "15",
+            "Brutal Swing": "20",
+            "Detect": "25",
+            "Knock Off": "30",
+            "Defog": "35",
+            "Brick Break": "40",
+            "Swords Dance": "45",
+            "Slam": "50",
+            "Leaf Blade": "55",
+            "Final Gambit": "60",
+            "Brave Bird": "65",
+            "Meteor Assault": "70"
+        },
+        "evolution": {
+            "Iron Defense": "\u2014"
+        },
+        "egg": {
+            "Counter": null,
+            "Covet": null,
+            "Curse": null,
+            "Double-Edge": null,
+            "Feint": null,
+            "Flail": null,
+            "Night Slash": null,
+            "Quick Attack": null,
+            "Quick Guard": null,
+            "Simple Beam": null,
+            "Sky Attack": null
+        },
+        "null": {
+            "Swords Dance": "00",
+            "Body Slam": "01",
+            "Focus Energy": "13",
+            "Substitute": "20",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Superpower": "39",
+            "Iron Defense": "46",
+            "Leaf Blade": "50",
+            "Close Combat": "53",
+            "Poison Jab": "57",
+            "Brave Bird": "66",
+            "Work Up": "85",
+            "Throat Chop": "95"
+        },
+        "tm": {
+            "Solar Blade": "12",
+            "Rest": "21",
+            "Snore": "24",
+            "Protect": "25",
+            "Steel Wing": "30",
+            "Attract": "31",
+            "Sunny Day": "34",
+            "Facade": "39",
+            "Helping Hand": "41",
+            "Revenge": "42",
+            "Brick Break": "43",
+            "Assurance": "58",
+            "Round": "76",
+            "Retaliate": "79",
+            "Brutal Swing": "97"
+        }
+    },
+    "entries": {
+        "Sirfetch'd": [
+            "Only Farfetch\u2019d that have survived many battles can attain this evolution. When this Pok\u00e9mon\u2019s leek withers, it will retire from combat.",
+            "After deflecting attacks with its hard leaf shield, it strikes back with its sharp leek stalk. The leek stalk is both weapon and food."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793345115607050/865.png",
+    "discord_sprite": "<:P865:1132150864556077066>"
+}

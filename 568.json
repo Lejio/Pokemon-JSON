@@ -1,0 +1,186 @@
+{
+    "alt-version(s)": [],
+    "name": "Trubbish",
+    "Trubbish": {
+        "pokedex_data": {
+            "National No.": "0568",
+            "Type": [
+                "Poison"
+            ],
+            "Species": "Trash Bag Poke\u0301mon",
+            "Height": "0.6 m (2\u203200\u2032\u2032)",
+            "Weight": "31.0 kg (68.3 lbs)",
+            "Abilities": {
+                "Stench": {
+                    "href": "/ability/stench",
+                    "effect": "The stench may cause the target to flinch.",
+                    "hidden": false
+                },
+                "Sticky Hold": {
+                    "href": "/ability/sticky-hold",
+                    "effect": "Protects the Pok\u00e9mon from item theft.",
+                    "hidden": false
+                },
+                "Aftermath": {
+                    "href": "/ability/aftermath",
+                    "effect": "Damages the attacker landing the finishing hit.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Speed",
+            "Catch rate": "190",
+            "BaseFriendship": "50",
+            "Base Exp.": "66",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "50",
+                "Min": "210",
+                "Max": "304"
+            },
+            "Attack": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Defense": {
+                "Base": "62",
+                "Min": "116",
+                "Max": "245"
+            },
+            "Sp. Atk": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Def": {
+                "Base": "62",
+                "Min": "116",
+                "Max": "245"
+            },
+            "Speed": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Total": "329"
+        },
+        "defense_stats": {
+            "default": {
+                "Grass": "not very effective",
+                "Fighting": "not very effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Trubbish",
+                    "nationalNo": "#0568",
+                    "type": [
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Garbodor",
+                    "nationalNo": "#0569",
+                    "type": [
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 36)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Poison Gas": "1",
+            "Pound": "1",
+            "Recycle": "3",
+            "Acid Spray": "6",
+            "Amnesia": "9",
+            "Clear Smog": "12",
+            "Toxic Spikes": "15",
+            "Sludge": "18",
+            "Stockpile": "21",
+            "Swallow": "21",
+            "Take Down": "24",
+            "Sludge Bomb": "27",
+            "Toxic": "30",
+            "Belch": "33",
+            "Pain Split": "37",
+            "Gunk Shot": "39",
+            "Explosion": "42"
+        },
+        "egg": {
+            "Autotomize": null,
+            "Curse": null,
+            "Haze": null,
+            "Rollout": null,
+            "Sand Attack": null
+        },
+        "null": {
+            "Amnesia": "17",
+            "Substitute": "20",
+            "Sludge Bomb": "22",
+            "Spikes": "23",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Toxic Spikes": "54",
+            "Dark Pulse": "58",
+            "Seed Bomb": "59",
+            "Gunk Shot": "73",
+            "Sludge Wave": "78",
+            "Venom Drench": "91"
+        },
+        "tm": {
+            "Self-Destruct": "20",
+            "Rest": "21",
+            "Thief": "23",
+            "Snore": "24",
+            "Protect": "25",
+            "Giga Drain": "28",
+            "Attract": "31",
+            "Rain Dance": "33",
+            "Sunny Day": "34",
+            "Facade": "39",
+            "Rock Blast": "54",
+            "Payback": "57",
+            "Drain Punch": "63",
+            "Venoshock": "74",
+            "Round": "76"
+        }
+    },
+    "entries": {
+        "Trubbish": [
+            "Inhaling the gas they belch will make you sleep for a week. They prefer unsanitary places.",
+            "The combination of garbage bags and industrial waste caused the chemical reaction that created this Pok\u00e9mon.",
+            "Wanting more garbage, they follow people who litter. They always belch poison gas.",
+            "The combination of garbage bags and industrial waste caused the chemical reaction that created this Pok\u00e9mon.",
+            "Inhaling the gas they belch will make you sleep for a week. They prefer unsanitary places.",
+            "Unsanitary places are what they like best. They can be spotted in Alola, often with Grimer in hot pursuit.",
+            "It gorges on trash until its stomach is full. Then it belches toxic gas. An unlucky whiff of gas will put a person in the hospital.",
+            "Poisonous gas leaks out of it when it breathes. Muk that catch a whiff of that stench will come drooling.",
+            "If a young Pok\u00e9mon or child breathes in the toxic gas that Trubbish belches out, it could be a life-threatening situation.",
+            "Its favorite places are unsanitary ones. If you leave trash lying around, you could even find one of these Pok\u00e9mon living in your room.",
+            "This Pok\u00e9mon was born from a bag stuffed with trash. Galarian Weezing relish the fumes belched by Trubbish."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791028777668748/568.png",
+    "discord_sprite": "<:P568:1132137735864451092>"
+}

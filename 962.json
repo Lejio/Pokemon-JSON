@@ -1,0 +1,165 @@
+{
+    "alt-version(s)": [],
+    "name": "Bombirdier",
+    "Bombirdier": {
+        "pokedex_data": {
+            "National No.": "0962",
+            "Type": [
+                "Flying",
+                "Dark"
+            ],
+            "Species": "Item Drop Poke\u0301mon",
+            "Height": "1.5 m (4\u203211\u2032\u2032)",
+            "Weight": "42.9 kg (94.6 lbs)",
+            "Abilities": {
+                "Big Pecks": {
+                    "href": "/ability/big-pecks",
+                    "effect": "Protects the Pok\u00e9mon from Defense-lowering attacks.",
+                    "hidden": false
+                },
+                "Keen Eye": {
+                    "href": "/ability/keen-eye",
+                    "effect": "Prevents other Pok\u00e9mon from lowering accuracy.",
+                    "hidden": false
+                },
+                "Rocky Payload": {
+                    "href": "/ability/rocky-payload",
+                    "effect": "Powers up Rock-type moves.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "25",
+            "BaseFriendship": "50",
+            "Base Exp.": "243",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "70",
+                "Min": "250",
+                "Max": "344"
+            },
+            "Attack": {
+                "Base": "103",
+                "Min": "189",
+                "Max": "335"
+            },
+            "Defense": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Sp. Atk": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Def": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Speed": {
+                "Base": "82",
+                "Min": "152",
+                "Max": "289"
+            },
+            "Total": "485"
+        },
+        "defense_stats": {
+            "default": {
+                "Electric": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Ground": "no effect",
+                "Psychic": "no effect",
+                "Rock": "super-effective",
+                "Ghost": "not very effective",
+                "Dark": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Hone Claws": "1",
+            "Leer": "1",
+            "Memento": "1",
+            "Peck": "1",
+            "Wing Attack": "1",
+            "Thief": "7",
+            "Rock Throw": "11",
+            "Whirlwind": "16",
+            "Pluck": "20",
+            "Torment": "24",
+            "Rock Tomb": "29",
+            "Payback": "36",
+            "Dual Wingbeat": "42",
+            "Rock Slide": "47",
+            "Knock Off": "53",
+            "Parting Shot": "60"
+        },
+        "egg": {
+            "Feather Dance": null,
+            "Power Trip": null,
+            "Roost": null,
+            "Sky Attack": null,
+            "Sucker Punch": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Acrobatics": "14",
+            "Thief": "18",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Snarl": "30",
+            "Icy Wind": "34",
+            "Rock Tomb": "36",
+            "Air Cutter": "40",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Sandstorm": "51",
+            "U-turn": "60",
+            "Foul Play": "62",
+            "Air Slash": "65",
+            "Sleep Talk": "70",
+            "Rock Blast": "76",
+            "Rock Slide": "86",
+            "Taunt": "87",
+            "Dark Pulse": "94",
+            "Fly": "97",
+            "Power Gem": "101",
+            "Substitute": "103",
+            "Drill Run": "106",
+            "Tailwind": "113",
+            "Stealth Rock": "116",
+            "Hyper Voice": "117",
+            "Heat Wave": "118",
+            "Nasty Plot": "140",
+            "Stone Edge": "150",
+            "Giga Impact": "152",
+            "Hurricane": "160",
+            "Hyper Beam": "163",
+            "Brave Bird": "164",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Bombirdier": [
+            "It gathers things up in an apron made from shed feathers added to the Pok\u00e9mon\u2019s chest feathers, then drops those things from high places for fun.",
+            "Bombirdier uses the apron on its chest to bundle up food, which it carries back to its nest. It enjoys dropping things that make loud noises."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131794103101829200/962.png",
+    "discord_sprite": "<:P962:1132155122236002355>"
+}

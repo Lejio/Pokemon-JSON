@@ -1,0 +1,144 @@
+{
+    "alt-version(s)": [],
+    "name": "Tynamo",
+    "Tynamo": {
+        "pokedex_data": {
+            "National No.": "0602",
+            "Type": [
+                "Electric"
+            ],
+            "Species": "EleFish Poke\u0301mon",
+            "Height": "0.2 m (0\u203208\u2032\u2032)",
+            "Weight": "0.3 kg (0.7 lbs)",
+            "Abilities": {
+                "Levitate": {
+                    "href": "/ability/levitate",
+                    "effect": "Gives immunity to Ground type moves.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Speed",
+            "Catch rate": "190",
+            "BaseFriendship": "50",
+            "Base Exp.": "55",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "35",
+                "Min": "180",
+                "Max": "274"
+            },
+            "Attack": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Defense": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Atk": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Sp. Def": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Speed": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Total": "275"
+        },
+        "defense_stats": {
+            "default": {
+                "Electric": "not very effective",
+                "Ground": "no effect",
+                "Flying": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Tynamo",
+                    "nationalNo": "#0602",
+                    "type": [
+                        "Electric"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Eelektrik",
+                    "nationalNo": "#0603",
+                    "type": [
+                        "Electric"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 39)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Eelektrik",
+                    "nationalNo": "#0603",
+                    "type": [
+                        "Electric"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Eelektross",
+                    "nationalNo": "#0604",
+                    "type": [
+                        "Electric"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Thunder Stone)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Charge Beam": "1",
+            "Spark": "1",
+            "Tackle": "1",
+            "Thunder Wave": "1"
+        },
+        "egg": null,
+        "tm": {
+            "Charge Beam": "23",
+            "Thunder Wave": "82",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Tynamo": [
+            "While one alone doesn\u2019t have much power, a chain of many Tynamo can be as powerful as lightning.",
+            "These Pok\u00e9mon move in schools. They have an electricity-generating organ, so they discharge electricity if in danger.",
+            "One alone can emit only a trickle of electricity, so a group of them gathers to unleash a powerful electric shock.",
+            "While one alone doesn\u2019t have much power, a chain of many Tynamo can be as powerful as lightning.",
+            "One alone can emit only a trickle of electricity, so a group of them gathers to unleash a powerful electric shock.",
+            "While one alone doesn\u2019t have much power, a chain of many Tynamo can be as powerful as lightning.",
+            "These Pok\u00e9mon move in schools. They have an electricity-generating organ, so they discharge electricity if in danger."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791292335149136/602.png",
+    "discord_sprite": "<:P602:1132139228860530728>"
+}

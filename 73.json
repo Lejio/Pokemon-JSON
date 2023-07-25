@@ -1,0 +1,215 @@
+{
+    "alt-version(s)": [],
+    "name": "Tentacruel",
+    "Tentacruel": {
+        "pokedex_data": {
+            "National No.": "0073",
+            "Type": [
+                "Water",
+                "Poison"
+            ],
+            "Species": "Jellyfish Poke\u0301mon",
+            "Height": "1.6 m (5\u203203\u2032\u2032)",
+            "Weight": "55.0 kg (121.3 lbs)",
+            "Abilities": {
+                "Clear Body": {
+                    "href": "/ability/clear-body",
+                    "effect": "Prevents other Pok\u00e9mon from lowering its stats.",
+                    "hidden": false
+                },
+                "Liquid Ooze": {
+                    "href": "/ability/liquid-ooze",
+                    "effect": "Damages attackers using any draining move.",
+                    "hidden": false
+                },
+                "Rain Dish": {
+                    "href": "/ability/rain-dish",
+                    "effect": "The Pok\u00e9mon gradually regains HP in rain.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Sp. Def",
+            "Catch rate": "60",
+            "BaseFriendship": "50",
+            "Base Exp.": "180",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "80",
+                "Min": "270",
+                "Max": "364"
+            },
+            "Attack": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Defense": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Atk": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Sp. Def": {
+                "Base": "120",
+                "Min": "220",
+                "Max": "372"
+            },
+            "Speed": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Total": "515"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "not very effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Tentacool",
+                    "nationalNo": "#0072",
+                    "type": [
+                        "Water",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Tentacruel",
+                    "nationalNo": "#0073",
+                    "type": [
+                        "Water",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 30)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Acid": "1",
+            "Poison Sting": "1",
+            "Reflect Type": "1",
+            "Water Gun": "1",
+            "Wrap": "1",
+            "Supersonic": "12",
+            "Water Pulse": "16",
+            "Screech": "20",
+            "Bubble Beam": "24",
+            "Hex": "28",
+            "Acid Armor": "34",
+            "Poison Jab": "40",
+            "Surf": "46",
+            "Sludge Wave": "52",
+            "Hydro Pump": "58"
+        },
+        "egg": {
+            "Acupressure": null,
+            "Aqua Ring": null,
+            "Aurora Beam": null,
+            "Confuse Ray": null,
+            "Haze": null,
+            "Knock Off": null,
+            "Mirror Coat": null,
+            "Muddy Water": null,
+            "Rapid Spin": null,
+            "Tickle": null
+        },
+        "tm": {
+            "Water Pulse": "03",
+            "Hail": "07",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Giga Drain": "19",
+            "Safeguard": "20",
+            "Dazzling Gleam": "21",
+            "Double Team": "32",
+            "Sludge Bomb": "36",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Scald": "49",
+            "Brine": "55",
+            "Endure": "58",
+            "Payback": "66",
+            "Giga Impact": "68",
+            "Swords Dance": "75",
+            "Sleep Talk": "82",
+            "Poison Jab": "84",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Cut": "93",
+            "Surf": "95",
+            "Waterfall": "99"
+        }
+    },
+    "entries": {
+        "Tentacruel": [
+            "The tentacles are normally kept short. On hunts, they are extended to ensnare and immobilize prey.",
+            "Its 80 tentacles can stretch and contract freely. They wrap around prey and weaken it with poison.",
+            "Its 80 tentacles absorb water and stretch almost endlessly to CONSTRICT its prey and enemies.",
+            "In battle, it extends all 80 of its tentacles to entrap its opponent inside a poisonous net.",
+            "When its 80 feelers absorb water, it stretches to become like a net to entangle its prey.",
+            "TENTACRUEL has large red orbs on its head. The orbs glow before lashing the vicinity with a harsh ultrasonic blast. This pok\u00e9mon\u2019s outburst creates rough waves around it.",
+            "TENTACRUEL has tentacles that can be freely elongated and shortened at will. It ensnares prey with its tentacles and weakens the prey by dosing it with a harsh toxin. It can catch up to 80 prey at the same time.",
+            "It has 80 tentacles that move about freely. They can sting, causing poisoning and sharp, stabbing pain.",
+            "The tentacles are normally kept short. On hunts, they are extended to ensnare and immobilize prey.",
+            "It lives in complex rock formations on the ocean floor and traps prey using its 80 tentacles. Its red orbs glow when it grows excited or agitated.",
+            "With 80 tentacles for ensnaring victims, it prevents escape until the prey is weakened by poison.",
+            "It alerts others to danger by stridently flashing the red orbs on its head.",
+            "It extends its 80 tentacles to form an encircling poisonous net that is difficult to escape.",
+            "Its 80 tentacles absorb water and stretch almost endlessly to constrict its prey and enemies.",
+            "In battle, it extends all 80 of its tentacles to entrap its opponent inside a poisonous net.",
+            "It extends its 80 tentacles to form an encircling poisonous net that is difficult to escape.",
+            "The tentacles are normally kept short. On hunts, they are extended to ensnare and immobilize prey.",
+            "It has 80 tentacles that move about freely. They can sting, causing poisoning and sharp, stabbing pain.",
+            "Tentacruel has large red orbs on its head. The orbs glow before lashing the vicinity with a harsh ultrasonic blast. This Pok\u00e9mon\u2019s outburst creates rough waves around it.",
+            "Tentacruel has tentacles that can be freely elongated and shortened at will. It ensnares prey with its tentacles and weakens the prey by dosing it with a harsh toxin. It can catch up to 80 prey at the same time.",
+            "Normally, it has 80 poisonous tentacles. The longer one has been alive, the fewer tentacles it will have.",
+            "Although these Pok\u00e9mon are rare, when a large outbreak of them occurs, all fish Pok\u00e9mon disappear from the surrounding sea.",
+            "It fires off ultrasonic waves from its red orbs to weaken its prey, and then it wraps them up in its 80 tentacles.",
+            "It communicates with others of its kind by lighting up the red orbs on its head. When the orbs are blinking, it\u2019s a warning sign.",
+            "Its 80 tentacles can stretch and contract freely. They wrap around prey and weaken it with poison.",
+            "When the red orbs on Tentacruel\u2019s head glow brightly, watch out. The Pok\u00e9mon is about to fire off a burst of ultrasonic waves.",
+            "Its 80 tentacles can stretch and shrink freely. Tentacruel ensnares prey in a net of spread-out tentacles, delivering venomous stings to its catch.",
+            "With 80 tentacles for ensnaring victims, it prevents escape until the prey is weakened by poison.",
+            "It alerts others to danger by stridently flashing the red orbs on its head.",
+            "It has 80 tentacles, each with a venomous tip. These tentacles are also extendible, lengthening when Tentacruel attempts to catch prey. Use caution."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787160543035513/73.png",
+    "discord_sprite": "<:P73:1132115937001214063>"
+}

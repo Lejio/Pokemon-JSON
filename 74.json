@@ -1,0 +1,374 @@
+{
+    "alt-version(s)": [
+        "Alolan Geodude"
+    ],
+    "name": "Geodude",
+    "Geodude": {
+        "pokedex_data": {
+            "National No.": "0074",
+            "Type": [
+                "Rock",
+                "Ground"
+            ],
+            "Species": "Rock Poke\u0301mon",
+            "Height": "0.4 m (1\u203204\u2032\u2032)",
+            "Weight": "20.0 kg (44.1 lbs)",
+            "Abilities": {
+                "Rock Head": {
+                    "href": "/ability/rock-head",
+                    "effect": "Protects the Pok\u00e9mon from recoil damage.",
+                    "hidden": false
+                },
+                "Sturdy": {
+                    "href": "/ability/sturdy",
+                    "effect": "It cannot be knocked out with one hit.",
+                    "hidden": false
+                },
+                "Sand Veil": {
+                    "href": "/ability/sand-veil",
+                    "effect": "Boosts the Pok\u00e9mon's evasion in a sandstorm.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Defense",
+            "Catch rate": "255",
+            "BaseFriendship": "50",
+            "Base Exp.": "60",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "40",
+                "Min": "190",
+                "Max": "284"
+            },
+            "Attack": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Defense": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Sp. Atk": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Sp. Def": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Speed": {
+                "Base": "20",
+                "Min": "40",
+                "Max": "152"
+            },
+            "Total": "300"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Electric": "no effect",
+                "Grass": "super-effective",
+                "Ice": "super-effective",
+                "Fighting": "super-effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Rock": "not very effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "Alolan Geodude": {
+        "pokedex_data": {
+            "National No.": "0074",
+            "Type": [
+                "Rock",
+                "Electric"
+            ],
+            "Species": "Rock Poke\u0301mon",
+            "Height": "0.4 m (1\u203204\u2032\u2032)",
+            "Weight": "20.3 kg (44.8 lbs)",
+            "Abilities": {
+                "Magnet Pull": {
+                    "href": "/ability/magnet-pull",
+                    "effect": "Prevents Steel-type Pok\u00e9mon from escaping.",
+                    "hidden": false
+                },
+                "Sturdy": {
+                    "href": "/ability/sturdy",
+                    "effect": "It cannot be knocked out with one hit.",
+                    "hidden": false
+                },
+                "Galvanize": {
+                    "href": "/ability/galvanize",
+                    "effect": "Normal-type moves become Electric-type moves and their power boosted.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Defense",
+            "Catch rate": "255",
+            "BaseFriendship": "50",
+            "Base Exp.": "60",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "40",
+                "Min": "190",
+                "Max": "284"
+            },
+            "Attack": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Defense": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Sp. Atk": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Sp. Def": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Speed": {
+                "Base": "20",
+                "Min": "40",
+                "Max": "152"
+            },
+            "Total": "300"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Electric": "not very effective",
+                "Grass": "super-effective",
+                "Fighting": "super-effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Geodude",
+                    "nationalNo": "#0074",
+                    "type": [
+                        "Rock",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Graveler",
+                    "nationalNo": "#0075",
+                    "type": [
+                        "Rock",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 25)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Graveler",
+                    "nationalNo": "#0075",
+                    "type": [
+                        "Rock",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Golem",
+                    "nationalNo": "#0076",
+                    "type": [
+                        "Rock",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Trade)",
+                "shed": null
+            }
+        ],
+        [
+            {
+                "from": {
+                    "name": "Geodude",
+                    "nationalNo": "#0074",
+                    "type": [
+                        "Rock",
+                        "Electric"
+                    ],
+                    "nickname": "Alolan Geodude"
+                },
+                "to": {
+                    "name": "Graveler",
+                    "nationalNo": "#0075",
+                    "type": [
+                        "Rock",
+                        "Electric"
+                    ],
+                    "nickname": "Alolan Graveler"
+                },
+                "requirement": "(Level 25)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Graveler",
+                    "nationalNo": "#0075",
+                    "type": [
+                        "Rock",
+                        "Electric"
+                    ],
+                    "nickname": "Alolan Graveler"
+                },
+                "to": {
+                    "name": "Golem",
+                    "nationalNo": "#0076",
+                    "type": [
+                        "Rock",
+                        "Electric"
+                    ],
+                    "nickname": "Alolan Golem"
+                },
+                "requirement": "(Trade)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Defense Curl": "1",
+            "Tackle": "1",
+            "Sandstorm": "4",
+            "Rock Polish": "6",
+            "Rollout": "10",
+            "Harden": "12",
+            "Rock Throw": "16",
+            "Smack Down": "18",
+            "Bulldoze": "22",
+            "Self-Destruct": "24",
+            "Stealth Rock": "28",
+            "Rock Blast": "30",
+            "Earthquake": "34",
+            "Explosion": "36",
+            "Double-Edge": "40",
+            "Stone Edge": "42"
+        },
+        "egg": {
+            "Autotomize": null,
+            "Block": null,
+            "Curse": null,
+            "Flail": null,
+            "Hammer Arm": null,
+            "Mega Punch": null,
+            "Wide Guard": null
+        },
+        "tm": {
+            "Focus Punch": "01",
+            "Sunny Day": "11",
+            "Protect": "17",
+            "Earthquake": "26",
+            "Dig": "28",
+            "Brick Break": "31",
+            "Double Team": "32",
+            "Flamethrower": "35",
+            "Sandstorm": "37",
+            "Fire Blast": "38",
+            "Rock Tomb": "39",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Fling": "56",
+            "Endure": "58",
+            "Explosion": "64",
+            "Rock Polish": "69",
+            "Stone Edge": "71",
+            "Gyro Ball": "74",
+            "Stealth Rock": "76",
+            "Rock Slide": "80",
+            "Sleep Talk": "82",
+            "Bulldoze": "83",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Strength": "96",
+            "Rock Smash": "98",
+            "Rock Climb": "100"
+        }
+    },
+    "entries": {
+        "Geodude": [
+            "Found in fields and mountains. Mistaking them for boulders, people often step or trip on them.",
+            "Commonly found near mountain trails, etc. If you step on one by accident, it gets angry.",
+            "Most people may not notice, but a closer look should reveal that there are many GEODUDE around.",
+            "It uses its arms to steadily climb steep mountain paths. It swings its fists around if angered.",
+            "Proud of their sturdy bodies, they bash against each other in a contest to prove whose is harder.",
+            "The longer a GEODUDE lives, the more its edges are chipped and worn away, making it more rounded in appearance. However, this pok\u00e9mon\u2019s heart will remain hard, craggy, and rough always.",
+            "When GEODUDE sleeps deeply, it buries itself halfway into the ground. It will not awaken even if hikers step on it unwittingly. In the morning, this pok\u00e9mon rolls downhill in search of food.",
+            "Its round form makes it easy to pick up. Some people have used them to hurl at each other in a snowball fight.",
+            "Found in fields and mountains. Mistaking them for boulders, people often step or trip on them.",
+            "It climbs mountain paths using only the power of its arms. Because they look just like boulders lining paths, hikers may step on them without noticing.",
+            "Many live on mountain trails and remain half buried while keeping an eye on climbers.",
+            "It is impossible to distinguish from rocks. It slams against others in contests of hardness.",
+            "At rest, it looks just like a rock. Carelessly stepping on it will make it swing its fists angrily.",
+            "Most people may not notice, but a closer look should reveal that there are many GEODUDE around.",
+            "It uses its arms to steadily climb steep mountain paths. It swings its fists around if angered.",
+            "At rest, it looks just like a rock. Carelessly stepping on it will make it swing its fists angrily.",
+            "Found in fields and mountains. Mistaking them for boulders, people often step or trip on them.",
+            "It is impossible to distinguish from rocks. It slams against others in contests of hardness.",
+            "The longer a Geodude lives, the more its edges are chipped and worn away, making it more rounded in appearance. However, this Pok\u00e9mon\u2019s heart will remain hard, craggy, and rough always.",
+            "When Geodude sleeps deeply, it buries itself halfway into the ground. It will not awaken even if hikers step on it unwittingly. In the morning, this Pok\u00e9mon rolls downhill in search of food.",
+            "Its round body makes it easy to pick up, but it is hard and heavy. It\u2019s dangerous to play with them as if they were snowballs.",
+            "There are plenty of them to be found along any road. A scholar with too much free time once counted a hundred of them along a single route.",
+            "Geodude that have lived a long life have had all their edges smoothed out until they\u2019re totally round. They also have a calm, quiet disposition.",
+            "It uses both hands to climb precipitous cliffs. People who see it in action have been known to take up bouldering.",
+            "Commonly found near mountain trails and the like. If you step on one by accident, it gets angry.",
+            "Many live on mountain trails and remain half-buried while keeping an eye on climbers.",
+            "It is impossible to distinguish from rocks. It slams against others in contests of toughness.",
+            "Makes its home in mountainous regions, using its arms to climb along harsh mountain roads. Can be troublesome\u2014carelessly kicking one will cause it to fly into a rage and chase after you."
+        ],
+        "Alolan Geodude": [
+            "Its body is a magnetic stone. Iron sand attaches firmly to the portions of its body that are particularly magnetic.",
+            "If you accidentally step on a Geodude sleeping on the ground, you\u2019ll hear a crunching sound and feel a shock ripple through your entire body.",
+            "If you mistake it for a rock and step on it, it will headbutt you in anger. In addition to the pain, it will also zap you with a shock.",
+            "Geodude compete against each other with headbutts. The iron sand on their heads will stick to whichever one has stronger magnetism.",
+            "Its stone head is imbued with electricity and magnetism. If you carelessly step on one, you\u2019ll be in for a painful shock."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787168298307604/74.png",
+    "discord_sprite": "<:P74:1132115980890427463>"
+}

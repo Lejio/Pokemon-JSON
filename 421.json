@@ -1,0 +1,186 @@
+{
+    "alt-version(s)": [],
+    "name": "Cherrim",
+    "Cherrim": {
+        "pokedex_data": {
+            "National No.": "0421",
+            "Type": [
+                "Grass"
+            ],
+            "Species": "Blossom Poke\u0301mon",
+            "Height": "0.5 m (1\u203208\u2032\u2032)",
+            "Weight": "9.3 kg (20.5 lbs)",
+            "Abilities": {
+                "Flower Gift": {
+                    "href": "/ability/flower-gift",
+                    "effect": "Powers up party Pok\u00e9mon when it is sunny.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Sp. Atk",
+            "Catch rate": "75",
+            "BaseFriendship": "50",
+            "Base Exp.": "158",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "70",
+                "Min": "250",
+                "Max": "344"
+            },
+            "Attack": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Defense": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Atk": {
+                "Base": "87",
+                "Min": "161",
+                "Max": "300"
+            },
+            "Sp. Def": {
+                "Base": "78",
+                "Min": "144",
+                "Max": "280"
+            },
+            "Speed": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Total": "450"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Poison": "super-effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Bug": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Cherubi",
+                    "nationalNo": "#0420",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Cherrim",
+                    "nationalNo": "#0421",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 25)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Flower Shield": "1",
+            "Growth": "1",
+            "Leafage": "1",
+            "Morning Sun": "1",
+            "Sunny Day": "1",
+            "Tackle": "1",
+            "Helping Hand": "15",
+            "Magical Leaf": "20",
+            "Leech Seed": "28",
+            "Take Down": "34",
+            "Petal Blizzard": "41",
+            "Worry Seed": "48",
+            "Solar Beam": "55",
+            "Petal Dance": "62"
+        },
+        "evolution": {
+            "Sunny Day": "\u2014"
+        },
+        "egg": {
+            "Aromatherapy": null,
+            "Defense Curl": null,
+            "Flower Shield": null,
+            "Grassy Terrain": null,
+            "Heal Pulse": null,
+            "Healing Wish": null,
+            "Nature Power": null,
+            "Razor Leaf": null,
+            "Rollout": null,
+            "Seed Bomb": null,
+            "Sweet Scent": null,
+            "Tickle": null,
+            "Weather Ball": null
+        },
+        "tm": {
+            "Bullet Seed": "09",
+            "Sunny Day": "11",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Giga Drain": "19",
+            "Safeguard": "20",
+            "Dazzling Gleam": "21",
+            "Solar Beam": "22",
+            "Double Team": "32",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Energy Ball": "53",
+            "Endure": "58",
+            "Giga Impact": "68",
+            "Flash": "70",
+            "Swords Dance": "75",
+            "Sleep Talk": "82",
+            "Grass Knot": "86",
+            "Swagger": "87",
+            "Substitute": "90"
+        }
+    },
+    "entries": {
+        "Cherrim": [
+            "It blooms during times of strong sunlight. It tries to make up for everything it endured as a bud.",
+            "It is docile as a bud, but turns cheerful when it blooms. It folds back into a bud if sunlight wanes.",
+            "If it senses strong sunlight, it opens its folded petals to absorb the sun\u2019s rays with its whole body.",
+            "During times of strong sunlight, its bud blooms, its petals open fully, and it becomes very active.",
+            "If it senses strong sunlight, it opens its folded petals to absorb the sun\u2019s rays with its whole body.",
+            "During times of strong sunlight, its bud blooms, its petals open fully, and it becomes very active.",
+            "If it senses strong sunlight, it opens its folded petals to absorb the sun\u2019s rays with its whole body.",
+            "It blooms during times of strong sunlight. The Pok\u00e9mon tries to make up for everything it endured as a bud.",
+            "It is docile as a bud and turns cheerful when it blooms. It folds back into a bud if sunlight wanes.",
+            "Motionless, save for the occasional quiver. A rich array of Pok\u00e9mon can be found gathered around it, drawn by the scent exuded from Cherrim\u2019s folded petals."
+        ],
+        "Overcast Form": [
+            "As a bud, it barely moves. It sits still, placidly waiting for sunlight to appear.",
+            "Its folded petals are pretty tough. Bird Pok\u00e9mon can peck at them all they want, and Cherrim won\u2019t be bothered at all."
+        ],
+        "Sunshine Form": [
+            "After absorbing plenty of sunlight, Cherrim takes this form. It\u2019s full of energy while it\u2019s like this, and its liveliness will go on until sundown.",
+            "The faint scent that emanates from its full blossom entices bug Pok\u00e9mon to it.",
+            "Cheerfully active on sunny days. Immediately closes its petals and becomes immobile once the sun becomes hidden, however."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789884357615626/421.png",
+    "discord_sprite": "<:P421:1132131257568985158>"
+}

@@ -1,0 +1,197 @@
+{
+    "alt-version(s)": [],
+    "name": "Delcatty",
+    "Delcatty": {
+        "pokedex_data": {
+            "National No.": "0301",
+            "Type": [
+                "Normal"
+            ],
+            "Species": "Prim Poke\u0301mon",
+            "Height": "1.1 m (3\u203207\u2032\u2032)",
+            "Weight": "32.6 kg (71.9 lbs)",
+            "Abilities": {
+                "Cute Charm": {
+                    "href": "/ability/cute-charm",
+                    "effect": "Contact with the Pok\u00e9mon may cause infatuation.",
+                    "hidden": false
+                },
+                "Normalize": {
+                    "href": "/ability/normalize",
+                    "effect": "All the Pok\u00e9mon's moves become the Normal type.",
+                    "hidden": false
+                },
+                "Wonder Skin": {
+                    "href": "/ability/wonder-skin",
+                    "effect": "Makes status-changing moves more likely to miss.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 HP, 1 Speed",
+            "Catch rate": "60",
+            "BaseFriendship": "50",
+            "Base Exp.": "140",
+            "Growth Rate": "Fast"
+        },
+        "breeding_data": {
+            "Gender": "25% male,75% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "70",
+                "Min": "250",
+                "Max": "344"
+            },
+            "Attack": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Defense": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Atk": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Sp. Def": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Speed": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Total": "400"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Skitty",
+                    "nationalNo": "#0300",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Delcatty",
+                    "nationalNo": "#0301",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Moon Stone)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Attract": "1",
+            "Baby-Doll Eyes": "1",
+            "Charm": "1",
+            "Copycat": "1",
+            "Covet": "1",
+            "Disarming Voice": "1",
+            "Double-Edge": "1",
+            "Facade": "1",
+            "Fake Out": "1",
+            "Fury Swipes": "1",
+            "Growl": "1",
+            "Heal Bell": "1",
+            "Payback": "1",
+            "Play Rough": "1",
+            "Sing": "1",
+            "Tackle": "1",
+            "Tail Whip": "1"
+        },
+        "egg": {
+            "Baton Pass": null,
+            "Cosmic Power": null,
+            "Fake Out": null,
+            "Fake Tears": null,
+            "Helping Hand": null,
+            "Last Resort": null,
+            "Simple Beam": null,
+            "Sucker Punch": null,
+            "Tickle": null,
+            "Uproar": null,
+            "Wish": null,
+            "Zen Headbutt": null
+        },
+        "tm": {
+            "Water Pulse": "03",
+            "Calm Mind": "04",
+            "Work Up": "10",
+            "Sunny Day": "11",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Safeguard": "20",
+            "Solar Beam": "22",
+            "Iron Tail": "23",
+            "Thunderbolt": "24",
+            "Thunder": "25",
+            "Dig": "28",
+            "Shadow Ball": "30",
+            "Double Team": "32",
+            "Shock Wave": "34",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Charge Beam": "57",
+            "Endure": "58",
+            "Nasty Plot": "63",
+            "Payback": "66",
+            "Giga Impact": "68",
+            "Flash": "70",
+            "Thunder Wave": "73",
+            "Psych Up": "77",
+            "Sleep Talk": "82",
+            "Dream Eater": "85",
+            "Grass Knot": "86",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Strength": "96",
+            "Rock Smash": "98"
+        }
+    },
+    "entries": {
+        "Delcatty": [
+            "DELCATTY prefers to live an unfettered existence in which it can do as it pleases at its own pace. Because this pok\u00e9mon eats and sleeps whenever it decides, its daily routines are completely random.",
+            "DELCATTY sleeps anywhere it wants without keeping a permanent nest. If other pok\u00e9mon approach it as it sleeps, this pok\u00e9mon will never fight - it will just move away somewhere else.",
+            "The favorite of trend-conscious female TRAINERS, they are used in competition for their style and fur.",
+            "Rather than keeping a permanent lair, it habitually seeks comfortable spots and sleeps there. It is nocturnal and becomes active at dusk.",
+            "It is highly popular among female Trainers for its sublime fur. It does not keep a nest.",
+            "It dislikes dirty places. It often searches for a comfortable place in which to groom itself.",
+            "It is highly popular among female Trainers for its sublime fur. It does not keep a nest.",
+            "The reason it does not have a nest is that it simply searches for a clean, comfortable place then sleeps there.",
+            "It dislikes dirty places. It often searches for a comfortable place in which to groom itself.",
+            "It is highly popular among female Trainers for its sublime fur. It does not keep a nest.",
+            "Delcatty prefers to live an unfettered existence in which it can do as it pleases at its own pace. Because this Pok\u00e9mon eats and sleeps whenever it decides, its daily routines are completely random.",
+            "Delcatty sleeps anywhere it wants without keeping a permanent nest. If other Pok\u00e9mon approach it as it sleeps, this Pok\u00e9mon will never fight\u2014it will just move away somewhere else.",
+            "It is highly popular among Trainers for its sublime fur. It does not keep a nest."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788953868062860/301.png",
+    "discord_sprite": "<:P301:1132125985207234611>"
+}

@@ -1,0 +1,182 @@
+{
+    "alt-version(s)": [],
+    "name": "Eelektrik",
+    "Eelektrik": {
+        "pokedex_data": {
+            "National No.": "0603",
+            "Type": [
+                "Electric"
+            ],
+            "Species": "EleFish Poke\u0301mon",
+            "Height": "1.2 m (3\u203211\u2032\u2032)",
+            "Weight": "22.0 kg (48.5 lbs)",
+            "Abilities": {
+                "Levitate": {
+                    "href": "/ability/levitate",
+                    "effect": "Gives immunity to Ground type moves.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "60",
+            "BaseFriendship": "50",
+            "Base Exp.": "142",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "65",
+                "Min": "240",
+                "Max": "334"
+            },
+            "Attack": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Defense": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Atk": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Sp. Def": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Speed": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Total": "405"
+        },
+        "defense_stats": {
+            "default": {
+                "Electric": "not very effective",
+                "Ground": "no effect",
+                "Flying": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Tynamo",
+                    "nationalNo": "#0602",
+                    "type": [
+                        "Electric"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Eelektrik",
+                    "nationalNo": "#0603",
+                    "type": [
+                        "Electric"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 39)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Eelektrik",
+                    "nationalNo": "#0603",
+                    "type": [
+                        "Electric"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Eelektross",
+                    "nationalNo": "#0604",
+                    "type": [
+                        "Electric"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Thunder Stone)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Charge Beam": "1",
+            "Headbutt": "1",
+            "Spark": "1",
+            "Thunder Wave": "1",
+            "Bind": "9",
+            "Acid": "19",
+            "Discharge": "29",
+            "Thunderbolt": "44",
+            "Acid Spray": "49",
+            "Coil": "54",
+            "Wild Charge": "59",
+            "Gastro Acid": "64",
+            "Zap Cannon": "69",
+            "Thrash": "74"
+        },
+        "evolution": {
+            "Crunch": "80"
+        },
+        "egg": null,
+        "tm": {
+            "Take Down": "01",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Thunder Fang": "09",
+            "Acid Spray": "13",
+            "Acrobatics": "14",
+            "Charge Beam": "23",
+            "Facade": "25",
+            "Endure": "47",
+            "Volt Switch": "48",
+            "Rain Dance": "50",
+            "U-turn": "60",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Electro Ball": "72",
+            "Light Screen": "75",
+            "Thunder Wave": "82",
+            "Rest": "85",
+            "Flash Cannon": "93",
+            "Eerie Impulse": "96",
+            "Substitute": "103",
+            "Crunch": "108",
+            "Giga Drain": "111",
+            "Thunderbolt": "126",
+            "Electric Terrain": "136",
+            "Wild Charge": "147",
+            "Thunder": "166",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Eelektrik": [
+            "They coil around foes and shock them with electricity-generating organs that seem simply to be circular patterns.",
+            "These Pok\u00e9mon have a big appetite. When they spot their prey, they attack it and paralyze it with electricity.",
+            "It wraps itself around its prey and paralyzes it with electricity from the round spots on its sides. Then it chomps.",
+            "It wraps itself around its prey and paralyzes it with electricity from the round spots on its sides. Then it chomps.",
+            "These Pok\u00e9mon have a big appetite. When they spot their prey, they attack it and paralyze it with electricity.",
+            "They coil around foes and shock them with electricity-generating organs that seem simply to be circular patterns.",
+            "These Pok\u00e9mon have a big appetite. When they spot their prey, they attack it and paralyze it with electricity."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791304733511841/603.png",
+    "discord_sprite": "<:P603:1132139272464498770>"
+}

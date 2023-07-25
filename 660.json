@@ -1,0 +1,203 @@
+{
+    "alt-version(s)": [],
+    "name": "Diggersby",
+    "Diggersby": {
+        "pokedex_data": {
+            "National No.": "0660",
+            "Type": [
+                "Normal",
+                "Ground"
+            ],
+            "Species": "Digging Poke\u0301mon",
+            "Height": "1.0 m (3\u203203\u2032\u2032)",
+            "Weight": "42.4 kg (93.5 lbs)",
+            "Abilities": {
+                "Pickup": {
+                    "href": "/ability/pickup",
+                    "effect": "The Pok\u00e9mon may pick up items.",
+                    "hidden": false
+                },
+                "Cheek Pouch": {
+                    "href": "/ability/cheek-pouch",
+                    "effect": "Restores additional HP when a Berry is consumed.",
+                    "hidden": false
+                },
+                "Huge Power": {
+                    "href": "/ability/huge-power",
+                    "effect": "Raises the Pok\u00e9mon's Attack stat.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 HP",
+            "Catch rate": "127",
+            "BaseFriendship": "50",
+            "Base Exp.": "148",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "85",
+                "Min": "280",
+                "Max": "374"
+            },
+            "Attack": {
+                "Base": "56",
+                "Min": "105",
+                "Max": "232"
+            },
+            "Defense": {
+                "Base": "77",
+                "Min": "143",
+                "Max": "278"
+            },
+            "Sp. Atk": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Def": {
+                "Base": "77",
+                "Min": "143",
+                "Max": "278"
+            },
+            "Speed": {
+                "Base": "78",
+                "Min": "144",
+                "Max": "280"
+            },
+            "Total": "423"
+        },
+        "defense_stats": {
+            "default": {
+                "Water": "super-effective",
+                "Electric": "no effect",
+                "Grass": "super-effective",
+                "Ice": "super-effective",
+                "Fighting": "super-effective",
+                "Poison": "not very effective",
+                "Rock": "not very effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Bunnelby",
+                    "nationalNo": "#0659",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Diggersby",
+                    "nationalNo": "#0660",
+                    "type": [
+                        "Normal",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 20)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Laser Focus": "1",
+            "Leer": "1",
+            "Mud-Slap": "1",
+            "Tackle": "1",
+            "Quick Attack": "9",
+            "Mud Shot": "12",
+            "Flail": "15",
+            "Double Kick": "18",
+            "Bulldoze": "23",
+            "Dig": "28",
+            "Bounce": "33",
+            "Take Down": "38",
+            "Swords Dance": "43",
+            "Earthquake": "48",
+            "Super Fang": "53",
+            "Hammer Arm": "58"
+        },
+        "egg": {
+            "Defense Curl": null,
+            "Rollout": null
+        },
+        "null": {
+            "Swords Dance": "00",
+            "Body Slam": "01",
+            "Surf": "04",
+            "Low Kick": "07",
+            "Earthquake": "10",
+            "Agility": "12",
+            "Substitute": "20",
+            "Sludge Bomb": "22",
+            "Spikes": "23",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Iron Tail": "31",
+            "Uproar": "35",
+            "Superpower": "39",
+            "Bulk Up": "48",
+            "Earth Power": "67",
+            "Gunk Shot": "73",
+            "Iron Head": "74",
+            "Stone Edge": "75",
+            "Grass Knot": "77",
+            "Foul Play": "81",
+            "Work Up": "85",
+            "Wild Charge": "86",
+            "High Horsepower": "94"
+        },
+        "tm": {
+            "Mega Punch": "00",
+            "Mega Kick": "01",
+            "Fire Punch": "03",
+            "Ice Punch": "04",
+            "Thunder Punch": "05",
+            "Hyper Beam": "08",
+            "Giga Impact": "09",
+            "Dig": "15",
+            "Rest": "21",
+            "Rock Slide": "22",
+            "Thief": "23",
+            "Snore": "24",
+            "Protect": "25",
+            "Attract": "31",
+            "Sandstorm": "32",
+            "Facade": "39",
+            "Brick Break": "43",
+            "Rock Tomb": "48",
+            "Sand Tomb": "49",
+            "Bounce": "52",
+            "Mud Shot": "53",
+            "U-turn": "56",
+            "Payback": "57",
+            "Fling": "59",
+            "Round": "76",
+            "Bulldoze": "81",
+            "Brutal Swing": "97",
+            "Stomping Tantrum": "98"
+        }
+    },
+    "entries": {
+        "Diggersby": [
+            "With their powerful ears, they can heft boulders of a ton or more with ease. They can be a big help at construction sites.",
+            "As powerful as an excavator, its ears can reduce dense bedrock to rubble. When it\u2019s finished digging, it lounges lazily.",
+            "With power equal to an excavator, it can dig through dense bedrock. It\u2019s a huge help during tunnel construction.",
+            "The fur on its belly retains heat exceptionally well. People used to make heavy winter clothing from fur shed by this Pok\u00e9mon."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791747454877706/660.png",
+    "discord_sprite": "<:P660:1132141787121729586>"
+}

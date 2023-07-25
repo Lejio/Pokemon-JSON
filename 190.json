@@ -1,0 +1,203 @@
+{
+    "alt-version(s)": [],
+    "name": "Aipom",
+    "Aipom": {
+        "pokedex_data": {
+            "National No.": "0190",
+            "Type": [
+                "Normal"
+            ],
+            "Species": "Long Tail Poke\u0301mon",
+            "Height": "0.8 m (2\u203207\u2032\u2032)",
+            "Weight": "11.5 kg (25.4 lbs)",
+            "Abilities": {
+                "Run Away": {
+                    "href": "/ability/run-away",
+                    "effect": "Enables a sure getaway from wild Pok\u00e9mon.",
+                    "hidden": false
+                },
+                "Pickup": {
+                    "href": "/ability/pickup",
+                    "effect": "The Pok\u00e9mon may pick up items.",
+                    "hidden": false
+                },
+                "Skill Link": {
+                    "href": "/ability/skill-link",
+                    "effect": "Increases the frequency of multi-strike moves.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Speed",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "72",
+            "Growth Rate": "Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "55",
+                "Min": "220",
+                "Max": "314"
+            },
+            "Attack": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Defense": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Sp. Atk": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Def": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Speed": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Total": "360"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Aipom",
+                    "nationalNo": "#0190",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Ambipom",
+                    "nationalNo": "#0424",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(after Double Hit learned)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Scratch": "1",
+            "Tail Whip": "1",
+            "Sand Attack": "4",
+            "Astonish": "8",
+            "Baton Pass": "11",
+            "Tickle": "15",
+            "Fury Swipes": "18",
+            "Swift": "22",
+            "Screech": "25",
+            "Agility": "29",
+            "Double Hit": "32",
+            "Fling": "36",
+            "Nasty Plot": "39",
+            "Last Resort": "43"
+        },
+        "egg": {
+            "Agility": null,
+            "Beat Up": null,
+            "Bounce": null,
+            "Counter": null,
+            "Covet": null,
+            "Fake Out": null,
+            "Quick Guard": null,
+            "Revenge": null,
+            "Screech": null,
+            "Slam": null,
+            "Spite": null,
+            "Switcheroo": null
+        },
+        "tm": {
+            "Focus Punch": "01",
+            "Water Pulse": "03",
+            "Work Up": "10",
+            "Sunny Day": "11",
+            "Taunt": "12",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Solar Beam": "22",
+            "Iron Tail": "23",
+            "Thunderbolt": "24",
+            "Thunder": "25",
+            "Low Sweep": "27",
+            "Dig": "28",
+            "Shadow Ball": "30",
+            "Brick Break": "31",
+            "Double Team": "32",
+            "Shock Wave": "34",
+            "Aerial Ace": "40",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Fling": "56",
+            "Endure": "58",
+            "Nasty Plot": "63",
+            "Shadow Claw": "65",
+            "Payback": "66",
+            "Thunder Wave": "73",
+            "Sleep Talk": "82",
+            "Dream Eater": "85",
+            "Grass Knot": "86",
+            "Swagger": "87",
+            "U-turn": "89",
+            "Substitute": "90",
+            "Cut": "93",
+            "Strength": "96",
+            "Rock Smash": "98"
+        }
+    },
+    "entries": {
+        "Aipom": [
+            "Its tail is so powerful that it can use it to grab a tree branch and hold itself up in the air.",
+            "It lives atop tall trees. When leaping from branch to branch, it deftly uses its tail for balance.",
+            "It uses its tail to hang on to tree branches. It uses its momentum to swing from one branch to another.",
+            "AIPOM\u2019s tail ends in a hand-like appendage that can be cleverly manipulated. However, because the pok\u00e9mon uses its tail so much, its real hands have become rather clumsy.",
+            "It lives atop tall trees. When leaping from branch to branch, it deftly uses its tail for balance.",
+            "Its tail is so powerful that it can use it to grab a tree branch and hold itself up in the air.",
+            "Its tail ends with a dexterous, handlike appendage. However, because it uses the tail so much, AIPOM\u2019s real hands have become rather clumsy.",
+            "It uses its tail to pluck fruits that are out of reach. Its tail is more adept than its real hands.",
+            "It lives atop giant trees. It wraps its tail around a branch so it won\u2019t fall off while asleep.",
+            "It lives high among the treetops. It can use its tail as freely and cleverly as its hands.",
+            "Its tail is so powerful that it can use it to grab a tree branch and hold itself up in the air.",
+            "It lives atop tall trees. When leaping from branch to branch, it deftly uses its tail for balance.",
+            "It lives high among the treetops. It can use its tail as freely and cleverly as its hands.",
+            "It lives atop tall trees. When leaping from branch to branch, it deftly uses its tail for balance.",
+            "Its tail is so powerful that it can use it to grab a tree branch and hold itself up in the air.",
+            "Aipom\u2019s tail ends in a hand-like appendage that can be cleverly manipulated. However, because the Pok\u00e9mon uses its tail so much, its real hands have become rather clumsy.",
+            "As it did more and more with its tail, its hands became clumsy. It makes its nest high in the treetops.",
+            "It searches for prey from the tops of trees. When it spots its favorite food, Bounsweet, Aipom gets excited and pounces.",
+            "It uses its tail to pluck fruits that are out of reach. Its tail is more adept than its real hands.",
+            "It lives atop giant trees. It wraps its tail around a branch so it won\u2019t fall off while asleep.",
+            "This treetop dweller possesses a tail as dexterous as a hand. Ancient writings describe this Pok\u00e9mon as a one-armed oddity."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788073173274664/190.png",
+    "discord_sprite": "<:P190:1132121095886094376>"
+}

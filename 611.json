@@ -1,0 +1,216 @@
+{
+    "alt-version(s)": [],
+    "name": "Fraxure",
+    "Fraxure": {
+        "pokedex_data": {
+            "National No.": "0611",
+            "Type": [
+                "Dragon"
+            ],
+            "Species": "Axe Jaw Poke\u0301mon",
+            "Height": "1.0 m (3\u203203\u2032\u2032)",
+            "Weight": "36.0 kg (79.4 lbs)",
+            "Abilities": {
+                "Rivalry": {
+                    "href": "/ability/rivalry",
+                    "effect": "Deals more damage to a Pok\u00e9mon of same gender.",
+                    "hidden": false
+                },
+                "Mold Breaker": {
+                    "href": "/ability/mold-breaker",
+                    "effect": "Moves can be used regardless of Abilities.",
+                    "hidden": false
+                },
+                "Unnerve": {
+                    "href": "/ability/unnerve",
+                    "effect": "Makes the foe nervous and unable to eat Berries.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "60",
+            "BaseFriendship": "35",
+            "Base Exp.": "144",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "66",
+                "Min": "242",
+                "Max": "336"
+            },
+            "Attack": {
+                "Base": "117",
+                "Min": "215",
+                "Max": "366"
+            },
+            "Defense": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Atk": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Def": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Speed": {
+                "Base": "67",
+                "Min": "125",
+                "Max": "256"
+            },
+            "Total": "410"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Dragon": "super-effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Axew",
+                    "nationalNo": "#0610",
+                    "type": [
+                        "Dragon"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Fraxure",
+                    "nationalNo": "#0611",
+                    "type": [
+                        "Dragon"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 38)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Fraxure",
+                    "nationalNo": "#0611",
+                    "type": [
+                        "Dragon"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Haxorus",
+                    "nationalNo": "#0612",
+                    "type": [
+                        "Dragon"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 48)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Bite": "1",
+            "False Swipe": "1",
+            "Leer": "1",
+            "Scratch": "1",
+            "Assurance": "9",
+            "Taunt": "12",
+            "Slash": "15",
+            "Dragon Claw": "18",
+            "Scary Face": "21",
+            "Crunch": "24",
+            "Dragon Dance": "27",
+            "Breaking Swipe": "30",
+            "Focus Energy": "33",
+            "Dragon Pulse": "36",
+            "Swords Dance": "41",
+            "Outrage": "46",
+            "Guillotine": "51",
+            "Giga Impact": "56"
+        },
+        "egg": {
+            "Aqua Tail": null,
+            "Counter": null,
+            "Endeavor": null,
+            "First Impression": null,
+            "Iron Tail": null,
+            "Night Slash": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Low Kick": "12",
+            "Trailblaze": "20",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Bulldoze": "28",
+            "Snarl": "30",
+            "Swift": "32",
+            "Rock Tomb": "36",
+            "Fling": "43",
+            "Dragon Tail": "44",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Dig": "55",
+            "False Swipe": "57",
+            "Brick Break": "58",
+            "Shadow Claw": "61",
+            "Sleep Talk": "70",
+            "Dragon Claw": "78",
+            "Poison Jab": "83",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Taunt": "87",
+            "Swords Dance": "88",
+            "Iron Head": "99",
+            "Dragon Dance": "100",
+            "Substitute": "103",
+            "X-Scissor": "105",
+            "Crunch": "108",
+            "Dragon Pulse": "115",
+            "Surf": "123",
+            "Reversal": "134",
+            "Giga Impact": "152",
+            "Outrage": "156",
+            "Draco Meteor": "169",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Fraxure": [
+            "Since a broken tusk will not grow back, they diligently sharpen their tusks on river rocks after they\u2019ve been fighting.",
+            "Their tusks can shatter rocks. Territory battles between Fraxure can be intensely violent.",
+            "A broken tusk will not grow back, so it diligently sharpens its tusks on river rocks after the end of a battle.",
+            "Their tusks can shatter rocks. Territory battles between Fraxure can be intensely violent.",
+            "A broken tusk will not grow back, so it diligently sharpens its tusks on river rocks after the end of a battle.",
+            "After battle, this Pok\u00e9mon carefully sharpens its tusks on river rocks. It needs to take care of its tusks\u2014if one breaks, it will never grow back.",
+            "Its skin is as hard as a suit of armor. Fraxure\u2019s favorite strategy is to tackle its opponents, stabbing them with its tusks at the same time.",
+            "Because its tusks don\u2019t grow back once they break, this Pok\u00e9mon apparently won\u2019t use them unless truly necessary.",
+            "Fraxure uses its thick tusks to neatly cut prey into two portions\u2014one to eat now and one to save for later."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791366343630979/611.png",
+    "discord_sprite": "<:P611:1132139630662267012>"
+}

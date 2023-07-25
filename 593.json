@@ -1,0 +1,237 @@
+{
+    "alt-version(s)": [],
+    "name": "Jellicent",
+    "Jellicent": {
+        "pokedex_data": {
+            "National No.": "0593",
+            "Type": [
+                "Water",
+                "Ghost"
+            ],
+            "Species": "Floating Poke\u0301mon",
+            "Height": "2.2 m (7\u203203\u2032\u2032)",
+            "Weight": "135.0 kg (297.6 lbs)",
+            "Abilities": {
+                "Water Absorb": {
+                    "href": "/ability/water-absorb",
+                    "effect": "Restores HP if hit by a Water-type move.",
+                    "hidden": false
+                },
+                "Cursed Body": {
+                    "href": "/ability/cursed-body",
+                    "effect": "May disable a move used on the Pok\u00e9mon.",
+                    "hidden": false
+                },
+                "Damp": {
+                    "href": "/ability/damp",
+                    "effect": "Prevents the use of self-destructing moves.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Sp. Def",
+            "Catch rate": "60",
+            "BaseFriendship": "50",
+            "Base Exp.": "168",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "100",
+                "Min": "310",
+                "Max": "404"
+            },
+            "Attack": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Defense": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Atk": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Sp. Def": {
+                "Base": "105",
+                "Min": "193",
+                "Max": "339"
+            },
+            "Speed": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Total": "480"
+        },
+        "defense_stats": {
+            "Water Absorb ability": {
+                "Normal": "no effect",
+                "Fire": "not very effective",
+                "Water": "no effect",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "no effect",
+                "Poison": "not very effective",
+                "Bug": "not very effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective",
+                "Steel": "not very effective"
+            },
+            "Cursed Body ability": {
+                "Normal": "no effect",
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "no effect",
+                "Poison": "not very effective",
+                "Bug": "not very effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective",
+                "Steel": "not very effective"
+            },
+            "Damp ability": {
+                "Normal": "no effect",
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "no effect",
+                "Poison": "not very effective",
+                "Bug": "not very effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Frillish",
+                    "nationalNo": "#0592",
+                    "type": [
+                        "Water",
+                        "Ghost"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Jellicent",
+                    "nationalNo": "#0593",
+                    "type": [
+                        "Water",
+                        "Ghost"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 40)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Absorb": "1",
+            "Acid Armor": "1",
+            "Night Shade": "1",
+            "Poison Sting": "1",
+            "Water Gun": "1",
+            "Water Pulse": "12",
+            "Rain Dance": "16",
+            "Hex": "20",
+            "Brine": "24",
+            "Recover": "28",
+            "Shadow Ball": "32",
+            "Whirlpool": "36",
+            "Hydro Pump": "43",
+            "Destiny Bond": "48",
+            "Water Spout": "54"
+        },
+        "egg": {
+            "Acid Armor": null,
+            "Bubble Beam": null,
+            "Confuse Ray": null,
+            "Mist": null,
+            "Pain Split": null,
+            "Strength Sap": null
+        },
+        "null": {
+            "Hydro Pump": "03",
+            "Surf": "04",
+            "Ice Beam": "05",
+            "Blizzard": "06",
+            "Psychic": "11",
+            "Waterfall": "16",
+            "Substitute": "20",
+            "Sludge Bomb": "22",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Shadow Ball": "33",
+            "Taunt": "37",
+            "Trick": "38",
+            "Muddy Water": "45",
+            "Dark Pulse": "58",
+            "Energy Ball": "65",
+            "Sludge Wave": "78",
+            "Scald": "84",
+            "Dazzling Gleam": "92"
+        },
+        "tm": {
+            "Hyper Beam": "08",
+            "Giga Impact": "09",
+            "Safeguard": "19",
+            "Rest": "21",
+            "Snore": "24",
+            "Protect": "25",
+            "Icy Wind": "27",
+            "Giga Drain": "28",
+            "Attract": "31",
+            "Rain Dance": "33",
+            "Hail": "35",
+            "Whirlpool": "36",
+            "Will-O-Wisp": "38",
+            "Facade": "39",
+            "Imprison": "44",
+            "Dive": "45",
+            "Brine": "55",
+            "Trick Room": "70",
+            "Round": "76",
+            "Hex": "77"
+        }
+    },
+    "entries": {
+        "Jellicent": [
+            "The fate of the ships and crew that wander into Jellicent\u2019s habitat: all sunken, all lost, all vanished.",
+            "They propel themselves by expelling absorbed seawater from their bodies. Their favorite food is life energy.",
+            "Its body is mostly seawater. It\u2019s said there\u2019s a castle of ships Jellicent have sunk on the seafloor.",
+            "Its body is mostly seawater. It\u2019s said there\u2019s a castle of ships Jellicent have sunk on the seafloor.",
+            "The fate of the ships and crew that wander into Jellicent\u2019s habitat: all sunken, all lost, all vanished.",
+            "Jellicent is always hanging around fancy cruise ships and tankers, hoping to drag away its prey.",
+            "Fishermen are terrified of Jellicent. It\u2019s rumored to drag them into the sea and steal their lives away."
+        ],
+        "Female Jellicent": [
+            "These Pok\u00e9mon have body compositions that are mostly identical to seawater. They make their lairs from sunken ships.",
+            "The crown on its head gets bigger and bigger as it absorbs more and more of the life-force of other creatures."
+        ],
+        "Male Jellicent": [
+            "Most of this Pok\u00e9mon\u2019s body composition is identical to sea water. It makes sunken ships its lair.",
+            "Whenever a full moon hangs in the night sky, schools of Jellicent gather near the surface of the sea, waiting for their prey to appear."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791223192035361/593.png",
+    "discord_sprite": "<:P593:1132138832221962240>"
+}

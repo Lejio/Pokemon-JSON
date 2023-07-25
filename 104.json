@@ -1,0 +1,224 @@
+{
+    "alt-version(s)": [],
+    "name": "Cubone",
+    "Cubone": {
+        "pokedex_data": {
+            "National No.": "0104",
+            "Type": [
+                "Ground"
+            ],
+            "Species": "Lonely Poke\u0301mon",
+            "Height": "0.4 m (1\u203204\u2032\u2032)",
+            "Weight": "6.5 kg (14.3 lbs)",
+            "Abilities": {
+                "Rock Head": {
+                    "href": "/ability/rock-head",
+                    "effect": "Protects the Pok\u00e9mon from recoil damage.",
+                    "hidden": false
+                },
+                "Lightning Rod": {
+                    "href": "/ability/lightning-rod",
+                    "effect": "Draws in all Electric-type moves to up Sp. Attack.",
+                    "hidden": false
+                },
+                "Battle Armor": {
+                    "href": "/ability/battle-armor",
+                    "effect": "The Pok\u00e9mon is protected against critical hits.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Defense",
+            "Catch rate": "190",
+            "BaseFriendship": "50",
+            "Base Exp.": "64",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "50",
+                "Min": "210",
+                "Max": "304"
+            },
+            "Attack": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Defense": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Sp. Atk": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Def": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Speed": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Total": "320"
+        },
+        "defense_stats": {
+            "default": {
+                "Water": "super-effective",
+                "Electric": "no effect",
+                "Grass": "super-effective",
+                "Ice": "super-effective",
+                "Poison": "not very effective",
+                "Rock": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Cubone",
+                    "nationalNo": "#0104",
+                    "type": [
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Marowak",
+                    "nationalNo": "#0105",
+                    "type": [
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 28, outside Alola)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Cubone",
+                    "nationalNo": "#0104",
+                    "type": [
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Marowak",
+                    "nationalNo": "#0105",
+                    "type": [
+                        "Fire",
+                        "Ghost"
+                    ],
+                    "nickname": "Alolan Marowak"
+                },
+                "requirement": "(Level 28, Nighttime, in Alola)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Growl": "1",
+            "Mud-Slap": "1",
+            "Tail Whip": "4",
+            "False Swipe": "8",
+            "Headbutt": "12",
+            "Retaliate": "16",
+            "Fling": "20",
+            "Stomping Tantrum": "24",
+            "Bone Rush": "29",
+            "Focus Energy": "32",
+            "Endeavor": "36",
+            "Bonemerang": "40",
+            "Thrash": "44",
+            "Double-Edge": "48"
+        },
+        "egg": {
+            "Ancient Power": null,
+            "Belly Drum": null,
+            "Curse": null,
+            "Detect": null,
+            "Double Kick": null,
+            "Iron Head": null,
+            "Leer": null,
+            "Perish Song": null,
+            "Screech": null,
+            "Skull Bash": null
+        },
+        "tm": {
+            "Focus Punch": "01",
+            "Sunny Day": "11",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Protect": "17",
+            "Iron Tail": "23",
+            "Earthquake": "26",
+            "Dig": "28",
+            "Brick Break": "31",
+            "Double Team": "32",
+            "Flamethrower": "35",
+            "Sandstorm": "37",
+            "Fire Blast": "38",
+            "Rock Tomb": "39",
+            "Aerial Ace": "40",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "False Swipe": "54",
+            "Fling": "56",
+            "Endure": "58",
+            "Swords Dance": "75",
+            "Stealth Rock": "76",
+            "Rock Slide": "80",
+            "Sleep Talk": "82",
+            "Bulldoze": "83",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Strength": "96",
+            "Rock Smash": "98",
+            "Rock Climb": "100"
+        }
+    },
+    "entries": {
+        "Cubone": [
+            "Because it never removes its skull helmet, no one has ever seen this pok\u00e9mon\u2019s real face.",
+            "Wears the skull of its deceased mother. Its cries echo inside the skull and come out as a sad melody.",
+            "If it is sad or lonely, the skull it wears shakes, and emits a plaintive and mournful sound.",
+            "It always wears the skull of its dead mother, so no one has any idea what its hidden face looks like.",
+            "It lost its mother after its birth. It wears its mother\u2019s skull, never revealing its true face.",
+            "CUBONE pines for the mother it will never see again. Seeing a likeness of its mother in the full moon, it cries. The stains on the skull the pok\u00e9mon wears are made by the tears it sheds.",
+            "It wears the skull of its dead mother on its head. When it becomes lonesome, it is said to cry loudly.",
+            "Because it never removes its skull helmet, no one has ever seen this pok\u00e9mon\u2019s real face.",
+            "It pines for the mother it will never see again. Seeing a likeness of its mother in the full moon, it cries. The stains on the skull it wears are from its tears.",
+            "When it thinks of its dead mother, it cries. Its crying makes the skull it wears rattle hollowly.",
+            "If it is sad or lonely, the skull it wears shakes and emits a plaintive and mournful sound.",
+            "It always wears the skull of its dead mother, so no one has any idea what its hidden face looks like.",
+            "When it thinks of its dead mother, it cries. Its crying makes the skull it wears rattle hollowly.",
+            "It wears the skull of its dead mother on its head. When it becomes lonesome, it is said to cry loudly.",
+            "It always wears the skull of its dead mother, so no one has any idea what its hidden face looks like.",
+            "Cubone pines for the mother it will never see again. Seeing a likeness of its mother in the full moon, it cries. The stains on the skull the Pok\u00e9mon wears are made by the tears it sheds.",
+            "When it thinks of its deceased mother, it weeps loudly. Mandibuzz that hear its cries will attack it from the air.",
+            "The skull it wears on its head is that of its dead mother. According to some, it will evolve when it comes to terms with the pain of her death.",
+            "At night, it weeps loudly for its dead mother, but those cries only attract its natural enemy\u2014Mandibuzz.",
+            "It wears its mother\u2019s skull on its head, so no one knows what its bare face looks like. However, it\u2019s clear that it\u2019s always crying.",
+            "Wears the skull of its deceased mother. Its cries echo inside the skull and come out as a sad melody.",
+            "When the memory of its departed mother brings it to tears, its cries echo mournfully within the skull it wears on its head.",
+            "This Pok\u00e9mon wears the skull of its deceased mother. Sometimes Cubone\u2019s dreams make it cry, but each tear Cubone sheds makes it stronger.",
+            "When it thinks of its dead mother, it cries. Its crying makes the skull it wears rattle hollowly."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787404211126282/104.png",
+    "discord_sprite": "<:P104:1132117299315355741>"
+}

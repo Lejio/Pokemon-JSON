@@ -1,0 +1,182 @@
+{
+    "alt-version(s)": [],
+    "name": "Torkoal",
+    "Torkoal": {
+        "pokedex_data": {
+            "National No.": "0324",
+            "Type": [
+                "Fire"
+            ],
+            "Species": "Coal Poke\u0301mon",
+            "Height": "0.5 m (1\u203208\u2032\u2032)",
+            "Weight": "80.4 kg (177.3 lbs)",
+            "Abilities": {
+                "White Smoke": {
+                    "href": "/ability/white-smoke",
+                    "effect": "Prevents other Pok\u00e9mon from lowering its stats.",
+                    "hidden": false
+                },
+                "Drought": {
+                    "href": "/ability/drought",
+                    "effect": "Turns the sunlight harsh when the Pok\u00e9mon enters a battle.",
+                    "hidden": false
+                },
+                "Shell Armor": {
+                    "href": "/ability/shell-armor",
+                    "effect": "The Pok\u00e9mon is protected against critical hits.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Defense",
+            "Catch rate": "90",
+            "BaseFriendship": "50",
+            "Base Exp.": "165",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "70",
+                "Min": "250",
+                "Max": "344"
+            },
+            "Attack": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Defense": {
+                "Base": "140",
+                "Min": "256",
+                "Max": "416"
+            },
+            "Sp. Atk": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Sp. Def": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Speed": {
+                "Base": "20",
+                "Min": "40",
+                "Max": "152"
+            },
+            "Total": "470"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Ground": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Ember": "1",
+            "Smog": "1",
+            "Withdraw": "4",
+            "Rapid Spin": "8",
+            "Smokescreen": "12",
+            "Clear Smog": "16",
+            "Flame Wheel": "20",
+            "Protect": "24",
+            "Lava Plume": "28",
+            "Body Slam": "32",
+            "Iron Defense": "36",
+            "Flamethrower": "40",
+            "Curse": "44",
+            "Heat Wave": "48",
+            "Amnesia": "52",
+            "Inferno": "56",
+            "Shell Smash": "60",
+            "Eruption": "64"
+        },
+        "egg": {
+            "Ancient Power": null,
+            "Fissure": null,
+            "Flail": null,
+            "Yawn": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Protect": "07",
+            "Fire Spin": "24",
+            "Facade": "25",
+            "Bulldoze": "28",
+            "Rock Tomb": "36",
+            "Flame Charge": "38",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Sandstorm": "51",
+            "Zen Headbutt": "59",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Body Press": "89",
+            "Substitute": "103",
+            "Iron Defense": "104",
+            "Will-O-Wisp": "107",
+            "Stealth Rock": "116",
+            "Heat Wave": "118",
+            "Heavy Slam": "121",
+            "Flamethrower": "125",
+            "Amnesia": "128",
+            "Helping Hand": "130",
+            "Earth Power": "133",
+            "Fire Blast": "141",
+            "Sludge Bomb": "148",
+            "Earthquake": "149",
+            "Stone Edge": "150",
+            "Giga Impact": "152",
+            "Overheat": "157",
+            "Hyper Beam": "163",
+            "Flare Blitz": "165",
+            "Solar Beam": "168",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Torkoal": [
+            "TORKOAL digs through mountains in search of coal. If it finds some, it fills hollow spaces on its shell with the coal and burns it. If it is attacked, this pok\u00e9mon spouts thick black smoke to beat a retreat.",
+            "TORKOAL generates energy by burning coal. It grows weaker as the fire dies down. When it is preparing for battle, this pok\u00e9mon burns more coal.",
+            "It burns coal inside its shell. If it is attacked, it belches thick, black smoke and flees.",
+            "It battles using energy it gets from burning coal. When loosing smoke from its nostrils, it lets off a sound that is similar to a locomotive\u2019s horn.",
+            "It burns coal inside its shell for energy. It blows out black soot if it is endangered.",
+            "You find abandoned coal mines full of them. They dig tirelessly in search of coal.",
+            "It burns coal inside its shell for energy. It blows out black soot if it is endangered.",
+            "You find abandoned coal mines full of them. They dig tirelessly in search of coal.",
+            "It burns coal inside its shell for energy. It blows out black soot if it is endangered.",
+            "Torkoal digs through mountains in search of coal. If it finds some, it fills hollow spaces on its shell with the coal and burns it. If it is attacked, this Pok\u00e9mon spouts thick black smoke to beat a retreat.",
+            "Torkoal generates energy by burning coal. It grows weaker as the fire dies down. When it is preparing for battle, this Pok\u00e9mon burns more coal.",
+            "Coal is the source of Torkoal\u2019s energy. Large amounts of coal can be found in the mountains where they live.",
+            "If the fire burning within its shell goes out, it will die. Those who wish to raise one in their home must always keep something flammable at hand.",
+            "You can tell how it\u2019s feeling by the smoke spouting from its shell. Tremendous velocity is a sign of good health.",
+            "It burns coal to produce energy. When it has burned through all of its coal, it becomes unable to move.",
+            "It burns coal inside its shell for energy. It blows out black soot if it is endangered.",
+            "You find abandoned coal mines full of them. They dig tirelessly in search of coal.",
+            "It burns coal inside its shell for energy. It blows out black soot if it is in a tough situation.",
+            "It burns coal inside its shell for energy. It blows out black soot if it is endangered.",
+            "Coal is the source of Torkoal\u2019s energy. Large amounts of coal can be found in the mountains where they live."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789133145190500/324.png",
+    "discord_sprite": "<:P324:1132126994293854299>"
+}

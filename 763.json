@@ -1,0 +1,210 @@
+{
+    "alt-version(s)": [],
+    "name": "Tsareena",
+    "Tsareena": {
+        "pokedex_data": {
+            "National No.": "0763",
+            "Type": [
+                "Grass"
+            ],
+            "Species": "Fruit Poke\u0301mon",
+            "Height": "1.2 m (3\u203211\u2032\u2032)",
+            "Weight": "21.4 kg (47.2 lbs)",
+            "Abilities": {
+                "Leaf Guard": {
+                    "href": "/ability/leaf-guard",
+                    "effect": "Prevents problems with status in sunny weather.",
+                    "hidden": false
+                },
+                "Queenly Majesty": {
+                    "href": "/ability/queenly-majesty",
+                    "effect": "Prevents use of priority moves.",
+                    "hidden": false
+                },
+                "Sweet Veil": {
+                    "href": "/ability/sweet-veil",
+                    "effect": "Prevents the Pok\u00e9mon and allies from falling asleep.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Attack",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "255",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "0% male,100% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "72",
+                "Min": "254",
+                "Max": "348"
+            },
+            "Attack": {
+                "Base": "120",
+                "Min": "220",
+                "Max": "372"
+            },
+            "Defense": {
+                "Base": "98",
+                "Min": "180",
+                "Max": "324"
+            },
+            "Sp. Atk": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Def": {
+                "Base": "98",
+                "Min": "180",
+                "Max": "324"
+            },
+            "Speed": {
+                "Base": "72",
+                "Min": "134",
+                "Max": "267"
+            },
+            "Total": "510"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Poison": "super-effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Bug": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Bounsweet",
+                    "nationalNo": "#0761",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Steenee",
+                    "nationalNo": "#0762",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 18)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Steenee",
+                    "nationalNo": "#0762",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Tsareena",
+                    "nationalNo": "#0763",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(after Stomp learned)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Flail": "1",
+            "Play Nice": "1",
+            "Power Whip": "1",
+            "Rapid Spin": "1",
+            "Razor Leaf": "1",
+            "Splash": "1",
+            "Swagger": "1",
+            "Sweet Scent": "16",
+            "Magical Leaf": "22",
+            "Stomp": "28",
+            "Teeter Dance": "34",
+            "Aromatic Mist": "40",
+            "Leaf Storm": "46",
+            "High Jump Kick": "58"
+        },
+        "evolution": {
+            "Trop Kick": "70"
+        },
+        "egg": {
+            "Acupressure": null,
+            "Endeavor": null,
+            "Synthesis": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Charm": "02",
+            "Protect": "07",
+            "Low Kick": "12",
+            "Acrobatics": "14",
+            "Trailblaze": "20",
+            "Facade": "25",
+            "Swift": "32",
+            "Magical Leaf": "33",
+            "Draining Kiss": "37",
+            "Low Sweep": "39",
+            "Fling": "43",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Bullet Seed": "56",
+            "Zen Headbutt": "59",
+            "U-turn": "60",
+            "Sleep Talk": "70",
+            "Seed Bomb": "71",
+            "Reflect": "74",
+            "Light Screen": "75",
+            "Dazzling Gleam": "79",
+            "Grass Knot": "81",
+            "Rest": "85",
+            "Taunt": "87",
+            "Substitute": "103",
+            "Giga Drain": "111",
+            "Energy Ball": "119",
+            "Play Rough": "127",
+            "Helping Hand": "130",
+            "Grassy Terrain": "137",
+            "Giga Impact": "152",
+            "Leaf Storm": "159",
+            "Hyper Beam": "163",
+            "Solar Beam": "168",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Tsareena": [
+            "Its long, striking legs aren\u2019t just for show but to be used to kick with skill. In victory, it shows off by kicking the defeated, laughing boisterously.",
+            "A Pok\u00e9mon known for the beauty of its well-shaped legs, it sometimes appears as a mascot in advertisements for beauty salons.",
+            "A master of grand and beautiful kicks, it can knock out even kickboxing champions with a single blow.",
+            "A Pok\u00e9mon with an aggressive personality and a mastery of kicking, it cackles every time it kicks an opponent.",
+            "This feared Pok\u00e9mon has long, slender legs and a cruel heart. It shows no mercy as it stomps on its opponents.",
+            "A kick from the hardened tips of this Pok\u00e9mon\u2019s legs leaves a wound in the opponent\u2019s body and soul that will never heal.",
+            "This Pok\u00e9mon is proud and aggressive. However, it is said that a Tsareena will instantly become calm if someone touches the crown on its calyx.",
+            "This Pok\u00e9mon launches fierce yet elegant kicks with its long, slender legs. It views Quaquaval as its rival."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792556208947301/763.png",
+    "discord_sprite": "<:P763:1132146375149223999>"
+}

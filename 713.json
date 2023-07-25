@@ -1,0 +1,328 @@
+{
+    "alt-version(s)": [
+        "Hisuian Avalugg"
+    ],
+    "name": "Avalugg",
+    "Avalugg": {
+        "pokedex_data": {
+            "National No.": "0713",
+            "Type": [
+                "Ice"
+            ],
+            "Species": "Iceberg Poke\u0301mon",
+            "Height": "2.0 m (6\u203207\u2032\u2032)",
+            "Weight": "505.0 kg (1113.3 lbs)",
+            "Abilities": {
+                "Own Tempo": {
+                    "href": "/ability/own-tempo",
+                    "effect": "Prevents the Pok\u00e9mon from becoming confused.",
+                    "hidden": false
+                },
+                "Ice Body": {
+                    "href": "/ability/ice-body",
+                    "effect": "The Pok\u00e9mon gradually regains HP in a hailstorm.",
+                    "hidden": false
+                },
+                "Sturdy": {
+                    "href": "/ability/sturdy",
+                    "effect": "It cannot be knocked out with one hit.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Defense",
+            "Catch rate": "55",
+            "BaseFriendship": "50",
+            "Base Exp.": "180",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "95",
+                "Min": "300",
+                "Max": "394"
+            },
+            "Attack": {
+                "Base": "117",
+                "Min": "215",
+                "Max": "366"
+            },
+            "Defense": {
+                "Base": "184",
+                "Min": "335",
+                "Max": "513"
+            },
+            "Sp. Atk": {
+                "Base": "44",
+                "Min": "83",
+                "Max": "205"
+            },
+            "Sp. Def": {
+                "Base": "46",
+                "Min": "87",
+                "Max": "210"
+            },
+            "Speed": {
+                "Base": "28",
+                "Min": "54",
+                "Max": "170"
+            },
+            "Total": "514"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Rock": "super-effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "Hisuian Avalugg": {
+        "pokedex_data": {
+            "National No.": "0713",
+            "Type": [
+                "Ice",
+                "Rock"
+            ],
+            "Species": "Iceberg Poke\u0301mon",
+            "Height": "1.4 m (4\u203207\u2032\u2032)",
+            "Weight": "262.4 kg (578.5 lbs)",
+            "Abilities": {
+                "Strong Jaw": {
+                    "href": "/ability/strong-jaw",
+                    "effect": "Boosts the power of biting moves.",
+                    "hidden": false
+                },
+                "Ice Body": {
+                    "href": "/ability/ice-body",
+                    "effect": "The Pok\u00e9mon gradually regains HP in a hailstorm.",
+                    "hidden": false
+                },
+                "Sturdy": {
+                    "href": "/ability/sturdy",
+                    "effect": "It cannot be knocked out with one hit.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Defense",
+            "Catch rate": "55",
+            "BaseFriendship": "50",
+            "Base Exp.": "180",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "95",
+                "Min": "300",
+                "Max": "394"
+            },
+            "Attack": {
+                "Base": "127",
+                "Min": "233",
+                "Max": "388"
+            },
+            "Defense": {
+                "Base": "184",
+                "Min": "335",
+                "Max": "513"
+            },
+            "Sp. Atk": {
+                "Base": "34",
+                "Min": "65",
+                "Max": "183"
+            },
+            "Sp. Def": {
+                "Base": "36",
+                "Min": "69",
+                "Max": "188"
+            },
+            "Speed": {
+                "Base": "38",
+                "Min": "72",
+                "Max": "192"
+            },
+            "Total": "514"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Water": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Rock": "super-effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Bergmite",
+                    "nationalNo": "#0712",
+                    "type": [
+                        "Ice"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Avalugg",
+                    "nationalNo": "#0713",
+                    "type": [
+                        "Ice"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 37)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Bergmite",
+                    "nationalNo": "#0712",
+                    "type": [
+                        "Ice"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Avalugg",
+                    "nationalNo": "#0713",
+                    "type": [
+                        "Ice",
+                        "Rock"
+                    ],
+                    "nickname": "Hisuian Avalugg"
+                },
+                "requirement": "(Level 37, in Legends: Arceus)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Aurora Veil": "\u2014",
+            "Mirror Coat": "\u2014",
+            "Mist": "\u2014"
+        },
+        "evolution": {
+            "Aurora Veil": "\u2014",
+            "Mirror Coat": "\u2014",
+            "Mist": "\u2014"
+        },
+        "egg": {
+            "Aurora Veil": null,
+            "Mirror Coat": null,
+            "Mist": null
+        },
+        "Avalugg": {
+            "tm": {
+                "Take Down": "01",
+                "Scary Face": "06",
+                "Protect": "07",
+                "Ice Fang": "10",
+                "Chilling Water": "22",
+                "Facade": "25",
+                "Bulldoze": "28",
+                "Icy Wind": "34",
+                "Rock Tomb": "36",
+                "Avalanche": "46",
+                "Endure": "47",
+                "Rain Dance": "50",
+                "Snowscape": "52",
+                "Body Slam": "66",
+                "Sleep Talk": "70",
+                "Stomping Tantrum": "84",
+                "Rest": "85",
+                "Rock Slide": "86",
+                "Body Press": "89",
+                "Flash Cannon": "93",
+                "Iron Head": "99",
+                "Substitute": "103",
+                "Iron Defense": "104",
+                "Crunch": "108",
+                "Heavy Slam": "121",
+                "Surf": "123",
+                "Ice Spinner": "124",
+                "Ice Beam": "135",
+                "Hydro Pump": "142",
+                "Blizzard": "143",
+                "Earthquake": "149",
+                "Stone Edge": "150",
+                "Giga Impact": "152",
+                "Hyper Beam": "163",
+                "Tera Blast": "171"
+            }
+        },
+        "Hisuian Avalugg": {
+            "tm": {
+                "Take Down": "01",
+                "Scary Face": "06",
+                "Protect": "07",
+                "Ice Fang": "10",
+                "Chilling Water": "22",
+                "Facade": "25",
+                "Bulldoze": "28",
+                "Icy Wind": "34",
+                "Rock Tomb": "36",
+                "Avalanche": "46",
+                "Endure": "47",
+                "Rain Dance": "50",
+                "Sandstorm": "51",
+                "Snowscape": "52",
+                "Dig": "55",
+                "Body Slam": "66",
+                "Sleep Talk": "70",
+                "Rock Blast": "76",
+                "Stomping Tantrum": "84",
+                "Rest": "85",
+                "Rock Slide": "86",
+                "Body Press": "89",
+                "Iron Head": "99",
+                "Substitute": "103",
+                "Iron Defense": "104",
+                "Crunch": "108",
+                "Stealth Rock": "116",
+                "Heavy Slam": "121",
+                "Ice Spinner": "124",
+                "Ice Beam": "135",
+                "Blizzard": "143",
+                "Earthquake": "149",
+                "Stone Edge": "150",
+                "Giga Impact": "152",
+                "Hyper Beam": "163",
+                "Tera Blast": "171"
+            }
+        }
+    },
+    "entries": {
+        "Avalugg": [
+            "Its ice-covered body is as hard as steel. Its cumbersome frame crushes anything that stands in its way.",
+            "The way several Bergmite huddle on its back makes it look like an aircraft carrier made of ice.",
+            "At high latitudes, this Pok\u00e9mon can be found with clusters of Bergmite on its back as it swims among the icebergs.",
+            "As Avalugg moves about during the day, the cracks in its body deepen. The Pok\u00e9mon\u2019s body returns to a pristine state overnight.",
+            "As Avalugg walks along with Bergmite on its back, it comes across pods of Cetitan. It lets them pass to avoid conflict.",
+            "This Pok\u00e9mon uses its massive icy body to flatten anything that gets in its way. When it\u2019s floating out on the ocean, it looks exactly like drift ice."
+        ],
+        "Hisuian Avalugg": [
+            "The armor of ice covering its lower jaw puts steel to shame and can shatter rocks with ease. This Pok\u00e9mon barrels along steep mountain paths, cleaving through the deep snow."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792160233107557/713.png",
+    "discord_sprite": "<:P713:1132144110619349003>"
+}

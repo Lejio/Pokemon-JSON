@@ -1,0 +1,259 @@
+{
+    "alt-version(s)": [],
+    "name": "Ralts",
+    "Ralts": {
+        "pokedex_data": {
+            "National No.": "0280",
+            "Type": [
+                "Psychic",
+                "Fairy"
+            ],
+            "Species": "Feeling Poke\u0301mon",
+            "Height": "0.4 m (1\u203204\u2032\u2032)",
+            "Weight": "6.6 kg (14.6 lbs)",
+            "Abilities": {
+                "Synchronize": {
+                    "href": "/ability/synchronize",
+                    "effect": "Passes a burn, poison, or paralysis to the foe.",
+                    "hidden": false
+                },
+                "Trace": {
+                    "href": "/ability/trace",
+                    "effect": "The Pok\u00e9mon copies a foe's Ability.",
+                    "hidden": false
+                },
+                "Telepathy": {
+                    "href": "/ability/telepathy",
+                    "effect": "Anticipates an ally's attack and dodges it.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Sp. Atk",
+            "Catch rate": "235",
+            "BaseFriendship": "35",
+            "Base Exp.": "40",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "28",
+                "Min": "166",
+                "Max": "260"
+            },
+            "Attack": {
+                "Base": "25",
+                "Min": "49",
+                "Max": "163"
+            },
+            "Defense": {
+                "Base": "25",
+                "Min": "49",
+                "Max": "163"
+            },
+            "Sp. Atk": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Sp. Def": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Speed": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Total": "198"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "not very effective",
+                "Poison": "super-effective",
+                "Psychic": "not very effective",
+                "Ghost": "super-effective",
+                "Dragon": "no effect",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Ralts",
+                    "nationalNo": "#0280",
+                    "type": [
+                        "Psychic",
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Kirlia",
+                    "nationalNo": "#0281",
+                    "type": [
+                        "Psychic",
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 20)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Kirlia",
+                    "nationalNo": "#0281",
+                    "type": [
+                        "Psychic",
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Gardevoir",
+                    "nationalNo": "#0282",
+                    "type": [
+                        "Psychic",
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 30)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Kirlia",
+                    "nationalNo": "#0281",
+                    "type": [
+                        "Psychic",
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Gallade",
+                    "nationalNo": "#0475",
+                    "type": [
+                        "Psychic",
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Dawn Stone, Male)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Disarming Voice": "1",
+            "Growl": "1",
+            "Double Team": "3",
+            "Confusion": "6",
+            "Hypnosis": "9",
+            "Draining Kiss": "12",
+            "Teleport": "15",
+            "Psybeam": "18",
+            "Life Dew": "21",
+            "Charm": "24",
+            "Calm Mind": "27",
+            "Psychic": "30",
+            "Heal Pulse": "33",
+            "Dream Eater": "36",
+            "Future Sight": "39"
+        },
+        "egg": {
+            "Confuse Ray": null,
+            "Destiny Bond": null,
+            "Disable": null,
+            "Knock Off": null,
+            "Mean Look": null,
+            "Memento": null,
+            "Mystical Fire": null,
+            "Shadow Sneak": null
+        },
+        "tm": {
+            "Charm": "02",
+            "Protect": "07",
+            "Psybeam": "16",
+            "Confuse Ray": "17",
+            "Thief": "18",
+            "Disarming Voice": "19",
+            "Charge Beam": "23",
+            "Facade": "25",
+            "Swift": "32",
+            "Magical Leaf": "33",
+            "Icy Wind": "34",
+            "Draining Kiss": "37",
+            "Stored Power": "41",
+            "Fling": "43",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Psyshock": "54",
+            "Zen Headbutt": "59",
+            "Body Slam": "66",
+            "Fire Punch": "67",
+            "Thunder Punch": "68",
+            "Ice Punch": "69",
+            "Sleep Talk": "70",
+            "Reflect": "74",
+            "Light Screen": "75",
+            "Dazzling Gleam": "79",
+            "Metronome": "80",
+            "Grass Knot": "81",
+            "Thunder Wave": "82",
+            "Rest": "85",
+            "Taunt": "87",
+            "Imprison": "92",
+            "Skill Swap": "98",
+            "Substitute": "103",
+            "Will-O-Wisp": "107",
+            "Trick": "109",
+            "Shadow Ball": "114",
+            "Hyper Voice": "117",
+            "Psychic": "120",
+            "Encore": "122",
+            "Thunderbolt": "126",
+            "Calm Mind": "129",
+            "Helping Hand": "130",
+            "Psychic Terrain": "138",
+            "Misty Terrain": "139",
+            "Trick Room": "161",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Ralts": [
+            "RALTS senses the emotions of people using the horns on its head. This pok\u00e9mon rarely appears before people. But when it does, it draws closer if it senses that the person has a positive disposition.",
+            "RALTS has the ability to sense the emotions of people. If its TRAINER is in a cheerful mood, this pok\u00e9mon grows cheerful and joyous in the same way.",
+            "It is highly attuned to the emotions of people and pok\u00e9mon. It hides if it senses hostility.",
+            "A RALTS has the power to sense the emotions of people and pok\u00e9mon with the horns on its head. It takes cover if it senses any hostility.",
+            "It uses the horns on its head to sense human emotions. It is said to appear in front of cheerful people.",
+            "If its horns capture the warm feelings of people or Pok\u00e9mon, its body warms up slightly.",
+            "The horns on its head provide a strong power that enables it to sense people\u2019s emotions.",
+            "If its horns capture the warm feelings of people or Pok\u00e9mon, its body warms up slightly.",
+            "If its horns capture the warm feelings of people or Pok\u00e9mon, its body warms up slightly.",
+            "It is highly attuned to the emotions of people and Pok\u00e9mon. It hides if it senses hostility.",
+            "Ralts senses the emotions of people using the horns on its head. This Pok\u00e9mon rarely appears before people. But when it does, it draws closer if it senses that the person has a positive disposition.",
+            "Ralts has the ability to sense the emotions of people. If its Trainer is in a cheerful mood, this Pok\u00e9mon grows cheerful and joyous in the same way.",
+            "It is highly attuned to the emotions of people and Pok\u00e9mon. It hides if it senses hostility.",
+            "If its horns capture the warm feelings of people or Pok\u00e9mon, its body warms up slightly.",
+            "It uses the horns on its head to sense human emotions. It is said to appear in front of cheerful people.",
+            "Tends to prefer people with a chipper disposition to those who are gloomy, but it has shown no discrimination with regard to age or gender. Needs more research.",
+            "The horns on its head provide a strong power that enables it to sense people\u2019s emotions.",
+            "It is highly attuned to the emotions of people and Pok\u00e9mon. It hides if it senses hostility."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788784695005257/280.png",
+    "discord_sprite": "<:P280:1132125065954213888>"
+}

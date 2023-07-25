@@ -1,0 +1,171 @@
+{
+    "alt-version(s)": [],
+    "name": "Spritzee",
+    "Spritzee": {
+        "pokedex_data": {
+            "National No.": "0682",
+            "Type": [
+                "Fairy"
+            ],
+            "Species": "Perfume Poke\u0301mon",
+            "Height": "0.2 m (0\u203208\u2032\u2032)",
+            "Weight": "0.5 kg (1.1 lbs)",
+            "Abilities": {
+                "Healer": {
+                    "href": "/ability/healer",
+                    "effect": "May heal an ally's status conditions.",
+                    "hidden": false
+                },
+                "Aroma Veil": {
+                    "href": "/ability/aroma-veil",
+                    "effect": "Protects allies from attacks that limit their move choices.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 HP",
+            "Catch rate": "200",
+            "BaseFriendship": "50",
+            "Base Exp.": "68",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "78",
+                "Min": "266",
+                "Max": "360"
+            },
+            "Attack": {
+                "Base": "52",
+                "Min": "98",
+                "Max": "223"
+            },
+            "Defense": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Atk": {
+                "Base": "63",
+                "Min": "117",
+                "Max": "247"
+            },
+            "Sp. Def": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Speed": {
+                "Base": "23",
+                "Min": "45",
+                "Max": "159"
+            },
+            "Total": "341"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "not very effective",
+                "Poison": "super-effective",
+                "Bug": "not very effective",
+                "Dragon": "no effect",
+                "Dark": "not very effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Spritzee",
+                    "nationalNo": "#0682",
+                    "type": [
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Aromatisse",
+                    "nationalNo": "#0683",
+                    "type": [
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(trade holding Sachet)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Fairy Wind": "1",
+            "Sweet Scent": "1",
+            "Sweet Kiss": "3",
+            "Echoed Voice": "6",
+            "Draining Kiss": "15",
+            "Aromatherapy": "12",
+            "Attract": "18",
+            "Flail": "21",
+            "Misty Terrain": "24",
+            "Psychic": "27",
+            "Charm": "30",
+            "Calm Mind": "33",
+            "Moonblast": "36",
+            "Skill Swap": "39"
+        },
+        "egg": {
+            "After You": null,
+            "Disable": null,
+            "Wish": null
+        },
+        "null": {
+            "Thunderbolt": "08",
+            "Psychic": "11",
+            "Substitute": "20",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Encore": "30",
+            "Skill Swap": "40",
+            "Calm Mind": "49",
+            "Gyro Ball": "52",
+            "Energy Ball": "65",
+            "Nasty Plot": "68",
+            "Flash Cannon": "70",
+            "Ally Switch": "83",
+            "Dazzling Gleam": "92"
+        },
+        "tm": {
+            "Light Screen": "17",
+            "Reflect": "18",
+            "Rest": "21",
+            "Snore": "24",
+            "Protect": "25",
+            "Charm": "29",
+            "Attract": "31",
+            "Rain Dance": "33",
+            "Sunny Day": "34",
+            "Facade": "39",
+            "Helping Hand": "41",
+            "Fake Tears": "47",
+            "Trick Room": "70",
+            "Round": "76",
+            "Draining Kiss": "87",
+            "Misty Terrain": "89"
+        }
+    },
+    "entries": {
+        "Spritzee": [
+            "It emits a scent that enraptures those who smell it. This fragrance changes depending on what it has eaten.",
+            "In the past, rather than using perfume, royal ladies carried a Spritzee that would waft a fragrance they liked.",
+            "A scent pouch within this Pok\u00e9mon\u2019s body allows it to create various scents. A change in its diet will alter the fragrance it produces.",
+            "The scent its body gives off enraptures those who smell it. Noble ladies had no shortage of love for Spritzee."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791919496826960/682.png",
+    "discord_sprite": "<:P682:1132142749966155896>"
+}

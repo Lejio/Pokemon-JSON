@@ -1,0 +1,166 @@
+{
+    "alt-version(s)": [],
+    "name": "Wiglett",
+    "Wiglett": {
+        "pokedex_data": {
+            "National No.": "0960",
+            "Type": [
+                "Water"
+            ],
+            "Species": "Garden Eel Poke\u0301mon",
+            "Height": "1.2 m (3\u203211\u2032\u2032)",
+            "Weight": "1.8 kg (4.0 lbs)",
+            "Abilities": {
+                "Gooey": {
+                    "href": "/ability/gooey",
+                    "effect": "Contact with the Pok\u00e9mon lowers the attacker's Speed stat.",
+                    "hidden": false
+                },
+                "Rattled": {
+                    "href": "/ability/rattled",
+                    "effect": "Bug, Ghost or Dark type moves scare it and boost its Speed.",
+                    "hidden": false
+                },
+                "Sand Veil": {
+                    "href": "/ability/sand-veil",
+                    "effect": "Boosts the Pok\u00e9mon's evasion in a sandstorm.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Speed",
+            "Catch rate": "255",
+            "BaseFriendship": "50",
+            "Base Exp.": "49",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "10",
+                "Min": "130",
+                "Max": "224"
+            },
+            "Attack": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Defense": {
+                "Base": "25",
+                "Min": "49",
+                "Max": "163"
+            },
+            "Sp. Atk": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Sp. Def": {
+                "Base": "25",
+                "Min": "49",
+                "Max": "163"
+            },
+            "Speed": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Total": "245"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Wiglett",
+                    "nationalNo": "#0960",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Wugtrio",
+                    "nationalNo": "#0961",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 26)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Sand Attack": "1",
+            "Water Gun": "1",
+            "Mud-Slap": "4",
+            "Wrap": "8",
+            "Aqua Jet": "12",
+            "Slam": "20",
+            "Water Pulse": "20",
+            "Headbutt": "24",
+            "Dig": "28",
+            "Sucker Punch": "32",
+            "Throat Chop": "36",
+            "Liquidation": "40"
+        },
+        "egg": {
+            "Final Gambit": null,
+            "Memento": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Agility": "04",
+            "Mud-Slap": "05",
+            "Protect": "07",
+            "Water Pulse": "11",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Bulldoze": "28",
+            "Swift": "32",
+            "Mud Shot": "35",
+            "Endure": "47",
+            "Rain Dance": "50",
+            "Sandstorm": "51",
+            "Dig": "55",
+            "Foul Play": "62",
+            "Sleep Talk": "70",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Substitute": "103",
+            "Liquidation": "110",
+            "Surf": "123",
+            "Helping Hand": "130",
+            "Earth Power": "133",
+            "Ice Beam": "135",
+            "Hydro Pump": "142",
+            "Blizzard": "143",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Wiglett": [
+            "This Pok\u00e9mon can pick up the scent of a Veluza just over 65 feet away and will hide itself in the sand.",
+            "Though it looks like Diglett, Wiglett is an entirely different species. The resemblance seems to be a coincidental result of environmental adaptation."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131794088308510882/960.png",
+    "discord_sprite": "<:P960:1132155033216098374>"
+}

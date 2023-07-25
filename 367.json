@@ -1,0 +1,196 @@
+{
+    "alt-version(s)": [],
+    "name": "Huntail",
+    "Huntail": {
+        "pokedex_data": {
+            "National No.": "0367",
+            "Type": [
+                "Water"
+            ],
+            "Species": "Deep Sea Poke\u0301mon",
+            "Height": "1.7 m (5\u203207\u2032\u2032)",
+            "Weight": "27.0 kg (59.5 lbs)",
+            "Abilities": {
+                "Swift Swim": {
+                    "href": "/ability/swift-swim",
+                    "effect": "Boosts the Pok\u00e9mon's Speed in rain.",
+                    "hidden": false
+                },
+                "Water Veil": {
+                    "href": "/ability/water-veil",
+                    "effect": "Prevents the Pok\u00e9mon from getting a burn.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack, 1 Defense",
+            "Catch rate": "60",
+            "BaseFriendship": "50",
+            "Base Exp.": "170",
+            "Growth Rate": "Erratic"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "55",
+                "Min": "220",
+                "Max": "314"
+            },
+            "Attack": {
+                "Base": "104",
+                "Min": "191",
+                "Max": "337"
+            },
+            "Defense": {
+                "Base": "105",
+                "Min": "193",
+                "Max": "339"
+            },
+            "Sp. Atk": {
+                "Base": "94",
+                "Min": "173",
+                "Max": "315"
+            },
+            "Sp. Def": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Speed": {
+                "Base": "52",
+                "Min": "98",
+                "Max": "223"
+            },
+            "Total": "485"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Clamperl",
+                    "nationalNo": "#0366",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Huntail",
+                    "nationalNo": "#0367",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(trade holding Deep Sea Tooth)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Clamperl",
+                    "nationalNo": "#0366",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Gorebyss",
+                    "nationalNo": "#0368",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(trade holding Deep Sea Scale)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Bite": "1",
+            "Iron Defense": "1",
+            "Shell Smash": "1",
+            "Water Gun": "1",
+            "Whirlpool": "1",
+            "Screech": "5",
+            "Scary Face": "9",
+            "Rain Dance": "11",
+            "Water Pulse": "14",
+            "Ice Fang": "16",
+            "Brine": "19",
+            "Sucker Punch": "23",
+            "Dive": "26",
+            "Baton Pass": "29",
+            "Crunch": "34",
+            "Aqua Tail": "39",
+            "Coil": "45",
+            "Hydro Pump": "50"
+        },
+        "egg": {
+            "Aqua Ring": null,
+            "Body Slam": null,
+            "Confuse Ray": null,
+            "Muddy Water": null,
+            "Supersonic": null
+        },
+        "tm": {
+            "Water Pulse": "03",
+            "Hail": "07",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Double Team": "32",
+            "Rock Tomb": "39",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Scald": "49",
+            "Brine": "55",
+            "Endure": "58",
+            "Giga Impact": "68",
+            "Sleep Talk": "82",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Surf": "95",
+            "Waterfall": "99"
+        }
+    },
+    "entries": {
+        "Huntail": [
+            "HUNTAIL\u2019s presence went unnoticed by people for a long time because it lives at extreme depths in the sea. This pok\u00e9mon\u2019s eyes can see clearly even in the murky dark depths of the ocean.",
+            "HUNTAIL\u2019s tail is shaped like a fish. It uses the tail to attract prey, then swallows the prey whole with its large, gaping mouth. This pok\u00e9mon swims by wiggling its slender body like a snake.",
+            "It lives deep in the sea where no light ever filters down. It lights up its small fishlike tail to attract prey.",
+            "To withstand the crushing pressure of water deep under the sea, its spine is very thick and sturdy. Its tail, which is shaped like a small fish, has eyes that light up.",
+            "It lives deep in the sea. With a tail shaped like a small fish, it attracts unsuspecting prey.",
+            "It lives deep in the pitch-dark sea. It attracts prey by moving its tail in mimicry of a small animal.",
+            "It lives deep in the sea. With a tail shaped like a small fish, it attracts unsuspecting prey.",
+            "It lives deep in the sea where no light ever filters down. It lights up its small fishlike tail to attract prey.",
+            "It lives deep in the sea. With a tail shaped like a small fish, it attracts unsuspecting prey.",
+            "Huntail\u2019s presence went unnoticed by people for a long time because it lives at extreme depths in the sea. This Pok\u00e9mon\u2019s eyes can see clearly even in the murky dark depths of the ocean.",
+            "Huntail\u2019s tail is shaped like a fish. It uses the tail to attract prey, then swallows the prey whole with its large, gaping mouth. This Pok\u00e9mon swims by wiggling its slender body like a snake.",
+            "It\u2019s not the strongest swimmer. It wags its tail to lure in its prey and then gulps them down as soon as they get close.",
+            "Deep seas are their habitat. According to tradition, when Huntail wash up onshore, something unfortunate will happen.",
+            "It lives deep in the sea. With a tail shaped like a small fish, it attracts unsuspecting prey."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789468089725000/367.png",
+    "discord_sprite": "<:P367:1132128883425149018>"
+}

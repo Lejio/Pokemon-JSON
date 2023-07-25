@@ -1,0 +1,218 @@
+{
+    "alt-version(s)": [],
+    "name": "Flapple",
+    "Flapple": {
+        "pokedex_data": {
+            "National No.": "0841",
+            "Type": [
+                "Grass",
+                "Dragon"
+            ],
+            "Species": "Apple Wing Poke\u0301mon",
+            "Height": "0.3 m (1\u203200\u2032\u2032)",
+            "Weight": "1.0 kg (2.2 lbs)",
+            "Abilities": {
+                "Ripen": {
+                    "href": "/ability/ripen",
+                    "effect": "Doubles the effect of berries.",
+                    "hidden": false
+                },
+                "Gluttony": {
+                    "href": "/ability/gluttony",
+                    "effect": "Encourages the early use of a held Berry.",
+                    "hidden": false
+                },
+                "Hustle": {
+                    "href": "/ability/hustle",
+                    "effect": "Boosts the Attack stat, but lowers accuracy.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "170",
+            "Growth Rate": "Erratic"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "70",
+                "Min": "250",
+                "Max": "344"
+            },
+            "Attack": {
+                "Base": "110",
+                "Min": "202",
+                "Max": "350"
+            },
+            "Defense": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Sp. Atk": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Sp. Def": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Speed": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Total": "485"
+        },
+        "defense_stats": {
+            "default": {
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Poison": "super-effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Bug": "super-effective",
+                "Dragon": "super-effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Applin",
+                    "nationalNo": "#0840",
+                    "type": [
+                        "Grass",
+                        "Dragon"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Flapple",
+                    "nationalNo": "#0841",
+                    "type": [
+                        "Grass",
+                        "Dragon"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Tart Apple)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Applin",
+                    "nationalNo": "#0840",
+                    "type": [
+                        "Grass",
+                        "Dragon"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Appletun",
+                    "nationalNo": "#0842",
+                    "type": [
+                        "Grass",
+                        "Dragon"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Sweet Apple)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Astonish": "1",
+            "Growth": "1",
+            "Recycle": "1",
+            "Twister": "1",
+            "Withdraw": "1",
+            "Acid Spray": "4",
+            "Acrobatics": "8",
+            "Leech Seed": "12",
+            "Protect": "16",
+            "Dragon Breath": "20",
+            "Dragon Dance": "24",
+            "Dragon Pulse": "28",
+            "Grav Apple": "32",
+            "Iron Defense": "36",
+            "Fly": "40",
+            "Dragon Rush": "44"
+        },
+        "evolution": {
+            "Wing Attack": "60"
+        },
+        "egg": {
+            "Defense Curl": null,
+            "Recycle": null,
+            "Rollout": null,
+            "Sucker Punch": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Acid Spray": "13",
+            "Acrobatics": "14",
+            "Trailblaze": "20",
+            "Pounce": "21",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Magical Leaf": "33",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Bullet Seed": "56",
+            "U-turn": "60",
+            "Air Slash": "65",
+            "Sleep Talk": "70",
+            "Seed Bomb": "71",
+            "Grass Knot": "81",
+            "Rest": "85",
+            "Fly": "97",
+            "Dragon Dance": "100",
+            "Substitute": "103",
+            "Iron Defense": "104",
+            "Giga Drain": "111",
+            "Dragon Pulse": "115",
+            "Energy Ball": "119",
+            "Heavy Slam": "121",
+            "Grassy Terrain": "137",
+            "Giga Impact": "152",
+            "Outrage": "156",
+            "Leaf Storm": "159",
+            "Hyper Beam": "163",
+            "Solar Beam": "168",
+            "Draco Meteor": "169",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Flapple": [
+            "It ate a sour apple, and that induced its evolution. In its cheeks, it stores an acid capable of causing chemical burns.",
+            "It flies on wings of apple skin and spits a powerful acid. It can also change its shape into that of an apple.",
+            "It flutters around while seeking an opening in the opponent\u2019s guard, then attacks by spitting acidic liquid strong enough to melt metal.",
+            "It uses its own body fluid to repair its apple. Strong Flapple that have won many battles have apples that are clay colored all over."
+        ],
+        "Gigantamax": [
+            "Under the influence of Gigantamax energy, it produces much more sweet nectar, and its shape has changed to resemble a giant apple.",
+            "If it stretches its neck, the strong aroma of its nectar pours out. The scent is so sickeningly sweet that one whiff makes other Pok\u00e9mon faint."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793159798669383/841.png",
+    "discord_sprite": "<:P841:1132149800008171560>"
+}

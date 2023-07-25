@@ -1,0 +1,166 @@
+{
+    "alt-version(s)": [],
+    "name": "Illumise",
+    "Illumise": {
+        "pokedex_data": {
+            "National No.": "0314",
+            "Type": [
+                "Bug"
+            ],
+            "Species": "Firefly Poke\u0301mon",
+            "Height": "0.6 m (2\u203200\u2032\u2032)",
+            "Weight": "17.7 kg (39.0 lbs)",
+            "Abilities": {
+                "Oblivious": {
+                    "href": "/ability/oblivious",
+                    "effect": "Prevents it from becoming infatuated.",
+                    "hidden": false
+                },
+                "Tinted Lens": {
+                    "href": "/ability/tinted-lens",
+                    "effect": "Powers up \u201cnot very effective\u201d moves.",
+                    "hidden": false
+                },
+                "Prankster": {
+                    "href": "/ability/prankster",
+                    "effect": "Gives priority to a status move.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Speed",
+            "Catch rate": "150",
+            "BaseFriendship": "50",
+            "Base Exp.": "151",
+            "Growth Rate": "Fluctuating"
+        },
+        "breeding_data": {
+            "Gender": "0% male,100% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "65",
+                "Min": "240",
+                "Max": "334"
+            },
+            "Attack": {
+                "Base": "47",
+                "Min": "89",
+                "Max": "212"
+            },
+            "Defense": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Sp. Atk": {
+                "Base": "73",
+                "Min": "135",
+                "Max": "269"
+            },
+            "Sp. Def": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Speed": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Total": "430"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Grass": "not very effective",
+                "Fighting": "not very effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Rock": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Play Nice": "1",
+            "Tackle": "1",
+            "Sweet Scent": "5",
+            "Charm": "9",
+            "Quick Attack": "12",
+            "Struggle Bug": "15",
+            "Moonlight": "19",
+            "Wish": "22",
+            "Encore": "26",
+            "Flatter": "29",
+            "Zen Headbutt": "33",
+            "Helping Hand": "36",
+            "Bug Buzz": "40",
+            "Play Rough": "43",
+            "Covet": "47",
+            "Infestation": "50"
+        },
+        "egg": {
+            "Aromatherapy": null,
+            "Baton Pass": null,
+            "Confuse Ray": null,
+            "Encore": null,
+            "Fake Tears": null,
+            "Growth": null
+        },
+        "tm": {
+            "Focus Punch": "01",
+            "Water Pulse": "03",
+            "Sunny Day": "11",
+            "Light Screen": "16",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Giga Drain": "19",
+            "Dazzling Gleam": "21",
+            "Solar Beam": "22",
+            "Thunderbolt": "24",
+            "Thunder": "25",
+            "Shadow Ball": "30",
+            "Brick Break": "31",
+            "Double Team": "32",
+            "Shock Wave": "34",
+            "Aerial Ace": "40",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Roost": "51",
+            "Fling": "56",
+            "Charge Beam": "57",
+            "Endure": "58",
+            "Bug Buzz": "62",
+            "Flash": "70",
+            "Thunder Wave": "73",
+            "Psych Up": "77",
+            "Sleep Talk": "82",
+            "Swagger": "87",
+            "U-turn": "89",
+            "Substitute": "90"
+        }
+    },
+    "entries": {
+        "Illumise": [
+            "ILLUMISE attracts a swarm of VOLBEAT using a sweet fragrance. Once the VOLBEAT have gathered, this pok\u00e9mon leads the lit-up swarm in drawing geometric designs on the canvas of the night sky.",
+            "ILLUMISE leads a flight of illuminated VOLBEAT to draw signs in the night sky. This pok\u00e9mon is said to earn greater respect from its peers by composing more complex designs in the sky.",
+            "It guides VOLBEAT to draw signs in night skies. There are scientists that study the patterns it creates.",
+            "A nocturnal pok\u00e9mon that becomes active upon nightfall. It leads a VOLBEAT swarm to draw patterns in the night sky. Over 200 different patterns have been confirmed.",
+            "With its sweet aroma, it guides VOLBEAT to draw signs with light in the night sky.",
+            "Its fragrance attracts a swarm of VOLBEAT, so they draw over 200 patterns in the night sky.",
+            "With its sweet aroma, it guides Volbeat to draw signs with light in the night sky.",
+            "Its fragrance attracts a swarm of Volbeat, so they draw over 200 patterns in the night sky.",
+            "With its sweet aroma, it guides Volbeat to draw signs with light in the night sky.",
+            "Illumise attracts a swarm of Volbeat using a sweet fragrance. Once the Volbeat have gathered, this Pok\u00e9mon leads the lit-up swarm in drawing geometric designs on the canvas of the night sky.",
+            "Illumise leads a flight of illuminated Volbeat to draw signs in the night sky. This Pok\u00e9mon is said to earn greater respect from its peers by composing more complex designs in the sky.",
+            "With its sweet aroma, it guides Volbeat to draw signs with light in the night sky."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789055722532944/314.png",
+    "discord_sprite": "<:P314:1132126554563035288>"
+}

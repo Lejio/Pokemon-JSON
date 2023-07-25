@@ -1,0 +1,197 @@
+{
+    "alt-version(s)": [],
+    "name": "Aurorus",
+    "Aurorus": {
+        "pokedex_data": {
+            "National No.": "0699",
+            "Type": [
+                "Rock",
+                "Ice"
+            ],
+            "Species": "Tundra Poke\u0301mon",
+            "Height": "2.7 m (8\u203210\u2032\u2032)",
+            "Weight": "225.0 kg (496.0 lbs)",
+            "Abilities": {
+                "Refrigerate": {
+                    "href": "/ability/refrigerate",
+                    "effect": "Turns Normal-type moves into Ice-type moves.",
+                    "hidden": false
+                },
+                "Snow Warning": {
+                    "href": "/ability/snow-warning",
+                    "effect": "The Pok\u00e9mon summons a hailstorm in battle.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 HP",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "104",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "123",
+                "Min": "356",
+                "Max": "450"
+            },
+            "Attack": {
+                "Base": "77",
+                "Min": "143",
+                "Max": "278"
+            },
+            "Defense": {
+                "Base": "72",
+                "Min": "134",
+                "Max": "267"
+            },
+            "Sp. Atk": {
+                "Base": "99",
+                "Min": "182",
+                "Max": "326"
+            },
+            "Sp. Def": {
+                "Base": "92",
+                "Min": "170",
+                "Max": "311"
+            },
+            "Speed": {
+                "Base": "58",
+                "Min": "108",
+                "Max": "236"
+            },
+            "Total": "521"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Water": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Rock": "super-effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Amaura",
+                    "nationalNo": "#0698",
+                    "type": [
+                        "Rock",
+                        "Ice"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Aurorus",
+                    "nationalNo": "#0699",
+                    "type": [
+                        "Rock",
+                        "Ice"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 39, Nighttime)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Ancient Power": "1",
+            "Encore": "1",
+            "Growl": "1",
+            "Powder Snow": "1",
+            "Icy Wind": "12",
+            "Round": "16",
+            "Mist": "20",
+            "Aurora Beam": "24",
+            "Thunder Wave": "28",
+            "Nature Power": "32",
+            "Freeze-Dry": "36",
+            "Ice Beam": "42",
+            "Light Screen": "48",
+            "Hail": "54",
+            "Blizzard": "60",
+            "Hyper Beam": "66"
+        },
+        "egg": {
+            "Meteor Beam": null
+        },
+        "null": {
+            "Body Slam": "01",
+            "Ice Beam": "05",
+            "Blizzard": "06",
+            "Thunderbolt": "08",
+            "Thunder": "09",
+            "Earthquake": "10",
+            "Psychic": "11",
+            "Substitute": "20",
+            "Outrage": "24",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Encore": "30",
+            "Iron Tail": "31",
+            "Hyper Voice": "42",
+            "Iron Defense": "46",
+            "Calm Mind": "49",
+            "Dark Pulse": "58",
+            "Earth Power": "67",
+            "Zen Headbutt": "69",
+            "Flash Cannon": "70",
+            "Iron Head": "74",
+            "Stone Edge": "75",
+            "Stealth Rock": "76"
+        },
+        "tm": {
+            "Hyper Beam": "08",
+            "Giga Impact": "09",
+            "Thunder Wave": "14",
+            "Light Screen": "17",
+            "Reflect": "18",
+            "Safeguard": "19",
+            "Rest": "21",
+            "Rock Slide": "22",
+            "Snore": "24",
+            "Protect": "25",
+            "Icy Wind": "27",
+            "Attract": "31",
+            "Sandstorm": "32",
+            "Rain Dance": "33",
+            "Hail": "35",
+            "Facade": "39",
+            "Weather Ball": "46",
+            "Rock Tomb": "48",
+            "Icicle Spear": "51",
+            "Mud Shot": "53",
+            "Rock Blast": "54",
+            "Avalanche": "64",
+            "Round": "76",
+            "Bulldoze": "81"
+        }
+    },
+    "entries": {
+        "Aurorus": [
+            "The diamond-shaped crystals on its body expel air as cold as -240 degrees Fahrenheit, surrounding its enemies and encasing them in ice.",
+            "Using its diamond-shaped crystals, it can instantly create a wall of ice to block an opponent\u2019s attack.",
+            "An Aurorus was found frozen solid within a glacier, just as it appeared long ago, which became quite a big event in the news.",
+            "This usually quiet and kindly Pok\u00e9mon has a surface temperature of around \u2013240 degrees Fahrenheit.",
+            "Aurorus was restored from a fossil. It\u2019s said that when this Pok\u00e9mon howls, auroras appear in the night sky.",
+            "When gripped by rage, Aurorus will emanate freezing air, covering everything around it in ice."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792050539466902/699.png",
+    "discord_sprite": "<:P699:1132143499786076174>"
+}

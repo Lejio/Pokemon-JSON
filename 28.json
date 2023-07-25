@@ -1,0 +1,329 @@
+{
+    "alt-version(s)": [
+        "Alolan Sandslash"
+    ],
+    "name": "Sandslash",
+    "Sandslash": {
+        "pokedex_data": {
+            "National No.": "0028",
+            "Type": [
+                "Ground"
+            ],
+            "Species": "Mouse Poke\u0301mon",
+            "Height": "1.0 m (3\u203203\u2032\u2032)",
+            "Weight": "29.5 kg (65.0 lbs)",
+            "Abilities": {
+                "Sand Veil": {
+                    "href": "/ability/sand-veil",
+                    "effect": "Boosts the Pok\u00e9mon's evasion in a sandstorm.",
+                    "hidden": false
+                },
+                "Sand Rush": {
+                    "href": "/ability/sand-rush",
+                    "effect": "Boosts the Pok\u00e9mon's Speed in a sandstorm.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Defense",
+            "Catch rate": "90",
+            "BaseFriendship": "50",
+            "Base Exp.": "158",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "75",
+                "Min": "260",
+                "Max": "354"
+            },
+            "Attack": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Defense": {
+                "Base": "110",
+                "Min": "202",
+                "Max": "350"
+            },
+            "Sp. Atk": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Sp. Def": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Speed": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Total": "450"
+        },
+        "defense_stats": {
+            "default": {
+                "Water": "super-effective",
+                "Electric": "no effect",
+                "Grass": "super-effective",
+                "Ice": "super-effective",
+                "Poison": "not very effective",
+                "Rock": "not very effective"
+            }
+        }
+    },
+    "Alolan Sandslash": {
+        "pokedex_data": {
+            "National No.": "0028",
+            "Type": [
+                "Ice",
+                "Steel"
+            ],
+            "Species": "Mouse Poke\u0301mon",
+            "Height": "1.2 m (3\u203211\u2032\u2032)",
+            "Weight": "55.0 kg (121.3 lbs)",
+            "Abilities": {
+                "Snow Cloak": {
+                    "href": "/ability/snow-cloak",
+                    "effect": "Raises evasion in a hailstorm.",
+                    "hidden": false
+                },
+                "Slush Rush": {
+                    "href": "/ability/slush-rush",
+                    "effect": "Boosts the Pok\u00e9mon's Speed stat in a hailstorm.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Defense",
+            "Catch rate": "90",
+            "BaseFriendship": "50",
+            "Base Exp.": "158",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "75",
+                "Min": "260",
+                "Max": "354"
+            },
+            "Attack": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Defense": {
+                "Base": "120",
+                "Min": "220",
+                "Max": "372"
+            },
+            "Sp. Atk": {
+                "Base": "25",
+                "Min": "49",
+                "Max": "163"
+            },
+            "Sp. Def": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Speed": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Total": "450"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Fire": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Poison": "no effect",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "not very effective",
+                "Dragon": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Sandshrew",
+                    "nationalNo": "#0027",
+                    "type": [
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Sandslash",
+                    "nationalNo": "#0028",
+                    "type": [
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 22)",
+                "shed": null
+            }
+        ],
+        [
+            {
+                "from": {
+                    "name": "Sandshrew",
+                    "nationalNo": "#0027",
+                    "type": [
+                        "Ice",
+                        "Steel"
+                    ],
+                    "nickname": "Alolan Sandshrew"
+                },
+                "to": {
+                    "name": "Sandslash",
+                    "nationalNo": "#0028",
+                    "type": [
+                        "Ice",
+                        "Steel"
+                    ],
+                    "nickname": "Alolan Sandslash"
+                },
+                "requirement": "(use Ice Stone)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Agility": "1",
+            "Crush Claw": "1",
+            "Defense Curl": "1",
+            "Poison Sting": "1",
+            "Sand Attack": "1",
+            "Scratch": "1",
+            "Rollout": "9",
+            "Fury Cutter": "12",
+            "Rapid Spin": "15",
+            "Bulldoze": "18",
+            "Swift": "21",
+            "Fury Swipes": "26",
+            "Sand Tomb": "31",
+            "Slash": "36",
+            "Dig": "41",
+            "Gyro Ball": "46",
+            "Swords Dance": "51",
+            "Sandstorm": "56",
+            "Earthquake": "61"
+        },
+        "egg": {
+            "Counter": null,
+            "Crush Claw": null,
+            "Flail": null,
+            "Hone Claws": null,
+            "Metal Claw": null,
+            "Mud Shot": null,
+            "Mud-Slap": null,
+            "Night Slash": null,
+            "Rapid Spin": null
+        },
+        "tm": {
+            "Focus Punch": "01",
+            "Work Up": "10",
+            "Sunny Day": "11",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Safeguard": "20",
+            "Iron Tail": "23",
+            "Earthquake": "26",
+            "Dig": "28",
+            "Brick Break": "31",
+            "Double Team": "32",
+            "Sandstorm": "37",
+            "Rock Tomb": "39",
+            "Aerial Ace": "40",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Focus Blast": "52",
+            "Fling": "56",
+            "Endure": "58",
+            "Shadow Claw": "65",
+            "Giga Impact": "68",
+            "Stone Edge": "71",
+            "Gyro Ball": "74",
+            "Swords Dance": "75",
+            "Stealth Rock": "76",
+            "Rock Slide": "80",
+            "X-Scissor": "81",
+            "Sleep Talk": "82",
+            "Bulldoze": "83",
+            "Poison Jab": "84",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Cut": "93",
+            "Strength": "96",
+            "Rock Smash": "98",
+            "Rock Climb": "100"
+        }
+    },
+    "entries": {
+        "Sandslash": [
+            "Curls up into a spiny ball when threatened. It can roll while curled up to attack or escape.",
+            "It is skilled at slashing enemies with its claws. If broken, they start to grow back in a day.",
+            "In an attempt to hide itself, it will run around at top speed to kick up a blinding dust storm.",
+            "If it digs at an incredible pace, it may snap off its spikes and claws. They grow back in a day.",
+            "Adept at climbing trees, it rolls into a spiny ball, then attacks its enemies from above.",
+            "SANDSLASH\u2019s body is covered by tough spikes, which are hardened sections of its hide. Once a year, the old spikes fall out, to be replaced with new spikes that grow out from beneath the old ones.",
+            "SANDSLASH can roll up its body as if it were a ball covered with large spikes. In battle, this pok\u00e9mon will try to make the foe flinch by jabbing it with its spines. It then leaps at the stunned foe to tear wildly with its sharp claws.",
+            "It is adept at attacking with the spines on its back and its sharp claws while quickly scurrying about.",
+            "Curls up into a spiny ball when threatened. It can roll while curled up to attack or escape.",
+            "It curls up in a ball to protect itself from enemy attacks. It also curls up to prevent heatstroke during the daytime when temperatures rise sharply.",
+            "It curls up, then rolls into foes with its back. Its sharp spines inflict severe damage.",
+            "In an attempt to hide itself, it will run around at top speed to kick up a blinding dust storm.",
+            "If it digs at an incredible pace, it may snap off its spikes and claws. They grow back in a day.",
+            "It curls up, then rolls into foes with its back. Its sharp spines inflict severe damage.",
+            "The spikes on its body are made up of its hardened hide. It rolls up and attacks foes with its spikes.",
+            "If it digs at an incredible pace, it may snap off its spikes and claws. They grow back in a day.",
+            "Curls up into a spiny ball when threatened. It can roll while curled up to attack or escape.",
+            "Sandslash\u2019s body is covered by tough spikes, which are hardened sections of its hide. Once a year, the old spikes fall out, to be replaced with new spikes that grow out from beneath the old ones.",
+            "Sandslash can roll up its body as if it were a ball covered with large spikes. In battle, this Pok\u00e9mon will try to make the foe flinch by jabbing it with its spines. It then leaps at the stunned foe to tear wildly with its sharp claws.",
+            "Although they are sharp, its claws and spikes often break off. They grow back the next day, so it is not bothered by the temporary loss.",
+            "It uses its claws to climb trees and then curls its body into a spiny ball, ready to drop onto any prey that appears.",
+            "Its claws and horns often break off. The broken claws and horns can be used to carve plows for tilling farm fields.",
+            "Thanks to its thick claws, it\u2019s good at climbing trees. There are plenty of Sandslash that park themselves in trees and go right to sleep.",
+            "It is skilled at slashing enemies with its claws. If broken, they start to grow back in a day.",
+            "The drier the area Sandslash lives in, the harder and smoother the Pok\u00e9mon\u2019s spikes will feel when touched.",
+            "It climbs trees by hooking on with its sharp claws. Sandslash shares the berries it gathers, dropping them down to Sandshrew waiting below the tree.",
+            "It curls up, then rolls into foes with its back. Its sharp spines inflict severe damage."
+        ],
+        "Alolan Sandslash": [
+            "Fleeing a volcanic eruption, it settled on a snowy mountain. As it races through the snowfields, it sends up a spray of snow.",
+            "This Pok\u00e9mon\u2019s steel spikes are sheathed in ice. Stabs from these spikes cause deep wounds and severe frostbite as well.",
+            "It runs across snow-covered plains at high speeds. It developed thick, sharp claws to plow through the snow.",
+            "A long, long time ago, it lived in the desert. With its sharp claws fully extended, it can climb right up an iceberg without slipping.",
+            "This is Sandslash\u2019s form after adaptation to a frigid environment. The cold air emitted by its body sharpens its icy spikes.",
+            "It uses large, hooked claws to cut a path through deep snow as it runs. On snowy mountains, this Sandslash is faster than any other Pok\u00e9mon.",
+            "Many people climb snowy mountains, hoping to see the icy spikes of these Pok\u00e9mon glistening in the light of dawn."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131786807982424084/28.png",
+    "discord_sprite": "<:P28:1131973123252699276>"
+}

@@ -1,0 +1,189 @@
+{
+    "alt-version(s)": [],
+    "name": "Charjabug",
+    "Charjabug": {
+        "pokedex_data": {
+            "National No.": "0737",
+            "Type": [
+                "Bug",
+                "Electric"
+            ],
+            "Species": "Battery Poke\u0301mon",
+            "Height": "0.5 m (1\u203208\u2032\u2032)",
+            "Weight": "10.5 kg (23.1 lbs)",
+            "Abilities": {
+                "Battery": {
+                    "href": "/ability/battery",
+                    "effect": "Raises power of teammates' Special moves.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Defense",
+            "Catch rate": "120",
+            "BaseFriendship": "50",
+            "Base Exp.": "140",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "57",
+                "Min": "224",
+                "Max": "318"
+            },
+            "Attack": {
+                "Base": "82",
+                "Min": "152",
+                "Max": "289"
+            },
+            "Defense": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Sp. Atk": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Sp. Def": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Speed": {
+                "Base": "36",
+                "Min": "69",
+                "Max": "188"
+            },
+            "Total": "400"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Fighting": "not very effective",
+                "Rock": "super-effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Grubbin",
+                    "nationalNo": "#0736",
+                    "type": [
+                        "Bug"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Charjabug",
+                    "nationalNo": "#0737",
+                    "type": [
+                        "Bug",
+                        "Electric"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 20)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Charjabug",
+                    "nationalNo": "#0737",
+                    "type": [
+                        "Bug",
+                        "Electric"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Vikavolt",
+                    "nationalNo": "#0738",
+                    "type": [
+                        "Bug",
+                        "Electric"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Thunder Stone, in Gen 8, or level up in a Magnetic Field area)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Bug Bite": "1",
+            "Charge": "1",
+            "Mud-Slap": "1",
+            "String Shot": "1",
+            "Vise Grip": "1",
+            "Bite": "15",
+            "Spark": "23",
+            "Sticky Web": "29",
+            "X-Scissor": "36",
+            "Crunch": "43",
+            "Dig": "50",
+            "Iron Defense": "57",
+            "Discharge": "64"
+        },
+        "evolution": {
+            "Charge": "\u2014"
+        },
+        "egg": {
+            "Discharge": null,
+            "Harden": null
+        },
+        "null": {
+            "Thunderbolt": "08",
+            "Substitute": "20",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Crunch": "32",
+            "Iron Defense": "46",
+            "Poison Jab": "57",
+            "X-Scissor": "60",
+            "Electro Ball": "80",
+            "Wild Charge": "86"
+        },
+        "tm": {
+            "Thunder Wave": "14",
+            "Dig": "15",
+            "Screech": "16",
+            "Light Screen": "17",
+            "Rest": "21",
+            "Snore": "24",
+            "Protect": "25",
+            "Attract": "31",
+            "Rain Dance": "33",
+            "Facade": "39",
+            "Mud Shot": "53",
+            "Round": "76",
+            "Acrobatics": "78",
+            "Volt Switch": "80",
+            "Electroweb": "82",
+            "Eerie Impulse": "93"
+        }
+    },
+    "entries": {
+        "Charjabug": [
+            "Its body is capable of storing electricity. On camping trips, people are grateful to have one around.",
+            "From the food it digests, it generates electricity, and it stores this energy in its electric sac.",
+            "It buries itself in fallen leaves and barely moves, munching away on humus. If you accidentally step on one, you\u2019ll get a shock!",
+            "Its stout shell provides excellent defense from attacks. It uses electricity on persistent opponents.",
+            "While its durable shell protects it from attacks, Charjabug strikes at enemies with jolts of electricity discharged from the tips of its jaws.",
+            "Its digestive processes convert the leaves it eats into electricity. An electric sac in its belly stores the electricity for later use."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792353515012246/737.png",
+    "discord_sprite": "<:P737:1132145163129585754>"
+}

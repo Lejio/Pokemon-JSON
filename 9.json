@@ -1,0 +1,308 @@
+{
+    "alt-version(s)": [
+        "Mega Blastoise"
+    ],
+    "name": "Blastoise",
+    "Blastoise": {
+        "pokedex_data": {
+            "National No.": "0009",
+            "Type": [
+                "Water"
+            ],
+            "Species": "Shellfish Poke\u0301mon",
+            "Height": "1.6 m (5\u203203\u2032\u2032)",
+            "Weight": "85.5 kg (188.5 lbs)",
+            "Abilities": {
+                "Torrent": {
+                    "href": "/ability/torrent",
+                    "effect": "Powers up Water-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Rain Dish": {
+                    "href": "/ability/rain-dish",
+                    "effect": "The Pok\u00e9mon gradually regains HP in rain.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Sp. Def",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "239",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "79",
+                "Min": "268",
+                "Max": "362"
+            },
+            "Attack": {
+                "Base": "83",
+                "Min": "153",
+                "Max": "291"
+            },
+            "Defense": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Sp. Atk": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Sp. Def": {
+                "Base": "105",
+                "Min": "193",
+                "Max": "339"
+            },
+            "Speed": {
+                "Base": "78",
+                "Min": "144",
+                "Max": "280"
+            },
+            "Total": "530"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "Mega Blastoise": {
+        "pokedex_data": {
+            "National No.": "0009",
+            "Type": [
+                "Water"
+            ],
+            "Species": "Shellfish Poke\u0301mon",
+            "Height": "1.6 m (5\u203203\u2032\u2032)",
+            "Weight": "101.1 kg (222.9 lbs)",
+            "Abilities": {
+                "Mega Launcher": {
+                    "href": "/ability/mega-launcher",
+                    "effect": "Boosts the power of aura and pulse moves.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Sp. Def",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "284",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "79",
+                "Min": "268",
+                "Max": "362"
+            },
+            "Attack": {
+                "Base": "103",
+                "Min": "189",
+                "Max": "335"
+            },
+            "Defense": {
+                "Base": "120",
+                "Min": "220",
+                "Max": "372"
+            },
+            "Sp. Atk": {
+                "Base": "135",
+                "Min": "247",
+                "Max": "405"
+            },
+            "Sp. Def": {
+                "Base": "115",
+                "Min": "211",
+                "Max": "361"
+            },
+            "Speed": {
+                "Base": "78",
+                "Min": "144",
+                "Max": "280"
+            },
+            "Total": "630"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Squirtle",
+                    "nationalNo": "#0007",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Wartortle",
+                    "nationalNo": "#0008",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 16)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Wartortle",
+                    "nationalNo": "#0008",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Blastoise",
+                    "nationalNo": "#0009",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 36)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Flash Cannon": "1",
+            "Tackle": "1",
+            "Tail Whip": "1",
+            "Water Gun": "1",
+            "Withdraw": "1",
+            "Rapid Spin": "9",
+            "Bite": "12",
+            "Water Pulse": "15",
+            "Protect": "20",
+            "Rain Dance": "25",
+            "Aqua Tail": "30",
+            "Shell Smash": "35",
+            "Iron Defense": "42",
+            "Hydro Pump": "49",
+            "Skull Bash": "56"
+        },
+        "evolution": {
+            "Flash Cannon": "80"
+        },
+        "egg": {
+            "Aqua Jet": null,
+            "Aqua Ring": null,
+            "Aura Sphere": null,
+            "Fake Out": null,
+            "Flail": null,
+            "Haze": null,
+            "Life Dew": null,
+            "Mirror Coat": null,
+            "Mist": null,
+            "Muddy Water": null,
+            "Water Spout": null,
+            "Yawn": null
+        },
+        "null": {
+            "Hydro Cannon": "150"
+        },
+        "tm": {
+            "Focus Punch": "01",
+            "Water Pulse": "03",
+            "Roar": "05",
+            "Hail": "07",
+            "Work Up": "10",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Iron Tail": "23",
+            "Earthquake": "26",
+            "Dig": "28",
+            "Brick Break": "31",
+            "Double Team": "32",
+            "Rock Tomb": "39",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Scald": "49",
+            "Focus Blast": "52",
+            "False Swipe": "54",
+            "Brine": "55",
+            "Fling": "56",
+            "Endure": "58",
+            "Dragon Pulse": "59",
+            "Giga Impact": "68",
+            "Avalanche": "72",
+            "Gyro Ball": "74",
+            "Dark Pulse": "79",
+            "Rock Slide": "80",
+            "Sleep Talk": "82",
+            "Bulldoze": "83",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Flash Cannon": "91",
+            "Surf": "95",
+            "Strength": "96",
+            "Rock Smash": "98",
+            "Waterfall": "99",
+            "Rock Climb": "100"
+        }
+    },
+    "entries": {
+        "Blastoise": [
+            "A brutal pok\u00e9mon with pressurized water jets on its shell. They are used for high speed tackles.",
+            "Once it takes aim at its enemy, it blasts out water with even more force than a fire hose.",
+            "It deliberately makes itself heavy so it can withstand the recoil of the water jets it fires.",
+            "The rocket cannons on its shell fire jets of water capable of punching holes through thick steel.",
+            "It firmly plants its feet on the ground before shooting water from the jets on its back.",
+            "BLASTOISE has water spouts that protrude from its shell. The water spouts are very accurate. They can shoot bullets of water with enough accuracy to strike empty cans from a distance of over 160 feet.",
+            "It crushes its foe under its heavy body to cause fainting. In a pinch, it will withdraw inside its shell.",
+            "The pressurized water jets on this brutal pok\u00e9mon\u2019s shell are used for high-speed tackles.",
+            "The waterspouts that protrude from its shell are highly accurate. Their bullets of water can precisely nail tin cans from a distance of over 160 feet.",
+            "The jets of water it spouts from the rocket cannons on its shell can punch through thick steel.",
+            "It deliberately makes itself heavy so it can withstand the recoil of the water jets it fires.",
+            "The rocket cannons on its shell fire jets of water capable of punching holes through thick steel.",
+            "The jets of water it spouts from the rocket cannons on its shell can punch through thick steel.",
+            "It crushes its foe under its heavy body to cause fainting. In a pinch, it will withdraw inside its shell.",
+            "The pressurized water jets on this brutal Pok\u00e9mon\u2019s shell are used for high-speed tackles.",
+            "Blastoise has water spouts that protrude from its shell. The water spouts are very accurate. They can shoot bullets of water with enough accuracy to strike empty cans from a distance of over 160 feet.",
+            "Once it takes aim at its enemy, it blasts out water with even more force than a fire hose.",
+            "It crushes its foe under its heavy body to cause fainting. In a pinch, it will withdraw inside its shell.",
+            "The rocket cannons on its shell fire jets of water capable of punching holes through thick steel.",
+            "The jets of water it spouts from the rocket cannons on its shell can punch through thick steel."
+        ],
+        "Mega Blastoise": [
+            "The cannon on its back is as powerful as a tank gun. Its tough legs and back enable it to withstand the recoil from firing the cannon."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131786658627453049/9.png",
+    "discord_sprite": "<:P9:1131972288607162458>"
+}

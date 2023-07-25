@@ -1,0 +1,229 @@
+{
+    "alt-version(s)": [],
+    "name": "Bisharp",
+    "Bisharp": {
+        "pokedex_data": {
+            "National No.": "0625",
+            "Type": [
+                "Dark",
+                "Steel"
+            ],
+            "Species": "Sword Blade Poke\u0301mon",
+            "Height": "1.6 m (5\u203203\u2032\u2032)",
+            "Weight": "70.0 kg (154.3 lbs)",
+            "Abilities": {
+                "Defiant": {
+                    "href": "/ability/defiant",
+                    "effect": "Sharply raises Attack when the Pok\u00e9mon's stats are lowered.",
+                    "hidden": false
+                },
+                "Inner Focus": {
+                    "href": "/ability/inner-focus",
+                    "effect": "The Pok\u00e9mon is protected from flinching.",
+                    "hidden": false
+                },
+                "Pressure": {
+                    "href": "/ability/pressure",
+                    "effect": "The Pok\u00e9mon raises the foe's PP usage.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "45",
+            "BaseFriendship": "35",
+            "Base Exp.": "172",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "65",
+                "Min": "240",
+                "Max": "334"
+            },
+            "Attack": {
+                "Base": "125",
+                "Min": "229",
+                "Max": "383"
+            },
+            "Defense": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Sp. Atk": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Def": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Speed": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Total": "490"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Fire": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Poison": "no effect",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Psychic": "no effect",
+                "Rock": "not very effective",
+                "Ghost": "not very effective",
+                "Dragon": "not very effective",
+                "Dark": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Pawniard",
+                    "nationalNo": "#0624",
+                    "type": [
+                        "Dark",
+                        "Steel"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Bisharp",
+                    "nationalNo": "#0625",
+                    "type": [
+                        "Dark",
+                        "Steel"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 52)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Bisharp",
+                    "nationalNo": "#0625",
+                    "type": [
+                        "Dark",
+                        "Steel"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Kingambit",
+                    "nationalNo": "#0983",
+                    "type": [
+                        "Dark",
+                        "Steel"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(defeat 3 Bisharp that are holding Leader's Crest)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Fury Cutter": "1",
+            "Leer": "1",
+            "Metal Burst": "1",
+            "Metal Claw": "1",
+            "Scratch": "1",
+            "Torment": "15",
+            "Scary Face": "20",
+            "Assurance": "25",
+            "Metal Sound": "30",
+            "Slash": "35",
+            "Night Slash": "40",
+            "Iron Defense": "45",
+            "Retaliate": "50",
+            "Iron Head": "57",
+            "Swords Dance": "64",
+            "Guillotine": "71"
+        },
+        "egg": {
+            "Headbutt": null,
+            "Mean Look": null,
+            "Quick Guard": null,
+            "Sucker Punch": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Low Kick": "12",
+            "Thief": "18",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Snarl": "30",
+            "Metal Claw": "31",
+            "Rock Tomb": "36",
+            "Low Sweep": "39",
+            "Fling": "43",
+            "Endure": "47",
+            "Rain Dance": "50",
+            "Sandstorm": "51",
+            "Dig": "55",
+            "False Swipe": "57",
+            "Brick Break": "58",
+            "Shadow Claw": "61",
+            "Foul Play": "62",
+            "Air Slash": "65",
+            "Sleep Talk": "70",
+            "Grass Knot": "81",
+            "Thunder Wave": "82",
+            "Poison Jab": "83",
+            "Rest": "85",
+            "Taunt": "87",
+            "Swords Dance": "88",
+            "Flash Cannon": "93",
+            "Dark Pulse": "94",
+            "Iron Head": "99",
+            "Substitute": "103",
+            "Iron Defense": "104",
+            "X-Scissor": "105",
+            "Stealth Rock": "116",
+            "Reversal": "134",
+            "Stone Edge": "150",
+            "Giga Impact": "152",
+            "Focus Blast": "158",
+            "Hyper Beam": "163",
+            "Steel Beam": "170",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Bisharp": [
+            "It leads a group of Pawniard. It battles to become the boss, but will be driven from the group if it loses.",
+            "Bisharp pursues prey in the company of a large group of Pawniard. Then Bisharp finishes off the prey.",
+            "This pitiless Pok\u00e9mon commands a group of Pawniard to hound prey into immobility. It then moves in to finish the prey off.",
+            "This pitiless Pok\u00e9mon commands a group of Pawniard to hound prey into immobility. It then moves in to finish the prey off.",
+            "Bisharp pursues prey in the company of a large group of Pawniard. Then Bisharp finishes off the prey.",
+            "No matter how strong the Bisharp, it\u2019s said that if the blade on its head is chipped, it will retire from its position as the boss.",
+            "It leads a group of Pawniard. Bisharp doesn\u2019t even change its expression when it deals the finishing blow to an opponent.",
+            "It\u2019s accompanied by a large retinue of Pawniard. Bisharp keeps a keen eye on its minions, ensuring none of them even think of double-crossing it.",
+            "Violent conflicts erupt between Bisharp and Fraxure over places where sharpening stones can be found.",
+            "This Pok\u00e9mon commands a group of several Pawniard. Groups that are defeated in territorial disputes are absorbed by the winning side.",
+            "Bisharp mercilessly cuts its opponents to pieces with the sharp blades covering its body. It will do anything to win."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791477262012537/625.png",
+    "discord_sprite": "<:P625:1132140246822310101>"
+}

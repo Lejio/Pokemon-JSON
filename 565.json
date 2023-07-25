@@ -1,0 +1,228 @@
+{
+    "alt-version(s)": [],
+    "name": "Carracosta",
+    "Carracosta": {
+        "pokedex_data": {
+            "National No.": "0565",
+            "Type": [
+                "Water",
+                "Rock"
+            ],
+            "Species": "Prototurtle Poke\u0301mon",
+            "Height": "1.2 m (3\u203211\u2032\u2032)",
+            "Weight": "81.0 kg (178.6 lbs)",
+            "Abilities": {
+                "Solid Rock": {
+                    "href": "/ability/solid-rock",
+                    "effect": "Reduces damage from super-effective attacks.",
+                    "hidden": false
+                },
+                "Sturdy": {
+                    "href": "/ability/sturdy",
+                    "effect": "It cannot be knocked out with one hit.",
+                    "hidden": false
+                },
+                "Swift Swim": {
+                    "href": "/ability/swift-swim",
+                    "effect": "Boosts the Pok\u00e9mon's Speed in rain.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Defense",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "173",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "74",
+                "Min": "258",
+                "Max": "352"
+            },
+            "Attack": {
+                "Base": "108",
+                "Min": "198",
+                "Max": "346"
+            },
+            "Defense": {
+                "Base": "133",
+                "Min": "243",
+                "Max": "401"
+            },
+            "Sp. Atk": {
+                "Base": "83",
+                "Min": "153",
+                "Max": "291"
+            },
+            "Sp. Def": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Speed": {
+                "Base": "32",
+                "Min": "62",
+                "Max": "179"
+            },
+            "Total": "495"
+        },
+        "defense_stats": {
+            "Solid Rock ability": {
+                "Normal": "not very effective",
+                "Fire": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective"
+            },
+            "Sturdy ability": {
+                "Normal": "not very effective",
+                "Fire": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective"
+            },
+            "Swift Swim ability": {
+                "Normal": "not very effective",
+                "Fire": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Tirtouga",
+                    "nationalNo": "#0564",
+                    "type": [
+                        "Water",
+                        "Rock"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Carracosta",
+                    "nationalNo": "#0565",
+                    "type": [
+                        "Water",
+                        "Rock"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 37)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Aqua Jet": "1",
+            "Protect": "1",
+            "Water Gun": "1",
+            "Withdraw": "1",
+            "Smack Down": "9",
+            "Ancient Power": "12",
+            "Bite": "15",
+            "Wide Guard": "18",
+            "Brine": "21",
+            "Rock Slide": "24",
+            "Crunch": "27",
+            "Curse": "30",
+            "Iron Defense": "33",
+            "Aqua Tail": "36",
+            "Rain Dance": "41",
+            "Hydro Pump": "46",
+            "Shell Smash": "51"
+        },
+        "egg": {
+            "Meteor Beam": null
+        },
+        "null": {
+            "Body Slam": "01",
+            "Hydro Pump": "03",
+            "Surf": "04",
+            "Ice Beam": "05",
+            "Blizzard": "06",
+            "Low Kick": "07",
+            "Earthquake": "10",
+            "Waterfall": "16",
+            "Substitute": "20",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Iron Tail": "31",
+            "Crunch": "32",
+            "Superpower": "39",
+            "Muddy Water": "45",
+            "Iron Defense": "46",
+            "Focus Blast": "64",
+            "Earth Power": "67",
+            "Zen Headbutt": "69",
+            "Iron Head": "74",
+            "Stone Edge": "75",
+            "Stealth Rock": "76",
+            "Scald": "84",
+            "Liquidation": "98"
+        },
+        "tm": {
+            "Hyper Beam": "08",
+            "Giga Impact": "09",
+            "Dig": "15",
+            "Rest": "21",
+            "Rock Slide": "22",
+            "Snore": "24",
+            "Protect": "25",
+            "Icy Wind": "27",
+            "Attract": "31",
+            "Sandstorm": "32",
+            "Rain Dance": "33",
+            "Whirlpool": "36",
+            "Facade": "39",
+            "Dive": "45",
+            "Rock Tomb": "48",
+            "Mud Shot": "53",
+            "Rock Blast": "54",
+            "Brine": "55",
+            "Guard Swap": "61",
+            "Round": "76",
+            "Bulldoze": "81",
+            "Razor Shell": "83"
+        }
+    },
+    "entries": {
+        "Carracosta": [
+            "They can live both in the ocean and on land. A slap from one of them is enough to open a hole in the bottom of a tanker.",
+            "Incredible jaw strength enables them to chew up steel beams and rocks along with their prey.",
+            "It could knock out a foe with a slap from one of its developed front appendages and chew it up, shell or bones and all.",
+            "They can live both in the ocean and on land. A slap from one of them is enough to open a hole in the bottom of a tanker.",
+            "It could knock out a foe with a slap from one of its developed front appendages and chew it up, shell or bones and all.",
+            "It constructed its sturdy shell by crunching and swallowing the hard shells or bones of its prey.",
+            "Active both on land and in the sea, this Pok\u00e9mon drags its land-based prey into the water to finish it off.",
+            "Its jaws are terrifyingly powerful. It could eat Omastar and Omanyte whole and not be bothered in the slightest by their shells.",
+            "Carracosta eats every last bit of the prey it catches, even the shells and bones, to further strengthen its sturdy shell.",
+            "Carracosta completely devours its prey\u2014bones, shells, and all. Because of this, Carracosta\u2019s own shell grows thick and sturdy.",
+            "This Pok\u00e9mon emerges from the water in search of prey despite the fact that it moves more slowly on land."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791004379398174/565.png",
+    "discord_sprite": "<:P565:1132137599104979096>"
+}

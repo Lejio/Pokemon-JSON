@@ -1,0 +1,201 @@
+{
+    "alt-version(s)": [],
+    "name": "Crabominable",
+    "Crabominable": {
+        "pokedex_data": {
+            "National No.": "0740",
+            "Type": [
+                "Fighting",
+                "Ice"
+            ],
+            "Species": "Woolly Crab Poke\u0301mon",
+            "Height": "1.7 m (5\u203207\u2032\u2032)",
+            "Weight": "180.0 kg (396.8 lbs)",
+            "Abilities": {
+                "Hyper Cutter": {
+                    "href": "/ability/hyper-cutter",
+                    "effect": "Prevents other Pok\u00e9mon from lowering Attack stat.",
+                    "hidden": false
+                },
+                "Iron Fist": {
+                    "href": "/ability/iron-fist",
+                    "effect": "Boosts the power of punching moves.",
+                    "hidden": false
+                },
+                "Anger Point": {
+                    "href": "/ability/anger-point",
+                    "effect": "Maxes Attack after taking a critical hit.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "60",
+            "BaseFriendship": "50",
+            "Base Exp.": "167",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "97",
+                "Min": "304",
+                "Max": "398"
+            },
+            "Attack": {
+                "Base": "132",
+                "Min": "242",
+                "Max": "399"
+            },
+            "Defense": {
+                "Base": "77",
+                "Min": "143",
+                "Max": "278"
+            },
+            "Sp. Atk": {
+                "Base": "62",
+                "Min": "116",
+                "Max": "245"
+            },
+            "Sp. Def": {
+                "Base": "67",
+                "Min": "125",
+                "Max": "256"
+            },
+            "Speed": {
+                "Base": "43",
+                "Min": "81",
+                "Max": "203"
+            },
+            "Total": "478"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Flying": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Dark": "not very effective",
+                "Steel": "super-effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Crabrawler",
+                    "nationalNo": "#0739",
+                    "type": [
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Crabominable",
+                    "nationalNo": "#0740",
+                    "type": [
+                        "Fighting",
+                        "Ice"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Ice Stone, or at Mount Lanakila in Alola)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Leer": "1",
+            "Protect": "1",
+            "Rock Smash": "1",
+            "Bubble Beam": "17",
+            "Brick Break": "22",
+            "Slam": "25",
+            "Avalanche": "29",
+            "Reversal": "33",
+            "Ice Hammer": "37",
+            "Iron Defense": "42",
+            "Dynamic Punch": "45",
+            "Close Combat": "49"
+        },
+        "evolution": {
+            "Ice Punch": "75"
+        },
+        "egg": {
+            "Endeavor": null,
+            "Focus Punch": null,
+            "Superpower": null,
+            "Wide Guard": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Mud-Slap": "05",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Thief": "18",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Bulldoze": "28",
+            "Swift": "32",
+            "Icy Wind": "34",
+            "Mud Shot": "35",
+            "Rock Tomb": "36",
+            "Fling": "43",
+            "Avalanche": "46",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Snowscape": "52",
+            "Dig": "55",
+            "Brick Break": "58",
+            "Zen Headbutt": "59",
+            "Bulk Up": "64",
+            "Body Slam": "66",
+            "Thunder Punch": "68",
+            "Ice Punch": "69",
+            "Sleep Talk": "70",
+            "Drain Punch": "73",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Body Press": "89",
+            "Iron Head": "99",
+            "Gunk Shot": "102",
+            "Substitute": "103",
+            "Iron Defense": "104",
+            "Liquidation": "110",
+            "Ice Spinner": "124",
+            "Amnesia": "128",
+            "Helping Hand": "130",
+            "Reversal": "134",
+            "Ice Beam": "135",
+            "Blizzard": "143",
+            "Earthquake": "149",
+            "Giga Impact": "152",
+            "Focus Blast": "158",
+            "Hyper Beam": "163",
+            "Close Combat": "167",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Crabominable": [
+            "It aimed for the top but got lost and ended up on a snowy mountain. Being forced to endure the cold, this Pok\u00e9mon evolved and grew fur.",
+            "It just throws punches indiscriminately. In times of desperation, it can lop off its own pincers and fire them like rockets.",
+            "It stores coldness in its pincers and pummels its foes. It can even smash thick walls of ice to bits!",
+            "Before it stops to think, it just starts pummeling. There are records of its turning back avalanches with a flurry of punches.",
+            "The detached pincers of these Pok\u00e9mon are delicious. Some Trainers bring Lechonk into the mountains just to search for them.",
+            "Though its punches are powerful, this Pok\u00e9mon\u2019s movements are sluggish. It blows icy bubbles from its mouth to immobilize its opponents."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792376881492120/740.png",
+    "discord_sprite": "<:P740:1132145294964969512>"
+}

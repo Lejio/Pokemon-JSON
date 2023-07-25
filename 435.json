@@ -1,0 +1,203 @@
+{
+    "alt-version(s)": [],
+    "name": "Skuntank",
+    "Skuntank": {
+        "pokedex_data": {
+            "National No.": "0435",
+            "Type": [
+                "Poison",
+                "Dark"
+            ],
+            "Species": "Skunk Poke\u0301mon",
+            "Height": "1.0 m (3\u203203\u2032\u2032)",
+            "Weight": "38.0 kg (83.8 lbs)",
+            "Abilities": {
+                "Stench": {
+                    "href": "/ability/stench",
+                    "effect": "The stench may cause the target to flinch.",
+                    "hidden": false
+                },
+                "Aftermath": {
+                    "href": "/ability/aftermath",
+                    "effect": "Damages the attacker landing the finishing hit.",
+                    "hidden": false
+                },
+                "Keen Eye": {
+                    "href": "/ability/keen-eye",
+                    "effect": "Prevents other Pok\u00e9mon from lowering accuracy.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 HP",
+            "Catch rate": "60",
+            "BaseFriendship": "50",
+            "Base Exp.": "168",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "103",
+                "Min": "316",
+                "Max": "410"
+            },
+            "Attack": {
+                "Base": "93",
+                "Min": "171",
+                "Max": "313"
+            },
+            "Defense": {
+                "Base": "67",
+                "Min": "125",
+                "Max": "256"
+            },
+            "Sp. Atk": {
+                "Base": "71",
+                "Min": "132",
+                "Max": "265"
+            },
+            "Sp. Def": {
+                "Base": "61",
+                "Min": "114",
+                "Max": "243"
+            },
+            "Speed": {
+                "Base": "84",
+                "Min": "155",
+                "Max": "293"
+            },
+            "Total": "479"
+        },
+        "defense_stats": {
+            "default": {
+                "Grass": "not very effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Psychic": "no effect",
+                "Ghost": "not very effective",
+                "Dark": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Stunky",
+                    "nationalNo": "#0434",
+                    "type": [
+                        "Poison",
+                        "Dark"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Skuntank",
+                    "nationalNo": "#0435",
+                    "type": [
+                        "Poison",
+                        "Dark"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 34)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Feint": "1",
+            "Poison Gas": "1",
+            "Scratch": "1",
+            "Smokescreen": "1",
+            "Fury Swipes": "12",
+            "Focus Energy": "15",
+            "Bite": "18",
+            "Venoshock": "21",
+            "Screech": "24",
+            "Toxic": "27",
+            "Sucker Punch": "30",
+            "Memento": "33",
+            "Night Slash": "38",
+            "Belch": "43",
+            "Explosion": "48"
+        },
+        "evolution": {
+            "Flamethrower": "90"
+        },
+        "egg": {
+            "Astonish": null,
+            "Double-Edge": null,
+            "Haze": null,
+            "Leer": null,
+            "Slash": null,
+            "Smog": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Acid Spray": "13",
+            "Thief": "18",
+            "Trailblaze": "20",
+            "Fire Spin": "24",
+            "Facade": "25",
+            "Poison Tail": "26",
+            "Hex": "29",
+            "Snarl": "30",
+            "Swift": "32",
+            "Venoshock": "45",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Dig": "55",
+            "Shadow Claw": "61",
+            "Foul Play": "62",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Poison Jab": "83",
+            "Rest": "85",
+            "Taunt": "87",
+            "Toxic Spikes": "91",
+            "Dark Pulse": "94",
+            "Gunk Shot": "102",
+            "Substitute": "103",
+            "Crunch": "108",
+            "Shadow Ball": "114",
+            "Flamethrower": "125",
+            "Play Rough": "127",
+            "Helping Hand": "130",
+            "Nasty Plot": "140",
+            "Fire Blast": "141",
+            "Sludge Bomb": "148",
+            "Giga Impact": "152",
+            "Hyper Beam": "163",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Skuntank": [
+            "It sprays a vile-smelling fluid from the tip of its tail to attack. Its range is over 160 feet.",
+            "It sprays a stinky fluid from its tail. The fluid smells worse the longer it is allowed to fester.",
+            "It attacks by spraying a horribly smelly fluid from the tip of its tail. Attacks from above confound it.",
+            "It attacks by spraying a repugnant fluid from its tail, but the stench dulls after a few squirts.",
+            "It attacks by spraying a horribly smelly fluid from the tip of its tail. Attacks from above confound it.",
+            "It sprays a vile-smelling fluid from the tip of its tail to attack. Its range is over 160 feet.",
+            "It sprays a stinky fluid from its tail. The fluid smells worse the longer it is allowed to fester.",
+            "In its belly, it reserves stinky fluid that it shoots from its tail during battle. As this Pok\u00e9mon\u2019s diet varies, so does the stench of its fluid.",
+            "It digs holes in the ground to make its nest. The stench of the fluid it lets fly from the tip of its tail is extremely potent.",
+            "It sprays a vile-smelling fluid from the tip of its tail to attack. It can fire this spray more than 160 feet.",
+            "It sprays a stinky fluid from its tail. The fluid smells worse the longer it is allowed to fester in its belly.",
+            "Sprays a poisonous fluid to take down prey. Sometimes, unable to stomach the stench of its own fluid, it leaves the bested prey uneaten.",
+            "It attacks by spraying a horribly smelly fluid from the tip of its tail. Attacks from above confound it.",
+            "It attacks by spraying a repugnant fluid from its tail, but the stench dulls after a few squirts."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789994357428324/435.png",
+    "discord_sprite": "<:P435:1132131873129250886>"
+}

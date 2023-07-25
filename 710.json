@@ -1,0 +1,469 @@
+{
+    "alt-version(s)": [
+        "Average Size",
+        "Small Size",
+        "Large Size",
+        "Super Size"
+    ],
+    "Average Size": {
+        "pokedex_data": {
+            "National No.": "0710",
+            "Type": [
+                "Ghost",
+                "Grass"
+            ],
+            "Species": "Pumpkin Poke\u0301mon",
+            "Height": "0.4 m (1\u203204\u2032\u2032)",
+            "Weight": "5.0 kg (11.0 lbs)",
+            "Abilities": {
+                "Pickup": {
+                    "href": "/ability/pickup",
+                    "effect": "The Pok\u00e9mon may pick up items.",
+                    "hidden": false
+                },
+                "Frisk": {
+                    "href": "/ability/frisk",
+                    "effect": "The Pok\u00e9mon can check a foe's held item.",
+                    "hidden": false
+                },
+                "Insomnia": {
+                    "href": "/ability/insomnia",
+                    "effect": "Prevents the Pok\u00e9mon from falling asleep.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Defense",
+            "Catch rate": "120",
+            "BaseFriendship": "50",
+            "Base Exp.": "67",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "49",
+                "Min": "208",
+                "Max": "302"
+            },
+            "Attack": {
+                "Base": "66",
+                "Min": "123",
+                "Max": "254"
+            },
+            "Defense": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Atk": {
+                "Base": "44",
+                "Min": "83",
+                "Max": "205"
+            },
+            "Sp. Def": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Speed": {
+                "Base": "51",
+                "Min": "96",
+                "Max": "221"
+            },
+            "Total": "335"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "no effect",
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "no effect",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective"
+            }
+        }
+    },
+    "Small Size": {
+        "pokedex_data": {
+            "National No.": "0710",
+            "Type": [
+                "Ghost",
+                "Grass"
+            ],
+            "Species": "Pumpkin Poke\u0301mon",
+            "Height": "0.3 m (1\u203200\u2032\u2032)",
+            "Weight": "3.5 kg (7.7 lbs)",
+            "Abilities": {
+                "Pickup": {
+                    "href": "/ability/pickup",
+                    "effect": "The Pok\u00e9mon may pick up items.",
+                    "hidden": false
+                },
+                "Frisk": {
+                    "href": "/ability/frisk",
+                    "effect": "The Pok\u00e9mon can check a foe's held item.",
+                    "hidden": false
+                },
+                "Insomnia": {
+                    "href": "/ability/insomnia",
+                    "effect": "Prevents the Pok\u00e9mon from falling asleep.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Defense",
+            "Catch rate": "120",
+            "BaseFriendship": "50",
+            "Base Exp.": "67",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "44",
+                "Min": "198",
+                "Max": "292"
+            },
+            "Attack": {
+                "Base": "66",
+                "Min": "123",
+                "Max": "254"
+            },
+            "Defense": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Atk": {
+                "Base": "44",
+                "Min": "83",
+                "Max": "205"
+            },
+            "Sp. Def": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Speed": {
+                "Base": "56",
+                "Min": "105",
+                "Max": "232"
+            },
+            "Total": "335"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "no effect",
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "no effect",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective"
+            }
+        }
+    },
+    "Large Size": {
+        "pokedex_data": {
+            "National No.": "0710",
+            "Type": [
+                "Ghost",
+                "Grass"
+            ],
+            "Species": "Pumpkin Poke\u0301mon",
+            "Height": "0.5 m (1\u203208\u2032\u2032)",
+            "Weight": "7.5 kg (16.5 lbs)",
+            "Abilities": {
+                "Pickup": {
+                    "href": "/ability/pickup",
+                    "effect": "The Pok\u00e9mon may pick up items.",
+                    "hidden": false
+                },
+                "Frisk": {
+                    "href": "/ability/frisk",
+                    "effect": "The Pok\u00e9mon can check a foe's held item.",
+                    "hidden": false
+                },
+                "Insomnia": {
+                    "href": "/ability/insomnia",
+                    "effect": "Prevents the Pok\u00e9mon from falling asleep.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Defense",
+            "Catch rate": "120",
+            "BaseFriendship": "50",
+            "Base Exp.": "67",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "54",
+                "Min": "218",
+                "Max": "312"
+            },
+            "Attack": {
+                "Base": "66",
+                "Min": "123",
+                "Max": "254"
+            },
+            "Defense": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Atk": {
+                "Base": "44",
+                "Min": "83",
+                "Max": "205"
+            },
+            "Sp. Def": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Speed": {
+                "Base": "46",
+                "Min": "87",
+                "Max": "210"
+            },
+            "Total": "335"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "no effect",
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "no effect",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective"
+            }
+        }
+    },
+    "Super Size": {
+        "pokedex_data": {
+            "National No.": "0710",
+            "Type": [
+                "Ghost",
+                "Grass"
+            ],
+            "Species": "Pumpkin Poke\u0301mon",
+            "Height": "0.8 m (2\u203207\u2032\u2032)",
+            "Weight": "15.0 kg (33.1 lbs)",
+            "Abilities": {
+                "Pickup": {
+                    "href": "/ability/pickup",
+                    "effect": "The Pok\u00e9mon may pick up items.",
+                    "hidden": false
+                },
+                "Frisk": {
+                    "href": "/ability/frisk",
+                    "effect": "The Pok\u00e9mon can check a foe's held item.",
+                    "hidden": false
+                },
+                "Insomnia": {
+                    "href": "/ability/insomnia",
+                    "effect": "Prevents the Pok\u00e9mon from falling asleep.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Defense",
+            "Catch rate": "120",
+            "BaseFriendship": "50",
+            "Base Exp.": "67",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "59",
+                "Min": "228",
+                "Max": "322"
+            },
+            "Attack": {
+                "Base": "66",
+                "Min": "123",
+                "Max": "254"
+            },
+            "Defense": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Atk": {
+                "Base": "44",
+                "Min": "83",
+                "Max": "205"
+            },
+            "Sp. Def": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Speed": {
+                "Base": "41",
+                "Min": "78",
+                "Max": "199"
+            },
+            "Total": "335"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "no effect",
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "no effect",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Pumpkaboo",
+                    "nationalNo": "#0710",
+                    "type": [
+                        "Ghost",
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Gourgeist",
+                    "nationalNo": "#0711",
+                    "type": [
+                        "Ghost",
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Trade)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Astonish": "1",
+            "Trick-or-Treat": "36",
+            "Shadow Sneak": "4",
+            "Confuse Ray": "8",
+            "Razor Leaf": "12",
+            "Leech Seed": "16",
+            "Bullet Seed": "20",
+            "Scary Face": "24",
+            "Worry Seed": "28",
+            "Seed Bomb": "32",
+            "Shadow Ball": "36",
+            "Trick": "40",
+            "Pain Split": "44"
+        },
+        "egg": {
+            "Curse": null,
+            "Destiny Bond": null,
+            "Disable": null
+        },
+        "null": {
+            "Flamethrower": "02",
+            "Psychic": "11",
+            "Fire Blast": "15",
+            "Substitute": "20",
+            "Sludge Bomb": "22",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Shadow Ball": "33",
+            "Trick": "38",
+            "Skill Swap": "40",
+            "Gyro Ball": "52",
+            "Dark Pulse": "58",
+            "Seed Bomb": "59",
+            "Energy Ball": "65",
+            "Grass Knot": "77",
+            "Foul Play": "81",
+            "Ally Switch": "83"
+        },
+        "tm": {
+            "Solar Beam": "11",
+            "Light Screen": "17",
+            "Safeguard": "19",
+            "Rest": "21",
+            "Rock Slide": "22",
+            "Thief": "23",
+            "Snore": "24",
+            "Protect": "25",
+            "Scary Face": "26",
+            "Giga Drain": "28",
+            "Attract": "31",
+            "Sunny Day": "34",
+            "Will-O-Wisp": "38",
+            "Facade": "39",
+            "Imprison": "44",
+            "Bullet Seed": "50",
+            "Trick Room": "70",
+            "Round": "76",
+            "Hex": "77",
+            "Mystical Fire": "92"
+        }
+    },
+    "entries": {
+        "Pumpkaboo": [
+            "The pumpkin body is inhabited by a spirit trapped in this world. As the sun sets, it becomes restless and active.",
+            "It is said to carry wandering spirits to the place where they belong so they can move on."
+        ],
+        "Average Size": [
+            "Spirits that wander this world are placed into Pumpkaboo\u2019s body. They\u2019re then moved on to the afterlife.",
+            "The light that streams out from the holes in the pumpkin can hypnotize and control the people and Pok\u00e9mon that see it."
+        ],
+        "Small Size": [
+            "When taking spirits to the afterlife, small Pumpkaboo prefer the spirits of children to those of adults.",
+            "Small Pumpkaboo are said to be the product of areas where few lost souls lingered."
+        ],
+        "Large Size": [
+            "When taking spirits to the afterlife, large Pumpkaboo prefer the spirits of adults to those of children.",
+            "Large Pumpkaboo are said to be the product of areas where many lost souls lingered."
+        ],
+        "Super Size": [
+            "Supersized Pumpkaboo are very partial to the spirits of people who were of similarly superior proportions.",
+            "Massive Pumpkaboo are said to be the product of areas where a great number of lost souls lingered."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792136208130048/710.png",
+    "discord_sprite": "<:P710:1132143980260372571>"
+}

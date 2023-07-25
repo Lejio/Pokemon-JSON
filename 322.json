@@ -1,0 +1,213 @@
+{
+    "alt-version(s)": [],
+    "name": "Numel",
+    "Numel": {
+        "pokedex_data": {
+            "National No.": "0322",
+            "Type": [
+                "Fire",
+                "Ground"
+            ],
+            "Species": "Numb Poke\u0301mon",
+            "Height": "0.7 m (2\u203204\u2032\u2032)",
+            "Weight": "24.0 kg (52.9 lbs)",
+            "Abilities": {
+                "Oblivious": {
+                    "href": "/ability/oblivious",
+                    "effect": "Prevents it from becoming infatuated.",
+                    "hidden": false
+                },
+                "Simple": {
+                    "href": "/ability/simple",
+                    "effect": "Doubles all stat changes.",
+                    "hidden": false
+                },
+                "Own Tempo": {
+                    "href": "/ability/own-tempo",
+                    "effect": "Prevents the Pok\u00e9mon from becoming confused.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Sp. Atk",
+            "Catch rate": "255",
+            "BaseFriendship": "50",
+            "Base Exp.": "61",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "60",
+                "Min": "230",
+                "Max": "324"
+            },
+            "Attack": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Defense": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Atk": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Def": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Speed": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Total": "305"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Electric": "no effect",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Bug": "not very effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Numel",
+                    "nationalNo": "#0322",
+                    "type": [
+                        "Fire",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Camerupt",
+                    "nationalNo": "#0323",
+                    "type": [
+                        "Fire",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 33)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Growl": "1",
+            "Tackle": "1",
+            "Ember": "5",
+            "Focus Energy": "8",
+            "Bulldoze": "12",
+            "Incinerate": "15",
+            "Amnesia": "19",
+            "Lava Plume": "22",
+            "Earth Power": "26",
+            "Curse": "29",
+            "Take Down": "31",
+            "Earthquake": "40",
+            "Flamethrower": "43",
+            "Double-Edge": "47"
+        },
+        "egg": {
+            "Ancient Power": null,
+            "Body Slam": null,
+            "Defense Curl": null,
+            "Growth": null,
+            "Heat Wave": null,
+            "Heavy Slam": null,
+            "Howl": null,
+            "Iron Head": null,
+            "Rollout": null,
+            "Scary Face": null,
+            "Spit Up": null,
+            "Stockpile": null,
+            "Stomp": null,
+            "Swallow": null,
+            "Yawn": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Charm": "02",
+            "Mud-Slap": "05",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Trailblaze": "20",
+            "Fire Spin": "24",
+            "Facade": "25",
+            "Bulldoze": "28",
+            "Mud Shot": "35",
+            "Rock Tomb": "36",
+            "Flame Charge": "38",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Sandstorm": "51",
+            "Dig": "55",
+            "Zen Headbutt": "59",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Body Press": "89",
+            "Flash Cannon": "93",
+            "Iron Head": "99",
+            "Substitute": "103",
+            "Will-O-Wisp": "107",
+            "Stealth Rock": "116",
+            "Heat Wave": "118",
+            "Heavy Slam": "121",
+            "Flamethrower": "125",
+            "Amnesia": "128",
+            "Helping Hand": "130",
+            "Earth Power": "133",
+            "Fire Blast": "141",
+            "Earthquake": "149",
+            "Stone Edge": "150",
+            "Overheat": "157",
+            "Flare Blitz": "165",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Numel": [
+            "NUMEL is extremely dull witted - it doesn\u2019t notice being hit. However, it can\u2019t stand hunger for even a second. This pok\u00e9mon\u2019s body is a seething cauldron of boiling magma.",
+            "NUMEL stores magma of almost 2,200 degrees F within its body. If it gets wet, the magma cools and hardens. In that event, the pok\u00e9mon\u2019s body grows heavy and its movements become sluggish.",
+            "Magma of almost 2,200 degrees Fahrenheit courses through its body. When it grows cold, the magma hardens and slows it.",
+            "A NUMEL stores boiling magma in the hump on its back. It is a hardy pok\u00e9mon that can transport a 220-pound load. It has served humans at work since long ago.",
+            "Its humped back stores intensely hot magma. In rain, the magma cools, slowing its movement.",
+            "The flaming magma it stores in the hump on its back is the source of its tremendous power.",
+            "Its humped back stores intensely hot magma. In rain, the magma cools, slowing its movement.",
+            "The magma in its body reaches 2,200 degrees F. Its hump gets smaller when it uses Fire-type moves.",
+            "Its humped back stores intensely hot magma. In rain, the magma cools, slowing its movement.",
+            "The magma in its body reaches 2,200 degrees Fahrenheit. Its hump gets smaller when it uses Fire-type moves.",
+            "Numel is extremely dull witted\u2014it doesn\u2019t notice being hit. However, it can\u2019t stand hunger for even a second. This Pok\u00e9mon\u2019s body is a seething cauldron of boiling magma.",
+            "Numel stores magma of almost 2,200 degrees Fahrenheit within its body. If it gets wet, the magma cools and hardens. In that event, the Pok\u00e9mon\u2019s body grows heavy and its movements become sluggish.",
+            "Its humped back stores intensely hot magma. In rain, the magma cools, slowing Numel down.",
+            "Magma of almost 2,200 degrees Fahrenheit courses through its body. When it grows cold, the magma hardens and slows it.",
+            "The flaming magma it stores in the hump on its back is the source of its tremendous power."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789117882114129/322.png",
+    "discord_sprite": "<:P322:1132126905106186241>"
+}

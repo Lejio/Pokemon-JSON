@@ -1,0 +1,171 @@
+{
+    "alt-version(s)": [],
+    "name": "Dhelmise",
+    "Dhelmise": {
+        "pokedex_data": {
+            "National No.": "0781",
+            "Type": [
+                "Ghost",
+                "Grass"
+            ],
+            "Species": "Sea Creeper Poke\u0301mon",
+            "Height": "3.9 m (12\u203210\u2032\u2032)",
+            "Weight": "210.0 kg (463.0 lbs)",
+            "Abilities": {
+                "Steelworker": {
+                    "href": "/ability/steelworker",
+                    "effect": "Powers up Steel-type moves.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "25",
+            "BaseFriendship": "50",
+            "Base Exp.": "181",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "70",
+                "Min": "250",
+                "Max": "344"
+            },
+            "Attack": {
+                "Base": "131",
+                "Min": "240",
+                "Max": "397"
+            },
+            "Defense": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Sp. Atk": {
+                "Base": "86",
+                "Min": "159",
+                "Max": "298"
+            },
+            "Sp. Def": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Speed": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Total": "517"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "no effect",
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "no effect",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Absorb": "1",
+            "Rapid Spin": "1",
+            "Astonish": "4",
+            "Wrap": "8",
+            "Mega Drain": "12",
+            "Growth": "16",
+            "Gyro Ball": "20",
+            "Switcheroo": "24",
+            "Giga Drain": "28",
+            "Whirlpool": "32",
+            "Heavy Slam": "36",
+            "Slam": "40",
+            "Shadow Ball": "44",
+            "Metal Sound": "48",
+            "Anchor Shot": "52",
+            "Energy Ball": "56",
+            "Phantom Force": "60",
+            "Power Whip": "64"
+        },
+        "egg": {
+            "Grassy Glide": null,
+            "Poltergeist": null,
+            "Steel Roller": null
+        },
+        "null": {
+            "Swords Dance": "00",
+            "Hydro Pump": "03",
+            "Surf": "04",
+            "Earthquake": "10",
+            "Substitute": "20",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Shadow Ball": "33",
+            "Muddy Water": "45",
+            "Iron Defense": "46",
+            "Gyro Ball": "52",
+            "Energy Ball": "65",
+            "Flash Cannon": "70",
+            "Power Whip": "72",
+            "Iron Head": "74",
+            "Grass Knot": "77",
+            "Sludge Wave": "78",
+            "Heavy Slam": "79",
+            "Ally Switch": "83",
+            "Liquidation": "98",
+            "Body Press": "99"
+        },
+        "tm": {
+            "Hyper Beam": "08",
+            "Giga Impact": "09",
+            "Solar Beam": "11",
+            "Solar Blade": "12",
+            "Rest": "21",
+            "Rock Slide": "22",
+            "Thief": "23",
+            "Snore": "24",
+            "Protect": "25",
+            "Giga Drain": "28",
+            "Rain Dance": "33",
+            "Sunny Day": "34",
+            "Whirlpool": "36",
+            "Facade": "39",
+            "Helping Hand": "41",
+            "Brick Break": "43",
+            "Brine": "55",
+            "Payback": "57",
+            "Assurance": "58",
+            "Shadow Claw": "65",
+            "Round": "76",
+            "Hex": "77",
+            "Bulldoze": "81",
+            "Phantom Force": "86",
+            "Brutal Swing": "97"
+        }
+    },
+    "entries": {
+        "Dhelmise": [
+            "Swinging its massive anchor, it can KO Wailord in a single blow. What appears to be green seaweed is actually its body.",
+            "The soul of seaweed adrift in the waves became reborn as this Pok\u00e9mon. It maintains itself with new infusions of seabed detritus and seaweed.",
+            "It wraps its prey in green seaweed and sucks away their vitality. It only likes to go after big prey like Wailord.",
+            "Its chain-like green seaweed can stretch outward for hundreds of yards. For some reason, it gets along well with Skrelp.",
+            "After a piece of seaweed merged with debris from a sunken ship, it was reborn as this ghost Pok\u00e9mon.",
+            "After lowering its anchor, it waits for its prey. It catches large Wailord and drains their life-force."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792696512614410/781.png",
+    "discord_sprite": "<:P781:1132147165297389698>"
+}

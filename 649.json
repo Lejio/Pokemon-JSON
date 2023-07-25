@@ -1,0 +1,158 @@
+{
+    "alt-version(s)": [],
+    "name": "Genesect",
+    "Genesect": {
+        "pokedex_data": {
+            "National No.": "0649",
+            "Type": [
+                "Bug",
+                "Steel"
+            ],
+            "Species": "Paleozoic Poke\u0301mon",
+            "Height": "1.5 m (4\u203211\u2032\u2032)",
+            "Weight": "82.5 kg (181.9 lbs)",
+            "Abilities": {
+                "Download": {
+                    "href": "/ability/download",
+                    "effect": "Adjusts power according to a foe's defenses.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack, 1 Sp. Atk, 1 Speed",
+            "Catch rate": "3",
+            "BaseFriendship": "0",
+            "Base Exp.": "270",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "71",
+                "Min": "252",
+                "Max": "346"
+            },
+            "Attack": {
+                "Base": "120",
+                "Min": "220",
+                "Max": "372"
+            },
+            "Defense": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Sp. Atk": {
+                "Base": "120",
+                "Min": "220",
+                "Max": "372"
+            },
+            "Sp. Def": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Speed": {
+                "Base": "99",
+                "Min": "182",
+                "Max": "326"
+            },
+            "Total": "600"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Fire": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Poison": "no effect",
+                "Psychic": "not very effective",
+                "Bug": "not very effective",
+                "Dragon": "not very effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Fury Cutter": "1",
+            "Quick Attack": "1",
+            "Screech": "7",
+            "Metal Claw": "14",
+            "Fell Stinger": "21",
+            "Flame Charge": "28",
+            "Metal Sound": "35",
+            "X-Scissor": "42",
+            "Magnet Rise": "49",
+            "Bug Buzz": "56",
+            "Simple Beam": "63",
+            "Zap Cannon": "70",
+            "Lock-On": "77",
+            "Techno Blast": "84",
+            "Self-Destruct": "91"
+        },
+        "egg": null,
+        "tm": {
+            "Fly": "06",
+            "Hyper Beam": "08",
+            "Giga Impact": "09",
+            "Solar Beam": "11",
+            "Thunder Wave": "14",
+            "Screech": "16",
+            "Light Screen": "17",
+            "Reflect": "18",
+            "Self-Destruct": "20",
+            "Rest": "21",
+            "Snore": "24",
+            "Protect": "25",
+            "Giga Drain": "28",
+            "Facade": "39",
+            "Swift": "40",
+            "U-turn": "56",
+            "Assurance": "58",
+            "Shadow Claw": "65",
+            "Round": "76",
+            "Electroweb": "82"
+        },
+        "null": {
+            "Flamethrower": "02",
+            "Ice Beam": "05",
+            "Blizzard": "06",
+            "Thunderbolt": "08",
+            "Thunder": "09",
+            "Psychic": "11",
+            "Leech Life": "18",
+            "Tri Attack": "19",
+            "Substitute": "20",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Blaze Kick": "41",
+            "Iron Defense": "46",
+            "Dark Pulse": "58",
+            "X-Scissor": "60",
+            "Bug Buzz": "61",
+            "Energy Ball": "65",
+            "Zen Headbutt": "69",
+            "Flash Cannon": "70",
+            "Gunk Shot": "73",
+            "Iron Head": "74",
+            "Ally Switch": "83"
+        }
+    },
+    "entries": {
+        "Genesect": [
+            "Over 300 million years ago, it was feared as the strongest of hunters. It has been modified by Team Plasma.",
+            "This ancient bug Pok\u00e9mon was altered by Team Plasma. They upgraded the cannon on its back.",
+            "This Pok\u00e9mon existed 300 million years ago. Team Plasma altered it and attached a cannon to its back.",
+            "This ancient bug Pok\u00e9mon was altered by Team Plasma. They upgraded the cannon on its back.",
+            "This Pok\u00e9mon existed 300 million years ago. Team Plasma altered it and attached a cannon to its back."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791662704775258/649.png",
+    "discord_sprite": "<:P649:1132141298095247370>"
+}

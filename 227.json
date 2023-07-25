@@ -1,0 +1,188 @@
+{
+    "alt-version(s)": [],
+    "name": "Skarmory",
+    "Skarmory": {
+        "pokedex_data": {
+            "National No.": "0227",
+            "Type": [
+                "Steel",
+                "Flying"
+            ],
+            "Species": "Armor Bird Poke\u0301mon",
+            "Height": "1.7 m (5\u203207\u2032\u2032)",
+            "Weight": "50.5 kg (111.3 lbs)",
+            "Abilities": {
+                "Keen Eye": {
+                    "href": "/ability/keen-eye",
+                    "effect": "Prevents other Pok\u00e9mon from lowering accuracy.",
+                    "hidden": false
+                },
+                "Sturdy": {
+                    "href": "/ability/sturdy",
+                    "effect": "It cannot be knocked out with one hit.",
+                    "hidden": false
+                },
+                "Weak Armor": {
+                    "href": "/ability/weak-armor",
+                    "effect": "Physical attacks lower Defense and raise Speed.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Defense",
+            "Catch rate": "25",
+            "BaseFriendship": "50",
+            "Base Exp.": "163",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "65",
+                "Min": "240",
+                "Max": "334"
+            },
+            "Attack": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Defense": {
+                "Base": "140",
+                "Min": "256",
+                "Max": "416"
+            },
+            "Sp. Atk": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Def": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Speed": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Total": "465"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Fire": "super-effective",
+                "Electric": "super-effective",
+                "Grass": "not very effective",
+                "Poison": "no effect",
+                "Ground": "no effect",
+                "Flying": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "not very effective",
+                "Dragon": "not very effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Leer": "1",
+            "Peck": "1",
+            "Sand Attack": "4",
+            "Fury Attack": "8",
+            "Metal Claw": "12",
+            "Agility": "16",
+            "Wing Attack": "20",
+            "Slash": "24",
+            "Steel Wing": "28",
+            "Autotomize": "32",
+            "Drill Peck": "36",
+            "Metal Sound": "40",
+            "Spikes": "44",
+            "Iron Defense": "48",
+            "Brave Bird": "52"
+        },
+        "egg": {
+            "Air Cutter": null,
+            "Assurance": null,
+            "Brave Bird": null,
+            "Curse": null,
+            "Drill Peck": null,
+            "Feint": null,
+            "Guard Swap": null,
+            "Night Slash": null,
+            "Sky Attack": null,
+            "Whirlwind": null
+        },
+        "tm": {
+            "Roar": "05",
+            "Sunny Day": "11",
+            "Taunt": "12",
+            "Protect": "17",
+            "Double Team": "32",
+            "Sandstorm": "37",
+            "Rock Tomb": "39",
+            "Aerial Ace": "40",
+            "Torment": "41",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Steel Wing": "47",
+            "Roost": "51",
+            "Endure": "58",
+            "Payback": "66",
+            "Flash": "70",
+            "Swords Dance": "75",
+            "Stealth Rock": "76",
+            "Dark Pulse": "79",
+            "Rock Slide": "80",
+            "X-Scissor": "81",
+            "Sleep Talk": "82",
+            "Swagger": "87",
+            "Pluck": "88",
+            "Substitute": "90",
+            "Flash Cannon": "91",
+            "Cut": "93",
+            "Fly": "94",
+            "Defog": "97",
+            "Rock Smash": "98"
+        }
+    },
+    "entries": {
+        "Skarmory": [
+            "Its sturdy wings look heavy, but they are actually hollow and light, allowing it to fly freely in the sky.",
+            "After nesting in bramble bushes, the wings of its chicks grow hard from scratches by thorns.",
+            "The feathers that it sheds are very sharp. It is said that people once used the feathers as swords.",
+            "SKARMORY is entirely encased in hard, protective armor. This pok\u00e9mon flies at close to 190 mph. It slashes foes with its wings that possess swordlike cutting edges.",
+            "SKARMORY\u2019s steel wings become tattered and bashed in from repeated battles. Once a year, the battered wings grow back completely, restoring the cutting edges to their pristine state.",
+            "After nesting in bramble bushes, the wings of its chicks grow hard from scratches by thorns.",
+            "Its sturdy wings look heavy, but its bones are hollow and light, allowing it to fly freely in the sky.",
+            "A pok\u00e9mon that has a body and wings of steel. People in the past used feathers fallen from SKARMORY to make swords and knives.",
+            "Despite being clad entirely in iron-hard armor, it flies at speeds over 180 mph.",
+            "Its sturdy wings look heavy, but they are actually hollow and light, allowing it to fly freely in the sky.",
+            "After nesting in bramble bushes, the wings of its chicks grow hard from scratches by thorns.",
+            "Despite being clad entirely in iron-hard armor, it flies at speeds over 180 mph.",
+            "Its heavy-looking iron body is actually thin and light, so it can fly at speeds over 180 mph.",
+            "After nesting in bramble bushes, the wings of its chicks grow hard from scratches by thorns.",
+            "Despite being clad entirely in iron-hard armor, it flies at speeds over 180 mph.",
+            "Skarmory is entirely encased in hard, protective armor. This Pok\u00e9mon flies at close to 190 mph. It slashes foes with its wings that possess swordlike cutting edges.",
+            "Skarmory\u2019s steel wings become tattered and bashed in from repeated battles. Once a year, the battered wings grow back completely, restoring the cutting edges to their pristine state.",
+            "Its feathers, which fall off as it grows, are thin and sharp. In times long past, warriors used them as swords.",
+            "Its metal body is sturdy, but it does rust rather easily. So on rainy days, this Pok\u00e9mon prefers to stay put in its nest.",
+            "The wing feathers it sheds can be processed and made into knives whose sharpness is recognized by the finest chefs.",
+            "Its body is draped in steel armor. It looks heavy, but it can fly at speeds of up to 185 miles an hour!",
+            "The pointed feathers of these Pok\u00e9mon are sharper than swords. Skarmory and Corviknight fight viciously over territory.",
+            "People fashion swords from Skarmory\u2019s shed feathers, so this Pok\u00e9mon is a popular element in heraldic designs.",
+            "Skarmory is clad entirely in ironhard armor. It flies at speeds over 180 mph."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788367646953613/227.png",
+    "discord_sprite": "<:P227:1132122724861497354>"
+}

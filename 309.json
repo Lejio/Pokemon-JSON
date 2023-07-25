@@ -1,0 +1,199 @@
+{
+    "alt-version(s)": [],
+    "name": "Electrike",
+    "Electrike": {
+        "pokedex_data": {
+            "National No.": "0309",
+            "Type": [
+                "Electric"
+            ],
+            "Species": "Lightning Poke\u0301mon",
+            "Height": "0.6 m (2\u203200\u2032\u2032)",
+            "Weight": "15.2 kg (33.5 lbs)",
+            "Abilities": {
+                "Static": {
+                    "href": "/ability/static",
+                    "effect": "Contact with the Pok\u00e9mon may cause paralysis.",
+                    "hidden": false
+                },
+                "Lightning Rod": {
+                    "href": "/ability/lightning-rod",
+                    "effect": "Draws in all Electric-type moves to up Sp. Attack.",
+                    "hidden": false
+                },
+                "Minus": {
+                    "href": "/ability/minus",
+                    "effect": "Ups Sp. Atk if another Pok\u00e9mon has Plus or Minus.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Speed",
+            "Catch rate": "120",
+            "BaseFriendship": "50",
+            "Base Exp.": "59",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "40",
+                "Min": "190",
+                "Max": "284"
+            },
+            "Attack": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Defense": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Atk": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Def": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Speed": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Total": "295"
+        },
+        "defense_stats": {
+            "Static ability": {
+                "Electric": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Steel": "not very effective"
+            },
+            "Lightning Rod ability": {
+                "Electric": "no effect",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Steel": "not very effective"
+            },
+            "Minus ability": {
+                "Electric": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Electrike",
+                    "nationalNo": "#0309",
+                    "type": [
+                        "Electric"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Manectric",
+                    "nationalNo": "#0310",
+                    "type": [
+                        "Electric"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 26)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Tackle": "1",
+            "Thunder Wave": "1",
+            "Leer": "4",
+            "Howl": "8",
+            "Quick Attack": "12",
+            "Shock Wave": "16",
+            "Bite": "20",
+            "Thunder Fang": "24",
+            "Roar": "28",
+            "Discharge": "32",
+            "Charge": "36",
+            "Wild Charge": "40",
+            "Thunder": "44"
+        },
+        "egg": {
+            "Crunch": null,
+            "Curse": null,
+            "Discharge": null,
+            "Eerie Impulse": null,
+            "Electro Ball": null,
+            "Fire Fang": null,
+            "Headbutt": null,
+            "Ice Fang": null,
+            "Spark": null,
+            "Swift": null,
+            "Switcheroo": null,
+            "Thunder Fang": null,
+            "Uproar": null
+        },
+        "tm": {
+            "Roar": "05",
+            "Light Screen": "16",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Iron Tail": "23",
+            "Thunderbolt": "24",
+            "Thunder": "25",
+            "Double Team": "32",
+            "Shock Wave": "34",
+            "Flamethrower": "35",
+            "Facade": "42",
+            "Volt Switch": "43",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Charge Beam": "57",
+            "Endure": "58",
+            "Flash": "70",
+            "Thunder Wave": "73",
+            "Snarl": "78",
+            "Sleep Talk": "82",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Strength": "96"
+        }
+    },
+    "entries": {
+        "Electrike": [
+            "ELECTRIKE stores electricity in its long body hair. This pok\u00e9mon stimulates its leg muscles with electric charges. These jolts of power give its legs explosive acceleration performance.",
+            "ELECTRIKE runs faster than the human eye can follow. The friction from running is converted into electricity, which is then stored in this pok\u00e9mon\u2019s fur.",
+            "It stores static electricity in its fur for discharging. It gives off sparks if a storm approaches.",
+            "It generates electricity using friction from the atmosphere. In seasons with especially arid air, its entire body blazes with violent showers of sparks.",
+            "Using electricity stored in its fur, it stimulates its muscles to heighten its reaction speed.",
+            "It stores electricity in its fur. It gives off sparks from all over its body in seasons when the air is dry.",
+            "Using electricity stored in its fur, it stimulates its muscles to heighten its reaction speed.",
+            "Using electricity stored in its fur, it stimulates its muscles to heighten its reaction speed.",
+            "It stores static electricity in its fur for discharging. It gives off sparks if a storm approaches.",
+            "Electrike stores electricity in its long body hair. This Pok\u00e9mon stimulates its leg muscles with electric charges. These jolts of power give its legs explosive acceleration performance.",
+            "Electrike runs faster than the human eye can follow. The friction from running is converted into electricity, which is then stored in this Pok\u00e9mon\u2019s fur.",
+            "Friction between the air and its fur produces static electricity. When Electrike runs, it makes a crackling sound.",
+            "Static electricity builds up all over its body as strands of its long fur rub together. This Pok\u00e9mon boasts incredible speed.",
+            "It stores static electricity in its fur for discharging. It gives off sparks if a storm approaches.",
+            "It stores electricity in its fur. It gives off sparks from all over its body in seasons when the air is dry.",
+            "Using electricity stored in its fur, it stimulates its muscles to heighten its reaction speed."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789017793429575/309.png",
+    "discord_sprite": "<:P309:1132126334957666327>"
+}

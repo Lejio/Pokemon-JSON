@@ -1,0 +1,210 @@
+{
+    "alt-version(s)": [],
+    "name": "Lumineon",
+    "Lumineon": {
+        "pokedex_data": {
+            "National No.": "0457",
+            "Type": [
+                "Water"
+            ],
+            "Species": "Neon Poke\u0301mon",
+            "Height": "1.2 m (3\u203211\u2032\u2032)",
+            "Weight": "24.0 kg (52.9 lbs)",
+            "Abilities": {
+                "Swift Swim": {
+                    "href": "/ability/swift-swim",
+                    "effect": "Boosts the Pok\u00e9mon's Speed in rain.",
+                    "hidden": false
+                },
+                "Storm Drain": {
+                    "href": "/ability/storm-drain",
+                    "effect": "Draws in all Water-type moves to up Sp. Attack.",
+                    "hidden": false
+                },
+                "Water Veil": {
+                    "href": "/ability/water-veil",
+                    "effect": "Prevents the Pok\u00e9mon from getting a burn.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Speed",
+            "Catch rate": "75",
+            "BaseFriendship": "50",
+            "Base Exp.": "161",
+            "Growth Rate": "Erratic"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "69",
+                "Min": "248",
+                "Max": "342"
+            },
+            "Attack": {
+                "Base": "69",
+                "Min": "128",
+                "Max": "260"
+            },
+            "Defense": {
+                "Base": "76",
+                "Min": "141",
+                "Max": "276"
+            },
+            "Sp. Atk": {
+                "Base": "69",
+                "Min": "128",
+                "Max": "260"
+            },
+            "Sp. Def": {
+                "Base": "86",
+                "Min": "159",
+                "Max": "298"
+            },
+            "Speed": {
+                "Base": "91",
+                "Min": "168",
+                "Max": "309"
+            },
+            "Total": "460"
+        },
+        "defense_stats": {
+            "Swift Swim ability": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Steel": "not very effective"
+            },
+            "Storm Drain ability": {
+                "Fire": "not very effective",
+                "Water": "no effect",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Steel": "not very effective"
+            },
+            "Water Veil ability": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Finneon",
+                    "nationalNo": "#0456",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Lumineon",
+                    "nationalNo": "#0457",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 31)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Gust": "1",
+            "Pound": "1",
+            "Soak": "1",
+            "Water Gun": "1",
+            "Rain Dance": "13",
+            "Water Pulse": "22",
+            "Attract": "26",
+            "Safeguard": "29",
+            "Aqua Ring": "35",
+            "Whirlpool": "42",
+            "U-turn": "48",
+            "Bounce": "53",
+            "Tailwind": "59"
+        },
+        "egg": {
+            "Agility": null,
+            "Aqua Tail": null,
+            "Aurora Beam": null,
+            "Charm": null,
+            "Confuse Ray": null,
+            "Flail": null,
+            "Psybeam": null,
+            "Sweet Kiss": null,
+            "Tickle": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Charm": "02",
+            "Agility": "04",
+            "Protect": "07",
+            "Water Pulse": "11",
+            "Acrobatics": "14",
+            "Psybeam": "16",
+            "Confuse Ray": "17",
+            "Thief": "18",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Swift": "32",
+            "Icy Wind": "34",
+            "Air Cutter": "40",
+            "Endure": "47",
+            "Rain Dance": "50",
+            "U-turn": "60",
+            "Air Slash": "65",
+            "Sleep Talk": "70",
+            "Waterfall": "77",
+            "Dazzling Gleam": "79",
+            "Rest": "85",
+            "Substitute": "103",
+            "Tailwind": "113",
+            "Encore": "122",
+            "Surf": "123",
+            "Helping Hand": "130",
+            "Ice Beam": "135",
+            "Hydro Pump": "142",
+            "Blizzard": "143",
+            "Giga Impact": "152",
+            "Hyper Beam": "163",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Lumineon": [
+            "It lives on the deep-sea floor. It attracts prey by flashing the patterns on its four tail fins.",
+            "To avoid detection by predators, it crawls along the seafloor using the two fins on its chest.",
+            "It crawls along the seafloor using its long front fins like legs. It competes for food with LANTURN.",
+            "LUMINEON swimming in the darkness of the deep sea look like stars shining in the night sky.",
+            "It crawls along the seafloor using its long front fins like legs. It competes for food with Lanturn.",
+            "It lives on the deep-sea floor. It attracts prey by flashing the patterns on its four tail fins.",
+            "To avoid detection by predators, it crawls along the seafloor using the two fins on its chest.",
+            "With its shining light, it lures its prey close. However, the light also happens to attract ferocious fish Pok\u00e9mon\u2014its natural predators.",
+            "This deep-sea Pok\u00e9mon lives at the bottom of the sea. Its fins haul it over the seabed in search of its favorite food\u2014Starmie.",
+            "Deep down at the bottom of the ocean, prey is scarce. Lumineon get into fierce disputes with Lanturn over food.",
+            "They traverse the deep waters as if crawling over the seafloor. The fantastic lights of its fins shine like stars in the night sky.",
+            "It lives on the deep-sea floor. It attracts prey by flashing patterns on its four fins.",
+            "To avoid detection by predators, it crawls along the seafloor using the two fins on its chest.",
+            "Uses its gleaming fins to hunt its prey. The view of Lumineon schooling near the surface of the sea at night is breathtaking\u2014 it\u2019s as though there were shining stars right there.",
+            "With its shining light, it lures its prey close. However, the light also happens to attract ferocious fish Pok\u00e9mon\u2014its natural predators.",
+            "Lumineon swimming in the darkness of the deep sea look like stars shining in the night sky."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790165636034672/457.png",
+    "discord_sprite": "<:P457:1132132840943910964>"
+}

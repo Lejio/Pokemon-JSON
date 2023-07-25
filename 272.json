@@ -1,0 +1,225 @@
+{
+    "alt-version(s)": [],
+    "name": "Ludicolo",
+    "Ludicolo": {
+        "pokedex_data": {
+            "National No.": "0272",
+            "Type": [
+                "Water",
+                "Grass"
+            ],
+            "Species": "Carefree Poke\u0301mon",
+            "Height": "1.5 m (4\u203211\u2032\u2032)",
+            "Weight": "55.0 kg (121.3 lbs)",
+            "Abilities": {
+                "Swift Swim": {
+                    "href": "/ability/swift-swim",
+                    "effect": "Boosts the Pok\u00e9mon's Speed in rain.",
+                    "hidden": false
+                },
+                "Rain Dish": {
+                    "href": "/ability/rain-dish",
+                    "effect": "The Pok\u00e9mon gradually regains HP in rain.",
+                    "hidden": false
+                },
+                "Own Tempo": {
+                    "href": "/ability/own-tempo",
+                    "effect": "Prevents the Pok\u00e9mon from becoming confused.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Sp. Def",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "216",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "80",
+                "Min": "270",
+                "Max": "364"
+            },
+            "Attack": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Defense": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Atk": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Sp. Def": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Speed": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Total": "480"
+        },
+        "defense_stats": {
+            "default": {
+                "Water": "not very effective",
+                "Poison": "super-effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Bug": "super-effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Lotad",
+                    "nationalNo": "#0270",
+                    "type": [
+                        "Water",
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Lombre",
+                    "nationalNo": "#0271",
+                    "type": [
+                        "Water",
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 14)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Lombre",
+                    "nationalNo": "#0271",
+                    "type": [
+                        "Water",
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Ludicolo",
+                    "nationalNo": "#0272",
+                    "type": [
+                        "Water",
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Water Stone)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Absorb": "1",
+            "Astonish": "1",
+            "Bubble Beam": "1",
+            "Energy Ball": "1",
+            "Fake Out": "1",
+            "Flail": "1",
+            "Fury Swipes": "1",
+            "Giga Drain": "1",
+            "Growl": "1",
+            "Hydro Pump": "1",
+            "Knock Off": "1",
+            "Mega Drain": "1",
+            "Mist": "1",
+            "Nature Power": "1",
+            "Rain Dance": "1",
+            "Teeter Dance": "1",
+            "Water Gun": "1",
+            "Zen Headbutt": "1"
+        },
+        "egg": {
+            "Counter": null,
+            "Flail": null,
+            "Leech Seed": null,
+            "Razor Leaf": null,
+            "Sweet Scent": null,
+            "Synthesis": null,
+            "Teeter Dance": null,
+            "Tickle": null,
+            "Water Gun": null
+        },
+        "tm": {
+            "Focus Punch": "01",
+            "Water Pulse": "03",
+            "Hail": "07",
+            "Bullet Seed": "09",
+            "Sunny Day": "11",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Giga Drain": "19",
+            "Solar Beam": "22",
+            "Brick Break": "31",
+            "Double Team": "32",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Scald": "49",
+            "Focus Blast": "52",
+            "Energy Ball": "53",
+            "Fling": "56",
+            "Endure": "58",
+            "Drain Punch": "60",
+            "Giga Impact": "68",
+            "Flash": "70",
+            "Swords Dance": "75",
+            "Sleep Talk": "82",
+            "Grass Knot": "86",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Surf": "95",
+            "Strength": "96",
+            "Rock Smash": "98",
+            "Waterfall": "99",
+            "Rock Climb": "100"
+        }
+    },
+    "entries": {
+        "Ludicolo": [
+            "LUDICOLO begins dancing as soon as it hears cheerful, festive music. This pok\u00e9mon is said to appear when it hears the singing of children on hiking outings.",
+            "Upon hearing an upbeat and cheerful rhythm, the cells in LUDICOLO\u2019s body become very energetic and active. Even in battle, this pok\u00e9mon will exhibit an amazing amount of power.",
+            "The rhythm of bright, festive music activates LUDICOLO\u2019s cells, making it more powerful.",
+            "When it hears festive music, all the cells in its body become stimulated, and it begins moving in rhythm. It does not quail even when it faces a tough opponent.",
+            "If it hears festive music, all its muscles fill with energy. It can\u2019t help breaking out into a dance.",
+            "If it hears festive music, it begins moving in rhythm in order to amplify its power.",
+            "If it hears festive music, all its muscles fill with energy. It can\u2019t help breaking out into a dance.",
+            "If it hears festive music, all its muscles fill with energy. It can\u2019t help breaking out into a dance.",
+            "The rhythm of bright, festive music activates Ludicolo\u2019s cells, making it more powerful.",
+            "Ludicolo begins dancing as soon as it hears cheerful, festive music. This Pok\u00e9mon is said to appear when it hears the singing of children on hiking outings.",
+            "Upon hearing an upbeat and cheerful rhythm, the cells in Ludicolo\u2019s body become very energetic and active. Even in battle, this Pok\u00e9mon will exhibit an amazing amount of power.",
+            "The rhythm of bright, festive music activates Ludicolo\u2019s cells, making it more powerful.",
+            "If it hears festive music, it begins moving in rhythm in order to amplify its power.",
+            "If it hears festive music, all its muscles fill with energy. It can\u2019t help breaking out into a dance."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788722514440232/272.png",
+    "discord_sprite": "<:P272:1132124713351663668>"
+}

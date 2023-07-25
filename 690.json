@@ -1,0 +1,189 @@
+{
+    "alt-version(s)": [],
+    "name": "Skrelp",
+    "Skrelp": {
+        "pokedex_data": {
+            "National No.": "0690",
+            "Type": [
+                "Poison",
+                "Water"
+            ],
+            "Species": "Mock Kelp Poke\u0301mon",
+            "Height": "0.5 m (1\u203208\u2032\u2032)",
+            "Weight": "7.3 kg (16.1 lbs)",
+            "Abilities": {
+                "Poison Point": {
+                    "href": "/ability/poison-point",
+                    "effect": "Contact with the Pok\u00e9mon may poison the attacker.",
+                    "hidden": false
+                },
+                "Poison Touch": {
+                    "href": "/ability/poison-touch",
+                    "effect": "May poison targets when a Pok\u00e9mon makes contact.",
+                    "hidden": false
+                },
+                "Adaptability": {
+                    "href": "/ability/adaptability",
+                    "effect": "Powers up moves of the same type.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Sp. Def",
+            "Catch rate": "225",
+            "BaseFriendship": "50",
+            "Base Exp.": "64",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "50",
+                "Min": "210",
+                "Max": "304"
+            },
+            "Attack": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Defense": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Atk": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Def": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Speed": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Total": "320"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "not very effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Skrelp",
+                    "nationalNo": "#0690",
+                    "type": [
+                        "Poison",
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Dragalge",
+                    "nationalNo": "#0691",
+                    "type": [
+                        "Poison",
+                        "Dragon"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 48)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Smokescreen": "1",
+            "Tackle": "1",
+            "Acid": "5",
+            "Water Gun": "10",
+            "Tail Whip": "15",
+            "Double Team": "20",
+            "Poison Tail": "25",
+            "Water Pulse": "30",
+            "Toxic": "35",
+            "Dragon Pulse": "40",
+            "Aqua Tail": "45",
+            "Sludge Bomb": "50",
+            "Hydro Pump": "55"
+        },
+        "egg": {
+            "Acid Armor": null,
+            "Dragon Tail": null,
+            "Haze": null,
+            "Twister": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Mud-Slap": "05",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Water Pulse": "11",
+            "Acid Spray": "13",
+            "Thief": "18",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Poison Tail": "26",
+            "Icy Wind": "34",
+            "Mud Shot": "35",
+            "Dragon Tail": "44",
+            "Venoshock": "45",
+            "Endure": "47",
+            "Rain Dance": "50",
+            "Snowscape": "52",
+            "Sleep Talk": "70",
+            "Waterfall": "77",
+            "Rest": "85",
+            "Toxic Spikes": "91",
+            "Gunk Shot": "102",
+            "Substitute": "103",
+            "Liquidation": "110",
+            "Shadow Ball": "114",
+            "Dragon Pulse": "115",
+            "Surf": "123",
+            "Thunderbolt": "126",
+            "Play Rough": "127",
+            "Hydro Pump": "142",
+            "Sludge Bomb": "148",
+            "Outrage": "156",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Skrelp": [
+            "Camouflaged as rotten kelp, they spray liquid poison on prey that approaches unawares and then finish it off.",
+            "It looks just like rotten kelp. It hides from foes while storing up power for its evolution.",
+            "It vanishes into seaweed and remains perfectly still to avoid attacks from large Pok\u00e9mon. Rotten seaweed is its main food source.",
+            "It\u2019s not good at swimming, so it clings to the seaweed. In the Alola region, it\u2019s often found near Dhelmise.",
+            "It drifts in the ocean, blending in with floating seaweed. When other Pok\u00e9mon come to feast on the seaweed, Skrelp feasts on them instead.",
+            "Skrelp looks like a piece of rotten seaweed, so it can blend in with seaweed drifting on the ocean and avoid being detected by enemies.",
+            "Skrelp evades its enemies by hiding amid drifting seaweed. It eats rotten seaweed to create its poison.",
+            "This Pok\u00e9mon is a poor swimmer. If it\u2019s caught in a fierce storm, it will sometimes get washed far away and become unable to return to its home."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791981320871966/690.png",
+    "discord_sprite": "<:P690:1132143104561004674>"
+}

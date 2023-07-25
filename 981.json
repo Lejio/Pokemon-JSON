@@ -1,0 +1,217 @@
+{
+    "alt-version(s)": [],
+    "name": "Farigiraf",
+    "Farigiraf": {
+        "pokedex_data": {
+            "National No.": "0981",
+            "Type": [
+                "Normal",
+                "Psychic"
+            ],
+            "Species": "Long Neck Poke\u0301mon",
+            "Height": "3.2 m (10\u203206\u2032\u2032)",
+            "Weight": "160.0 kg (352.7 lbs)",
+            "Abilities": {
+                "Cud Chew": {
+                    "href": "/ability/cud-chew",
+                    "effect": "Can eat the same Berry twice.",
+                    "hidden": false
+                },
+                "Armor Tail": {
+                    "href": "/ability/armor-tail",
+                    "effect": "Prevents opponent using priority moves.",
+                    "hidden": false
+                },
+                "Sap Sipper": {
+                    "href": "/ability/sap-sipper",
+                    "effect": "Boosts Attack when hit by a Grass-type move.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 HP",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "260",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "120",
+                "Min": "350",
+                "Max": "444"
+            },
+            "Attack": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Defense": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Atk": {
+                "Base": "110",
+                "Min": "202",
+                "Max": "350"
+            },
+            "Sp. Def": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Speed": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Total": "520"
+        },
+        "defense_stats": {
+            "Cud Chew ability": {
+                "Psychic": "not very effective",
+                "Bug": "super-effective",
+                "Ghost": "no effect",
+                "Dark": "super-effective"
+            },
+            "Armor Tail ability": {
+                "Psychic": "not very effective",
+                "Bug": "super-effective",
+                "Ghost": "no effect",
+                "Dark": "super-effective"
+            },
+            "Sap Sipper ability": {
+                "Grass": "no effect",
+                "Psychic": "not very effective",
+                "Bug": "super-effective",
+                "Ghost": "no effect",
+                "Dark": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Girafarig",
+                    "nationalNo": "#0203",
+                    "type": [
+                        "Normal",
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Farigiraf",
+                    "nationalNo": "#0981",
+                    "type": [
+                        "Normal",
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(after Twin Beam learned)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Astonish": "1",
+            "Growl": "1",
+            "Guard Swap": "1",
+            "Power Swap": "1",
+            "Tackle": "1",
+            "Confusion": "5",
+            "Assurance": "10",
+            "Stomp": "14",
+            "Psybeam": "19",
+            "Agility": "23",
+            "Double Hit": "28",
+            "Twin Beam": "32",
+            "Crunch": "37",
+            "Baton Pass": "41",
+            "Nasty Plot": "46",
+            "Psychic": "50"
+        },
+        "egg": {
+            "Ally Switch": null,
+            "Beat Up": null,
+            "Double Kick": null,
+            "Future Sight": null,
+            "Mean Look": null,
+            "Mirror Coat": null,
+            "Take Down": null,
+            "Uproar": null,
+            "Wish": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Agility": "04",
+            "Protect": "07",
+            "Low Kick": "12",
+            "Psybeam": "16",
+            "Confuse Ray": "17",
+            "Thief": "18",
+            "Trailblaze": "20",
+            "Charge Beam": "23",
+            "Facade": "25",
+            "Bulldoze": "28",
+            "Swift": "32",
+            "Stored Power": "41",
+            "Night Shade": "42",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Psyshock": "54",
+            "Zen Headbutt": "59",
+            "Foul Play": "62",
+            "Psychic Fangs": "63",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Reflect": "74",
+            "Light Screen": "75",
+            "Dazzling Gleam": "79",
+            "Grass Knot": "81",
+            "Thunder Wave": "82",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Imprison": "92",
+            "Skill Swap": "98",
+            "Iron Head": "99",
+            "Substitute": "103",
+            "Crunch": "108",
+            "Trick": "109",
+            "Shadow Ball": "114",
+            "Hyper Voice": "117",
+            "Energy Ball": "119",
+            "Psychic": "120",
+            "Thunderbolt": "126",
+            "Amnesia": "128",
+            "Calm Mind": "129",
+            "Helping Hand": "130",
+            "Baton Pass": "132",
+            "Psychic Terrain": "138",
+            "Nasty Plot": "140",
+            "Earthquake": "149",
+            "Giga Impact": "152",
+            "Trick Room": "161",
+            "Hyper Beam": "163",
+            "Thunder": "166",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Farigiraf": [
+            "Now that the brain waves from the head and tail are synced up, the psychic power of this Pok\u00e9mon is 10 times stronger than Girafarig\u2019s.",
+            "The hardened head from the tail protects the head of the main body as Farigiraf whips its long neck around to headbutt enemies."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131794251131408474/981.png",
+    "discord_sprite": "<:P981:1132155958689267851>"
+}

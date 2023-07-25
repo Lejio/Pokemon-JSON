@@ -1,0 +1,137 @@
+{
+    "alt-version(s)": [],
+    "name": "Pyukumuku",
+    "Pyukumuku": {
+        "pokedex_data": {
+            "National No.": "0771",
+            "Type": [
+                "Water"
+            ],
+            "Species": "Sea Cucumber Poke\u0301mon",
+            "Height": "0.3 m (1\u203200\u2032\u2032)",
+            "Weight": "1.2 kg (2.6 lbs)",
+            "Abilities": {
+                "Innards Out": {
+                    "href": "/ability/innards-out",
+                    "effect": "Deals damage upon fainting.",
+                    "hidden": false
+                },
+                "Unaware": {
+                    "href": "/ability/unaware",
+                    "effect": "Ignores any stat changes in the Pok\u00e9mon.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Sp. Def",
+            "Catch rate": "60",
+            "BaseFriendship": "50",
+            "Base Exp.": "144",
+            "Growth Rate": "Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "55",
+                "Min": "220",
+                "Max": "314"
+            },
+            "Attack": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Defense": {
+                "Base": "130",
+                "Min": "238",
+                "Max": "394"
+            },
+            "Sp. Atk": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Sp. Def": {
+                "Base": "130",
+                "Min": "238",
+                "Max": "394"
+            },
+            "Speed": {
+                "Base": "5",
+                "Min": "13",
+                "Max": "119"
+            },
+            "Total": "410"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Baton Pass": "1",
+            "Harden": "1",
+            "Helping Hand": "5",
+            "Taunt": "10",
+            "Safeguard": "15",
+            "Counter": "20",
+            "Purify": "25",
+            "Curse": "30",
+            "Gastro Acid": "35",
+            "Pain Split": "40",
+            "Recover": "45",
+            "Soak": "50",
+            "Toxic": "55",
+            "Memento": "60"
+        },
+        "egg": {
+            "Mirror Coat": null,
+            "Spite": null,
+            "Swagger": null,
+            "Tickle": null
+        },
+        "tm": {
+            "Screech": "16",
+            "Light Screen": "17",
+            "Reflect": "18",
+            "Safeguard": "19",
+            "Rest": "21",
+            "Protect": "25",
+            "Attract": "31",
+            "Rain Dance": "33",
+            "Hail": "35",
+            "Helping Hand": "41"
+        },
+        "null": {
+            "Substitute": "20",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Baton Pass": "29",
+            "Taunt": "37",
+            "Venom Drench": "91"
+        }
+    },
+    "entries": {
+        "Pyukumuku": [
+            "It lives in shallow seas, such as areas near a beach. It can eject its internal organs, which it uses to engulf its prey or battle enemies.",
+            "These Pok\u00e9mon line the beaches. The sticky mucous that covers their bodies can be used to soothe sunburned skin. How convenient!",
+            "The tradition known as Pyukumuku chucking started from the custom of throwing Pyukumuku back into the sea after they wash onshore.",
+            "Its entire body is covered in its own slime. If you accidentally step on one, you\u2019ll slip, and it will get mad and smack you!",
+            "It lives in warm, shallow waters. If it encounters a foe, it will spit out its internal organs as a means to punch them.",
+            "It\u2019s covered in a slime that keeps its skin moist, allowing it to stay on land for days without drying up."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792620226613258/771.png",
+    "discord_sprite": "<:P771:1132146726497681609>"
+}

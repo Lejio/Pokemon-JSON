@@ -1,0 +1,193 @@
+{
+    "alt-version(s)": [],
+    "name": "Heatmor",
+    "Heatmor": {
+        "pokedex_data": {
+            "National No.": "0631",
+            "Type": [
+                "Fire"
+            ],
+            "Species": "Anteater Poke\u0301mon",
+            "Height": "1.4 m (4\u203207\u2032\u2032)",
+            "Weight": "58.0 kg (127.9 lbs)",
+            "Abilities": {
+                "Gluttony": {
+                    "href": "/ability/gluttony",
+                    "effect": "Encourages the early use of a held Berry.",
+                    "hidden": false
+                },
+                "Flash Fire": {
+                    "href": "/ability/flash-fire",
+                    "effect": "It powers up Fire-type moves if it's hit by one.",
+                    "hidden": false
+                },
+                "White Smoke": {
+                    "href": "/ability/white-smoke",
+                    "effect": "Prevents other Pok\u00e9mon from lowering its stats.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Sp. Atk",
+            "Catch rate": "90",
+            "BaseFriendship": "50",
+            "Base Exp.": "169",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "85",
+                "Min": "280",
+                "Max": "374"
+            },
+            "Attack": {
+                "Base": "97",
+                "Min": "179",
+                "Max": "322"
+            },
+            "Defense": {
+                "Base": "66",
+                "Min": "123",
+                "Max": "254"
+            },
+            "Sp. Atk": {
+                "Base": "105",
+                "Min": "193",
+                "Max": "339"
+            },
+            "Sp. Def": {
+                "Base": "66",
+                "Min": "123",
+                "Max": "254"
+            },
+            "Speed": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Total": "484"
+        },
+        "defense_stats": {
+            "Gluttony ability": {
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Ground": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            },
+            "Flash Fire ability": {
+                "Fire": "no effect",
+                "Water": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Ground": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            },
+            "White Smoke ability": {
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Ground": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Lick": "1",
+            "Tackle": "1",
+            "Fury Swipes": "5",
+            "Incinerate": "10",
+            "Bug Bite": "15",
+            "Spit Up": "20",
+            "Stockpile": "20",
+            "Swallow": "20",
+            "Slash": "25",
+            "Bind": "30",
+            "Fire Lash": "35",
+            "Hone Claws": "40",
+            "Amnesia": "45",
+            "Fire Spin": "50",
+            "Inferno": "55",
+            "Flare Blitz": "60"
+        },
+        "egg": {
+            "Belch": null,
+            "Curse": null,
+            "Night Slash": null,
+            "Sucker Punch": null,
+            "Tickle": null
+        },
+        "null": {
+            "Body Slam": "01",
+            "Flamethrower": "02",
+            "Low Kick": "07",
+            "Fire Blast": "15",
+            "Amnesia": "17",
+            "Substitute": "20",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Heat Wave": "36",
+            "Taunt": "37",
+            "Superpower": "39",
+            "Overheat": "43",
+            "Flare Blitz": "55",
+            "Focus Blast": "64",
+            "Throat Chop": "95"
+        },
+        "tm": {
+            "Fire Punch": "03",
+            "Thunder Punch": "05",
+            "Giga Impact": "09",
+            "Solar Beam": "11",
+            "Fire Spin": "13",
+            "Dig": "15",
+            "Rest": "21",
+            "Thief": "23",
+            "Snore": "24",
+            "Protect": "25",
+            "Giga Drain": "28",
+            "Attract": "31",
+            "Rain Dance": "33",
+            "Sunny Day": "34",
+            "Will-O-Wisp": "38",
+            "Facade": "39",
+            "Rock Tomb": "48",
+            "Fling": "59",
+            "Drain Punch": "63",
+            "Shadow Claw": "65",
+            "Round": "76",
+            "Brutal Swing": "97",
+            "Stomping Tantrum": "98"
+        }
+    },
+    "entries": {
+        "Heatmor": [
+            "It breathes through a hole in its tail while it burns with an internal fire. Durant is its prey.",
+            "Using their very hot, flame-covered tongues, they burn through Durant\u2019s steel bodies and consume their insides.",
+            "It draws in air through its tail, transforms it into fire, and uses it like a tongue. It melts Durant and eats them.",
+            "Using their very hot, flame-covered tongues, they burn through Durant\u2019s steel bodies and consume their insides.",
+            "It draws in air through its tail, transforms it into fire, and uses it like a tongue. It melts Durant and eats them.",
+            "There\u2019s a hole in its tail that allows it to draw in the air it needs to keep its fire burning. If the hole gets blocked, this Pok\u00e9mon will fall ill.",
+            "A flame serves as its tongue, melting through the hard shell of Durant so that Heatmor can devour their insides."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791522489180160/631.png",
+    "discord_sprite": "<:P631:1132140508542685294>"
+}

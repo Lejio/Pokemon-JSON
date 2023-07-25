@@ -1,0 +1,327 @@
+{
+    "alt-version(s)": [
+        "Alolan Rattata"
+    ],
+    "name": "Rattata",
+    "Rattata": {
+        "pokedex_data": {
+            "National No.": "0019",
+            "Type": [
+                "Normal"
+            ],
+            "Species": "Mouse Poke\u0301mon",
+            "Height": "0.3 m (1\u203200\u2032\u2032)",
+            "Weight": "3.5 kg (7.7 lbs)",
+            "Abilities": {
+                "Run Away": {
+                    "href": "/ability/run-away",
+                    "effect": "Enables a sure getaway from wild Pok\u00e9mon.",
+                    "hidden": false
+                },
+                "Guts": {
+                    "href": "/ability/guts",
+                    "effect": "Boosts Attack if there is a status problem.",
+                    "hidden": false
+                },
+                "Hustle": {
+                    "href": "/ability/hustle",
+                    "effect": "Boosts the Attack stat, but lowers accuracy.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Speed",
+            "Catch rate": "255",
+            "BaseFriendship": "50",
+            "Base Exp.": "51",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "30",
+                "Min": "170",
+                "Max": "264"
+            },
+            "Attack": {
+                "Base": "56",
+                "Min": "105",
+                "Max": "232"
+            },
+            "Defense": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Sp. Atk": {
+                "Base": "25",
+                "Min": "49",
+                "Max": "163"
+            },
+            "Sp. Def": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Speed": {
+                "Base": "72",
+                "Min": "134",
+                "Max": "267"
+            },
+            "Total": "253"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "Alolan Rattata": {
+        "pokedex_data": {
+            "National No.": "0019",
+            "Type": [
+                "Dark",
+                "Normal"
+            ],
+            "Species": "Mouse Poke\u0301mon",
+            "Height": "0.3 m (1\u203200\u2032\u2032)",
+            "Weight": "3.8 kg (8.4 lbs)",
+            "Abilities": {
+                "Gluttony": {
+                    "href": "/ability/gluttony",
+                    "effect": "Encourages the early use of a held Berry.",
+                    "hidden": false
+                },
+                "Hustle": {
+                    "href": "/ability/hustle",
+                    "effect": "Boosts the Attack stat, but lowers accuracy.",
+                    "hidden": false
+                },
+                "Thick Fat": {
+                    "href": "/ability/thick-fat",
+                    "effect": "Ups resistance to Fire- and Ice-type moves.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Speed",
+            "Catch rate": "255",
+            "BaseFriendship": "50",
+            "Base Exp.": "51",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "30",
+                "Min": "170",
+                "Max": "264"
+            },
+            "Attack": {
+                "Base": "56",
+                "Min": "105",
+                "Max": "232"
+            },
+            "Defense": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Sp. Atk": {
+                "Base": "25",
+                "Min": "49",
+                "Max": "163"
+            },
+            "Sp. Def": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Speed": {
+                "Base": "72",
+                "Min": "134",
+                "Max": "267"
+            },
+            "Total": "253"
+        },
+        "defense_stats": {
+            "Gluttony ability": {
+                "Fighting": "super-effective",
+                "Psychic": "no effect",
+                "Bug": "super-effective",
+                "Ghost": "no effect",
+                "Dark": "not very effective",
+                "Fairy": "super-effective"
+            },
+            "Hustle ability": {
+                "Fighting": "super-effective",
+                "Psychic": "no effect",
+                "Bug": "super-effective",
+                "Ghost": "no effect",
+                "Dark": "not very effective",
+                "Fairy": "super-effective"
+            },
+            "Thick Fat ability": {
+                "Fire": "not very effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Psychic": "no effect",
+                "Bug": "super-effective",
+                "Ghost": "no effect",
+                "Dark": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Rattata",
+                    "nationalNo": "#0019",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Raticate",
+                    "nationalNo": "#0020",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 20)",
+                "shed": null
+            }
+        ],
+        [
+            {
+                "from": {
+                    "name": "Rattata",
+                    "nationalNo": "#0019",
+                    "type": [
+                        "Dark",
+                        "Normal"
+                    ],
+                    "nickname": "Alolan Rattata"
+                },
+                "to": {
+                    "name": "Raticate",
+                    "nationalNo": "#0020",
+                    "type": [
+                        "Dark",
+                        "Normal"
+                    ],
+                    "nickname": "Alolan Raticate"
+                },
+                "requirement": "(Level 20, Nighttime)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Tackle": "1",
+            "Tail Whip": "1",
+            "Quick Attack": "4",
+            "Focus Energy": "7",
+            "Bite": "10",
+            "Laser Focus": "13",
+            "Take Down": "16",
+            "Assurance": "19",
+            "Crunch": "22",
+            "Sucker Punch": "25",
+            "Super Fang": "28",
+            "Double-Edge": "31",
+            "Endeavor": "34"
+        },
+        "egg": {
+            "Bite": null,
+            "Counter": null,
+            "Final Gambit": null,
+            "Flame Wheel": null,
+            "Fury Swipes": null,
+            "Last Resort": null,
+            "Revenge": null,
+            "Reversal": null,
+            "Screech": null,
+            "Uproar": null
+        },
+        "tm": {
+            "Work Up": "10",
+            "Sunny Day": "11",
+            "Taunt": "12",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Iron Tail": "23",
+            "Thunderbolt": "24",
+            "Thunder": "25",
+            "Dig": "28",
+            "Shadow Ball": "30",
+            "Double Team": "32",
+            "Shock Wave": "34",
+            "Sludge Bomb": "36",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Charge Beam": "57",
+            "Endure": "58",
+            "Thunder Wave": "73",
+            "Sleep Talk": "82",
+            "Grass Knot": "86",
+            "Swagger": "87",
+            "Pluck": "88",
+            "Substitute": "90",
+            "Cut": "93",
+            "Rock Smash": "98"
+        }
+    },
+    "entries": {
+        "Rattata": [
+            "Bites anything when it attacks. Small and very quick, it is a common sight in many places.",
+            "Will chew on anything with its fangs. If you see one, it is certain that 40 more live in the area.",
+            "It eats anything. Wherever food is available, it will settle down and produce offspring continuously.",
+            "Living wherever there is food available, it ceaselessly scavenges for edibles the entire day.",
+            "This pok\u00e9mon\u2019s impressive vitality allows it to live anywhere. It also multiplies very quickly.",
+            "RATTATA is cautious in the extreme. Even while it is asleep, it constantly listens by moving its ears around. It is not picky about where it lives - it will make its nest anywhere.",
+            "Its fangs are long and very sharp. They grow continuously, so it gnaws on hard things to whittle them down.",
+            "Bites anything when it attacks. Small and very quick, it is a common sight in many places.",
+            "A RATTATA is cautious in the extreme. Even while it is asleep, it constantly moves its ears and listens for danger. It will make its nest anywhere.",
+            "Cautious in the extreme, its hardy vitality lets it live in any kind of environment.",
+            "It eats anything. Wherever food is available, it will settle down and produce offspring continuously.",
+            "Living wherever there is food available, it ceaselessly scavenges for edibles the entire day.",
+            "Cautious in the extreme, its hardy vitality lets it live in any kind of environment.",
+            "It searches for food all day. It gnaws on hard objects to wear down its fangs, which grow constantly during its lifetime.",
+            "Living wherever there is food available, it ceaselessly scavenges for edibles the entire day.",
+            "Its fangs are long and very sharp. They grow continuously, so it gnaws on hard things to whittle them down.",
+            "Rattata is cautious in the extreme. Even while it is asleep, it constantly listens by moving its ears around. It is not picky about where it lives\u2014it will make its nest anywhere.",
+            "Its incisors continue growing until its death. If its Trainer doesn\u2019t offer it a file to gnaw on, it will gnaw on door frames, table legs, and so on.",
+            "With their strong capacity for survival, they can live in dirty places without concern. Left unchecked, their numbers multiply rapidly.",
+            "Its incisors grow continuously throughout its life. If its incisors get too long, this Pok\u00e9mon becomes unable to eat, and it starves to death.",
+            "This Pok\u00e9mon is common but hazardous. Its sharp incisors can easily cut right through hard wood.",
+            "Will chew on anything with its fangs. If you see one, you can be certain that 40 more live in the area.",
+            "It\u2019s cautious in the extreme, and its hardy vitality lets it live in any kind of environment."
+        ],
+        "Alolan Rattata": [
+            "With its incisors, it gnaws through doors and infiltrates people\u2019s homes. Then, with a twitch of its whiskers, it steals whatever food it finds.",
+            "When the sun goes down, it becomes active. It runs around town on a chase for good food for the boss of its nest\u2014Raticate.",
+            "It shows no interest in anything that isn\u2019t fresh. If you take it shopping with you, it will help you pick out ingredients.",
+            "Night after night, they sneak into people\u2019s homes seeking food. A massive outbreak of them has become an issue of public concern.",
+            "Its whiskers provide it with a keen sense of smell, enabling it to pick up the scent of hidden food and locate it instantly."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131786736377270363/19.png",
+    "discord_sprite": "<:P19:1131972728015036416>"
+}

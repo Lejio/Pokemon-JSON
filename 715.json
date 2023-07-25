@@ -1,0 +1,205 @@
+{
+    "alt-version(s)": [],
+    "name": "Noivern",
+    "Noivern": {
+        "pokedex_data": {
+            "National No.": "0715",
+            "Type": [
+                "Flying",
+                "Dragon"
+            ],
+            "Species": "Sound Wave Poke\u0301mon",
+            "Height": "1.5 m (4\u203211\u2032\u2032)",
+            "Weight": "85.0 kg (187.4 lbs)",
+            "Abilities": {
+                "Frisk": {
+                    "href": "/ability/frisk",
+                    "effect": "The Pok\u00e9mon can check a foe's held item.",
+                    "hidden": false
+                },
+                "Infiltrator": {
+                    "href": "/ability/infiltrator",
+                    "effect": "Passes through the foe's barrier and strikes.",
+                    "hidden": false
+                },
+                "Telepathy": {
+                    "href": "/ability/telepathy",
+                    "effect": "Anticipates an ally's attack and dodges it.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Speed",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "187",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "85",
+                "Min": "280",
+                "Max": "374"
+            },
+            "Attack": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Defense": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Sp. Atk": {
+                "Base": "97",
+                "Min": "179",
+                "Max": "322"
+            },
+            "Sp. Def": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Speed": {
+                "Base": "123",
+                "Min": "225",
+                "Max": "379"
+            },
+            "Total": "535"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Ground": "no effect",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Dragon": "super-effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Noibat",
+                    "nationalNo": "#0714",
+                    "type": [
+                        "Flying",
+                        "Dragon"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Noivern",
+                    "nationalNo": "#0715",
+                    "type": [
+                        "Flying",
+                        "Dragon"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 48)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Absorb": "1",
+            "Gust": "1",
+            "Moonlight": "1",
+            "Supersonic": "1",
+            "Tackle": "1",
+            "Double Team": "12",
+            "Wing Attack": "16",
+            "Bite": "20",
+            "Air Cutter": "24",
+            "Whirlwind": "28",
+            "Super Fang": "32",
+            "Air Slash": "36",
+            "Screech": "40",
+            "Roost": "44",
+            "Tailwind": "51",
+            "Hurricane": "56",
+            "Boomburst": "62"
+        },
+        "evolution": {
+            "Dragon Pulse": "85"
+        },
+        "egg": {
+            "Defog": null,
+            "Dragon Rush": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Agility": "04",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Water Pulse": "11",
+            "Acrobatics": "14",
+            "Thief": "18",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Swift": "32",
+            "Air Cutter": "40",
+            "Dragon Tail": "44",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Brick Break": "58",
+            "U-turn": "60",
+            "Shadow Claw": "61",
+            "Air Slash": "65",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Dragon Claw": "78",
+            "Rest": "85",
+            "Taunt": "87",
+            "Dark Pulse": "94",
+            "Leech Life": "95",
+            "Fly": "97",
+            "Dragon Dance": "100",
+            "Substitute": "103",
+            "X-Scissor": "105",
+            "Tailwind": "113",
+            "Shadow Ball": "114",
+            "Dragon Pulse": "115",
+            "Hyper Voice": "117",
+            "Heat Wave": "118",
+            "Psychic": "120",
+            "Flamethrower": "125",
+            "Wild Charge": "147",
+            "Giga Impact": "152",
+            "Outrage": "156",
+            "Focus Blast": "158",
+            "Hurricane": "160",
+            "Hyper Beam": "163",
+            "Solar Beam": "168",
+            "Draco Meteor": "169",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Noivern": [
+            "They fly around on moonless nights and attack careless prey. Nothing can beat them in a battle in the dark.",
+            "The ultrasonic waves it emits from its ears can reduce a large boulder to pebbles. It swoops out of the dark to attack.",
+            "Although it has a violent disposition, if you give it a nice ripe fruit that it loves, Noivern will suddenly become tame.",
+            "This hot-blooded Pok\u00e9mon attacks anything it sees with ultrasonic waves that can crush boulders.",
+            "Aggressive and cruel, this Pok\u00e9mon will ruthlessly torment enemies that are helpless in the dark.",
+            "Flying through the darkness, it weakens enemies with ultrasonic waves that could crush stone. Its fangs finish the fight.",
+            "Ultrasonic waves emitted by a Noivern can pulverize a large boulder. This Pok\u00e9mon has a cruel disposition.",
+            "In the dark, even Hydreigon are terrified of this Pok\u00e9mon. But in the light, Noivern is the one that avoids battle."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792183134003210/715.png",
+    "discord_sprite": "<:P715:1132144198137696286>"
+}

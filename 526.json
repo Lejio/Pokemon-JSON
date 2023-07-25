@@ -1,0 +1,211 @@
+{
+    "alt-version(s)": [],
+    "name": "Gigalith",
+    "Gigalith": {
+        "pokedex_data": {
+            "National No.": "0526",
+            "Type": [
+                "Rock"
+            ],
+            "Species": "Compressed Poke\u0301mon",
+            "Height": "1.7 m (5\u203207\u2032\u2032)",
+            "Weight": "260.0 kg (573.2 lbs)",
+            "Abilities": {
+                "Sturdy": {
+                    "href": "/ability/sturdy",
+                    "effect": "It cannot be knocked out with one hit.",
+                    "hidden": false
+                },
+                "Sand Stream": {
+                    "href": "/ability/sand-stream",
+                    "effect": "The Pok\u00e9mon summons a sandstorm in battle.",
+                    "hidden": false
+                },
+                "Sand Force": {
+                    "href": "/ability/sand-force",
+                    "effect": "Boosts certain moves' power in a sandstorm.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Attack",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "232",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "85",
+                "Min": "280",
+                "Max": "374"
+            },
+            "Attack": {
+                "Base": "135",
+                "Min": "247",
+                "Max": "405"
+            },
+            "Defense": {
+                "Base": "130",
+                "Min": "238",
+                "Max": "394"
+            },
+            "Sp. Atk": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Def": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Speed": {
+                "Base": "25",
+                "Min": "49",
+                "Max": "163"
+            },
+            "Total": "515"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Grass": "super-effective",
+                "Fighting": "super-effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Roggenrola",
+                    "nationalNo": "#0524",
+                    "type": [
+                        "Rock"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Boldore",
+                    "nationalNo": "#0525",
+                    "type": [
+                        "Rock"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 25)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Boldore",
+                    "nationalNo": "#0525",
+                    "type": [
+                        "Rock"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Gigalith",
+                    "nationalNo": "#0526",
+                    "type": [
+                        "Rock"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Trade)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Harden": "1",
+            "Power Gem": "1",
+            "Sand Attack": "1",
+            "Stealth Rock": "1",
+            "Tackle": "1",
+            "Mud-Slap": "12",
+            "Smack Down": "16",
+            "Iron Defense": "20",
+            "Headbutt": "24",
+            "Rock Slide": "30",
+            "Rock Blast": "36",
+            "Sandstorm": "42",
+            "Stone Edge": "48",
+            "Explosion": "54"
+        },
+        "egg": {
+            "Autotomize": null,
+            "Curse": null,
+            "Gravity": null,
+            "Take Down": null,
+            "Wide Guard": null
+        },
+        "null": {
+            "Earthquake": "10",
+            "Substitute": "20",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Superpower": "39",
+            "Iron Defense": "46",
+            "Power Gem": "63",
+            "Earth Power": "67",
+            "Flash Cannon": "70",
+            "Iron Head": "74",
+            "Stone Edge": "75",
+            "Stealth Rock": "76",
+            "Heavy Slam": "79",
+            "Throat Chop": "95",
+            "Body Press": "99"
+        },
+        "tm": {
+            "Hyper Beam": "08",
+            "Giga Impact": "09",
+            "Solar Beam": "11",
+            "Self-Destruct": "20",
+            "Rest": "21",
+            "Rock Slide": "22",
+            "Snore": "24",
+            "Protect": "25",
+            "Attract": "31",
+            "Sandstorm": "32",
+            "Facade": "39",
+            "Weather Ball": "46",
+            "Rock Tomb": "48",
+            "Sand Tomb": "49",
+            "Rock Blast": "54",
+            "Round": "76",
+            "Bulldoze": "81",
+            "Stomping Tantrum": "98"
+        }
+    },
+    "entries": {
+        "Gigalith": [
+            "Compressing the energy from its internal core lets it fire off an attack capable of blowing away a mountain.",
+            "The solar energy absorbed by its body\u2019s orange crystals is magnified internally and fired from its mouth.",
+            "The solar rays it absorbs are processed in its energy core and fired as a ball of light.",
+            "The solar rays it absorbs are processed in its energy core and fired as a ball of light.",
+            "Compressing the energy from its internal core lets it fire off an attack capable of blowing away a mountain.",
+            "The blasts of energy it makes from sunbeams have terrifying power. However, it\u2019s not able to fire its blasts at night or on rainy days.",
+            "Known for its hefty horsepower, this Pok\u00e9mon is a popular partner for construction workers.",
+            "When it fires off energy with all its might, the power creates countless fissures on its body.",
+            "It absorbs rays of sunlight and shoots out energy. It\u2019s usually lurking deep beneath the surface.",
+            "This hardy Pok\u00e9mon can often be found on construction sites and in mines, working alongside people and Copperajah.",
+            "Although its energy blasts can blow away a dump truck, they have a limitation\u2014 they can only be fired when the sun is out."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790702850883774/526.png",
+    "discord_sprite": "<:P526:1132135878194634845>"
+}

@@ -1,0 +1,250 @@
+{
+    "alt-version(s)": [],
+    "name": "Blissey",
+    "Blissey": {
+        "pokedex_data": {
+            "National No.": "0242",
+            "Type": [
+                "Normal"
+            ],
+            "Species": "Happiness Poke\u0301mon",
+            "Height": "1.5 m (4\u203211\u2032\u2032)",
+            "Weight": "46.8 kg (103.2 lbs)",
+            "Abilities": {
+                "Natural Cure": {
+                    "href": "/ability/natural-cure",
+                    "effect": "All status problems heal when it switches out.",
+                    "hidden": false
+                },
+                "Serene Grace": {
+                    "href": "/ability/serene-grace",
+                    "effect": "Boosts the likelihood of added effects appearing.",
+                    "hidden": false
+                },
+                "Healer": {
+                    "href": "/ability/healer",
+                    "effect": "May heal an ally's status conditions.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 HP",
+            "Catch rate": "30",
+            "BaseFriendship": "140",
+            "Base Exp.": "635",
+            "Growth Rate": "Fast"
+        },
+        "breeding_data": {
+            "Gender": "0% male,100% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "255",
+                "Min": "620",
+                "Max": "714"
+            },
+            "Attack": {
+                "Base": "10",
+                "Min": "22",
+                "Max": "130"
+            },
+            "Defense": {
+                "Base": "10",
+                "Min": "22",
+                "Max": "130"
+            },
+            "Sp. Atk": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Sp. Def": {
+                "Base": "135",
+                "Min": "247",
+                "Max": "405"
+            },
+            "Speed": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Total": "540"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Happiny",
+                    "nationalNo": "#0440",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Chansey",
+                    "nationalNo": "#0113",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(hold Oval Stone, Daytime)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Chansey",
+                    "nationalNo": "#0113",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Blissey",
+                    "nationalNo": "#0242",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(high Friendship)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Charm": "1",
+            "Copycat": "1",
+            "Covet": "1",
+            "Defense Curl": "1",
+            "Disarming Voice": "1",
+            "Pound": "1",
+            "Sweet Kiss": "1",
+            "Tail Whip": "4",
+            "Echoed Voice": "8",
+            "Life Dew": "12",
+            "Sing": "16",
+            "Fling": "20",
+            "Take Down": "24",
+            "Heal Pulse": "28",
+            "Helping Hand": "32",
+            "Light Screen": "36",
+            "Double-Edge": "40",
+            "Soft-Boiled": "44",
+            "Last Resort": "48",
+            "Healing Wish": "52"
+        },
+        "egg": {
+            "Gravity": null,
+            "Heal Bell": null,
+            "Present": null,
+            "Seismic Toss": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Charm": "02",
+            "Protect": "07",
+            "Water Pulse": "11",
+            "Thief": "18",
+            "Disarming Voice": "19",
+            "Trailblaze": "20",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Bulldoze": "28",
+            "Swift": "32",
+            "Icy Wind": "34",
+            "Rock Tomb": "36",
+            "Stored Power": "41",
+            "Fling": "43",
+            "Avalanche": "46",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Sandstorm": "51",
+            "Snowscape": "52",
+            "Brick Break": "58",
+            "Zen Headbutt": "59",
+            "Body Slam": "66",
+            "Fire Punch": "67",
+            "Thunder Punch": "68",
+            "Ice Punch": "69",
+            "Sleep Talk": "70",
+            "Drain Punch": "73",
+            "Light Screen": "75",
+            "Dazzling Gleam": "79",
+            "Metronome": "80",
+            "Grass Knot": "81",
+            "Thunder Wave": "82",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Skill Swap": "98",
+            "Substitute": "103",
+            "Trick": "109",
+            "Shadow Ball": "114",
+            "Stealth Rock": "116",
+            "Hyper Voice": "117",
+            "Psychic": "120",
+            "Flamethrower": "125",
+            "Thunderbolt": "126",
+            "Calm Mind": "129",
+            "Helping Hand": "130",
+            "Ice Beam": "135",
+            "Electric Terrain": "136",
+            "Fire Blast": "141",
+            "Blizzard": "143",
+            "Wild Charge": "147",
+            "Earthquake": "149",
+            "Giga Impact": "152",
+            "Focus Blast": "158",
+            "Hyper Beam": "163",
+            "Thunder": "166",
+            "Solar Beam": "168",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Blissey": [
+            "Anyone who takes even one bite of BLISSEY\u2019s egg becomes unfailingly caring and pleasant to everyone.",
+            "It has a very compassionate nature. If it sees a sick pok\u00e9mon, it will nurse the sufferer back to health.",
+            "Biting into one of the delicious eggs that BLISSEY provides will make everyone around smile with joy.",
+            "BLISSEY senses sadness with its fluffy coat of fur. If it does so, this pok\u00e9mon will rush over to the sad person, however far they may be, to share an egg of happiness that brings a smile to any face.",
+            "It has a very compassionate nature. If it sees a sick pok\u00e9mon, it will nurse the sufferer back to health.",
+            "Anyone who takes even one bite of BLISSEY\u2019s egg becomes unfailingly caring and pleasant to everyone.",
+            "If it senses sadness with its fluffy fur, a BLISSEY will rush over to the sad person, however far away, to share an egg of happiness that brings a smile to any face.",
+            "This kindhearted Pok\u00e9mon nurses sick Pok\u00e9mon to health. It senses feelings of sadness.",
+            "It is a Pok\u00e9mon that delivers happiness. Eating its egg is said to make one kind to everyone.",
+            "The eggs it lays are filled with happiness. Eating even one bite will bring a smile to anyone.",
+            "Anyone who takes even one taste of BLISSEY\u2019s egg becomes unfailingly caring and pleasant to everyone.",
+            "It has a very compassionate nature. If it sees a sick Pok\u00e9mon, it will nurse the sufferer back to health.",
+            "The eggs it lays are filled with happiness. Eating even one bite will bring a smile to anyone.",
+            "The eggs it lays are filled with happiness. Eating even one bite will bring a smile to anyone.",
+            "This kindhearted Pok\u00e9mon nurses sick Pok\u00e9mon to health. It senses feelings of sadness.",
+            "Blissey senses sadness with its fluffy coat of fur. If it does so, this Pok\u00e9mon will rush over to a sad person, no matter how far away, to share a Lucky Egg that brings a smile to any face.",
+            "Even the most ferocious Pok\u00e9mon become calm when they eat Blissey\u2019s egg, which is said to be filled with happiness.",
+            "Its fluffy fur coat acts as a sensor, enabling it to read the feelings of people and Pok\u00e9mon.",
+            "Their eggs are such a delicacy that some say eating one will bring you happiness. These eggs fetch the highest prices on the market.",
+            "This Pok\u00e9mon is overflowing with love. Only Chansey that share a strong bond with their Trainer can evolve, so people say.",
+            "Whenever a Blissey finds a weakened Pok\u00e9mon, it will share its egg and offer its care until the other Pok\u00e9mon is all better.",
+            "Blissey lays mysterious eggs that are filled with happiness. It\u2019s said that anyone who eats a Blissey egg will start acting kindly to all others.",
+            "This kindhearted Pok\u00e9mon nurses sick Pok\u00e9mon to health. It senses feelings of sadness.",
+            "It is a Pok\u00e9mon that delivers happiness. Eating its egg is said to make one kind to everyone.",
+            "A kindhearted Pok\u00e9mon that will care for any sick person or Pok\u00e9mon until their health improves. The eggs it lays are delicious and bring good fortune to those who eat them.",
+            "Anyone who takes even one taste of Blissey\u2019s egg becomes unfailingly caring and pleasant to everyone.",
+            "The eggs it lays are filled with happiness. Eating even one bite will bring a smile to anyone."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788486400290937/242.png",
+    "discord_sprite": "<:P242:1132123385778950214>"
+}

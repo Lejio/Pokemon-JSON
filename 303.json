@@ -1,0 +1,277 @@
+{
+    "alt-version(s)": [
+        "Mega Mawile"
+    ],
+    "name": "Mawile",
+    "Mawile": {
+        "pokedex_data": {
+            "National No.": "0303",
+            "Type": [
+                "Steel",
+                "Fairy"
+            ],
+            "Species": "Deceiver Poke\u0301mon",
+            "Height": "0.6 m (2\u203200\u2032\u2032)",
+            "Weight": "11.5 kg (25.4 lbs)",
+            "Abilities": {
+                "Hyper Cutter": {
+                    "href": "/ability/hyper-cutter",
+                    "effect": "Prevents other Pok\u00e9mon from lowering Attack stat.",
+                    "hidden": false
+                },
+                "Intimidate": {
+                    "href": "/ability/intimidate",
+                    "effect": "Lowers the foe's Attack stat.",
+                    "hidden": false
+                },
+                "Sheer Force": {
+                    "href": "/ability/sheer-force",
+                    "effect": "Removes added effects to increase move damage.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack, 1 Defense",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "133",
+            "Growth Rate": "Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "50",
+                "Min": "210",
+                "Max": "304"
+            },
+            "Attack": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Defense": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Sp. Atk": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Sp. Def": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Speed": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Total": "380"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Fire": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Poison": "no effect",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Dragon": "no effect",
+                "Dark": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "Mega Mawile": {
+        "pokedex_data": {
+            "National No.": "0303",
+            "Type": [
+                "Steel",
+                "Fairy"
+            ],
+            "Species": "Deceiver Poke\u0301mon",
+            "Height": "1.0 m (3\u203203\u2032\u2032)",
+            "Weight": "23.5 kg (51.8 lbs)",
+            "Abilities": {
+                "Huge Power": {
+                    "href": "/ability/huge-power",
+                    "effect": "Raises the Pok\u00e9mon's Attack stat.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack, 1 Defense",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "168",
+            "Growth Rate": "Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "50",
+                "Min": "210",
+                "Max": "304"
+            },
+            "Attack": {
+                "Base": "105",
+                "Min": "193",
+                "Max": "339"
+            },
+            "Defense": {
+                "Base": "125",
+                "Min": "229",
+                "Max": "383"
+            },
+            "Sp. Atk": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Sp. Def": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Speed": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Total": "480"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Fire": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Poison": "no effect",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Dragon": "no effect",
+                "Dark": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Astonish": "1",
+            "Growl": "1",
+            "Fairy Wind": "4",
+            "Baton Pass": "8",
+            "Bite": "12",
+            "Spit Up": "16",
+            "Stockpile": "16",
+            "Swallow": "16",
+            "Sucker Punch": "20",
+            "Iron Defense": "24",
+            "Crunch": "28",
+            "Sweet Scent": "32",
+            "Iron Head": "36",
+            "Taunt": "40",
+            "Fake Tears": "44",
+            "Play Rough": "48"
+        },
+        "egg": {
+            "Ancient Power": null,
+            "Fire Fang": null,
+            "Guard Swap": null,
+            "Ice Fang": null,
+            "Metal Burst": null,
+            "Misty Terrain": null,
+            "Poison Fang": null,
+            "Power-Up Punch": null,
+            "Seismic Toss": null,
+            "Slam": null,
+            "Sucker Punch": null,
+            "Thunder Fang": null,
+            "Tickle": null
+        },
+        "tm": {
+            "Focus Punch": "01",
+            "Sunny Day": "11",
+            "Taunt": "12",
+            "Ice Beam": "13",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Solar Beam": "22",
+            "Shadow Ball": "30",
+            "Brick Break": "31",
+            "Double Team": "32",
+            "Flamethrower": "35",
+            "Sludge Bomb": "36",
+            "Sandstorm": "37",
+            "Fire Blast": "38",
+            "Rock Tomb": "39",
+            "Torment": "41",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Focus Blast": "52",
+            "False Swipe": "54",
+            "Fling": "56",
+            "Charge Beam": "57",
+            "Endure": "58",
+            "Payback": "66",
+            "Giga Impact": "68",
+            "Stone Edge": "71",
+            "Swords Dance": "75",
+            "Stealth Rock": "76",
+            "Dark Pulse": "79",
+            "Rock Slide": "80",
+            "Sleep Talk": "82",
+            "Grass Knot": "86",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Flash Cannon": "91",
+            "Strength": "96",
+            "Rock Smash": "98"
+        }
+    },
+    "entries": {
+        "Mawile": [
+            "MAWILE\u2019s huge jaws are actually steel horns that have been transformed. Its docile-looking face serves to lull its foe into letting down its guard. When the foe least expects it, MAWILE chomps it with its gaping jaws.",
+            "Don\u2019t be taken in by this pok\u00e9mon\u2019s cute face - it\u2019s very dangerous. MAWILE fools the foe into letting down its guard, then chomps down with its massive jaws. The steel jaws are really horns that have been transformed.",
+            "It uses its docile-looking face to lull foes into complacency, then bites with its huge, relentless jaws.",
+            "Its giant jaws are actually steel horns that transformed. It fools foes into complacency with its adorable gestures, then chomps them with its huge jaws.",
+            "Attached to its head is a huge set of jaws formed by horns. It can chew through iron beams.",
+            "It chomps with its gaping mouth. Its huge jaws are actually steel horns that have been transformed.",
+            "Attached to its head is a huge set of jaws formed by horns. It can chew through iron beams.",
+            "It uses its docile-looking face to lull foes into complacency, then bites with its huge, relentless jaws.",
+            "Attached to its head is a huge set of jaws formed by horns. It can chew through iron beams.",
+            "Mawile\u2019s huge jaws are actually steel horns that have been transformed. Its docile-looking face serves to lull its foe into letting down its guard. When the foe least expects it, Mawile chomps it with its gaping jaws.",
+            "Don\u2019t be taken in by this Pok\u00e9mon\u2019s cute face\u2014it\u2019s very dangerous. Mawile fools the foe into letting down its guard, then chomps down with its massive jaws. The steel jaws are really horns that have been transformed.",
+            "A cunning and terrifying Pok\u00e9mon, its cuteness makes opponents let down their guard\u2014and then it swallows them whole with its huge jaws.",
+            "It has two mouths. The big jaws on the back of its head can\u2019t taste anything, so that\u2019s the mouth it uses to eat foods it doesn\u2019t like.",
+            "It uses its docile-looking face to lull foes into complacency, then bites with its huge, relentless jaws.",
+            "It chomps with its gaping mouth. Its huge jaws are actually steel horns that have been transformed.",
+            "Attached to its head is a huge set of jaws formed by horns. It can chew through iron beams."
+        ],
+        "Mega Mawile": [
+            "It has an extremely vicious disposition. It grips prey in its two sets of jaws and tears them apart with raw power.",
+            "Its two sets of jaws thrash about violently as if they each had a will of their own. One gnash from them can turn a boulder to dust."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788969470869535/303.png",
+    "discord_sprite": "<:P303:1132126072050298881>"
+}

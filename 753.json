@@ -1,0 +1,167 @@
+{
+    "alt-version(s)": [],
+    "name": "Fomantis",
+    "Fomantis": {
+        "pokedex_data": {
+            "National No.": "0753",
+            "Type": [
+                "Grass"
+            ],
+            "Species": "Sickle Grass Poke\u0301mon",
+            "Height": "0.3 m (1\u203200\u2032\u2032)",
+            "Weight": "1.5 kg (3.3 lbs)",
+            "Abilities": {
+                "Leaf Guard": {
+                    "href": "/ability/leaf-guard",
+                    "effect": "Prevents problems with status in sunny weather.",
+                    "hidden": false
+                },
+                "Contrary": {
+                    "href": "/ability/contrary",
+                    "effect": "Makes stat changes have an opposite effect.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack",
+            "Catch rate": "190",
+            "BaseFriendship": "50",
+            "Base Exp.": "50",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "40",
+                "Min": "190",
+                "Max": "284"
+            },
+            "Attack": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Defense": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Sp. Atk": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Def": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Speed": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Total": "250"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Poison": "super-effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Bug": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Fomantis",
+                    "nationalNo": "#0753",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Lurantis",
+                    "nationalNo": "#0754",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 34, Daytime)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Fury Cutter": "1",
+            "Leafage": "1",
+            "Growth": "5",
+            "Ingrain": "10",
+            "Razor Leaf": "15",
+            "Sweet Scent": "20",
+            "Slash": "25",
+            "X-Scissor": "30",
+            "Synthesis": "35",
+            "Leaf Blade": "40",
+            "Sunny Day": "45",
+            "Solar Beam": "50"
+        },
+        "egg": {
+            "Defog": null,
+            "Worry Seed": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Protect": "07",
+            "Trailblaze": "20",
+            "Facade": "25",
+            "Magical Leaf": "33",
+            "Fling": "43",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Bullet Seed": "56",
+            "False Swipe": "57",
+            "Sleep Talk": "70",
+            "Seed Bomb": "71",
+            "Grass Knot": "81",
+            "Rest": "85",
+            "Swords Dance": "88",
+            "Leech Life": "95",
+            "Substitute": "103",
+            "X-Scissor": "105",
+            "Giga Drain": "111",
+            "Energy Ball": "119",
+            "Grassy Terrain": "137",
+            "Leaf Storm": "159",
+            "Solar Beam": "168",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Fomantis": [
+            "During the day, it sleeps and soaks up light. When night falls, it walks around looking for a safer place to sleep.",
+            "They give off a sweet and refreshing scent. Cutiefly often gather near the tall grass where Fomantis are hiding.",
+            "When the sun rises, Fomantis spreads its four leaves and bathes in the sunlight. The tip of its head has a pleasant aroma.",
+            "It loves the sunshine. When it basks in the sunlight regularly, it grows up with vivid coloration.",
+            "When bathed in sunlight, this Pok\u00e9mon emits a pleasantly sweet scent, which causes bug Pok\u00e9mon to gather around it.",
+            "During the day, Fomantis basks in sunlight and sleeps peacefully. It wakes and moves around at night.",
+            "Fomantis hates having its naps interrupted. It fires off beams using energy it gathers by bathing in the sun.",
+            "Many Trainers give their Fomantis their own flowerpots so they can sunbathe in peace and quiet."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792477943234661/753.png",
+    "discord_sprite": "<:P753:1132145937146454026>"
+}

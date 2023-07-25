@@ -1,0 +1,209 @@
+{
+    "alt-version(s)": [],
+    "name": "Trapinch",
+    "Trapinch": {
+        "pokedex_data": {
+            "National No.": "0328",
+            "Type": [
+                "Ground"
+            ],
+            "Species": "Ant Pit Poke\u0301mon",
+            "Height": "0.7 m (2\u203204\u2032\u2032)",
+            "Weight": "15.0 kg (33.1 lbs)",
+            "Abilities": {
+                "Hyper Cutter": {
+                    "href": "/ability/hyper-cutter",
+                    "effect": "Prevents other Pok\u00e9mon from lowering Attack stat.",
+                    "hidden": false
+                },
+                "Arena Trap": {
+                    "href": "/ability/arena-trap",
+                    "effect": "Prevents the foe from fleeing.",
+                    "hidden": false
+                },
+                "Sheer Force": {
+                    "href": "/ability/sheer-force",
+                    "effect": "Removes added effects to increase move damage.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack",
+            "Catch rate": "255",
+            "BaseFriendship": "50",
+            "Base Exp.": "58",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "45",
+                "Min": "200",
+                "Max": "294"
+            },
+            "Attack": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Defense": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Sp. Atk": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Sp. Def": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Speed": {
+                "Base": "10",
+                "Min": "22",
+                "Max": "130"
+            },
+            "Total": "290"
+        },
+        "defense_stats": {
+            "default": {
+                "Water": "super-effective",
+                "Electric": "no effect",
+                "Grass": "super-effective",
+                "Ice": "super-effective",
+                "Poison": "not very effective",
+                "Rock": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Trapinch",
+                    "nationalNo": "#0328",
+                    "type": [
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Vibrava",
+                    "nationalNo": "#0329",
+                    "type": [
+                        "Ground",
+                        "Dragon"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 35)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Vibrava",
+                    "nationalNo": "#0329",
+                    "type": [
+                        "Ground",
+                        "Dragon"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Flygon",
+                    "nationalNo": "#0330",
+                    "type": [
+                        "Ground",
+                        "Dragon"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 45)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Astonish": "1",
+            "Sand Attack": "1",
+            "Laser Focus": "4",
+            "Bite": "8",
+            "Mud-Slap": "12",
+            "Sand Tomb": "16",
+            "Bulldoze": "20",
+            "Dig": "24",
+            "Crunch": "28",
+            "Sandstorm": "32",
+            "Earth Power": "36",
+            "Earthquake": "40",
+            "Superpower": "44",
+            "Fissure": "48"
+        },
+        "egg": {
+            "Bug Bite": null,
+            "Earth Power": null,
+            "Feint": null,
+            "Flail": null,
+            "Focus Energy": null,
+            "Fury Cutter": null,
+            "Gust": null,
+            "Mud Shot": null,
+            "Quick Attack": null
+        },
+        "tm": {
+            "Sunny Day": "11",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Giga Drain": "19",
+            "Solar Beam": "22",
+            "Earthquake": "26",
+            "Dig": "28",
+            "Double Team": "32",
+            "Sandstorm": "37",
+            "Rock Tomb": "39",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Endure": "58",
+            "Rock Slide": "80",
+            "Sleep Talk": "82",
+            "Bulldoze": "83",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Strength": "96",
+            "Rock Smash": "98"
+        }
+    },
+    "entries": {
+        "Trapinch": [
+            "TRAPINCH\u2019s nest is a sloped, bowl-like pit dug in sand. This pok\u00e9mon patiently waits for prey to tumble down the pit. Its giant jaws have enough strength to crush even boulders.",
+            "TRAPINCH is a patient hunter. It digs an inescapable pit in a desert and waits for its prey to come tumbling down. This pok\u00e9mon can go a whole week without access to any water.",
+            "It lives in arid deserts. It makes a sloping pit trap in sand where it patiently awaits prey.",
+            "Its big jaws crunch through boulders. Because its head is so big, it has a hard time getting back upright if it tips over onto its back.",
+            "It makes a conical pit in desert sand and lies in wait at the bottom for prey to come tumbling down.",
+            "Its nest is a sloped, bowl-like pit in the desert. Once something has fallen in, there is no escape.",
+            "It makes a conical pit in desert sand and lies in wait at the bottom for prey to come tumbling down.",
+            "It makes an inescapable conical pit and lies in wait at the bottom for prey to come tumbling down.",
+            "It lives in arid deserts. It makes a sloping pit trap in sand where it patiently awaits prey.",
+            "It makes an inescapable conical pit and lies in wait at the bottom for prey to come tumbling down.",
+            "Trapinch\u2019s nest is a sloped, bowl-like pit dug in sand. This Pok\u00e9mon patiently waits for prey to tumble down the pit. Its giant jaws have enough strength to crush even boulders.",
+            "Trapinch is a patient hunter. It digs an inescapable pit in a desert and waits for its prey to come tumbling down. This Pok\u00e9mon can go a whole week without access to any water.",
+            "It can live for a week without eating a thing. It waits patiently at the bottom of its nest for prey to appear.",
+            "As it digs through the sand, its giant jaws crush any rocks that obstruct its path. It builds a funnel-shaped nest.",
+            "Its jaws are strong enough to crush rocks but so heavy that it can\u2019t get up if it flips over. Sandile seize those moments as their chance.",
+            "It builds nests that double as traps, lying in wait for its prey to get caught. When night falls, it digs itself a spot beneath the sand to sleep.",
+            "Its nest is a sloped, bowl-like pit in the desert. Once something has fallen in, there is no escape.",
+            "It makes an inescapable conical pit and lies in wait at the bottom for prey to come tumbling down.",
+            "It makes a conical pit in desert sand and lies in wait at the bottom for prey to come tumbling down."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789164824768562/328.png",
+    "discord_sprite": "<:P328:1132127170660159569>"
+}

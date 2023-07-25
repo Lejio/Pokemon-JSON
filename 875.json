@@ -1,0 +1,221 @@
+{
+    "alt-version(s)": [
+        "Ice Face",
+        "Noice Face"
+    ],
+    "Ice Face": {
+        "pokedex_data": {
+            "National No.": "0875",
+            "Type": [
+                "Ice"
+            ],
+            "Species": "Penguin Poke\u0301mon",
+            "Height": "1.4 m (4\u203207\u2032\u2032)",
+            "Weight": "89.0 kg (196.2 lbs)",
+            "Abilities": {
+                "Ice Face": {
+                    "href": "/ability/ice-face",
+                    "effect": "Avoids damage from Physical moves for one turn.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Defense",
+            "Catch rate": "60",
+            "BaseFriendship": "50",
+            "Base Exp.": "165",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "75",
+                "Min": "260",
+                "Max": "354"
+            },
+            "Attack": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Defense": {
+                "Base": "110",
+                "Min": "202",
+                "Max": "350"
+            },
+            "Sp. Atk": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Def": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Speed": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Total": "470"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Rock": "super-effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "Noice Face": {
+        "pokedex_data": {
+            "National No.": "0875",
+            "Type": [
+                "Ice"
+            ],
+            "Species": "Penguin Poke\u0301mon",
+            "Height": "1.4 m (4\u203207\u2032\u2032)",
+            "Weight": "89.0 kg (196.2 lbs)",
+            "Abilities": {
+                "Ice Face": {
+                    "href": "/ability/ice-face",
+                    "effect": "Avoids damage from Physical moves for one turn.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Defense",
+            "Catch rate": "60",
+            "BaseFriendship": "50",
+            "Base Exp.": "165",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "75",
+                "Min": "260",
+                "Max": "354"
+            },
+            "Attack": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Defense": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Atk": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Def": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Speed": {
+                "Base": "130",
+                "Min": "238",
+                "Max": "394"
+            },
+            "Total": "470"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Rock": "super-effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Powder Snow": "1",
+            "Tackle": "1",
+            "Mist": "6",
+            "Weather Ball": "12",
+            "Icy Wind": "18",
+            "Headbutt": "24",
+            "Amnesia": "30",
+            "Freeze-Dry": "36",
+            "Snowscape": "42",
+            "Aurora Veil": "48",
+            "Surf": "54",
+            "Blizzard": "60"
+        },
+        "egg": {
+            "Aqua Ring": null,
+            "Belly Drum": null,
+            "Double-Edge": null,
+            "Head Smash": null,
+            "Icicle Crash": null,
+            "Soak": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Agility": "04",
+            "Protect": "07",
+            "Water Pulse": "11",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Icy Wind": "34",
+            "Avalanche": "46",
+            "Endure": "47",
+            "Rain Dance": "50",
+            "Snowscape": "52",
+            "Zen Headbutt": "59",
+            "Body Slam": "66",
+            "Ice Punch": "69",
+            "Sleep Talk": "70",
+            "Reflect": "74",
+            "Waterfall": "77",
+            "Rest": "85",
+            "Iron Head": "99",
+            "Substitute": "103",
+            "Iron Defense": "104",
+            "Liquidation": "110",
+            "Surf": "123",
+            "Ice Spinner": "124",
+            "Amnesia": "128",
+            "Reversal": "134",
+            "Ice Beam": "135",
+            "Hydro Pump": "142",
+            "Blizzard": "143",
+            "Giga Impact": "152",
+            "Hyper Beam": "163",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Ice Face": [
+            "It drifted in on the flow of ocean waters from a frigid place. It keeps its head iced constantly to make sure it stays nice and cold.",
+            "This Pok\u00e9mon keeps its heat-sensitive head cool with ice. It fishes for its food, dangling its single hair into the sea to lure in prey.",
+            "On hot days, these Pok\u00e9mon press their ice cube heads together and pass the time cooling each other down.",
+            "If you lick the ice covering its face, you\u2019ll find it has a faintly salty taste. This species rode here on ocean currents from a cold, faraway land."
+        ],
+        "Noice Face": [
+            "The ice covering this Pok\u00e9mon\u2019s face has shattered, revealing a slightly worried expression that many people are enamored with.",
+            "The hair on its head connects to the surface of its brain. When this Pok\u00e9mon has something on its mind, its hair chills the air around it.",
+            "The ice that was covering this Eiscue\u2019s face has shattered. Eiscue emits cold air from the tip of its hair to protect its head, which is sensitive to heat.",
+            "Contrary to its looks, Eiscue is a poor swimmer. It creates ice balls at the tip of its single hair to lure prey in and fish them up."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793425130336376/875.png",
+    "discord_sprite": "<:P875:1132151303213158410>"
+}

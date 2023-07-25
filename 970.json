@@ -1,0 +1,183 @@
+{
+    "alt-version(s)": [],
+    "name": "Glimmora",
+    "Glimmora": {
+        "pokedex_data": {
+            "National No.": "0970",
+            "Type": [
+                "Rock",
+                "Poison"
+            ],
+            "Species": "Ore Poke\u0301mon",
+            "Height": "1.5 m (4\u203211\u2032\u2032)",
+            "Weight": "45.0 kg (99.2 lbs)",
+            "Abilities": {
+                "Toxic Debris": {
+                    "href": "/ability/toxic-debris",
+                    "effect": "Scatters poison spikes at the feet of the opposing team when the Pok\u00e9mon takes damage from physical moves.",
+                    "hidden": false
+                },
+                "Corrosion": {
+                    "href": "/ability/corrosion",
+                    "effect": "The Pok\u00e9mon can poison Steel and Poison types.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Sp. Atk",
+            "Catch rate": "25",
+            "BaseFriendship": "50",
+            "Base Exp.": "184",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "83",
+                "Min": "276",
+                "Max": "370"
+            },
+            "Attack": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Defense": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Sp. Atk": {
+                "Base": "130",
+                "Min": "238",
+                "Max": "394"
+            },
+            "Sp. Def": {
+                "Base": "81",
+                "Min": "150",
+                "Max": "287"
+            },
+            "Speed": {
+                "Base": "86",
+                "Min": "159",
+                "Max": "298"
+            },
+            "Total": "525"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Steel": "super-effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Glimmet",
+                    "nationalNo": "#0969",
+                    "type": [
+                        "Rock",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Glimmora",
+                    "nationalNo": "#0970",
+                    "type": [
+                        "Rock",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 35)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Harden": "1",
+            "Rock Throw": "1",
+            "Smack Down": "1",
+            "Spiky Shield": "1",
+            "Toxic Spikes": "1",
+            "Acid Spray": "7",
+            "Ancient Power": "11",
+            "Rock Polish": "15",
+            "Stealth Rock": "18",
+            "Venoshock": "22",
+            "Sandstorm": "26",
+            "Self-Destruct": "29",
+            "Rock Slide": "33",
+            "Power Gem": "39",
+            "Acid Armor": "44",
+            "Sludge Wave": "50"
+        },
+        "evolution": {
+            "Mortal Spin": "30"
+        },
+        "egg": {
+            "Explosion": null,
+            "Memento": null,
+            "Toxic": null
+        },
+        "tm": {
+            "Protect": "07",
+            "Acid Spray": "13",
+            "Confuse Ray": "17",
+            "Facade": "25",
+            "Mud Shot": "35",
+            "Rock Tomb": "36",
+            "Venoshock": "45",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Sandstorm": "51",
+            "Sleep Talk": "70",
+            "Reflect": "74",
+            "Light Screen": "75",
+            "Rock Blast": "76",
+            "Dazzling Gleam": "79",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Spikes": "90",
+            "Toxic Spikes": "91",
+            "Flash Cannon": "93",
+            "Power Gem": "101",
+            "Gunk Shot": "102",
+            "Substitute": "103",
+            "Iron Defense": "104",
+            "Stealth Rock": "116",
+            "Energy Ball": "119",
+            "Earth Power": "133",
+            "Sludge Bomb": "148",
+            "Stone Edge": "150",
+            "Giga Impact": "152",
+            "Hyper Beam": "163",
+            "Solar Beam": "168",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Glimmora": [
+            "When this Pok\u00e9mon detects danger, it will open up its crystalline petals and fire beams from its conical body.",
+            "Glimmora\u2019s petals are made of crystallized poison energy. It has recently become evident that these petals resemble Tera Jewels."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131794165244624896/970.png",
+    "discord_sprite": "<:P970:1132155473894838424>"
+}

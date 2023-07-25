@@ -1,0 +1,235 @@
+{
+    "alt-version(s)": [],
+    "name": "Garganacl",
+    "Garganacl": {
+        "pokedex_data": {
+            "National No.": "0934",
+            "Type": [
+                "Rock"
+            ],
+            "Species": "Rock Salt Poke\u0301mon",
+            "Height": "2.3 m (7\u203207\u2032\u2032)",
+            "Weight": "240.0 kg (529.1 lbs)",
+            "Abilities": {
+                "Purifying Salt": {
+                    "href": "/ability/purifying-salt",
+                    "effect": "Protects from status conditions and halves damage from Ghost-type moves.",
+                    "hidden": false
+                },
+                "Sturdy": {
+                    "href": "/ability/sturdy",
+                    "effect": "It cannot be knocked out with one hit.",
+                    "hidden": false
+                },
+                "Clear Body": {
+                    "href": "/ability/clear-body",
+                    "effect": "Prevents other Pok\u00e9mon from lowering its stats.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Defense",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "250",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "100",
+                "Min": "310",
+                "Max": "404"
+            },
+            "Attack": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Defense": {
+                "Base": "130",
+                "Min": "238",
+                "Max": "394"
+            },
+            "Sp. Atk": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Sp. Def": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Speed": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Total": "500"
+        },
+        "defense_stats": {
+            "Purifying Salt ability": {
+                "Normal": "not very effective",
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Grass": "super-effective",
+                "Fighting": "super-effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Ghost": "not very effective",
+                "Steel": "super-effective"
+            },
+            "Sturdy ability": {
+                "Normal": "not very effective",
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Grass": "super-effective",
+                "Fighting": "super-effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Steel": "super-effective"
+            },
+            "Clear Body ability": {
+                "Normal": "not very effective",
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Grass": "super-effective",
+                "Fighting": "super-effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Nacli",
+                    "nationalNo": "#0932",
+                    "type": [
+                        "Rock"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Naclstack",
+                    "nationalNo": "#0933",
+                    "type": [
+                        "Rock"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 24)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Naclstack",
+                    "nationalNo": "#0933",
+                    "type": [
+                        "Rock"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Garganacl",
+                    "nationalNo": "#0934",
+                    "type": [
+                        "Rock"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 38)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Block": "1",
+            "Harden": "1",
+            "Rock Blast": "1",
+            "Tackle": "1",
+            "Wide Guard": "1",
+            "Rock Throw": "5",
+            "Mud Shot": "7",
+            "Rock Tomb": "10",
+            "Rock Polish": "13",
+            "Headbutt": "16",
+            "Salt Cure": "24",
+            "Recover": "30",
+            "Rock Slide": "34",
+            "Stealth Rock": "40",
+            "Heavy Slam": "44",
+            "Earthquake": "49",
+            "Stone Edge": "54",
+            "Explosion": "60"
+        },
+        "evolution": {
+            "Hammer Arm": "100"
+        },
+        "egg": {
+            "Ancient Power": null,
+            "Curse": null,
+            "Fissure": null,
+            "Power Gem": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Protect": "07",
+            "Facade": "25",
+            "Bulldoze": "28",
+            "Mud Shot": "35",
+            "Rock Tomb": "36",
+            "Fling": "43",
+            "Avalanche": "46",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Sandstorm": "51",
+            "Dig": "55",
+            "Brick Break": "58",
+            "Zen Headbutt": "59",
+            "Body Slam": "66",
+            "Fire Punch": "67",
+            "Thunder Punch": "68",
+            "Ice Punch": "69",
+            "Sleep Talk": "70",
+            "Rock Blast": "76",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Body Press": "89",
+            "Flash Cannon": "93",
+            "Iron Head": "99",
+            "Power Gem": "101",
+            "Substitute": "103",
+            "Iron Defense": "104",
+            "Stealth Rock": "116",
+            "Heavy Slam": "121",
+            "Helping Hand": "130",
+            "Earth Power": "133",
+            "Earthquake": "149",
+            "Stone Edge": "150",
+            "Giga Impact": "152",
+            "Hyper Beam": "163",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Garganacl": [
+            "Garganacl will rub its fingertips together and sprinkle injured Pok\u00e9mon with salt. Even severe wounds will promptly heal afterward.",
+            "Many Pok\u00e9mon gather around Garganacl, hoping to lick at its mineral-rich salt."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793888881942538/934.png",
+    "discord_sprite": "<:P934:1132153891925020743>"
+}

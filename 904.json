@@ -1,0 +1,190 @@
+{
+    "alt-version(s)": [],
+    "name": "Overqwil",
+    "Overqwil": {
+        "pokedex_data": {
+            "National No.": "0904",
+            "Type": [
+                "Dark",
+                "Poison"
+            ],
+            "Species": "Pin Cluster Poke\u0301mon",
+            "Height": "2.5 m (8\u203202\u2032\u2032)",
+            "Weight": "60.5 kg (133.4 lbs)",
+            "Abilities": {
+                "Poison Point": {
+                    "href": "/ability/poison-point",
+                    "effect": "Contact with the Pok\u00e9mon may poison the attacker.",
+                    "hidden": false
+                },
+                "Swift Swim": {
+                    "href": "/ability/swift-swim",
+                    "effect": "Boosts the Pok\u00e9mon's Speed in rain.",
+                    "hidden": false
+                },
+                "Intimidate": {
+                    "href": "/ability/intimidate",
+                    "effect": "Lowers the foe's Attack stat.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "179",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "85",
+                "Min": "280",
+                "Max": "374"
+            },
+            "Attack": {
+                "Base": "115",
+                "Min": "211",
+                "Max": "361"
+            },
+            "Defense": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Sp. Atk": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Def": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Speed": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Total": "510"
+        },
+        "defense_stats": {
+            "default": {
+                "Grass": "not very effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Psychic": "no effect",
+                "Ghost": "not very effective",
+                "Dark": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Qwilfish",
+                    "nationalNo": "#0211",
+                    "type": [
+                        "Dark",
+                        "Poison"
+                    ],
+                    "nickname": "Hisuian Qwilfish"
+                },
+                "to": {
+                    "name": "Overqwil",
+                    "nationalNo": "#0904",
+                    "type": [
+                        "Dark",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Barb Barrage 20 times in Strong Style)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Poison Sting": "1",
+            "Tackle": "1",
+            "Harden": "4",
+            "Bite": "8",
+            "Fell Stinger": "12",
+            "Minimize": "16",
+            "Spikes": "20",
+            "Brine": "24",
+            "Barb Barrage": "28",
+            "Pin Missile": "32",
+            "Toxic Spikes": "36",
+            "Spit Up": "40",
+            "Stockpile": "40",
+            "Toxic": "44",
+            "Crunch": "48",
+            "Acupressure": "52",
+            "Destiny Bond": "56"
+        },
+        "egg": {
+            "Acid Spray": null,
+            "Aqua Jet": null,
+            "Aqua Tail": null,
+            "Astonish": null,
+            "Bubble Beam": null,
+            "Flail": null,
+            "Haze": null,
+            "Self-Destruct": null,
+            "Supersonic": null,
+            "Water Pulse": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Agility": "04",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Poison Tail": "26",
+            "Icy Wind": "34",
+            "Mud Shot": "35",
+            "Venoshock": "45",
+            "Endure": "47",
+            "Rain Dance": "50",
+            "Smart Strike": "53",
+            "Sleep Talk": "70",
+            "Waterfall": "77",
+            "Poison Jab": "83",
+            "Rest": "85",
+            "Taunt": "87",
+            "Swords Dance": "88",
+            "Spikes": "90",
+            "Toxic Spikes": "91",
+            "Dark Pulse": "94",
+            "Gunk Shot": "102",
+            "Substitute": "103",
+            "Crunch": "108",
+            "Liquidation": "110",
+            "Shadow Ball": "114",
+            "Surf": "123",
+            "Reversal": "134",
+            "Ice Beam": "135",
+            "Hydro Pump": "142",
+            "Blizzard": "143",
+            "Sludge Bomb": "148",
+            "Giga Impact": "152",
+            "Hyper Beam": "163",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Overqwil": [
+            "Its lancelike spikes and savage temperament have earned it the nickname \u201csea fiend.\u201d It slurps up poison to nourish itself."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793649949220975/904.png",
+    "discord_sprite": "<:P904:1132152577434329168>"
+}

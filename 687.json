@@ -1,0 +1,193 @@
+{
+    "alt-version(s)": [],
+    "name": "Malamar",
+    "Malamar": {
+        "pokedex_data": {
+            "National No.": "0687",
+            "Type": [
+                "Dark",
+                "Psychic"
+            ],
+            "Species": "Overturning Poke\u0301mon",
+            "Height": "1.5 m (4\u203211\u2032\u2032)",
+            "Weight": "47.0 kg (103.6 lbs)",
+            "Abilities": {
+                "Contrary": {
+                    "href": "/ability/contrary",
+                    "effect": "Makes stat changes have an opposite effect.",
+                    "hidden": false
+                },
+                "Suction Cups": {
+                    "href": "/ability/suction-cups",
+                    "effect": "Negates all moves that force switching out.",
+                    "hidden": false
+                },
+                "Infiltrator": {
+                    "href": "/ability/infiltrator",
+                    "effect": "Passes through the foe's barrier and strikes.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "80",
+            "BaseFriendship": "50",
+            "Base Exp.": "169",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "86",
+                "Min": "282",
+                "Max": "376"
+            },
+            "Attack": {
+                "Base": "92",
+                "Min": "170",
+                "Max": "311"
+            },
+            "Defense": {
+                "Base": "88",
+                "Min": "162",
+                "Max": "302"
+            },
+            "Sp. Atk": {
+                "Base": "68",
+                "Min": "126",
+                "Max": "258"
+            },
+            "Sp. Def": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Speed": {
+                "Base": "73",
+                "Min": "135",
+                "Max": "269"
+            },
+            "Total": "482"
+        },
+        "defense_stats": {
+            "default": {
+                "Psychic": "no effect",
+                "Bug": "super-effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Inkay",
+                    "nationalNo": "#0686",
+                    "type": [
+                        "Dark",
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Malamar",
+                    "nationalNo": "#0687",
+                    "type": [
+                        "Dark",
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 30, holding console upside down)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Hypnosis": "1",
+            "Peck": "1",
+            "Reversal": "1",
+            "Tackle": "1",
+            "Wrap": "1",
+            "Payback": "9",
+            "Pluck": "12",
+            "Psybeam": "15",
+            "Swagger": "18",
+            "Slash": "21",
+            "Night Slash": "24",
+            "Psycho Cut": "27",
+            "Switcheroo": "33",
+            "Foul Play": "37",
+            "Topsy-Turvy": "42",
+            "Superpower": "47"
+        },
+        "egg": {
+            "Acupressure": null,
+            "Destiny Bond": null,
+            "Disable": null
+        },
+        "null": {
+            "Flamethrower": "02",
+            "Thunderbolt": "08",
+            "Psychic": "11",
+            "Substitute": "20",
+            "Reversal": "21",
+            "Psyshock": "25",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Baton Pass": "29",
+            "Future Sight": "34",
+            "Taunt": "37",
+            "Superpower": "39",
+            "Calm Mind": "49",
+            "Dark Pulse": "58",
+            "Nasty Plot": "68",
+            "Foul Play": "81",
+            "Stored Power": "82",
+            "Ally Switch": "83",
+            "Throat Chop": "95",
+            "Liquidation": "98"
+        },
+        "tm": {
+            "Hyper Beam": "08",
+            "Giga Impact": "09",
+            "Light Screen": "17",
+            "Reflect": "18",
+            "Rest": "21",
+            "Rock Slide": "22",
+            "Thief": "23",
+            "Snore": "24",
+            "Protect": "25",
+            "Scary Face": "26",
+            "Attract": "31",
+            "Rain Dance": "33",
+            "Sunny Day": "34",
+            "Facade": "39",
+            "Fake Tears": "47",
+            "Payback": "57",
+            "Fling": "59",
+            "Guard Swap": "61",
+            "Psycho Cut": "69",
+            "Trick Room": "70",
+            "Round": "76",
+            "Retaliate": "79",
+            "Brutal Swing": "97"
+        }
+    },
+    "entries": {
+        "Malamar": [
+            "It wields the most compelling hypnotic powers of any Pok\u00e9mon, and it forces others to do whatever it wants.",
+            "It lures its prey close with hypnotic motions, then wraps its tentacles around it before finishing it off with digestive fluids.",
+            "When it comes to strong hypnosis, there\u2019s an endless number of people who utilize Malamar for their nefarious deeds.",
+            "It flashes the pattern on its torso to control its prey and draw them in. The edges of its fins are supremely sharp.",
+            "Gazing at its luminescent spots will quickly induce a hypnotic state, putting the observer under Malamar\u2019s control.",
+            "It\u2019s said that Malamar\u2019s hypnotic powers played a role in certain history-changing events."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791958755528724/687.png",
+    "discord_sprite": "<:P687:1132142972289425438>"
+}

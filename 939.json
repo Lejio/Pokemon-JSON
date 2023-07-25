@@ -1,0 +1,168 @@
+{
+    "alt-version(s)": [],
+    "name": "Bellibolt",
+    "Bellibolt": {
+        "pokedex_data": {
+            "National No.": "0939",
+            "Type": [
+                "Electric"
+            ],
+            "Species": "EleFrog Poke\u0301mon",
+            "Height": "1.2 m (3\u203211\u2032\u2032)",
+            "Weight": "113.0 kg (249.1 lbs)",
+            "Abilities": {
+                "Electromorphosis": {
+                    "href": "/ability/electromorphosis",
+                    "effect": "Doubles power of the next Electric-type move when hit by an attack.",
+                    "hidden": false
+                },
+                "Static": {
+                    "href": "/ability/static",
+                    "effect": "Contact with the Pok\u00e9mon may cause paralysis.",
+                    "hidden": false
+                },
+                "Damp": {
+                    "href": "/ability/damp",
+                    "effect": "Prevents the use of self-destructing moves.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 HP",
+            "Catch rate": "50",
+            "BaseFriendship": "50",
+            "Base Exp.": "173",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "109",
+                "Min": "328",
+                "Max": "422"
+            },
+            "Attack": {
+                "Base": "64",
+                "Min": "119",
+                "Max": "249"
+            },
+            "Defense": {
+                "Base": "91",
+                "Min": "168",
+                "Max": "309"
+            },
+            "Sp. Atk": {
+                "Base": "103",
+                "Min": "189",
+                "Max": "335"
+            },
+            "Sp. Def": {
+                "Base": "83",
+                "Min": "153",
+                "Max": "291"
+            },
+            "Speed": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Total": "495"
+        },
+        "defense_stats": {
+            "default": {
+                "Electric": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Tadbulb",
+                    "nationalNo": "#0938",
+                    "type": [
+                        "Electric"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Bellibolt",
+                    "nationalNo": "#0939",
+                    "type": [
+                        "Electric"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Thunder Stone)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Mud-Slap": "1",
+            "Slack Off": "1",
+            "Tackle": "1",
+            "Thunder Shock": "7",
+            "Water Gun": "11",
+            "Charge": "17",
+            "Spark": "21",
+            "Mud Shot": "24",
+            "Flail": "25",
+            "Discharge": "32",
+            "Weather Ball": "36",
+            "Electric Terrain": "40",
+            "Sucker Punch": "45",
+            "Zap Cannon": "50"
+        },
+        "egg": {
+            "Muddy Water": null,
+            "Parabolic Charge": null,
+            "Soak": null
+        },
+        "tm": {
+            "Mud-Slap": "05",
+            "Protect": "07",
+            "Water Pulse": "11",
+            "Acid Spray": "13",
+            "Confuse Ray": "17",
+            "Chilling Water": "22",
+            "Charge Beam": "23",
+            "Swift": "32",
+            "Mud Shot": "35",
+            "Endure": "47",
+            "Volt Switch": "48",
+            "Rain Dance": "50",
+            "Sleep Talk": "70",
+            "Electro Ball": "72",
+            "Reflect": "74",
+            "Light Screen": "75",
+            "Thunder Wave": "82",
+            "Rest": "85",
+            "Eerie Impulse": "96",
+            "Substitute": "103",
+            "Hyper Voice": "117",
+            "Thunderbolt": "126",
+            "Electric Terrain": "136",
+            "Wild Charge": "147",
+            "Giga Impact": "152",
+            "Hyper Beam": "163",
+            "Thunder": "166",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Bellibolt": [
+            "When this Pok\u00e9mon expands and contracts its wobbly body, the belly-button dynamo in its stomach produces a huge amount of electricity.",
+            "What appear to be eyeballs are actually organs for discharging the electricity generated by Bellibolt\u2019s belly-button dynamo."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793927037517884/939.png",
+    "discord_sprite": "<:P939:1132154113958875208>"
+}

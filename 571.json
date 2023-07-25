@@ -1,0 +1,377 @@
+{
+    "alt-version(s)": [
+        "Hisuian Zoroark"
+    ],
+    "name": "Zoroark",
+    "Zoroark": {
+        "pokedex_data": {
+            "National No.": "0571",
+            "Type": [
+                "Dark"
+            ],
+            "Species": "Illusion Fox Poke\u0301mon",
+            "Height": "1.6 m (5\u203203\u2032\u2032)",
+            "Weight": "81.1 kg (178.8 lbs)",
+            "Abilities": {
+                "Illusion": {
+                    "href": "/ability/illusion",
+                    "effect": "Enters battle disguised as the last Pok\u00e9mon in the party.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Sp. Atk",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "179",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "60",
+                "Min": "230",
+                "Max": "324"
+            },
+            "Attack": {
+                "Base": "105",
+                "Min": "193",
+                "Max": "339"
+            },
+            "Defense": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Atk": {
+                "Base": "120",
+                "Min": "220",
+                "Max": "372"
+            },
+            "Sp. Def": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Speed": {
+                "Base": "105",
+                "Min": "193",
+                "Max": "339"
+            },
+            "Total": "510"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "super-effective",
+                "Psychic": "no effect",
+                "Bug": "super-effective",
+                "Ghost": "not very effective",
+                "Dark": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "Hisuian Zoroark": {
+        "pokedex_data": {
+            "National No.": "0571",
+            "Type": [
+                "Normal",
+                "Ghost"
+            ],
+            "Species": "Baneful Fox Poke\u0301mon",
+            "Height": "1.6 m (5\u203203\u2032\u2032)",
+            "Weight": "73.0 kg (160.9 lbs)",
+            "Abilities": {
+                "Illusion": {
+                    "href": "/ability/illusion",
+                    "effect": "Enters battle disguised as the last Pok\u00e9mon in the party.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Sp. Atk",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "179",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "55",
+                "Min": "220",
+                "Max": "314"
+            },
+            "Attack": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Defense": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Atk": {
+                "Base": "125",
+                "Min": "229",
+                "Max": "383"
+            },
+            "Sp. Def": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Speed": {
+                "Base": "110",
+                "Min": "202",
+                "Max": "350"
+            },
+            "Total": "510"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "no effect",
+                "Fighting": "no effect",
+                "Poison": "not very effective",
+                "Bug": "not very effective",
+                "Ghost": "no effect",
+                "Dark": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Zorua",
+                    "nationalNo": "#0570",
+                    "type": [
+                        "Dark"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Zoroark",
+                    "nationalNo": "#0571",
+                    "type": [
+                        "Dark"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 30)",
+                "shed": null
+            }
+        ],
+        [
+            {
+                "from": {
+                    "name": "Zorua",
+                    "nationalNo": "#0570",
+                    "type": [
+                        "Normal",
+                        "Ghost"
+                    ],
+                    "nickname": "Hisuian Zorua"
+                },
+                "to": {
+                    "name": "Zoroark",
+                    "nationalNo": "#0571",
+                    "type": [
+                        "Normal",
+                        "Ghost"
+                    ],
+                    "nickname": "Hisuian Zoroark"
+                },
+                "requirement": "(Level 30, in Legends: Arceus)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "Zoroark": {
+            "moves": {
+                "Hone Claws": "1",
+                "Leer": "1",
+                "Scratch": "1",
+                "Torment": "1",
+                "U-turn": "1",
+                "Fury Swipes": "12",
+                "Taunt": "20",
+                "Knock Off": "24",
+                "Fake Tears": "28",
+                "Agility": "34",
+                "Imprison": "40",
+                "Night Daze": "46",
+                "Nasty Plot": "52",
+                "Foul Play": "58"
+            },
+            "evolution": {
+                "Night Slash": "70"
+            },
+            "egg": {
+                "Copycat": null,
+                "Counter": null,
+                "Detect": null,
+                "Extrasensory": null,
+                "Memento": null,
+                "Sucker Punch": null
+            },
+            "tm": {
+                "Take Down": "01",
+                "Fake Tears": "03",
+                "Agility": "04",
+                "Scary Face": "06",
+                "Protect": "07",
+                "Low Kick": "12",
+                "Confuse Ray": "17",
+                "Thief": "18",
+                "Facade": "25",
+                "Aerial Ace": "27",
+                "Hex": "29",
+                "Snarl": "30",
+                "Swift": "32",
+                "Low Sweep": "39",
+                "Night Shade": "42",
+                "Fling": "43",
+                "Endure": "47",
+                "Sunny Day": "49",
+                "Rain Dance": "50",
+                "Dig": "55",
+                "Brick Break": "58",
+                "U-turn": "60",
+                "Shadow Claw": "61",
+                "Foul Play": "62",
+                "Body Slam": "66",
+                "Sleep Talk": "70",
+                "Grass Knot": "81",
+                "Rest": "85",
+                "Taunt": "87",
+                "Swords Dance": "88",
+                "Imprison": "92",
+                "Dark Pulse": "94",
+                "Substitute": "103",
+                "Crunch": "108",
+                "Trick": "109",
+                "Shadow Ball": "114",
+                "Hyper Voice": "117",
+                "Psychic": "120",
+                "Flamethrower": "125",
+                "Calm Mind": "129",
+                "Helping Hand": "130",
+                "Nasty Plot": "140",
+                "Sludge Bomb": "148",
+                "Giga Impact": "152",
+                "Focus Blast": "158",
+                "Hyper Beam": "163",
+                "Tera Blast": "171"
+            }
+        },
+        "Hisuian Zoroark": {
+            "moves": {
+                "Hone Claws": "1",
+                "Leer": "1",
+                "Scratch": "1",
+                "Torment": "1",
+                "U-turn": "1",
+                "Shadow Sneak": "12",
+                "Curse": "16",
+                "Taunt": "20",
+                "Knock Off": "24",
+                "Spite": "28",
+                "Agility": "34",
+                "Shadow Ball": "40",
+                "Bitter Malice": "46",
+                "Nasty Plot": "52",
+                "Foul Play": "58"
+            },
+            "evolution": {
+                "Shadow Claw": "70"
+            },
+            "egg": {
+                "Comeuppance": null,
+                "Detect": null,
+                "Extrasensory": null,
+                "Memento": null
+            },
+            "tm": {
+                "Take Down": "01",
+                "Fake Tears": "03",
+                "Agility": "04",
+                "Scary Face": "06",
+                "Protect": "07",
+                "Low Kick": "12",
+                "Confuse Ray": "17",
+                "Thief": "18",
+                "Facade": "25",
+                "Aerial Ace": "27",
+                "Hex": "29",
+                "Snarl": "30",
+                "Swift": "32",
+                "Icy Wind": "34",
+                "Low Sweep": "39",
+                "Night Shade": "42",
+                "Fling": "43",
+                "Endure": "47",
+                "Rain Dance": "50",
+                "Snowscape": "52",
+                "Dig": "55",
+                "Brick Break": "58",
+                "U-turn": "60",
+                "Shadow Claw": "61",
+                "Foul Play": "62",
+                "Body Slam": "66",
+                "Sleep Talk": "70",
+                "Grass Knot": "81",
+                "Rest": "85",
+                "Taunt": "87",
+                "Swords Dance": "88",
+                "Imprison": "92",
+                "Dark Pulse": "94",
+                "Substitute": "103",
+                "Will-O-Wisp": "107",
+                "Crunch": "108",
+                "Trick": "109",
+                "Shadow Ball": "114",
+                "Hyper Voice": "117",
+                "Psychic": "120",
+                "Flamethrower": "125",
+                "Calm Mind": "129",
+                "Helping Hand": "130",
+                "Nasty Plot": "140",
+                "Sludge Bomb": "148",
+                "Phantom Force": "151",
+                "Giga Impact": "152",
+                "Focus Blast": "158",
+                "Hyper Beam": "163",
+                "Tera Blast": "171"
+            }
+        }
+    },
+    "entries": {
+        "Zoroark": [
+            "Bonds between these Pok\u00e9mon are very strong. It protects the safety of its pack by tricking its opponents.",
+            "Each has the ability to fool a large group of people simultaneously. They protect their lair with illusory scenery.",
+            "Stories say those who tried to catch Zoroark were trapped in an illusion and punished.",
+            "Each has the ability to fool a large group of people simultaneously. They protect their lair with illusory scenery.",
+            "Bonds between these Pok\u00e9mon are very strong. It protects the safety of its pack by tricking its opponents.",
+            "It doesn\u2019t just transform itself\u2014it also has the power to make hundreds of people see its illusions.",
+            "If it thinks humans are going to discover its den, Zoroark shows them visions that make them wander around in the woods.",
+            "This Pok\u00e9mon cares deeply about others of its kind, and it will conjure terrifying illusions to keep its den and pack safe.",
+            "Seeking to ease the burden of their solitude, lonely Trainers tell Zoroark to show illusions to them.",
+            "Stories say those who tried to catch Zoroark were trapped in an illusion and punished.",
+            "Each has the ability to fool a large group of people simultaneously. They protect their lair with illusory scenery."
+        ],
+        "Hisuian Zoroark": [
+            "With its disheveled white fur, it looks like an embodiment of death. Heedless of its own safety, Zoroark attacks its nemeses with a bitter energy so intense, it lacerates Zoroark\u2019s own body."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791052643242106/571.png",
+    "discord_sprite": "<:P571:1132137867855011861>"
+}

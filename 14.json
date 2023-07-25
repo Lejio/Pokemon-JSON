@@ -1,0 +1,161 @@
+{
+    "alt-version(s)": [],
+    "name": "Kakuna",
+    "Kakuna": {
+        "pokedex_data": {
+            "National No.": "0014",
+            "Type": [
+                "Bug",
+                "Poison"
+            ],
+            "Species": "Cocoon Poke\u0301mon",
+            "Height": "0.6 m (2\u203200\u2032\u2032)",
+            "Weight": "10.0 kg (22.0 lbs)",
+            "Abilities": {
+                "Shed Skin": {
+                    "href": "/ability/shed-skin",
+                    "effect": "The Pok\u00e9mon may heal its own status problems.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Defense",
+            "Catch rate": "120",
+            "BaseFriendship": "50",
+            "Base Exp.": "72",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "45",
+                "Min": "200",
+                "Max": "294"
+            },
+            "Attack": {
+                "Base": "25",
+                "Min": "49",
+                "Max": "163"
+            },
+            "Defense": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Atk": {
+                "Base": "25",
+                "Min": "49",
+                "Max": "163"
+            },
+            "Sp. Def": {
+                "Base": "25",
+                "Min": "49",
+                "Max": "163"
+            },
+            "Speed": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Total": "205"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Grass": "not very effective",
+                "Fighting": "not very effective",
+                "Poison": "not very effective",
+                "Flying": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Weedle",
+                    "nationalNo": "#0013",
+                    "type": [
+                        "Bug",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Kakuna",
+                    "nationalNo": "#0014",
+                    "type": [
+                        "Bug",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 7)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Kakuna",
+                    "nationalNo": "#0014",
+                    "type": [
+                        "Bug",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Beedrill",
+                    "nationalNo": "#0015",
+                    "type": [
+                        "Bug",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 10)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Harden": "1"
+        },
+        "evolution": {
+            "Harden": "\u2014"
+        },
+        "egg": null,
+        "tm": null
+    },
+    "entries": {
+        "Kakuna": [
+            "Almost incapable of moving, this pok\u00e9mon can only harden its shell to protect itself from predators.",
+            "Able to move only slightly. When endangered, it may stick out its stinger and poison its enemy.",
+            "Although it is a cocoon, it can move a little. It can extend its poison barb if it is attacked.",
+            "From this form, it will grow into an adult. As its body becomes softer, the external shell hardens.",
+            "Nearly incapable of movement, it leans against stout trees while waiting for its evolution.",
+            "KAKUNA remains virtually immobile as it clings to a tree. However, on the inside, it is extremely busy as it prepares for its coming evolution. This is evident from how hot the shell becomes to the touch.",
+            "This pok\u00e9mon is in a temporary stage while making its body. It is almost completely unable to move on its own.",
+            "Almost incapable of moving, this pok\u00e9mon can only harden its shell to protect itself when it is in danger.",
+            "It remains virtually immobile while it clings to a tree. However, on the inside, it busily prepares for evolution. This is evident from how hot its shell becomes.",
+            "While awaiting evolution, it hides from predators under leaves and in nooks of branches.",
+            "Although it is a cocoon, it can move a little. It can extend its poison barb if it is attacked.",
+            "From this form, it will grow into an adult. As its body becomes softer, the external shell hardens.",
+            "While awaiting evolution, it hides from predators under leaves and in nooks of branches.",
+            "Almost incapable of moving, this Pok\u00e9mon can only harden its shell to protect itself when it is in danger.",
+            "While awaiting evolution, it hides from predators under leaves and in nooks of branches.",
+            "Kakuna remains virtually immobile as it clings to a tree. However, on the inside, it is extremely busy as it prepares for its coming evolution. This is evident from how hot the shell becomes to the touch.",
+            "Able to move only slightly. When endangered, it may stick out its stinger and poison its enemy.",
+            "While awaiting evolution, it hides from predators under leaves and in nooks of branches."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131786697974231060/14.png",
+    "discord_sprite": "<:P14:1131972508430651533>"
+}

@@ -1,0 +1,204 @@
+{
+    "alt-version(s)": [],
+    "name": "Arbok",
+    "Arbok": {
+        "pokedex_data": {
+            "National No.": "0024",
+            "Type": [
+                "Poison"
+            ],
+            "Species": "Cobra Poke\u0301mon",
+            "Height": "3.5 m (11\u203206\u2032\u2032)",
+            "Weight": "65.0 kg (143.3 lbs)",
+            "Abilities": {
+                "Intimidate": {
+                    "href": "/ability/intimidate",
+                    "effect": "Lowers the foe's Attack stat.",
+                    "hidden": false
+                },
+                "Shed Skin": {
+                    "href": "/ability/shed-skin",
+                    "effect": "The Pok\u00e9mon may heal its own status problems.",
+                    "hidden": false
+                },
+                "Unnerve": {
+                    "href": "/ability/unnerve",
+                    "effect": "Makes the foe nervous and unable to eat Berries.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "90",
+            "BaseFriendship": "50",
+            "Base Exp.": "157",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "60",
+                "Min": "230",
+                "Max": "324"
+            },
+            "Attack": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Defense": {
+                "Base": "69",
+                "Min": "128",
+                "Max": "260"
+            },
+            "Sp. Atk": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Def": {
+                "Base": "79",
+                "Min": "146",
+                "Max": "282"
+            },
+            "Speed": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Total": "448"
+        },
+        "defense_stats": {
+            "default": {
+                "Grass": "not very effective",
+                "Fighting": "not very effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Ekans",
+                    "nationalNo": "#0023",
+                    "type": [
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Arbok",
+                    "nationalNo": "#0024",
+                    "type": [
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 22)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Bite": "9",
+            "Crunch": "1",
+            "Fire Fang": "1",
+            "Ice Fang": "1",
+            "Leer": "1",
+            "Poison Sting": "4",
+            "Thunder Fang": "1",
+            "Wrap": "1",
+            "Glare": "12",
+            "Screech": "17",
+            "Acid": "20",
+            "Spit Up": "27",
+            "Stockpile": "27",
+            "Swallow": "27",
+            "Acid Spray": "32",
+            "Sludge Bomb": "39",
+            "Gastro Acid": "44",
+            "Belch": "48",
+            "Haze": "51",
+            "Coil": "56",
+            "Gunk Shot": "63"
+        },
+        "evolution": {
+            "Crunch": "80"
+        },
+        "egg": {
+            "Beat Up": null,
+            "Disable": null,
+            "Poison Fang": null,
+            "Poison Tail": null,
+            "Scary Face": null,
+            "Slam": null,
+            "Spite": null,
+            "Sucker Punch": null,
+            "Switcheroo": null
+        },
+        "tm": {
+            "Sunny Day": "11",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Giga Drain": "19",
+            "Iron Tail": "23",
+            "Earthquake": "26",
+            "Dig": "28",
+            "Double Team": "32",
+            "Sludge Bomb": "36",
+            "Rock Tomb": "39",
+            "Torment": "41",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Endure": "58",
+            "Payback": "66",
+            "Giga Impact": "68",
+            "Dark Pulse": "79",
+            "Rock Slide": "80",
+            "Sleep Talk": "82",
+            "Bulldoze": "83",
+            "Poison Jab": "84",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Strength": "96"
+        }
+    },
+    "entries": {
+        "Arbok": [
+            "It is rumored that the ferocious warning markings on its belly differ from area to area.",
+            "The frightening patterns on its belly have been studied. Six variations have been confirmed.",
+            "Transfixing prey with the face-like pattern on its belly, it binds and poisons the frightened victim.",
+            "With a very vengeful nature, it won\u2019t give up the chase, no matter how far, once it targets its prey.",
+            "To intimidate foes, it spreads its chest wide and makes eerie sounds by expelling air from its mouth.",
+            "This pok\u00e9mon is terrifically strong in order to constrict things with its body. It can even flatten steel oil drums. Once ARBOK wraps its body around its foe, escaping its crunching embrace is impossible.",
+            "The pattern on its belly appears to be a frightening face. Weak foes will flee just at the sight of the pattern.",
+            "It is rumored that the ferocious warning markings on its belly differ from area to area.",
+            "This pok\u00e9mon has a terrifically strong constricting power. It can even flatten steel oil drums. Once it wraps its body around its foe, escaping is impossible.",
+            "The pattern on its belly is for intimidation. It constricts foes while they are frozen in fear.",
+            "Transfixing prey with the face-like pattern on its belly, it binds and poisons the frightened victim.",
+            "With a very vengeful nature, it won\u2019t give up the chase, no matter how far, once it targets its prey.",
+            "The pattern on its belly is for intimidation. It constricts foes while they are frozen in fear.",
+            "The pattern on its belly appears to be a frightening face. Weak foes will flee just at the sight of the pattern.",
+            "To intimidate foes, it spreads its chest wide and makes eerie sounds by expelling air from its mouth.",
+            "This Pok\u00e9mon is terrifically strong in order to constrict things with its body. It can even flatten steel oil drums. Once Arbok wraps its body around its foe, escaping its crunching embrace is impossible.",
+            "The latest research has determined that there are over 20 possible arrangements of the patterns on its stomach.",
+            "After stunning its opponents with the pattern on its stomach, it quickly wraps them up in its body and waits for them to stop moving.",
+            "The frightening patterns on its belly have been studied. Six variations have been confirmed.",
+            "The pattern on its belly is for intimidation. It constricts foes while they are frozen in fear."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131786775887618058/24.png",
+    "discord_sprite": "<:P24:1131972947968536636>"
+}

@@ -1,0 +1,199 @@
+{
+    "alt-version(s)": [],
+    "name": "Shieldon",
+    "Shieldon": {
+        "pokedex_data": {
+            "National No.": "0410",
+            "Type": [
+                "Rock",
+                "Steel"
+            ],
+            "Species": "Shield Poke\u0301mon",
+            "Height": "0.5 m (1\u203208\u2032\u2032)",
+            "Weight": "57.0 kg (125.7 lbs)",
+            "Abilities": {
+                "Sturdy": {
+                    "href": "/ability/sturdy",
+                    "effect": "It cannot be knocked out with one hit.",
+                    "hidden": false
+                },
+                "Soundproof": {
+                    "href": "/ability/soundproof",
+                    "effect": "Gives immunity to <q>sound-based</q> moves.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Defense",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "70",
+            "Growth Rate": "Erratic"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "30",
+                "Min": "170",
+                "Max": "264"
+            },
+            "Attack": {
+                "Base": "42",
+                "Min": "80",
+                "Max": "201"
+            },
+            "Defense": {
+                "Base": "118",
+                "Min": "216",
+                "Max": "368"
+            },
+            "Sp. Atk": {
+                "Base": "42",
+                "Min": "80",
+                "Max": "201"
+            },
+            "Sp. Def": {
+                "Base": "88",
+                "Min": "162",
+                "Max": "302"
+            },
+            "Speed": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Total": "350"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Water": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Poison": "no effect",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Dragon": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Shieldon",
+                    "nationalNo": "#0410",
+                    "type": [
+                        "Rock",
+                        "Steel"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Bastiodon",
+                    "nationalNo": "#0411",
+                    "type": [
+                        "Rock",
+                        "Steel"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 30)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Protect": "1",
+            "Tackle": "1",
+            "Taunt": "6",
+            "Metal Sound": "10",
+            "Take Down": "15",
+            "Iron Defense": "19",
+            "Swagger": "24",
+            "Ancient Power": "28",
+            "Endure": "33",
+            "Metal Burst": "37",
+            "Iron Head": "42",
+            "Heavy Slam": "46"
+        },
+        "egg": {
+            "Body Slam": null,
+            "Counter": null,
+            "Curse": null,
+            "Double-Edge": null,
+            "Fissure": null,
+            "Focus Energy": null,
+            "Guard Split": null,
+            "Headbutt": null,
+            "Rock Blast": null,
+            "Scary Face": null,
+            "Screech": null,
+            "Wide Guard": null
+        },
+        "tm": {
+            "Roar": "05",
+            "Sunny Day": "11",
+            "Taunt": "12",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Iron Tail": "23",
+            "Thunderbolt": "24",
+            "Thunder": "25",
+            "Earthquake": "26",
+            "Dig": "28",
+            "Double Team": "32",
+            "Shock Wave": "34",
+            "Flamethrower": "35",
+            "Sandstorm": "37",
+            "Fire Blast": "38",
+            "Rock Tomb": "39",
+            "Torment": "41",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Endure": "58",
+            "Rock Polish": "69",
+            "Stone Edge": "71",
+            "Stealth Rock": "76",
+            "Rock Slide": "80",
+            "Sleep Talk": "82",
+            "Bulldoze": "83",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Flash Cannon": "91",
+            "Strength": "96",
+            "Rock Smash": "98"
+        }
+    },
+    "entries": {
+        "Shieldon": [
+            "A Pok\u00e9mon that lived in jungles around 100 million years ago. Its facial hide is extremely hard.",
+            "It habitually polishes its face by rubbing it against tree trunks. It is weak to attacks from behind.",
+            "It is outstandingly armored. As a result, it can eat grass and berries without having to fight.",
+            "It was generated from a fossil dug out of a layer of clay that was older than anyone knows. It has a sturdy face.",
+            "It is outstandingly armored. As a result, it can eat grass and berries without having to fight.",
+            "It habitually polishes its face by rubbing it against tree trunks. It is weak to attacks from behind.",
+            "It was generated from a fossil dug out of a layer of clay that was older than anyone knows. It has a sturdy face.",
+            "Many fossils of this Pok\u00e9mon have been found, but almost none have shown signs of damage to the face.",
+            "This Pok\u00e9mon lived in primeval jungles. Few enemies would have been willing to square off against its heavily armored face, so it\u2019s thought.",
+            "A mild-mannered, herbivorous Pok\u00e9mon, it used its face to dig up tree roots to eat. The skin on its face was plenty tough.",
+            "Although its fossils can be found in layers of primeval rock, nothing but its face has ever been discovered.",
+            "A Pok\u00e9mon that lived in jungles around 100 million years ago. Its facial hide is extremely hard.",
+            "It habitually polishes its face by rubbing it against tree trunks. It is weak to attacks from behind.",
+            "Much remains unknown about this Pok\u00e9mon, as few have ever seen it. However, we know that it is calm and dislikes conflict, and it enjoys polishing its face against trees and rocks."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789799439740989/410.png",
+    "discord_sprite": "<:P410:1132130774267744287>"
+}

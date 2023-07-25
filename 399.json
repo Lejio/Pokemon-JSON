@@ -1,0 +1,181 @@
+{
+    "alt-version(s)": [],
+    "name": "Bidoof",
+    "Bidoof": {
+        "pokedex_data": {
+            "National No.": "0399",
+            "Type": [
+                "Normal"
+            ],
+            "Species": "Plump Mouse Poke\u0301mon",
+            "Height": "0.5 m (1\u203208\u2032\u2032)",
+            "Weight": "20.0 kg (44.1 lbs)",
+            "Abilities": {
+                "Simple": {
+                    "href": "/ability/simple",
+                    "effect": "Doubles all stat changes.",
+                    "hidden": false
+                },
+                "Unaware": {
+                    "href": "/ability/unaware",
+                    "effect": "Ignores any stat changes in the Pok\u00e9mon.",
+                    "hidden": false
+                },
+                "Moody": {
+                    "href": "/ability/moody",
+                    "effect": "Raises one stat and lowers another.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 HP",
+            "Catch rate": "255",
+            "BaseFriendship": "50",
+            "Base Exp.": "50",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "59",
+                "Min": "228",
+                "Max": "322"
+            },
+            "Attack": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Defense": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Atk": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Sp. Def": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Speed": {
+                "Base": "31",
+                "Min": "60",
+                "Max": "177"
+            },
+            "Total": "250"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Bidoof",
+                    "nationalNo": "#0399",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Bibarel",
+                    "nationalNo": "#0400",
+                    "type": [
+                        "Normal",
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 15)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Growl": "1",
+            "Tackle": "1",
+            "Defense Curl": "5",
+            "Rollout": "9",
+            "Headbutt": "13",
+            "Taunt": "17",
+            "Yawn": "21",
+            "Crunch": "25",
+            "Take Down": "29",
+            "Super Fang": "33",
+            "Swords Dance": "37",
+            "Amnesia": "41",
+            "Superpower": "45",
+            "Curse": "49"
+        },
+        "egg": {
+            "Aqua Tail": null,
+            "Defense Curl": null,
+            "Double-Edge": null,
+            "Fury Swipes": null,
+            "Quick Attack": null,
+            "Rollout": null,
+            "Skull Bash": null
+        },
+        "tm": {
+            "Work Up": "10",
+            "Sunny Day": "11",
+            "Taunt": "12",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Iron Tail": "23",
+            "Thunderbolt": "24",
+            "Thunder": "25",
+            "Dig": "28",
+            "Shadow Ball": "30",
+            "Double Team": "32",
+            "Shock Wave": "34",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Charge Beam": "57",
+            "Endure": "58",
+            "Thunder Wave": "73",
+            "Swords Dance": "75",
+            "Stealth Rock": "76",
+            "Sleep Talk": "82",
+            "Grass Knot": "86",
+            "Swagger": "87",
+            "Pluck": "88",
+            "Substitute": "90",
+            "Cut": "93",
+            "Rock Smash": "98"
+        }
+    },
+    "entries": {
+        "Bidoof": [
+            "With nerves of steel, nothing can perturb it. It is more agile and active than it appears.",
+            "It constantly gnaws on logs and rocks to whittle down its front teeth. It nests alongside water.",
+            "A comparison revealed that BIDOOF\u2019s front teeth grow at the same rate as RATTATA\u2019s.",
+            "It lives in groups by the water. It chews up boulders and trees around its nest with its incisors.",
+            "A comparison revealed that Bidoof\u2019s front teeth grow at the same rate as Rattata\u2019s.",
+            "With nerves of steel, nothing can perturb it. It is more agile and active than it appears.",
+            "It constantly gnaws on logs and rocks to whittle down its front teeth. It nests alongside water.",
+            "With nerves of steel, nothing can perturb it. It is more agile and active than it appears.",
+            "It constantly gnaws on logs and rocks to whittle down its front teeth. It nests alongside water.",
+            "Bidoof has an unsophisticated face and is rarely flustered by anything. There have been incidents involving Bidoof sauntering into villages and gnawing on the houses without a single care."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789715947913256/399.png",
+    "discord_sprite": "<:P399:1132130291247489035>"
+}

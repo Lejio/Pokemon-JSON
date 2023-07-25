@@ -1,0 +1,182 @@
+{
+    "alt-version(s)": [],
+    "name": "Hippopotas",
+    "Hippopotas": {
+        "pokedex_data": {
+            "National No.": "0449",
+            "Type": [
+                "Ground"
+            ],
+            "Species": "Hippo Poke\u0301mon",
+            "Height": "0.8 m (2\u203207\u2032\u2032)",
+            "Weight": "49.5 kg (109.1 lbs)",
+            "Abilities": {
+                "Sand Stream": {
+                    "href": "/ability/sand-stream",
+                    "effect": "The Pok\u00e9mon summons a sandstorm in battle.",
+                    "hidden": false
+                },
+                "Sand Force": {
+                    "href": "/ability/sand-force",
+                    "effect": "Boosts certain moves' power in a sandstorm.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Defense",
+            "Catch rate": "140",
+            "BaseFriendship": "50",
+            "Base Exp.": "66",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "68",
+                "Min": "246",
+                "Max": "340"
+            },
+            "Attack": {
+                "Base": "72",
+                "Min": "134",
+                "Max": "267"
+            },
+            "Defense": {
+                "Base": "78",
+                "Min": "144",
+                "Max": "280"
+            },
+            "Sp. Atk": {
+                "Base": "38",
+                "Min": "72",
+                "Max": "192"
+            },
+            "Sp. Def": {
+                "Base": "42",
+                "Min": "80",
+                "Max": "201"
+            },
+            "Speed": {
+                "Base": "32",
+                "Min": "62",
+                "Max": "179"
+            },
+            "Total": "330"
+        },
+        "defense_stats": {
+            "default": {
+                "Water": "super-effective",
+                "Electric": "no effect",
+                "Grass": "super-effective",
+                "Ice": "super-effective",
+                "Poison": "not very effective",
+                "Rock": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Hippopotas",
+                    "nationalNo": "#0449",
+                    "type": [
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Hippowdon",
+                    "nationalNo": "#0450",
+                    "type": [
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 34)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Sand Attack": "1",
+            "Tackle": "1",
+            "Bite": "4",
+            "Yawn": "8",
+            "Sand Tomb": "12",
+            "Dig": "16",
+            "Crunch": "20",
+            "Sandstorm": "24",
+            "Take Down": "28",
+            "Roar": "32",
+            "Rest": "36",
+            "Earthquake": "40",
+            "Double-Edge": "44",
+            "Fissure": "48",
+            "Slack Off": "52"
+        },
+        "egg": {
+            "Curse": null,
+            "Spit Up": null,
+            "Stockpile": null,
+            "Swallow": null,
+            "Whirlwind": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Mud-Slap": "05",
+            "Protect": "07",
+            "Fire Fang": "08",
+            "Thunder Fang": "09",
+            "Ice Fang": "10",
+            "Facade": "25",
+            "Bulldoze": "28",
+            "Mud Shot": "35",
+            "Rock Tomb": "36",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Sandstorm": "51",
+            "Dig": "55",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Body Press": "89",
+            "Substitute": "103",
+            "Crunch": "108",
+            "Stealth Rock": "116",
+            "Amnesia": "128",
+            "Helping Hand": "130",
+            "Earth Power": "133",
+            "Earthquake": "149",
+            "Stone Edge": "150",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Hippopotas": [
+            "It lives in arid places. Instead of perspiration, it expels grainy sand from its body.",
+            "It enshrouds itself with sand to protect itself from germs. It does not enjoy getting wet.",
+            "It shuts its nostrils tight then travels through sand as if walking. They form colonies of around ten.",
+            "It shrouds itself in sand to ward off germs. It travels easily through the sands of the desert.",
+            "It shuts its nostrils tight then travels through sand as if walking. They form colonies of around ten.",
+            "It shuts its nostrils tight then travels through sand as if walking. They form colonies of around 10.",
+            "It lives in arid places. Instead of perspiration, it expels grainy sand from its body.",
+            "It enshrouds itself with sand to protect itself from germs. It does not enjoy getting wet.",
+            "It moves through the sands with its mouth open, swallowing sand along with its prey. It gets rid of the sand by spouting it from its nose.",
+            "This Pok\u00e9mon is active during the day and passes the cold desert nights burrowed snugly into the sand.",
+            "It lives in arid places. Instead of perspiration, it expels grainy sand from its body.",
+            "It enshrouds itself with sand to protect itself from germs. It does not enjoy getting wet.",
+            "Though large and languid, Hippopotas is difficult to detect due to its tendency to burrow into and lurk beneath the soil. When agitated or excited, it expels sand from its nostrils.",
+            "It shuts its nostrils tight, then travels through sand as if walking. They form colonies of around 10.",
+            "It shrouds itself in sand to ward off germs. It travels easily through the sands of the desert."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790102767616101/449.png",
+    "discord_sprite": "<:P449:1132132487146000384>"
+}

@@ -1,0 +1,191 @@
+{
+    "alt-version(s)": [],
+    "name": "Liepard",
+    "Liepard": {
+        "pokedex_data": {
+            "National No.": "0510",
+            "Type": [
+                "Dark"
+            ],
+            "Species": "Cruel Poke\u0301mon",
+            "Height": "1.1 m (3\u203207\u2032\u2032)",
+            "Weight": "37.5 kg (82.7 lbs)",
+            "Abilities": {
+                "Limber": {
+                    "href": "/ability/limber",
+                    "effect": "The Pok\u00e9mon is protected from paralysis.",
+                    "hidden": false
+                },
+                "Unburden": {
+                    "href": "/ability/unburden",
+                    "effect": "Raises Speed if a held item is used.",
+                    "hidden": false
+                },
+                "Prankster": {
+                    "href": "/ability/prankster",
+                    "effect": "Gives priority to a status move.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Speed",
+            "Catch rate": "90",
+            "BaseFriendship": "50",
+            "Base Exp.": "156",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "64",
+                "Min": "238",
+                "Max": "332"
+            },
+            "Attack": {
+                "Base": "88",
+                "Min": "162",
+                "Max": "302"
+            },
+            "Defense": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Atk": {
+                "Base": "88",
+                "Min": "162",
+                "Max": "302"
+            },
+            "Sp. Def": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Speed": {
+                "Base": "106",
+                "Min": "195",
+                "Max": "342"
+            },
+            "Total": "446"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "super-effective",
+                "Psychic": "no effect",
+                "Bug": "super-effective",
+                "Ghost": "not very effective",
+                "Dark": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Purrloin",
+                    "nationalNo": "#0509",
+                    "type": [
+                        "Dark"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Liepard",
+                    "nationalNo": "#0510",
+                    "type": [
+                        "Dark"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 20)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Fake Out": "1",
+            "Growl": "1",
+            "Sand Attack": "1",
+            "Scratch": "1",
+            "Fury Swipes": "12",
+            "Torment": "16",
+            "Assurance": "23",
+            "Hone Claws": "28",
+            "Sucker Punch": "34",
+            "Nasty Plot": "40",
+            "Night Slash": "46",
+            "Play Rough": "52"
+        },
+        "egg": {
+            "Copycat": null,
+            "Covet": null,
+            "Double Team": null,
+            "Quick Attack": null,
+            "Slash": null,
+            "Yawn": null
+        },
+        "null": {
+            "Substitute": "20",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Baton Pass": "29",
+            "Encore": "30",
+            "Iron Tail": "31",
+            "Shadow Ball": "33",
+            "Taunt": "37",
+            "Trick": "38",
+            "Hyper Voice": "42",
+            "Dark Pulse": "58",
+            "Seed Bomb": "59",
+            "Nasty Plot": "68",
+            "Gunk Shot": "73",
+            "Grass Knot": "77",
+            "Foul Play": "81",
+            "Play Rough": "90",
+            "Throat Chop": "95"
+        },
+        "tm": {
+            "Pay Day": "02",
+            "Hyper Beam": "08",
+            "Giga Impact": "09",
+            "Thunder Wave": "14",
+            "Screech": "16",
+            "Rest": "21",
+            "Thief": "23",
+            "Snore": "24",
+            "Protect": "25",
+            "Charm": "29",
+            "Attract": "31",
+            "Rain Dance": "33",
+            "Sunny Day": "34",
+            "Facade": "39",
+            "Swift": "40",
+            "Fake Tears": "47",
+            "U-turn": "56",
+            "Payback": "57",
+            "Assurance": "58",
+            "Shadow Claw": "65",
+            "Psycho Cut": "69",
+            "Round": "76",
+            "Snarl": "85"
+        }
+    },
+    "entries": {
+        "Liepard": [
+            "These Pok\u00e9mon vanish and appear unexpectedly. Many Trainers are drawn to their beautiful form and fur.",
+            "Stealthily, it sneaks up on its target, striking from behind before its victim has a chance to react.",
+            "Their beautiful form comes from the muscles they have developed. They run silently in the night.",
+            "Their beautiful form comes from the muscles they have developed. They run silently in the night.",
+            "Stealthily, it sneaks up on its target, striking from behind before its victim has a chance to react.",
+            "Don\u2019t be fooled by its gorgeous fur and elegant figure. This is a moody and vicious Pok\u00e9mon.",
+            "This stealthy Pok\u00e9mon sneaks up behind prey without making any sound at all. It competes with Thievul for territory."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790577239851048/510.png",
+    "discord_sprite": "<:P510:1132135173098586173>"
+}

@@ -1,0 +1,217 @@
+{
+    "alt-version(s)": [],
+    "name": "Floette",
+    "Floette": {
+        "pokedex_data": {
+            "National No.": "0670",
+            "Type": [
+                "Fairy"
+            ],
+            "Species": "Single Bloom Poke\u0301mon",
+            "Height": "0.2 m (0\u203208\u2032\u2032)",
+            "Weight": "0.9 kg (2.0 lbs)",
+            "Abilities": {
+                "Flower Veil": {
+                    "href": "/ability/flower-veil",
+                    "effect": "Prevents lowering of ally Grass-type Pok\u00e9mon's stats.",
+                    "hidden": false
+                },
+                "Symbiosis": {
+                    "href": "/ability/symbiosis",
+                    "effect": "The Pok\u00e9mon can pass an item to an ally.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Sp. Def",
+            "Catch rate": "120",
+            "BaseFriendship": "50",
+            "Base Exp.": "130",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "0% male,100% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "54",
+                "Min": "218",
+                "Max": "312"
+            },
+            "Attack": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Defense": {
+                "Base": "47",
+                "Min": "89",
+                "Max": "212"
+            },
+            "Sp. Atk": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Sp. Def": {
+                "Base": "98",
+                "Min": "180",
+                "Max": "324"
+            },
+            "Speed": {
+                "Base": "52",
+                "Min": "98",
+                "Max": "223"
+            },
+            "Total": "371"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "not very effective",
+                "Poison": "super-effective",
+                "Bug": "not very effective",
+                "Dragon": "no effect",
+                "Dark": "not very effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Flab\u00e9b\u00e9",
+                    "nationalNo": "#0669",
+                    "type": [
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Floette",
+                    "nationalNo": "#0670",
+                    "type": [
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 19)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Floette",
+                    "nationalNo": "#0670",
+                    "type": [
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Florges",
+                    "nationalNo": "#0671",
+                    "type": [
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Shiny Stone)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Fairy Wind": "1",
+            "Tackle": "1",
+            "Vine Whip": "1",
+            "Safeguard": "10",
+            "Razor Leaf": "15",
+            "Wish": "20",
+            "Magical Leaf": "25",
+            "Grassy Terrain": "27",
+            "Petal Blizzard": "33",
+            "Synthesis": "38",
+            "Misty Terrain": "43",
+            "Moonblast": "46",
+            "Petal Dance": "51",
+            "Solar Beam": "58"
+        },
+        "egg": {
+            "Copycat": null,
+            "Endeavor": null,
+            "Tearful Look": null
+        },
+        "tm": {
+            "Charm": "02",
+            "Protect": "07",
+            "Disarming Voice": "19",
+            "Trailblaze": "20",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Swift": "32",
+            "Magical Leaf": "33",
+            "Draining Kiss": "37",
+            "Stored Power": "41",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Sleep Talk": "70",
+            "Seed Bomb": "71",
+            "Light Screen": "75",
+            "Dazzling Gleam": "79",
+            "Metronome": "80",
+            "Grass Knot": "81",
+            "Rest": "85",
+            "Skill Swap": "98",
+            "Substitute": "103",
+            "Trick": "109",
+            "Giga Drain": "111",
+            "Energy Ball": "119",
+            "Psychic": "120",
+            "Calm Mind": "129",
+            "Helping Hand": "130",
+            "Pollen Puff": "131",
+            "Baton Pass": "132",
+            "Grassy Terrain": "137",
+            "Misty Terrain": "139",
+            "Solar Beam": "168",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Floette": [
+            "It flutters around fields of flowers and cares for flowers that are starting to wilt. It draws out the hidden power of flowers to battle.",
+            "When the flowers of a well-tended flower bed bloom, it appears and celebrates with an elegant dance.",
+            "It raises flowers and uses them as weapons. The more gorgeous the blossom, the more power it contains.",
+            "It gives its own power to flowers, pouring its heart into caring for them. Floette never forgives anyone who messes up a flower bed."
+        ],
+        "Eternal Flower": [
+            "The flower it\u2019s holding can no longer be found blooming anywhere. It\u2019s also thought to contain terrifying power.",
+            "Terrifying energy is concealed within its ominous flower, but Floette still swings it about innocently."
+        ],
+        "Blue Flower": [
+            "Whenever this Pok\u00e9mon finds flowering plants that are withering, it will bring them back to its territory and care for them until they are healthy.",
+            "It exchanges power with flowers via wavelengths of visible light. This form of Floette can sync with the wavelength that produces the color blue."
+        ],
+        "Orange Flower": [
+            "This Pok\u00e9mon can draw forth the most power when in sync with orange flowers, compared to flowers of other colors.",
+            "This Pok\u00e9mon cannot use moves on its own. When it syncs with flowers, it becomes able to use Grass-type moves."
+        ],
+        "Red Flower": [
+            "This Pok\u00e9mon draws forth what power is left in withered flowers to make them healthy again. It holds a red flower.",
+            "This Pok\u00e9mon uses red wavelengths of light to pour its own energy into flowers and draw forth their latent potential."
+        ],
+        "White Flower": [
+            "Floette that are fond of white flowers can also easily sync with flowers of other colors.",
+            "If it finds someone messing up a flower bed, it will attack them without mercy. This Floette takes particularly good care of white flowers."
+        ],
+        "Yellow Flower": [
+            "This Pok\u00e9mon can draw forth the power hidden within yellow flowers. This power then becomes the moves Floette uses to protect itself.",
+            "Floette can draw forth the latent capabilities of Grass-type Pok\u00e9mon. It syncs with yellow flowers."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791825552814182/670.png",
+    "discord_sprite": "<:P670:1132142226223411230>"
+}

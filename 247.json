@@ -1,0 +1,232 @@
+{
+    "alt-version(s)": [],
+    "name": "Pupitar",
+    "Pupitar": {
+        "pokedex_data": {
+            "National No.": "0247",
+            "Type": [
+                "Rock",
+                "Ground"
+            ],
+            "Species": "Hard Shell Poke\u0301mon",
+            "Height": "1.2 m (3\u203211\u2032\u2032)",
+            "Weight": "152.0 kg (335.1 lbs)",
+            "Abilities": {
+                "Shed Skin": {
+                    "href": "/ability/shed-skin",
+                    "effect": "The Pok\u00e9mon may heal its own status problems.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "45",
+            "BaseFriendship": "35",
+            "Base Exp.": "144",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "70",
+                "Min": "250",
+                "Max": "344"
+            },
+            "Attack": {
+                "Base": "84",
+                "Min": "155",
+                "Max": "293"
+            },
+            "Defense": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Atk": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Def": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Speed": {
+                "Base": "51",
+                "Min": "96",
+                "Max": "221"
+            },
+            "Total": "410"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Electric": "no effect",
+                "Grass": "super-effective",
+                "Ice": "super-effective",
+                "Fighting": "super-effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Rock": "not very effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Larvitar",
+                    "nationalNo": "#0246",
+                    "type": [
+                        "Rock",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Pupitar",
+                    "nationalNo": "#0247",
+                    "type": [
+                        "Rock",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 30)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Pupitar",
+                    "nationalNo": "#0247",
+                    "type": [
+                        "Rock",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Tyranitar",
+                    "nationalNo": "#0248",
+                    "type": [
+                        "Rock",
+                        "Dark"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 55)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Leer": "1",
+            "Payback": "1",
+            "Rock Throw": "1",
+            "Tackle": "1",
+            "Bite": "9",
+            "Scary Face": "12",
+            "Rock Slide": "15",
+            "Stomping Tantrum": "18",
+            "Screech": "21",
+            "Smack Down": "24",
+            "Crunch": "27",
+            "Earthquake": "33",
+            "Stone Edge": "37",
+            "Thrash": "42",
+            "Sandstorm": "47",
+            "Hyper Beam": "52"
+        },
+        "evolution": {
+            "Iron Defense": "\u2014"
+        },
+        "egg": {
+            "Ancient Power": null,
+            "Assurance": null,
+            "Curse": null,
+            "Dragon Dance": null,
+            "Focus Energy": null,
+            "Iron Defense": null,
+            "Iron Head": null,
+            "Outrage": null,
+            "Stomp": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Mud-Slap": "05",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Bulldoze": "28",
+            "Snarl": "30",
+            "Mud Shot": "35",
+            "Rock Tomb": "36",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Sandstorm": "51",
+            "Dig": "55",
+            "Brick Break": "58",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Rock Blast": "76",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Taunt": "87",
+            "Dark Pulse": "94",
+            "Iron Head": "99",
+            "Dragon Dance": "100",
+            "Substitute": "103",
+            "Iron Defense": "104",
+            "Crunch": "108",
+            "Stealth Rock": "116",
+            "Helping Hand": "130",
+            "Earth Power": "133",
+            "Earthquake": "149",
+            "Stone Edge": "150",
+            "Giga Impact": "152",
+            "Outrage": "156",
+            "Hyper Beam": "163",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Pupitar": [
+            "Its shell is as hard as sheet rock, and it is also very strong. Its THRASHING can topple a mountain.",
+            "Even sealed in its shell, it can move freely. Hard and fast, it has outstanding destructive power.",
+            "It will not stay still, even while it\u2019s a pupa. It already has arms and legs under its solid shell.",
+            "PUPITAR creates a gas inside its body that it compresses and forcefully ejects to propel itself like a jet. The body is very durable - it avoids damage even if it hits solid steel.",
+            "Even sealed in its shell, it can move freely. Hard and fast, it has outstanding destructive power.",
+            "Its shell is as hard as sheet rock, and it is also very strong. Its THRASHING can topple a mountain.",
+            "A PUPITAR creates a gas inside its body that it ejects under compression to propel itself like a jet. Its body can withstand a collision with solid steel.",
+            "Its body is as hard as bedrock. By venting pressurized gas, it can launch itself like a rocket.",
+            "Its shell is as hard as sheet rock, and it is also very strong. Its thrashing can topple a mountain.",
+            "Even sealed in its shell, it can move freely. Hard and fast, it has outstanding destructive power.",
+            "Its body is as hard as bedrock. By venting pressurized gas, it can launch itself like a rocket.",
+            "This pupa flies around wildly by venting with great force the gas pressurized inside its body.",
+            "Its body is as hard as bedrock. By venting pressurized gas, it can launch itself like a rocket.",
+            "Its shell is as hard as sheet rock, and it is also very strong. Its thrashing can topple a mountain.",
+            "Pupitar creates a gas inside its body that it compresses and forcefully ejects to propel itself like a jet. The body is very durable\u2014it avoids damage even if it hits solid steel.",
+            "This troublesome Pok\u00e9mon can\u2019t wait to evolve, so it relieves its stress by wildly propelling itself around using compressed gas.",
+            "This dangerous pupa thrashes about. Its shell is as hard as bedrock, containing its gradually forming new body within.",
+            "Even sealed in its shell, it can move freely. Hard and fast, it has outstanding destructive power.",
+            "It will not stay still, even while it\u2019s a pupa. It already has arms and legs under its solid shell.",
+            "Its body is as hard as bedrock. By venting pressurized gas, it can launch itself like a rocket.",
+            "This pupa flies around wildly by venting with great force the gas pressurized inside its body.",
+            "Its shell is as hard as bedrock, and it is also very strong. Its thrashing can topple a mountain."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788525998710824/247.png",
+    "discord_sprite": "<:P247:1132123605837299793>"
+}

@@ -1,0 +1,238 @@
+{
+    "alt-version(s)": [],
+    "name": "Croagunk",
+    "Croagunk": {
+        "pokedex_data": {
+            "National No.": "0453",
+            "Type": [
+                "Poison",
+                "Fighting"
+            ],
+            "Species": "Toxic Mouth Poke\u0301mon",
+            "Height": "0.7 m (2\u203204\u2032\u2032)",
+            "Weight": "23.0 kg (50.7 lbs)",
+            "Abilities": {
+                "Anticipation": {
+                    "href": "/ability/anticipation",
+                    "effect": "Senses a foe's dangerous moves.",
+                    "hidden": false
+                },
+                "Dry Skin": {
+                    "href": "/ability/dry-skin",
+                    "effect": "Reduces HP if it is hot. Water restores HP.",
+                    "hidden": false
+                },
+                "Poison Touch": {
+                    "href": "/ability/poison-touch",
+                    "effect": "May poison targets when a Pok\u00e9mon makes contact.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack",
+            "Catch rate": "140",
+            "BaseFriendship": "100",
+            "Base Exp.": "60",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "48",
+                "Min": "206",
+                "Max": "300"
+            },
+            "Attack": {
+                "Base": "61",
+                "Min": "114",
+                "Max": "243"
+            },
+            "Defense": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Atk": {
+                "Base": "61",
+                "Min": "114",
+                "Max": "243"
+            },
+            "Sp. Def": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Speed": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Total": "300"
+        },
+        "defense_stats": {
+            "Anticipation ability": {
+                "Grass": "not very effective",
+                "Fighting": "not very effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Dark": "not very effective"
+            },
+            "Dry Skin ability": {
+                "Fire": "super-effective",
+                "Water": "no effect",
+                "Grass": "not very effective",
+                "Fighting": "not very effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Dark": "not very effective"
+            },
+            "Poison Touch ability": {
+                "Grass": "not very effective",
+                "Fighting": "not very effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Dark": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Croagunk",
+                    "nationalNo": "#0453",
+                    "type": [
+                        "Poison",
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Toxicroak",
+                    "nationalNo": "#0454",
+                    "type": [
+                        "Poison",
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 37)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Mud-Slap": "1",
+            "Poison Sting": "1",
+            "Astonish": "4",
+            "Taunt": "8",
+            "Flatter": "12",
+            "Low Kick": "16",
+            "Venoshock": "20",
+            "Sucker Punch": "24",
+            "Swagger": "28",
+            "Poison Jab": "32",
+            "Toxic": "36",
+            "Nasty Plot": "40",
+            "Sludge Bomb": "44",
+            "Belch": "48"
+        },
+        "egg": {
+            "Bullet Punch": null,
+            "Counter": null,
+            "Cross Chop": null,
+            "Dynamic Punch": null,
+            "Fake Out": null,
+            "Feint": null,
+            "Headbutt": null,
+            "Quick Guard": null,
+            "Vacuum Wave": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Mud-Slap": "05",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Low Kick": "12",
+            "Acid Spray": "13",
+            "Thief": "18",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Bulldoze": "28",
+            "Icy Wind": "34",
+            "Mud Shot": "35",
+            "Rock Tomb": "36",
+            "Low Sweep": "39",
+            "Fling": "43",
+            "Venoshock": "45",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Dig": "55",
+            "Brick Break": "58",
+            "Shadow Claw": "61",
+            "Foul Play": "62",
+            "Bulk Up": "64",
+            "Thunder Punch": "68",
+            "Ice Punch": "69",
+            "Sleep Talk": "70",
+            "Drain Punch": "73",
+            "Poison Jab": "83",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Taunt": "87",
+            "Gunk Shot": "102",
+            "Substitute": "103",
+            "X-Scissor": "105",
+            "Shadow Ball": "114",
+            "Encore": "122",
+            "Helping Hand": "130",
+            "Baton Pass": "132",
+            "Reversal": "134",
+            "Nasty Plot": "140",
+            "Sludge Bomb": "148",
+            "Earthquake": "149",
+            "Focus Blast": "158",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Croagunk": [
+            "Its cheeks hold poison sacs. It tries to catch foes off guard to jab them with toxic fingers.",
+            "Inflating its poison sacs, it makes an eerie blubbering sound for intimidation.",
+            "It rarely fights fairly, but that is strictly to ensure survival. It is popular as a mascot.",
+            "Fluid squeezed from its finger, albeit poisonous, is a significant ingredient in remedies for lower-back pain.",
+            "Fluid squeezed from its finger, albeit poisonous, is a significant ingredient in remedies for lower back pain.",
+            "It rarely fights fairly, but that is strictly to ensure survival. It is popular as a mascot.",
+            "Inflating its poison sacs, it fills the area with an odd sound and hits flinching opponents with a poison jab.",
+            "Its cheeks hold poison sacs. It tries to catch foes off guard to jab them with toxic fingers.",
+            "Inflating its poison sacs, it fills the area with an odd sound and hits flinching opponents with a poison jab.",
+            "It makes frightening noises with its poison-filled cheek sacs. When opponents flinch, Croagunk hits them with a poison jab.",
+            "Once diluted, its poison becomes medicinal. This Pok\u00e9mon came into popularity after a pharmaceutical company chose it as a mascot.",
+            "Its cheeks hold poison sacs. It tries to catch foes off guard to jab them with toxic fingers.",
+            "It inflates its poison sacs and makes a blubbering sound to intimidate foes.",
+            "A poison wielder with a dastardly personality. Despite such qualities, this species is afforded a measure of popularity due to its peculiar cry and comical features.",
+            "Inflating its poison sacs, it fills the area with an odd sound and hits flinching opponents with a poison jab.",
+            "It rarely fights fairly, but that is strictly to ensure survival. It is popular as a mascot."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790134841454602/453.png",
+    "discord_sprite": "<:P453:1132132663487111168>"
+}

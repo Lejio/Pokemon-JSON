@@ -1,0 +1,193 @@
+{
+    "alt-version(s)": [],
+    "name": "Galvantula",
+    "Galvantula": {
+        "pokedex_data": {
+            "National No.": "0596",
+            "Type": [
+                "Bug",
+                "Electric"
+            ],
+            "Species": "EleSpider Poke\u0301mon",
+            "Height": "0.8 m (2\u203207\u2032\u2032)",
+            "Weight": "14.3 kg (31.5 lbs)",
+            "Abilities": {
+                "Compound Eyes": {
+                    "href": "/ability/compound-eyes",
+                    "effect": "The Pok\u00e9mon's accuracy is boosted.",
+                    "hidden": false
+                },
+                "Unnerve": {
+                    "href": "/ability/unnerve",
+                    "effect": "Makes the foe nervous and unable to eat Berries.",
+                    "hidden": false
+                },
+                "Swarm": {
+                    "href": "/ability/swarm",
+                    "effect": "Powers up Bug-type moves in a pinch.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Speed",
+            "Catch rate": "75",
+            "BaseFriendship": "50",
+            "Base Exp.": "165",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "70",
+                "Min": "250",
+                "Max": "344"
+            },
+            "Attack": {
+                "Base": "77",
+                "Min": "143",
+                "Max": "278"
+            },
+            "Defense": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Atk": {
+                "Base": "97",
+                "Min": "179",
+                "Max": "322"
+            },
+            "Sp. Def": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Speed": {
+                "Base": "108",
+                "Min": "198",
+                "Max": "346"
+            },
+            "Total": "472"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Fighting": "not very effective",
+                "Rock": "super-effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Joltik",
+                    "nationalNo": "#0595",
+                    "type": [
+                        "Bug",
+                        "Electric"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Galvantula",
+                    "nationalNo": "#0596",
+                    "type": [
+                        "Bug",
+                        "Electric"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 36)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Absorb": "1",
+            "Bug Bite": "1",
+            "Electroweb": "1",
+            "Fury Cutter": "1",
+            "Sticky Web": "1",
+            "String Shot": "12",
+            "Thunder Wave": "16",
+            "Electro Ball": "20",
+            "Agility": "24",
+            "Sucker Punch": "28",
+            "Slash": "32",
+            "Discharge": "39",
+            "Screech": "44",
+            "Gastro Acid": "50",
+            "Bug Buzz": "56"
+        },
+        "evolution": {
+            "Sticky Web": "\u2014"
+        },
+        "egg": {
+            "Double Team": null,
+            "Infestation": null,
+            "Lunge": null,
+            "Poison Sting": null,
+            "Struggle Bug": null
+        },
+        "null": {
+            "Thunderbolt": "08",
+            "Thunder": "09",
+            "Agility": "12",
+            "Leech Life": "18",
+            "Substitute": "20",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Poison Jab": "57",
+            "X-Scissor": "60",
+            "Bug Buzz": "61",
+            "Energy Ball": "65",
+            "Electro Ball": "80",
+            "Wild Charge": "86",
+            "Throat Chop": "95"
+        },
+        "tm": {
+            "Pin Missile": "07",
+            "Hyper Beam": "08",
+            "Giga Impact": "09",
+            "Thunder Wave": "14",
+            "Screech": "16",
+            "Light Screen": "17",
+            "Rest": "21",
+            "Thief": "23",
+            "Snore": "24",
+            "Protect": "25",
+            "Giga Drain": "28",
+            "Attract": "31",
+            "Rain Dance": "33",
+            "Facade": "39",
+            "Swift": "40",
+            "Bounce": "52",
+            "Speed Swap": "62",
+            "Cross Poison": "73",
+            "Round": "76",
+            "Volt Switch": "80",
+            "Electroweb": "82"
+        }
+    },
+    "entries": {
+        "Galvantula": [
+            "When attacked, they create an electric barrier by spitting out many electrically charged threads.",
+            "They employ an electrically charged web to trap their prey. While it is immobilized by shock, they leisurely consume it.",
+            "It creates barriers from electrified silk that stun foes. This works as a weapon as well as a defense.",
+            "They employ an electrically charged web to trap their prey. While it is immobilized by shock, they leisurely consume it.",
+            "When attacked, they create an electric barrier by spitting out many electrically charged threads.",
+            "It launches electrified fur from its abdomen as its means of attack. Opponents hit by the fur could be in for three full days and nights of paralysis.",
+            "It lays traps of electrified threads near the nests of bird Pok\u00e9mon, aiming to snare chicks that are not yet good at flying."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791246038417489/596.png",
+    "discord_sprite": "<:P596:1132138964585820261>"
+}

@@ -1,0 +1,168 @@
+{
+    "alt-version(s)": [],
+    "name": "Cosmoem",
+    "Cosmoem": {
+        "pokedex_data": {
+            "National No.": "0790",
+            "Type": [
+                "Psychic"
+            ],
+            "Species": "Protostar Poke\u0301mon",
+            "Height": "0.1 m (0\u203204\u2032\u2032)",
+            "Weight": "999.9 kg (2204.4 lbs)",
+            "Abilities": {
+                "Sturdy": {
+                    "href": "/ability/sturdy",
+                    "effect": "It cannot be knocked out with one hit.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Defense, 1 Sp. Def",
+            "Catch rate": "45",
+            "BaseFriendship": "0",
+            "Base Exp.": "140",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "43",
+                "Min": "196",
+                "Max": "290"
+            },
+            "Attack": {
+                "Base": "29",
+                "Min": "56",
+                "Max": "172"
+            },
+            "Defense": {
+                "Base": "131",
+                "Min": "240",
+                "Max": "397"
+            },
+            "Sp. Atk": {
+                "Base": "29",
+                "Min": "56",
+                "Max": "172"
+            },
+            "Sp. Def": {
+                "Base": "131",
+                "Min": "240",
+                "Max": "397"
+            },
+            "Speed": {
+                "Base": "37",
+                "Min": "71",
+                "Max": "190"
+            },
+            "Total": "400"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Cosmog",
+                    "nationalNo": "#0789",
+                    "type": [
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Cosmoem",
+                    "nationalNo": "#0790",
+                    "type": [
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 43)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Cosmoem",
+                    "nationalNo": "#0790",
+                    "type": [
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Solgaleo",
+                    "nationalNo": "#0791",
+                    "type": [
+                        "Psychic",
+                        "Steel"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 53, in Pok\u00e9mon Sun or Ultra Sun)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Cosmoem",
+                    "nationalNo": "#0790",
+                    "type": [
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Lunala",
+                    "nationalNo": "#0792",
+                    "type": [
+                        "Psychic",
+                        "Ghost"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 53, in Pok\u00e9mon Moon or Ultra Moon)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Cosmic Power": "1",
+            "Teleport": "1"
+        },
+        "evolution": {
+            "Cosmic Power": "\u2014"
+        },
+        "egg": null,
+        "tm": {
+            "Cosmic Power": "44"
+        },
+        "null": {
+            "Cosmic Power": "44"
+        }
+    },
+    "entries": {
+        "Cosmoem": [
+            "Motionless as if dead, its body is faintly warm to the touch. In the distant past, it was called the cocoon of the stars.",
+            "There\u2019s something accumulating around the black core within its hard shell. People think this Pok\u00e9mon may come from another world.",
+            "The king who ruled Alola in times of antiquity called it the \u201ccocoon of the stars\u201d and built an altar to worship it.",
+            "As it absorbs light, Cosmoem continues to grow. Its golden shell is surprisingly solid.",
+            "The absorption of starlight fuels this Pok\u00e9mon\u2019s growth. The shell that encases it is harder than any known material.",
+            "It sucks in dust from the air at an astounding rate, frantically building up energy within its core as preparation for evolution."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792765924147230/790.png",
+    "discord_sprite": "<:P790:1132147563865321594>"
+}

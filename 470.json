@@ -1,0 +1,355 @@
+{
+    "alt-version(s)": [],
+    "name": "Leafeon",
+    "Leafeon": {
+        "pokedex_data": {
+            "National No.": "0470",
+            "Type": [
+                "Grass"
+            ],
+            "Species": "Verdant Poke\u0301mon",
+            "Height": "1.0 m (3\u203203\u2032\u2032)",
+            "Weight": "25.5 kg (56.2 lbs)",
+            "Abilities": {
+                "Leaf Guard": {
+                    "href": "/ability/leaf-guard",
+                    "effect": "Prevents problems with status in sunny weather.",
+                    "hidden": false
+                },
+                "Chlorophyll": {
+                    "href": "/ability/chlorophyll",
+                    "effect": "Boosts the Pok\u00e9mon's Speed in sunshine.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Defense",
+            "Catch rate": "45",
+            "BaseFriendship": "35",
+            "Base Exp.": "184",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "65",
+                "Min": "240",
+                "Max": "334"
+            },
+            "Attack": {
+                "Base": "110",
+                "Min": "202",
+                "Max": "350"
+            },
+            "Defense": {
+                "Base": "130",
+                "Min": "238",
+                "Max": "394"
+            },
+            "Sp. Atk": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Def": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Speed": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Total": "525"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Poison": "super-effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Bug": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Eevee",
+                    "nationalNo": "#0133",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Vaporeon",
+                    "nationalNo": "#0134",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Water Stone)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Eevee",
+                    "nationalNo": "#0133",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Jolteon",
+                    "nationalNo": "#0135",
+                    "type": [
+                        "Electric"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Thunder Stone)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Eevee",
+                    "nationalNo": "#0133",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Flareon",
+                    "nationalNo": "#0136",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Fire Stone)",
+                "shed": null
+            }
+        ],
+        [
+            {
+                "from": {
+                    "name": "Eevee",
+                    "nationalNo": "#0133",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Espeon",
+                    "nationalNo": "#0196",
+                    "type": [
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(high Friendship, Daytime)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Eevee",
+                    "nationalNo": "#0133",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Umbreon",
+                    "nationalNo": "#0197",
+                    "type": [
+                        "Dark"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(high Friendship, Nighttime)",
+                "shed": null
+            }
+        ],
+        [
+            {
+                "from": {
+                    "name": "Eevee",
+                    "nationalNo": "#0133",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Leafeon",
+                    "nationalNo": "#0470",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Leaf Stone, or level up near a Mossy Rock)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Eevee",
+                    "nationalNo": "#0133",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Glaceon",
+                    "nationalNo": "#0471",
+                    "type": [
+                        "Ice"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Ice Stone, or level up near an Icy Rock)",
+                "shed": null
+            }
+        ],
+        [
+            {
+                "from": {
+                    "name": "Eevee",
+                    "nationalNo": "#0133",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Sylveon",
+                    "nationalNo": "#0700",
+                    "type": [
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(after Fairy-type move learned, and either \u2665\u2665 Affection in Gen 6-7 or high friendship in Gen 8+)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Baton Pass": "1",
+            "Bite": "1",
+            "Charm": "1",
+            "Copycat": "1",
+            "Covet": "1",
+            "Double-Edge": "1",
+            "Growl": "1",
+            "Helping Hand": "1",
+            "Swift": "1",
+            "Tackle": "1",
+            "Tail Whip": "1",
+            "Take Down": "1",
+            "Sand Attack": "5",
+            "Quick Attack": "10",
+            "Baby-Doll Eyes": "15",
+            "Leech Seed": "20",
+            "Magical Leaf": "25",
+            "Synthesis": "30",
+            "Sunny Day": "35",
+            "Giga Drain": "40",
+            "Swords Dance": "45",
+            "Leaf Blade": "50",
+            "Last Resort": "55"
+        },
+        "evolution": {
+            "Razor Leaf": "55"
+        },
+        "egg": {
+            "Curse": null,
+            "Detect": null,
+            "Double Kick": null,
+            "Flail": null,
+            "Mud-Slap": null,
+            "Tickle": null,
+            "Wish": null,
+            "Yawn": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Charm": "02",
+            "Fake Tears": "03",
+            "Mud-Slap": "05",
+            "Protect": "07",
+            "Trailblaze": "20",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Swift": "32",
+            "Magical Leaf": "33",
+            "Mud Shot": "35",
+            "Stored Power": "41",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Dig": "55",
+            "Bullet Seed": "56",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Seed Bomb": "71",
+            "Grass Knot": "81",
+            "Rest": "85",
+            "Swords Dance": "88",
+            "Substitute": "103",
+            "X-Scissor": "105",
+            "Giga Drain": "111",
+            "Shadow Ball": "114",
+            "Hyper Voice": "117",
+            "Energy Ball": "119",
+            "Calm Mind": "129",
+            "Helping Hand": "130",
+            "Baton Pass": "132",
+            "Giga Impact": "152",
+            "Leaf Storm": "159",
+            "Hyper Beam": "163",
+            "Solar Beam": "168",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Leafeon": [
+            "Just like a plant, it uses photosynthesis. As a result, it is always enveloped in clear air.",
+            "It basically does not fight. With cells similar to those of plants, it can perform photosynthesis.",
+            "When you see LEAFEON asleep in a patch of sunshine, you\u2019ll know it is using photosynthesis to produce clean air.",
+            "It basically does not fight. With cells similar to those of plants, it can perform photosynthesis.",
+            "With cells similar to those of plants, it performs photosynthesis inside its body and creates pure air.",
+            "When you see Leafeon asleep in a patch of sunshine, you\u2019ll know it is using photosynthesis to produce clean air.",
+            "Just like a plant, it uses photosynthesis. As a result, it is always enveloped in clear air.",
+            "Its cellular composition is closer to that of a plant than an animal. It uses photosynthesis to produce its energy supply without eating food.",
+            "The younger they are, the more they smell like fresh grass. With age, their fragrance takes on the odor of fallen leaves.",
+            "Although it doesn\u2019t like disputes, it will sharpen the leaf on its tail into a blade and fight if it has to protect its friends.",
+            "It gets its nutrition from photosynthesis. It lives a quiet life deep in forests where clean rivers flow.",
+            "Galarians favor the distinctive aroma that drifts from this Pok\u00e9mon\u2019s leaves. There\u2019s a popular perfume made using that scent.",
+            "This Pok\u00e9mon\u2019s tail is blade sharp, with a fantastic cutting edge that can slice right though large trees.",
+            "Just like a plant, it uses photosynthesis. As a result, it is always enveloped in clear air.",
+            "Cells similar to those of plants have been found in its fur. Its hard tail can fell a large tree with one stroke, and the tail\u2019s sharpness exceeds even that of a sword crafted by a master.",
+            "When you see Leafeon asleep in a patch of sunshine, you\u2019ll know it is using photosynthesis to produce clean air.",
+            "The younger they are, the more they smell like fresh grass. With age, their fragrance takes on the odor of fallen leaves."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790265682759700/470.png",
+    "discord_sprite": "<:P470:1132133412682072116>"
+}

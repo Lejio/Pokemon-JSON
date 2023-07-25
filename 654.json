@@ -1,0 +1,209 @@
+{
+    "alt-version(s)": [],
+    "name": "Braixen",
+    "Braixen": {
+        "pokedex_data": {
+            "National No.": "0654",
+            "Type": [
+                "Fire"
+            ],
+            "Species": "Fox Poke\u0301mon",
+            "Height": "1.0 m (3\u203203\u2032\u2032)",
+            "Weight": "14.5 kg (32.0 lbs)",
+            "Abilities": {
+                "Blaze": {
+                    "href": "/ability/blaze",
+                    "effect": "Powers up Fire-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Magician": {
+                    "href": "/ability/magician",
+                    "effect": "The Pok\u00e9mon steals the held item of a Pok\u00e9mon it hits with a move.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Sp. Atk",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "143",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "59",
+                "Min": "228",
+                "Max": "322"
+            },
+            "Attack": {
+                "Base": "59",
+                "Min": "110",
+                "Max": "238"
+            },
+            "Defense": {
+                "Base": "58",
+                "Min": "108",
+                "Max": "236"
+            },
+            "Sp. Atk": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Sp. Def": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Speed": {
+                "Base": "73",
+                "Min": "135",
+                "Max": "269"
+            },
+            "Total": "409"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Ground": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Fennekin",
+                    "nationalNo": "#0653",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Braixen",
+                    "nationalNo": "#0654",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 16)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Braixen",
+                    "nationalNo": "#0654",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Delphox",
+                    "nationalNo": "#0655",
+                    "type": [
+                        "Fire",
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 36)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Ember": "1",
+            "Scratch": "1",
+            "Tail Whip": "1",
+            "Howl": "11",
+            "Flame Charge": "14",
+            "Psybeam": "18",
+            "Fire Spin": "22",
+            "Light Screen": "28",
+            "Psyshock": "36",
+            "Flamethrower": "41",
+            "Will-O-Wisp": "45",
+            "Psychic": "49",
+            "Sunny Day": "52",
+            "Magic Room": "56",
+            "Fire Blast": "59"
+        },
+        "egg": {
+            "Copycat": null,
+            "Heat Wave": null,
+            "Hypnosis": null,
+            "Magic Room": null,
+            "Wish": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Charm": "02",
+            "Agility": "04",
+            "Mud-Slap": "05",
+            "Protect": "07",
+            "Low Kick": "12",
+            "Psybeam": "16",
+            "Thief": "18",
+            "Fire Spin": "24",
+            "Facade": "25",
+            "Swift": "32",
+            "Mud Shot": "35",
+            "Flame Charge": "38",
+            "Stored Power": "41",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Psyshock": "54",
+            "Zen Headbutt": "59",
+            "Foul Play": "62",
+            "Fire Punch": "67",
+            "Thunder Punch": "68",
+            "Sleep Talk": "70",
+            "Light Screen": "75",
+            "Grass Knot": "81",
+            "Rest": "85",
+            "Imprison": "92",
+            "Skill Swap": "98",
+            "Substitute": "103",
+            "Will-O-Wisp": "107",
+            "Trick": "109",
+            "Heat Wave": "118",
+            "Psychic": "120",
+            "Encore": "122",
+            "Flamethrower": "125",
+            "Calm Mind": "129",
+            "Helping Hand": "130",
+            "Psychic Terrain": "138",
+            "Fire Blast": "141",
+            "Fire Pledge": "144",
+            "Overheat": "157",
+            "Trick Room": "161",
+            "Flare Blitz": "165",
+            "Solar Beam": "168",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Braixen": [
+            "It has a twig stuck in its tail. With friction from its tail fur, it sets the twig on fire and launches into battle.",
+            "When the twig is plucked from its tail, friction sets the twig alight. The flame is used to send signals to its allies."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791701225250846/654.png",
+    "discord_sprite": "<:P654:1132141521165099111>"
+}

@@ -1,0 +1,209 @@
+{
+    "alt-version(s)": [],
+    "name": "Baxcalibur",
+    "Baxcalibur": {
+        "pokedex_data": {
+            "National No.": "0998",
+            "Type": [
+                "Dragon",
+                "Ice"
+            ],
+            "Species": "Ice Dragon Poke\u0301mon",
+            "Height": "2.1 m (6\u203211\u2032\u2032)",
+            "Weight": "210.0 kg (463.0 lbs)",
+            "Abilities": {
+                "Thermal Exchange": {
+                    "href": "/ability/thermal-exchange",
+                    "effect": "Raises Attack when hit by a Fire-type move. Cannot be burned.",
+                    "hidden": false
+                },
+                "Ice Body": {
+                    "href": "/ability/ice-body",
+                    "effect": "The Pok\u00e9mon gradually regains HP in a hailstorm.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Attack",
+            "Catch rate": "10",
+            "BaseFriendship": "50",
+            "Base Exp.": "300",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "115",
+                "Min": "340",
+                "Max": "434"
+            },
+            "Attack": {
+                "Base": "145",
+                "Min": "265",
+                "Max": "427"
+            },
+            "Defense": {
+                "Base": "92",
+                "Min": "170",
+                "Max": "311"
+            },
+            "Sp. Atk": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Sp. Def": {
+                "Base": "86",
+                "Min": "159",
+                "Max": "298"
+            },
+            "Speed": {
+                "Base": "87",
+                "Min": "161",
+                "Max": "300"
+            },
+            "Total": "600"
+        },
+        "defense_stats": {
+            "default": {
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Fighting": "super-effective",
+                "Rock": "super-effective",
+                "Dragon": "super-effective",
+                "Steel": "super-effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Frigibax",
+                    "nationalNo": "#0996",
+                    "type": [
+                        "Dragon",
+                        "Ice"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Arctibax",
+                    "nationalNo": "#0997",
+                    "type": [
+                        "Dragon",
+                        "Ice"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 35)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Arctibax",
+                    "nationalNo": "#0997",
+                    "type": [
+                        "Dragon",
+                        "Ice"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Baxcalibur",
+                    "nationalNo": "#0998",
+                    "type": [
+                        "Dragon",
+                        "Ice"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 54)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Breaking Swipe": "1",
+            "Dragon Tail": "1",
+            "Ice Shard": "1",
+            "Leer": "1",
+            "Snowscape": "1",
+            "Tackle": "1",
+            "Icy Wind": "6",
+            "Dragon Breath": "12",
+            "Focus Energy": "18",
+            "Bite": "24",
+            "Ice Fang": "29",
+            "Dragon Claw": "35",
+            "Take Down": "42",
+            "Ice Beam": "48",
+            "Crunch": "55",
+            "Icicle Crash": "62"
+        },
+        "evolution": {
+            "Glaive Rush": "120"
+        },
+        "egg": {
+            "Aqua Tail": null,
+            "Dragon Rush": null,
+            "Freeze-Dry": null,
+            "Icicle Spear": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Thunder Fang": "09",
+            "Ice Fang": "10",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Bulldoze": "28",
+            "Icy Wind": "34",
+            "Dragon Tail": "44",
+            "Avalanche": "46",
+            "Endure": "47",
+            "Rain Dance": "50",
+            "Snowscape": "52",
+            "Dig": "55",
+            "False Swipe": "57",
+            "Brick Break": "58",
+            "Zen Headbutt": "59",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Dragon Claw": "78",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Swords Dance": "88",
+            "Body Press": "89",
+            "Iron Head": "99",
+            "Dragon Dance": "100",
+            "Substitute": "103",
+            "Crunch": "108",
+            "Dragon Pulse": "115",
+            "Helping Hand": "130",
+            "Ice Beam": "135",
+            "Blizzard": "143",
+            "Earthquake": "149",
+            "Giga Impact": "152",
+            "Outrage": "156",
+            "Hyper Beam": "163",
+            "Draco Meteor": "169",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Baxcalibur": [
+            "This Pok\u00e9mon blasts cryogenic air out from its mouth. This air can instantly freeze even liquid-hot lava.",
+            "It launches itself into battle by flipping upside down and spewing frigid air from its mouth. It finishes opponents off with its dorsal blade."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131794383990165504/998.png",
+    "discord_sprite": "<:P998:1132156706500124722>"
+}

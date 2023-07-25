@@ -1,0 +1,323 @@
+{
+    "alt-version(s)": [
+        "Alolan Sandshrew"
+    ],
+    "name": "Sandshrew",
+    "Sandshrew": {
+        "pokedex_data": {
+            "National No.": "0027",
+            "Type": [
+                "Ground"
+            ],
+            "Species": "Mouse Poke\u0301mon",
+            "Height": "0.6 m (2\u203200\u2032\u2032)",
+            "Weight": "12.0 kg (26.5 lbs)",
+            "Abilities": {
+                "Sand Veil": {
+                    "href": "/ability/sand-veil",
+                    "effect": "Boosts the Pok\u00e9mon's evasion in a sandstorm.",
+                    "hidden": false
+                },
+                "Sand Rush": {
+                    "href": "/ability/sand-rush",
+                    "effect": "Boosts the Pok\u00e9mon's Speed in a sandstorm.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Defense",
+            "Catch rate": "255",
+            "BaseFriendship": "50",
+            "Base Exp.": "60",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "50",
+                "Min": "210",
+                "Max": "304"
+            },
+            "Attack": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Defense": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Sp. Atk": {
+                "Base": "20",
+                "Min": "40",
+                "Max": "152"
+            },
+            "Sp. Def": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Speed": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Total": "300"
+        },
+        "defense_stats": {
+            "default": {
+                "Water": "super-effective",
+                "Electric": "no effect",
+                "Grass": "super-effective",
+                "Ice": "super-effective",
+                "Poison": "not very effective",
+                "Rock": "not very effective"
+            }
+        }
+    },
+    "Alolan Sandshrew": {
+        "pokedex_data": {
+            "National No.": "0027",
+            "Type": [
+                "Ice",
+                "Steel"
+            ],
+            "Species": "Mouse Poke\u0301mon",
+            "Height": "0.7 m (2\u203204\u2032\u2032)",
+            "Weight": "40.0 kg (88.2 lbs)",
+            "Abilities": {
+                "Snow Cloak": {
+                    "href": "/ability/snow-cloak",
+                    "effect": "Raises evasion in a hailstorm.",
+                    "hidden": false
+                },
+                "Slush Rush": {
+                    "href": "/ability/slush-rush",
+                    "effect": "Boosts the Pok\u00e9mon's Speed stat in a hailstorm.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Defense",
+            "Catch rate": "255",
+            "BaseFriendship": "50",
+            "Base Exp.": "60",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "50",
+                "Min": "210",
+                "Max": "304"
+            },
+            "Attack": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Defense": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Sp. Atk": {
+                "Base": "10",
+                "Min": "22",
+                "Max": "130"
+            },
+            "Sp. Def": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Speed": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Total": "300"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Fire": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Poison": "no effect",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "not very effective",
+                "Dragon": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Sandshrew",
+                    "nationalNo": "#0027",
+                    "type": [
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Sandslash",
+                    "nationalNo": "#0028",
+                    "type": [
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 22)",
+                "shed": null
+            }
+        ],
+        [
+            {
+                "from": {
+                    "name": "Sandshrew",
+                    "nationalNo": "#0027",
+                    "type": [
+                        "Ice",
+                        "Steel"
+                    ],
+                    "nickname": "Alolan Sandshrew"
+                },
+                "to": {
+                    "name": "Sandslash",
+                    "nationalNo": "#0028",
+                    "type": [
+                        "Ice",
+                        "Steel"
+                    ],
+                    "nickname": "Alolan Sandslash"
+                },
+                "requirement": "(use Ice Stone)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Defense Curl": "1",
+            "Scratch": "1",
+            "Poison Sting": "3",
+            "Sand Attack": "6",
+            "Rollout": "9",
+            "Fury Cutter": "12",
+            "Rapid Spin": "15",
+            "Bulldoze": "18",
+            "Swift": "21",
+            "Fury Swipes": "24",
+            "Agility": "27",
+            "Slash": "30",
+            "Dig": "33",
+            "Gyro Ball": "36",
+            "Swords Dance": "39",
+            "Sandstorm": "42",
+            "Earthquake": "45"
+        },
+        "egg": {
+            "Counter": null,
+            "Crush Claw": null,
+            "Flail": null,
+            "Hone Claws": null,
+            "Metal Claw": null,
+            "Mud Shot": null,
+            "Mud-Slap": null,
+            "Night Slash": null,
+            "Rapid Spin": null
+        },
+        "tm": {
+            "Focus Punch": "01",
+            "Work Up": "10",
+            "Sunny Day": "11",
+            "Protect": "17",
+            "Safeguard": "20",
+            "Iron Tail": "23",
+            "Earthquake": "26",
+            "Dig": "28",
+            "Brick Break": "31",
+            "Double Team": "32",
+            "Sandstorm": "37",
+            "Rock Tomb": "39",
+            "Aerial Ace": "40",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Fling": "56",
+            "Endure": "58",
+            "Shadow Claw": "65",
+            "Gyro Ball": "74",
+            "Swords Dance": "75",
+            "Stealth Rock": "76",
+            "Rock Slide": "80",
+            "X-Scissor": "81",
+            "Sleep Talk": "82",
+            "Bulldoze": "83",
+            "Poison Jab": "84",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Cut": "93",
+            "Strength": "96",
+            "Rock Smash": "98",
+            "Rock Climb": "100"
+        }
+    },
+    "entries": {
+        "Sandshrew": [
+            "Burrows deep underground in arid locations far from water. It only emerges to hunt for food.",
+            "Its body is dry. When it gets cold at night, its hide is said to become coated with a fine dew.",
+            "If it fell from a great height, this pok\u00e9mon could save itself by rolling into a ball and bouncing.",
+            "Disliking water, it lives in deep burrows in arid areas. It can roll itself instantly into a ball.",
+            "It prefers dry, sandy places because it uses the sand to protect itself when threatened.",
+            "SANDSHREW\u2019s body is configured to absorb water without waste, enabling it to survive in an arid desert. This pok\u00e9mon curls up to protect itself from its enemies.",
+            "SANDSHREW has a very dry hide that is extremely tough. The pok\u00e9mon can roll into a ball that repels any attack. At night, it burrows into the desert sand to sleep.",
+            "It burrows and lives underground. If threatened, it curls itself up into a ball for protection.",
+            "Burrows deep underground in arid locations far from water. It only emerges to hunt for prey.",
+            "When it curls up in a ball, it can make any attack bounce off harmlessly. Its hide has turned tough and solid as a result of living in the desert.",
+            "To protect itself from attackers, it curls up into a ball. It lives in arid regions with minimal rainfall.",
+            "If it fell from a great height, this Pok\u00e9mon could save itself by rolling into a ball and bouncing.",
+            "Disliking water, it lives in deep burrows in arid areas. It can roll itself instantly into a ball.",
+            "To protect itself from attackers, it curls up into a ball. It lives in arid regions with minimal rainfall.",
+            "It digs deep burrows to live in. When in danger, it rolls up its body to withstand attacks.",
+            "It burrows and lives underground. If threatened, it curls itself up into a ball for protection.",
+            "Disliking water, it lives in deep burrows in arid areas. It can roll itself instantly into a ball.",
+            "Sandshrew\u2019s body is configured to absorb water without waste, enabling it to survive in an arid desert. This Pok\u00e9mon curls up to protect itself from its enemies.",
+            "Sandshrew has a very dry hide that is extremely tough. The Pok\u00e9mon can roll into a ball that repels any attack. At night, it burrows into the desert sand to sleep.",
+            "It can roll its body into a ball. It moves through the desert by rolling at high speeds.",
+            "It usually makes its home in deserts and arid zones, where rain does not fall. It digs holes to catch Bug-type Pok\u00e9mon.",
+            "It lives in areas of limited rainfall. When danger approaches, it curls up into a ball to protect its soft stomach.",
+            "When its skin gets wrinkled from moisture, it heads for a volcano. It lies flat on a spot with a lot of geothermal heat and dries itself out.",
+            "Its body is dry. When it gets cold at night, its hide is said to become coated with a fine dew.",
+            "It loves to bathe in the grit of dry, sandy areas. By sand bathing, the Pok\u00e9mon rids itself of dirt and moisture clinging to its body.",
+            "It burrows into the ground to create its nest. If hard stones impede its tunneling, it uses its sharp claws to shatter them and then carries on digging.",
+            "To protect itself from attackers, it curls up into a ball. It lives in arid regions with minimal rainfall."
+        ],
+        "Alolan Sandshrew": [
+            "It lives on snowy mountains. Its steel shell is very hard\u2014so much so, it can\u2019t roll its body up into a ball.",
+            "An ancient tradition of Alolan festivals, still carried on to this day, is a competition to slide Sandshrew across ice as far as one can.",
+            "After fleeing a volcanic eruption, it ended up moving to an area of snowy mountains. Its ice shell is as hard as steel.",
+            "The skin on its back is as hard as steel. Predators go after its soft belly, so it clings to the ground desperately.",
+            "Its ice-covered body lets it slide across the ground with bullet-like speed, sending its enemies flying when it hits them.",
+            "Life on mountains covered with deep snow has granted this Pok\u00e9mon a body of ice that\u2019s as hard as steel.",
+            "It lives in snowy mountains on southern islands. When a blizzard rolls in, this Pok\u00e9mon hunkers down in the snow to avoid getting blown away."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131786800009072720/27.png",
+    "discord_sprite": "<:P27:1131973079661289553>"
+}

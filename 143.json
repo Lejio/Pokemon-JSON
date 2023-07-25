@@ -1,0 +1,238 @@
+{
+    "alt-version(s)": [],
+    "name": "Snorlax",
+    "Snorlax": {
+        "pokedex_data": {
+            "National No.": "0143",
+            "Type": [
+                "Normal"
+            ],
+            "Species": "Sleeping Poke\u0301mon",
+            "Height": "2.1 m (6\u203211\u2032\u2032)",
+            "Weight": "460.0 kg (1014.1 lbs)",
+            "Abilities": {
+                "Immunity": {
+                    "href": "/ability/immunity",
+                    "effect": "Prevents the Pok\u00e9mon from getting poisoned.",
+                    "hidden": false
+                },
+                "Thick Fat": {
+                    "href": "/ability/thick-fat",
+                    "effect": "Ups resistance to Fire- and Ice-type moves.",
+                    "hidden": false
+                },
+                "Gluttony": {
+                    "href": "/ability/gluttony",
+                    "effect": "Encourages the early use of a held Berry.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 HP",
+            "Catch rate": "25",
+            "BaseFriendship": "50",
+            "Base Exp.": "189",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "160",
+                "Min": "430",
+                "Max": "524"
+            },
+            "Attack": {
+                "Base": "110",
+                "Min": "202",
+                "Max": "350"
+            },
+            "Defense": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Atk": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Def": {
+                "Base": "110",
+                "Min": "202",
+                "Max": "350"
+            },
+            "Speed": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Total": "540"
+        },
+        "defense_stats": {
+            "Immunity ability": {
+                "Fighting": "super-effective",
+                "Ghost": "no effect"
+            },
+            "Thick Fat ability": {
+                "Fire": "not very effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Ghost": "no effect"
+            },
+            "Gluttony ability": {
+                "Fighting": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Munchlax",
+                    "nationalNo": "#0446",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Snorlax",
+                    "nationalNo": "#0143",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(high Friendship)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Block": "1",
+            "Covet": "1",
+            "Defense Curl": "1",
+            "Flail": "1",
+            "Fling": "1",
+            "Last Resort": "1",
+            "Lick": "1",
+            "Metronome": "1",
+            "Recycle": "1",
+            "Screech": "1",
+            "Stockpile": "1",
+            "Swallow": "1",
+            "Tackle": "1",
+            "Yawn": "12",
+            "Bite": "16",
+            "Rest": "20",
+            "Sleep Talk": "20",
+            "Snore": "20",
+            "Crunch": "24",
+            "Body Slam": "28",
+            "Heavy Slam": "32",
+            "Amnesia": "36",
+            "High Horsepower": "40",
+            "Hammer Arm": "44",
+            "Belly Drum": "48",
+            "Belch": "52",
+            "Giga Impact": "56"
+        },
+        "egg": {
+            "After You": null,
+            "Belch": null,
+            "Charm": null,
+            "Counter": null,
+            "Curse": null,
+            "Double-Edge": null,
+            "Fissure": null,
+            "Gastro Acid": null,
+            "Lick": null,
+            "Power-Up Punch": null,
+            "Whirlwind": null
+        },
+        "tm": {
+            "Focus Punch": "01",
+            "Water Pulse": "03",
+            "Work Up": "10",
+            "Sunny Day": "11",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Solar Beam": "22",
+            "Thunderbolt": "24",
+            "Thunder": "25",
+            "Earthquake": "26",
+            "Psychic": "29",
+            "Shadow Ball": "30",
+            "Brick Break": "31",
+            "Double Team": "32",
+            "Shock Wave": "34",
+            "Flamethrower": "35",
+            "Sandstorm": "37",
+            "Fire Blast": "38",
+            "Rock Tomb": "39",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Focus Blast": "52",
+            "Fling": "56",
+            "Endure": "58",
+            "Recycle": "67",
+            "Giga Impact": "68",
+            "Rock Slide": "80",
+            "Sleep Talk": "82",
+            "Bulldoze": "83",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Surf": "95",
+            "Strength": "96",
+            "Rock Smash": "98",
+            "Rock Climb": "100"
+        }
+    },
+    "entries": {
+        "Snorlax": [
+            "Very lazy. Just eats and sleeps. As its rotund bulk builds, it becomes steadily more slothful.",
+            "Will eat anything, even if the food happens to be a little moldy. It never gets an upset stomach.",
+            "What sounds like its cry may actually be its snores or the rumblings of its hungry belly.",
+            "Its stomach\u2019s digestive juices can dissolve any kind of poison. It can even eat things off the ground.",
+            "This pok\u00e9mon\u2019s stomach is so strong, even eating moldy or rotten food will not affect it.",
+            "SNORLAX\u2019s typical day consists of nothing more than eating and sleeping. It is such a docile pok\u00e9mon that there are children who use its expansive belly as a place to play.",
+            "It is not satisfied unless it eats over 880 pounds of food every day. When it is done eating, it goes promptly to sleep.",
+            "Very lazy. Just eats and sleeps. As its rotund bulk builds, it becomes steadily more slothful.",
+            "SNORLAX\u2019s typical day consists of nothing more than eating and sleeping. It is such a docile pok\u00e9mon that there are children who use its big belly as a place to play.",
+            "Its stomach can digest any kind of food, even if it happens to be moldy or rotten.",
+            "It stops eating only to sleep. It doesn\u2019t feel full unless it eats nearly 900 pounds a day.",
+            "When its belly is full, it becomes too lethargic to even lift a finger, so it is safe to bounce on its belly.",
+            "What sounds like its cry may actually be its snores or the rumblings of its hungry belly.",
+            "Its stomach\u2019s digestive juices can dissolve any kind of poison. It can even eat things off the ground.",
+            "When its belly is full, it becomes too lethargic to even lift a finger, so it is safe to bounce on its belly.",
+            "It is not satisfied unless it eats over 880 pounds of food every day. When it is done eating, it goes promptly to sleep.",
+            "Its stomach can digest any kind of food, even if it happens to be moldy or rotten.",
+            "Snorlax\u2019s typical day consists of nothing more than eating and sleeping. It is such a docile Pok\u00e9mon that there are children who use its expansive belly as a place to play.",
+            "Its stomach is said to be incomparably strong. Even Muk\u2019s poison is nothing more than a hint of spice on Snorlax\u2019s tongue.",
+            "It eats nearly 900 pounds of food every day. It starts nodding off while eating\u2014and continues to eat even while it\u2019s asleep.",
+            "It doesn\u2019t do anything other than eat and sleep. When prompted to make a serious effort, though, it apparently displays awesome power.",
+            "It has no interest in anything other than eating. Even if you climb up on its stomach while it\u2019s napping, it doesn\u2019t seem to mind at all!",
+            "Will eat anything, even if the food happens to be a little moldy. It never gets an upset stomach.",
+            "It is not satisfied unless it eats over 880 pounds of food every day. When it is done eating, it goes promptly to sleep.",
+            "This Pok\u00e9mon\u2019s stomach is so strong, even eating moldy or rotten food will not affect it.",
+            "Its stomach can digest any kind of food, even if it happens to be moldy or rotten.",
+            "It stops eating only to sleep. It doesn\u2019t feel full unless it eats nearly 900 pounds a day.",
+            "This glutton appears in villages without warning and devours the entirety of their rice granaries\u2014such occurrences have long been counted among the gravest of disasters."
+        ],
+        "Gigantamax": [
+            "Gigantamax energy has affected stray seeds and even pebbles that got stuck to Snorlax, making them grow to a huge size.",
+            "Terrifyingly strong, this Pok\u00e9mon is the size of a mountain\u2014and moves about as much as one as well."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787706725306420/143.png",
+    "discord_sprite": "<:P143:1132119027452477490>"
+}

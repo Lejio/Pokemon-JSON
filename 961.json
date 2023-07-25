@@ -1,0 +1,169 @@
+{
+    "alt-version(s)": [],
+    "name": "Wugtrio",
+    "Wugtrio": {
+        "pokedex_data": {
+            "National No.": "0961",
+            "Type": [
+                "Water"
+            ],
+            "Species": "Garden Eel Poke\u0301mon",
+            "Height": "1.2 m (3\u203211\u2032\u2032)",
+            "Weight": "5.4 kg (11.9 lbs)",
+            "Abilities": {
+                "Gooey": {
+                    "href": "/ability/gooey",
+                    "effect": "Contact with the Pok\u00e9mon lowers the attacker's Speed stat.",
+                    "hidden": false
+                },
+                "Rattled": {
+                    "href": "/ability/rattled",
+                    "effect": "Bug, Ghost or Dark type moves scare it and boost its Speed.",
+                    "hidden": false
+                },
+                "Sand Veil": {
+                    "href": "/ability/sand-veil",
+                    "effect": "Boosts the Pok\u00e9mon's evasion in a sandstorm.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Speed",
+            "Catch rate": "50",
+            "BaseFriendship": "50",
+            "Base Exp.": "149",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "35",
+                "Min": "180",
+                "Max": "274"
+            },
+            "Attack": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Defense": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Atk": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Def": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Speed": {
+                "Base": "120",
+                "Min": "220",
+                "Max": "372"
+            },
+            "Total": "425"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Wiglett",
+                    "nationalNo": "#0960",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Wugtrio",
+                    "nationalNo": "#0961",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 26)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Mud-Slap": "1",
+            "Sand Attack": "1",
+            "Water Gun": "1",
+            "Wrap": "1",
+            "Aqua Jet": "12",
+            "Slam": "16",
+            "Water Pulse": "20",
+            "Headbutt": "24",
+            "Triple Dive": "30",
+            "Dig": "36",
+            "Sucker Punch": "42",
+            "Throat Chop": "48",
+            "Liquidation": "54"
+        },
+        "egg": {
+            "Final Gambit": null,
+            "Memento": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Agility": "04",
+            "Mud-Slap": "05",
+            "Protect": "07",
+            "Water Pulse": "11",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Bulldoze": "28",
+            "Swift": "32",
+            "Mud Shot": "35",
+            "Endure": "47",
+            "Rain Dance": "50",
+            "Sandstorm": "51",
+            "Dig": "55",
+            "Foul Play": "62",
+            "Sleep Talk": "70",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Substitute": "103",
+            "Liquidation": "110",
+            "Surf": "123",
+            "Helping Hand": "130",
+            "Earth Power": "133",
+            "Ice Beam": "135",
+            "Hydro Pump": "142",
+            "Blizzard": "143",
+            "Giga Impact": "152",
+            "Hyper Beam": "163",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Wugtrio": [
+            "It has a vicious temperament, contrary to what its appearance may suggest. It wraps its long bodies around prey, then drags the prey into its den.",
+            "A variety of fish Pok\u00e9mon, Wugtrio was once considered to be a regional form of Dugtrio."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131794095673720852/961.png",
+    "discord_sprite": "<:P961:1132155077898027078>"
+}

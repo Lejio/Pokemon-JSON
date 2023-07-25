@@ -1,0 +1,168 @@
+{
+    "alt-version(s)": [],
+    "name": "Clobbopus",
+    "Clobbopus": {
+        "pokedex_data": {
+            "National No.": "0852",
+            "Type": [
+                "Fighting"
+            ],
+            "Species": "Tantrum Poke\u0301mon",
+            "Height": "0.6 m (2\u203200\u2032\u2032)",
+            "Weight": "4.0 kg (8.8 lbs)",
+            "Abilities": {
+                "Limber": {
+                    "href": "/ability/limber",
+                    "effect": "The Pok\u00e9mon is protected from paralysis.",
+                    "hidden": false
+                },
+                "Technician": {
+                    "href": "/ability/technician",
+                    "effect": "Powers up the Pok\u00e9mon's weaker moves.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack",
+            "Catch rate": "180",
+            "BaseFriendship": "50",
+            "Base Exp.": "62",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "50",
+                "Min": "210",
+                "Max": "304"
+            },
+            "Attack": {
+                "Base": "68",
+                "Min": "126",
+                "Max": "258"
+            },
+            "Defense": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Atk": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Def": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Speed": {
+                "Base": "32",
+                "Min": "62",
+                "Max": "179"
+            },
+            "Total": "310"
+        },
+        "defense_stats": {
+            "default": {
+                "Flying": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Dark": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Clobbopus",
+                    "nationalNo": "#0852",
+                    "type": [
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Grapploct",
+                    "nationalNo": "#0853",
+                    "type": [
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(after Taunt learned)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Leer": "1",
+            "Rock Smash": "1",
+            "Feint": "5",
+            "Bind": "10",
+            "Detect": "15",
+            "Brick Break": "20",
+            "Bulk Up": "25",
+            "Submission": "30",
+            "Taunt": "35",
+            "Reversal": "40",
+            "Superpower": "45"
+        },
+        "egg": {
+            "Circle Throw": null,
+            "Pain Split": null,
+            "Power-Up Punch": null,
+            "Seismic Toss": null,
+            "Soak": null,
+            "Sucker Punch": null
+        },
+        "null": {
+            "Body Slam": "01",
+            "Waterfall": "16",
+            "Substitute": "20",
+            "Reversal": "21",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Taunt": "37",
+            "Superpower": "39",
+            "Muddy Water": "45",
+            "Bulk Up": "48",
+            "Close Combat": "53",
+            "Focus Blast": "64",
+            "Work Up": "85",
+            "Liquidation": "98"
+        },
+        "tm": {
+            "Mega Punch": "00",
+            "Ice Punch": "04",
+            "Rest": "21",
+            "Snore": "24",
+            "Protect": "25",
+            "Attract": "31",
+            "Facade": "39",
+            "Revenge": "42",
+            "Brick Break": "43",
+            "Dive": "45",
+            "Mud Shot": "53",
+            "Brine": "55",
+            "Payback": "57",
+            "Round": "76",
+            "Retaliate": "79"
+        }
+    },
+    "entries": {
+        "Clobbopus": [
+            "It\u2019s very curious, but its means of investigating things is to try to punch them with its tentacles. The search for food is what brings it onto land.",
+            "Its tentacles tear off easily, but it isn\u2019t alarmed when that happens\u2014it knows they\u2019ll grow back. It\u2019s about as smart as a three-year-old."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793243001065472/852.png",
+    "discord_sprite": "<:P852:1132150288233549936>"
+}

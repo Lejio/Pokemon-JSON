@@ -1,0 +1,392 @@
+{
+    "alt-version(s)": [
+        "Alolan Diglett"
+    ],
+    "name": "Diglett",
+    "Diglett": {
+        "pokedex_data": {
+            "National No.": "0050",
+            "Type": [
+                "Ground"
+            ],
+            "Species": "Mole Poke\u0301mon",
+            "Height": "0.2 m (0\u203208\u2032\u2032)",
+            "Weight": "0.8 kg (1.8 lbs)",
+            "Abilities": {
+                "Sand Veil": {
+                    "href": "/ability/sand-veil",
+                    "effect": "Boosts the Pok\u00e9mon's evasion in a sandstorm.",
+                    "hidden": false
+                },
+                "Arena Trap": {
+                    "href": "/ability/arena-trap",
+                    "effect": "Prevents the foe from fleeing.",
+                    "hidden": false
+                },
+                "Sand Force": {
+                    "href": "/ability/sand-force",
+                    "effect": "Boosts certain moves' power in a sandstorm.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Speed",
+            "Catch rate": "255",
+            "BaseFriendship": "50",
+            "Base Exp.": "53",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "10",
+                "Min": "130",
+                "Max": "224"
+            },
+            "Attack": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Defense": {
+                "Base": "25",
+                "Min": "49",
+                "Max": "163"
+            },
+            "Sp. Atk": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Sp. Def": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Speed": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Total": "265"
+        },
+        "defense_stats": {
+            "default": {
+                "Water": "super-effective",
+                "Electric": "no effect",
+                "Grass": "super-effective",
+                "Ice": "super-effective",
+                "Poison": "not very effective",
+                "Rock": "not very effective"
+            }
+        }
+    },
+    "Alolan Diglett": {
+        "pokedex_data": {
+            "National No.": "0050",
+            "Type": [
+                "Ground",
+                "Steel"
+            ],
+            "Species": "Mole Poke\u0301mon",
+            "Height": "0.2 m (0\u203208\u2032\u2032)",
+            "Weight": "1.0 kg (2.2 lbs)",
+            "Abilities": {
+                "Sand Veil": {
+                    "href": "/ability/sand-veil",
+                    "effect": "Boosts the Pok\u00e9mon's evasion in a sandstorm.",
+                    "hidden": false
+                },
+                "Tangling Hair": {
+                    "href": "/ability/tangling-hair",
+                    "effect": "Contact with the Pok\u00e9mon lowers the attacker's Speed stat.",
+                    "hidden": false
+                },
+                "Sand Force": {
+                    "href": "/ability/sand-force",
+                    "effect": "Boosts certain moves' power in a sandstorm.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Speed",
+            "Catch rate": "255",
+            "BaseFriendship": "50",
+            "Base Exp.": "53",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "10",
+                "Min": "130",
+                "Max": "224"
+            },
+            "Attack": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Defense": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Sp. Atk": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Sp. Def": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Speed": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Total": "265"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Fire": "super-effective",
+                "Water": "super-effective",
+                "Electric": "no effect",
+                "Fighting": "super-effective",
+                "Poison": "no effect",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Dragon": "not very effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Diglett",
+                    "nationalNo": "#0050",
+                    "type": [
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Dugtrio",
+                    "nationalNo": "#0051",
+                    "type": [
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 26)",
+                "shed": null
+            }
+        ],
+        [
+            {
+                "from": {
+                    "name": "Diglett",
+                    "nationalNo": "#0050",
+                    "type": [
+                        "Ground",
+                        "Steel"
+                    ],
+                    "nickname": "Alolan Diglett"
+                },
+                "to": {
+                    "name": "Dugtrio",
+                    "nationalNo": "#0051",
+                    "type": [
+                        "Ground",
+                        "Steel"
+                    ],
+                    "nickname": "Alolan Dugtrio"
+                },
+                "requirement": "(Level 26)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "Diglett": {
+            "moves": {
+                "Sand Attack": "1",
+                "Scratch": "1",
+                "Growl": "4",
+                "Astonish": "8",
+                "Mud-Slap": "12",
+                "Bulldoze": "16",
+                "Sucker Punch": "20",
+                "Slash": "24",
+                "Sandstorm": "28",
+                "Dig": "32",
+                "Earth Power": "36",
+                "Earthquake": "40",
+                "Fissure": "44"
+            },
+            "egg": {
+                "Ancient Power": null,
+                "Final Gambit": null,
+                "Headbutt": null,
+                "Hone Claws": null,
+                "Memento": null
+            },
+            "tm": {
+                "Take Down": "01",
+                "Charm": "02",
+                "Agility": "04",
+                "Mud-Slap": "05",
+                "Protect": "07",
+                "Thief": "18",
+                "Facade": "25",
+                "Bulldoze": "28",
+                "Mud Shot": "35",
+                "Rock Tomb": "36",
+                "Endure": "47",
+                "Sunny Day": "49",
+                "Sandstorm": "51",
+                "Dig": "55",
+                "Shadow Claw": "61",
+                "Foul Play": "62",
+                "Body Slam": "66",
+                "Sleep Talk": "70",
+                "Rock Blast": "76",
+                "Stomping Tantrum": "84",
+                "Rest": "85",
+                "Rock Slide": "86",
+                "Swords Dance": "88",
+                "Substitute": "103",
+                "Stealth Rock": "116",
+                "Helping Hand": "130",
+                "Earth Power": "133",
+                "Reversal": "134",
+                "Sludge Bomb": "148",
+                "Earthquake": "149",
+                "Stone Edge": "150",
+                "Tera Blast": "171"
+            }
+        },
+        "Alolan Diglett": {
+            "moves": {
+                "Metal Claw": "1",
+                "Sand Attack": "1",
+                "Growl": "4",
+                "Astonish": "8",
+                "Mud-Slap": "12",
+                "Bulldoze": "16",
+                "Sucker Punch": "20",
+                "Iron Head": "24",
+                "Sandstorm": "28",
+                "Dig": "32",
+                "Earth Power": "36",
+                "Earthquake": "40",
+                "Fissure": "44"
+            },
+            "egg": {
+                "Ancient Power": null,
+                "Final Gambit": null,
+                "Headbutt": null,
+                "Hone Claws": null,
+                "Memento": null,
+                "Metal Sound": null,
+                "Thrash": null
+            },
+            "tm": {
+                "Take Down": "01",
+                "Charm": "02",
+                "Agility": "04",
+                "Mud-Slap": "05",
+                "Scary Face": "06",
+                "Protect": "07",
+                "Thief": "18",
+                "Facade": "25",
+                "Bulldoze": "28",
+                "Metal Claw": "31",
+                "Mud Shot": "35",
+                "Rock Tomb": "36",
+                "Endure": "47",
+                "Sunny Day": "49",
+                "Sandstorm": "51",
+                "Dig": "55",
+                "Shadow Claw": "61",
+                "Foul Play": "62",
+                "Body Slam": "66",
+                "Sleep Talk": "70",
+                "Rock Blast": "76",
+                "Stomping Tantrum": "84",
+                "Rest": "85",
+                "Rock Slide": "86",
+                "Swords Dance": "88",
+                "Flash Cannon": "93",
+                "Iron Head": "99",
+                "Substitute": "103",
+                "Iron Defense": "104",
+                "Stealth Rock": "116",
+                "Helping Hand": "130",
+                "Earth Power": "133",
+                "Reversal": "134",
+                "Sludge Bomb": "148",
+                "Earthquake": "149",
+                "Stone Edge": "150",
+                "Steel Beam": "170",
+                "Tera Blast": "171"
+            }
+        }
+    },
+    "entries": {
+        "Diglett": [
+            "Lives about one yard underground where it feeds on plant roots. It sometimes appears above ground.",
+            "It prefers dark places. It spends most of its time underground, though it may pop up in caves.",
+            "Its skin is very thin. If it is exposed to light, its blood heats up, causing it to grow weak.",
+            "If a DIGLETT DIGS through a field, it leaves the soil perfectly tilled and ideal for planting crops.",
+            "It digs underground and chews on tree roots, sticking its head out only when the sun isn\u2019t bright.",
+            "DIGLETT are raised in most farms. The reason is simple - wherever this pok\u00e9mon burrows, the soil is left perfectly tilled for planting crops. This soil is made ideal for growing delicious vegetables.",
+            "It burrows through the ground at a shallow depth. It leaves raised earth in its wake, making it easy to spot.",
+            "Lives about one yard underground where it feeds on plant roots. It sometimes appears aboveground.",
+            "DIGLETT are raised in most farms. The reason is simple--wherever they burrow, the soil is left perfectly tilled for growing delicious crops.",
+            "A Pok\u00e9mon that lives underground. Because of its dark habitat, it is repelled by bright sunlight.",
+            "Its skin is very thin. If it is exposed to light, its blood heats up, causing it to grow weak.",
+            "If a DIGLETT digs through a field, it leaves the soil perfectly tilled and ideal for planting crops.",
+            "A Pok\u00e9mon that lives underground. Because of its dark habitat, it is repelled by bright sunlight.",
+            "Lives about one yard underground where it feeds on plant roots. It sometimes appears aboveground.",
+            "Its skin is very thin. If it is exposed to light, its blood heats up, causing it to grow weak.",
+            "Diglett are raised in most farms. The reason is simple\u2014 wherever this Pok\u00e9mon burrows, the soil is left perfectly tilled for planting crops. This soil is made ideal for growing delicious vegetables.",
+            "It chews on plant roots underground. Farmers whose vegetables are vulnerable find it can be quite a pest.",
+            "Many farmers cherish and nurture Diglett because its droppings enrich the soil it lives in.",
+            "It travels through tunnels that it digs underground. It hates sunlight, so it comes out only after the sun goes down.",
+            "Around their crops, farmers plant the kind of tree that Diglett like to eat as a way of getting Diglett to plow the fields for them.",
+            "It prefers dark places. It spends most of its time underground, though it may pop up in caves.",
+            "If a Diglett digs through a field, it leaves the soil perfectly tilled and ideal for planting crops.",
+            "It burrows through the ground at a shallow depth. It leaves raised earth in its wake, making it easy to spot.",
+            "This Pok\u00e9mon lives underground. Because of its dark habitat, it is repelled by bright sunlight.",
+            "It lives about one yard underground, where it feeds on plant roots. It sometimes appears aboveground.",
+            "Its skin is very thin. If it is exposed to light, its blood heats up, causing it to grow weak."
+        ],
+        "Alolan Diglett": [
+            "Its head sports an altered form of whiskers made of metal. When in communication with its comrades, its whiskers wobble to and fro.",
+            "Its golden hairs function as sensors. It pokes them out of its burrow to monitor its surroundings.",
+            "Although it\u2019s powerful enough to dig right through volcanic rock, it doesn\u2019t allow itself to be seen very often.",
+            "The need to dig through volcanic rock in the ground has made them more powerful than the Diglett of other regions.",
+            "After living in soil with high iron content for some time, three steel whiskers sprouted from the top of its head.",
+            "The metal-rich geology of this Pok\u00e9mon\u2019s habitat caused it to develop steel whiskers on its head.",
+            "Its three hairs change shape depending on Diglett\u2019s mood. They\u2019re a useful communication tool among these Pok\u00e9mon."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131786981777604629/50.png",
+    "discord_sprite": "<:P50:1132114917588226169>"
+}

@@ -1,0 +1,193 @@
+{
+    "alt-version(s)": [],
+    "name": "Spinarak",
+    "Spinarak": {
+        "pokedex_data": {
+            "National No.": "0167",
+            "Type": [
+                "Bug",
+                "Poison"
+            ],
+            "Species": "String Spit Poke\u0301mon",
+            "Height": "0.5 m (1\u203208\u2032\u2032)",
+            "Weight": "8.5 kg (18.7 lbs)",
+            "Abilities": {
+                "Swarm": {
+                    "href": "/ability/swarm",
+                    "effect": "Powers up Bug-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Insomnia": {
+                    "href": "/ability/insomnia",
+                    "effect": "Prevents the Pok\u00e9mon from falling asleep.",
+                    "hidden": false
+                },
+                "Sniper": {
+                    "href": "/ability/sniper",
+                    "effect": "Powers up moves if they become critical hits.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack",
+            "Catch rate": "255",
+            "BaseFriendship": "50",
+            "Base Exp.": "50",
+            "Growth Rate": "Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "40",
+                "Min": "190",
+                "Max": "284"
+            },
+            "Attack": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Defense": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Atk": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Def": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Speed": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Total": "250"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Grass": "not very effective",
+                "Fighting": "not very effective",
+                "Poison": "not very effective",
+                "Flying": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Spinarak",
+                    "nationalNo": "#0167",
+                    "type": [
+                        "Bug",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Ariados",
+                    "nationalNo": "#0168",
+                    "type": [
+                        "Bug",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 22)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Poison Sting": "1",
+            "String Shot": "1",
+            "Absorb": "5",
+            "Infestation": "8",
+            "Scary Face": "12",
+            "Night Shade": "15",
+            "Shadow Sneak": "19",
+            "Fury Swipes": "22",
+            "Sucker Punch": "26",
+            "Leech Life": "29",
+            "Agility": "33",
+            "Pin Missile": "36",
+            "Psychic": "40",
+            "Poison Jab": "43",
+            "Cross Poison": "47",
+            "Sticky Web": "50",
+            "Toxic Thread": "54"
+        },
+        "egg": {
+            "Baton Pass": null,
+            "Disable": null,
+            "Lunge": null,
+            "Megahorn": null,
+            "Night Slash": null,
+            "Psybeam": null,
+            "Rage Powder": null,
+            "Toxic Spikes": null
+        },
+        "tm": {
+            "Sunny Day": "11",
+            "Protect": "17",
+            "Giga Drain": "19",
+            "Solar Beam": "22",
+            "Dig": "28",
+            "Psychic": "29",
+            "Double Team": "32",
+            "Sludge Bomb": "36",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Endure": "58",
+            "Bug Buzz": "62",
+            "Flash": "70",
+            "X-Scissor": "81",
+            "Sleep Talk": "82",
+            "Poison Jab": "84",
+            "Swagger": "87",
+            "Substitute": "90"
+        }
+    },
+    "entries": {
+        "Spinarak": [
+            "It lies still in the same pose for days in its web, waiting for its unsuspecting prey to wander close.",
+            "It spins a web using fine--but durable--thread. It then waits patiently for prey to be trapped.",
+            "If prey becomes ensnared in its nest of spun string, it waits motionlessly until it becomes dark.",
+            "The web spun by SPINARAK can be considered its second nervous system. It is said that this pok\u00e9mon can determine what kind of prey is touching its web just by the tiny vibrations it feels through the web\u2019s strands.",
+            "It spins a web using fine--but durable--thread. It then waits patiently for prey to be trapped.",
+            "It lies still in the same pose for days in its web, waiting for its unsuspecting prey to wander close.",
+            "The web it spins can be considered its second nervous system. It is said that a SPINARAK determines its prey by the tiny vibrations it feels through the web.",
+            "It sets a trap by spinning a web with thin but strong silk. It waits motionlessly for prey to arrive.",
+            "It lies still in the same pose for days in its web, waiting for its unsuspecting prey to wander close.",
+            "It spins a web using fine--but durable--thread. It then waits patiently for prey to be trapped.",
+            "It sets a trap by spinning a web with thin but strong silk. It waits motionlessly for prey to arrive.",
+            "It spins a web using fine--but durable--thread. It then waits patiently for prey to be trapped.",
+            "It lies still in the same pose for days in its web, waiting for its unsuspecting prey to wander close.",
+            "The web spun by Spinarak can be considered its second nervous system. It is said that this Pok\u00e9mon can determine what kind of prey is touching its web just by the tiny vibrations it feels through the web\u2019s strands.",
+            "It waits intently until its preferred prey, Cutiefly, gets caught in its web. In fact, it\u2019s quite a patient Pok\u00e9mon.",
+            "Some fishermen weave its sturdy thread into nets to catch fish Pok\u00e9mon.",
+            "With threads from its mouth, it fashions sturdy webs that won\u2019t break even if you set a rock on them.",
+            "Although the poison from its fangs isn\u2019t that strong, it\u2019s potent enough to weaken prey that gets caught in its web.",
+            "It sets a trap by spinning a web with thin but strong thread. It waits motionlessly for prey to arrive."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787895099899924/167.png",
+    "discord_sprite": "<:P167:1132120084370960414>"
+}

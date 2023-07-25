@@ -1,0 +1,191 @@
+{
+    "alt-version(s)": [],
+    "name": "Armaldo",
+    "Armaldo": {
+        "pokedex_data": {
+            "National No.": "0348",
+            "Type": [
+                "Rock",
+                "Bug"
+            ],
+            "Species": "Plate Poke\u0301mon",
+            "Height": "1.5 m (4\u203211\u2032\u2032)",
+            "Weight": "68.2 kg (150.4 lbs)",
+            "Abilities": {
+                "Battle Armor": {
+                    "href": "/ability/battle-armor",
+                    "effect": "The Pok\u00e9mon is protected against critical hits.",
+                    "hidden": false
+                },
+                "Swift Swim": {
+                    "href": "/ability/swift-swim",
+                    "effect": "Boosts the Pok\u00e9mon's Speed in rain.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "173",
+            "Growth Rate": "Erratic"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "75",
+                "Min": "260",
+                "Max": "354"
+            },
+            "Attack": {
+                "Base": "125",
+                "Min": "229",
+                "Max": "383"
+            },
+            "Defense": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Sp. Atk": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Def": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Speed": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Total": "495"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Water": "super-effective",
+                "Poison": "not very effective",
+                "Rock": "super-effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Anorith",
+                    "nationalNo": "#0347",
+                    "type": [
+                        "Rock",
+                        "Bug"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Armaldo",
+                    "nationalNo": "#0348",
+                    "type": [
+                        "Rock",
+                        "Bug"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 40)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Fury Cutter": "1",
+            "Harden": "1",
+            "Smack Down": "1",
+            "Water Gun": "1",
+            "Metal Claw": "12",
+            "Ancient Power": "16",
+            "Bug Bite": "20",
+            "Brine": "24",
+            "Slash": "28",
+            "Crush Claw": "32",
+            "Rock Blast": "36",
+            "Protect": "43",
+            "X-Scissor": "48"
+        },
+        "egg": {
+            "Aqua Jet": null,
+            "Cross Poison": null,
+            "Curse": null,
+            "Iron Defense": null,
+            "Knock Off": null,
+            "Rapid Spin": null,
+            "Sand Attack": null,
+            "Screech": null
+        },
+        "tm": {
+            "Water Pulse": "03",
+            "Sunny Day": "11",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Iron Tail": "23",
+            "Earthquake": "26",
+            "Dig": "28",
+            "Brick Break": "31",
+            "Double Team": "32",
+            "Sandstorm": "37",
+            "Rock Tomb": "39",
+            "Aerial Ace": "40",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "False Swipe": "54",
+            "Brine": "55",
+            "Endure": "58",
+            "Shadow Claw": "65",
+            "Giga Impact": "68",
+            "Rock Polish": "69",
+            "Stone Edge": "71",
+            "Swords Dance": "75",
+            "Stealth Rock": "76",
+            "Rock Slide": "80",
+            "X-Scissor": "81",
+            "Sleep Talk": "82",
+            "Bulldoze": "83",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Flash Cannon": "91",
+            "Cut": "93",
+            "Strength": "96",
+            "Rock Smash": "98"
+        }
+    },
+    "entries": {
+        "Armaldo": [
+            "ARMALDO\u2019s tough armor makes all attacks bounce off. This pok\u00e9mon\u2019s two enormous claws can be freely extended or contracted. They have the power to punch right through a steel slab.",
+            "ARMALDO is a pok\u00e9mon species that became extinct in prehistoric times. This pok\u00e9mon is said to have walked on its hind legs, which would have been more convenient for life on land.",
+            "Protected by a hard shell, its body is very sturdy. It skewers prey with its claws to feed.",
+            "ARMALDO usually lives on land. However, when it hunts for prey, it dives beneath the ocean. It swims around using its two large wings.",
+            "It went ashore after evolving. Its entire body is clad in a sturdy armor.",
+            "Its enormous, retractable claws can cut through most anything. Its entire body is clad in sturdy plates.",
+            "It went ashore after evolving. Its entire body is clad in a sturdy armor.",
+            "Its enormous, retractable claws can cut through most anything. Its entire body is clad in sturdy plates.",
+            "Protected by a hard shell, its body is very sturdy. It skewers prey with its claws to feed.",
+            "Armaldo\u2019s tough armor makes all attacks bounce off. This Pok\u00e9mon\u2019s two enormous claws can be freely extended or contracted. They have the power to punch right through a steel slab.",
+            "Armaldo is a Pok\u00e9mon species that became extinct in prehistoric times. This Pok\u00e9mon is said to have walked on its hind legs, which would have been more convenient for life on land.",
+            "It lived on land and went out into the sea to hunt for prey. Its sharp claws were its greatest weapon.",
+            "Armaldo adapted from living in water to living on land. It has been determined that it is the ancestor of some bug Pok\u00e9mon.",
+            "After evolution, this Pok\u00e9mon emerged onto land. Its lower body has become stronger, and blows from its tail are devastating.",
+            "Though it lives on land, it\u2019s also a good swimmer. It dives into the ocean in search of prey, using its sharp claws to take down its quarry.",
+            "It went ashore after evolving. Its entire body is clad in a sturdy armor."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789320374714538/348.png",
+    "discord_sprite": "<:P348:1132128049446539314>"
+}

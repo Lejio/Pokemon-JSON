@@ -1,0 +1,200 @@
+{
+    "alt-version(s)": [],
+    "name": "Floragato",
+    "Floragato": {
+        "pokedex_data": {
+            "National No.": "0907",
+            "Type": [
+                "Grass"
+            ],
+            "Species": "Grass Cat Poke\u0301mon",
+            "Height": "0.9 m (2\u203211\u2032\u2032)",
+            "Weight": "12.2 kg (26.9 lbs)",
+            "Abilities": {
+                "Overgrow": {
+                    "href": "/ability/overgrow",
+                    "effect": "Powers up Grass-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Protean": {
+                    "href": "/ability/protean",
+                    "effect": "Changes the Pok\u00e9mon's type to its last used move.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Speed",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "144",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "61",
+                "Min": "232",
+                "Max": "326"
+            },
+            "Attack": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Defense": {
+                "Base": "63",
+                "Min": "117",
+                "Max": "247"
+            },
+            "Sp. Atk": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Def": {
+                "Base": "63",
+                "Min": "117",
+                "Max": "247"
+            },
+            "Speed": {
+                "Base": "83",
+                "Min": "153",
+                "Max": "291"
+            },
+            "Total": "410"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Poison": "super-effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Bug": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Sprigatito",
+                    "nationalNo": "#0906",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Floragato",
+                    "nationalNo": "#0907",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 16)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Floragato",
+                    "nationalNo": "#0907",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Meowscarada",
+                    "nationalNo": "#0908",
+                    "type": [
+                        "Grass",
+                        "Dark"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 36)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Leafage": "1",
+            "Scratch": "1",
+            "Tail Whip": "1",
+            "Bite": "7",
+            "Hone Claws": "10",
+            "Magical Leaf": "13",
+            "Quick Attack": "15",
+            "Seed Bomb": "20",
+            "U-turn": "24",
+            "Worry Seed": "28",
+            "Slash": "33",
+            "Energy Ball": "38",
+            "Play Rough": "42",
+            "Leaf Storm": "46"
+        },
+        "egg": {
+            "Ally Switch": null,
+            "Copycat": null,
+            "Leech Seed": null,
+            "Petal Blizzard": null,
+            "Sucker Punch": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Charm": "02",
+            "Fake Tears": "03",
+            "Agility": "04",
+            "Mud-Slap": "05",
+            "Protect": "07",
+            "Low Kick": "12",
+            "Acrobatics": "14",
+            "Disarming Voice": "19",
+            "Trailblaze": "20",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Swift": "32",
+            "Magical Leaf": "33",
+            "Low Sweep": "39",
+            "Fling": "43",
+            "Endure": "47",
+            "Bullet Seed": "56",
+            "U-turn": "60",
+            "Shadow Claw": "61",
+            "Thunder Punch": "68",
+            "Sleep Talk": "70",
+            "Seed Bomb": "71",
+            "Grass Knot": "81",
+            "Rest": "85",
+            "Taunt": "87",
+            "Substitute": "103",
+            "Giga Drain": "111",
+            "Energy Ball": "119",
+            "Play Rough": "127",
+            "Helping Hand": "130",
+            "Grassy Terrain": "137",
+            "Nasty Plot": "140",
+            "Grass Pledge": "146",
+            "Leaf Storm": "159",
+            "Solar Beam": "168",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Floragato": [
+            "Floragato deftly wields the vine hidden beneath its long fur, slamming the hard flower bud against its opponents.",
+            "The hardness of Floragato\u2019s fur depends on the Pok\u00e9mon\u2019s mood. When Floragato is prepared to battle, its fur becomes pointed and needle sharp."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793671981912105/907.png",
+    "discord_sprite": "<:P907:1132152708615389284>"
+}

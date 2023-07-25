@@ -1,0 +1,172 @@
+{
+    "alt-version(s)": [],
+    "name": "Shuckle",
+    "Shuckle": {
+        "pokedex_data": {
+            "National No.": "0213",
+            "Type": [
+                "Bug",
+                "Rock"
+            ],
+            "Species": "Mold Poke\u0301mon",
+            "Height": "0.6 m (2\u203200\u2032\u2032)",
+            "Weight": "20.5 kg (45.2 lbs)",
+            "Abilities": {
+                "Sturdy": {
+                    "href": "/ability/sturdy",
+                    "effect": "It cannot be knocked out with one hit.",
+                    "hidden": false
+                },
+                "Gluttony": {
+                    "href": "/ability/gluttony",
+                    "effect": "Encourages the early use of a held Berry.",
+                    "hidden": false
+                },
+                "Contrary": {
+                    "href": "/ability/contrary",
+                    "effect": "Makes stat changes have an opposite effect.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Defense, 1 Sp. Def",
+            "Catch rate": "190",
+            "BaseFriendship": "50",
+            "Base Exp.": "177",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "20",
+                "Min": "150",
+                "Max": "244"
+            },
+            "Attack": {
+                "Base": "10",
+                "Min": "22",
+                "Max": "130"
+            },
+            "Defense": {
+                "Base": "230",
+                "Min": "418",
+                "Max": "614"
+            },
+            "Sp. Atk": {
+                "Base": "10",
+                "Min": "22",
+                "Max": "130"
+            },
+            "Sp. Def": {
+                "Base": "230",
+                "Min": "418",
+                "Max": "614"
+            },
+            "Speed": {
+                "Base": "5",
+                "Min": "13",
+                "Max": "119"
+            },
+            "Total": "505"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Water": "super-effective",
+                "Poison": "not very effective",
+                "Rock": "super-effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Withdraw": "1",
+            "Wrap": "1",
+            "Rollout": "5",
+            "Struggle Bug": "10",
+            "Rock Throw": "15",
+            "Safeguard": "20",
+            "Rest": "25",
+            "Bug Bite": "30",
+            "Guard Split": "35",
+            "Power Split": "35",
+            "Rock Slide": "40",
+            "Gastro Acid": "45",
+            "Sticky Web": "50",
+            "Power Trick": "55",
+            "Stone Edge": "60",
+            "Shell Smash": "65"
+        },
+        "egg": {
+            "Acid": null,
+            "Acupressure": null,
+            "Covet": null,
+            "Defense Curl": null,
+            "Final Gambit": null,
+            "Helping Hand": null,
+            "Infestation": null,
+            "Knock Off": null,
+            "Mud-Slap": null,
+            "Rock Blast": null,
+            "Sand Tomb": null,
+            "Sweet Scent": null
+        },
+        "tm": {
+            "Toxic": "06",
+            "Sunny Day": "11",
+            "Protect": "17",
+            "Safeguard": "20",
+            "Earthquake": "26",
+            "Dig": "28",
+            "Double Team": "32",
+            "Sludge Bomb": "36",
+            "Sandstorm": "37",
+            "Rock Tomb": "39",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Endure": "58",
+            "Rock Polish": "69",
+            "Flash": "70",
+            "Stone Edge": "71",
+            "Gyro Ball": "74",
+            "Stealth Rock": "76",
+            "Rock Slide": "80",
+            "Sleep Talk": "82",
+            "Bulldoze": "83",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Strength": "96",
+            "Rock Smash": "98"
+        }
+    },
+    "entries": {
+        "Shuckle": [
+            "The BERRIES it stores in its vase-like shell decompose and become a gooey liquid.",
+            "It stores BERRIES inside its shell. To avoid attacks, it hides beneath rocks and remains completely still.",
+            "The fluid secreted by its toes carves holes in rocks for nesting and can be mixed with BERRIES to make a drink.",
+            "SHUCKLE quietly hides itself under rocks, keeping its body concealed inside its hard shell while eating berries it has stored away. The berries mix with its body fluids to become a juice.",
+            "It stores BERRIES inside its shell. To avoid attacks, it hides beneath rocks and remains completely still.",
+            "The BERRIES it stores in its vaselike shell decompose and become a gooey liquid.",
+            "A SHUCKLE hides under rocks, keeping its body concealed inside its shell while eating stored berries. The berries mix with its body fluids to become a juice.",
+            "It stores berries in its shell. The berries eventually ferment to become delicious juices.",
+            "The berries it stores in its vase-like shell decompose and become a gooey liquid.",
+            "It stores berries inside its shell. To avoid attacks, it hides beneath rocks and remains completely still.",
+            "It stores berries in its shell. The berries eventually ferment to become delicious juices.",
+            "The berries stored in its vaselike shell eventually become a thick, pulpy juice.",
+            "The berries stored in its jar-like shell eventually become a thick, pulpy juice.",
+            "It stores berries inside its shell. To avoid attacks, it hides beneath rocks and remains completely still.",
+            "Shuckle quietly hides itself under rocks, keeping its body concealed inside its hard shell while eating berries it has stored away. The berries mix with its body fluids to become a juice.",
+            "It stores berries inside its shell. To avoid attacks, it hides beneath rocks and remains completely still.",
+            "The berries stored in its vaselike shell eventually become a thick, pulpy juice.",
+            "It stores berries in its shell. The berries mix with its body fluids to become delicious juices."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788257403867217/213.png",
+    "discord_sprite": "<:P213:1132122103567613992>"
+}

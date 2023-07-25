@@ -1,0 +1,181 @@
+{
+    "alt-version(s)": [],
+    "name": "Mabosstiff",
+    "Mabosstiff": {
+        "pokedex_data": {
+            "National No.": "0943",
+            "Type": [
+                "Dark"
+            ],
+            "Species": "Boss Poke\u0301mon",
+            "Height": "1.1 m (3\u203207\u2032\u2032)",
+            "Weight": "61.0 kg (134.5 lbs)",
+            "Abilities": {
+                "Intimidate": {
+                    "href": "/ability/intimidate",
+                    "effect": "Lowers the foe's Attack stat.",
+                    "hidden": false
+                },
+                "Guard Dog": {
+                    "href": "/ability/guard-dog",
+                    "effect": "Boosts Attack if intimidated, and prevents being forced to switch out.",
+                    "hidden": false
+                },
+                "Stakeout": {
+                    "href": "/ability/stakeout",
+                    "effect": "Deals double damage to Pok\u00e9mon switching in.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "75",
+            "BaseFriendship": "50",
+            "Base Exp.": "177",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "80",
+                "Min": "270",
+                "Max": "364"
+            },
+            "Attack": {
+                "Base": "120",
+                "Min": "220",
+                "Max": "372"
+            },
+            "Defense": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Sp. Atk": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Def": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Speed": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Total": "505"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "super-effective",
+                "Psychic": "no effect",
+                "Bug": "super-effective",
+                "Ghost": "not very effective",
+                "Dark": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Maschiff",
+                    "nationalNo": "#0942",
+                    "type": [
+                        "Dark"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Mabosstiff",
+                    "nationalNo": "#0943",
+                    "type": [
+                        "Dark"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 30)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Leer": "1",
+            "Scary Face": "1",
+            "Tackle": "1",
+            "Lick": "4",
+            "Snarl": "7",
+            "Hone Claws": "10",
+            "Bite": "14",
+            "Roar": "18",
+            "Headbutt": "22",
+            "Payback": "26",
+            "Crunch": "34",
+            "Swagger": "39",
+            "Reversal": "43",
+            "Jaw Lock": "48",
+            "Double-Edge": "55",
+            "Outrage": "60"
+        },
+        "evolution": {
+            "Comeuppance": "1"
+        },
+        "egg": {
+            "Destiny Bond": null,
+            "Endeavor": null,
+            "Play Rough": null,
+            "Retaliate": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Charm": "02",
+            "Fake Tears": "03",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Fire Fang": "08",
+            "Thunder Fang": "09",
+            "Ice Fang": "10",
+            "Thief": "18",
+            "Trailblaze": "20",
+            "Facade": "25",
+            "Snarl": "30",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Dig": "55",
+            "Psychic Fangs": "63",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Rest": "85",
+            "Taunt": "87",
+            "Dark Pulse": "94",
+            "Substitute": "103",
+            "Crunch": "108",
+            "Hyper Voice": "117",
+            "Play Rough": "127",
+            "Helping Hand": "130",
+            "Reversal": "134",
+            "Wild Charge": "147",
+            "Giga Impact": "152",
+            "Outrage": "156",
+            "Hyper Beam": "163",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Mabosstiff": [
+            "This Pok\u00e9mon can store energy in its large dewlap. Mabosstiff unleashes this energy all at once to blow away enemies.",
+            "Mabosstiff loves playing with children. Though usually gentle, it takes on an intimidating look when protecting its family."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793956880007168/943.png",
+    "discord_sprite": "<:P943:1132154288471285851>"
+}

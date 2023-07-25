@@ -1,0 +1,195 @@
+{
+    "alt-version(s)": [],
+    "name": "Lechonk",
+    "Lechonk": {
+        "pokedex_data": {
+            "National No.": "0915",
+            "Type": [
+                "Normal"
+            ],
+            "Species": "Hog Poke\u0301mon",
+            "Height": "0.5 m (1\u203208\u2032\u2032)",
+            "Weight": "10.2 kg (22.5 lbs)",
+            "Abilities": {
+                "Aroma Veil": {
+                    "href": "/ability/aroma-veil",
+                    "effect": "Protects allies from attacks that limit their move choices.",
+                    "hidden": false
+                },
+                "Gluttony": {
+                    "href": "/ability/gluttony",
+                    "effect": "Encourages the early use of a held Berry.",
+                    "hidden": false
+                },
+                "Thick Fat": {
+                    "href": "/ability/thick-fat",
+                    "effect": "Ups resistance to Fire- and Ice-type moves.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 HP",
+            "Catch rate": "255",
+            "BaseFriendship": "50",
+            "Base Exp.": "51",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "54",
+                "Min": "218",
+                "Max": "312"
+            },
+            "Attack": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Defense": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Atk": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Sp. Def": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Speed": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Total": "254"
+        },
+        "defense_stats": {
+            "Aroma Veil ability": {
+                "Fighting": "super-effective",
+                "Ghost": "no effect"
+            },
+            "Gluttony ability": {
+                "Fighting": "super-effective",
+                "Ghost": "no effect"
+            },
+            "Thick Fat ability": {
+                "Fire": "not very effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Lechonk",
+                    "nationalNo": "#0915",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Oinkologne",
+                    "nationalNo": "#0916",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": "Male"
+                },
+                "requirement": "(Level 18, Male)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Lechonk",
+                    "nationalNo": "#0915",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Oinkologne",
+                    "nationalNo": "#0916",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": "Female"
+                },
+                "requirement": "(Level 18, Female)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Tackle": "1",
+            "Tail Whip": "1",
+            "Disarming Voice": "5",
+            "Echoed Voice": "8",
+            "Mud Shot": "12",
+            "Covet": "15",
+            "Dig": "17",
+            "Headbutt": "21",
+            "Yawn": "24",
+            "Take Down": "27",
+            "Work Up": "30",
+            "Uproar": "32",
+            "Double-Edge": "35"
+        },
+        "egg": {
+            "Endeavor": null,
+            "Spit Up": null,
+            "Stockpile": null,
+            "Stuff Cheeks": null,
+            "Swallow": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Mud-Slap": "05",
+            "Protect": "07",
+            "Thief": "18",
+            "Disarming Voice": "19",
+            "Trailblaze": "20",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Bulldoze": "28",
+            "Mud Shot": "35",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Dig": "55",
+            "Bullet Seed": "56",
+            "Zen Headbutt": "59",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Seed Bomb": "71",
+            "Rest": "85",
+            "Iron Head": "99",
+            "Substitute": "103",
+            "Hyper Voice": "117",
+            "Play Rough": "127",
+            "Helping Hand": "130",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Lechonk": [
+            "It searches for food all day. It possesses a keen sense of smell but doesn\u2019t use it for anything other than foraging.",
+            "This Pok\u00e9mon spurns all but the finest of foods. Its body gives off an herblike scent that bug Pok\u00e9mon detest."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793735810822174/915.png",
+    "discord_sprite": "<:P915:1132153058902691961>"
+}

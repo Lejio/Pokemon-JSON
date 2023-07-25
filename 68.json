@@ -1,0 +1,241 @@
+{
+    "alt-version(s)": [],
+    "name": "Machamp",
+    "Machamp": {
+        "pokedex_data": {
+            "National No.": "0068",
+            "Type": [
+                "Fighting"
+            ],
+            "Species": "Superpower Poke\u0301mon",
+            "Height": "1.6 m (5\u203203\u2032\u2032)",
+            "Weight": "130.0 kg (286.6 lbs)",
+            "Abilities": {
+                "Guts": {
+                    "href": "/ability/guts",
+                    "effect": "Boosts Attack if there is a status problem.",
+                    "hidden": false
+                },
+                "No Guard": {
+                    "href": "/ability/no-guard",
+                    "effect": "Ensures attacks by or against the Pok\u00e9mon land.",
+                    "hidden": false
+                },
+                "Steadfast": {
+                    "href": "/ability/steadfast",
+                    "effect": "Raises Speed each time the Pok\u00e9mon flinches.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Attack",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "227",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "75% male,25% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "90",
+                "Min": "290",
+                "Max": "384"
+            },
+            "Attack": {
+                "Base": "130",
+                "Min": "238",
+                "Max": "394"
+            },
+            "Defense": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Sp. Atk": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Def": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Speed": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Total": "505"
+        },
+        "defense_stats": {
+            "default": {
+                "Flying": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Dark": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Machop",
+                    "nationalNo": "#0066",
+                    "type": [
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Machoke",
+                    "nationalNo": "#0067",
+                    "type": [
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 28)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Machoke",
+                    "nationalNo": "#0067",
+                    "type": [
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Machamp",
+                    "nationalNo": "#0068",
+                    "type": [
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Trade)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Focus Energy": "1",
+            "Leer": "1",
+            "Low Kick": "1",
+            "Revenge": "1",
+            "Wide Guard": "1",
+            "Low Sweep": "12",
+            "Knock Off": "16",
+            "Scary Face": "20",
+            "Vital Throw": "24",
+            "Strength": "31",
+            "Dual Chop": "36",
+            "Bulk Up": "42",
+            "Seismic Toss": "48",
+            "Dynamic Punch": "54",
+            "Cross Chop": "60",
+            "Double-Edge": "66"
+        },
+        "egg": {
+            "Bullet Punch": null,
+            "Close Combat": null,
+            "Counter": null,
+            "Encore": null,
+            "Fire Punch": null,
+            "Heavy Slam": null,
+            "Ice Punch": null,
+            "Knock Off": null,
+            "Power Trick": null,
+            "Quick Guard": null,
+            "Submission": null,
+            "Thunder Punch": null,
+            "Tickle": null
+        },
+        "tm": {
+            "Focus Punch": "01",
+            "Bulk Up": "08",
+            "Work Up": "10",
+            "Sunny Day": "11",
+            "Hyper Beam": "15",
+            "Light Screen": "16",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Earthquake": "26",
+            "Low Sweep": "27",
+            "Dig": "28",
+            "Brick Break": "31",
+            "Double Team": "32",
+            "Flamethrower": "35",
+            "Fire Blast": "38",
+            "Rock Tomb": "39",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Focus Blast": "52",
+            "Fling": "56",
+            "Endure": "58",
+            "Payback": "66",
+            "Giga Impact": "68",
+            "Stone Edge": "71",
+            "Rock Slide": "80",
+            "Sleep Talk": "82",
+            "Bulldoze": "83",
+            "Poison Jab": "84",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Strength": "96",
+            "Rock Smash": "98",
+            "Rock Climb": "100"
+        }
+    },
+    "entries": {
+        "Machamp": [
+            "Using its heavy muscles, it throws powerful punches that can send the victim clear over the horizon.",
+            "One arm alone can move mountains. Using all four arms, this pok\u00e9mon fires off awesome punches.",
+            "It quickly swings its four arms to rock its opponents with ceaseless punches and chops from all angles.",
+            "It uses its four powerful arms to pin the limbs of its foe, then throws the victim over the horizon.",
+            "With four arms that react more quickly than it can think, it can execute many punches at once.",
+            "MACHAMP has the power to hurl anything aside. However, trying to do any work requiring care and dexterity causes its arms to get tangled. This pok\u00e9mon tends to leap into action before it thinks.",
+            "MACHAMP is known as the pok\u00e9mon that has mastered every kind of martial arts. If it grabs hold of the foe with its four arms, the battle is all but over. The hapless foe is thrown far over the horizon.",
+            "Its four ruggedly developed arms can launch a flurry of 1,000 punches in just two seconds.",
+            "Its superpowerful punches are said to knock the victim flying clear over the horizon.",
+            "It is impossible to defend against punches and chops doled out by its four arms. Its fighting spirit flares up when it faces a tough opponent.",
+            "It punches with its four arms at blinding speed. It can launch 1,000 punches in two seconds.",
+            "It can knock a train flying with a punch. However, it is terrible at delicate work using its fingers.",
+            "Its four muscled arms slam foes with powerful punches and chops at blinding speed.",
+            "It quickly swings its four arms to rock its opponents with ceaseless punches and chops from all angles.",
+            "It uses its four powerful arms to pin the limbs of its foe, then throws the victim over the horizon.",
+            "Its four muscled arms slam foes with powerful punches and chops at blinding speed.",
+            "Its four ruggedly developed arms can launch a flurry of 1,000 punches in just two seconds.",
+            "It uses its four powerful arms to pin the limbs of its foe, then throws the victim over the horizon.",
+            "Machamp has the power to hurl anything aside. However, trying to do any work requiring care and dexterity causes its arms to get tangled. This Pok\u00e9mon tends to leap into action before it thinks.",
+            "Machamp is known as the Pok\u00e9mon that has mastered every kind of martial arts. If it grabs hold of the foe with its four arms, the battle is all but over. The hapless foe is thrown far over the horizon.",
+            "It unleashes megaton-level punches that send opponents flying clear over the horizon.",
+            "It can lift heavy loads with the greatest of ease. It can even heft dump trucks. But its clumsy fingers prevent it from doing any precision work.",
+            "It grasps its opponents with its four arms and twists them up in an intricate hold. People call it \u201cthe Machamp special.\u201d",
+            "With four arms, it can attack and defend simultaneously. It\u2019s said to have mastered every martial art in the world.",
+            "One arm alone can move mountains. Using all four arms, this Pok\u00e9mon fires off awesome punches.",
+            "It quickly swings its four arms to rock its opponents with ceaseless punches and chops from all angles.",
+            "With four arms that react more quickly than it can think, it can execute many punches at once.",
+            "It punches with its four arms at blinding speed. It can launch 1,000 punches in two seconds.",
+            "It can knock a train flying with a punch. However, it is terrible at delicate work using its fingers.",
+            "In close combat, its four arms afford it offensive and defensive supremacy. In but a blink, this valiant Pok\u00e9mon can overwhelm its foes with more than 1,000 blows from its fists."
+        ],
+        "Gigantamax": [
+            "The Gigantamax energy coursing through its arms makes its punches hit as hard as bomb blasts.",
+            "One of these Pok\u00e9mon once used its immeasurable strength to lift a large ship that was in trouble. It then carried the ship to port."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787121921888257/68.png",
+    "discord_sprite": "<:P68:1132115711783870544>"
+}

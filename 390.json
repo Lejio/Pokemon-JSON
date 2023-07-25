@@ -1,0 +1,216 @@
+{
+    "alt-version(s)": [],
+    "name": "Chimchar",
+    "Chimchar": {
+        "pokedex_data": {
+            "National No.": "0390",
+            "Type": [
+                "Fire"
+            ],
+            "Species": "Chimp Poke\u0301mon",
+            "Height": "0.5 m (1\u203208\u2032\u2032)",
+            "Weight": "6.2 kg (13.7 lbs)",
+            "Abilities": {
+                "Blaze": {
+                    "href": "/ability/blaze",
+                    "effect": "Powers up Fire-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Iron Fist": {
+                    "href": "/ability/iron-fist",
+                    "effect": "Boosts the power of punching moves.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Speed",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "62",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "44",
+                "Min": "198",
+                "Max": "292"
+            },
+            "Attack": {
+                "Base": "58",
+                "Min": "108",
+                "Max": "236"
+            },
+            "Defense": {
+                "Base": "44",
+                "Min": "83",
+                "Max": "205"
+            },
+            "Sp. Atk": {
+                "Base": "58",
+                "Min": "108",
+                "Max": "236"
+            },
+            "Sp. Def": {
+                "Base": "44",
+                "Min": "83",
+                "Max": "205"
+            },
+            "Speed": {
+                "Base": "61",
+                "Min": "114",
+                "Max": "243"
+            },
+            "Total": "309"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Ground": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Chimchar",
+                    "nationalNo": "#0390",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Monferno",
+                    "nationalNo": "#0391",
+                    "type": [
+                        "Fire",
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 14)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Monferno",
+                    "nationalNo": "#0391",
+                    "type": [
+                        "Fire",
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Infernape",
+                    "nationalNo": "#0392",
+                    "type": [
+                        "Fire",
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 36)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Leer": "1",
+            "Scratch": "1",
+            "Ember": "6",
+            "Taunt": "9",
+            "Power-Up Punch": "12",
+            "Fury Swipes": "15",
+            "Flame Wheel": "17",
+            "Nasty Plot": "23",
+            "Torment": "25",
+            "Facade": "31",
+            "Fire Spin": "33",
+            "Acrobatics": "39",
+            "Slack Off": "41",
+            "Flamethrower": "47"
+        },
+        "egg": {
+            "Blaze Kick": null,
+            "Counter": null,
+            "Double Kick": null,
+            "Encore": null,
+            "Fake Out": null,
+            "Fire Punch": null,
+            "Focus Energy": null,
+            "Heat Wave": null,
+            "Helping Hand": null,
+            "Power-Up Punch": null,
+            "Quick Guard": null,
+            "Submission": null,
+            "Thunder Punch": null
+        },
+        "tm": {
+            "Focus Punch": "01",
+            "Bulk Up": "08",
+            "Work Up": "10",
+            "Sunny Day": "11",
+            "Taunt": "12",
+            "Protect": "17",
+            "Iron Tail": "23",
+            "Low Sweep": "27",
+            "Dig": "28",
+            "Brick Break": "31",
+            "Double Team": "32",
+            "Flamethrower": "35",
+            "Fire Blast": "38",
+            "Aerial Ace": "40",
+            "Torment": "41",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Overheat": "50",
+            "Fling": "56",
+            "Endure": "58",
+            "Will-O-Wisp": "61",
+            "Nasty Plot": "63",
+            "Shadow Claw": "65",
+            "Swords Dance": "75",
+            "Stealth Rock": "76",
+            "Sleep Talk": "82",
+            "Grass Knot": "86",
+            "Swagger": "87",
+            "U-turn": "89",
+            "Substitute": "90",
+            "Cut": "93",
+            "Strength": "96",
+            "Rock Smash": "98",
+            "Rock Climb": "100"
+        }
+    },
+    "entries": {
+        "Chimchar": [
+            "It agilely scales sheer cliffs to live atop craggy mountains. Its fire is put out when it sleeps.",
+            "Its fiery rear end is fueled by gas made in its belly. Even rain can\u2019t extinguish the fire.",
+            "It is very agile. Before going to sleep, it extinguishes the flame on its tail to prevent fires.",
+            "The gas made in its belly burns from its rear end. The fire burns weakly when it feels sick.",
+            "It is very agile. Before going to sleep, it extinguishes the flame on its tail to prevent fires.",
+            "Its fiery rear end is fueled by gas made in its belly. Even rain can\u2019t extinguish the fire.",
+            "The gas made in its belly burns from its rear end. The fire burns weakly when it feels sick.",
+            "It agilely scales sheer cliffs to live atop craggy mountains. Its fire is put out when it sleeps.",
+            "Its fiery rear end is fueled by gas made in its belly. Even rain can\u2019t extinguish the fire.",
+            "Full of vigor and always in high spirits. It was once known by the name \u201cLantern-Tail\u201d and feared as some kind of apparition."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789646389596260/390.png",
+    "discord_sprite": "<:P390:1132129892897656942>"
+}

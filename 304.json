@@ -1,0 +1,225 @@
+{
+    "alt-version(s)": [],
+    "name": "Aron",
+    "Aron": {
+        "pokedex_data": {
+            "National No.": "0304",
+            "Type": [
+                "Steel",
+                "Rock"
+            ],
+            "Species": "Iron Armor Poke\u0301mon",
+            "Height": "0.4 m (1\u203204\u2032\u2032)",
+            "Weight": "60.0 kg (132.3 lbs)",
+            "Abilities": {
+                "Sturdy": {
+                    "href": "/ability/sturdy",
+                    "effect": "It cannot be knocked out with one hit.",
+                    "hidden": false
+                },
+                "Rock Head": {
+                    "href": "/ability/rock-head",
+                    "effect": "Protects the Pok\u00e9mon from recoil damage.",
+                    "hidden": false
+                },
+                "Heavy Metal": {
+                    "href": "/ability/heavy-metal",
+                    "effect": "Doubles the Pok\u00e9mon's weight.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Defense",
+            "Catch rate": "180",
+            "BaseFriendship": "35",
+            "Base Exp.": "66",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "50",
+                "Min": "210",
+                "Max": "304"
+            },
+            "Attack": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Defense": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Sp. Atk": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Def": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Speed": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Total": "330"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Water": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Poison": "no effect",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Dragon": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Aron",
+                    "nationalNo": "#0304",
+                    "type": [
+                        "Steel",
+                        "Rock"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Lairon",
+                    "nationalNo": "#0305",
+                    "type": [
+                        "Steel",
+                        "Rock"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 32)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Lairon",
+                    "nationalNo": "#0305",
+                    "type": [
+                        "Steel",
+                        "Rock"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Aggron",
+                    "nationalNo": "#0306",
+                    "type": [
+                        "Steel",
+                        "Rock"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 42)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Harden": "1",
+            "Tackle": "1",
+            "Metal Claw": "4",
+            "Rock Tomb": "8",
+            "Roar": "12",
+            "Headbutt": "16",
+            "Protect": "20",
+            "Rock Slide": "24",
+            "Iron Head": "28",
+            "Metal Sound": "33",
+            "Take Down": "36",
+            "Autotomize": "40",
+            "Iron Tail": "44",
+            "Iron Defense": "48",
+            "Heavy Slam": "52",
+            "Double-Edge": "56",
+            "Metal Burst": "60"
+        },
+        "egg": {
+            "Body Slam": null,
+            "Curse": null,
+            "Dragon Rush": null,
+            "Endeavor": null,
+            "Head Smash": null,
+            "Iron Head": null,
+            "Mud-Slap": null,
+            "Reversal": null,
+            "Screech": null,
+            "Stomp": null,
+            "Superpower": null
+        },
+        "tm": {
+            "Water Pulse": "03",
+            "Roar": "05",
+            "Sunny Day": "11",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Iron Tail": "23",
+            "Earthquake": "26",
+            "Dig": "28",
+            "Double Team": "32",
+            "Shock Wave": "34",
+            "Sandstorm": "37",
+            "Rock Tomb": "39",
+            "Aerial Ace": "40",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Endure": "58",
+            "Shadow Claw": "65",
+            "Rock Polish": "69",
+            "Stealth Rock": "76",
+            "Rock Slide": "80",
+            "Sleep Talk": "82",
+            "Bulldoze": "83",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Cut": "93",
+            "Strength": "96",
+            "Rock Smash": "98"
+        }
+    },
+    "entries": {
+        "Aron": [
+            "This pok\u00e9mon has a body of steel. To make its body, ARON feeds on iron ore that it digs from mountains. Occasionally, it causes major trouble by eating bridges and rails.",
+            "ARON has a body of steel. With one all-out charge, this pok\u00e9mon can demolish even a heavy dump truck. The destroyed dump truck then becomes a handy meal for the pok\u00e9mon.",
+            "It eats iron to build its steel body. It is a pest that descends from mountains to eat bridges and train tracks.",
+            "A pok\u00e9mon that is clad in steel armor. A new suit of armor is made when it evolves. The old, discarded armor is salvaged as metal for making iron products.",
+            "It usually lives deep in mountains. However, hunger may drive it to eat railroad tracks and cars.",
+            "When it evolves, it sheds the steel carapace that covered its whole body and develops a new one.",
+            "It usually lives deep in mountains. However, hunger may drive it to eat railroad tracks and cars.",
+            "In order to build up its steel body, it eats iron ore. This pesky Pok\u00e9mon is known to eat railroad tracks.",
+            "It usually lives deep in mountains. However, hunger may drive it to eat railroad tracks and cars.",
+            "When it evolves, it sheds the steel carapace that covered its whole body and develops a new one.",
+            "This Pok\u00e9mon has a body of steel. To make its body, Aron feeds on iron ore that it digs from mountains. Occasionally, it causes major trouble by eating bridges and rails.",
+            "Aron has a body of steel. With one all-out charge, this Pok\u00e9mon can demolish even a heavy dump truck. The destroyed dump truck then becomes a handy meal for the Pok\u00e9mon.",
+            "It eats iron ore\u2014and sometimes railroad tracks\u2014to build up the steel armor that protects its body.",
+            "When Aron evolves, its steel armor peels off. In ancient times, people would collect Aron\u2019s shed armor and make good use of it in their daily lives.",
+            "It usually lives deep in mountains. But when it\u2019s hungry, it shows up at the foot of the mountains and eats railroad tracks and cars."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788977318400010/304.png",
+    "discord_sprite": "<:P304:1132126116115656824>"
+}

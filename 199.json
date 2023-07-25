@@ -1,0 +1,466 @@
+{
+    "alt-version(s)": [
+        "Galarian Slowking"
+    ],
+    "name": "Slowking",
+    "Slowking": {
+        "pokedex_data": {
+            "National No.": "0199",
+            "Type": [
+                "Water",
+                "Psychic"
+            ],
+            "Species": "Royal Poke\u0301mon",
+            "Height": "2.0 m (6\u203207\u2032\u2032)",
+            "Weight": "79.5 kg (175.3 lbs)",
+            "Abilities": {
+                "Oblivious": {
+                    "href": "/ability/oblivious",
+                    "effect": "Prevents it from becoming infatuated.",
+                    "hidden": false
+                },
+                "Own Tempo": {
+                    "href": "/ability/own-tempo",
+                    "effect": "Prevents the Pok\u00e9mon from becoming confused.",
+                    "hidden": false
+                },
+                "Regenerator": {
+                    "href": "/ability/regenerator",
+                    "effect": "Restores a little HP when withdrawn from battle.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Sp. Def",
+            "Catch rate": "70",
+            "BaseFriendship": "50",
+            "Base Exp.": "172",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "95",
+                "Min": "300",
+                "Max": "394"
+            },
+            "Attack": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Defense": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Sp. Atk": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Sp. Def": {
+                "Base": "110",
+                "Min": "202",
+                "Max": "350"
+            },
+            "Speed": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Total": "490"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "Galarian Slowking": {
+        "pokedex_data": {
+            "National No.": "0199",
+            "Type": [
+                "Poison",
+                "Psychic"
+            ],
+            "Species": "Hexpert Poke\u0301mon",
+            "Height": "1.8 m (5\u203211\u2032\u2032)",
+            "Weight": "79.5 kg (175.3 lbs)",
+            "Abilities": {
+                "Curious Medicine": {
+                    "href": "/ability/curious-medicine",
+                    "effect": "Resets all stat changes upon entering battlefield.",
+                    "hidden": false
+                },
+                "Own Tempo": {
+                    "href": "/ability/own-tempo",
+                    "effect": "Prevents the Pok\u00e9mon from becoming confused.",
+                    "hidden": false
+                },
+                "Regenerator": {
+                    "href": "/ability/regenerator",
+                    "effect": "Restores a little HP when withdrawn from battle.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Sp. Def",
+            "Catch rate": "70",
+            "BaseFriendship": "50",
+            "Base Exp.": "172",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "95",
+                "Min": "300",
+                "Max": "394"
+            },
+            "Attack": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Defense": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Sp. Atk": {
+                "Base": "110",
+                "Min": "202",
+                "Max": "350"
+            },
+            "Sp. Def": {
+                "Base": "110",
+                "Min": "202",
+                "Max": "350"
+            },
+            "Speed": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Total": "490"
+        },
+        "defense_stats": {
+            "default": {
+                "Grass": "not very effective",
+                "Fighting": "not very effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Slowpoke",
+                    "nationalNo": "#0079",
+                    "type": [
+                        "Water",
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Slowbro",
+                    "nationalNo": "#0080",
+                    "type": [
+                        "Water",
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 37)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Slowpoke",
+                    "nationalNo": "#0079",
+                    "type": [
+                        "Water",
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Slowking",
+                    "nationalNo": "#0199",
+                    "type": [
+                        "Water",
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(trade holding Kings Rock)",
+                "shed": null
+            }
+        ],
+        [
+            {
+                "from": {
+                    "name": "Slowpoke",
+                    "nationalNo": "#0079",
+                    "type": [
+                        "Psychic"
+                    ],
+                    "nickname": "Galarian Slowpoke"
+                },
+                "to": {
+                    "name": "Slowbro",
+                    "nationalNo": "#0080",
+                    "type": [
+                        "Poison",
+                        "Psychic"
+                    ],
+                    "nickname": "Galarian Slowbro"
+                },
+                "requirement": "(use Galarica Cuff)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Slowpoke",
+                    "nationalNo": "#0079",
+                    "type": [
+                        "Psychic"
+                    ],
+                    "nickname": "Galarian Slowpoke"
+                },
+                "to": {
+                    "name": "Slowking",
+                    "nationalNo": "#0199",
+                    "type": [
+                        "Poison",
+                        "Psychic"
+                    ],
+                    "nickname": "Galarian Slowking"
+                },
+                "requirement": "(use Galarica Wreath)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Belch": "120",
+            "Belly Drum": "\u2014",
+            "Block": "\u2014",
+            "Stomp": "65"
+        },
+        "evolution": {
+            "Belch": "120",
+            "Belly Drum": "\u2014",
+            "Block": "\u2014",
+            "Stomp": "65"
+        },
+        "reminder": {
+            "Belch": "120",
+            "Belly Drum": "\u2014",
+            "Block": "\u2014",
+            "Stomp": "65"
+        },
+        "egg": {
+            "Belch": null,
+            "Belly Drum": null,
+            "Block": null,
+            "Stomp": null
+        },
+        "Slowking": {
+            "tm": {
+                "Take Down": "01",
+                "Protect": "07",
+                "Water Pulse": "11",
+                "Psybeam": "16",
+                "Chilling Water": "22",
+                "Facade": "25",
+                "Bulldoze": "28",
+                "Swift": "32",
+                "Icy Wind": "34",
+                "Mud Shot": "35",
+                "Rock Tomb": "36",
+                "Stored Power": "41",
+                "Fling": "43",
+                "Avalanche": "46",
+                "Endure": "47",
+                "Sunny Day": "49",
+                "Rain Dance": "50",
+                "Snowscape": "52",
+                "Psyshock": "54",
+                "Dig": "55",
+                "Brick Break": "58",
+                "Zen Headbutt": "59",
+                "Foul Play": "62",
+                "Body Slam": "66",
+                "Fire Punch": "67",
+                "Thunder Punch": "68",
+                "Ice Punch": "69",
+                "Sleep Talk": "70",
+                "Drain Punch": "73",
+                "Reflect": "74",
+                "Light Screen": "75",
+                "Waterfall": "77",
+                "Metronome": "80",
+                "Grass Knot": "81",
+                "Thunder Wave": "82",
+                "Rest": "85",
+                "Rock Slide": "86",
+                "Imprison": "92",
+                "Skill Swap": "98",
+                "Power Gem": "101",
+                "Substitute": "103",
+                "Iron Defense": "104",
+                "Trick": "109",
+                "Liquidation": "110",
+                "Shadow Ball": "114",
+                "Psychic": "120",
+                "Surf": "123",
+                "Flamethrower": "125",
+                "Amnesia": "128",
+                "Calm Mind": "129",
+                "Ice Beam": "135",
+                "Psychic Terrain": "138",
+                "Nasty Plot": "140",
+                "Fire Blast": "141",
+                "Hydro Pump": "142",
+                "Blizzard": "143",
+                "Earthquake": "149",
+                "Giga Impact": "152",
+                "Focus Blast": "158",
+                "Trick Room": "161",
+                "Hyper Beam": "163",
+                "Tera Blast": "171"
+            }
+        },
+        "Galarian Slowking": {
+            "tm": {
+                "Take Down": "01",
+                "Scary Face": "06",
+                "Protect": "07",
+                "Water Pulse": "11",
+                "Acid Spray": "13",
+                "Psybeam": "16",
+                "Chilling Water": "22",
+                "Facade": "25",
+                "Bulldoze": "28",
+                "Hex": "29",
+                "Snarl": "30",
+                "Swift": "32",
+                "Icy Wind": "34",
+                "Mud Shot": "35",
+                "Low Sweep": "39",
+                "Stored Power": "41",
+                "Fling": "43",
+                "Venoshock": "45",
+                "Avalanche": "46",
+                "Endure": "47",
+                "Sunny Day": "49",
+                "Rain Dance": "50",
+                "Psyshock": "54",
+                "Dig": "55",
+                "Brick Break": "58",
+                "Zen Headbutt": "59",
+                "Foul Play": "62",
+                "Body Slam": "66",
+                "Fire Punch": "67",
+                "Thunder Punch": "68",
+                "Sleep Talk": "70",
+                "Drain Punch": "73",
+                "Light Screen": "75",
+                "Waterfall": "77",
+                "Metronome": "80",
+                "Grass Knot": "81",
+                "Thunder Wave": "82",
+                "Poison Jab": "83",
+                "Stomping Tantrum": "84",
+                "Rest": "85",
+                "Taunt": "87",
+                "Toxic Spikes": "91",
+                "Imprison": "92",
+                "Skill Swap": "98",
+                "Power Gem": "101",
+                "Gunk Shot": "102",
+                "Substitute": "103",
+                "Iron Defense": "104",
+                "Trick": "109",
+                "Liquidation": "110",
+                "Shadow Ball": "114",
+                "Psychic": "120",
+                "Surf": "123",
+                "Flamethrower": "125",
+                "Amnesia": "128",
+                "Calm Mind": "129",
+                "Ice Beam": "135",
+                "Psychic Terrain": "138",
+                "Nasty Plot": "140",
+                "Fire Blast": "141",
+                "Hydro Pump": "142",
+                "Blizzard": "143",
+                "Sludge Bomb": "148",
+                "Earthquake": "149",
+                "Giga Impact": "152",
+                "Focus Blast": "158",
+                "Trick Room": "161",
+                "Hyper Beam": "163",
+                "Tera Blast": "171"
+            }
+        }
+    },
+    "entries": {
+        "Slowking": [
+            "It has incredible intellect and intuition. Whatever the situation, it remains calm and collected.",
+            "When its head was bitten, toxins entered SLOWPOKE\u2019s head and unlocked an extraordinary power.",
+            "Every time it yawns, SHELLDER injects more poison into it. The poison makes it more intelligent.",
+            "SLOWKING undertakes research every day in an effort to solve the mysteries of the world. However, this pok\u00e9mon apparently forgets everything it has learned if the SHELLDER on its head comes off.",
+            "When its head was bitten, toxins entered SLOWPOKE\u2019s head and unlocked an extraordinary power.",
+            "It has incredible intellect and intuition. Whatever the situation, it remains calm and collected.",
+            "It undertakes research every day to solve the mysteries of the world. However, it apparently forgets everything if the SHELLDER on its head comes off.",
+            "Being bitten by SHELLDER gave it intelligence comparable to that of award-winning scientists.",
+            "It has incredible intellect and intuition. Whatever the situation, it remains calm and collected.",
+            "When its head was bitten, toxins entered SLOWPOKE\u2019s head and unlocked an extraordinary power.",
+            "Being bitten by Shellder gave it intelligence comparable to that of award-winning scientists.",
+            "It has incredible intellect and intuition. Whatever the situation, it remains calm and collected.",
+            "When its head was bitten, toxins entered Slowpoke\u2019s head and unlocked an extraordinary power.",
+            "Slowking undertakes research every day in an effort to solve the mysteries of the world. However, this Pok\u00e9mon apparently forgets everything it has learned if the Shellder on its head comes off.",
+            "A poisonous bite reacted with its system, blessing it with the enhanced intellect of a genius. It has full control of its psychic powers.",
+            "This Pok\u00e9mon is so famed for its intellect that a proverb still persists in some regions: \u201cWhen in doubt, ask Slowking.\u201d",
+            "It\u2019s constantly coming up with new ideas that would change the world, but as soon as it hits upon a new idea, it forgets it.",
+            "It\u2019s called \u201cthe sage of the sea.\u201d It engages in battles of wits with Oranguru, but the result is usually a draw.",
+            "Miraculously, this former Slowpoke\u2019s latent intelligence was drawn out when Shellder poison raced through its brain.",
+            "Slowking can solve any problem presented to it, but no one can understand a thing Slowking says.",
+            "Being bitten by Shellder gave it intelligence comparable to that of internationally recognized scientists.",
+            "When its head was bitten, toxins entered Slowpoke\u2019s head and unlocked an extraordinary power.",
+            "It has incredible intellect and intuition. Whatever the situation, it remains calm and collected."
+        ],
+        "Galarian Slowking": [
+            "A combination of toxins and the shock of evolving has increased Shellder\u2019s intelligence to the point that Shellder now controls Slowking.",
+            "While chanting strange spells, this Pok\u00e9mon combines its internal toxins with what it\u2019s eaten, creating strange potions."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788148519739452/199.png",
+    "discord_sprite": "<:P199:1132121488892383396>"
+}

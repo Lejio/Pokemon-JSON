@@ -1,0 +1,202 @@
+{
+    "alt-version(s)": [],
+    "name": "Lapras",
+    "Lapras": {
+        "pokedex_data": {
+            "National No.": "0131",
+            "Type": [
+                "Water",
+                "Ice"
+            ],
+            "Species": "Transport Poke\u0301mon",
+            "Height": "2.5 m (8\u203202\u2032\u2032)",
+            "Weight": "220.0 kg (485.0 lbs)",
+            "Abilities": {
+                "Water Absorb": {
+                    "href": "/ability/water-absorb",
+                    "effect": "Restores HP if hit by a Water-type move.",
+                    "hidden": false
+                },
+                "Shell Armor": {
+                    "href": "/ability/shell-armor",
+                    "effect": "The Pok\u00e9mon is protected against critical hits.",
+                    "hidden": false
+                },
+                "Hydration": {
+                    "href": "/ability/hydration",
+                    "effect": "Heals status problems if it is raining.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 HP",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "187",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "130",
+                "Min": "370",
+                "Max": "464"
+            },
+            "Attack": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Defense": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Sp. Atk": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Sp. Def": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Speed": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Total": "535"
+        },
+        "defense_stats": {
+            "Water Absorb ability": {
+                "Water": "no effect",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Rock": "super-effective"
+            },
+            "Shell Armor ability": {
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Rock": "super-effective"
+            },
+            "Hydration ability": {
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Rock": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Growl": "1",
+            "Water Gun": "1",
+            "Sing": "5",
+            "Mist": "10",
+            "Life Dew": "15",
+            "Ice Shard": "20",
+            "Confuse Ray": "25",
+            "Water Pulse": "30",
+            "Brine": "35",
+            "Body Slam": "40",
+            "Ice Beam": "45",
+            "Rain Dance": "50",
+            "Hydro Pump": "55",
+            "Perish Song": "60",
+            "Sheer Cold": "65"
+        },
+        "egg": {
+            "Ancient Power": null,
+            "Curse": null,
+            "Dragon Dance": null,
+            "Fissure": null,
+            "Freeze-Dry": null,
+            "Future Sight": null,
+            "Horn Drill": null,
+            "Tickle": null,
+            "Whirlpool": null
+        },
+        "tm": {
+            "Water Pulse": "03",
+            "Roar": "05",
+            "Hail": "07",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Safeguard": "20",
+            "Iron Tail": "23",
+            "Thunderbolt": "24",
+            "Thunder": "25",
+            "Psychic": "29",
+            "Double Team": "32",
+            "Shock Wave": "34",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Brine": "55",
+            "Endure": "58",
+            "Dragon Pulse": "59",
+            "Giga Impact": "68",
+            "Avalanche": "72",
+            "Sleep Talk": "82",
+            "Bulldoze": "83",
+            "Dream Eater": "85",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Surf": "95",
+            "Strength": "96",
+            "Rock Smash": "98",
+            "Waterfall": "99"
+        }
+    },
+    "entries": {
+        "Lapras": [
+            "A pok\u00e9mon that has been overhunted almost to extinction. It can ferry people across the water.",
+            "A gentle soul that can read the minds of people. It can ferry people across the sea on its back.",
+            "They have gentle hearts. Because they rarely fight, many have been caught. Their number has dwindled.",
+            "It ferries people across the sea on its back. It may sing an enchanting cry if it is in a good mood.",
+            "This gentle pok\u00e9mon loves to give people rides and provides a very comfortable way to get around.",
+            "People have driven LAPRAS almost to the point of extinction. In the evenings, this pok\u00e9mon is said to sing plaintively as it seeks what few others of its kind still remain.",
+            "Its high intelligence enables it to understand human speech. It likes to ferry people on its back.",
+            "A pok\u00e9mon that has been overhunted almost to extinction. It can ferry people on its back.",
+            "People have driven LAPRAS almost to the point of extinction. In the evenings, it is said to sing plaintively as it seeks what few others of its kind still remain.",
+            "It loves crossing the sea with people and Pok\u00e9mon on its back. It understands human speech.",
+            "They have gentle hearts. Because they rarely fight, many have been caught. Their number has dwindled.",
+            "It ferries people across the sea on its back. It may sing an enchanting cry if it is in a good mood.",
+            "It loves crossing the sea with people and Pok\u00e9mon on its back. It understands human speech.",
+            "Able to understand human speech and very intelligent, it loves to swim in the sea with people on its back.",
+            "They have gentle hearts. Because they rarely fight, many have been caught. Their number has dwindled.",
+            "Its high intelligence enables it to understand human speech. It likes to ferry people on its back.",
+            "People have driven Lapras almost to the point of extinction. In the evenings, this Pok\u00e9mon is said to sing plaintively as it seeks what few others of its kind still remain.",
+            "Its high intelligence enables it to comprehend human speech. When it\u2019s in a good mood, it sings in its beautiful voice.",
+            "These Pok\u00e9mon were once near extinction due to poaching. Following protective regulations, there is now an overabundance of them.",
+            "It likes swimming around with people on its back. In the Alola region, it\u2019s an important means of transportation over water.",
+            "They\u2019ve been so cherished that there\u2019s now an overabundance. The fish Pok\u00e9mon population has declined in waters with too many Lapras.",
+            "A gentle soul that can understand human speech. It can ferry people across the sea on its back.",
+            "A smart and kindhearted Pok\u00e9mon, it glides across the surface of the sea while its beautiful song echoes around it.",
+            "Crossing icy seas is no issue for this cold-resistant Pok\u00e9mon. Its smooth skin is a little cool to the touch.",
+            "It loves crossing the sea with people and Pok\u00e9mon on its back. It understands human speech."
+        ],
+        "Gigantamax": [
+            "Over 5,000 people can ride on its shell at once. And it\u2019s a very comfortable ride, without the slightest shaking or swaying.",
+            "It surrounds itself with a huge ring of gathered ice particles. It uses the ring to smash any icebergs that might impede its graceful swimming."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787613934727199/131.png",
+    "discord_sprite": "<:P131:1132118499477684245>"
+}

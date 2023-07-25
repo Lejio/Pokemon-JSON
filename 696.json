@@ -1,0 +1,196 @@
+{
+    "alt-version(s)": [],
+    "name": "Tyrunt",
+    "Tyrunt": {
+        "pokedex_data": {
+            "National No.": "0696",
+            "Type": [
+                "Rock",
+                "Dragon"
+            ],
+            "Species": "Royal Heir Poke\u0301mon",
+            "Height": "0.8 m (2\u203207\u2032\u2032)",
+            "Weight": "26.0 kg (57.3 lbs)",
+            "Abilities": {
+                "Strong Jaw": {
+                    "href": "/ability/strong-jaw",
+                    "effect": "Boosts the power of biting moves.",
+                    "hidden": false
+                },
+                "Sturdy": {
+                    "href": "/ability/sturdy",
+                    "effect": "It cannot be knocked out with one hit.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "72",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "58",
+                "Min": "226",
+                "Max": "320"
+            },
+            "Attack": {
+                "Base": "89",
+                "Min": "164",
+                "Max": "304"
+            },
+            "Defense": {
+                "Base": "77",
+                "Min": "143",
+                "Max": "278"
+            },
+            "Sp. Atk": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Sp. Def": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Speed": {
+                "Base": "48",
+                "Min": "90",
+                "Max": "214"
+            },
+            "Total": "362"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Fire": "not very effective",
+                "Electric": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "super-effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Dragon": "super-effective",
+                "Steel": "super-effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Tyrunt",
+                    "nationalNo": "#0696",
+                    "type": [
+                        "Rock",
+                        "Dragon"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Tyrantrum",
+                    "nationalNo": "#0697",
+                    "type": [
+                        "Rock",
+                        "Dragon"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 39, Daytime)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Tackle": "1",
+            "Tail Whip": "1",
+            "Roar": "4",
+            "Ancient Power": "8",
+            "Charm": "12",
+            "Bite": "16",
+            "Dragon Tail": "20",
+            "Stomp": "24",
+            "Rock Slide": "28",
+            "Crunch": "32",
+            "Dragon Claw": "36",
+            "Thrash": "40",
+            "Earthquake": "44",
+            "Horn Drill": "48"
+        },
+        "egg": {
+            "Curse": null,
+            "Poison Fang": null,
+            "Rock Polish": null,
+            "Rock Throw": null
+        },
+        "null": {
+            "Body Slam": "01",
+            "Earthquake": "10",
+            "Substitute": "20",
+            "Outrage": "24",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Iron Tail": "31",
+            "Crunch": "32",
+            "Superpower": "39",
+            "Hyper Voice": "42",
+            "Iron Defense": "46",
+            "Dragon Claw": "47",
+            "Dragon Dance": "51",
+            "Close Combat": "53",
+            "Dark Pulse": "58",
+            "Dragon Pulse": "62",
+            "Earth Power": "67",
+            "Zen Headbutt": "69",
+            "Iron Head": "74",
+            "Stone Edge": "75",
+            "Stealth Rock": "76",
+            "Play Rough": "90",
+            "Psychic Fangs": "97"
+        },
+        "tm": {
+            "Dig": "15",
+            "Rest": "21",
+            "Rock Slide": "22",
+            "Snore": "24",
+            "Protect": "25",
+            "Scary Face": "26",
+            "Charm": "29",
+            "Attract": "31",
+            "Sandstorm": "32",
+            "Sunny Day": "34",
+            "Facade": "39",
+            "Brick Break": "43",
+            "Rock Tomb": "48",
+            "Rock Blast": "54",
+            "Assurance": "58",
+            "Thunder Fang": "66",
+            "Ice Fang": "67",
+            "Fire Fang": "68",
+            "Round": "76",
+            "Bulldoze": "81",
+            "Stomping Tantrum": "98"
+        }
+    },
+    "entries": {
+        "Tyrunt": [
+            "This Pok\u00e9mon was restored from a fossil. If something happens that it doesn\u2019t like, it throws a tantrum and runs wild.",
+            "Its immense jaws have enough destructive force that it can chew up an automobile. It lived 100 million years ago.",
+            "Its large jaw has incredible destructive power. Some theories suggest that its restored form is different from its form of long ago.",
+            "Tyrunt is spoiled and selfish. It may just be trying to frolic, but sometimes the ones it\u2019s trying to frolic with are gravely injured.",
+            "This is an ancient Pok\u00e9mon, revived in modern times. It has a violent disposition, and it\u2019ll tear apart anything it gets between its hefty jaws.",
+            "This Pok\u00e9mon is selfish and likes to be pampered. It can also inflict grievous wounds on its Trainer just by playing around."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792027005235310/696.png",
+    "discord_sprite": "<:P696:1132143367736807525>"
+}

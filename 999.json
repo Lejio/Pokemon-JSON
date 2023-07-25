@@ -1,0 +1,210 @@
+{
+    "alt-version(s)": [
+        "Chest Form",
+        "Roaming Form"
+    ],
+    "Chest Form": {
+        "pokedex_data": {
+            "National No.": "0999",
+            "Type": [
+                "Ghost"
+            ],
+            "Species": "Coin Chest Poke\u0301mon",
+            "Height": "0.3 m (1\u203200\u2032\u2032)",
+            "Weight": "5.0 kg (11.0 lbs)",
+            "Abilities": {
+                "Rattled": {
+                    "href": "/ability/rattled",
+                    "effect": "Bug, Ghost or Dark type moves scare it and boost its Speed.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Sp. Atk",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "60",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "45",
+                "Min": "200",
+                "Max": "294"
+            },
+            "Attack": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Defense": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Atk": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Sp. Def": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Speed": {
+                "Base": "10",
+                "Min": "22",
+                "Max": "130"
+            },
+            "Total": "300"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "no effect",
+                "Fighting": "no effect",
+                "Poison": "not very effective",
+                "Bug": "not very effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective"
+            }
+        }
+    },
+    "Roaming Form": {
+        "pokedex_data": {
+            "National No.": "0999",
+            "Type": [
+                "Ghost"
+            ],
+            "Species": "Coin Hunter Poke\u0301mon",
+            "Height": "0.1 m (0\u203204\u2032\u2032)",
+            "Weight": "0.1 kg (0.2 lbs)",
+            "Abilities": {
+                "Run Away": {
+                    "href": "/ability/run-away",
+                    "effect": "Enables a sure getaway from wild Pok\u00e9mon.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Sp. Atk",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "60",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "45",
+                "Min": "200",
+                "Max": "294"
+            },
+            "Attack": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Defense": {
+                "Base": "25",
+                "Min": "49",
+                "Max": "163"
+            },
+            "Sp. Atk": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Sp. Def": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Speed": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Total": "300"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "no effect",
+                "Fighting": "no effect",
+                "Poison": "not very effective",
+                "Bug": "not very effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Gimmighoul",
+                    "nationalNo": "#0999",
+                    "type": [
+                        "Ghost"
+                    ],
+                    "nickname": "Chest Form"
+                },
+                "to": {
+                    "name": "Gholdengo",
+                    "nationalNo": "#1000",
+                    "type": [
+                        "Steel",
+                        "Ghost"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(collect 999 Coins from Roaming Form)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Astonish": "1",
+            "Tackle": "1"
+        },
+        "egg": null,
+        "tm": {
+            "Take Down": "01",
+            "Protect": "07",
+            "Confuse Ray": "17",
+            "Thief": "18",
+            "Hex": "29",
+            "Night Shade": "42",
+            "Endure": "47",
+            "Sleep Talk": "70",
+            "Reflect": "74",
+            "Light Screen": "75",
+            "Rest": "85",
+            "Power Gem": "101",
+            "Substitute": "103",
+            "Shadow Ball": "114",
+            "Nasty Plot": "140",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Chest Form": [
+            "This Pok\u00e9mon was born inside a treasure chest about 1,500 years ago. It sucks the life-force out of scoundrels who try to steal the treasure.",
+            "It lives inside an old treasure chest. Sometimes it gets left in shop corners since no one realizes it\u2019s actually a Pok\u00e9mon."
+        ],
+        "Roaming Form": [
+            "This Pok\u00e9mon was born from passion that seeped into a coin. It wanders, apparently seeking to return to the treasure chest it once inhabited.",
+            "It wanders around, carrying an old coin on its back. It survives by draining the life-force from humans who try to pick up its coin."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131794392005484655/999.png",
+    "discord_sprite": "<:P999:1132156749986676879>"
+}

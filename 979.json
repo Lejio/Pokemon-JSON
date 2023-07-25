@@ -1,0 +1,230 @@
+{
+    "alt-version(s)": [],
+    "name": "Annihilape",
+    "Annihilape": {
+        "pokedex_data": {
+            "National No.": "0979",
+            "Type": [
+                "Fighting",
+                "Ghost"
+            ],
+            "Species": "Rage Monkey Poke\u0301mon",
+            "Height": "1.2 m (3\u203211\u2032\u2032)",
+            "Weight": "56.0 kg (123.5 lbs)",
+            "Abilities": {
+                "Vital Spirit": {
+                    "href": "/ability/vital-spirit",
+                    "effect": "Prevents the Pok\u00e9mon from falling asleep.",
+                    "hidden": false
+                },
+                "Inner Focus": {
+                    "href": "/ability/inner-focus",
+                    "effect": "The Pok\u00e9mon is protected from flinching.",
+                    "hidden": false
+                },
+                "Defiant": {
+                    "href": "/ability/defiant",
+                    "effect": "Sharply raises Attack when the Pok\u00e9mon's stats are lowered.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Attack",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "268",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "110",
+                "Min": "330",
+                "Max": "424"
+            },
+            "Attack": {
+                "Base": "115",
+                "Min": "211",
+                "Max": "361"
+            },
+            "Defense": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Sp. Atk": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Def": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Speed": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Total": "535"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "no effect",
+                "Fighting": "no effect",
+                "Poison": "not very effective",
+                "Flying": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Ghost": "super-effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Mankey",
+                    "nationalNo": "#0056",
+                    "type": [
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Primeape",
+                    "nationalNo": "#0057",
+                    "type": [
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 28)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Primeape",
+                    "nationalNo": "#0057",
+                    "type": [
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Annihilape",
+                    "nationalNo": "#0979",
+                    "type": [
+                        "Fighting",
+                        "Ghost"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Use Rage Fist 20 times)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Counter": "1",
+            "Fling": "1",
+            "Focus Energy": "1",
+            "Leer": "1",
+            "Scratch": "1",
+            "Fury Swipes": "5",
+            "Low Kick": "8",
+            "Seismic Toss": "12",
+            "Swagger": "17",
+            "Cross Chop": "22",
+            "Assurance": "26",
+            "Thrash": "30",
+            "Rage Fist": "35",
+            "Close Combat": "39",
+            "Screech": "44",
+            "Stomping Tantrum": "48",
+            "Outrage": "53",
+            "Final Gambit": "57"
+        },
+        "evolution": {
+            "Shadow Punch": "60"
+        },
+        "egg": {
+            "Beat Up": null,
+            "Counter": null,
+            "Curse": null,
+            "Encore": null,
+            "Night Slash": null,
+            "Spite": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Low Kick": "12",
+            "Acrobatics": "14",
+            "Thief": "18",
+            "Facade": "25",
+            "Bulldoze": "28",
+            "Swift": "32",
+            "Rock Tomb": "36",
+            "Low Sweep": "39",
+            "Night Shade": "42",
+            "Fling": "43",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Dig": "55",
+            "Brick Break": "58",
+            "U-turn": "60",
+            "Shadow Claw": "61",
+            "Bulk Up": "64",
+            "Body Slam": "66",
+            "Fire Punch": "67",
+            "Thunder Punch": "68",
+            "Ice Punch": "69",
+            "Sleep Talk": "70",
+            "Seed Bomb": "71",
+            "Drain Punch": "73",
+            "Metronome": "80",
+            "Poison Jab": "83",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Taunt": "87",
+            "Gunk Shot": "102",
+            "Substitute": "103",
+            "Shadow Ball": "114",
+            "Stealth Rock": "116",
+            "Encore": "122",
+            "Thunderbolt": "126",
+            "Helping Hand": "130",
+            "Reversal": "134",
+            "Earthquake": "149",
+            "Stone Edge": "150",
+            "Phantom Force": "151",
+            "Giga Impact": "152",
+            "Outrage": "156",
+            "Overheat": "157",
+            "Focus Blast": "158",
+            "Hyper Beam": "163",
+            "Thunder": "166",
+            "Close Combat": "167",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Annihilape": [
+            "When its anger rose beyond a critical point, this Pok\u00e9mon gained power that is unfettered by the limits of its physical body.",
+            "It imbues its fists with the power of the rage that it kept hidden in its heart. Opponents struck by these imbued fists will be shattered to their core."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131794236224831691/979.png",
+    "discord_sprite": "<:P979:1132155870248173578>"
+}

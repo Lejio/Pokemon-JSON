@@ -1,0 +1,282 @@
+{
+    "alt-version(s)": [
+        "Mega Banette"
+    ],
+    "name": "Banette",
+    "Banette": {
+        "pokedex_data": {
+            "National No.": "0354",
+            "Type": [
+                "Ghost"
+            ],
+            "Species": "Marionette Poke\u0301mon",
+            "Height": "1.1 m (3\u203207\u2032\u2032)",
+            "Weight": "12.5 kg (27.6 lbs)",
+            "Abilities": {
+                "Insomnia": {
+                    "href": "/ability/insomnia",
+                    "effect": "Prevents the Pok\u00e9mon from falling asleep.",
+                    "hidden": false
+                },
+                "Frisk": {
+                    "href": "/ability/frisk",
+                    "effect": "The Pok\u00e9mon can check a foe's held item.",
+                    "hidden": false
+                },
+                "Cursed Body": {
+                    "href": "/ability/cursed-body",
+                    "effect": "May disable a move used on the Pok\u00e9mon.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "45",
+            "BaseFriendship": "35",
+            "Base Exp.": "159",
+            "Growth Rate": "Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "64",
+                "Min": "238",
+                "Max": "332"
+            },
+            "Attack": {
+                "Base": "115",
+                "Min": "211",
+                "Max": "361"
+            },
+            "Defense": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Atk": {
+                "Base": "83",
+                "Min": "153",
+                "Max": "291"
+            },
+            "Sp. Def": {
+                "Base": "63",
+                "Min": "117",
+                "Max": "247"
+            },
+            "Speed": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Total": "455"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "no effect",
+                "Fighting": "no effect",
+                "Poison": "not very effective",
+                "Bug": "not very effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective"
+            }
+        }
+    },
+    "Mega Banette": {
+        "pokedex_data": {
+            "National No.": "0354",
+            "Type": [
+                "Ghost"
+            ],
+            "Species": "Marionette Poke\u0301mon",
+            "Height": "1.2 m (3\u203211\u2032\u2032)",
+            "Weight": "13.0 kg (28.7 lbs)",
+            "Abilities": {
+                "Prankster": {
+                    "href": "/ability/prankster",
+                    "effect": "Gives priority to a status move.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "45",
+            "BaseFriendship": "35",
+            "Base Exp.": "194",
+            "Growth Rate": "Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "64",
+                "Min": "238",
+                "Max": "332"
+            },
+            "Attack": {
+                "Base": "165",
+                "Min": "301",
+                "Max": "471"
+            },
+            "Defense": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Sp. Atk": {
+                "Base": "93",
+                "Min": "171",
+                "Max": "313"
+            },
+            "Sp. Def": {
+                "Base": "83",
+                "Min": "153",
+                "Max": "291"
+            },
+            "Speed": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Total": "555"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "no effect",
+                "Fighting": "no effect",
+                "Poison": "not very effective",
+                "Bug": "not very effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Shuppet",
+                    "nationalNo": "#0353",
+                    "type": [
+                        "Ghost"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Banette",
+                    "nationalNo": "#0354",
+                    "type": [
+                        "Ghost"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 37)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Night Shade": "1",
+            "Screech": "1",
+            "Spite": "1",
+            "Will-O-Wisp": "16",
+            "Shadow Sneak": "19",
+            "Hex": "22",
+            "Curse": "26",
+            "Shadow Ball": "30",
+            "Role Play": "34",
+            "Sucker Punch": "40",
+            "Trick": "46",
+            "Phantom Force": "53"
+        },
+        "evolution": {
+            "Knock Off": "65"
+        },
+        "egg": {
+            "Confuse Ray": null,
+            "Destiny Bond": null,
+            "Disable": null,
+            "Gunk Shot": null,
+            "Imprison": null
+        },
+        "tm": {
+            "Scary Face": "06",
+            "Protect": "07",
+            "Psybeam": "16",
+            "Confuse Ray": "17",
+            "Thief": "18",
+            "Trailblaze": "20",
+            "Pounce": "21",
+            "Charge Beam": "23",
+            "Facade": "25",
+            "Hex": "29",
+            "Icy Wind": "34",
+            "Night Shade": "42",
+            "Fling": "43",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Shadow Claw": "61",
+            "Foul Play": "62",
+            "Sleep Talk": "70",
+            "Dazzling Gleam": "79",
+            "Metronome": "80",
+            "Thunder Wave": "82",
+            "Rest": "85",
+            "Taunt": "87",
+            "Swords Dance": "88",
+            "Imprison": "92",
+            "Dark Pulse": "94",
+            "Skill Swap": "98",
+            "Gunk Shot": "102",
+            "Substitute": "103",
+            "Will-O-Wisp": "107",
+            "Trick": "109",
+            "Shadow Ball": "114",
+            "Psychic": "120",
+            "Encore": "122",
+            "Thunderbolt": "126",
+            "Calm Mind": "129",
+            "Helping Hand": "130",
+            "Nasty Plot": "140",
+            "Phantom Force": "151",
+            "Giga Impact": "152",
+            "Trick Room": "161",
+            "Hyper Beam": "163",
+            "Thunder": "166",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Banette": [
+            "BANETTE generates energy for laying strong curses by sticking pins into its own body. This pok\u00e9mon was originally a pitiful plush doll that was thrown away.",
+            "A cursed energy permeated the stuffing of a discarded and forgotten plush doll, giving it new life as BANETTE. The pok\u00e9mon\u2019s energy would escape if it were to ever open its mouth.",
+            "Strong feelings of hatred turned a puppet into a pok\u00e9mon. If it opens its mouth, its cursed energy escapes.",
+            "An abandoned plush doll became this pok\u00e9mon. They are said to live in garbage dumps and wander about in search of the children that threw them away.",
+            "A doll that became a Pok\u00e9mon over its grudge from being junked. It seeks the child that disowned it.",
+            "This Pok\u00e9mon developed from an abandoned doll that amassed a grudge. It is seen in dark alleys.",
+            "A doll that became a Pok\u00e9mon over its grudge from being junked. It seeks the child that disowned it.",
+            "A doll that became a Pok\u00e9mon over its grudge of being thrown away. It seeks the child who disowned it.",
+            "A doll that became a Pok\u00e9mon over its grudge from being junked. It seeks the child that disowned it.",
+            "Strong feelings of hatred turned a puppet into a Pok\u00e9mon. If it opens its mouth, its cursed energy escapes.",
+            "Banette generates energy for laying strong curses by sticking pins into its own body. This Pok\u00e9mon was originally a pitiful plush doll that was thrown away.",
+            "A cursed energy permeated the stuffing of a discarded and forgotten plush doll, giving it new life as Banette. The Pok\u00e9mon\u2019s energy would escape if it were to ever open its mouth.",
+            "It\u2019s a stuffed toy that was thrown away and became possessed, ever searching for the one who threw it away so it can exact its revenge.",
+            "Resentment at being cast off made it spring into being. Some say that treating it well will satisfy it, and it will once more become a stuffed toy.",
+            "A doll bore a grudge over being junked, and it became a Pok\u00e9mon. It seeks the child that disowned it.",
+            "This Pok\u00e9mon developed from an abandoned doll that amassed a grudge. It is seen in dark alleys.",
+            "Strong feelings of hatred turned a puppet into a Pok\u00e9mon. If it opens its mouth, its cursed energy escapes."
+        ],
+        "Mega Banette": [
+            "Extraordinary energy amplifies its cursing power to such an extent that it can\u2019t help but curse its own Trainer.",
+            "Mega Evolution increases its vindictiveness, and the cursing power that was held back by its zipper comes spilling out."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789366335914094/354.png",
+    "discord_sprite": "<:P354:1132128314488799362>"
+}

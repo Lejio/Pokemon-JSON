@@ -1,0 +1,208 @@
+{
+    "alt-version(s)": [],
+    "name": "Horsea",
+    "Horsea": {
+        "pokedex_data": {
+            "National No.": "0116",
+            "Type": [
+                "Water"
+            ],
+            "Species": "Dragon Poke\u0301mon",
+            "Height": "0.4 m (1\u203204\u2032\u2032)",
+            "Weight": "8.0 kg (17.6 lbs)",
+            "Abilities": {
+                "Swift Swim": {
+                    "href": "/ability/swift-swim",
+                    "effect": "Boosts the Pok\u00e9mon's Speed in rain.",
+                    "hidden": false
+                },
+                "Sniper": {
+                    "href": "/ability/sniper",
+                    "effect": "Powers up moves if they become critical hits.",
+                    "hidden": false
+                },
+                "Damp": {
+                    "href": "/ability/damp",
+                    "effect": "Prevents the use of self-destructing moves.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Sp. Atk",
+            "Catch rate": "225",
+            "BaseFriendship": "50",
+            "Base Exp.": "59",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "30",
+                "Min": "170",
+                "Max": "264"
+            },
+            "Attack": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Defense": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Atk": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Def": {
+                "Base": "25",
+                "Min": "49",
+                "Max": "163"
+            },
+            "Speed": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Total": "295"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Horsea",
+                    "nationalNo": "#0116",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Seadra",
+                    "nationalNo": "#0117",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 32)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Seadra",
+                    "nationalNo": "#0117",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Kingdra",
+                    "nationalNo": "#0230",
+                    "type": [
+                        "Water",
+                        "Dragon"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(trade holding Dragon Scale)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Leer": "1",
+            "Water Gun": "1",
+            "Smokescreen": "5",
+            "Twister": "10",
+            "Focus Energy": "15",
+            "Dragon Breath": "20",
+            "Bubble Beam": "25",
+            "Agility": "30",
+            "Laser Focus": "35",
+            "Dragon Pulse": "40",
+            "Hydro Pump": "45",
+            "Dragon Dance": "50",
+            "Rain Dance": "55"
+        },
+        "egg": {
+            "Aurora Beam": null,
+            "Clear Smog": null,
+            "Disable": null,
+            "Dragon Breath": null,
+            "Flail": null,
+            "Muddy Water": null,
+            "Octazooka": null,
+            "Outrage": null,
+            "Splash": null
+        },
+        "tm": {
+            "Water Pulse": "03",
+            "Hail": "07",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Double Team": "32",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Scald": "49",
+            "Brine": "55",
+            "Endure": "58",
+            "Dragon Pulse": "59",
+            "Sleep Talk": "82",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Flash Cannon": "91",
+            "Surf": "95",
+            "Waterfall": "99"
+        }
+    },
+    "entries": {
+        "Horsea": [
+            "Known to shoot down flying bugs with precision blasts of ink from the surface of the water.",
+            "If it senses any danger, it will vigorously spray water or a special type of ink from its mouth.",
+            "If attacked by a larger enemy, it quickly swims to safety by adeptly controlling its dorsal fin.",
+            "Its big, developed fins move rapidly, allowing it to swim backward while still facing forward.",
+            "When they\u2019re in a safe location, they can be seen playfully tangling their tails together.",
+            "HORSEA eats small insects and moss off of rocks. If the ocean current turns fast, this pok\u00e9mon anchors itself by wrapping its tail around rocks or coral to prevent being washed away.",
+            "If HORSEA senses danger, it will reflexively spray a dense black ink from its mouth and try to escape. This pok\u00e9mon swims by cleverly flapping the fins on its back.",
+            "It maintains balance using its tail, which is wound up like a coil. It may spray ink from its mouth.",
+            "Known to shoot down flying bugs with precision blasts of ink from the surface of the water.",
+            "By cleverly flicking the fins on its back side to side, it moves in any direction while facing forward. It spits ink to escape if it senses danger.",
+            "It makes its nest in the shade of corals. If it senses danger, it spits murky ink and flees.",
+            "If attacked by a larger enemy, it quickly swims to safety by adeptly controlling its well-developed dorsal fin.",
+            "Its big, developed fins move rapidly, allowing it to swim backward while still facing forward.",
+            "It makes its nest in the shade of corals. If it senses danger, it spits murky ink and flees.",
+            "Known to shoot down flying bugs with precision blasts of ink from the surface of the water.",
+            "It makes its nest in the shade of corals. If it senses danger, it spits murky ink and flees.",
+            "Horsea eats small insects and moss off of rocks. If the ocean current turns fast, this Pok\u00e9mon anchors itself by wrapping its tail around rocks or coral to prevent being washed away.",
+            "If Horsea senses danger, it will reflexively spray a dense black ink from its mouth and try to escape. This Pok\u00e9mon swims by cleverly flapping the fin on its back.",
+            "If it senses any danger, it will vigorously spray water or a special type of ink from its mouth.",
+            "Horsea makes its home in oceans with gentle currents. If this Pok\u00e9mon is under attack, it spits out pitch-black ink and escapes.",
+            "They swim with dance-like motions and cause whirlpools to form. Horsea compete to see which of them can generate the biggest whirlpool.",
+            "It makes its nest in the shade of corals. If it senses danger, it spits black ink and flees."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787496250953738/116.png",
+    "discord_sprite": "<:P116:1132117834248503376>"
+}

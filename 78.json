@@ -1,0 +1,335 @@
+{
+    "alt-version(s)": [
+        "Galarian Rapidash"
+    ],
+    "name": "Rapidash",
+    "Rapidash": {
+        "pokedex_data": {
+            "National No.": "0078",
+            "Type": [
+                "Fire"
+            ],
+            "Species": "Fire Horse Poke\u0301mon",
+            "Height": "1.7 m (5\u203207\u2032\u2032)",
+            "Weight": "95.0 kg (209.4 lbs)",
+            "Abilities": {
+                "Run Away": {
+                    "href": "/ability/run-away",
+                    "effect": "Enables a sure getaway from wild Pok\u00e9mon.",
+                    "hidden": false
+                },
+                "Flash Fire": {
+                    "href": "/ability/flash-fire",
+                    "effect": "It powers up Fire-type moves if it's hit by one.",
+                    "hidden": false
+                },
+                "Flame Body": {
+                    "href": "/ability/flame-body",
+                    "effect": "Contact with the Pok\u00e9mon may burn the attacker.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Speed",
+            "Catch rate": "60",
+            "BaseFriendship": "50",
+            "Base Exp.": "175",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "65",
+                "Min": "240",
+                "Max": "334"
+            },
+            "Attack": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Defense": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Atk": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Sp. Def": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Speed": {
+                "Base": "105",
+                "Min": "193",
+                "Max": "339"
+            },
+            "Total": "500"
+        },
+        "defense_stats": {
+            "Run Away ability": {
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Ground": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            },
+            "Flash Fire ability": {
+                "Fire": "no effect",
+                "Water": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Ground": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            },
+            "Flame Body ability": {
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Ground": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "Galarian Rapidash": {
+        "pokedex_data": {
+            "National No.": "0078",
+            "Type": [
+                "Psychic",
+                "Fairy"
+            ],
+            "Species": "Unique Horn Poke\u0301mon",
+            "Height": "1.7 m (5\u203207\u2032\u2032)",
+            "Weight": "80.0 kg (176.4 lbs)",
+            "Abilities": {
+                "Run Away": {
+                    "href": "/ability/run-away",
+                    "effect": "Enables a sure getaway from wild Pok\u00e9mon.",
+                    "hidden": false
+                },
+                "Pastel Veil": {
+                    "href": "/ability/pastel-veil",
+                    "effect": "Prevents the Pok\u00e9mon and its allies from being poisoned.",
+                    "hidden": false
+                },
+                "Anticipation": {
+                    "href": "/ability/anticipation",
+                    "effect": "Senses a foe's dangerous moves.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Speed",
+            "Catch rate": "60",
+            "BaseFriendship": "50",
+            "Base Exp.": "175",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "65",
+                "Min": "240",
+                "Max": "334"
+            },
+            "Attack": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Defense": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Atk": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Sp. Def": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Speed": {
+                "Base": "105",
+                "Min": "193",
+                "Max": "339"
+            },
+            "Total": "500"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "not very effective",
+                "Poison": "super-effective",
+                "Psychic": "not very effective",
+                "Ghost": "super-effective",
+                "Dragon": "no effect",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Ponyta",
+                    "nationalNo": "#0077",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Rapidash",
+                    "nationalNo": "#0078",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 40)",
+                "shed": null
+            }
+        ],
+        [
+            {
+                "from": {
+                    "name": "Ponyta",
+                    "nationalNo": "#0077",
+                    "type": [
+                        "Psychic"
+                    ],
+                    "nickname": "Galarian Ponyta"
+                },
+                "to": {
+                    "name": "Rapidash",
+                    "nationalNo": "#0078",
+                    "type": [
+                        "Psychic",
+                        "Fairy"
+                    ],
+                    "nickname": "Galarian Rapidash"
+                },
+                "requirement": "(Level 40)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Ember": "1",
+            "Growl": "1",
+            "Megahorn": "1",
+            "Poison Jab": "1",
+            "Quick Attack": "1",
+            "Smart Strike": "1",
+            "Tackle": "1",
+            "Tail Whip": "1",
+            "Flame Charge": "15",
+            "Agility": "20",
+            "Flame Wheel": "25",
+            "Stomp": "30",
+            "Fire Spin": "35",
+            "Take Down": "43",
+            "Inferno": "49",
+            "Fire Blast": "56",
+            "Flare Blitz": "63"
+        },
+        "evolution": {
+            "Smart Strike": "70"
+        },
+        "egg": {
+            "Ally Switch": null,
+            "Charm": null,
+            "Double-Edge": null,
+            "Double Kick": null,
+            "Flame Wheel": null,
+            "High Horsepower": null,
+            "Horn Drill": null,
+            "Hypnosis": null,
+            "Low Kick": null,
+            "Morning Sun": null,
+            "Thrash": null
+        },
+        "tm": {
+            "Sunny Day": "11",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Solar Beam": "22",
+            "Iron Tail": "23",
+            "Double Team": "32",
+            "Flamethrower": "35",
+            "Fire Blast": "38",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Overheat": "50",
+            "Endure": "58",
+            "Will-O-Wisp": "61",
+            "Giga Impact": "68",
+            "Swords Dance": "75",
+            "Sleep Talk": "82",
+            "Poison Jab": "84",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Strength": "96"
+        }
+    },
+    "entries": {
+        "Rapidash": [
+            "Very competitive, this pok\u00e9mon will chase anything that moves fast in the hopes of racing it.",
+            "Just loves to run. If it sees something faster than itself, it will give chase at top speed.",
+            "At full gallop, its four hooves barely touch the ground because it moves so incredibly fast.",
+            "With incredible acceleration, it reaches its top speed of 150 mph after running just ten steps.",
+            "It just loves to gallop. The faster it goes, the longer the swaying flames of its mane will become.",
+            "RAPIDASH usually can be seen casually cantering in the fields and plains. However, when this pok\u00e9mon turns serious, its fiery manes flare and blaze as it gallops its way up to 150 mph.",
+            "It can gallop at a top speed of 150 miles per hour. It can race as fast as a bullet train while ablaze.",
+            "Very competitive, this pok\u00e9mon will chase anything that moves fast in the hopes of racing it.",
+            "It usually canters casually in the fields and plains. But once a RAPIDASH turns serious, its fiery manes flare and blaze as it gallops its way up to 150 mph.",
+            "It gallops at nearly 150 mph. With its mane blazing ferociously, it races as if it were an arrow.",
+            "It has astounding acceleration. From a standstill, it can reach top speed within 10 steps.",
+            "When at an all-out gallop, its blazing mane sparkles, enhancing its beautiful appearance.",
+            "At full gallop, its four hooves barely touch the ground because it moves so incredibly fast.",
+            "With incredible acceleration, it reaches its top speed of 150 mph after running just 10 steps.",
+            "When at an all-out gallop, its blazing mane sparkles, enhancing its beautiful appearance.",
+            "Very competitive, this Pok\u00e9mon will chase anything that moves fast in the hopes of racing it.",
+            "It gallops at nearly 150 mph. With its mane blazing ferociously, it races as if it were an arrow.",
+            "Rapidash usually can be seen casually cantering in the fields and plains. However, when this Pok\u00e9mon turns serious, its fiery manes flare and blaze as it gallops its way up to 150 mph.",
+            "Just loves to run. If it sees something faster than itself, it will give chase at top speed.",
+            "This Pok\u00e9mon can be seen galloping through fields at speeds of up to 150 mph, its fiery mane fluttering in the wind.",
+            "The fastest runner becomes the leader, and it decides the herd\u2019s pace and direction of travel.",
+            "It gallops at nearly 150 mph. With its mane blazing ferociously, it races as if it were an arrow.",
+            "It has astounding acceleration. From a standstill, it can reach top speed within 10 steps.",
+            "Fiery mane aglow, Rapidash darts like an arrow across the land. This prodigiously swift creature can traverse the vast region of Hisui in a day and a half."
+        ],
+        "Galarian Rapidash": [
+            "Little can stand up to its psycho cut. Unleashed from this Pok\u00e9mon\u2019s horn, the move will punch a hole right through a thick metal sheet.",
+            "Brave and prideful, this Pok\u00e9mon dashes airily through the forest, its steps aided by the psychic power stored in the fur on its fetlocks."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787199470370917/78.png",
+    "discord_sprite": "<:P78:1132116157437067344>"
+}

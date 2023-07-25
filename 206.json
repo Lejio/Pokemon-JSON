@@ -1,0 +1,235 @@
+{
+    "alt-version(s)": [],
+    "name": "Dunsparce",
+    "Dunsparce": {
+        "pokedex_data": {
+            "National No.": "0206",
+            "Type": [
+                "Normal"
+            ],
+            "Species": "Land Snake Poke\u0301mon",
+            "Height": "1.5 m (4\u203211\u2032\u2032)",
+            "Weight": "14.0 kg (30.9 lbs)",
+            "Abilities": {
+                "Serene Grace": {
+                    "href": "/ability/serene-grace",
+                    "effect": "Boosts the likelihood of added effects appearing.",
+                    "hidden": false
+                },
+                "Run Away": {
+                    "href": "/ability/run-away",
+                    "effect": "Enables a sure getaway from wild Pok\u00e9mon.",
+                    "hidden": false
+                },
+                "Rattled": {
+                    "href": "/ability/rattled",
+                    "effect": "Bug, Ghost or Dark type moves scare it and boost its Speed.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 HP",
+            "Catch rate": "190",
+            "BaseFriendship": "50",
+            "Base Exp.": "145",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "100",
+                "Min": "310",
+                "Max": "404"
+            },
+            "Attack": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Defense": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Atk": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Def": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Speed": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Total": "415"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Dunsparce",
+                    "nationalNo": "#0206",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Dudunsparce",
+                    "nationalNo": "#0982",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": "Two-Segment Form"
+                },
+                "requirement": "(after Hyper Drill learned)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Dunsparce",
+                    "nationalNo": "#0206",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Dudunsparce",
+                    "nationalNo": "#0982",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": "Three-Segment Form"
+                },
+                "requirement": "(after Hyper Drill learned, rare)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Defense Curl": "1",
+            "Flail": "1",
+            "Mud-Slap": "4",
+            "Rollout": "8",
+            "Glare": "12",
+            "Screech": "16",
+            "Ancient Power": "20",
+            "Drill Run": "24",
+            "Yawn": "28",
+            "Hyper Drill": "32",
+            "Roost": "36",
+            "Dragon Rush": "40",
+            "Coil": "44",
+            "Double-Edge": "48",
+            "Endeavor": "52"
+        },
+        "egg": {
+            "Aqua Tail": null,
+            "Astonish": null,
+            "Bite": null,
+            "Curse": null,
+            "Headbutt": null,
+            "Last Resort": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Agility": "04",
+            "Mud-Slap": "05",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Thief": "18",
+            "Pounce": "21",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Poison Tail": "26",
+            "Bulldoze": "28",
+            "Hex": "29",
+            "Mud Shot": "35",
+            "Rock Tomb": "36",
+            "Stored Power": "41",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Sandstorm": "51",
+            "Smart Strike": "53",
+            "Dig": "55",
+            "Zen Headbutt": "59",
+            "Air Slash": "65",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Poison Jab": "83",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Substitute": "103",
+            "Drill Run": "106",
+            "Shadow Ball": "114",
+            "Stealth Rock": "116",
+            "Hyper Voice": "117",
+            "Ice Spinner": "124",
+            "Flamethrower": "125",
+            "Thunderbolt": "126",
+            "Amnesia": "128",
+            "Calm Mind": "129",
+            "Helping Hand": "130",
+            "Baton Pass": "132",
+            "Earth Power": "133",
+            "Ice Beam": "135",
+            "Fire Blast": "141",
+            "Blizzard": "143",
+            "Wild Charge": "147",
+            "Earthquake": "149",
+            "Stone Edge": "150",
+            "Giga Impact": "152",
+            "Hyper Beam": "163",
+            "Thunder": "166",
+            "Solar Beam": "168",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Dunsparce": [
+            "When spotted, this pok\u00e9mon escapes backward by furiously boring into the ground with its tail.",
+            "If spotted, it escapes by burrowing with its tail. It can float just slightly using its wings.",
+            "It hides deep inside caves where no light ever reaches it and remains virtually motionless there.",
+            "DUNSPARCE has a drill for its tail. It uses this tail to burrow into the ground backwards. This pok\u00e9mon is known to make its nest in complex shapes deep under the ground.",
+            "If spotted, it escapes by burrowing with its tail. It can hover just slightly using its wings.",
+            "When spotted, this pok\u00e9mon escapes backward by furiously boring into the ground with its tail.",
+            "Its drill-tipped tail is used to burrow into the ground backwards. This pok\u00e9mon is known to make its nest in complex shapes deep under the ground.",
+            "It digs into the ground with its tail and makes a mazelike nest. It can fly just a little.",
+            "When spotted, this Pok\u00e9mon escapes backward by furiously boring into the ground with its tail.",
+            "If spotted, it escapes by burrowing with its tail. It can float just slightly using its wings.",
+            "It digs into the ground with its tail and makes a mazelike nest. It can fly just a little.",
+            "It creates mazes in dark locations. When spotted, it flees into the ground by digging with its tail.",
+            "When spotted, this Pok\u00e9mon escapes backward by furiously boring into the ground with its tail.",
+            "It digs into the ground with its tail and makes a mazelike nest. It can fly just a little.",
+            "Dunsparce has a drill for its tail. It uses this tail to burrow into the ground backward. This Pok\u00e9mon is known to make its nest in complex shapes deep under the ground.",
+            "It travels by digging through the ground. Diglett and Dunsparce share one another\u2019s tunnels happily.",
+            "When it sees a person, it digs a hole with its tail to make its escape. If you happen to find one, consider yourself lucky.",
+            "This Pok\u00e9mon\u2019s tiny wings have some scientists saying that Dunsparce used to fly through the sky in ancient times.",
+            "The nests Dunsparce live in are mazes of tunnels. They never get lost in their own nests\u2014they can tell where they are by the scent of the dirt.",
+            "It digs into the ground with its tail and makes a mazelike nest. It can fly just a little.",
+            "It creates mazes in dark locations. When spotted, it flees into the ground by digging with its tail.",
+            "If spotted, it escapes by burrowing with its tail. It can float just slightly using its wings."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788203700002916/206.png",
+    "discord_sprite": "<:P206:1132121796699754506>"
+}

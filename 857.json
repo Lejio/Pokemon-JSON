@@ -1,0 +1,198 @@
+{
+    "alt-version(s)": [],
+    "name": "Hattrem",
+    "Hattrem": {
+        "pokedex_data": {
+            "National No.": "0857",
+            "Type": [
+                "Psychic"
+            ],
+            "Species": "Serene Poke\u0301mon",
+            "Height": "0.6 m (2\u203200\u2032\u2032)",
+            "Weight": "4.8 kg (10.6 lbs)",
+            "Abilities": {
+                "Healer": {
+                    "href": "/ability/healer",
+                    "effect": "May heal an ally's status conditions.",
+                    "hidden": false
+                },
+                "Anticipation": {
+                    "href": "/ability/anticipation",
+                    "effect": "Senses a foe's dangerous moves.",
+                    "hidden": false
+                },
+                "Magic Bounce": {
+                    "href": "/ability/magic-bounce",
+                    "effect": "Reflects status- changing moves.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Sp. Atk",
+            "Catch rate": "120",
+            "BaseFriendship": "50",
+            "Base Exp.": "130",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "0% male,100% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "57",
+                "Min": "224",
+                "Max": "318"
+            },
+            "Attack": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Defense": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Atk": {
+                "Base": "86",
+                "Min": "159",
+                "Max": "298"
+            },
+            "Sp. Def": {
+                "Base": "73",
+                "Min": "135",
+                "Max": "269"
+            },
+            "Speed": {
+                "Base": "49",
+                "Min": "92",
+                "Max": "216"
+            },
+            "Total": "370"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Hatenna",
+                    "nationalNo": "#0856",
+                    "type": [
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Hattrem",
+                    "nationalNo": "#0857",
+                    "type": [
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 32)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Hattrem",
+                    "nationalNo": "#0857",
+                    "type": [
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Hatterene",
+                    "nationalNo": "#0858",
+                    "type": [
+                        "Psychic",
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 42)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Confusion": "1",
+            "Disarming Voice": "1",
+            "Life Dew": "1",
+            "Play Nice": "1",
+            "Aromatic Mist": "15",
+            "Psybeam": "20",
+            "Heal Pulse": "25",
+            "Dazzling Gleam": "30",
+            "Calm Mind": "37",
+            "Psychic": "44",
+            "Healing Wish": "51"
+        },
+        "evolution": {
+            "Brutal Swing": "60"
+        },
+        "egg": {
+            "After You": null,
+            "Mystical Fire": null,
+            "Nuzzle": null,
+            "Quash": null
+        },
+        "tm": {
+            "Charm": "02",
+            "Protect": "07",
+            "Psybeam": "16",
+            "Disarming Voice": "19",
+            "Facade": "25",
+            "Swift": "32",
+            "Magical Leaf": "33",
+            "Draining Kiss": "37",
+            "Stored Power": "41",
+            "Endure": "47",
+            "Psyshock": "54",
+            "Sleep Talk": "70",
+            "Reflect": "74",
+            "Light Screen": "75",
+            "Dazzling Gleam": "79",
+            "Metronome": "80",
+            "Thunder Wave": "82",
+            "Rest": "85",
+            "Imprison": "92",
+            "Dark Pulse": "94",
+            "Skill Swap": "98",
+            "Substitute": "103",
+            "Trick": "109",
+            "Giga Drain": "111",
+            "Psychic": "120",
+            "Play Rough": "127",
+            "Calm Mind": "129",
+            "Helping Hand": "130",
+            "Baton Pass": "132",
+            "Psychic Terrain": "138",
+            "Misty Terrain": "139",
+            "Trick Room": "161",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Hattrem": [
+            "No matter who you are, if you bring strong emotions near this Pok\u00e9mon, it will silence you violently.",
+            "Using the braids on its head, it pummels foes to get them to quiet down. One blow from those braids would knock out a professional boxer.",
+            "To this Pok\u00e9mon, strong emotions apparently feel like incredibly loud noises\u2014even if the emotions are happy ones.",
+            "The moment this Pok\u00e9mon finds someone who\u2019s emitting strong emotions, it will pummel them senseless with its braids to silence them."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793281110523914/857.png",
+    "discord_sprite": "<:P857:1132150510590382100>"
+}

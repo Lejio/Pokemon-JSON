@@ -1,0 +1,166 @@
+{
+    "alt-version(s)": [],
+    "name": "Azelf",
+    "Azelf": {
+        "pokedex_data": {
+            "National No.": "0482",
+            "Type": [
+                "Psychic"
+            ],
+            "Species": "Willpower Poke\u0301mon",
+            "Height": "0.3 m (1\u203200\u2032\u2032)",
+            "Weight": "0.3 kg (0.7 lbs)",
+            "Abilities": {
+                "Levitate": {
+                    "href": "/ability/levitate",
+                    "effect": "Gives immunity to Ground type moves.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack, 1 Sp. Atk",
+            "Catch rate": "3",
+            "BaseFriendship": "140",
+            "Base Exp.": "290",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "75",
+                "Min": "260",
+                "Max": "354"
+            },
+            "Attack": {
+                "Base": "125",
+                "Min": "229",
+                "Max": "383"
+            },
+            "Defense": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Atk": {
+                "Base": "125",
+                "Min": "229",
+                "Max": "383"
+            },
+            "Sp. Def": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Speed": {
+                "Base": "115",
+                "Min": "211",
+                "Max": "361"
+            },
+            "Total": "580"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "not very effective",
+                "Ground": "no effect",
+                "Psychic": "not very effective",
+                "Bug": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Confusion": "1",
+            "Rest": "1",
+            "Swift": "7",
+            "Detect": "14",
+            "Psybeam": "21",
+            "Imprison": "28",
+            "Extrasensory": "35",
+            "Nasty Plot": "42",
+            "Psychic": "49",
+            "Uproar": "56",
+            "Future Sight": "63",
+            "Last Resort": "70",
+            "Explosion": "77",
+            "Mystical Power": "84"
+        },
+        "egg": null,
+        "tm": {
+            "Mud-Slap": "05",
+            "Protect": "07",
+            "Water Pulse": "11",
+            "Acrobatics": "14",
+            "Psybeam": "16",
+            "Charge Beam": "23",
+            "Facade": "25",
+            "Swift": "32",
+            "Draining Kiss": "37",
+            "Stored Power": "41",
+            "Fling": "43",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Sandstorm": "51",
+            "Psyshock": "54",
+            "Zen Headbutt": "59",
+            "U-turn": "60",
+            "Fire Punch": "67",
+            "Thunder Punch": "68",
+            "Ice Punch": "69",
+            "Sleep Talk": "70",
+            "Drain Punch": "73",
+            "Reflect": "74",
+            "Light Screen": "75",
+            "Dazzling Gleam": "79",
+            "Metronome": "80",
+            "Grass Knot": "81",
+            "Thunder Wave": "82",
+            "Rest": "85",
+            "Taunt": "87",
+            "Imprison": "92",
+            "Skill Swap": "98",
+            "Substitute": "103",
+            "Trick": "109",
+            "Shadow Ball": "114",
+            "Stealth Rock": "116",
+            "Energy Ball": "119",
+            "Psychic": "120",
+            "Encore": "122",
+            "Flamethrower": "125",
+            "Thunderbolt": "126",
+            "Play Rough": "127",
+            "Calm Mind": "129",
+            "Helping Hand": "130",
+            "Baton Pass": "132",
+            "Nasty Plot": "140",
+            "Fire Blast": "141",
+            "Giga Impact": "152",
+            "Trick Room": "161",
+            "Hyper Beam": "163",
+            "Thunder": "166",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Azelf": [
+            "Known as \u201cThe Being of Willpower.\u201d It sleeps at the bottom of a lake to keep the world in balance.",
+            "It is thought that UXIE, MESPRIT and AZELF all came from the same egg.",
+            "When AZELF flew, people gained the determination to do things. It was the birth of willpower.",
+            "This Pok\u00e9mon is said to have endowed humans with the determination needed to face any of life\u2019s difficulties.",
+            "When Azelf flew, people gained the determination to do things. It was the birth of willpower.",
+            "Known as \u201cThe Being of Willpower.\u201d It sleeps at the bottom of a lake to keep the world in balance.",
+            "It is thought that Uxie, Mesprit, and Azelf all came from the same egg.",
+            "It is known as the Being of Willpower. It sleeps at the bottom of a lake to keep the world in balance.",
+            "It is thought that Uxie, Mesprit, and Azelf all came from the same egg.",
+            "The dreaded Being of Willpower. Legends tell of this Pok\u00e9mon manipulating the will of its adversaries and turning them into puppets of its own."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790357315715082/482.png",
+    "discord_sprite": "<:P482:1132133942930178068>"
+}

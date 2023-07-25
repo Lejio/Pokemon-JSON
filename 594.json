@@ -1,0 +1,165 @@
+{
+    "alt-version(s)": [],
+    "name": "Alomomola",
+    "Alomomola": {
+        "pokedex_data": {
+            "National No.": "0594",
+            "Type": [
+                "Water"
+            ],
+            "Species": "Caring Poke\u0301mon",
+            "Height": "1.2 m (3\u203211\u2032\u2032)",
+            "Weight": "31.6 kg (69.7 lbs)",
+            "Abilities": {
+                "Healer": {
+                    "href": "/ability/healer",
+                    "effect": "May heal an ally's status conditions.",
+                    "hidden": false
+                },
+                "Hydration": {
+                    "href": "/ability/hydration",
+                    "effect": "Heals status problems if it is raining.",
+                    "hidden": false
+                },
+                "Regenerator": {
+                    "href": "/ability/regenerator",
+                    "effect": "Restores a little HP when withdrawn from battle.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 HP",
+            "Catch rate": "75",
+            "BaseFriendship": "50",
+            "Base Exp.": "165",
+            "Growth Rate": "Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "165",
+                "Min": "440",
+                "Max": "534"
+            },
+            "Attack": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Defense": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Sp. Atk": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Def": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Speed": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Total": "470"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Play Nice": "1",
+            "Pound": "1",
+            "Aqua Ring": "5",
+            "Aqua Jet": "9",
+            "Helping Hand": "13",
+            "Wide Guard": "13",
+            "Protect": "21",
+            "Water Pulse": "25",
+            "Healing Wish": "29",
+            "Soak": "33",
+            "Wish": "37",
+            "Brine": "41",
+            "Safeguard": "45",
+            "Whirlpool": "49",
+            "Hydro Pump": "55"
+        },
+        "egg": {
+            "Bounce": null,
+            "Endure": null,
+            "Mirror Coat": null,
+            "Mist": null,
+            "Pain Split": null,
+            "Tickle": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Protect": "07",
+            "Water Pulse": "11",
+            "Acrobatics": "14",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Icy Wind": "34",
+            "Endure": "47",
+            "Rain Dance": "50",
+            "Snowscape": "52",
+            "Zen Headbutt": "59",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Light Screen": "75",
+            "Waterfall": "77",
+            "Rest": "85",
+            "Skill Swap": "98",
+            "Substitute": "103",
+            "Liquidation": "110",
+            "Shadow Ball": "114",
+            "Psychic": "120",
+            "Surf": "123",
+            "Play Rough": "127",
+            "Calm Mind": "129",
+            "Helping Hand": "130",
+            "Baton Pass": "132",
+            "Ice Beam": "135",
+            "Misty Terrain": "139",
+            "Hydro Pump": "142",
+            "Blizzard": "143",
+            "Giga Impact": "152",
+            "Hyper Beam": "163",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Alomomola": [
+            "The special membrane enveloping Alomomola has the ability to heal wounds.",
+            "Floating in the open sea is how they live. When they find a wounded Pok\u00e9mon, they embrace it and bring it to shore.",
+            "It gently holds injured and weak Pok\u00e9mon in its fins. Its special membrane heals their wounds.",
+            "Floating in the open sea is how they live. When they find a wounded Pok\u00e9mon, they embrace it and bring it to shore.",
+            "It gently holds injured and weak Pok\u00e9mon in its fins. Its special membrane heals their wounds.",
+            "It uses its special mucus to close the wounds of injured Pok\u00e9mon. The reason for this behavior remains unknown.",
+            "They float upon the open sea. Many water Pok\u00e9mon gather in the area around Alomomola.",
+            "Fishermen take them along on long voyages, because if you have an Alomomola with you, there\u2019ll be no need for a doctor or medicine.",
+            "The reason it helps Pok\u00e9mon in a weakened condition is that any Pok\u00e9mon coming after them may also attack Alomomola.",
+            "It gently holds injured and weak Pok\u00e9mon in its fins. Its special membrane heals their wounds.",
+            "They float upon the open sea. Many water Pok\u00e9mon gather in the area around Alomomola."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791230846648350/594.png",
+    "discord_sprite": "<:P594:1132138876421554227>"
+}

@@ -1,0 +1,155 @@
+{
+    "alt-version(s)": [],
+    "name": "Skwovet",
+    "Skwovet": {
+        "pokedex_data": {
+            "National No.": "0819",
+            "Type": [
+                "Normal"
+            ],
+            "Species": "Cheeky Poke\u0301mon",
+            "Height": "0.3 m (1\u203200\u2032\u2032)",
+            "Weight": "2.5 kg (5.5 lbs)",
+            "Abilities": {
+                "Cheek Pouch": {
+                    "href": "/ability/cheek-pouch",
+                    "effect": "Restores additional HP when a Berry is consumed.",
+                    "hidden": false
+                },
+                "Gluttony": {
+                    "href": "/ability/gluttony",
+                    "effect": "Encourages the early use of a held Berry.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 HP",
+            "Catch rate": "255",
+            "BaseFriendship": "50",
+            "Base Exp.": "55",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "70",
+                "Min": "250",
+                "Max": "344"
+            },
+            "Attack": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Defense": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Sp. Atk": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Sp. Def": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Speed": {
+                "Base": "25",
+                "Min": "49",
+                "Max": "163"
+            },
+            "Total": "275"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Skwovet",
+                    "nationalNo": "#0819",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Greedent",
+                    "nationalNo": "#0820",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 24)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Tackle": "1",
+            "Tail Whip": "1",
+            "Bite": "5",
+            "Stuff Cheeks": "10",
+            "Spit Up": "15",
+            "Stockpile": "15",
+            "Swallow": "15",
+            "Body Slam": "20",
+            "Rest": "25",
+            "Counter": "30",
+            "Bullet Seed": "35",
+            "Super Fang": "40",
+            "Belch": "45"
+        },
+        "egg": {
+            "Belly Drum": null,
+            "Defense Curl": null,
+            "Last Resort": null,
+            "Rollout": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Mud-Slap": "05",
+            "Protect": "07",
+            "Thief": "18",
+            "Trailblaze": "20",
+            "Facade": "25",
+            "Mud Shot": "35",
+            "Fling": "43",
+            "Endure": "47",
+            "Dig": "55",
+            "Bullet Seed": "56",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Seed Bomb": "71",
+            "Rest": "85",
+            "Substitute": "103",
+            "Crunch": "108",
+            "Hyper Voice": "117",
+            "Amnesia": "128",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Skwovet": [
+            "Found throughout the Galar region, this Pok\u00e9mon becomes uneasy if its cheeks are ever completely empty of berries.",
+            "It eats berries nonstop\u2014a habit that has made it more resilient than it looks. It\u2019ll show up on farms, searching for yet more berries.",
+            "It stores berries in its cheeks. When there are no berries to be found, Skwovet will stuff pebbles into its cheeks to stave off its cravings.",
+            "No matter how much it stuffs its belly with food, it is always anxious about getting hungry again. So, it stashes berries in its cheeks and tail."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792989790945381/819.png",
+    "discord_sprite": "<:P819:1132148835527962695>"
+}

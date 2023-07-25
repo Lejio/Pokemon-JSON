@@ -1,0 +1,243 @@
+{
+    "alt-version(s)": [],
+    "name": "Haunter",
+    "Haunter": {
+        "pokedex_data": {
+            "National No.": "0093",
+            "Type": [
+                "Ghost",
+                "Poison"
+            ],
+            "Species": "Gas Poke\u0301mon",
+            "Height": "1.6 m (5\u203203\u2032\u2032)",
+            "Weight": "0.1 kg (0.2 lbs)",
+            "Abilities": {
+                "Levitate": {
+                    "href": "/ability/levitate",
+                    "effect": "Gives immunity to Ground type moves.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Sp. Atk",
+            "Catch rate": "90",
+            "BaseFriendship": "50",
+            "Base Exp.": "142",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "45",
+                "Min": "200",
+                "Max": "294"
+            },
+            "Attack": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Defense": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Sp. Atk": {
+                "Base": "115",
+                "Min": "211",
+                "Max": "361"
+            },
+            "Sp. Def": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Speed": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Total": "405"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "no effect",
+                "Grass": "not very effective",
+                "Fighting": "no effect",
+                "Poison": "not very effective",
+                "Ground": "no effect",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Gastly",
+                    "nationalNo": "#0092",
+                    "type": [
+                        "Ghost",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Haunter",
+                    "nationalNo": "#0093",
+                    "type": [
+                        "Ghost",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 25)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Haunter",
+                    "nationalNo": "#0093",
+                    "type": [
+                        "Ghost",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Gengar",
+                    "nationalNo": "#0094",
+                    "type": [
+                        "Ghost",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Trade)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Confuse Ray": "1",
+            "Hypnosis": "1",
+            "Lick": "1",
+            "Mean Look": "1",
+            "Payback": "12",
+            "Spite": "16",
+            "Curse": "20",
+            "Hex": "24",
+            "Night Shade": "30",
+            "Sucker Punch": "36",
+            "Dark Pulse": "42",
+            "Shadow Ball": "48",
+            "Destiny Bond": "54",
+            "Dream Eater": "60"
+        },
+        "evolution": {
+            "Shadow Punch": "60"
+        },
+        "egg": {
+            "Astonish": null,
+            "Clear Smog": null,
+            "Disable": null,
+            "Haze": null,
+            "Perish Song": null,
+            "Reflect Type": null,
+            "Smog": null,
+            "Toxic": null
+        },
+        "tm": {
+            "Scary Face": "06",
+            "Protect": "07",
+            "Acid Spray": "13",
+            "Confuse Ray": "17",
+            "Thief": "18",
+            "Facade": "25",
+            "Hex": "29",
+            "Icy Wind": "34",
+            "Night Shade": "42",
+            "Fling": "43",
+            "Venoshock": "45",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Shadow Claw": "61",
+            "Foul Play": "62",
+            "Fire Punch": "67",
+            "Thunder Punch": "68",
+            "Ice Punch": "69",
+            "Sleep Talk": "70",
+            "Dazzling Gleam": "79",
+            "Metronome": "80",
+            "Poison Jab": "83",
+            "Rest": "85",
+            "Taunt": "87",
+            "Toxic Spikes": "91",
+            "Imprison": "92",
+            "Dark Pulse": "94",
+            "Skill Swap": "98",
+            "Gunk Shot": "102",
+            "Substitute": "103",
+            "Will-O-Wisp": "107",
+            "Trick": "109",
+            "Giga Drain": "111",
+            "Shadow Ball": "114",
+            "Energy Ball": "119",
+            "Psychic": "120",
+            "Encore": "122",
+            "Thunderbolt": "126",
+            "Nasty Plot": "140",
+            "Sludge Bomb": "148",
+            "Phantom Force": "151",
+            "Focus Blast": "158",
+            "Trick Room": "161",
+            "Thunder": "166",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Haunter": [
+            "Because of its ability to slip through block walls, it is said to be from another dimension.",
+            "By licking, it saps the victim\u2019s life. It causes shaking that won\u2019t stop until the victim\u2019s demise.",
+            "In total darkness, where nothing is visible, HAUNTER lurks, silently stalking its next victim.",
+            "Its tongue is made of gas. If licked, its victim starts shaking constantly until death eventually comes.",
+            "It hides in the dark, planning to take the life of the next living thing that wanders close by.",
+            "HAUNTER is a dangerous pok\u00e9mon. If one beckons you while floating in darkness, you must never approach it. This pok\u00e9mon will try to lick you with its tongue and steal your life away.",
+            "If you get the feeling of being watched in darkness when nobody is around, HAUNTER is there.",
+            "Because of its ability to slip through block walls, it is said to be from another dimension.",
+            "If a HAUNTER beckons you while it is floating in darkness, don\u2019t approach it. This pok\u00e9mon will try to lick you with its tongue and steal your life away.",
+            "It can slip through any obstacle. It lurks inside walls to keep an eye on its foes.",
+            "It licks with its gaseous tongue to steal the victim\u2019s life force. It lurks in darkness for prey.",
+            "It likes to lurk in the dark and tap shoulders with a gaseous hand. Its touch causes endless shuddering.",
+            "In total darkness, where nothing is visible, HAUNTER lurks, silently stalking its next victim.",
+            "Its tongue is made of gas. If licked, its victim starts shaking constantly until death eventually comes.",
+            "It likes to lurk in the dark and tap shoulders with a gaseous hand. Its touch causes endless shuddering.",
+            "If you get the feeling of being watched in darkness when nobody is around, Haunter is there.",
+            "It licks with its gaseous tongue to steal the victim\u2019s life force. It lurks in darkness for prey.",
+            "Haunter is a dangerous Pok\u00e9mon. If one beckons you while floating in darkness, you must never approach it. This Pok\u00e9mon will try to lick you with its tongue and steal your life away.",
+            "It strikes at humans from total darkness. Those licked by its cold tongue grow weaker with each passing day until they die.",
+            "It fears the light and revels in the dark. It may be on the verge of extinction in cities that stay brightly lit at night.",
+            "On moonless nights, Haunter searches for someone to curse, so it\u2019s best not to go out walking around.",
+            "It\u2019s dangerous to go outside alone on nights when you\u2019re feeling sad. Haunter will catch you, and you won\u2019t be able to go back home.",
+            "By licking, it saps the victim\u2019s life. It causes shaking that won\u2019t stop until the victim\u2019s demise.",
+            "Its tongue is made of gas. If licked, its victim starts shaking constantly until death eventually comes.",
+            "If you get the feeling of being watched in darkness when nobody is around, Haunter is there.",
+            "It can slip through any obstacle. It lurks inside walls to keep an eye on its foes.",
+            "It licks with its gaseous tongue to steal its victim\u2019s life-force. It lurks in darkness, waiting for prey.",
+            "This frightful, malevolent spirit can glide through walls, appearing wherever it likes. According to rumor, victims of a Haunter\u2019s lick will wither to death day by day.",
+            "It likes to lurk in the dark and tap shoulders with a gaseous hand. Its touch causes endless shuddering.",
+            "In total darkness, where nothing is visible, Haunter lurks, silently stalking its next victim."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787317829443704/93.png",
+    "discord_sprite": "<:P93:1132116815888269392>"
+}

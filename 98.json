@@ -1,0 +1,198 @@
+{
+    "alt-version(s)": [],
+    "name": "Krabby",
+    "Krabby": {
+        "pokedex_data": {
+            "National No.": "0098",
+            "Type": [
+                "Water"
+            ],
+            "Species": "River Crab Poke\u0301mon",
+            "Height": "0.4 m (1\u203204\u2032\u2032)",
+            "Weight": "6.5 kg (14.3 lbs)",
+            "Abilities": {
+                "Hyper Cutter": {
+                    "href": "/ability/hyper-cutter",
+                    "effect": "Prevents other Pok\u00e9mon from lowering Attack stat.",
+                    "hidden": false
+                },
+                "Shell Armor": {
+                    "href": "/ability/shell-armor",
+                    "effect": "The Pok\u00e9mon is protected against critical hits.",
+                    "hidden": false
+                },
+                "Sheer Force": {
+                    "href": "/ability/sheer-force",
+                    "effect": "Removes added effects to increase move damage.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack",
+            "Catch rate": "225",
+            "BaseFriendship": "50",
+            "Base Exp.": "65",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "30",
+                "Min": "170",
+                "Max": "264"
+            },
+            "Attack": {
+                "Base": "105",
+                "Min": "193",
+                "Max": "339"
+            },
+            "Defense": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Sp. Atk": {
+                "Base": "25",
+                "Min": "49",
+                "Max": "163"
+            },
+            "Sp. Def": {
+                "Base": "25",
+                "Min": "49",
+                "Max": "163"
+            },
+            "Speed": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Total": "325"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Krabby",
+                    "nationalNo": "#0098",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Kingler",
+                    "nationalNo": "#0099",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 28)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Leer": "1",
+            "Water Gun": "1",
+            "Harden": "4",
+            "Metal Claw": "8",
+            "Mud Shot": "12",
+            "Protect": "16",
+            "Bubble Beam": "20",
+            "Stomp": "24",
+            "Flail": "29",
+            "Razor Shell": "32",
+            "Slam": "36",
+            "Swords Dance": "40",
+            "Crabhammer": "44",
+            "Guillotine": "48"
+        },
+        "egg": {
+            "Agility": null,
+            "Ally Switch": null,
+            "Amnesia": null,
+            "Ancient Power": null,
+            "Flail": null,
+            "Hammer Arm": null,
+            "Haze": null,
+            "Knock Off": null,
+            "Night Slash": null,
+            "Slam": null,
+            "Slash": null,
+            "Tickle": null
+        },
+        "tm": {
+            "Water Pulse": "03",
+            "Hail": "07",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Dig": "28",
+            "Brick Break": "31",
+            "Double Team": "32",
+            "Rock Tomb": "39",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Scald": "49",
+            "False Swipe": "54",
+            "Brine": "55",
+            "Fling": "56",
+            "Endure": "58",
+            "Swords Dance": "75",
+            "Rock Slide": "80",
+            "X-Scissor": "81",
+            "Sleep Talk": "82",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Cut": "93",
+            "Surf": "95",
+            "Strength": "96",
+            "Rock Smash": "98"
+        }
+    },
+    "entries": {
+        "Krabby": [
+            "Its pincers are not only powerful weapons, they are used for balance when walking sideways.",
+            "Its pincers are superb weapons. They sometimes break off during battle, but they grow back fast.",
+            "If it senses danger approaching, it cloaks itself with bubbles from its mouth so it will look bigger.",
+            "The pincers break off easily. If it loses a pincer, it somehow becomes incapable of walking sideways.",
+            "If it is unable to find food, it will absorb nutrients by swallowing a mouthful of sand.",
+            "KRABBY live on beaches, burrowed inside holes dug into the sand. On sandy beaches with little in the way of food, these pok\u00e9mon can be seen squabbling with each other over territory.",
+            "It can be found near the sea. The large pincers grow back if they are torn out of their sockets.",
+            "Its pincers are not only powerful weapons, they are used for balance when walking sideways.",
+            "KRABBY live in holes dug into beaches. On sandy shores with little in the way of food, they can be seen squabbling with each other over territory.",
+            "It lives in burrows dug on sandy beaches. Its pincers fully grow back if they are broken in battle.",
+            "If it senses danger approaching, it cloaks itself with bubbles from its mouth so it will look bigger.",
+            "The pincers break off easily. If it loses a pincer, it somehow becomes incapable of walking sideways.",
+            "It lives in burrows dug on sandy beaches. Its pincers fully grow back if they are broken in battle.",
+            "If it senses danger approaching, it cloaks itself with bubbles from its mouth so it will look bigger.",
+            "It can be found near the sea. The large pincers grow back if they are torn out of their sockets.",
+            "Krabby live on beaches, burrowed inside holes dug into the sand. On sandy beaches with little in the way of food, these Pok\u00e9mon can be seen squabbling with each other over territory.",
+            "Its pincers are superb weapons. They sometimes break off during battle, but they grow back fast.",
+            "It can be found near the sea. The large pincers grow back if they are torn out of their sockets.",
+            "If it senses danger approaching, it cloaks itself with bubbles from its mouth so it will look bigger.",
+            "It lives in burrows dug on sandy beaches. Its pincers fully grow back if they are lost in battle."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787356580622436/98.png",
+    "discord_sprite": "<:P98:1132117035464265739>"
+}

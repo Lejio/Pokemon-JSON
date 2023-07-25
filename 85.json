@@ -1,0 +1,197 @@
+{
+    "alt-version(s)": [],
+    "name": "Dodrio",
+    "Dodrio": {
+        "pokedex_data": {
+            "National No.": "0085",
+            "Type": [
+                "Normal",
+                "Flying"
+            ],
+            "Species": "Triple Bird Poke\u0301mon",
+            "Height": "1.8 m (5\u203211\u2032\u2032)",
+            "Weight": "85.2 kg (187.8 lbs)",
+            "Abilities": {
+                "Run Away": {
+                    "href": "/ability/run-away",
+                    "effect": "Enables a sure getaway from wild Pok\u00e9mon.",
+                    "hidden": false
+                },
+                "Early Bird": {
+                    "href": "/ability/early-bird",
+                    "effect": "The Pok\u00e9mon awakens quickly from sleep.",
+                    "hidden": false
+                },
+                "Tangled Feet": {
+                    "href": "/ability/tangled-feet",
+                    "effect": "Raises evasion if the Pok\u00e9mon is confused.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "165",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "60",
+                "Min": "230",
+                "Max": "324"
+            },
+            "Attack": {
+                "Base": "110",
+                "Min": "202",
+                "Max": "350"
+            },
+            "Defense": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Atk": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Def": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Speed": {
+                "Base": "110",
+                "Min": "202",
+                "Max": "350"
+            },
+            "Total": "470"
+        },
+        "defense_stats": {
+            "default": {
+                "Electric": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Ground": "no effect",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Doduo",
+                    "nationalNo": "#0084",
+                    "type": [
+                        "Normal",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Dodrio",
+                    "nationalNo": "#0085",
+                    "type": [
+                        "Normal",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 31)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Growl": "1",
+            "Peck": "1",
+            "Quick Attack": "5",
+            "Tri Attack": "1",
+            "Leer": "8",
+            "Fury Attack": "12",
+            "Wing Attack": "15",
+            "Pluck": "19",
+            "Double Hit": "22",
+            "Agility": "26",
+            "Uproar": "29",
+            "Acupressure": "34",
+            "Swords Dance": "38",
+            "Lunge": "43",
+            "Drill Peck": "47",
+            "Endeavor": "52",
+            "Thrash": "56"
+        },
+        "evolution": {
+            "Tri Attack": "80"
+        },
+        "egg": {
+            "Assurance": null,
+            "Brave Bird": null,
+            "Endeavor": null,
+            "Flail": null,
+            "Haze": null,
+            "Quick Attack": null,
+            "Supersonic": null
+        },
+        "tm": {
+            "Work Up": "10",
+            "Sunny Day": "11",
+            "Taunt": "12",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Double Team": "32",
+            "Aerial Ace": "40",
+            "Torment": "41",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Steel Wing": "47",
+            "Roost": "51",
+            "Endure": "58",
+            "Payback": "66",
+            "Giga Impact": "68",
+            "Swords Dance": "75",
+            "Sleep Talk": "82",
+            "Swagger": "87",
+            "Pluck": "88",
+            "Substitute": "90",
+            "Fly": "94"
+        }
+    },
+    "entries": {
+        "Dodrio": [
+            "Uses its three brains to execute complex plans. While two heads sleep, one head stays awake.",
+            "One of DODUO\u2019s 2 heads splits to form a unique species. It runs close to 40 MPH in prairies.",
+            "It collects data and plans three times as wisely, but it may think too much and become immobilized.",
+            "If one of the heads gets to eat, the others will be satisfied, too, and they will stop squabbling.",
+            "An enemy that takes its eyes off any of the three heads--even for a second--will get pecked severely.",
+            "Watch out if DODRIO\u2019s three heads are looking in three separate directions. It\u2019s a sure sign that it is on its guard. Don\u2019t go near this pok\u00e9mon if it\u2019s being wary - it may decide to peck you.",
+            "Apparently, the heads aren\u2019t the only parts of the body that DODRIO has three of. It has three sets of hearts and lungs as well, so it is capable of running long distances without rest.",
+            "An odd species that is rarely found. The three heads respectively represent joy, sadness, and anger.",
+            "Uses its three brains to execute complex plans. While two heads sleep, one head is said to stay awake.",
+            "A peculiar pok\u00e9mon species with three heads. It vigorously races across grassy plains even in arid seasons with little rainfall.",
+            "When DODUO evolves into this odd breed, one of its heads splits into two. It runs at nearly 40 mph.",
+            "It collects data and plans three times as wisely, but it may think too much and fall into a state of immobility.",
+            "If one of the heads gets to eat, the others will be satisfied, too, and they will stop squabbling.",
+            "When Doduo evolves into this odd breed, one of its heads splits into two. It runs at nearly 40 mph.",
+            "An enemy that takes its eyes off any of the three heads--even for a second--will get pecked severely.",
+            "An odd species that is rarely found. The three heads respectively represent joy, sadness, and anger.",
+            "Watch out if Dodrio\u2019s three heads are looking in three separate directions. It\u2019s a sure sign that it is on its guard. Don\u2019t go near this Pok\u00e9mon if it\u2019s being wary\u2014it may decide to peck you.",
+            "Apparently, the heads aren\u2019t the only parts of the body that Dodrio has three of. It has three sets of hearts and lungs as well, so it is capable of running long distances without rest.",
+            "One of Doduo\u2019s two heads splits to form a unique species. It runs close to 40 mph in prairies.",
+            "When Doduo evolves into this odd breed, one of its heads splits into two. This Pok\u00e9mon runs at nearly 40 mph."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787255850221628/85.png",
+    "discord_sprite": "<:P85:1132116465626120192>"
+}

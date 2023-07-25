@@ -1,0 +1,190 @@
+{
+    "alt-version(s)": [],
+    "name": "Simisage",
+    "Simisage": {
+        "pokedex_data": {
+            "National No.": "0512",
+            "Type": [
+                "Grass"
+            ],
+            "Species": "Thorn Monkey Poke\u0301mon",
+            "Height": "1.1 m (3\u203207\u2032\u2032)",
+            "Weight": "30.5 kg (67.2 lbs)",
+            "Abilities": {
+                "Gluttony": {
+                    "href": "/ability/gluttony",
+                    "effect": "Encourages the early use of a held Berry.",
+                    "hidden": false
+                },
+                "Overgrow": {
+                    "href": "/ability/overgrow",
+                    "effect": "Powers up Grass-type moves in a pinch.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Speed",
+            "Catch rate": "75",
+            "BaseFriendship": "50",
+            "Base Exp.": "174",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "75",
+                "Min": "260",
+                "Max": "354"
+            },
+            "Attack": {
+                "Base": "98",
+                "Min": "180",
+                "Max": "324"
+            },
+            "Defense": {
+                "Base": "63",
+                "Min": "117",
+                "Max": "247"
+            },
+            "Sp. Atk": {
+                "Base": "98",
+                "Min": "180",
+                "Max": "324"
+            },
+            "Sp. Def": {
+                "Base": "63",
+                "Min": "117",
+                "Max": "247"
+            },
+            "Speed": {
+                "Base": "101",
+                "Min": "186",
+                "Max": "331"
+            },
+            "Total": "498"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Poison": "super-effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Bug": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Pansage",
+                    "nationalNo": "#0511",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Simisage",
+                    "nationalNo": "#0512",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Leaf Stone)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Fury Swipes": "1",
+            "Leer": "1",
+            "Lick": "1",
+            "Seed Bomb": "1"
+        },
+        "egg": {
+            "Astonish": null,
+            "Bullet Seed": null,
+            "Covet": null,
+            "Disarming Voice": null,
+            "Grass Whistle": null,
+            "Leaf Storm": null,
+            "Low Kick": null,
+            "Magical Leaf": null,
+            "Nasty Plot": null,
+            "Role Play": null,
+            "Spiky Shield": null,
+            "Tickle": null
+        },
+        "null": {
+            "Acrobatics": "55",
+            "Bite": "60",
+            "Crunch": "80",
+            "Fling": "\u2014",
+            "Grass Knot": "\u2014",
+            "Leech Seed": "\u2014",
+            "Natural Gift": "\u2014",
+            "Play Nice": "\u2014",
+            "Recycle": "\u2014",
+            "Scratch": "40",
+            "Torment": "\u2014",
+            "Vine Whip": "45"
+        },
+        "tm": {
+            "Work Up": "01",
+            "Toxic": "06",
+            "Hidden Power": "10",
+            "Sunny Day": "11",
+            "Taunt": "12",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Frustration": "21",
+            "Solar Beam": "22",
+            "Return": "27",
+            "Brick Break": "31",
+            "Double Team": "32",
+            "Rock Tomb": "39",
+            "Torment": "41",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Low Sweep": "47",
+            "Round": "48",
+            "Focus Blast": "52",
+            "Energy Ball": "53",
+            "Fling": "56",
+            "Acrobatics": "62",
+            "Shadow Claw": "65",
+            "Payback": "66",
+            "Giga Impact": "68",
+            "Rock Slide": "80",
+            "Grass Knot": "86",
+            "Swagger": "87",
+            "Sleep Talk": "88",
+            "Substitute": "90",
+            "Nature Power": "96",
+            "Confide": "100"
+        }
+    },
+    "entries": {
+        "Simisage": [
+            "Ill tempered, it fights by swinging its barbed tail around wildly. The leaf growing on its head is very bitter.",
+            "It attacks enemies with strikes of its thorn-covered tail. This Pok\u00e9mon is wild tempered.",
+            "It strikes its enemies with a thorn-covered tail. The leaf on its head is bitter.",
+            "It attacks enemies with strikes of its thorn-covered tail. This Pok\u00e9mon is wild tempered.",
+            "Ill tempered, it fights by swinging its barbed tail around wildly. The leaf growing on its head is very bitter."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790592729432174/512.png",
+    "discord_sprite": "<:P512:1132135260751151266>"
+}

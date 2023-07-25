@@ -1,0 +1,187 @@
+{
+    "alt-version(s)": [],
+    "name": "Shiinotic",
+    "Shiinotic": {
+        "pokedex_data": {
+            "National No.": "0756",
+            "Type": [
+                "Grass",
+                "Fairy"
+            ],
+            "Species": "Illuminating Poke\u0301mon",
+            "Height": "1.0 m (3\u203203\u2032\u2032)",
+            "Weight": "11.5 kg (25.4 lbs)",
+            "Abilities": {
+                "Illuminate": {
+                    "href": "/ability/illuminate",
+                    "effect": "Raises the likelihood of meeting wild Pok\u00e9mon.",
+                    "hidden": false
+                },
+                "Effect Spore": {
+                    "href": "/ability/effect-spore",
+                    "effect": "Contact may poison or cause paralysis or sleep.",
+                    "hidden": false
+                },
+                "Rain Dish": {
+                    "href": "/ability/rain-dish",
+                    "effect": "The Pok\u00e9mon gradually regains HP in rain.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Sp. Def",
+            "Catch rate": "75",
+            "BaseFriendship": "50",
+            "Base Exp.": "142",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "60",
+                "Min": "230",
+                "Max": "324"
+            },
+            "Attack": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Defense": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Sp. Atk": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Sp. Def": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Speed": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Total": "405"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Poison": "super-effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Dragon": "no effect",
+                "Dark": "not very effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Morelull",
+                    "nationalNo": "#0755",
+                    "type": [
+                        "Grass",
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Shiinotic",
+                    "nationalNo": "#0756",
+                    "type": [
+                        "Grass",
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 24)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Absorb": "1",
+            "Astonish": "1",
+            "Confuse Ray": "1",
+            "Ingrain": "1",
+            "Mega Drain": "12",
+            "Sleep Powder": "16",
+            "Moonlight": "20",
+            "Strength Sap": "27",
+            "Giga Drain": "32",
+            "Dazzling Gleam": "38",
+            "Spore": "44",
+            "Moonblast": "50",
+            "Dream Eater": "56"
+        },
+        "egg": {
+            "Growth": null,
+            "Leech Seed": null,
+            "Poison Powder": null,
+            "Stun Spore": null
+        },
+        "tm": {
+            "Hyper Beam": "08",
+            "Giga Impact": "09",
+            "Solar Beam": "11",
+            "Thunder Wave": "14",
+            "Light Screen": "17",
+            "Safeguard": "19",
+            "Rest": "21",
+            "Snore": "24",
+            "Protect": "25",
+            "Giga Drain": "28",
+            "Attract": "31",
+            "Rain Dance": "33",
+            "Sunny Day": "34",
+            "Facade": "39",
+            "Weather Ball": "46",
+            "Drain Punch": "63",
+            "Wonder Room": "71",
+            "Magic Room": "72",
+            "Round": "76",
+            "Draining Kiss": "87"
+        },
+        "null": {
+            "Amnesia": "17",
+            "Substitute": "20",
+            "Sludge Bomb": "22",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Seed Bomb": "59",
+            "Energy Ball": "65",
+            "Grass Knot": "77",
+            "Dazzling Gleam": "92",
+            "Pollen Puff": "96"
+        }
+    },
+    "entries": {
+        "Shiinotic": [
+            "Forests where Shiinotic live are treacherous to enter at night. People confused by its strange lights can never find their way home again.",
+            "It emits flickering spores that cause drowsiness. When its prey succumb to sleep, this Pok\u00e9mon feeds on them by sucking in their energy.",
+            "It puts its prey to sleep and siphons off their vitality through the tip of its arms. If one of its kind is weakened, it helps by sending it vitality.",
+            "When it starts fighting for territory with Parasect, the entire area gets completely coated in spores!",
+            "Its flickering spores lure in prey and put them to sleep. Once this Pok\u00e9mon has its prey snoozing, it drains their vitality with its fingertips.",
+            "If you see a light deep in a forest at night, don\u2019t go near. Shiinotic will make you fall fast asleep."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792501716553791/756.png",
+    "discord_sprite": "<:P756:1132146069044727838>"
+}

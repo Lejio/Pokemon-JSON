@@ -1,0 +1,198 @@
+{
+    "alt-version(s)": [],
+    "name": "Popplio",
+    "Popplio": {
+        "pokedex_data": {
+            "National No.": "0728",
+            "Type": [
+                "Water"
+            ],
+            "Species": "Sea Lion Poke\u0301mon",
+            "Height": "0.4 m (1\u203204\u2032\u2032)",
+            "Weight": "7.5 kg (16.5 lbs)",
+            "Abilities": {
+                "Torrent": {
+                    "href": "/ability/torrent",
+                    "effect": "Powers up Water-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Liquid Voice": {
+                    "href": "/ability/liquid-voice",
+                    "effect": "All sound-based moves become Water-type moves.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Sp. Atk",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "64",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "50",
+                "Min": "210",
+                "Max": "304"
+            },
+            "Attack": {
+                "Base": "54",
+                "Min": "101",
+                "Max": "227"
+            },
+            "Defense": {
+                "Base": "54",
+                "Min": "101",
+                "Max": "227"
+            },
+            "Sp. Atk": {
+                "Base": "66",
+                "Min": "123",
+                "Max": "254"
+            },
+            "Sp. Def": {
+                "Base": "56",
+                "Min": "105",
+                "Max": "232"
+            },
+            "Speed": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Total": "320"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Popplio",
+                    "nationalNo": "#0728",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Brionne",
+                    "nationalNo": "#0729",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 17)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Brionne",
+                    "nationalNo": "#0729",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Primarina",
+                    "nationalNo": "#0730",
+                    "type": [
+                        "Water",
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 34)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Growl": "1",
+            "Pound": "1",
+            "Water Gun": "3",
+            "Disarming Voice": "6",
+            "Aqua Jet": "9",
+            "Baby-Doll Eyes": "12",
+            "Icy Wind": "15",
+            "Sing": "18",
+            "Bubble Beam": "21",
+            "Encore": "24",
+            "Misty Terrain": "27",
+            "Hyper Voice": "30",
+            "Moonblast": "33",
+            "Hydro Pump": "36"
+        },
+        "egg": {
+            "Aqua Ring": null,
+            "Life Dew": null,
+            "Perish Song": null
+        },
+        "null": {
+            "Hydro Pump": "03",
+            "Surf": "04",
+            "Ice Beam": "05",
+            "Blizzard": "06",
+            "Waterfall": "16",
+            "Amnesia": "17",
+            "Substitute": "20",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Encore": "30",
+            "Iron Tail": "31",
+            "Uproar": "35",
+            "Hyper Voice": "42",
+            "Scald": "84",
+            "Work Up": "85",
+            "Play Rough": "90"
+        },
+        "tm": {
+            "Rest": "21",
+            "Snore": "24",
+            "Protect": "25",
+            "Icy Wind": "27",
+            "Charm": "29",
+            "Attract": "31",
+            "Rain Dance": "33",
+            "Hail": "35",
+            "Whirlpool": "36",
+            "Facade": "39",
+            "Helping Hand": "41",
+            "Dive": "45",
+            "Brine": "55",
+            "Wonder Room": "71",
+            "Round": "76",
+            "Acrobatics": "78",
+            "Draining Kiss": "87",
+            "Misty Terrain": "89"
+        }
+    },
+    "entries": {
+        "Popplio": [
+            "This Pok\u00e9mon snorts body fluids from its nose, blowing balloons to smash into its foes. It\u2019s famous for being a hard worker.",
+            "This Pok\u00e9mon can control water bubbles. It practices diligently so it can learn to make big bubbles.",
+            "The balloons it inflates with its nose grow larger and larger as it practices day by day.",
+            "Popplio gets on top of its bouncy water balloons to jump higher. It\u2019s quite the acrobatic fighter!",
+            "It creates special bouncy balloons to send at its opponents. When the balloons pop, the sheer force of their bursting is what deals damage.",
+            "If Popplio want to create big, powerful balloons, they must be persistent. It takes daily practice for these Pok\u00e9mon to develop their skills."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792283667271690/728.png",
+    "discord_sprite": "<:P728:1132144766918852608>"
+}

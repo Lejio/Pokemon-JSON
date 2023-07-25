@@ -1,0 +1,187 @@
+{
+    "alt-version(s)": [],
+    "name": "Heatran",
+    "Heatran": {
+        "pokedex_data": {
+            "National No.": "0485",
+            "Type": [
+                "Fire",
+                "Steel"
+            ],
+            "Species": "Lava Dome Poke\u0301mon",
+            "Height": "1.7 m (5\u203207\u2032\u2032)",
+            "Weight": "430.0 kg (948.0 lbs)",
+            "Abilities": {
+                "Flash Fire": {
+                    "href": "/ability/flash-fire",
+                    "effect": "It powers up Fire-type moves if it's hit by one.",
+                    "hidden": false
+                },
+                "Flame Body": {
+                    "href": "/ability/flame-body",
+                    "effect": "Contact with the Pok\u00e9mon may burn the attacker.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Sp. Atk",
+            "Catch rate": "3",
+            "BaseFriendship": "100",
+            "Base Exp.": "300",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "91",
+                "Min": "292",
+                "Max": "386"
+            },
+            "Attack": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Defense": {
+                "Base": "106",
+                "Min": "195",
+                "Max": "342"
+            },
+            "Sp. Atk": {
+                "Base": "130",
+                "Min": "238",
+                "Max": "394"
+            },
+            "Sp. Def": {
+                "Base": "106",
+                "Min": "195",
+                "Max": "342"
+            },
+            "Speed": {
+                "Base": "77",
+                "Min": "143",
+                "Max": "278"
+            },
+            "Total": "600"
+        },
+        "defense_stats": {
+            "Flash Fire ability": {
+                "Normal": "not very effective",
+                "Fire": "no effect",
+                "Water": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Poison": "no effect",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "not very effective",
+                "Dragon": "not very effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            },
+            "Flame Body ability": {
+                "Normal": "not very effective",
+                "Water": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Poison": "no effect",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "not very effective",
+                "Dragon": "not very effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Fire Spin": "1",
+            "Leer": "1",
+            "Metal Claw": "6",
+            "Ancient Power": "12",
+            "Fire Fang": "18",
+            "Scary Face": "24",
+            "Iron Head": "30",
+            "Crunch": "36",
+            "Lava Plume": "42",
+            "Metal Sound": "48",
+            "Earth Power": "54",
+            "Heat Wave": "60",
+            "Stone Edge": "66",
+            "Magma Storm": "72"
+        },
+        "egg": null,
+        "tm": {
+            "Take Down": "01",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Fire Fang": "08",
+            "Pounce": "21",
+            "Fire Spin": "24",
+            "Facade": "25",
+            "Bulldoze": "28",
+            "Metal Claw": "31",
+            "Rock Tomb": "36",
+            "Flame Charge": "38",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Sandstorm": "51",
+            "Dig": "55",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Rock Blast": "76",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Taunt": "87",
+            "Body Press": "89",
+            "Flash Cannon": "93",
+            "Dark Pulse": "94",
+            "Iron Head": "99",
+            "Power Gem": "101",
+            "Substitute": "103",
+            "Iron Defense": "104",
+            "Will-O-Wisp": "107",
+            "Crunch": "108",
+            "Dragon Pulse": "115",
+            "Stealth Rock": "116",
+            "Heat Wave": "118",
+            "Heavy Slam": "121",
+            "Flamethrower": "125",
+            "Earth Power": "133",
+            "Fire Blast": "141",
+            "Earthquake": "149",
+            "Stone Edge": "150",
+            "Giga Impact": "152",
+            "Overheat": "157",
+            "Hyper Beam": "163",
+            "Flare Blitz": "165",
+            "Solar Beam": "168",
+            "Steel Beam": "170",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Heatran": [
+            "It dwells in volcanic caves. It digs in with its cross-shaped feet to crawl on ceilings and walls.",
+            "Its body is made of rugged steel. However, it is partially melted in spots because of its own heat.",
+            "Boiling blood, like magma, circulates through its body. It makes its dwelling place in volcanic caves.",
+            "Its body is made of rugged steel. However, it is partially melted in spots because of its own heat.",
+            "It dwells in volcanic caves. It digs in with its cross-shaped feet to crawl on ceilings and walls.",
+            "Boiling blood, like magma, circulates through its body. It makes its dwelling place in volcanic caves.",
+            "It dwells in volcanic caves. It digs in with its cross-shaped feet to crawl on ceilings and walls.",
+            "Stories tell of this Pok\u00e9mon being birthed from the boiling magma within Mount Coronet. Its molten-steel body holds many mysteries."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790380753494077/485.png",
+    "discord_sprite": "<:P485:1132134074660704337>"
+}

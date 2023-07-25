@@ -1,0 +1,180 @@
+{
+    "alt-version(s)": [],
+    "name": "Arctozolt",
+    "Arctozolt": {
+        "pokedex_data": {
+            "National No.": "0881",
+            "Type": [
+                "Electric",
+                "Ice"
+            ],
+            "Species": "Fossil Poke\u0301mon",
+            "Height": "2.3 m (7\u203207\u2032\u2032)",
+            "Weight": "150.0 kg (330.7 lbs)",
+            "Abilities": {
+                "Volt Absorb": {
+                    "href": "/ability/volt-absorb",
+                    "effect": "Restores HP if hit by an Electric-type move.",
+                    "hidden": false
+                },
+                "Static": {
+                    "href": "/ability/static",
+                    "effect": "Contact with the Pok\u00e9mon may cause paralysis.",
+                    "hidden": false
+                },
+                "Slush Rush": {
+                    "href": "/ability/slush-rush",
+                    "effect": "Boosts the Pok\u00e9mon's Speed stat in a hailstorm.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "177",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "90",
+                "Min": "290",
+                "Max": "384"
+            },
+            "Attack": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Defense": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Sp. Atk": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Sp. Def": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Speed": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Total": "505"
+        },
+        "defense_stats": {
+            "Volt Absorb ability": {
+                "Fire": "super-effective",
+                "Electric": "no effect",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Rock": "super-effective"
+            },
+            "Static ability": {
+                "Fire": "super-effective",
+                "Electric": "not very effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Rock": "super-effective"
+            },
+            "Slush Rush ability": {
+                "Fire": "super-effective",
+                "Electric": "not very effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Rock": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Powder Snow": "1",
+            "Thunder Shock": "1",
+            "Charge": "7",
+            "Echoed Voice": "14",
+            "Ancient Power": "21",
+            "Pluck": "28",
+            "Avalanche": "35",
+            "Freeze-Dry": "42",
+            "Slam": "49",
+            "Discharge": "56",
+            "Bolt Beak": "63",
+            "Icicle Crash": "70",
+            "Blizzard": "77"
+        },
+        "egg": {
+            "Meteor Beam": null,
+            "Rising Voltage": null
+        },
+        "null": {
+            "Body Slam": "01",
+            "Hydro Pump": "03",
+            "Surf": "04",
+            "Ice Beam": "05",
+            "Blizzard": "06",
+            "Low Kick": "07",
+            "Thunderbolt": "08",
+            "Thunder": "09",
+            "Substitute": "20",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Iron Tail": "31",
+            "Taunt": "37",
+            "Hyper Voice": "42",
+            "Stone Edge": "75",
+            "Electro Ball": "80",
+            "Wild Charge": "86"
+        },
+        "tm": {
+            "Mega Punch": "00",
+            "Mega Kick": "01",
+            "Thunder Punch": "05",
+            "Hyper Beam": "08",
+            "Giga Impact": "09",
+            "Thunder Wave": "14",
+            "Rest": "21",
+            "Rock Slide": "22",
+            "Snore": "24",
+            "Protect": "25",
+            "Icy Wind": "27",
+            "Rain Dance": "33",
+            "Hail": "35",
+            "Facade": "39",
+            "Rock Tomb": "48",
+            "Icicle Spear": "51",
+            "Rock Blast": "54",
+            "Payback": "57",
+            "Avalanche": "64",
+            "Thunder Fang": "66",
+            "Ice Fang": "67",
+            "Round": "76",
+            "Bulldoze": "81",
+            "Stomping Tantrum": "98"
+        }
+    },
+    "entries": {
+        "Arctozolt": [
+            "The shaking of its freezing upper half is what generates its electricity. It has a hard time walking around.",
+            "This Pok\u00e9mon lived on prehistoric seashores and was able to preserve food with the ice on its body. It went extinct because it moved so slowly."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793471729045504/881.png",
+    "discord_sprite": "<:P881:1132151565755621457>"
+}

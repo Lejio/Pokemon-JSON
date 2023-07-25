@@ -1,0 +1,233 @@
+{
+    "alt-version(s)": [
+        "Land Forme",
+        "Sky Forme"
+    ],
+    "Land Forme": {
+        "pokedex_data": {
+            "National No.": "0492",
+            "Type": [
+                "Grass"
+            ],
+            "Species": "Gratitude Poke\u0301mon",
+            "Height": "0.2 m (0\u203208\u2032\u2032)",
+            "Weight": "2.1 kg (4.6 lbs)",
+            "Abilities": {
+                "Natural Cure": {
+                    "href": "/ability/natural-cure",
+                    "effect": "All status problems heal when it switches out.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 HP",
+            "Catch rate": "45",
+            "BaseFriendship": "100",
+            "Base Exp.": "270",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "100",
+                "Min": "310",
+                "Max": "404"
+            },
+            "Attack": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Defense": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Sp. Atk": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Sp. Def": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Speed": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Total": "600"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Poison": "super-effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Bug": "super-effective"
+            }
+        }
+    },
+    "Sky Forme": {
+        "pokedex_data": {
+            "National No.": "0492",
+            "Type": [
+                "Grass",
+                "Flying"
+            ],
+            "Species": "Gratitude Poke\u0301mon",
+            "Height": "0.4 m (1\u203204\u2032\u2032)",
+            "Weight": "5.2 kg (11.5 lbs)",
+            "Abilities": {
+                "Serene Grace": {
+                    "href": "/ability/serene-grace",
+                    "effect": "Boosts the likelihood of added effects appearing.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Speed",
+            "Catch rate": "45",
+            "BaseFriendship": "100",
+            "Base Exp.": "270",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "100",
+                "Min": "310",
+                "Max": "404"
+            },
+            "Attack": {
+                "Base": "103",
+                "Min": "189",
+                "Max": "335"
+            },
+            "Defense": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Sp. Atk": {
+                "Base": "120",
+                "Min": "220",
+                "Max": "372"
+            },
+            "Sp. Def": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Speed": {
+                "Base": "127",
+                "Min": "233",
+                "Max": "388"
+            },
+            "Total": "600"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Poison": "super-effective",
+                "Ground": "no effect",
+                "Flying": "super-effective",
+                "Rock": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "Land Forme": {
+            "moves": {
+                "Growth": "1",
+                "Magical Leaf": "10",
+                "Leech Seed": "19",
+                "Synthesis": "28",
+                "Sweet Scent": "37",
+                "Healing Wish": "91",
+                "Worry Seed": "55",
+                "Aromatherapy": "64",
+                "Energy Ball": "73",
+                "Sweet Kiss": "82",
+                "Seed Flare": "100"
+            }
+        },
+        "Sky Forme": {
+            "moves": {
+                "Growth": "1",
+                "Magical Leaf": "10",
+                "Leech Seed": "19",
+                "Quick Attack": "28",
+                "Sweet Scent": "37",
+                "Healing Wish": "46",
+                "Worry Seed": "55",
+                "Air Slash": "64",
+                "Energy Ball": "73",
+                "Sweet Kiss": "82",
+                "Leaf Storm": "91",
+                "Seed Flare": "100"
+            }
+        },
+        "egg": null,
+        "tm": {
+            "Bullet Seed": "09",
+            "Sunny Day": "11",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Giga Drain": "19",
+            "Safeguard": "20",
+            "Dazzling Gleam": "21",
+            "Solar Beam": "22",
+            "Psychic": "29",
+            "Double Team": "32",
+            "Facade": "42",
+            "Rest": "44",
+            "Energy Ball": "53",
+            "Endure": "58",
+            "Giga Impact": "68",
+            "Flash": "70",
+            "Swords Dance": "75",
+            "Psych Up": "77",
+            "Sleep Talk": "82",
+            "Grass Knot": "86",
+            "Swagger": "87",
+            "Substitute": "90"
+        }
+    },
+    "entries": {
+        "Land Forme": [
+            "It lives in flower patches and avoids detection by curling up to look like a flowering plant.",
+            "It can dissolve toxins in the air to instantly transform ruined land into a lush field of flowers.",
+            "The flowers all over its body burst into bloom if it is lovingly hugged and senses gratitude.",
+            "The blooming of Gracidea flowers confers the power of flight upon it. Feelings of gratitude are the message it delivers.",
+            "The flowers all over its body burst into bloom if it is lovingly hugged and senses gratitude.",
+            "It can dissolve toxins in the air to instantly transform ruined land into a lush field of flowers.",
+            "The blooming of Gracidea flowers confers the power of flight upon it. Feelings of gratitude are the message it delivers.",
+            "It lives in common flower patches but is rarely noticed. It is often mistaken for a flowering plant when curled up.",
+            "It can dissolve toxins in the air to instantly transform ruined land into a lush field of flowers.",
+            "When the turning of seasons brings the cruel winter to its end and the joyous people give thanks to the heavens, Shaymin appears and covers the withered land with flowers."
+        ],
+        "Sky Forme": [
+            "Upon taking in the scent of a particular rare flower, Shaymin is enveloped in light, and its tiny body transforms. I took a whiff of the flower myself, but alas, my body remained unchanged."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790435115868200/492.png",
+    "discord_sprite": "<:P492:1132134383118209064>"
+}

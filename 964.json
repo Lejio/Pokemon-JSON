@@ -1,0 +1,259 @@
+{
+    "alt-version(s)": [
+        "Zero Form",
+        "Hero Form"
+    ],
+    "Zero Form": {
+        "pokedex_data": {
+            "National No.": "0964",
+            "Type": [
+                "Water"
+            ],
+            "Species": "Dolphin Poke\u0301mon",
+            "Height": "1.3 m (4\u203203\u2032\u2032)",
+            "Weight": "60.2 kg (132.7 lbs)",
+            "Abilities": {
+                "Zero to Hero": {
+                    "href": "/ability/zero-to-hero",
+                    "effect": "Transforms into its Hero Form when switching out.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 HP",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "160",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "100",
+                "Min": "310",
+                "Max": "404"
+            },
+            "Attack": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Defense": {
+                "Base": "72",
+                "Min": "134",
+                "Max": "267"
+            },
+            "Sp. Atk": {
+                "Base": "53",
+                "Min": "99",
+                "Max": "225"
+            },
+            "Sp. Def": {
+                "Base": "62",
+                "Min": "116",
+                "Max": "245"
+            },
+            "Speed": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Total": "457"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "Hero Form": {
+        "pokedex_data": {
+            "National No.": "0964",
+            "Type": [
+                "Water"
+            ],
+            "Species": "Hero Poke\u0301mon",
+            "Height": "1.8 m (5\u203211\u2032\u2032)",
+            "Weight": "97.4 kg (214.7 lbs)",
+            "Abilities": {
+                "Zero to Hero": {
+                    "href": "/ability/zero-to-hero",
+                    "effect": "Transforms into its Hero Form when switching out.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 HP",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "228",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "100",
+                "Min": "310",
+                "Max": "404"
+            },
+            "Attack": {
+                "Base": "160",
+                "Min": "292",
+                "Max": "460"
+            },
+            "Defense": {
+                "Base": "97",
+                "Min": "179",
+                "Max": "322"
+            },
+            "Sp. Atk": {
+                "Base": "106",
+                "Min": "195",
+                "Max": "342"
+            },
+            "Sp. Def": {
+                "Base": "87",
+                "Min": "161",
+                "Max": "300"
+            },
+            "Speed": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Total": "650"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Finizen",
+                    "nationalNo": "#0963",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Palafin",
+                    "nationalNo": "#0964",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": "Zero Form"
+                },
+                "requirement": "(Level 38, while in multiplayer)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Jet Punch": "1",
+            "Supersonic": "1",
+            "Water Gun": "1",
+            "Astonish": "7",
+            "Focus Energy": "10",
+            "Aqua Jet": "13",
+            "Double Hit": "17",
+            "Dive": "21",
+            "Charm": "25",
+            "Acrobatics": "29",
+            "Encore": "34",
+            "Aqua Tail": "39",
+            "Mist": "44",
+            "Hydro Pump": "50",
+            "Focus Punch": "55",
+            "Wave Crash": "61"
+        },
+        "evolution": {
+            "Flip Turn": "60"
+        },
+        "egg": {
+            "Boomburst": null,
+            "Bounce": null,
+            "Counter": null,
+            "Haze": null,
+            "Tickle": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Charm": "02",
+            "Agility": "04",
+            "Protect": "07",
+            "Water Pulse": "11",
+            "Acrobatics": "14",
+            "Disarming Voice": "19",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Swift": "32",
+            "Icy Wind": "34",
+            "Draining Kiss": "37",
+            "Fling": "43",
+            "Endure": "47",
+            "Rain Dance": "50",
+            "Zen Headbutt": "59",
+            "Bulk Up": "64",
+            "Body Slam": "66",
+            "Ice Punch": "69",
+            "Sleep Talk": "70",
+            "Drain Punch": "73",
+            "Waterfall": "77",
+            "Grass Knot": "81",
+            "Rest": "85",
+            "Taunt": "87",
+            "Iron Head": "99",
+            "Substitute": "103",
+            "Liquidation": "110",
+            "Aura Sphere": "112",
+            "Hyper Voice": "117",
+            "Encore": "122",
+            "Surf": "123",
+            "Helping Hand": "130",
+            "Reversal": "134",
+            "Ice Beam": "135",
+            "Hydro Pump": "142",
+            "Blizzard": "143",
+            "Giga Impact": "152",
+            "Outrage": "156",
+            "Focus Blast": "158",
+            "Hyper Beam": "163",
+            "Close Combat": "167",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Zero Form": [
+            "This Pok\u00e9mon changes its appearance if it hears its allies calling for help. Palafin will never show anybody its moment of transformation.",
+            "Its physical capabilities are no different than a Finizen\u2019s, but when its allies are in danger, it transforms and powers itself up."
+        ],
+        "Hero Form": [
+            "This Pok\u00e9mon\u2019s ancient genes have awakened. It is now so extraordinarily strong that it can easily lift a cruise ship with one fin.",
+            "This hero of the ocean swims at a speed of 50 knots and saves drowning people and Pok\u00e9mon."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131794118079676497/964.png",
+    "discord_sprite": "<:P964:1132155210719035412>"
+}

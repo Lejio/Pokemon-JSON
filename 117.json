@@ -1,0 +1,211 @@
+{
+    "alt-version(s)": [],
+    "name": "Seadra",
+    "Seadra": {
+        "pokedex_data": {
+            "National No.": "0117",
+            "Type": [
+                "Water"
+            ],
+            "Species": "Dragon Poke\u0301mon",
+            "Height": "1.2 m (3\u203211\u2032\u2032)",
+            "Weight": "25.0 kg (55.1 lbs)",
+            "Abilities": {
+                "Poison Point": {
+                    "href": "/ability/poison-point",
+                    "effect": "Contact with the Pok\u00e9mon may poison the attacker.",
+                    "hidden": false
+                },
+                "Sniper": {
+                    "href": "/ability/sniper",
+                    "effect": "Powers up moves if they become critical hits.",
+                    "hidden": false
+                },
+                "Damp": {
+                    "href": "/ability/damp",
+                    "effect": "Prevents the use of self-destructing moves.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Defense, 1 Sp. Atk",
+            "Catch rate": "75",
+            "BaseFriendship": "50",
+            "Base Exp.": "154",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "55",
+                "Min": "220",
+                "Max": "314"
+            },
+            "Attack": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Defense": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Sp. Atk": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Sp. Def": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Speed": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Total": "440"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Horsea",
+                    "nationalNo": "#0116",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Seadra",
+                    "nationalNo": "#0117",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 32)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Seadra",
+                    "nationalNo": "#0117",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Kingdra",
+                    "nationalNo": "#0230",
+                    "type": [
+                        "Water",
+                        "Dragon"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(trade holding Dragon Scale)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Leer": "1",
+            "Smokescreen": "1",
+            "Twister": "1",
+            "Water Gun": "1",
+            "Focus Energy": "15",
+            "Dragon Breath": "20",
+            "Bubble Beam": "25",
+            "Agility": "30",
+            "Laser Focus": "37",
+            "Dragon Pulse": "44",
+            "Hydro Pump": "51",
+            "Dragon Dance": "58",
+            "Rain Dance": "65"
+        },
+        "egg": {
+            "Aurora Beam": null,
+            "Clear Smog": null,
+            "Disable": null,
+            "Dragon Breath": null,
+            "Flail": null,
+            "Muddy Water": null,
+            "Octazooka": null,
+            "Outrage": null,
+            "Splash": null
+        },
+        "tm": {
+            "Water Pulse": "03",
+            "Hail": "07",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Double Team": "32",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Scald": "49",
+            "Brine": "55",
+            "Endure": "58",
+            "Dragon Pulse": "59",
+            "Giga Impact": "68",
+            "Sleep Talk": "82",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Flash Cannon": "91",
+            "Surf": "95",
+            "Waterfall": "99"
+        }
+    },
+    "entries": {
+        "Seadra": [
+            "Capable of swimming backwards by rapidly flapping its wing-like pectoral fins and stout tail.",
+            "Touching the back fin causes numbness. It hooks its tail to coral to stay in place while sleeping.",
+            "An examination of its cells revealed the presence of a gene not found in HORSEA. It became a hot topic.",
+            "Its fin-tips leak poison. Its fins and bones are highly valued as ingredients in herbal medicine.",
+            "The male raises the young. If it is approached, it uses its toxic spikes to fend off the intruder.",
+            "SEADRA sleeps after wriggling itself between the branches of coral. Those trying to harvest coral are occasionally stung by this pok\u00e9mon\u2019s poison barbs if they fail to notice it.",
+            "SEADRA generates whirlpools by spinning its body. The whirlpools are strong enough to swallow even fishing boats. This pok\u00e9mon weakens prey with these currents, then swallows it whole.",
+            "Its body bristles with sharp spikes. Carelessly trying to touch it could cause fainting from the spikes.",
+            "It is capable of swimming backwards by rapidly flapping its winglike pectoral fins and stout tail.",
+            "The poisonous barbs all over its body are highly valued as ingredients for making traditional herbal medicine. It shows no mercy to anything approaching its nest.",
+            "Its spines provide protection. Its fins and bones are prized as traditional medicine ingredients.",
+            "An examination of its cells revealed the presence of a gene not found in HORSEA. It became a hot topic.",
+            "Its fin-tips leak poison. Its fins and bones are highly valued as ingredients in herbal medicine.",
+            "Its spines provide protection. Its fins and bones are prized as traditional medicine ingredients.",
+            "Its spines provide protection. Its fins and bones are prized as traditional-medicine ingredients.",
+            "Its body bristles with sharp spikes. Carelessly trying to touch it could cause fainting from the spikes.",
+            "It is capable of swimming backwards by rapidly flapping its winglike pectoral fins and stout tail.",
+            "Seadra sleeps after wriggling itself between the branches of coral. Those trying to harvest coral are occasionally stung by this Pok\u00e9mon\u2019s poison barbs if they fail to notice it.",
+            "Seadra generates whirlpools by spinning its body. The whirlpools are strong enough to swallow even fishing boats. This Pok\u00e9mon weakens prey with these currents, then swallows it whole.",
+            "Touching the back fin causes numbness. It hooks its tail to coral to stay in place while sleeping.",
+            "It\u2019s the males that raise the offspring. While Seadra are raising young, the spines on their backs secrete thicker and stronger poison.",
+            "Seadra\u2019s mouth is slender, but its suction power is strong. In an instant, Seadra can suck in food that\u2019s larger than the opening of its mouth.",
+            "Its spines provide protection. Its fins and bones are prized as traditional medicine ingredients."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787503821668372/117.png",
+    "discord_sprite": "<:P117:1132117878070587443>"
+}

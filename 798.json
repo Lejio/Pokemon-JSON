@@ -1,0 +1,139 @@
+{
+    "alt-version(s)": [],
+    "name": "Kartana",
+    "Kartana": {
+        "pokedex_data": {
+            "National No.": "0798",
+            "Type": [
+                "Grass",
+                "Steel"
+            ],
+            "Species": "Drawn Sword Poke\u0301mon",
+            "Height": "0.3 m (1\u203200\u2032\u2032)",
+            "Weight": "0.1 kg (0.2 lbs)",
+            "Abilities": {
+                "Beast Boost": {
+                    "href": "/ability/beast-boost",
+                    "effect": "The Pok\u00e9mon boosts its most proficient stat each time it knocks out a Pok\u00e9mon.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Attack",
+            "Catch rate": "45",
+            "BaseFriendship": "0",
+            "Base Exp.": "257",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "59",
+                "Min": "228",
+                "Max": "322"
+            },
+            "Attack": {
+                "Base": "181",
+                "Min": "330",
+                "Max": "507"
+            },
+            "Defense": {
+                "Base": "131",
+                "Min": "240",
+                "Max": "397"
+            },
+            "Sp. Atk": {
+                "Base": "59",
+                "Min": "110",
+                "Max": "238"
+            },
+            "Sp. Def": {
+                "Base": "31",
+                "Min": "60",
+                "Max": "177"
+            },
+            "Speed": {
+                "Base": "109",
+                "Min": "200",
+                "Max": "348"
+            },
+            "Total": "570"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Fighting": "super-effective",
+                "Poison": "no effect",
+                "Psychic": "not very effective",
+                "Rock": "not very effective",
+                "Dragon": "not very effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Fury Cutter": "1",
+            "Vacuum Wave": "1",
+            "Razor Leaf": "5",
+            "False Swipe": "10",
+            "Cut": "15",
+            "Air Cutter": "20",
+            "Aerial Ace": "25",
+            "Detect": "30",
+            "Night Slash": "35",
+            "Synthesis": "40",
+            "Laser Focus": "45",
+            "Defog": "50",
+            "Leaf Blade": "55",
+            "Sacred Sword": "60",
+            "Swords Dance": "65",
+            "Guillotine": "70"
+        },
+        "egg": null,
+        "tm": {
+            "Giga Impact": "09",
+            "Solar Blade": "12",
+            "Screech": "16",
+            "Rest": "21",
+            "Snore": "24",
+            "Protect": "25",
+            "Giga Drain": "28",
+            "Brick Break": "43",
+            "Psycho Cut": "69",
+            "Round": "76",
+            "False Swipe": "94",
+            "Air Slash": "95",
+            "Smart Strike": "96"
+        },
+        "null": {
+            "Swords Dance": "00",
+            "Substitute": "20",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Iron Defense": "46",
+            "Calm Mind": "49",
+            "Leaf Blade": "50",
+            "X-Scissor": "60"
+        }
+    },
+    "entries": {
+        "Kartana": [
+            "This Ultra Beast came from the Ultra Wormhole. It seems not to attack enemies on its own, but its sharp body is a dangerous weapon in itself.",
+            "One of the Ultra Beast life-forms, it was observed cutting down a gigantic steel tower with one stroke of its blade.",
+            "This Ultra Beast\u2019s body, which is as thin as paper, is like a sharpened sword.",
+            "Although it\u2019s alien to this world and a danger here, it\u2019s apparently a common organism in the world where it normally lives."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792827135828019/798.png",
+    "discord_sprite": "<:P798:1132147916836974715>"
+}

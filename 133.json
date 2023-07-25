@@ -1,0 +1,408 @@
+{
+    "alt-version(s)": [
+        "Partner Eevee"
+    ],
+    "name": "Eevee",
+    "Eevee": {
+        "pokedex_data": {
+            "National No.": "0133",
+            "Type": [
+                "Normal"
+            ],
+            "Species": "Evolution Poke\u0301mon",
+            "Height": "0.3 m (1\u203200\u2032\u2032)",
+            "Weight": "6.5 kg (14.3 lbs)",
+            "Abilities": {
+                "Run Away": {
+                    "href": "/ability/run-away",
+                    "effect": "Enables a sure getaway from wild Pok\u00e9mon.",
+                    "hidden": false
+                },
+                "Adaptability": {
+                    "href": "/ability/adaptability",
+                    "effect": "Powers up moves of the same type.",
+                    "hidden": false
+                },
+                "Anticipation": {
+                    "href": "/ability/anticipation",
+                    "effect": "Senses a foe's dangerous moves.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Sp. Def",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "65",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "55",
+                "Min": "220",
+                "Max": "314"
+            },
+            "Attack": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Defense": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Atk": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Sp. Def": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Speed": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Total": "325"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "Partner Eevee": {
+        "pokedex_data": {
+            "National No.": "0133",
+            "Type": [
+                "Normal"
+            ],
+            "Species": "Evolution Poke\u0301mon",
+            "Height": "0.3 m (1\u203200\u2032\u2032)",
+            "Weight": "6.5 kg (14.3 lbs)",
+            "Abilities": {}
+        },
+        "training_data": {
+            "EV yield": "1 Sp. Def",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "65",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "65",
+                "Min": "240",
+                "Max": "334"
+            },
+            "Attack": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Defense": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Atk": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Def": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Speed": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Total": "435"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Eevee",
+                    "nationalNo": "#0133",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Vaporeon",
+                    "nationalNo": "#0134",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Water Stone)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Eevee",
+                    "nationalNo": "#0133",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Jolteon",
+                    "nationalNo": "#0135",
+                    "type": [
+                        "Electric"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Thunder Stone)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Eevee",
+                    "nationalNo": "#0133",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Flareon",
+                    "nationalNo": "#0136",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Fire Stone)",
+                "shed": null
+            }
+        ],
+        [
+            {
+                "from": {
+                    "name": "Eevee",
+                    "nationalNo": "#0133",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Espeon",
+                    "nationalNo": "#0196",
+                    "type": [
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(high Friendship, Daytime)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Eevee",
+                    "nationalNo": "#0133",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Umbreon",
+                    "nationalNo": "#0197",
+                    "type": [
+                        "Dark"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(high Friendship, Nighttime)",
+                "shed": null
+            }
+        ],
+        [
+            {
+                "from": {
+                    "name": "Eevee",
+                    "nationalNo": "#0133",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Leafeon",
+                    "nationalNo": "#0470",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Leaf Stone, or level up near a Mossy Rock)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Eevee",
+                    "nationalNo": "#0133",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Glaceon",
+                    "nationalNo": "#0471",
+                    "type": [
+                        "Ice"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Ice Stone, or level up near an Icy Rock)",
+                "shed": null
+            }
+        ],
+        [
+            {
+                "from": {
+                    "name": "Eevee",
+                    "nationalNo": "#0133",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Sylveon",
+                    "nationalNo": "#0700",
+                    "type": [
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(after Fairy-type move learned, and either \u2665\u2665 Affection in Gen 6-7 or high friendship in Gen 8+)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Covet": "1",
+            "Growl": "1",
+            "Helping Hand": "1",
+            "Tackle": "1",
+            "Tail Whip": "1",
+            "Sand Attack": "5",
+            "Quick Attack": "10",
+            "Baby-Doll Eyes": "15",
+            "Swift": "20",
+            "Bite": "25",
+            "Copycat": "30",
+            "Baton Pass": "35",
+            "Take Down": "40",
+            "Charm": "45",
+            "Double-Edge": "50",
+            "Last Resort": "55"
+        },
+        "egg": {
+            "Curse": null,
+            "Detect": null,
+            "Double Kick": null,
+            "Flail": null,
+            "Mud-Slap": null,
+            "Tickle": null,
+            "Wish": null,
+            "Yawn": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Charm": "02",
+            "Fake Tears": "03",
+            "Mud-Slap": "05",
+            "Protect": "07",
+            "Trailblaze": "20",
+            "Facade": "25",
+            "Swift": "32",
+            "Stored Power": "41",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Dig": "55",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Rest": "85",
+            "Substitute": "103",
+            "Shadow Ball": "114",
+            "Hyper Voice": "117",
+            "Calm Mind": "129",
+            "Helping Hand": "130",
+            "Baton Pass": "132",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Eevee": [
+            "Its genetic code is irregular. It may mutate if it is exposed to radiation from element STONEs.",
+            "Its genetic code is unstable, so it could evolve in a variety of ways. There are only a few alive.",
+            "It has the ability to alter the composition of its body to suit its surrounding environment.",
+            "Its irregularly configured DNA is affected by its surroundings. It evolves if its environment changes.",
+            "Its ability to evolve into many forms allows it to adapt smoothly and perfectly to any environment.",
+            "EEVEE has an unstable genetic makeup that suddenly mutates due to the environment in which it lives. Radiation from various STONES causes this pok\u00e9mon to evolve.",
+            "An extremely rare pok\u00e9mon that may evolve in a number of different ways depending on stimuli.",
+            "Its genetic code is irregular. It may mutate if it is exposed to radiation from element STONES.",
+            "An EEVEE has an unstable genetic makeup that suddenly mutates due to its environment. Radiation from various STONES causes this pok\u00e9mon to evolve.",
+            "A rare Pok\u00e9mon that adapts to harsh environments by taking on different evolutionary forms.",
+            "Because its genetic makeup is irregular, it quickly changes its form due to a variety of causes.",
+            "It has the ability to alter the composition of its body to suit its surrounding environment.",
+            "Its irregularly configured DNA is affected by its surroundings. It evolves if its environment changes.",
+            "Because its genetic makeup is irregular, it quickly changes its form due to a variety of causes.",
+            "Thanks to its unstable genetic makeup, this special Pok\u00e9mon conceals many different possible evolutions.",
+            "A rare Pok\u00e9mon that adapts to harsh environments by taking on different evolutionary forms.",
+            "Thanks to its unstable genetic makeup, this special Pok\u00e9mon conceals many different possible evolutions.",
+            "Eevee has an unstable genetic makeup that suddenly mutates due to the environment in which it lives. Radiation from various stones causes this Pok\u00e9mon to evolve.",
+            "Possessing an unbalanced and unstable genetic makeup, it conceals many possible evolutions.",
+            "Current studies show it can evolve into an incredible eight different species of Pok\u00e9mon.",
+            "The question of why only Eevee has such unstable genes has still not been solved.",
+            "Its genes are easily influenced by its surroundings. Even its face starts to look like that of its Trainer.",
+            "It can evolve into a variety of forms. Eevee\u2019s genes are the key to solving the mysteries of Pok\u00e9mon evolution.",
+            "It has the ability to alter the composition of its body to suit its surrounding environment.",
+            "Thanks to its unstable genetic makeup, this special Pok\u00e9mon conceals many different possible evolutions.",
+            "It is a rare Pok\u00e9mon that adapts to harsh environments by changing its appearance and capabilities when it evolves.",
+            "Harbors the potential to evolve into manifold forms. Within Eevee lies the key to the mysteries of Pok\u00e9mon evolution\u2014I\u2019m certain of it.",
+            "Its ability to evolve into many forms allows it to adapt smoothly and perfectly to any environment.",
+            "Its genetic code is irregular. It may mutate if it is exposed to radiation from element stones."
+        ],
+        "Gigantamax": [
+            "Gigantamax energy upped the fluffiness of the fur around Eevee\u2019s neck. The fur will envelop a foe, capturing its body and captivating its mind.",
+            "Having gotten even friendlier and more innocent, Eevee tries to play with anyone around, only to end up crushing them with its immense body."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787629122302104/133.png",
+    "discord_sprite": "<:P133:1132118587419660318>"
+}

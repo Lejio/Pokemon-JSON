@@ -1,0 +1,205 @@
+{
+    "alt-version(s)": [],
+    "name": "Staraptor",
+    "Staraptor": {
+        "pokedex_data": {
+            "National No.": "0398",
+            "Type": [
+                "Normal",
+                "Flying"
+            ],
+            "Species": "Predator Poke\u0301mon",
+            "Height": "1.2 m (3\u203211\u2032\u2032)",
+            "Weight": "24.9 kg (54.9 lbs)",
+            "Abilities": {
+                "Intimidate": {
+                    "href": "/ability/intimidate",
+                    "effect": "Lowers the foe's Attack stat.",
+                    "hidden": false
+                },
+                "Reckless": {
+                    "href": "/ability/reckless",
+                    "effect": "Powers up moves that have recoil damage.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Attack",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "243",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "85",
+                "Min": "280",
+                "Max": "374"
+            },
+            "Attack": {
+                "Base": "120",
+                "Min": "220",
+                "Max": "372"
+            },
+            "Defense": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Atk": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Def": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Speed": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Total": "485"
+        },
+        "defense_stats": {
+            "default": {
+                "Electric": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Ground": "no effect",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Starly",
+                    "nationalNo": "#0396",
+                    "type": [
+                        "Normal",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Staravia",
+                    "nationalNo": "#0397",
+                    "type": [
+                        "Normal",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 14)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Staravia",
+                    "nationalNo": "#0397",
+                    "type": [
+                        "Normal",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Staraptor",
+                    "nationalNo": "#0398",
+                    "type": [
+                        "Normal",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 34)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Growl": "1",
+            "Quick Attack": "1",
+            "Tackle": "1",
+            "Wing Attack": "1",
+            "Double Team": "13",
+            "Endeavor": "18",
+            "Whirlwind": "23",
+            "Aerial Ace": "28",
+            "Take Down": "33",
+            "Agility": "41",
+            "Brave Bird": "49",
+            "Final Gambit": "57"
+        },
+        "evolution": {
+            "Close Combat": "120"
+        },
+        "egg": {
+            "Astonish": null,
+            "Double-Edge": null,
+            "Feather Dance": null,
+            "Fury Attack": null,
+            "Sand Attack": null,
+            "Uproar": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Agility": "04",
+            "Protect": "07",
+            "Acrobatics": "14",
+            "Struggle Bug": "15",
+            "Thief": "18",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Swift": "32",
+            "Air Cutter": "40",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "U-turn": "60",
+            "Air Slash": "65",
+            "Sleep Talk": "70",
+            "Rest": "85",
+            "Fly": "97",
+            "Substitute": "103",
+            "Tailwind": "113",
+            "Heat Wave": "118",
+            "Helping Hand": "130",
+            "Giga Impact": "152",
+            "Hurricane": "160",
+            "Hyper Beam": "163",
+            "Brave Bird": "164",
+            "Close Combat": "167",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Staraptor": [
+            "It has a savage nature. It will courageously challenge foes that are much larger.",
+            "The muscles in its wings and legs are strong. It can easily fly while gripping a small Pok\u00e9mon.",
+            "It never stops attacking even if it is injured. It fusses over the shape of its comb.",
+            "When STARAVIA evolve into STARAPTOR, they leave the flock to live alone. They have sturdy wings.",
+            "It never stops attacking even if it is injured. It fusses over the shape of its comb.",
+            "The muscles in its wings and legs are strong. It can easily fly while gripping a small Pok\u00e9mon.",
+            "When Staravia evolve into Staraptor, they leave the flock to live alone. They have sturdy wings.",
+            "It has a savage nature. It will courageously challenge foes that are much larger than itself.",
+            "The muscles in its wings and legs are strong. It can easily fly while gripping a small Pok\u00e9mon.",
+            "It has left the flock, having gained strength enough to survive on its own. The astounding force with which Staraptor flies through the air allows it to carry away large, burly targets.",
+            "When Staravia evolve into Staraptor, they leave the flock to live alone. They have sturdy wings.",
+            "It never stops attacking even if it is injured. It fusses over the shape of its comb."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789708532396124/398.png",
+    "discord_sprite": "<:P398:1132130247752548442>"
+}

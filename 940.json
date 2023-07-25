@@ -1,0 +1,197 @@
+{
+    "alt-version(s)": [],
+    "name": "Wattrel",
+    "Wattrel": {
+        "pokedex_data": {
+            "National No.": "0940",
+            "Type": [
+                "Electric",
+                "Flying"
+            ],
+            "Species": "Storm Petrel Poke\u0301mon",
+            "Height": "0.4 m (1\u203204\u2032\u2032)",
+            "Weight": "3.6 kg (7.9 lbs)",
+            "Abilities": {
+                "Wind Power": {
+                    "href": "/ability/wind-power",
+                    "effect": "Doubles power of the next Electric-type move used, when hit by a wind move.",
+                    "hidden": false
+                },
+                "Volt Absorb": {
+                    "href": "/ability/volt-absorb",
+                    "effect": "Restores HP if hit by an Electric-type move.",
+                    "hidden": false
+                },
+                "Competitive": {
+                    "href": "/ability/competitive",
+                    "effect": "Sharply raises Special Attack when the Pok\u00e9mon's stats are lowered.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Speed",
+            "Catch rate": "180",
+            "BaseFriendship": "50",
+            "Base Exp.": "56",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "40",
+                "Min": "190",
+                "Max": "284"
+            },
+            "Attack": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Defense": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Sp. Atk": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Sp. Def": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Speed": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Total": "280"
+        },
+        "defense_stats": {
+            "Wind Power ability": {
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Ground": "no effect",
+                "Flying": "not very effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Steel": "not very effective"
+            },
+            "Volt Absorb ability": {
+                "Electric": "no effect",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Ground": "no effect",
+                "Flying": "not very effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Steel": "not very effective"
+            },
+            "Competitive ability": {
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Ground": "no effect",
+                "Flying": "not very effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Wattrel",
+                    "nationalNo": "#0940",
+                    "type": [
+                        "Electric",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Kilowattrel",
+                    "nationalNo": "#0941",
+                    "type": [
+                        "Electric",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 25)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Growl": "1",
+            "Peck": "1",
+            "Thunder Shock": "4",
+            "Quick Attack": "7",
+            "Pluck": "11",
+            "Spark": "15",
+            "Uproar": "19",
+            "Roost": "23",
+            "Dual Wingbeat": "27",
+            "Agility": "32",
+            "Volt Switch": "37",
+            "Discharge": "43"
+        },
+        "egg": {
+            "Endeavor": null,
+            "Feather Dance": null,
+            "Spit Up": null,
+            "Stockpile": null,
+            "Swallow": null,
+            "Weather Ball": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Agility": "04",
+            "Protect": "07",
+            "Acrobatics": "14",
+            "Charge Beam": "23",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Swift": "32",
+            "Air Cutter": "40",
+            "Endure": "47",
+            "Volt Switch": "48",
+            "U-turn": "60",
+            "Air Slash": "65",
+            "Sleep Talk": "70",
+            "Electro Ball": "72",
+            "Thunder Wave": "82",
+            "Rest": "85",
+            "Eerie Impulse": "96",
+            "Fly": "97",
+            "Substitute": "103",
+            "Tailwind": "113",
+            "Thunderbolt": "126",
+            "Electric Terrain": "136",
+            "Wild Charge": "147",
+            "Hurricane": "160",
+            "Brave Bird": "164",
+            "Thunder": "166",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Wattrel": [
+            "When its wings catch the wind, the bones within produce electricity. This Pok\u00e9mon dives into the ocean, catching prey by electrocuting them.",
+            "These Pok\u00e9mon make their nests on coastal cliffs. The nests have a strange, crackling texture, and they\u2019re a popular delicacy."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793934562103306/940.png",
+    "discord_sprite": "<:P940:1132154158070386788>"
+}

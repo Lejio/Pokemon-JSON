@@ -1,0 +1,190 @@
+{
+    "alt-version(s)": [],
+    "name": "Toxapex",
+    "Toxapex": {
+        "pokedex_data": {
+            "National No.": "0748",
+            "Type": [
+                "Poison",
+                "Water"
+            ],
+            "Species": "Brutal Star Poke\u0301mon",
+            "Height": "0.7 m (2\u203204\u2032\u2032)",
+            "Weight": "14.5 kg (32.0 lbs)",
+            "Abilities": {
+                "Merciless": {
+                    "href": "/ability/merciless",
+                    "effect": "The Pok\u00e9mon's attacks become critical hits if the target is poisoned.",
+                    "hidden": false
+                },
+                "Limber": {
+                    "href": "/ability/limber",
+                    "effect": "The Pok\u00e9mon is protected from paralysis.",
+                    "hidden": false
+                },
+                "Regenerator": {
+                    "href": "/ability/regenerator",
+                    "effect": "Restores a little HP when withdrawn from battle.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Defense",
+            "Catch rate": "75",
+            "BaseFriendship": "50",
+            "Base Exp.": "173",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "50",
+                "Min": "210",
+                "Max": "304"
+            },
+            "Attack": {
+                "Base": "63",
+                "Min": "117",
+                "Max": "247"
+            },
+            "Defense": {
+                "Base": "152",
+                "Min": "278",
+                "Max": "443"
+            },
+            "Sp. Atk": {
+                "Base": "53",
+                "Min": "99",
+                "Max": "225"
+            },
+            "Sp. Def": {
+                "Base": "142",
+                "Min": "260",
+                "Max": "421"
+            },
+            "Speed": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Total": "495"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "not very effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Mareanie",
+                    "nationalNo": "#0747",
+                    "type": [
+                        "Poison",
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Toxapex",
+                    "nationalNo": "#0748",
+                    "type": [
+                        "Poison",
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 38)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Bite": "1",
+            "Peck": "1",
+            "Poison Sting": "1",
+            "Wide Guard": "1",
+            "Venoshock": "15",
+            "Recover": "20",
+            "Pin Missile": "25",
+            "Toxic Spikes": "30",
+            "Liquidation": "35",
+            "Acid Spray": "42",
+            "Poison Jab": "49",
+            "Toxic": "56"
+        },
+        "evolution": {
+            "Baneful Bunker": "\u2014"
+        },
+        "egg": {
+            "Haze": null,
+            "Infestation": null,
+            "Spit Up": null,
+            "Stockpile": null,
+            "Swallow": null
+        },
+        "tm": {
+            "Scary Face": "06",
+            "Protect": "07",
+            "Water Pulse": "11",
+            "Acid Spray": "13",
+            "Pounce": "21",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Hex": "29",
+            "Icy Wind": "34",
+            "Mud Shot": "35",
+            "Venoshock": "45",
+            "Endure": "47",
+            "Rain Dance": "50",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Poison Jab": "83",
+            "Rest": "85",
+            "Toxic Spikes": "91",
+            "Gunk Shot": "102",
+            "Substitute": "103",
+            "Iron Defense": "104",
+            "Liquidation": "110",
+            "Surf": "123",
+            "Ice Spinner": "124",
+            "Ice Beam": "135",
+            "Hydro Pump": "142",
+            "Blizzard": "143",
+            "Sludge Bomb": "148",
+            "Giga Impact": "152",
+            "Hyper Beam": "163",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Toxapex": [
+            "Toxapex crawls along the ocean floor on its 12 legs. It leaves a trail of Corsola bits scattered in its wake.",
+            "Those attacked by Toxapex\u2019s poison will suffer intense pain for three days and three nights. Post-recovery, there will be some aftereffects.",
+            "To attack, this Pok\u00e9mon sends toxic spikes flying at its enemies. Ones that come close get mown down by the claws on its feet.",
+            "With its 12 legs, it creates a dome to shelter within. The flow of the tides doesn\u2019t affect Toxapex in there, so it\u2019s very comfortable.",
+            "To survive in the cold waters of Galar, this Pok\u00e9mon forms a dome with its legs, enclosing its body so it can capture its own body heat.",
+            "Within the poison sac in its body is a poison so toxic that Pok\u00e9mon as large as Wailord will still be suffering three days after it first takes effect.",
+            "This Pok\u00e9mon lives within a dome made by its own legs. Toxapex monitors its surroundings by sensing the flow of the tide through its spikes.",
+            "Toxapex gets into fierce battles with Bruxish over areas where warm ocean currents flow, but the odds are always against it."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792438575513651/748.png",
+    "discord_sprite": "<:P748:1132145710817628201>"
+}

@@ -1,0 +1,284 @@
+{
+    "alt-version(s)": [
+        "Family of Four",
+        "Family of Three"
+    ],
+    "Family of Four": {
+        "pokedex_data": {
+            "National No.": "0925",
+            "Type": [
+                "Normal"
+            ],
+            "Species": "Family Poke\u0301mon",
+            "Height": "0.3 m (1\u203200\u2032\u2032)",
+            "Weight": "2.8 kg (6.2 lbs)",
+            "Abilities": {
+                "Friend Guard": {
+                    "href": "/ability/friend-guard",
+                    "effect": "Reduces damage done to allies.",
+                    "hidden": false
+                },
+                "Cheek Pouch": {
+                    "href": "/ability/cheek-pouch",
+                    "effect": "Restores additional HP when a Berry is consumed.",
+                    "hidden": false
+                },
+                "Technician": {
+                    "href": "/ability/technician",
+                    "effect": "Powers up the Pok\u00e9mon's weaker moves.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Speed",
+            "Catch rate": "75",
+            "BaseFriendship": "50",
+            "Base Exp.": "165",
+            "Growth Rate": "Fast"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "74",
+                "Min": "258",
+                "Max": "352"
+            },
+            "Attack": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Defense": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Atk": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Def": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Speed": {
+                "Base": "111",
+                "Min": "204",
+                "Max": "353"
+            },
+            "Total": "470"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "Family of Three": {
+        "pokedex_data": {
+            "National No.": "0925",
+            "Type": [
+                "Normal"
+            ],
+            "Species": "Family Poke\u0301mon",
+            "Height": "0.3 m (1\u203200\u2032\u2032)",
+            "Weight": "2.3 kg (5.1 lbs)",
+            "Abilities": {
+                "Friend Guard": {
+                    "href": "/ability/friend-guard",
+                    "effect": "Reduces damage done to allies.",
+                    "hidden": false
+                },
+                "Cheek Pouch": {
+                    "href": "/ability/cheek-pouch",
+                    "effect": "Restores additional HP when a Berry is consumed.",
+                    "hidden": false
+                },
+                "Technician": {
+                    "href": "/ability/technician",
+                    "effect": "Powers up the Pok\u00e9mon's weaker moves.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Speed",
+            "Catch rate": "75",
+            "BaseFriendship": "50",
+            "Base Exp.": "165",
+            "Growth Rate": "Fast"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "74",
+                "Min": "258",
+                "Max": "352"
+            },
+            "Attack": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Defense": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Atk": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Def": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Speed": {
+                "Base": "111",
+                "Min": "204",
+                "Max": "353"
+            },
+            "Total": "470"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Tandemaus",
+                    "nationalNo": "#0924",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Maushold",
+                    "nationalNo": "#0925",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": "Family of Three"
+                },
+                "requirement": "(Level 25, rare)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Tandemaus",
+                    "nationalNo": "#0924",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Maushold",
+                    "nationalNo": "#0925",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": "Family of Four"
+                },
+                "requirement": "(Level 25)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Baby-Doll Eyes": "1",
+            "Follow Me": "1",
+            "Pound": "1",
+            "Tidy Up": "1",
+            "Echoed Voice": "5",
+            "Helping Hand": "8",
+            "Super Fang": "11",
+            "Double Hit": "14",
+            "Bullet Seed": "18",
+            "Encore": "22",
+            "Play Rough": "29",
+            "Hyper Voice": "33",
+            "Charm": "37",
+            "Beat Up": "41",
+            "Copycat": "46",
+            "Population Bomb": "53"
+        },
+        "egg": {
+            "After You": null,
+            "Baton Pass": null,
+            "Bite": null,
+            "Feint": null,
+            "Switcheroo": null,
+            "Tickle": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Charm": "02",
+            "Fake Tears": "03",
+            "Agility": "04",
+            "Mud-Slap": "05",
+            "Protect": "07",
+            "Water Pulse": "11",
+            "Low Kick": "12",
+            "Thief": "18",
+            "Trailblaze": "20",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Swift": "32",
+            "Mud Shot": "35",
+            "Low Sweep": "39",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Dig": "55",
+            "Bullet Seed": "56",
+            "U-turn": "60",
+            "Shadow Claw": "61",
+            "Sleep Talk": "70",
+            "Seed Bomb": "71",
+            "Grass Knot": "81",
+            "Thunder Wave": "82",
+            "Rest": "85",
+            "Taunt": "87",
+            "Substitute": "103",
+            "Crunch": "108",
+            "Hyper Voice": "117",
+            "Encore": "122",
+            "Play Rough": "127",
+            "Helping Hand": "130",
+            "Giga Impact": "152",
+            "Hyper Beam": "163",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Family of Four": [
+            "The two little ones just appeared one day. The group might be a family of related Pok\u00e9mon, but nobody knows for sure.",
+            "The larger pair protects the little ones during battles. When facing strong opponents, the whole group will join the fight."
+        ],
+        "Family of Three": [
+            "They build huge nests with many rooms that are used for different purposes, such as eating and sleeping.",
+            "The little one just appeared one day. They all live together like a family, but the relationship between the three is still unclear."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793815913635890/925.png",
+    "discord_sprite": "<:P925:1132153496733483079>"
+}

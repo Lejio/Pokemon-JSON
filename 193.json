@@ -1,0 +1,192 @@
+{
+    "alt-version(s)": [],
+    "name": "Yanma",
+    "Yanma": {
+        "pokedex_data": {
+            "National No.": "0193",
+            "Type": [
+                "Bug",
+                "Flying"
+            ],
+            "Species": "Clear Wing Poke\u0301mon",
+            "Height": "1.2 m (3\u203211\u2032\u2032)",
+            "Weight": "38.0 kg (83.8 lbs)",
+            "Abilities": {
+                "Speed Boost": {
+                    "href": "/ability/speed-boost",
+                    "effect": "Its Speed stat is gradually boosted.",
+                    "hidden": false
+                },
+                "Compound Eyes": {
+                    "href": "/ability/compound-eyes",
+                    "effect": "The Pok\u00e9mon's accuracy is boosted.",
+                    "hidden": false
+                },
+                "Frisk": {
+                    "href": "/ability/frisk",
+                    "effect": "The Pok\u00e9mon can check a foe's held item.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Speed",
+            "Catch rate": "75",
+            "BaseFriendship": "50",
+            "Base Exp.": "78",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "65",
+                "Min": "240",
+                "Max": "334"
+            },
+            "Attack": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Defense": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Sp. Atk": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Sp. Def": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Speed": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Total": "390"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Electric": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Ground": "no effect",
+                "Flying": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Yanma",
+                    "nationalNo": "#0193",
+                    "type": [
+                        "Bug",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Yanmega",
+                    "nationalNo": "#0469",
+                    "type": [
+                        "Bug",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(after Ancient Power learned)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Gust": "1",
+            "Tackle": "1",
+            "Quick Attack": "6",
+            "Double Team": "11",
+            "Aerial Ace": "14",
+            "Detect": "17",
+            "Supersonic": "22",
+            "Uproar": "27",
+            "String Shot": "30",
+            "Ancient Power": "33",
+            "Hypnosis": "38",
+            "Wing Attack": "43",
+            "Screech": "46",
+            "U-turn": "49",
+            "Air Slash": "54",
+            "Bug Buzz": "57"
+        },
+        "egg": {
+            "Double-Edge": null,
+            "Feint": null,
+            "Leech Life": null,
+            "Reversal": null,
+            "Whirlwind": null
+        },
+        "tm": {
+            "Sunny Day": "11",
+            "Protect": "17",
+            "Giga Drain": "19",
+            "Solar Beam": "22",
+            "Psychic": "29",
+            "Shadow Ball": "30",
+            "Double Team": "32",
+            "Aerial Ace": "40",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Steel Wing": "47",
+            "Roost": "51",
+            "Endure": "58",
+            "Bug Buzz": "62",
+            "Flash": "70",
+            "Swords Dance": "75",
+            "Sleep Talk": "82",
+            "Dream Eater": "85",
+            "Swagger": "87",
+            "U-turn": "89",
+            "Substitute": "90",
+            "Defog": "97"
+        }
+    },
+    "entries": {
+        "Yanma": [
+            "If it flaps its wings really fast, it can generate shock waves that will shatter windows in the area.",
+            "Its large eyes can scan 360 degrees. It looks in all directions to seek out insects as its prey.",
+            "It can see in all directions without moving its big eyes, helping it spot attackers and food right away.",
+            "YANMA is capable of seeing 360 degrees without having to move its eyes. It is a great flier that is adept at making sudden stops and turning midair. This pok\u00e9mon uses its flying ability to quickly chase down targeted prey.",
+            "Its large eyes can scan 360 degrees. It looks in all directions to seek out insects as its prey.",
+            "If it flaps its wings really fast, it can generate shock waves that will shatter windows in the area.",
+            "It can see 360 degrees without moving its eyes. It is a great flier capable of making sudden stops and turning midair to quickly chase down targeted prey.",
+            "Its eyes can see 360 degrees without moving its head. It won\u2019t miss prey--even those behind it.",
+            "It can hover in one spot by flapping its wings at high speed. It flits about to guard its territory.",
+            "If it flaps its wings really fast, it can generate shock waves that will shatter windows in the area.",
+            "Its large eyes can scan 360 degrees. It looks in all directions to seek out insects as its prey.",
+            "It can hover in one spot by flapping its wings at high speed. It flits about to guard its territory.",
+            "By flapping its wings at high speed, it can fly freely through the air. Even sudden stops are no problem.",
+            "Its eyes can see 360 degrees without moving its head. It won\u2019t miss prey--even those behind it.",
+            "If it flaps its wings really fast, it can generate shock waves that will shatter windows in the area.",
+            "Yanma is capable of seeing 360 degrees without having to move its eyes. It is a great flier that is adept at making sudden stops and turning midair. This Pok\u00e9mon uses its flying ability to quickly chase down targeted prey.",
+            "Its eyes can see 360 degrees without the Pok\u00e9mon moving its head. It won\u2019t miss prey\u2014 even those behind it.",
+            "Its frail wings are so thin that one can see clear through them. However, during flight these wings exhibit the power to churn air with force enough to launch a house skyward."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788098326495442/193.png",
+    "discord_sprite": "<:P193:1132121226857414726>"
+}

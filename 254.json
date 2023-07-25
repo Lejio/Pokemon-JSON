@@ -1,0 +1,314 @@
+{
+    "alt-version(s)": [
+        "Mega Sceptile"
+    ],
+    "name": "Sceptile",
+    "Sceptile": {
+        "pokedex_data": {
+            "National No.": "0254",
+            "Type": [
+                "Grass"
+            ],
+            "Species": "Forest Poke\u0301mon",
+            "Height": "1.7 m (5\u203207\u2032\u2032)",
+            "Weight": "52.2 kg (115.1 lbs)",
+            "Abilities": {
+                "Overgrow": {
+                    "href": "/ability/overgrow",
+                    "effect": "Powers up Grass-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Unburden": {
+                    "href": "/ability/unburden",
+                    "effect": "Raises Speed if a held item is used.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Speed",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "239",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "70",
+                "Min": "250",
+                "Max": "344"
+            },
+            "Attack": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Defense": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Atk": {
+                "Base": "105",
+                "Min": "193",
+                "Max": "339"
+            },
+            "Sp. Def": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Speed": {
+                "Base": "120",
+                "Min": "220",
+                "Max": "372"
+            },
+            "Total": "530"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Poison": "super-effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Bug": "super-effective"
+            }
+        }
+    },
+    "Mega Sceptile": {
+        "pokedex_data": {
+            "National No.": "0254",
+            "Type": [
+                "Grass",
+                "Dragon"
+            ],
+            "Species": "Forest Poke\u0301mon",
+            "Height": "1.9 m (6\u203203\u2032\u2032)",
+            "Weight": "55.2 kg (121.7 lbs)",
+            "Abilities": {
+                "Lightning Rod": {
+                    "href": "/ability/lightning-rod",
+                    "effect": "Draws in all Electric-type moves to up Sp. Attack.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Speed",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "284",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "70",
+                "Min": "250",
+                "Max": "344"
+            },
+            "Attack": {
+                "Base": "110",
+                "Min": "202",
+                "Max": "350"
+            },
+            "Defense": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Sp. Atk": {
+                "Base": "145",
+                "Min": "265",
+                "Max": "427"
+            },
+            "Sp. Def": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Speed": {
+                "Base": "145",
+                "Min": "265",
+                "Max": "427"
+            },
+            "Total": "630"
+        },
+        "defense_stats": {
+            "default": {
+                "Water": "not very effective",
+                "Electric": "no effect",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Poison": "super-effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Bug": "super-effective",
+                "Dragon": "super-effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Treecko",
+                    "nationalNo": "#0252",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Grovyle",
+                    "nationalNo": "#0253",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 16)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Grovyle",
+                    "nationalNo": "#0253",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Sceptile",
+                    "nationalNo": "#0254",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 36)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Dual Chop": "1",
+            "Energy Ball": "1",
+            "False Swipe": "1",
+            "Fury Cutter": "1",
+            "Leafage": "1",
+            "Leer": "1",
+            "Pound": "1",
+            "Quick Attack": "1",
+            "X-Scissor": "1",
+            "Mega Drain": "5",
+            "Detect": "12",
+            "Quick Guard": "15",
+            "Assurance": "20",
+            "Giga Drain": "25",
+            "Slam": "30",
+            "Double Team": "35",
+            "Leaf Blade": "42",
+            "Screech": "49",
+            "Endeavor": "56",
+            "Leaf Storm": "63"
+        },
+        "evolution": {
+            "Dual Chop": "40"
+        },
+        "egg": {
+            "Absorb": null,
+            "Crunch": null,
+            "Crush Claw": null,
+            "Double Kick": null,
+            "Dragon Breath": null,
+            "Endeavor": null,
+            "Grassy Terrain": null,
+            "Leaf Storm": null,
+            "Leech Seed": null,
+            "Magical Leaf": null,
+            "Night Slash": null,
+            "Slash": null,
+            "Synthesis": null,
+            "Worry Seed": null
+        },
+        "null": {
+            "Frenzy Plant": "150"
+        },
+        "tm": {
+            "Focus Punch": "01",
+            "Dragon Claw": "02",
+            "Roar": "05",
+            "Bullet Seed": "09",
+            "Work Up": "10",
+            "Sunny Day": "11",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Giga Drain": "19",
+            "Safeguard": "20",
+            "Solar Beam": "22",
+            "Iron Tail": "23",
+            "Earthquake": "26",
+            "Low Sweep": "27",
+            "Dig": "28",
+            "Brick Break": "31",
+            "Double Team": "32",
+            "Rock Tomb": "39",
+            "Aerial Ace": "40",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Focus Blast": "52",
+            "Energy Ball": "53",
+            "False Swipe": "54",
+            "Fling": "56",
+            "Endure": "58",
+            "Dragon Pulse": "59",
+            "Drain Punch": "60",
+            "Giga Impact": "68",
+            "Flash": "70",
+            "Swords Dance": "75",
+            "Rock Slide": "80",
+            "X-Scissor": "81",
+            "Sleep Talk": "82",
+            "Bulldoze": "83",
+            "Grass Knot": "86",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Cut": "93",
+            "Strength": "96",
+            "Rock Smash": "98",
+            "Rock Climb": "100"
+        }
+    },
+    "entries": {
+        "Sceptile": [
+            "The leaves growing on SCEPTILE\u2019s body are very sharp edged. This pok\u00e9mon is very agile - it leaps all over the branches of trees and jumps on its foe from above or behind.",
+            "SCEPTILE has seeds growing on its back. They are said to be bursting with nutrients that revitalize trees. This pok\u00e9mon raises the trees in a forest with loving care.",
+            "The leaves on its forelegs are as sharp as swords. It agilely leaps about the branches of trees to strike.",
+            "In the jungle, its power is without equal. This pok\u00e9mon carefully grows trees and plants. It regulates its body temperature by basking in sunlight.",
+            "The leaves that grow on its arms can slice down thick trees. It is without peer in jungle combat.",
+            "It agilely leaps about the jungle and uses the sharp leaves on its arms to strike its prey.",
+            "The leaves that grow on its arms can slice down thick trees. It is without peer in jungle combat.",
+            "The leaves that grow on its arms can slice down thick trees. It is without peer in jungle combat.",
+            "It agilely leaps about the jungle and uses the sharp leaves on its arms to strike its prey.",
+            "The leaves growing on Sceptile\u2019s body are very sharp edged. This Pok\u00e9mon is very agile\u2014it leaps all over the branches of trees and jumps on its foe from above or behind.",
+            "Sceptile has seeds growing on its back. They are said to be bursting with nutrients that revitalize trees. This Pok\u00e9mon raises the trees in a forest with loving care.",
+            "The leaves that grow on its arms can slice down thick trees. It is without peer in jungle combat."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788581011206244/254.png",
+    "discord_sprite": "<:P254:1132123918275198998>"
+}

@@ -1,0 +1,194 @@
+{
+    "alt-version(s)": [],
+    "name": "Bounsweet",
+    "Bounsweet": {
+        "pokedex_data": {
+            "National No.": "0761",
+            "Type": [
+                "Grass"
+            ],
+            "Species": "Fruit Poke\u0301mon",
+            "Height": "0.3 m (1\u203200\u2032\u2032)",
+            "Weight": "3.2 kg (7.1 lbs)",
+            "Abilities": {
+                "Leaf Guard": {
+                    "href": "/ability/leaf-guard",
+                    "effect": "Prevents problems with status in sunny weather.",
+                    "hidden": false
+                },
+                "Oblivious": {
+                    "href": "/ability/oblivious",
+                    "effect": "Prevents it from becoming infatuated.",
+                    "hidden": false
+                },
+                "Sweet Veil": {
+                    "href": "/ability/sweet-veil",
+                    "effect": "Prevents the Pok\u00e9mon and allies from falling asleep.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 HP",
+            "Catch rate": "235",
+            "BaseFriendship": "50",
+            "Base Exp.": "42",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "0% male,100% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "42",
+                "Min": "194",
+                "Max": "288"
+            },
+            "Attack": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Defense": {
+                "Base": "38",
+                "Min": "72",
+                "Max": "192"
+            },
+            "Sp. Atk": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Sp. Def": {
+                "Base": "38",
+                "Min": "72",
+                "Max": "192"
+            },
+            "Speed": {
+                "Base": "32",
+                "Min": "62",
+                "Max": "179"
+            },
+            "Total": "210"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Poison": "super-effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Bug": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Bounsweet",
+                    "nationalNo": "#0761",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Steenee",
+                    "nationalNo": "#0762",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 18)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Steenee",
+                    "nationalNo": "#0762",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Tsareena",
+                    "nationalNo": "#0763",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(after Stomp learned)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Splash": "1",
+            "Play Nice": "4",
+            "Rapid Spin": "8",
+            "Razor Leaf": "12",
+            "Sweet Scent": "16",
+            "Magical Leaf": "20",
+            "Flail": "24",
+            "Teeter Dance": "28",
+            "Aromatic Mist": "32"
+        },
+        "egg": {
+            "Acupressure": null,
+            "Endeavor": null,
+            "Synthesis": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Charm": "02",
+            "Protect": "07",
+            "Trailblaze": "20",
+            "Facade": "25",
+            "Swift": "32",
+            "Magical Leaf": "33",
+            "Draining Kiss": "37",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Bullet Seed": "56",
+            "Zen Headbutt": "59",
+            "Sleep Talk": "70",
+            "Seed Bomb": "71",
+            "Reflect": "74",
+            "Light Screen": "75",
+            "Dazzling Gleam": "79",
+            "Grass Knot": "81",
+            "Rest": "85",
+            "Substitute": "103",
+            "Giga Drain": "111",
+            "Energy Ball": "119",
+            "Play Rough": "127",
+            "Helping Hand": "130",
+            "Grassy Terrain": "137",
+            "Leaf Storm": "159",
+            "Solar Beam": "168",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Bounsweet": [
+            "A delectable aroma pours from its body. They are often swallowed whole by Toucannon lured by that wafting deliciousness.",
+            "Although it\u2019s too sugary for human consumption, Bounsweet\u2019s sweat can be watered down into a juice with just the right amount of sweetness.",
+            "Because of its sweet, delicious aroma, bird Pok\u00e9mon are always after it, but it\u2019s not intelligent enough to care.",
+            "It tries to resist being swallowed by a bird Pok\u00e9mon by spinning the sepals on its head. It\u2019s usually a fruitless attempt.",
+            "Its body gives off a sweet, fruity scent that is extremely appetizing to bird Pok\u00e9mon.",
+            "When under attack, it secretes a sweet and delicious sweat. The scent only calls more enemies to it.",
+            "Its sweat is sweet, like syrup made from boiled-down fruit. Because of this, Bounsweet was highly valued in the past, when sweeteners were scarce.",
+            "A Greedent drawn in by the sweet scent of these Pok\u00e9mon will tuck the Bounsweet in among the berries in its tail and carry them all away."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792540882964480/761.png",
+    "discord_sprite": "<:P761:1132146288037724301>"
+}

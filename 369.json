@@ -1,0 +1,175 @@
+{
+    "alt-version(s)": [],
+    "name": "Relicanth",
+    "Relicanth": {
+        "pokedex_data": {
+            "National No.": "0369",
+            "Type": [
+                "Water",
+                "Rock"
+            ],
+            "Species": "Longevity Poke\u0301mon",
+            "Height": "1.0 m (3\u203203\u2032\u2032)",
+            "Weight": "23.4 kg (51.6 lbs)",
+            "Abilities": {
+                "Swift Swim": {
+                    "href": "/ability/swift-swim",
+                    "effect": "Boosts the Pok\u00e9mon's Speed in rain.",
+                    "hidden": false
+                },
+                "Rock Head": {
+                    "href": "/ability/rock-head",
+                    "effect": "Protects the Pok\u00e9mon from recoil damage.",
+                    "hidden": false
+                },
+                "Sturdy": {
+                    "href": "/ability/sturdy",
+                    "effect": "It cannot be knocked out with one hit.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 HP, 1 Defense",
+            "Catch rate": "25",
+            "BaseFriendship": "50",
+            "Base Exp.": "170",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "100",
+                "Min": "310",
+                "Max": "404"
+            },
+            "Attack": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Defense": {
+                "Base": "130",
+                "Min": "238",
+                "Max": "394"
+            },
+            "Sp. Atk": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Sp. Def": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Speed": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Total": "485"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Fire": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Harden": "1",
+            "Tackle": "1",
+            "Water Gun": "5",
+            "Ancient Power": "10",
+            "Yawn": "15",
+            "Dive": "20",
+            "Take Down": "25",
+            "Aqua Tail": "30",
+            "Rest": "35",
+            "Flail": "40",
+            "Hydro Pump": "45",
+            "Double-Edge": "50",
+            "Head Smash": "55"
+        },
+        "egg": {
+            "Amnesia": null,
+            "Aqua Tail": null,
+            "Mud Shot": null,
+            "Mud-Slap": null,
+            "Muddy Water": null,
+            "Skull Bash": null,
+            "Snore": null,
+            "Zen Headbutt": null
+        },
+        "tm": {
+            "Water Pulse": "03",
+            "Calm Mind": "04",
+            "Hail": "07",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Safeguard": "20",
+            "Earthquake": "26",
+            "Double Team": "32",
+            "Sandstorm": "37",
+            "Rock Tomb": "39",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Scald": "49",
+            "Brine": "55",
+            "Endure": "58",
+            "Giga Impact": "68",
+            "Rock Polish": "69",
+            "Stone Edge": "71",
+            "Stealth Rock": "76",
+            "Psych Up": "77",
+            "Rock Slide": "80",
+            "Sleep Talk": "82",
+            "Bulldoze": "83",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Surf": "95",
+            "Rock Smash": "98",
+            "Waterfall": "99"
+        }
+    },
+    "entries": {
+        "Relicanth": [
+            "RELICANTH is a pok\u00e9mon species that existed for a hundred million years without ever changing its form. This ancient pok\u00e9mon feeds on microscopic organisms with its toothless mouth.",
+            "RELICANTH is a rare species that was discovered in deep-sea explorations. This pok\u00e9mon\u2019s body withstands the enormous water pressure of the ocean depths. Its body is covered in tough scales that are like craggy rocks.",
+            "It has remained unchanged for 100 million years. It was discovered during a deep-sea exploration.",
+            "A pok\u00e9mon that was once believed to have been extinct. The species has not changed its form for 100 million years. It walks on the seafloor using its pectoral fins.",
+            "A rare Pok\u00e9mon discovered during a deep-sea exploration. It has not changed in over 100 million years.",
+            "Discovered by chance during deep-sea explorations, it has not changed since ancient times.",
+            "A rare Pok\u00e9mon discovered during a deep-sea exploration. It has not changed in over 100 million years.",
+            "It has remained unchanged for 100 million years. It was discovered during a deep-sea exploration.",
+            "A rare Pok\u00e9mon discovered during a deep-sea exploration. It has not changed in over 100 million years.",
+            "Relicanth is a Pok\u00e9mon species that existed for a hundred million years without ever changing its form. This ancient Pok\u00e9mon feeds on microscopic organisms with its toothless mouth.",
+            "Relicanth is a rare species that was discovered in deep-sea explorations. This Pok\u00e9mon\u2019s body withstands the enormous water pressure of the ocean depths. Its body is covered in tough scales that are like craggy rocks.",
+            "Its form has remained the same for one hundred million years. Its body is filled with fat, so it can withstand the water pressure of the deep sea.",
+            "It was fortuitously discovered during a deep sea expedition. Its teeth have atrophied, so it now survives on microscopic organisms it sucks up.",
+            "Thought to have gone extinct, Relicanth was given a name that is a variation of the name of the person who discovered it.",
+            "The reason it hasn\u2019t changed at all in a hundred million years is that it\u2019s apparently already a perfect life-form.",
+            "Rock-hard scales and oil-filled swim bladders allow this Pok\u00e9mon to survive the intense water pressure of the deep sea.",
+            "This Pok\u00e9mon was discovered during deep-sea exploration. Its appearance hasn\u2019t changed in 100,000,000 years, so it\u2019s called a living fossil.",
+            "This rare Pok\u00e9mon was discovered during a deep-sea exploration. It has not changed in over 100 million years."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789483159855215/369.png",
+    "discord_sprite": "<:P369:1132128971086114836>"
+}

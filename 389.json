@@ -1,0 +1,227 @@
+{
+    "alt-version(s)": [],
+    "name": "Torterra",
+    "Torterra": {
+        "pokedex_data": {
+            "National No.": "0389",
+            "Type": [
+                "Grass",
+                "Ground"
+            ],
+            "Species": "Continent Poke\u0301mon",
+            "Height": "2.2 m (7\u203203\u2032\u2032)",
+            "Weight": "310.0 kg (683.4 lbs)",
+            "Abilities": {
+                "Overgrow": {
+                    "href": "/ability/overgrow",
+                    "effect": "Powers up Grass-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Shell Armor": {
+                    "href": "/ability/shell-armor",
+                    "effect": "The Pok\u00e9mon is protected against critical hits.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack, 1 Defense",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "236",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "95",
+                "Min": "300",
+                "Max": "394"
+            },
+            "Attack": {
+                "Base": "109",
+                "Min": "200",
+                "Max": "348"
+            },
+            "Defense": {
+                "Base": "105",
+                "Min": "193",
+                "Max": "339"
+            },
+            "Sp. Atk": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Sp. Def": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Speed": {
+                "Base": "56",
+                "Min": "105",
+                "Max": "232"
+            },
+            "Total": "525"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Electric": "no effect",
+                "Ice": "super-effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Bug": "super-effective",
+                "Rock": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Turtwig",
+                    "nationalNo": "#0387",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Grotle",
+                    "nationalNo": "#0388",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 18)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Grotle",
+                    "nationalNo": "#0388",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Torterra",
+                    "nationalNo": "#0389",
+                    "type": [
+                        "Grass",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 32)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Absorb": "1",
+            "Earthquake": "1",
+            "Razor Leaf": "13",
+            "Tackle": "1",
+            "Withdraw": "5",
+            "Wood Hammer": "1",
+            "Leafage": "6",
+            "Growth": "10",
+            "Curse": "17",
+            "Bite": "22",
+            "Mega Drain": "27",
+            "Leech Seed": "33",
+            "Synthesis": "39",
+            "Crunch": "45",
+            "Giga Drain": "51",
+            "Leaf Storm": "57"
+        },
+        "evolution": {
+            "Earthquake": "100"
+        },
+        "egg": {
+            "Amnesia": null,
+            "Body Slam": null,
+            "Double-Edge": null,
+            "Earth Power": null,
+            "Grassy Terrain": null,
+            "Growth": null,
+            "Heavy Slam": null,
+            "Sand Tomb": null,
+            "Seed Bomb": null,
+            "Spit Up": null,
+            "Stockpile": null,
+            "Superpower": null,
+            "Swallow": null,
+            "Thrash": null,
+            "Tickle": null,
+            "Wide Guard": null,
+            "Worry Seed": null
+        },
+        "null": {
+            "Frenzy Plant": "150"
+        },
+        "tm": {
+            "Roar": "05",
+            "Bullet Seed": "09",
+            "Work Up": "10",
+            "Sunny Day": "11",
+            "Hyper Beam": "15",
+            "Light Screen": "16",
+            "Protect": "17",
+            "Giga Drain": "19",
+            "Safeguard": "20",
+            "Solar Beam": "22",
+            "Iron Tail": "23",
+            "Earthquake": "26",
+            "Double Team": "32",
+            "Reflect": "33",
+            "Sandstorm": "37",
+            "Rock Tomb": "39",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Energy Ball": "53",
+            "Endure": "58",
+            "Giga Impact": "68",
+            "Rock Polish": "69",
+            "Flash": "70",
+            "Stone Edge": "71",
+            "Swords Dance": "75",
+            "Stealth Rock": "76",
+            "Rock Slide": "80",
+            "Sleep Talk": "82",
+            "Bulldoze": "83",
+            "Grass Knot": "86",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Cut": "93",
+            "Strength": "96",
+            "Rock Smash": "98",
+            "Rock Climb": "100"
+        }
+    },
+    "entries": {
+        "Torterra": [
+            "Small Pok\u00e9mon occasionally gather on its unmoving back to begin building their nests.",
+            "Groups of this Pok\u00e9mon migrating in search of water have been mistaken for \u201cmoving forests.\u201d",
+            "Some Pok\u00e9mon are born on a TORTERRA\u2019s back and spend their entire life there.",
+            "Ancient people imagined that beneath the ground, a gigantic TORTERRA dwelled.",
+            "Some Pok\u00e9mon are born on a Torterra\u2019s back and spend their entire life there.",
+            "Ancient people imagined that beneath the ground, a gigantic Torterra dwelled.",
+            "Small Pok\u00e9mon occasionally gather on its unmoving back to begin building their nests.",
+            "Small Pok\u00e9mon occasionally gather on its unmoving back to begin building their nests.",
+            "Groups of this Pok\u00e9mon migrating in search of water have been mistaken for moving forests.",
+            "This remarkable, large-bodied Pok\u00e9mon would serve beautifully as borrowed scenery for a garden, and its strength is peerless. Torterra roams the wilderness in search of clean water."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789638974066779/389.png",
+    "discord_sprite": "<:P389:1132129848865865840>"
+}

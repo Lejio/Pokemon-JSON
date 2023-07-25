@@ -1,0 +1,171 @@
+{
+    "alt-version(s)": [],
+    "name": "Capsakid",
+    "Capsakid": {
+        "pokedex_data": {
+            "National No.": "0951",
+            "Type": [
+                "Grass"
+            ],
+            "Species": "Spicy Pepper Poke\u0301mon",
+            "Height": "0.3 m (1\u203200\u2032\u2032)",
+            "Weight": "3.0 kg (6.6 lbs)",
+            "Abilities": {
+                "Chlorophyll": {
+                    "href": "/ability/chlorophyll",
+                    "effect": "Boosts the Pok\u00e9mon's Speed in sunshine.",
+                    "hidden": false
+                },
+                "Insomnia": {
+                    "href": "/ability/insomnia",
+                    "effect": "Prevents the Pok\u00e9mon from falling asleep.",
+                    "hidden": false
+                },
+                "Klutz": {
+                    "href": "/ability/klutz",
+                    "effect": "The Pok\u00e9mon can't use any held items.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack",
+            "Catch rate": "190",
+            "BaseFriendship": "50",
+            "Base Exp.": "61",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "50",
+                "Min": "210",
+                "Max": "304"
+            },
+            "Attack": {
+                "Base": "62",
+                "Min": "116",
+                "Max": "245"
+            },
+            "Defense": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Atk": {
+                "Base": "62",
+                "Min": "116",
+                "Max": "245"
+            },
+            "Sp. Def": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Speed": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Total": "304"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Poison": "super-effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Bug": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Capsakid",
+                    "nationalNo": "#0951",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Scovillain",
+                    "nationalNo": "#0952",
+                    "type": [
+                        "Grass",
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Fire Stone)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Leafage": "1",
+            "Leer": "1",
+            "Bite": "4",
+            "Growth": "10",
+            "Razor Leaf": "13",
+            "Sunny Day": "17",
+            "Bullet Seed": "21",
+            "Headbutt": "24",
+            "Zen Headbutt": "28",
+            "Crunch": "38",
+            "Seed Bomb": "44",
+            "Solar Beam": "48"
+        },
+        "egg": {
+            "Ingrain": null,
+            "Leech Seed": null,
+            "Rage Powder": null,
+            "Rollout": null,
+            "Worry Seed": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Protect": "07",
+            "Thief": "18",
+            "Trailblaze": "20",
+            "Facade": "25",
+            "Magical Leaf": "33",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Sandstorm": "51",
+            "Bullet Seed": "56",
+            "Zen Headbutt": "59",
+            "Sleep Talk": "70",
+            "Seed Bomb": "71",
+            "Grass Knot": "81",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Substitute": "103",
+            "Crunch": "108",
+            "Giga Drain": "111",
+            "Energy Ball": "119",
+            "Helping Hand": "130",
+            "Grassy Terrain": "137",
+            "Leaf Storm": "159",
+            "Solar Beam": "168",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Capsakid": [
+            "The more sunlight this Pok\u00e9mon bathes in, the more spicy chemicals are produced by its body, and thus the spicier its moves become.",
+            "Traditional Paldean dishes can be extremely spicy because they include the shed front teeth of Capsakid among their ingredients."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131794017579970640/951.png",
+    "discord_sprite": "<:P951:1132154639408705636>"
+}

@@ -1,0 +1,197 @@
+{
+    "alt-version(s)": [],
+    "name": "Amaura",
+    "Amaura": {
+        "pokedex_data": {
+            "National No.": "0698",
+            "Type": [
+                "Rock",
+                "Ice"
+            ],
+            "Species": "Tundra Poke\u0301mon",
+            "Height": "1.3 m (4\u203203\u2032\u2032)",
+            "Weight": "25.2 kg (55.6 lbs)",
+            "Abilities": {
+                "Refrigerate": {
+                    "href": "/ability/refrigerate",
+                    "effect": "Turns Normal-type moves into Ice-type moves.",
+                    "hidden": false
+                },
+                "Snow Warning": {
+                    "href": "/ability/snow-warning",
+                    "effect": "The Pok\u00e9mon summons a hailstorm in battle.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 HP",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "72",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "77",
+                "Min": "264",
+                "Max": "358"
+            },
+            "Attack": {
+                "Base": "59",
+                "Min": "110",
+                "Max": "238"
+            },
+            "Defense": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Atk": {
+                "Base": "67",
+                "Min": "125",
+                "Max": "256"
+            },
+            "Sp. Def": {
+                "Base": "63",
+                "Min": "117",
+                "Max": "247"
+            },
+            "Speed": {
+                "Base": "46",
+                "Min": "87",
+                "Max": "210"
+            },
+            "Total": "362"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Water": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Rock": "super-effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Amaura",
+                    "nationalNo": "#0698",
+                    "type": [
+                        "Rock",
+                        "Ice"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Aurorus",
+                    "nationalNo": "#0699",
+                    "type": [
+                        "Rock",
+                        "Ice"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 39, Nighttime)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Growl": "1",
+            "Powder Snow": "1",
+            "Encore": "4",
+            "Ancient Power": "8",
+            "Icy Wind": "12",
+            "Round": "16",
+            "Mist": "20",
+            "Aurora Beam": "24",
+            "Thunder Wave": "28",
+            "Nature Power": "32",
+            "Freeze-Dry": "36",
+            "Ice Beam": "40",
+            "Light Screen": "44",
+            "Hail": "48",
+            "Blizzard": "52",
+            "Hyper Beam": "56"
+        },
+        "egg": {
+            "Aurora Veil": null,
+            "Discharge": null,
+            "Haze": null,
+            "Mirror Coat": null,
+            "Rock Throw": null,
+            "Take Down": null
+        },
+        "null": {
+            "Body Slam": "01",
+            "Ice Beam": "05",
+            "Blizzard": "06",
+            "Thunderbolt": "08",
+            "Substitute": "20",
+            "Outrage": "24",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Encore": "30",
+            "Iron Tail": "31",
+            "Hyper Voice": "42",
+            "Iron Defense": "46",
+            "Calm Mind": "49",
+            "Dark Pulse": "58",
+            "Earth Power": "67",
+            "Zen Headbutt": "69",
+            "Flash Cannon": "70",
+            "Iron Head": "74",
+            "Stone Edge": "75",
+            "Stealth Rock": "76"
+        },
+        "tm": {
+            "Hyper Beam": "08",
+            "Thunder Wave": "14",
+            "Light Screen": "17",
+            "Reflect": "18",
+            "Safeguard": "19",
+            "Rest": "21",
+            "Rock Slide": "22",
+            "Snore": "24",
+            "Protect": "25",
+            "Icy Wind": "27",
+            "Attract": "31",
+            "Sandstorm": "32",
+            "Rain Dance": "33",
+            "Hail": "35",
+            "Facade": "39",
+            "Weather Ball": "46",
+            "Rock Tomb": "48",
+            "Mud Shot": "53",
+            "Rock Blast": "54",
+            "Avalanche": "64",
+            "Round": "76",
+            "Bulldoze": "81"
+        }
+    },
+    "entries": {
+        "Amaura": [
+            "This ancient Pok\u00e9mon was restored from part of its body that had been frozen in ice for over 100 million years.",
+            "This calm Pok\u00e9mon lived in a cold land where there were no violent predators like Tyrantrum.",
+            "It lived in cold areas in ancient times. It\u2019s said that when Amaura whinnies, auroras appear in the night sky.",
+            "Amaura was restored successfully, but it\u2019s not expected to live long because of the heat of the current environment.",
+            "This Pok\u00e9mon was successfully restored from a fossil. In the past, it lived with others of its kind in cold lands where there were fewer predators.",
+            "Amaura is an ancient Pok\u00e9mon that has gone extinct. Specimens of this species can sometimes be found frozen in ice."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792042536751155/698.png",
+    "discord_sprite": "<:P698:1132143455825580194>"
+}

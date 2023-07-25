@@ -1,0 +1,177 @@
+{
+    "alt-version(s)": [],
+    "name": "Lugia",
+    "Lugia": {
+        "pokedex_data": {
+            "National No.": "0249",
+            "Type": [
+                "Psychic",
+                "Flying"
+            ],
+            "Species": "Diving Poke\u0301mon",
+            "Height": "5.2 m (17\u203201\u2032\u2032)",
+            "Weight": "216.0 kg (476.2 lbs)",
+            "Abilities": {
+                "Pressure": {
+                    "href": "/ability/pressure",
+                    "effect": "The Pok\u00e9mon raises the foe's PP usage.",
+                    "hidden": false
+                },
+                "Multiscale": {
+                    "href": "/ability/multiscale",
+                    "effect": "Reduces damage when HP is full.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Sp. Def",
+            "Catch rate": "3",
+            "BaseFriendship": "0",
+            "Base Exp.": "306",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "106",
+                "Min": "322",
+                "Max": "416"
+            },
+            "Attack": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Defense": {
+                "Base": "130",
+                "Min": "238",
+                "Max": "394"
+            },
+            "Sp. Atk": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Sp. Def": {
+                "Base": "154",
+                "Min": "281",
+                "Max": "447"
+            },
+            "Speed": {
+                "Base": "110",
+                "Min": "202",
+                "Max": "350"
+            },
+            "Total": "680"
+        },
+        "defense_stats": {
+            "default": {
+                "Electric": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Ground": "no effect",
+                "Psychic": "not very effective",
+                "Rock": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Ancient Power": "1",
+            "Dragon Rush": "1",
+            "Gust": "1",
+            "Weather Ball": "1",
+            "Whirlwind": "1",
+            "Mist": "9",
+            "Safeguard": "18",
+            "Calm Mind": "27",
+            "Extrasensory": "36",
+            "Recover": "45",
+            "Aeroblast": "54",
+            "Rain Dance": "63",
+            "Hydro Pump": "72",
+            "Future Sight": "81",
+            "Sky Attack": "90"
+        },
+        "egg": null,
+        "tm": {
+            "Water Pulse": "03",
+            "Calm Mind": "04",
+            "Roar": "05",
+            "Hail": "07",
+            "Sunny Day": "11",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Hyper Beam": "15",
+            "Light Screen": "16",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Giga Drain": "19",
+            "Safeguard": "20",
+            "Iron Tail": "23",
+            "Thunderbolt": "24",
+            "Thunder": "25",
+            "Earthquake": "26",
+            "Psychic": "29",
+            "Shadow Ball": "30",
+            "Double Team": "32",
+            "Reflect": "33",
+            "Shock Wave": "34",
+            "Sandstorm": "37",
+            "Aerial Ace": "40",
+            "Facade": "42",
+            "Rest": "44",
+            "Steel Wing": "47",
+            "Skill Swap": "48",
+            "Roost": "51",
+            "Brine": "55",
+            "Charge Beam": "57",
+            "Endure": "58",
+            "Dragon Pulse": "59",
+            "Giga Impact": "68",
+            "Flash": "70",
+            "Avalanche": "72",
+            "Thunder Wave": "73",
+            "Psych Up": "77",
+            "Sleep Talk": "82",
+            "Bulldoze": "83",
+            "Dream Eater": "85",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Fly": "94",
+            "Surf": "95",
+            "Strength": "96",
+            "Defog": "97",
+            "Rock Smash": "98",
+            "Waterfall": "99"
+        }
+    },
+    "entries": {
+        "Lugia": [
+            "It is said that it quietly spends its time deep at the bottom of the sea because its powers are too strong.",
+            "It is said to be the guardian of the seas. It is rumored to have been seen on the night of a storm.",
+            "It has an incredible ability to calm raging storms. It is said that LUGIA appears when storms start.",
+            "LUGIA\u2019s wings pack devastating power - a light fluttering of its wings can blow apart regular houses. As a result, this pok\u00e9mon chooses to live out of sight deep under the sea.",
+            "It is said to be the guardian of the seas. It is rumored to have been seen on the night of a storm.",
+            "It is said that it quietly spends its time deep at the bottom of the sea because its powers are too strong.",
+            "LUGIA is so powerful even a light fluttering of its wings can blow apart houses. As a result, it chooses to live out of sight deep under the sea.",
+            "It sleeps in a deep-sea trench. If it flaps its wings, it is said to cause a 40-day storm.",
+            "It is said that it quietly spends its time deep at the bottom of the sea because its powers are too strong.",
+            "It is said to be the guardian of the seas. It is rumored to have been seen on the night of a storm.",
+            "It sleeps in a deep-sea trench. If it flaps its wings, it is said to cause a 40-day storm.",
+            "It sleeps in a deep-sea trench. If it flaps its wings, it is said to cause a 40-day storm.",
+            "It is said to be the guardian of the seas. It is rumored to have been seen on the night of a storm.",
+            "Lugia\u2019s wings pack devastating power\u2014a light fluttering of its wings can blow apart regular houses. As a result, this Pok\u00e9mon chooses to live out of sight deep under the sea.",
+            "It sleeps in a deep-sea trench. If it flaps its wings, it is said to cause a 40-day storm."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788541828018217/249.png",
+    "discord_sprite": "<:P249:1132123696253898834>"
+}

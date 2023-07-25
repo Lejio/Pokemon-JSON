@@ -1,0 +1,223 @@
+{
+    "alt-version(s)": [],
+    "name": "Naclstack",
+    "Naclstack": {
+        "pokedex_data": {
+            "National No.": "0933",
+            "Type": [
+                "Rock"
+            ],
+            "Species": "Rock Salt Poke\u0301mon",
+            "Height": "0.6 m (2\u203200\u2032\u2032)",
+            "Weight": "105.0 kg (231.5 lbs)",
+            "Abilities": {
+                "Purifying Salt": {
+                    "href": "/ability/purifying-salt",
+                    "effect": "Protects from status conditions and halves damage from Ghost-type moves.",
+                    "hidden": false
+                },
+                "Sturdy": {
+                    "href": "/ability/sturdy",
+                    "effect": "It cannot be knocked out with one hit.",
+                    "hidden": false
+                },
+                "Clear Body": {
+                    "href": "/ability/clear-body",
+                    "effect": "Prevents other Pok\u00e9mon from lowering its stats.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Defense",
+            "Catch rate": "120",
+            "BaseFriendship": "50",
+            "Base Exp.": "124",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "60",
+                "Min": "230",
+                "Max": "324"
+            },
+            "Attack": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Defense": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Sp. Atk": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Sp. Def": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Speed": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Total": "355"
+        },
+        "defense_stats": {
+            "Purifying Salt ability": {
+                "Normal": "not very effective",
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Grass": "super-effective",
+                "Fighting": "super-effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Ghost": "not very effective",
+                "Steel": "super-effective"
+            },
+            "Sturdy ability": {
+                "Normal": "not very effective",
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Grass": "super-effective",
+                "Fighting": "super-effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Steel": "super-effective"
+            },
+            "Clear Body ability": {
+                "Normal": "not very effective",
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Grass": "super-effective",
+                "Fighting": "super-effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Nacli",
+                    "nationalNo": "#0932",
+                    "type": [
+                        "Rock"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Naclstack",
+                    "nationalNo": "#0933",
+                    "type": [
+                        "Rock"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 24)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Naclstack",
+                    "nationalNo": "#0933",
+                    "type": [
+                        "Rock"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Garganacl",
+                    "nationalNo": "#0934",
+                    "type": [
+                        "Rock"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 38)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Harden": "1",
+            "Tackle": "1",
+            "Rock Throw": "5",
+            "Mud Shot": "7",
+            "Smack Down": "10",
+            "Rock Polish": "13",
+            "Headbutt": "16",
+            "Iron Defense": "20",
+            "Recover": "30",
+            "Rock Slide": "34",
+            "Stealth Rock": "38",
+            "Heavy Slam": "41",
+            "Earthquake": "45",
+            "Stone Edge": "51"
+        },
+        "evolution": {
+            "Salt Cure": "40"
+        },
+        "egg": {
+            "Ancient Power": null,
+            "Curse": null,
+            "Fissure": null,
+            "Power Gem": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Protect": "07",
+            "Facade": "25",
+            "Bulldoze": "28",
+            "Mud Shot": "35",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Sandstorm": "51",
+            "Dig": "55",
+            "Zen Headbutt": "59",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Body Press": "89",
+            "Flash Cannon": "93",
+            "Iron Head": "99",
+            "Power Gem": "101",
+            "Substitute": "103",
+            "Iron Defense": "104",
+            "Stealth Rock": "116",
+            "Heavy Slam": "121",
+            "Helping Hand": "130",
+            "Earth Power": "133",
+            "Earthquake": "149",
+            "Stone Edge": "150",
+            "Giga Impact": "152",
+            "Hyper Beam": "163",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Naclstack": [
+            "This Pok\u00e9mon dry cures its prey by spraying salt over them. The curing process steals away the water in the prey\u2019s body.",
+            "It compresses rock salt inside its body and shoots out hardened salt pellets with enough force to perforate an iron sheet."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793881344774254/933.png",
+    "discord_sprite": "<:P933:1132153848019038239>"
+}

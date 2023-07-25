@@ -1,0 +1,432 @@
+{
+    "alt-version(s)": [
+        "Hisuian Arcanine"
+    ],
+    "name": "Arcanine",
+    "Arcanine": {
+        "pokedex_data": {
+            "National No.": "0059",
+            "Type": [
+                "Fire"
+            ],
+            "Species": "Legendary Poke\u0301mon",
+            "Height": "1.9 m (6\u203203\u2032\u2032)",
+            "Weight": "155.0 kg (341.7 lbs)",
+            "Abilities": {
+                "Intimidate": {
+                    "href": "/ability/intimidate",
+                    "effect": "Lowers the foe's Attack stat.",
+                    "hidden": false
+                },
+                "Flash Fire": {
+                    "href": "/ability/flash-fire",
+                    "effect": "It powers up Fire-type moves if it's hit by one.",
+                    "hidden": false
+                },
+                "Justified": {
+                    "href": "/ability/justified",
+                    "effect": "Raises Attack when hit by a Dark-type move.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "75",
+            "BaseFriendship": "50",
+            "Base Exp.": "194",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "75% male,25% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "90",
+                "Min": "290",
+                "Max": "384"
+            },
+            "Attack": {
+                "Base": "110",
+                "Min": "202",
+                "Max": "350"
+            },
+            "Defense": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Sp. Atk": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Sp. Def": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Speed": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Total": "555"
+        },
+        "defense_stats": {
+            "Intimidate ability": {
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Ground": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            },
+            "Flash Fire ability": {
+                "Fire": "no effect",
+                "Water": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Ground": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            },
+            "Justified ability": {
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Ground": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "Hisuian Arcanine": {
+        "pokedex_data": {
+            "National No.": "0059",
+            "Type": [
+                "Fire",
+                "Rock"
+            ],
+            "Species": "Legendary Poke\u0301mon",
+            "Height": "2.0 m (6\u203207\u2032\u2032)",
+            "Weight": "168.0 kg (370.4 lbs)",
+            "Abilities": {
+                "Intimidate": {
+                    "href": "/ability/intimidate",
+                    "effect": "Lowers the foe's Attack stat.",
+                    "hidden": false
+                },
+                "Flash Fire": {
+                    "href": "/ability/flash-fire",
+                    "effect": "It powers up Fire-type moves if it's hit by one.",
+                    "hidden": false
+                },
+                "Rock Head": {
+                    "href": "/ability/rock-head",
+                    "effect": "Protects the Pok\u00e9mon from recoil damage.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "75",
+            "BaseFriendship": "50",
+            "Base Exp.": "194",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "75% male,25% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "95",
+                "Min": "300",
+                "Max": "394"
+            },
+            "Attack": {
+                "Base": "115",
+                "Min": "211",
+                "Max": "361"
+            },
+            "Defense": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Sp. Atk": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Sp. Def": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Speed": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Total": "555"
+        },
+        "defense_stats": {
+            "Intimidate ability": {
+                "Normal": "not very effective",
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Fairy": "not very effective"
+            },
+            "Flash Fire ability": {
+                "Normal": "not very effective",
+                "Fire": "no effect",
+                "Water": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Fairy": "not very effective"
+            },
+            "Rock Head ability": {
+                "Normal": "not very effective",
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Growlithe",
+                    "nationalNo": "#0058",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Arcanine",
+                    "nationalNo": "#0059",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Fire Stone)",
+                "shed": null
+            }
+        ],
+        [
+            {
+                "from": {
+                    "name": "Growlithe",
+                    "nationalNo": "#0058",
+                    "type": [
+                        "Fire",
+                        "Rock"
+                    ],
+                    "nickname": "Hisuian Growlithe"
+                },
+                "to": {
+                    "name": "Arcanine",
+                    "nationalNo": "#0059",
+                    "type": [
+                        "Fire",
+                        "Rock"
+                    ],
+                    "nickname": "Hisuian Arcanine"
+                },
+                "requirement": "(use Fire Stone)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Extreme Speed": "80"
+        },
+        "evolution": {
+            "Extreme Speed": "80"
+        },
+        "Arcanine": {
+            "egg": {
+                "Covet": null,
+                "Double-Edge": null,
+                "Double Kick": null,
+                "Morning Sun": null,
+                "Raging Fury": null,
+                "Thrash": null
+            },
+            "tm": {
+                "Take Down": "01",
+                "Charm": "02",
+                "Agility": "04",
+                "Scary Face": "06",
+                "Protect": "07",
+                "Fire Fang": "08",
+                "Thunder Fang": "09",
+                "Thief": "18",
+                "Fire Spin": "24",
+                "Facade": "25",
+                "Aerial Ace": "27",
+                "Bulldoze": "28",
+                "Snarl": "30",
+                "Swift": "32",
+                "Flame Charge": "38",
+                "Endure": "47",
+                "Sunny Day": "49",
+                "Dig": "55",
+                "Psychic Fangs": "63",
+                "Body Slam": "66",
+                "Sleep Talk": "70",
+                "Rest": "85",
+                "Iron Head": "99",
+                "Substitute": "103",
+                "Will-O-Wisp": "107",
+                "Crunch": "108",
+                "Dragon Pulse": "115",
+                "Hyper Voice": "117",
+                "Heat Wave": "118",
+                "Flamethrower": "125",
+                "Play Rough": "127",
+                "Helping Hand": "130",
+                "Reversal": "134",
+                "Fire Blast": "141",
+                "Wild Charge": "147",
+                "Giga Impact": "152",
+                "Outrage": "156",
+                "Overheat": "157",
+                "Hyper Beam": "163",
+                "Flare Blitz": "165",
+                "Close Combat": "167",
+                "Solar Beam": "168",
+                "Tera Blast": "171"
+            }
+        },
+        "Hisuian Arcanine": {
+            "egg": {
+                "Covet": null,
+                "Double-Edge": null,
+                "Double Kick": null,
+                "Head Smash": null,
+                "Morning Sun": null,
+                "Thrash": null
+            },
+            "tm": {
+                "Take Down": "01",
+                "Agility": "04",
+                "Scary Face": "06",
+                "Protect": "07",
+                "Fire Fang": "08",
+                "Thunder Fang": "09",
+                "Thief": "18",
+                "Fire Spin": "24",
+                "Facade": "25",
+                "Aerial Ace": "27",
+                "Bulldoze": "28",
+                "Snarl": "30",
+                "Rock Tomb": "36",
+                "Flame Charge": "38",
+                "Endure": "47",
+                "Sunny Day": "49",
+                "Sandstorm": "51",
+                "Smart Strike": "53",
+                "Dig": "55",
+                "Psychic Fangs": "63",
+                "Body Slam": "66",
+                "Sleep Talk": "70",
+                "Rock Blast": "76",
+                "Rest": "85",
+                "Rock Slide": "86",
+                "Iron Head": "99",
+                "Power Gem": "101",
+                "Substitute": "103",
+                "Will-O-Wisp": "107",
+                "Crunch": "108",
+                "Dragon Pulse": "115",
+                "Stealth Rock": "116",
+                "Hyper Voice": "117",
+                "Heat Wave": "118",
+                "Flamethrower": "125",
+                "Helping Hand": "130",
+                "Reversal": "134",
+                "Fire Blast": "141",
+                "Wild Charge": "147",
+                "Stone Edge": "150",
+                "Giga Impact": "152",
+                "Outrage": "156",
+                "Overheat": "157",
+                "Hyper Beam": "163",
+                "Flare Blitz": "165",
+                "Close Combat": "167",
+                "Solar Beam": "168",
+                "Tera Blast": "171"
+            }
+        }
+    },
+    "entries": {
+        "Arcanine": [
+            "A pok\u00e9mon that has been admired since the past for its beauty. It runs agilely as if on wings.",
+            "A legendary pok\u00e9mon in China. Many people are charmed by its grace and beauty while running.",
+            "This legendary Chinese POKEMON is considered magnificent. Many people are enchanted by its grand mane.",
+            "Its magnificent bark conveys a sense of majesty. Anyone hearing it can\u2019t help but grovel before it.",
+            "An ancient picture scroll shows that people were attracted to its movement as it ran through prairies.",
+            "ARCANINE is known for its high speed. It is said to be capable of running over 6,200 miles in a single day and night. The fire that blazes wildly within this pok\u00e9mon\u2019s body is its source of power.",
+            "A pok\u00e9mon that is described in Chinese legends. It is said to race at an unbelievable speed.",
+            "A pok\u00e9mon that has long been admired for its beauty. It runs agilely as if on wings.",
+            "This fleet-footed pok\u00e9mon is said to run over 6,200 miles in a single day and night. The fire that blazes wildly within its body is its source of power.",
+            "Its proud and regal appearance has captured the hearts of people since long ago.",
+            "This legendary Chinese Pok\u00e9mon is considered magnificent. Many people are enchanted by its grand mane.",
+            "Its magnificent bark conveys a sense of majesty. Anyone hearing it can\u2019t help but grovel before it.",
+            "Its proud and regal appearance has captured the hearts of people since long ago.",
+            "The sight of it running over 6,200 miles in a single day and night has captivated many people.",
+            "A Pok\u00e9mon that has long been admired for its beauty. It runs agilely as if on wings.",
+            "Its magnificent bark conveys a sense of majesty. Anyone hearing it can\u2019t help but grovel before it.",
+            "Arcanine is known for its high speed. It is said to be capable of running over 6,200 miles in a single day and night. The fire that blazes wildly within this Pok\u00e9mon\u2019s body is its source of power.",
+            "Overflowing with beauty and majesty, this strong Pok\u00e9mon appears in ancient Eastern folklore.",
+            "The fire burning inside its body serves as the energy to fuel it as it runs great distances. It appears in many legends.",
+            "Legends tell of its fighting alongside a general and conquering a whole country.",
+            "There are so many old tales about them that they\u2019re called legendary Pok\u00e9mon, but there are way more of them around than you\u2019d expect.",
+            "A legendary Pok\u00e9mon in the East. Many people are charmed by the grace and beauty of its running.",
+            "The sight of it running over 6,200 miles in a single day and night has captivated many people.",
+            "A Pok\u00e9mon that has long been admired for its beauty. It runs agilely as if on wings.",
+            "Its proud and regal appearance has captured the hearts of people since long ago.",
+            "An ancient picture scroll shows that people were captivated by its movement as it ran through prairies.",
+            "Its magnificent bark conveys a sense of majesty. Anyone hearing it can\u2019t help but grovel before it."
+        ],
+        "Hisuian Arcanine": [
+            "Snaps at its foes with fangs cloaked in blazing flame. Despite its bulk, it deftly feints every which way, leading opponents on a deceptively merry chase as it all but dances around them."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787052481003670/59.png",
+    "discord_sprite": "<:P59:1132115316428779610>"
+}

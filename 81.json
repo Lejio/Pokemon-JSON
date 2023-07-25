@@ -1,0 +1,235 @@
+{
+    "alt-version(s)": [],
+    "name": "Magnemite",
+    "Magnemite": {
+        "pokedex_data": {
+            "National No.": "0081",
+            "Type": [
+                "Electric",
+                "Steel"
+            ],
+            "Species": "Magnet Poke\u0301mon",
+            "Height": "0.3 m (1\u203200\u2032\u2032)",
+            "Weight": "6.0 kg (13.2 lbs)",
+            "Abilities": {
+                "Magnet Pull": {
+                    "href": "/ability/magnet-pull",
+                    "effect": "Prevents Steel-type Pok\u00e9mon from escaping.",
+                    "hidden": false
+                },
+                "Sturdy": {
+                    "href": "/ability/sturdy",
+                    "effect": "It cannot be knocked out with one hit.",
+                    "hidden": false
+                },
+                "Analytic": {
+                    "href": "/ability/analytic",
+                    "effect": "Boosts move power when the Pok\u00e9mon moves last.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Sp. Atk",
+            "Catch rate": "190",
+            "BaseFriendship": "50",
+            "Base Exp.": "65",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "25",
+                "Min": "160",
+                "Max": "254"
+            },
+            "Attack": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Defense": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Atk": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Sp. Def": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Speed": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Total": "325"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Fire": "super-effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Poison": "no effect",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Dragon": "not very effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Magnemite",
+                    "nationalNo": "#0081",
+                    "type": [
+                        "Electric",
+                        "Steel"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Magneton",
+                    "nationalNo": "#0082",
+                    "type": [
+                        "Electric",
+                        "Steel"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 30)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Magneton",
+                    "nationalNo": "#0082",
+                    "type": [
+                        "Electric",
+                        "Steel"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Magnezone",
+                    "nationalNo": "#0462",
+                    "type": [
+                        "Electric",
+                        "Steel"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Thunder Stone, in Gen 8+, or level up in a Magnetic Field area)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Tackle": "1",
+            "Thunder Shock": "1",
+            "Supersonic": "4",
+            "Thunder Wave": "8",
+            "Electro Ball": "12",
+            "Gyro Ball": "16",
+            "Spark": "20",
+            "Screech": "24",
+            "Magnet Rise": "28",
+            "Flash Cannon": "32",
+            "Discharge": "36",
+            "Metal Sound": "40",
+            "Light Screen": "44",
+            "Lock-On": "48",
+            "Zap Cannon": "52"
+        },
+        "egg": {
+            "Electroweb": null,
+            "Explosion": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Protect": "07",
+            "Confuse Ray": "17",
+            "Charge Beam": "23",
+            "Facade": "25",
+            "Swift": "32",
+            "Endure": "47",
+            "Volt Switch": "48",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Sandstorm": "51",
+            "Sleep Talk": "70",
+            "Electro Ball": "72",
+            "Reflect": "74",
+            "Light Screen": "75",
+            "Thunder Wave": "82",
+            "Rest": "85",
+            "Flash Cannon": "93",
+            "Eerie Impulse": "96",
+            "Iron Head": "99",
+            "Substitute": "103",
+            "Iron Defense": "104",
+            "Heavy Slam": "121",
+            "Thunderbolt": "126",
+            "Helping Hand": "130",
+            "Electric Terrain": "136",
+            "Wild Charge": "147",
+            "Thunder": "166",
+            "Steel Beam": "170",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Magnemite": [
+            "Uses anti-gravity to stay suspended. Appears without warning and uses THUNDER WAVE and similar moves.",
+            "It is born with the ability to defy gravity. It floats in air on powerful electromagnetic waves.",
+            "It is attracted by electromagnetic waves. It may approach trainers if they are using their POK\u00e9GEAR.",
+            "The units at the sides of its body generate antigravity energy to keep it aloft in the air.",
+            "The electricity emitted by the units on each side of its body cause it to become a strong magnet.",
+            "MAGNEMITE attaches itself to power lines to feed on electricity. If your house has a power outage, check your circuit breakers. You may find a large number of this pok\u00e9mon clinging to the breaker box.",
+            "MAGNEMITE floats in the air by emitting electromagnetic waves from the units at its sides. These waves block gravity. This pok\u00e9mon becomes incapable of flight if its internal electrical supply is depleted.",
+            "It moves while constantly hovering. It discharges THUNDER WAVE and so on from the units at its sides.",
+            "Uses antigravity to stay suspended. Appears without warning and uses THUNDER WAVE and similar moves.",
+            "The units at its sides are extremely powerful magnets. They generate enough magnetism to draw in iron objects from over 300 feet away.",
+            "The units at its sides generate electromagnetic waves that keep it airborne. It feeds on electricity.",
+            "The faster the units at its sides rotate, the greater the magnetic force they generate.",
+            "It is attracted by electromagnetic waves. It may approach Trainers if they are using their Pok\u00e9gear.",
+            "The units at the sides of its body generate antigravity energy to keep it aloft in the air.",
+            "The faster the units at its sides rotate, the greater the magnetic force they generate.",
+            "The electromagnetic waves emitted by the units at the sides of its head expel antigravity, which allows it to float.",
+            "The units at the sides of its body generate antigravity energy to keep it aloft in the air.",
+            "It moves while constantly hovering. It discharges Thunder Wave and so on from the units at its sides.",
+            "Magnemite attaches itself to power lines to feed on electricity. If your house has a power outage, check your circuit breakers. You may find a large number of this Pok\u00e9mon clinging to the breaker box.",
+            "Magnemite floats in the air by emitting electromagnetic waves from the units at its sides. These waves block gravity. This Pok\u00e9mon becomes incapable of flight if its internal electrical supply is depleted.",
+            "They gather in places where electricity is available. They can be found clinging to the steel towers used to support power lines.",
+            "It sends out electromagnetic waves, which let it float through the air. Touching it while it\u2019s eating electricity will give you a full-body shock.",
+            "It\u2019s frequently the cause of power outages, which is why some power plants send out electrical signals that it can\u2019t stand.",
+            "Perhaps because electrical lines are often buried these days, the number of Magnemite attacks on power plants has increased.",
+            "It is hatched with the ability to defy gravity. It floats while emitting powerful electromagnetic waves.",
+            "At times, Magnemite runs out of electricity and ends up on the ground. If you give batteries to a grounded Magnemite, it\u2019ll start moving again.",
+            "It subsists on electricity. As Magnemite flies, it emits electromagnetic waves from the units on each side of its body.",
+            "The units at its sides generate electromagnetic waves that keep it airborne. It feeds on electricity.",
+            "A bizarre Pok\u00e9mon with but a single eye embedded in an iron sphere. I suspect this creature levitates due to the magnetism it emits from its arms, which resemble horseshoe-shaped magnets.",
+            "The electromagnetic waves emitted by the units at the sides of its head expel antigravity, which allows it to float.",
+            "It moves while constantly hovering. It discharges electromagnetic waves and so on from the units at its sides."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787224841732126/81.png",
+    "discord_sprite": "<:P81:1132116289272422471>"
+}

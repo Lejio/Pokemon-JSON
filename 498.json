@@ -1,0 +1,228 @@
+{
+    "alt-version(s)": [],
+    "name": "Tepig",
+    "Tepig": {
+        "pokedex_data": {
+            "National No.": "0498",
+            "Type": [
+                "Fire"
+            ],
+            "Species": "Fire Pig Poke\u0301mon",
+            "Height": "0.5 m (1\u203208\u2032\u2032)",
+            "Weight": "9.9 kg (21.8 lbs)",
+            "Abilities": {
+                "Blaze": {
+                    "href": "/ability/blaze",
+                    "effect": "Powers up Fire-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Thick Fat": {
+                    "href": "/ability/thick-fat",
+                    "effect": "Ups resistance to Fire- and Ice-type moves.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 HP",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "62",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "65",
+                "Min": "240",
+                "Max": "334"
+            },
+            "Attack": {
+                "Base": "63",
+                "Min": "117",
+                "Max": "247"
+            },
+            "Defense": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Sp. Atk": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Sp. Def": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Speed": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Total": "308"
+        },
+        "defense_stats": {
+            "Blaze ability": {
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Ground": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            },
+            "Thick Fat ability": {
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Ground": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Tepig",
+                    "nationalNo": "#0498",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Pignite",
+                    "nationalNo": "#0499",
+                    "type": [
+                        "Fire",
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 17)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Pignite",
+                    "nationalNo": "#0499",
+                    "type": [
+                        "Fire",
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Emboar",
+                    "nationalNo": "#0500",
+                    "type": [
+                        "Fire",
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 36)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Tackle": "1",
+            "Tail Whip": "3",
+            "Ember": "7",
+            "Odor Sleuth": "9",
+            "Defense Curl": "13",
+            "Flame Charge": "15",
+            "Smog": "19",
+            "Rollout": "21",
+            "Take Down": "25",
+            "Heat Crash": "27",
+            "Assurance": "31",
+            "Flamethrower": "33",
+            "Head Smash": "37",
+            "Roar": "39",
+            "Flare Blitz": "43"
+        },
+        "egg": {
+            "Body Slam": null,
+            "Burn Up": null,
+            "Covet": null,
+            "Curse": null,
+            "Endeavor": null,
+            "Heavy Slam": null,
+            "Magnitude": null,
+            "Sleep Talk": null,
+            "Sucker Punch": null,
+            "Superpower": null,
+            "Thrash": null,
+            "Yawn": null
+        },
+        "null": {
+            "Covet": "60",
+            "Endeavor": "\u2014",
+            "Fire Pledge": "80",
+            "Heat Wave": "95",
+            "Helping Hand": "\u2014",
+            "Iron Tail": "100",
+            "Snore": "50",
+            "Stomping Tantrum": "75",
+            "Superpower": "120",
+            "Zen Headbutt": "80"
+        },
+        "tm": {
+            "Work Up": "01",
+            "Roar": "05",
+            "Toxic": "06",
+            "Hidden Power": "10",
+            "Sunny Day": "11",
+            "Taunt": "12",
+            "Protect": "17",
+            "Frustration": "21",
+            "Solar Beam": "22",
+            "Return": "27",
+            "Double Team": "32",
+            "Flamethrower": "35",
+            "Fire Blast": "38",
+            "Rock Tomb": "39",
+            "Facade": "42",
+            "Flame Charge": "43",
+            "Rest": "44",
+            "Attract": "45",
+            "Round": "48",
+            "Echoed Voice": "49",
+            "Overheat": "50",
+            "Will-O-Wisp": "61",
+            "Gyro Ball": "74",
+            "Grass Knot": "86",
+            "Swagger": "87",
+            "Sleep Talk": "88",
+            "Substitute": "90",
+            "Wild Charge": "93",
+            "Confide": "100"
+        }
+    },
+    "entries": {
+        "Tepig": [
+            "It can deftly dodge its foe\u2019s attacks while shooting fireballs from its nose. It roasts berries before it eats them.",
+            "It blows fire through its nose. When it catches a cold, the fire becomes pitch-black smoke instead.",
+            "It loves to eat roasted berries, but sometimes it gets too excited and burns them to a crisp.",
+            "It can deftly dodge its foe\u2019s attacks while shooting fireballs from its nose. It roasts berries before it eats them.",
+            "It loves to eat roasted berries, but sometimes it gets too excited and burns them to a crisp."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790483140661370/498.png",
+    "discord_sprite": "<:P498:1132134644515614912>"
+}

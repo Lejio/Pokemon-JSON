@@ -1,0 +1,211 @@
+{
+    "alt-version(s)": [],
+    "name": "Cloyster",
+    "Cloyster": {
+        "pokedex_data": {
+            "National No.": "0091",
+            "Type": [
+                "Water",
+                "Ice"
+            ],
+            "Species": "Bivalve Poke\u0301mon",
+            "Height": "1.5 m (4\u203211\u2032\u2032)",
+            "Weight": "132.5 kg (292.1 lbs)",
+            "Abilities": {
+                "Shell Armor": {
+                    "href": "/ability/shell-armor",
+                    "effect": "The Pok\u00e9mon is protected against critical hits.",
+                    "hidden": false
+                },
+                "Skill Link": {
+                    "href": "/ability/skill-link",
+                    "effect": "Increases the frequency of multi-strike moves.",
+                    "hidden": false
+                },
+                "Overcoat": {
+                    "href": "/ability/overcoat",
+                    "effect": "Protects the Pok\u00e9mon from weather damage.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Defense",
+            "Catch rate": "60",
+            "BaseFriendship": "50",
+            "Base Exp.": "184",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "50",
+                "Min": "210",
+                "Max": "304"
+            },
+            "Attack": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Defense": {
+                "Base": "180",
+                "Min": "328",
+                "Max": "504"
+            },
+            "Sp. Atk": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Sp. Def": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Speed": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Total": "525"
+        },
+        "defense_stats": {
+            "default": {
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Rock": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Shellder",
+                    "nationalNo": "#0090",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Cloyster",
+                    "nationalNo": "#0091",
+                    "type": [
+                        "Water",
+                        "Ice"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Water Stone)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Aurora Beam": "1",
+            "Hydro Pump": "1",
+            "Ice Beam": "1",
+            "Ice Shard": "1",
+            "Icicle Crash": "1",
+            "Iron Defense": "1",
+            "Leer": "1",
+            "Protect": "1",
+            "Shell Smash": "1",
+            "Spikes": "1",
+            "Supersonic": "1",
+            "Tackle": "1",
+            "Toxic Spikes": "1",
+            "Water Gun": "1",
+            "Whirlpool": "1",
+            "Withdraw": "1",
+            "Razor Shell": "5"
+        },
+        "evolution": {
+            "Icicle Spear": "25"
+        },
+        "egg": {
+            "Aqua Ring": null,
+            "Bubble Beam": null,
+            "Life Dew": null,
+            "Water Pulse": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Water Pulse": "11",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Swift": "32",
+            "Icy Wind": "34",
+            "Mud Shot": "35",
+            "Avalanche": "46",
+            "Endure": "47",
+            "Rain Dance": "50",
+            "Snowscape": "52",
+            "Smart Strike": "53",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Light Screen": "75",
+            "Rock Blast": "76",
+            "Waterfall": "77",
+            "Poison Jab": "83",
+            "Rest": "85",
+            "Spikes": "90",
+            "Toxic Spikes": "91",
+            "Substitute": "103",
+            "Iron Defense": "104",
+            "Drill Run": "106",
+            "Liquidation": "110",
+            "Surf": "123",
+            "Ice Spinner": "124",
+            "Helping Hand": "130",
+            "Ice Beam": "135",
+            "Hydro Pump": "142",
+            "Blizzard": "143",
+            "Giga Impact": "152",
+            "Hyper Beam": "163",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Cloyster": [
+            "When attacked, it launches its horns in quick volleys. Its innards have never been seen.",
+            "For protection, it uses its harder-than-diamonds shell. It also shoots spikes from the shell.",
+            "Once it slams its shell shut, it is impossible to open, even by those with superior strength.",
+            "CLOYSTER that live in seas with harsh tidal currents grow large, sharp spikes on their shells.",
+            "Even a missile can\u2019t break the spikes it uses to stab opponents. They\u2019re even harder than its shell.",
+            "CLOYSTER is capable of swimming in the sea. It does so by swallowing water, then jetting it out toward the rear. This pok\u00e9mon shoots spikes from its shell using the same system.",
+            "Its shell is extremely hard. It cannot be shattered, even with a bomb. The shell opens only when it is attacking.",
+            "When attacked, it launches its horns in quick volleys. Its innards have never been seen.",
+            "It swims in the sea by swallowing water, then jetting it out toward the rear. The CLOYSTER shoots spikes from its shell using the same system.",
+            "It fights by keeping its shell tightly shut for protection and by shooting spikes to repel foes.",
+            "Once it slams its shell shut, it is impossible to open, even by those with superior strength.",
+            "CLOYSTER that live in seas with harsh tidal currents grow large, sharp spikes on their shells.",
+            "It fights by keeping its shell tightly shut for protection and by shooting spikes to repel foes.",
+            "Cloyster that live in seas with harsh tidal currents grow large, sharp spikes on their shells.",
+            "Its shell is extremely hard. It cannot be shattered, even with a bomb. The shell opens only when it is attacking.",
+            "Cloyster is capable of swimming in the sea. It does so by swallowing water, then jetting it out toward the rear. This Pok\u00e9mon shoots spikes from its shell using the same system.",
+            "Its hard shell cannot be shattered\u2014not even by a bomb. The contents of the shell remain unknown.",
+            "Excavation of the tombs of ancient hunting tribes has turned up many spears tipped with spikes that had fallen off this Pok\u00e9mon\u2019s shell.",
+            "If areas of Cloyster\u2019s very hard shell get damaged, those areas swell, gradually growing into large sharp spikes.",
+            "Slowpoke tails are its favorite food. It has even been known to come up on land to look for Slowpoke from time to time.",
+            "For protection, it uses its harder-than-diamonds shell. It also shoots spikes from the shell.",
+            "Its shell is extremely hard. It cannot be shattered, even with a bomb. The shell opens only when it is attacking.",
+            "Once it slams its shell shut, it is impossible to open, even by those with superior strength.",
+            "It fights by keeping its shell tightly shut for protection and by shooting spikes to repel foes.",
+            "Cloyster that live in seas with harsh tidal currents grow large, sharp spikes on their shells.",
+            "When attacked, it launches its spikes in quick volleys. Its innards have never been seen."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787301815591102/91.png",
+    "discord_sprite": "<:P91:1132116727967256586>"
+}

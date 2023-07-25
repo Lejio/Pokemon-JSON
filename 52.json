@@ -1,0 +1,581 @@
+{
+    "alt-version(s)": [
+        "Alolan Meowth",
+        "Galarian Meowth"
+    ],
+    "name": "Meowth",
+    "Meowth": {
+        "pokedex_data": {
+            "National No.": "0052",
+            "Type": [
+                "Normal"
+            ],
+            "Species": "Scratch Cat Poke\u0301mon",
+            "Height": "0.4 m (1\u203204\u2032\u2032)",
+            "Weight": "4.2 kg (9.3 lbs)",
+            "Abilities": {
+                "Pickup": {
+                    "href": "/ability/pickup",
+                    "effect": "The Pok\u00e9mon may pick up items.",
+                    "hidden": false
+                },
+                "Technician": {
+                    "href": "/ability/technician",
+                    "effect": "Powers up the Pok\u00e9mon's weaker moves.",
+                    "hidden": false
+                },
+                "Unnerve": {
+                    "href": "/ability/unnerve",
+                    "effect": "Makes the foe nervous and unable to eat Berries.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Speed",
+            "Catch rate": "255",
+            "BaseFriendship": "50",
+            "Base Exp.": "58",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "40",
+                "Min": "190",
+                "Max": "284"
+            },
+            "Attack": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Defense": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Sp. Atk": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Def": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Speed": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Total": "290"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "Alolan Meowth": {
+        "pokedex_data": {
+            "National No.": "0052",
+            "Type": [
+                "Dark"
+            ],
+            "Species": "Scratch Cat Poke\u0301mon",
+            "Height": "0.4 m (1\u203204\u2032\u2032)",
+            "Weight": "4.2 kg (9.3 lbs)",
+            "Abilities": {
+                "Pickup": {
+                    "href": "/ability/pickup",
+                    "effect": "The Pok\u00e9mon may pick up items.",
+                    "hidden": false
+                },
+                "Technician": {
+                    "href": "/ability/technician",
+                    "effect": "Powers up the Pok\u00e9mon's weaker moves.",
+                    "hidden": false
+                },
+                "Rattled": {
+                    "href": "/ability/rattled",
+                    "effect": "Bug, Ghost or Dark type moves scare it and boost its Speed.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Speed",
+            "Catch rate": "255",
+            "BaseFriendship": "50",
+            "Base Exp.": "58",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "40",
+                "Min": "190",
+                "Max": "284"
+            },
+            "Attack": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Defense": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Sp. Atk": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Def": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Speed": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Total": "290"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "super-effective",
+                "Psychic": "no effect",
+                "Bug": "super-effective",
+                "Ghost": "not very effective",
+                "Dark": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "Galarian Meowth": {
+        "pokedex_data": {
+            "National No.": "0052",
+            "Type": [
+                "Steel"
+            ],
+            "Species": "Scratch Cat Poke\u0301mon",
+            "Height": "0.4 m (1\u203204\u2032\u2032)",
+            "Weight": "7.5 kg (16.5 lbs)",
+            "Abilities": {
+                "Pickup": {
+                    "href": "/ability/pickup",
+                    "effect": "The Pok\u00e9mon may pick up items.",
+                    "hidden": false
+                },
+                "Tough Claws": {
+                    "href": "/ability/tough-claws",
+                    "effect": "Boosts the power of contact moves.",
+                    "hidden": false
+                },
+                "Unnerve": {
+                    "href": "/ability/unnerve",
+                    "effect": "Makes the foe nervous and unable to eat Berries.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack",
+            "Catch rate": "255",
+            "BaseFriendship": "50",
+            "Base Exp.": "58",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "50",
+                "Min": "210",
+                "Max": "304"
+            },
+            "Attack": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Defense": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Sp. Atk": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Def": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Speed": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Total": "290"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Fire": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Poison": "no effect",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Dragon": "not very effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Meowth",
+                    "nationalNo": "#0052",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Persian",
+                    "nationalNo": "#0053",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 28)",
+                "shed": null
+            }
+        ],
+        [
+            {
+                "from": {
+                    "name": "Meowth",
+                    "nationalNo": "#0052",
+                    "type": [
+                        "Dark"
+                    ],
+                    "nickname": "Alolan Meowth"
+                },
+                "to": {
+                    "name": "Persian",
+                    "nationalNo": "#0053",
+                    "type": [
+                        "Dark"
+                    ],
+                    "nickname": "Alolan Persian"
+                },
+                "requirement": "(high Friendship)",
+                "shed": null
+            }
+        ],
+        [
+            {
+                "from": {
+                    "name": "Meowth",
+                    "nationalNo": "#0052",
+                    "type": [
+                        "Steel"
+                    ],
+                    "nickname": "Galarian Meowth"
+                },
+                "to": {
+                    "name": "Perrserker",
+                    "nationalNo": "#0863",
+                    "type": [
+                        "Steel"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 28)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "Meowth": {
+            "moves": {
+                "Fake Out": "1",
+                "Growl": "1",
+                "Feint": "4",
+                "Scratch": "8",
+                "Pay Day": "12",
+                "Bite": "16",
+                "Taunt": "20",
+                "Assurance": "24",
+                "Fury Swipes": "29",
+                "Screech": "32",
+                "Slash": "36",
+                "Nasty Plot": "40",
+                "Play Rough": "44"
+            },
+            "egg": {
+                "Covet": null,
+                "Flail": null,
+                "Hypnosis": null,
+                "Last Resort": null,
+                "Spite": null,
+                "Tail Whip": null
+            },
+            "tm": {
+                "Take Down": "01",
+                "Charm": "02",
+                "Fake Tears": "03",
+                "Agility": "04",
+                "Protect": "07",
+                "Thief": "18",
+                "Trailblaze": "20",
+                "Chilling Water": "22",
+                "Facade": "25",
+                "Aerial Ace": "27",
+                "Snarl": "30",
+                "Metal Claw": "31",
+                "Swift": "32",
+                "Icy Wind": "34",
+                "Endure": "47",
+                "Sunny Day": "49",
+                "Rain Dance": "50",
+                "Dig": "55",
+                "False Swipe": "57",
+                "U-turn": "60",
+                "Shadow Claw": "61",
+                "Foul Play": "62",
+                "Body Slam": "66",
+                "Sleep Talk": "70",
+                "Seed Bomb": "71",
+                "Thunder Wave": "82",
+                "Rest": "85",
+                "Taunt": "87",
+                "Dark Pulse": "94",
+                "Power Gem": "101",
+                "Gunk Shot": "102",
+                "Substitute": "103",
+                "Shadow Ball": "114",
+                "Hyper Voice": "117",
+                "Thunderbolt": "126",
+                "Play Rough": "127",
+                "Amnesia": "128",
+                "Helping Hand": "130",
+                "Nasty Plot": "140",
+                "Thunder": "166",
+                "Tera Blast": "171"
+            }
+        },
+        "Alolan Meowth": {
+            "moves": {
+                "Fake Out": "1",
+                "Growl": "1",
+                "Feint": "4",
+                "Scratch": "8",
+                "Pay Day": "12",
+                "Bite": "16",
+                "Taunt": "20",
+                "Assurance": "24",
+                "Fury Swipes": "29",
+                "Screech": "32",
+                "Night Slash": "36",
+                "Nasty Plot": "40",
+                "Play Rough": "44"
+            },
+            "egg": {
+                "Covet": null,
+                "Flail": null,
+                "Flatter": null,
+                "Hypnosis": null,
+                "Parting Shot": null,
+                "Spite": null
+            },
+            "tm": {
+                "Take Down": "01",
+                "Charm": "02",
+                "Fake Tears": "03",
+                "Agility": "04",
+                "Protect": "07",
+                "Confuse Ray": "17",
+                "Thief": "18",
+                "Trailblaze": "20",
+                "Chilling Water": "22",
+                "Facade": "25",
+                "Aerial Ace": "27",
+                "Snarl": "30",
+                "Metal Claw": "31",
+                "Swift": "32",
+                "Icy Wind": "34",
+                "Endure": "47",
+                "Sunny Day": "49",
+                "Rain Dance": "50",
+                "Dig": "55",
+                "U-turn": "60",
+                "Shadow Claw": "61",
+                "Foul Play": "62",
+                "Body Slam": "66",
+                "Sleep Talk": "70",
+                "Seed Bomb": "71",
+                "Thunder Wave": "82",
+                "Rest": "85",
+                "Taunt": "87",
+                "Dark Pulse": "94",
+                "Power Gem": "101",
+                "Gunk Shot": "102",
+                "Substitute": "103",
+                "Shadow Ball": "114",
+                "Hyper Voice": "117",
+                "Thunderbolt": "126",
+                "Play Rough": "127",
+                "Amnesia": "128",
+                "Helping Hand": "130",
+                "Nasty Plot": "140",
+                "Thunder": "166",
+                "Tera Blast": "171"
+            }
+        },
+        "Galarian Meowth": {
+            "moves": {
+                "Fake Out": "1",
+                "Growl": "1",
+                "Hone Claws": "4",
+                "Scratch": "8",
+                "Pay Day": "12",
+                "Metal Claw": "16",
+                "Taunt": "20",
+                "Swagger": "24",
+                "Fury Swipes": "29",
+                "Screech": "32",
+                "Slash": "36",
+                "Metal Sound": "40",
+                "Thrash": "44"
+            },
+            "egg": {
+                "Covet": null,
+                "Curse": null,
+                "Double-Edge": null,
+                "Flail": null,
+                "Night Slash": null,
+                "Spite": null
+            },
+            "tm": {
+                "Take Down": "01",
+                "Charm": "02",
+                "Fake Tears": "03",
+                "Protect": "07",
+                "Thief": "18",
+                "Trailblaze": "20",
+                "Facade": "25",
+                "Aerial Ace": "27",
+                "Metal Claw": "31",
+                "Fling": "43",
+                "Endure": "47",
+                "Sunny Day": "49",
+                "Rain Dance": "50",
+                "Dig": "55",
+                "False Swipe": "57",
+                "Brick Break": "58",
+                "U-turn": "60",
+                "Shadow Claw": "61",
+                "Foul Play": "62",
+                "Body Slam": "66",
+                "Sleep Talk": "70",
+                "Seed Bomb": "71",
+                "Metronome": "80",
+                "Rest": "85",
+                "Taunt": "87",
+                "Swords Dance": "88",
+                "Flash Cannon": "93",
+                "Dark Pulse": "94",
+                "Iron Head": "99",
+                "Gunk Shot": "102",
+                "Substitute": "103",
+                "Iron Defense": "104",
+                "X-Scissor": "105",
+                "Crunch": "108",
+                "Shadow Ball": "114",
+                "Stealth Rock": "116",
+                "Hyper Voice": "117",
+                "Thunderbolt": "126",
+                "Play Rough": "127",
+                "Amnesia": "128",
+                "Helping Hand": "130",
+                "Nasty Plot": "140",
+                "Thunder": "166",
+                "Steel Beam": "170",
+                "Tera Blast": "171"
+            }
+        }
+    },
+    "entries": {
+        "Meowth": [
+            "Adores circular objects. Wanders the streets on a nightly basis to look for dropped loose change.",
+            "Appears to be more active at night. It loves round and shiny things. It can\u2019t stop from picking them up.",
+            "It is fascinated by round objects. It can\u2019t stop playing with them until it tires and falls asleep.",
+            "It loves anything that shines. It especially adores coins that it picks up and secretly hoards.",
+            "It loves things that sparkle. When it sees a shiny object, the gold coin on its head shines too.",
+            "MEOWTH withdraws its sharp claws into its paws to slinkily sneak about without making any incriminating footsteps. For some reason, this pok\u00e9mon loves shiny coins that glitter with light.",
+            "All it does is sleep during the daytime. At night, it patrols its territory with its eyes aglow.",
+            "Adores round objects. It wanders the streets on a nightly basis to look for dropped loose change.",
+            "MEOWTH withdraw their sharp claws into their paws to silently sneak about. For some reason, this pok\u00e9mon loves shiny coins that glitter with light.",
+            "It is nocturnal in nature. If it spots something shiny, its eyes glitter brightly.",
+            "It is fascinated by round objects. It can\u2019t stop playing with them until it tires and falls asleep.",
+            "It loves anything that shines. It especially adores coins that it picks up and secretly hoards.",
+            "It is nocturnal in nature. If it spots something shiny, its eyes glitter brightly.",
+            "It is nocturnal in nature. If it spots something shiny, its eyes glitter brightly.",
+            "Adores round objects. It wanders the streets on a nightly basis to look for dropped loose change.",
+            "Meowth withdraws its sharp claws into its paws to slinkily sneak about without making any incriminating footsteps. For some reason, this Pok\u00e9mon loves shiny coins that glitter with light.",
+            "It lies around all day, becoming active near dusk. At night, it wanders the city in search of loose change.",
+            "It loves shiny things. It often fights with Murkrow over prey they\u2019re both trying to catch.",
+            "When visiting a junkyard, you may catch sight of it having an intense fight with Murkrow over shiny objects.",
+            "It loves coins, so if you give it one, you can make friends with Meowth easily. But it\u2019s fickle, so you can\u2019t count on that friendship lasting.",
+            "Appears to be more active at night. It loves round and shiny things. It can\u2019t stop itself from picking them up.",
+            "It loves to collect shiny things. If it\u2019s in a good mood, it might even let its Trainer have a look at its hoard of treasures.",
+            "It washes its face regularly to keep the coin on its forehead spotless. It doesn\u2019t get along with Galarian Meowth.",
+            "It is nocturnal by nature. If it spots something shiny, its eyes glitter as brightly as the shiny object.",
+            "All it does is sleep during the daytime. At night, it patrols its territory with its eyes aglow.",
+            "It loves things that sparkle. When it sees a shiny object, the gold coin on its head shines, too."
+        ],
+        "Gigantamax": [
+            "The pattern that has appeared on its giant coin is thought to be the key to unlocking the secrets of the Dynamax phenomenon.",
+            "Its body has grown incredibly long and the coin on its forehead has grown incredibly large\u2014all thanks to Gigantamax power."
+        ],
+        "Alolan Meowth": [
+            "This Pok\u00e9mon was not originally found in Alola. Human actions caused a surge in their numbers, and they went feral. They\u2019re prideful and crafty.",
+            "When its delicate pride is wounded, or when the gold coin on its forehead is dirtied, it flies into a hysterical rage.",
+            "It\u2019s impulsive, selfish, and fickle. It\u2019s very popular with some Trainers who like giving it the attention it needs.",
+            "A royal house that flourished in the distant past brought it here from another region. Meowth is both selfish and prideful.",
+            "Highly intelligent and prideful, it\u2019s famously difficult to handle\u2014but that\u2019s also a reason for its popularity.",
+            "It\u2019s accustomed to luxury because it used to live with Alolan royalty. As a result, it\u2019s very picky about food.",
+            "Deeply proud and keenly smart, this Pok\u00e9mon moves with cunning during battle and relentlessly attacks enemies\u2019 weak points."
+        ],
+        "Galarian Meowth": [
+            "Living with a savage, seafaring people has toughened this Pok\u00e9mon\u2019s body so much that parts of it have turned to iron.",
+            "These daring Pok\u00e9mon have coins on their foreheads. Darker coins are harder, and harder coins garner more respect among Meowth."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131786997212651561/52.png",
+    "discord_sprite": "<:P52:1132115005182054510>"
+}

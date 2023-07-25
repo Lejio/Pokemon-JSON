@@ -1,0 +1,227 @@
+{
+    "alt-version(s)": [],
+    "name": "Pangoro",
+    "Pangoro": {
+        "pokedex_data": {
+            "National No.": "0675",
+            "Type": [
+                "Fighting",
+                "Dark"
+            ],
+            "Species": "Daunting Poke\u0301mon",
+            "Height": "2.1 m (6\u203211\u2032\u2032)",
+            "Weight": "136.0 kg (299.8 lbs)",
+            "Abilities": {
+                "Iron Fist": {
+                    "href": "/ability/iron-fist",
+                    "effect": "Boosts the power of punching moves.",
+                    "hidden": false
+                },
+                "Mold Breaker": {
+                    "href": "/ability/mold-breaker",
+                    "effect": "Moves can be used regardless of Abilities.",
+                    "hidden": false
+                },
+                "Scrappy": {
+                    "href": "/ability/scrappy",
+                    "effect": "Enables moves to hit Ghost-type Pok\u00e9mon.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "65",
+            "BaseFriendship": "50",
+            "Base Exp.": "173",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "95",
+                "Min": "300",
+                "Max": "394"
+            },
+            "Attack": {
+                "Base": "124",
+                "Min": "227",
+                "Max": "381"
+            },
+            "Defense": {
+                "Base": "78",
+                "Min": "144",
+                "Max": "280"
+            },
+            "Sp. Atk": {
+                "Base": "69",
+                "Min": "128",
+                "Max": "260"
+            },
+            "Sp. Def": {
+                "Base": "71",
+                "Min": "132",
+                "Max": "265"
+            },
+            "Speed": {
+                "Base": "58",
+                "Min": "108",
+                "Max": "236"
+            },
+            "Total": "495"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "super-effective",
+                "Flying": "super-effective",
+                "Psychic": "no effect",
+                "Rock": "not very effective",
+                "Ghost": "not very effective",
+                "Dark": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Pancham",
+                    "nationalNo": "#0674",
+                    "type": [
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Pangoro",
+                    "nationalNo": "#0675",
+                    "type": [
+                        "Fighting",
+                        "Dark"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 32, Dark type Pok\u00e9mon in party)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Arm Thrust": "1",
+            "Bullet Punch": "1",
+            "Leer": "1",
+            "Night Slash": "1",
+            "Tackle": "1",
+            "Taunt": "1",
+            "Circle Throw": "12",
+            "Low Sweep": "16",
+            "Work Up": "20",
+            "Slash": "24",
+            "Vital Throw": "28",
+            "Crunch": "35",
+            "Body Slam": "40",
+            "Parting Shot": "46",
+            "Entrainment": "52",
+            "Hammer Arm": "58"
+        },
+        "evolution": {
+            "Night Slash": "70"
+        },
+        "egg": {
+            "Power Trip": null,
+            "Quash": null,
+            "Quick Guard": null,
+            "Seismic Toss": null,
+            "Storm Throw": null
+        },
+        "null": {
+            "Swords Dance": "00",
+            "Body Slam": "01",
+            "Surf": "04",
+            "Low Kick": "07",
+            "Earthquake": "10",
+            "Focus Energy": "13",
+            "Substitute": "20",
+            "Reversal": "21",
+            "Sludge Bomb": "22",
+            "Outrage": "24",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Crunch": "32",
+            "Uproar": "35",
+            "Taunt": "37",
+            "Superpower": "39",
+            "Hyper Voice": "42",
+            "Dragon Claw": "47",
+            "Bulk Up": "48",
+            "Close Combat": "53",
+            "Poison Jab": "57",
+            "Dark Pulse": "58",
+            "X-Scissor": "60",
+            "Focus Blast": "64",
+            "Zen Headbutt": "69",
+            "Gunk Shot": "73",
+            "Iron Head": "74",
+            "Stone Edge": "75",
+            "Grass Knot": "77",
+            "Foul Play": "81",
+            "Work Up": "85",
+            "Darkest Lariat": "93",
+            "Throat Chop": "95"
+        },
+        "tm": {
+            "Mega Punch": "00",
+            "Mega Kick": "01",
+            "Fire Punch": "03",
+            "Ice Punch": "04",
+            "Thunder Punch": "05",
+            "Hyper Beam": "08",
+            "Giga Impact": "09",
+            "Dig": "15",
+            "Rest": "21",
+            "Rock Slide": "22",
+            "Thief": "23",
+            "Snore": "24",
+            "Protect": "25",
+            "Scary Face": "26",
+            "Attract": "31",
+            "Rain Dance": "33",
+            "Sunny Day": "34",
+            "Beat Up": "37",
+            "Facade": "39",
+            "Helping Hand": "41",
+            "Revenge": "42",
+            "Brick Break": "43",
+            "Rock Tomb": "48",
+            "Payback": "57",
+            "Fling": "59",
+            "Drain Punch": "63",
+            "Shadow Claw": "65",
+            "Low Sweep": "75",
+            "Round": "76",
+            "Retaliate": "79",
+            "Bulldoze": "81",
+            "Snarl": "85",
+            "False Swipe": "94",
+            "Stomping Tantrum": "98"
+        }
+    },
+    "entries": {
+        "Pangoro": [
+            "Although it possesses a violent temperament, it won\u2019t put up with bullying. It uses the leaf in its mouth to sense the movements of its enemies.",
+            "It charges ahead and bashes its opponents like a berserker, uncaring about any hits it might take. Its arms are mighty enough to snap a telephone pole.",
+            "It boasts superb physical strength. Those who wish to become Pangoro\u2019s Trainer have no choice but to converse with their fists.",
+            "From the slight twitches of its bamboo leaf, it deduces its opponent\u2019s movements. It\u2019s eager to tussle but kindhearted toward its companions.",
+            "This rowdy Pok\u00e9mon boasts great physical strength. Many Trainers are also smitten by its lively character.",
+            "Pangoro is the type to talk with its fists. It doesn\u2019t say much as it pummels opponents with enough force to send a dump truck flying.",
+            "This Pok\u00e9mon is quick to anger, and it has no problem using its prodigious strength to get its way. It lives for duels against Obstagoon.",
+            "Using its leaf, Pangoro can predict the moves of its opponents. It strikes with punches that can turn a dump truck into scrap with just one hit."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791864996040754/675.png",
+    "discord_sprite": "<:P675:1132142444675338320>"
+}

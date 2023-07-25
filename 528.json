@@ -1,0 +1,208 @@
+{
+    "alt-version(s)": [],
+    "name": "Swoobat",
+    "Swoobat": {
+        "pokedex_data": {
+            "National No.": "0528",
+            "Type": [
+                "Psychic",
+                "Flying"
+            ],
+            "Species": "Courting Poke\u0301mon",
+            "Height": "0.9 m (2\u203211\u2032\u2032)",
+            "Weight": "10.5 kg (23.1 lbs)",
+            "Abilities": {
+                "Unaware": {
+                    "href": "/ability/unaware",
+                    "effect": "Ignores any stat changes in the Pok\u00e9mon.",
+                    "hidden": false
+                },
+                "Klutz": {
+                    "href": "/ability/klutz",
+                    "effect": "The Pok\u00e9mon can't use any held items.",
+                    "hidden": false
+                },
+                "Simple": {
+                    "href": "/ability/simple",
+                    "effect": "Doubles all stat changes.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Speed",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "149",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "67",
+                "Min": "244",
+                "Max": "338"
+            },
+            "Attack": {
+                "Base": "57",
+                "Min": "107",
+                "Max": "234"
+            },
+            "Defense": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Sp. Atk": {
+                "Base": "77",
+                "Min": "143",
+                "Max": "278"
+            },
+            "Sp. Def": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Speed": {
+                "Base": "114",
+                "Min": "209",
+                "Max": "359"
+            },
+            "Total": "425"
+        },
+        "defense_stats": {
+            "default": {
+                "Electric": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Ground": "no effect",
+                "Psychic": "not very effective",
+                "Rock": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Woobat",
+                    "nationalNo": "#0527",
+                    "type": [
+                        "Psychic",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Swoobat",
+                    "nationalNo": "#0528",
+                    "type": [
+                        "Psychic",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(high Friendship)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Attract": "1",
+            "Confusion": "1",
+            "Endeavor": "1",
+            "Gust": "1",
+            "Air Cutter": "15",
+            "Imprison": "20",
+            "Assurance": "25",
+            "Amnesia": "30",
+            "Air Slash": "35",
+            "Psychic": "40",
+            "Calm Mind": "45",
+            "Future Sight": "50",
+            "Simple Beam": "55"
+        },
+        "egg": {
+            "Flatter": null,
+            "Knock Off": null,
+            "Psycho Shift": null,
+            "Roost": null,
+            "Supersonic": null
+        },
+        "null": {
+            "Psychic": "11",
+            "Amnesia": "17",
+            "Substitute": "20",
+            "Psyshock": "25",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Baton Pass": "29",
+            "Shadow Ball": "33",
+            "Future Sight": "34",
+            "Uproar": "35",
+            "Heat Wave": "36",
+            "Taunt": "37",
+            "Trick": "38",
+            "Skill Swap": "40",
+            "Calm Mind": "49",
+            "Gyro Ball": "52",
+            "Energy Ball": "65",
+            "Nasty Plot": "68",
+            "Zen Headbutt": "69",
+            "Stored Power": "82",
+            "Ally Switch": "83",
+            "Venom Drench": "91",
+            "Psychic Fangs": "97"
+        },
+        "tm": {
+            "Fly": "06",
+            "Hyper Beam": "08",
+            "Giga Impact": "09",
+            "Thunder Wave": "14",
+            "Light Screen": "17",
+            "Reflect": "18",
+            "Safeguard": "19",
+            "Rest": "21",
+            "Thief": "23",
+            "Snore": "24",
+            "Protect": "25",
+            "Giga Drain": "28",
+            "Charm": "29",
+            "Steel Wing": "30",
+            "Attract": "31",
+            "Rain Dance": "33",
+            "Facade": "39",
+            "Swift": "40",
+            "Helping Hand": "41",
+            "Imprison": "44",
+            "Fake Tears": "47",
+            "U-turn": "56",
+            "Assurance": "58",
+            "Speed Swap": "62",
+            "Psycho Cut": "69",
+            "Trick Room": "70",
+            "Round": "76",
+            "Acrobatics": "78",
+            "Air Slash": "95"
+        }
+    },
+    "entries": {
+        "Swoobat": [
+            "It emits sound waves of various frequencies from its nose, including some powerful enough to destroy rocks.",
+            "Anyone who comes into contact with the ultrasonic waves emitted by a courting male experiences a positive mood shift.",
+            "It shakes its tail vigorously when it emits ultrasonic waves strong enough to reduce concrete to rubble.",
+            "It shakes its tail vigorously when it emits ultrasonic waves strong enough to reduce concrete to rubble.",
+            "Anyone who comes into contact with the ultrasonic waves emitted by a courting male experiences a positive mood shift.",
+            "Emitting powerful sound waves tires it out. Afterward, it won\u2019t be able to fly for a little while.",
+            "The auspicious shape of this Pok\u00e9mon\u2019s nose apparently led some regions to consider Swoobat a symbol of good luck."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790717820358677/528.png",
+    "discord_sprite": "<:P528:1132135966233079898>"
+}

@@ -1,0 +1,200 @@
+{
+    "alt-version(s)": [],
+    "name": "Cradily",
+    "Cradily": {
+        "pokedex_data": {
+            "National No.": "0346",
+            "Type": [
+                "Rock",
+                "Grass"
+            ],
+            "Species": "Barnacle Poke\u0301mon",
+            "Height": "1.5 m (4\u203211\u2032\u2032)",
+            "Weight": "60.4 kg (133.2 lbs)",
+            "Abilities": {
+                "Suction Cups": {
+                    "href": "/ability/suction-cups",
+                    "effect": "Negates all moves that force switching out.",
+                    "hidden": false
+                },
+                "Storm Drain": {
+                    "href": "/ability/storm-drain",
+                    "effect": "Draws in all Water-type moves to up Sp. Attack.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Sp. Def",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "173",
+            "Growth Rate": "Erratic"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "86",
+                "Min": "282",
+                "Max": "376"
+            },
+            "Attack": {
+                "Base": "81",
+                "Min": "150",
+                "Max": "287"
+            },
+            "Defense": {
+                "Base": "97",
+                "Min": "179",
+                "Max": "322"
+            },
+            "Sp. Atk": {
+                "Base": "81",
+                "Min": "150",
+                "Max": "287"
+            },
+            "Sp. Def": {
+                "Base": "107",
+                "Min": "197",
+                "Max": "344"
+            },
+            "Speed": {
+                "Base": "43",
+                "Min": "81",
+                "Max": "203"
+            },
+            "Total": "495"
+        },
+        "defense_stats": {
+            "Suction Cups ability": {
+                "Normal": "not very effective",
+                "Electric": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "super-effective",
+                "Bug": "super-effective",
+                "Steel": "super-effective"
+            },
+            "Storm Drain ability": {
+                "Normal": "not very effective",
+                "Water": "no effect",
+                "Electric": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "super-effective",
+                "Bug": "super-effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Lileep",
+                    "nationalNo": "#0345",
+                    "type": [
+                        "Rock",
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Cradily",
+                    "nationalNo": "#0346",
+                    "type": [
+                        "Rock",
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 40)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Acid": "1",
+            "Astonish": "1",
+            "Confuse Ray": "1",
+            "Leech Seed": "1",
+            "Wrap": "1",
+            "Ingrain": "12",
+            "Ancient Power": "16",
+            "Mega Drain": "20",
+            "Brine": "24",
+            "Amnesia": "28",
+            "Gastro Acid": "32",
+            "Giga Drain": "36",
+            "Spit Up": "43",
+            "Stockpile": "43",
+            "Swallow": "43",
+            "Energy Ball": "48"
+        },
+        "egg": {
+            "Bind": null,
+            "Curse": null,
+            "Mega Drain": null,
+            "Mirror Coat": null,
+            "Recover": null,
+            "Tickle": null
+        },
+        "tm": {
+            "Bullet Seed": "09",
+            "Sunny Day": "11",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Giga Drain": "19",
+            "Solar Beam": "22",
+            "Earthquake": "26",
+            "Dig": "28",
+            "Double Team": "32",
+            "Sludge Bomb": "36",
+            "Sandstorm": "37",
+            "Rock Tomb": "39",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Energy Ball": "53",
+            "Brine": "55",
+            "Endure": "58",
+            "Giga Impact": "68",
+            "Rock Polish": "69",
+            "Flash": "70",
+            "Stone Edge": "71",
+            "Swords Dance": "75",
+            "Stealth Rock": "76",
+            "Rock Slide": "80",
+            "Sleep Talk": "82",
+            "Bulldoze": "83",
+            "Grass Knot": "86",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Strength": "96",
+            "Rock Smash": "98"
+        }
+    },
+    "entries": {
+        "Cradily": [
+            "CRADILY roams around the ocean floor in search of food. This pok\u00e9mon freely extends its tree trunk-like neck and captures unwary prey using its eight tentacles.",
+            "CRADILY\u2019s body serves as an anchor, preventing it from being washed away in rough seas. This pok\u00e9mon secretes a strong digestive fluid from its tentacles.",
+            "It ensnares prey with its eight tentacles. It then melts the prey with a strong acid before feeding.",
+            "It drags its heavy body along the seafloor. It makes its nest in the shallows of warm seas. CRADILY can be seen on beaches when the tide goes out.",
+            "It lives in the shallows of warm seas. When the tide goes out, it digs up prey from beaches.",
+            "It lives in warm seas. Its heavy body weighs it down so it won\u2019t get washed away in rough weather.",
+            "It lives in the shallows of warm seas. When the tide goes out, it digs up prey from beaches.",
+            "It lives in the shallows of warm seas. When the tide goes out, it digs up prey from beaches.",
+            "It ensnares prey with its eight tentacles. It then melts the prey with a strong acid before feeding.",
+            "Cradily roams around the ocean floor in search of food. This Pok\u00e9mon freely extends its tree trunk-like neck and captures unwary prey using its eight tentacles.",
+            "Cradily\u2019s body serves as an anchor, preventing it from being washed away in rough seas. This Pok\u00e9mon secretes a strong digestive fluid from its tentacles.",
+            "Normally, it lived on shallow sea shoals. When the tide went out, this Pok\u00e9mon came up on land to search for prey.",
+            "This carnivorous Pok\u00e9mon lived in primordial seas. It catches prey in its eight tentacles and dissolves them with digestive fluid as it eats.",
+            "It has short legs and can\u2019t walk very fast, but its neck and tentacles can extend to over three times their usual length to nab distant prey.",
+            "Once Cradily catches prey in its tentacles, it digests them whole and absorbs their nutrients.",
+            "It lives in the shallows of warm seas. When the tide goes out, it digs up prey from beaches."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789304797089862/346.png",
+    "discord_sprite": "<:P346:1132127962112721106>"
+}

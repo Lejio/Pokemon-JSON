@@ -1,0 +1,294 @@
+{
+    "alt-version(s)": [
+        "Mega Medicham"
+    ],
+    "name": "Medicham",
+    "Medicham": {
+        "pokedex_data": {
+            "National No.": "0308",
+            "Type": [
+                "Fighting",
+                "Psychic"
+            ],
+            "Species": "Meditate Poke\u0301mon",
+            "Height": "1.3 m (4\u203203\u2032\u2032)",
+            "Weight": "31.5 kg (69.4 lbs)",
+            "Abilities": {
+                "Pure Power": {
+                    "href": "/ability/pure-power",
+                    "effect": "Raises the Pok\u00e9mon's Attack stat.",
+                    "hidden": false
+                },
+                "Telepathy": {
+                    "href": "/ability/telepathy",
+                    "effect": "Anticipates an ally's attack and dodges it.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Speed",
+            "Catch rate": "90",
+            "BaseFriendship": "50",
+            "Base Exp.": "144",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "60",
+                "Min": "230",
+                "Max": "324"
+            },
+            "Attack": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Defense": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Sp. Atk": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Def": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Speed": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Total": "410"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "not very effective",
+                "Flying": "super-effective",
+                "Rock": "not very effective",
+                "Ghost": "super-effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "Mega Medicham": {
+        "pokedex_data": {
+            "National No.": "0308",
+            "Type": [
+                "Fighting",
+                "Psychic"
+            ],
+            "Species": "Meditate Poke\u0301mon",
+            "Height": "1.3 m (4\u203203\u2032\u2032)",
+            "Weight": "31.5 kg (69.4 lbs)",
+            "Abilities": {
+                "Pure Power": {
+                    "href": "/ability/pure-power",
+                    "effect": "Raises the Pok\u00e9mon's Attack stat.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Speed",
+            "Catch rate": "90",
+            "BaseFriendship": "50",
+            "Base Exp.": "179",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "60",
+                "Min": "230",
+                "Max": "324"
+            },
+            "Attack": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Defense": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Sp. Atk": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Sp. Def": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Speed": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Total": "510"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "not very effective",
+                "Flying": "super-effective",
+                "Rock": "not very effective",
+                "Ghost": "super-effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Meditite",
+                    "nationalNo": "#0307",
+                    "type": [
+                        "Fighting",
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Medicham",
+                    "nationalNo": "#0308",
+                    "type": [
+                        "Fighting",
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 37)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Confusion": "1",
+            "Detect": "1",
+            "Fire Punch": "1",
+            "Ice Punch": "1",
+            "Thunder Punch": "1",
+            "Work Up": "1",
+            "Endure": "12",
+            "Feint": "15",
+            "Force Palm": "17",
+            "Psybeam": "20",
+            "Calm Mind": "23",
+            "Zen Headbutt": "25",
+            "High Jump Kick": "28",
+            "Psych Up": "31",
+            "Acupressure": "33",
+            "Power Trick": "36",
+            "Recover": "47",
+            "Axe Kick": "53",
+            "Counter": "53"
+        },
+        "egg": {
+            "Baton Pass": null,
+            "Bullet Punch": null,
+            "Dynamic Punch": null,
+            "Fake Out": null,
+            "Fire Punch": null,
+            "Guard Swap": null,
+            "Ice Punch": null,
+            "Power Swap": null,
+            "Psycho Cut": null,
+            "Quick Guard": null,
+            "Thunder Punch": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Protect": "07",
+            "Low Kick": "12",
+            "Psybeam": "16",
+            "Thief": "18",
+            "Trailblaze": "20",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Swift": "32",
+            "Rock Tomb": "36",
+            "Low Sweep": "39",
+            "Stored Power": "41",
+            "Night Shade": "42",
+            "Fling": "43",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Psyshock": "54",
+            "Brick Break": "58",
+            "Zen Headbutt": "59",
+            "Bulk Up": "64",
+            "Body Slam": "66",
+            "Fire Punch": "67",
+            "Thunder Punch": "68",
+            "Ice Punch": "69",
+            "Sleep Talk": "70",
+            "Drain Punch": "73",
+            "Reflect": "74",
+            "Light Screen": "75",
+            "Metronome": "80",
+            "Grass Knot": "81",
+            "Poison Jab": "83",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Taunt": "87",
+            "Imprison": "92",
+            "Skill Swap": "98",
+            "Substitute": "103",
+            "Trick": "109",
+            "Aura Sphere": "112",
+            "Shadow Ball": "114",
+            "Energy Ball": "119",
+            "Psychic": "120",
+            "Calm Mind": "129",
+            "Helping Hand": "130",
+            "Baton Pass": "132",
+            "Reversal": "134",
+            "Psychic Terrain": "138",
+            "Giga Impact": "152",
+            "Focus Blast": "158",
+            "Trick Room": "161",
+            "Hyper Beam": "163",
+            "Close Combat": "167",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Medicham": [
+            "It is said that through meditation, MEDICHAM heightens energy inside its body and sharpens its sixth sense. This pok\u00e9mon hides its presence by merging itself with fields and mountains.",
+            "Through the power of meditation, MEDICHAM developed its sixth sense. It gained the ability to use psychokinetic powers. This pok\u00e9mon is known to meditate for a whole month without eating.",
+            "It elegantly avoids attacks with dance-like steps, then launches a devastating blow in the same motion.",
+            "Through crushingly harsh yoga training, it gained the power to foretell its foe\u2019s actions. It battles with elegant, dance-like movement.",
+            "Through yoga training, it has honed its sixth sense. Its movements are elegant.",
+            "Through daily meditation, it hones its spiritual power. It can sense what others are thinking.",
+            "It gains the ability to see the aura of its opponents by honing its mind through starvation.",
+            "Through yoga training, it gained the psychic power to predict its foe\u2019s next move.",
+            "It gains the ability to see the aura of its opponents by honing its mind through starvation.",
+            "It elegantly avoids attacks with dance-like steps, then launches a devastating blow in the same motion.",
+            "Through yoga training, it gained the psychic power to predict its foe\u2019s next move.",
+            "It is said that through meditation, Medicham heightens energy inside its body and sharpens its sixth sense. This Pok\u00e9mon hides its presence by merging itself with fields and mountains.",
+            "Through the power of meditation, Medicham developed its sixth sense. It gained the ability to use psychokinetic powers. This Pok\u00e9mon is known to meditate for a whole month without eating.",
+            "Through yoga training, it has honed its sixth sense. Its movements are elegant.",
+            "Through daily meditation, it hones its spiritual power. It can sense what others are thinking.",
+            "Through yoga training, it gained the psychic power to predict its foe\u2019s next move.",
+            "It elegantly avoids attacks with dance-like steps, then launches a devastating blow in the same motion."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789009882988595/308.png",
+    "discord_sprite": "<:P308:1132126291156549632>"
+}

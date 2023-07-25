@@ -1,0 +1,377 @@
+{
+    "alt-version(s)": [
+        "Hisuian Qwilfish"
+    ],
+    "name": "Qwilfish",
+    "Qwilfish": {
+        "pokedex_data": {
+            "National No.": "0211",
+            "Type": [
+                "Water",
+                "Poison"
+            ],
+            "Species": "Balloon Poke\u0301mon",
+            "Height": "0.5 m (1\u203208\u2032\u2032)",
+            "Weight": "3.9 kg (8.6 lbs)",
+            "Abilities": {
+                "Poison Point": {
+                    "href": "/ability/poison-point",
+                    "effect": "Contact with the Pok\u00e9mon may poison the attacker.",
+                    "hidden": false
+                },
+                "Swift Swim": {
+                    "href": "/ability/swift-swim",
+                    "effect": "Boosts the Pok\u00e9mon's Speed in rain.",
+                    "hidden": false
+                },
+                "Intimidate": {
+                    "href": "/ability/intimidate",
+                    "effect": "Lowers the foe's Attack stat.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "88",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "65",
+                "Min": "240",
+                "Max": "334"
+            },
+            "Attack": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Defense": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Sp. Atk": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Sp. Def": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Speed": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Total": "440"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "not very effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "Hisuian Qwilfish": {
+        "pokedex_data": {
+            "National No.": "0211",
+            "Type": [
+                "Dark",
+                "Poison"
+            ],
+            "Species": "Balloon Poke\u0301mon",
+            "Height": "0.5 m (1\u203208\u2032\u2032)",
+            "Weight": "3.9 kg (8.6 lbs)",
+            "Abilities": {
+                "Poison Point": {
+                    "href": "/ability/poison-point",
+                    "effect": "Contact with the Pok\u00e9mon may poison the attacker.",
+                    "hidden": false
+                },
+                "Swift Swim": {
+                    "href": "/ability/swift-swim",
+                    "effect": "Boosts the Pok\u00e9mon's Speed in rain.",
+                    "hidden": false
+                },
+                "Intimidate": {
+                    "href": "/ability/intimidate",
+                    "effect": "Lowers the foe's Attack stat.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "88",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "65",
+                "Min": "240",
+                "Max": "334"
+            },
+            "Attack": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Defense": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Sp. Atk": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Sp. Def": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Speed": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Total": "440"
+        },
+        "defense_stats": {
+            "default": {
+                "Grass": "not very effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Psychic": "no effect",
+                "Ghost": "not very effective",
+                "Dark": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Qwilfish",
+                    "nationalNo": "#0211",
+                    "type": [
+                        "Dark",
+                        "Poison"
+                    ],
+                    "nickname": "Hisuian Qwilfish"
+                },
+                "to": {
+                    "name": "Overqwil",
+                    "nationalNo": "#0904",
+                    "type": [
+                        "Dark",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Barb Barrage 20 times in Strong Style)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "Qwilfish": {
+            "moves": {
+                "Poison Sting": "1",
+                "Tackle": "1",
+                "Harden": "4",
+                "Water Gun": "8",
+                "Fell Stinger": "12",
+                "Minimize": "16",
+                "Spikes": "20",
+                "Brine": "24",
+                "Poison Jab": "28",
+                "Pin Missile": "32",
+                "Toxic Spikes": "36",
+                "Spit Up": "40",
+                "Stockpile": "40",
+                "Toxic": "44",
+                "Aqua Tail": "48",
+                "Acupressure": "52",
+                "Destiny Bond": "56"
+            },
+            "egg": {
+                "Acid Spray": null,
+                "Aqua Jet": null,
+                "Astonish": null,
+                "Barb Barrage": null,
+                "Bubble Beam": null,
+                "Flail": null,
+                "Haze": null,
+                "Self-Destruct": null,
+                "Supersonic": null,
+                "Water Pulse": null
+            },
+            "tm": {
+                "Take Down": "01",
+                "Agility": "04",
+                "Scary Face": "06",
+                "Protect": "07",
+                "Water Pulse": "11",
+                "Acid Spray": "13",
+                "Chilling Water": "22",
+                "Facade": "25",
+                "Poison Tail": "26",
+                "Hex": "29",
+                "Swift": "32",
+                "Icy Wind": "34",
+                "Mud Shot": "35",
+                "Venoshock": "45",
+                "Endure": "47",
+                "Rain Dance": "50",
+                "Sleep Talk": "70",
+                "Waterfall": "77",
+                "Thunder Wave": "82",
+                "Poison Jab": "83",
+                "Rest": "85",
+                "Taunt": "87",
+                "Swords Dance": "88",
+                "Spikes": "90",
+                "Toxic Spikes": "91",
+                "Gunk Shot": "102",
+                "Substitute": "103",
+                "Crunch": "108",
+                "Liquidation": "110",
+                "Shadow Ball": "114",
+                "Surf": "123",
+                "Reversal": "134",
+                "Ice Beam": "135",
+                "Hydro Pump": "142",
+                "Blizzard": "143",
+                "Sludge Bomb": "148",
+                "Giga Impact": "152",
+                "Tera Blast": "171"
+            }
+        },
+        "Hisuian Qwilfish": {
+            "moves": {
+                "Poison Sting": "1",
+                "Tackle": "1",
+                "Harden": "4",
+                "Bite": "8",
+                "Fell Stinger": "12",
+                "Minimize": "16",
+                "Spikes": "20",
+                "Brine": "24",
+                "Barb Barrage": "28",
+                "Pin Missile": "32",
+                "Toxic Spikes": "36",
+                "Spit Up": "40",
+                "Stockpile": "40",
+                "Toxic": "44",
+                "Crunch": "48",
+                "Acupressure": "52",
+                "Destiny Bond": "56"
+            },
+            "egg": {
+                "Acid Spray": null,
+                "Aqua Jet": null,
+                "Aqua Tail": null,
+                "Astonish": null,
+                "Bubble Beam": null,
+                "Flail": null,
+                "Haze": null,
+                "Self-Destruct": null,
+                "Supersonic": null,
+                "Water Pulse": null
+            },
+            "tm": {
+                "Take Down": "01",
+                "Agility": "04",
+                "Scary Face": "06",
+                "Protect": "07",
+                "Water Pulse": "11",
+                "Acid Spray": "13",
+                "Chilling Water": "22",
+                "Facade": "25",
+                "Poison Tail": "26",
+                "Hex": "29",
+                "Swift": "32",
+                "Icy Wind": "34",
+                "Mud Shot": "35",
+                "Venoshock": "45",
+                "Endure": "47",
+                "Rain Dance": "50",
+                "Sleep Talk": "70",
+                "Waterfall": "77",
+                "Poison Jab": "83",
+                "Rest": "85",
+                "Taunt": "87",
+                "Swords Dance": "88",
+                "Spikes": "90",
+                "Toxic Spikes": "91",
+                "Dark Pulse": "94",
+                "Gunk Shot": "102",
+                "Substitute": "103",
+                "Crunch": "108",
+                "Liquidation": "110",
+                "Shadow Ball": "114",
+                "Surf": "123",
+                "Reversal": "134",
+                "Ice Beam": "135",
+                "Hydro Pump": "142",
+                "Blizzard": "143",
+                "Sludge Bomb": "148",
+                "Giga Impact": "152",
+                "Tera Blast": "171"
+            }
+        }
+    },
+    "entries": {
+        "Qwilfish": [
+            "To fire its poison spikes, it must inflate its body by drinking over 2.6 gallons of water all at once.",
+            "The small spikes covering its body developed from scales. They inject a toxin that causes fainting.",
+            "When faced with a larger opponent, it swallows as much water as it can to match the opponent\u2019s size.",
+            "QWILFISH sucks in water, inflating itself. This pok\u00e9mon uses the pressure of the water it swallowed to shoot toxic quills all at once from all over its body. It finds swimming somewhat challenging.",
+            "The small spikes covering its body developed from scales. They inject a toxin that causes fainting.",
+            "To fire its poison spikes, it must inflate its body by drinking over 2.6 gallons of water all at once.",
+            "A QWILFISH uses the pressure of water it swallows to shoot toxic quills all at once from all over its body. It finds swimming to be somewhat challenging.",
+            "It shoots the poison spines on its body in all directions. Its round form makes it a poor swimmer.",
+            "To fire its poison spikes, it must inflate its body by drinking over 2.6 gallons of water all at once.",
+            "The small spikes covering its body developed from scales. They inject a toxin that causes fainting.",
+            "It shoots the poison spines on its body in all directions. Its round form makes it a poor swimmer.",
+            "To fire its poison spikes, it must inflate its body by drinking over 2.6 gallons of water all at once.",
+            "The small spikes covering its body developed from scales. They inject a toxin that causes fainting.",
+            "Qwilfish sucks in water, inflating itself. This Pok\u00e9mon uses the pressure of the water it swallowed to shoot toxic quills all at once from all over its body. It finds swimming somewhat challenging.",
+            "When faced with a larger opponent, it swallows as much water as it can to match the opponent\u2019s size.",
+            "The small spikes covering its body developed from scales. They inject a toxin that causes fainting.",
+            "It shoots the poison spikes on its body in all directions. Its round form makes it a poor swimmer.",
+            "Be cautious if this Pok\u00e9mon starts sucking in water\u2014it will soon attack by scattering the toxic spikes that grow all over its body.",
+            "Experienced fishers say they try to catch Qwilfish in the brief moment that these Pok\u00e9mon become defenseless just after launching poisonous spikes."
+        ],
+        "Hisuian Qwilfish": [
+            "Fishers detest this troublesome Pok\u00e9mon because it sprays poison from its spines, getting it everywhere. A different form of Qwilfish lives in other regions."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788242119839864/211.png",
+    "discord_sprite": "<:P211:1132122014790979645>"
+}

@@ -1,0 +1,170 @@
+{
+    "alt-version(s)": [],
+    "name": "Arctovish",
+    "Arctovish": {
+        "pokedex_data": {
+            "National No.": "0883",
+            "Type": [
+                "Water",
+                "Ice"
+            ],
+            "Species": "Fossil Poke\u0301mon",
+            "Height": "2.0 m (6\u203207\u2032\u2032)",
+            "Weight": "175.0 kg (385.8 lbs)",
+            "Abilities": {
+                "Water Absorb": {
+                    "href": "/ability/water-absorb",
+                    "effect": "Restores HP if hit by a Water-type move.",
+                    "hidden": false
+                },
+                "Ice Body": {
+                    "href": "/ability/ice-body",
+                    "effect": "The Pok\u00e9mon gradually regains HP in a hailstorm.",
+                    "hidden": false
+                },
+                "Slush Rush": {
+                    "href": "/ability/slush-rush",
+                    "effect": "Boosts the Pok\u00e9mon's Speed stat in a hailstorm.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Defense",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "177",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "90",
+                "Min": "290",
+                "Max": "384"
+            },
+            "Attack": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Defense": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Sp. Atk": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Sp. Def": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Speed": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Total": "505"
+        },
+        "defense_stats": {
+            "Water Absorb ability": {
+                "Water": "no effect",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Rock": "super-effective"
+            },
+            "Ice Body ability": {
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Rock": "super-effective"
+            },
+            "Slush Rush ability": {
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Rock": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Powder Snow": "1",
+            "Water Gun": "1",
+            "Protect": "7",
+            "Icy Wind": "14",
+            "Ancient Power": "21",
+            "Bite": "28",
+            "Aurora Veil": "35",
+            "Freeze-Dry": "42",
+            "Super Fang": "49",
+            "Crunch": "56",
+            "Fishious Rend": "63",
+            "Icicle Crash": "70",
+            "Blizzard": "77"
+        },
+        "egg": {
+            "Meteor Beam": null
+        },
+        "null": {
+            "Body Slam": "01",
+            "Hydro Pump": "03",
+            "Surf": "04",
+            "Ice Beam": "05",
+            "Blizzard": "06",
+            "Waterfall": "16",
+            "Substitute": "20",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Crunch": "32",
+            "Iron Defense": "46",
+            "Zen Headbutt": "69",
+            "Iron Head": "74",
+            "Stone Edge": "75",
+            "Psychic Fangs": "97",
+            "Liquidation": "98"
+        },
+        "tm": {
+            "Hyper Beam": "08",
+            "Giga Impact": "09",
+            "Rest": "21",
+            "Rock Slide": "22",
+            "Snore": "24",
+            "Protect": "25",
+            "Icy Wind": "27",
+            "Rain Dance": "33",
+            "Hail": "35",
+            "Whirlpool": "36",
+            "Facade": "39",
+            "Dive": "45",
+            "Rock Tomb": "48",
+            "Icicle Spear": "51",
+            "Rock Blast": "54",
+            "Brine": "55",
+            "Avalanche": "64",
+            "Ice Fang": "67",
+            "Round": "76"
+        }
+    },
+    "entries": {
+        "Arctovish": [
+            "Though it\u2019s able to capture prey by freezing its surroundings, it has trouble eating the prey afterward because its mouth is on top of its head.",
+            "The skin on its face is impervious to attack, but breathing difficulties made this Pok\u00e9mon go extinct anyway."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793488686633091/883.png",
+    "discord_sprite": "<:P883:1132151653928276059>"
+}

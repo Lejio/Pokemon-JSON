@@ -1,0 +1,233 @@
+{
+    "alt-version(s)": [],
+    "name": "Larvitar",
+    "Larvitar": {
+        "pokedex_data": {
+            "National No.": "0246",
+            "Type": [
+                "Rock",
+                "Ground"
+            ],
+            "Species": "Rock Skin Poke\u0301mon",
+            "Height": "0.6 m (2\u203200\u2032\u2032)",
+            "Weight": "72.0 kg (158.7 lbs)",
+            "Abilities": {
+                "Guts": {
+                    "href": "/ability/guts",
+                    "effect": "Boosts Attack if there is a status problem.",
+                    "hidden": false
+                },
+                "Sand Veil": {
+                    "href": "/ability/sand-veil",
+                    "effect": "Boosts the Pok\u00e9mon's evasion in a sandstorm.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack",
+            "Catch rate": "45",
+            "BaseFriendship": "35",
+            "Base Exp.": "60",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "50",
+                "Min": "210",
+                "Max": "304"
+            },
+            "Attack": {
+                "Base": "64",
+                "Min": "119",
+                "Max": "249"
+            },
+            "Defense": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Atk": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Sp. Def": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Speed": {
+                "Base": "41",
+                "Min": "78",
+                "Max": "199"
+            },
+            "Total": "300"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Electric": "no effect",
+                "Grass": "super-effective",
+                "Ice": "super-effective",
+                "Fighting": "super-effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Rock": "not very effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Larvitar",
+                    "nationalNo": "#0246",
+                    "type": [
+                        "Rock",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Pupitar",
+                    "nationalNo": "#0247",
+                    "type": [
+                        "Rock",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 30)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Pupitar",
+                    "nationalNo": "#0247",
+                    "type": [
+                        "Rock",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Tyranitar",
+                    "nationalNo": "#0248",
+                    "type": [
+                        "Rock",
+                        "Dark"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 55)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Leer": "1",
+            "Tackle": "1",
+            "Rock Throw": "3",
+            "Payback": "6",
+            "Bite": "9",
+            "Scary Face": "12",
+            "Rock Slide": "15",
+            "Stomping Tantrum": "18",
+            "Screech": "21",
+            "Smack Down": "24",
+            "Crunch": "27",
+            "Earthquake": "31",
+            "Stone Edge": "33",
+            "Thrash": "36",
+            "Sandstorm": "39",
+            "Hyper Beam": "42"
+        },
+        "egg": {
+            "Ancient Power": null,
+            "Assurance": null,
+            "Curse": null,
+            "Dragon Dance": null,
+            "Focus Energy": null,
+            "Iron Defense": null,
+            "Iron Head": null,
+            "Outrage": null,
+            "Stomp": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Mud-Slap": "05",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Facade": "25",
+            "Bulldoze": "28",
+            "Snarl": "30",
+            "Mud Shot": "35",
+            "Rock Tomb": "36",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Sandstorm": "51",
+            "Dig": "55",
+            "Brick Break": "58",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Rock Blast": "76",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Taunt": "87",
+            "Dark Pulse": "94",
+            "Iron Head": "99",
+            "Dragon Dance": "100",
+            "Substitute": "103",
+            "Iron Defense": "104",
+            "Crunch": "108",
+            "Stealth Rock": "116",
+            "Helping Hand": "130",
+            "Earth Power": "133",
+            "Earthquake": "149",
+            "Stone Edge": "150",
+            "Giga Impact": "152",
+            "Outrage": "156",
+            "Hyper Beam": "163",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Larvitar": [
+            "It feeds on soil. After it has eaten a large mountain, it will fall asleep so it can grow.",
+            "It is born deep underground. It can\u2019t emerge until it has entirely consumed the soil around it.",
+            "Born deep underground, this pok\u00e9mon becomes a pupa after eating enough dirt to make a mountain.",
+            "LARVITAR is born deep under the ground. To come up to the surface, this pok\u00e9mon must eat its way through the soil above. Until it does so, LARVITAR cannot see its parent\u2019s face.",
+            "It is born deep underground. It can\u2019t emerge until it has entirely consumed the soil around it.",
+            "It feeds on soil. After it has eaten a large mountain, it will fall asleep so it can grow.",
+            "A LARVITAR is born deep under the ground. It must eat its way through the soil above and reach the surface for it to see its parents\u2019 faces.",
+            "A Pok\u00e9mon that eats soil. Once it has eaten a large mountain, it goes to sleep so it can grow.",
+            "It feeds on soil. After it has eaten a large mountain, it falls asleep so it can grow.",
+            "It is born deep underground. It can\u2019t emerge until it has entirely consumed the soil around it.",
+            "A Pok\u00e9mon that eats soil. Once it has eaten a large mountain, it goes to sleep so it can grow.",
+            "Born deep underground, it comes aboveground and becomes a pupa once it has finished eating the surrounding soil.",
+            "It feeds on soil. After it has eaten a large mountain, it falls asleep so it can grow.",
+            "Born deep underground, it comes aboveground and becomes a pupa once it has finished eating the surrounding soil.",
+            "Larvitar is born deep under the ground. To come up to the surface, this Pok\u00e9mon must eat its way through the soil above. Until it does so, Larvitar cannot see its parents.",
+            "Born underground, it eats its way through dirt to the surface, where its parents are. It doesn\u2019t deal well with the bright light it finds there.",
+            "Raised on nutrients it finds in the dirt, it eats roughly a mountain\u2019s worth of dirt before it becomes a pupa.",
+            "Born deep underground, it comes aboveground and becomes a pupa once it has finished eating the surrounding soil.",
+            "It feeds on soil. After it has eaten a large mountain, it will fall asleep so it can grow.",
+            "This Pok\u00e9mon eats soil. Once it has eaten a large mountain, it goes to sleep so it can grow.",
+            "Born deep underground, this Pok\u00e9mon becomes a pupa after eating enough dirt to make a mountain.",
+            "It is born deep underground. It can\u2019t emerge until it has entirely consumed the soil around it."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788518029533286/246.png",
+    "discord_sprite": "<:P246:1132123561721610280>"
+}

@@ -1,0 +1,327 @@
+{
+    "alt-version(s)": [
+        "Mega Scizor"
+    ],
+    "name": "Scizor",
+    "Scizor": {
+        "pokedex_data": {
+            "National No.": "0212",
+            "Type": [
+                "Bug",
+                "Steel"
+            ],
+            "Species": "Pincer Poke\u0301mon",
+            "Height": "1.8 m (5\u203211\u2032\u2032)",
+            "Weight": "118.0 kg (260.1 lbs)",
+            "Abilities": {
+                "Swarm": {
+                    "href": "/ability/swarm",
+                    "effect": "Powers up Bug-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Technician": {
+                    "href": "/ability/technician",
+                    "effect": "Powers up the Pok\u00e9mon's weaker moves.",
+                    "hidden": false
+                },
+                "Light Metal": {
+                    "href": "/ability/light-metal",
+                    "effect": "Halves the Pok\u00e9mon's weight.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "25",
+            "BaseFriendship": "50",
+            "Base Exp.": "175",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "70",
+                "Min": "250",
+                "Max": "344"
+            },
+            "Attack": {
+                "Base": "130",
+                "Min": "238",
+                "Max": "394"
+            },
+            "Defense": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Sp. Atk": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Sp. Def": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Speed": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Total": "500"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Fire": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Poison": "no effect",
+                "Psychic": "not very effective",
+                "Bug": "not very effective",
+                "Dragon": "not very effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "Mega Scizor": {
+        "pokedex_data": {
+            "National No.": "0212",
+            "Type": [
+                "Bug",
+                "Steel"
+            ],
+            "Species": "Pincer Poke\u0301mon",
+            "Height": "2.0 m (6\u203207\u2032\u2032)",
+            "Weight": "125.0 kg (275.6 lbs)",
+            "Abilities": {
+                "Technician": {
+                    "href": "/ability/technician",
+                    "effect": "Powers up the Pok\u00e9mon's weaker moves.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "25",
+            "BaseFriendship": "50",
+            "Base Exp.": "210",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "70",
+                "Min": "250",
+                "Max": "344"
+            },
+            "Attack": {
+                "Base": "150",
+                "Min": "274",
+                "Max": "438"
+            },
+            "Defense": {
+                "Base": "140",
+                "Min": "256",
+                "Max": "416"
+            },
+            "Sp. Atk": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Def": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Speed": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Total": "600"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Fire": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Poison": "no effect",
+                "Psychic": "not very effective",
+                "Bug": "not very effective",
+                "Dragon": "not very effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Scyther",
+                    "nationalNo": "#0123",
+                    "type": [
+                        "Bug",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Scizor",
+                    "nationalNo": "#0212",
+                    "type": [
+                        "Bug",
+                        "Steel"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(trade holding Metal Coat)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Scyther",
+                    "nationalNo": "#0123",
+                    "type": [
+                        "Bug",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Kleavor",
+                    "nationalNo": "#0900",
+                    "type": [
+                        "Bug",
+                        "Rock"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Black Augurite)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Agility": "1",
+            "Air Slash": "1",
+            "False Swipe": "1",
+            "Fury Cutter": "1",
+            "Leer": "1",
+            "Quick Attack": "1",
+            "Wing Attack": "1",
+            "Metal Claw": "12",
+            "Double Team": "16",
+            "Double Hit": "20",
+            "Slash": "24",
+            "Focus Energy": "28",
+            "Iron Defense": "32",
+            "Iron Head": "36",
+            "X-Scissor": "40",
+            "Swords Dance": "44"
+        },
+        "evolution": {
+            "Bullet Punch": "40"
+        },
+        "egg": {
+            "Counter": null,
+            "Defog": null,
+            "Feint": null,
+            "Night Slash": null,
+            "Quick Guard": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Agility": "04",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Acrobatics": "14",
+            "Struggle Bug": "15",
+            "Thief": "18",
+            "Trailblaze": "20",
+            "Pounce": "21",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Metal Claw": "31",
+            "Swift": "32",
+            "Air Cutter": "40",
+            "Fling": "43",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Sandstorm": "51",
+            "False Swipe": "57",
+            "Brick Break": "58",
+            "U-turn": "60",
+            "Air Slash": "65",
+            "Sleep Talk": "70",
+            "Light Screen": "75",
+            "Rest": "85",
+            "Swords Dance": "88",
+            "Flash Cannon": "93",
+            "Iron Head": "99",
+            "Substitute": "103",
+            "Iron Defense": "104",
+            "X-Scissor": "105",
+            "Tailwind": "113",
+            "Helping Hand": "130",
+            "Baton Pass": "132",
+            "Reversal": "134",
+            "Giga Impact": "152",
+            "Bug Buzz": "162",
+            "Hyper Beam": "163",
+            "Close Combat": "167",
+            "Steel Beam": "170",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Scizor": [
+            "It swings its eye-patterned pincers up to scare its foes. This makes it look like it has three heads.",
+            "Its wings are not used for flying. They are flapped at high speed to adjust its body temperature.",
+            "This pok\u00e9mon\u2019s pincers, which contain steel, can crush any hard object it gets a hold of into bits.",
+            "SCIZOR has a body with the hardness of steel. It is not easily fazed by ordinary sorts of attacks. This pok\u00e9mon flaps its wings to regulate its body temperature.",
+            "Its wings are not used for flying. They are flapped at high speed to adjust its body temperature.",
+            "It swings its eye-patterned pincers up to scare its foes. This makes it look like it has three heads.",
+            "A SCIZOR has a body with the hardness of steel. It is not easily fazed by ordinary sorts of attacks. It flaps its wings to regulate its body temperature.",
+            "It has a steel-hard body. It intimidates foes by upraising its eye-patterned pincers.",
+            "It raises its pincers with eyelike markings for intimidation. It also swings them down dangerously.",
+            "It swings its eye-patterned pincers up to scare its foes. This makes it look like it has three heads.",
+            "Its wings are not used for flying. They are flapped at high speed to adjust its body temperature.",
+            "It raises its pincers with eyelike markings for intimidation. It also swings them down dangerously.",
+            "This Pok\u00e9mon\u2019s pincers, which contain steel, can crush any hard object it gets ahold of into bits.",
+            "It has a steel-hard body. It intimidates foes by upraising its eye-patterned pincers.",
+            "Scizor has a body with the hardness of steel. It is not easily fazed by ordinary sorts of attacks. This Pok\u00e9mon flaps its wings to regulate its body temperature.",
+            "It uses its wings to adjust its body temperature. Otherwise, its metal body would become too hot and melt in the heat of battle.",
+            "Once it has identified an enemy, this Pok\u00e9mon smashes it mercilessly with pincers hard as steel.",
+            "Its body is like steel. Its tough, heavy pincers are more suited to smashing enemies than grabbing them.",
+            "Once it has identified something as an enemy, it will continue beating them with its steel-hard pincers until there\u2019s nothing left but scraps.",
+            "Bulky pincers account for one third of Scizor\u2019s body weight. A single swing of one of these pincers will crush a boulder completely.",
+            "Though its body is slim, Scizor has tremendous attacking power. Even Scizor\u2019s muscles are made of metal.",
+            "It has a steel-hard body. It intimidates foes by upraising its eye-patterned pincers.",
+            "Evolved by way of a curious item. The shell covering its body has been shown to be stronger than forged steel.",
+            "This Pok\u00e9mon\u2019s pincers, which contain steel, can crush any hard object they get ahold of into bits.",
+            "It swings its eye-patterned pincers up to scare its foes. This makes it look like it has three heads."
+        ],
+        "Mega Scizor": [
+            "The excess energy that bathes this Pok\u00e9mon keeps it in constant danger of overflow. It can\u2019t sustain a battle over long periods of time.",
+            "Due to the effects of Mega Evolution, its pincers have taken on a more diabolical form, ripping anything they pinch to shreds.",
+            "It stores the excess energy from Mega Evolution, so after a long time passes, its body starts to melt.",
+            "It\u2019s better at beating things than grasping them. When it battles for a long time, the weight of its pincers becomes too much to bear."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788249799598080/212.png",
+    "discord_sprite": "<:P212:1132122058814394428>"
+}

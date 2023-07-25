@@ -1,0 +1,185 @@
+{
+    "alt-version(s)": [],
+    "name": "Joltik",
+    "Joltik": {
+        "pokedex_data": {
+            "National No.": "0595",
+            "Type": [
+                "Bug",
+                "Electric"
+            ],
+            "Species": "Attaching Poke\u0301mon",
+            "Height": "0.1 m (0\u203204\u2032\u2032)",
+            "Weight": "0.6 kg (1.3 lbs)",
+            "Abilities": {
+                "Compound Eyes": {
+                    "href": "/ability/compound-eyes",
+                    "effect": "The Pok\u00e9mon's accuracy is boosted.",
+                    "hidden": false
+                },
+                "Unnerve": {
+                    "href": "/ability/unnerve",
+                    "effect": "Makes the foe nervous and unable to eat Berries.",
+                    "hidden": false
+                },
+                "Swarm": {
+                    "href": "/ability/swarm",
+                    "effect": "Powers up Bug-type moves in a pinch.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Speed",
+            "Catch rate": "190",
+            "BaseFriendship": "50",
+            "Base Exp.": "64",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "50",
+                "Min": "210",
+                "Max": "304"
+            },
+            "Attack": {
+                "Base": "47",
+                "Min": "89",
+                "Max": "212"
+            },
+            "Defense": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Atk": {
+                "Base": "57",
+                "Min": "107",
+                "Max": "234"
+            },
+            "Sp. Def": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Speed": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Total": "319"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Fighting": "not very effective",
+                "Rock": "super-effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Joltik",
+                    "nationalNo": "#0595",
+                    "type": [
+                        "Bug",
+                        "Electric"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Galvantula",
+                    "nationalNo": "#0596",
+                    "type": [
+                        "Bug",
+                        "Electric"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 36)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Absorb": "1",
+            "Fury Cutter": "1",
+            "Electroweb": "4",
+            "Bug Bite": "8",
+            "String Shot": "12",
+            "Thunder Wave": "16",
+            "Electro Ball": "20",
+            "Agility": "24",
+            "Sucker Punch": "28",
+            "Slash": "32",
+            "Discharge": "37",
+            "Screech": "40",
+            "Gastro Acid": "44",
+            "Bug Buzz": "48"
+        },
+        "egg": {
+            "Double Team": null,
+            "Infestation": null,
+            "Lunge": null,
+            "Poison Sting": null,
+            "Struggle Bug": null
+        },
+        "null": {
+            "Thunderbolt": "08",
+            "Agility": "12",
+            "Leech Life": "18",
+            "Substitute": "20",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Poison Jab": "57",
+            "X-Scissor": "60",
+            "Bug Buzz": "61",
+            "Energy Ball": "65",
+            "Electro Ball": "80",
+            "Wild Charge": "86"
+        },
+        "tm": {
+            "Pin Missile": "07",
+            "Thunder Wave": "14",
+            "Screech": "16",
+            "Light Screen": "17",
+            "Rest": "21",
+            "Thief": "23",
+            "Snore": "24",
+            "Protect": "25",
+            "Giga Drain": "28",
+            "Attract": "31",
+            "Rain Dance": "33",
+            "Facade": "39",
+            "Swift": "40",
+            "Bounce": "52",
+            "Speed Swap": "62",
+            "Cross Poison": "73",
+            "Round": "76",
+            "Volt Switch": "80",
+            "Electroweb": "82"
+        }
+    },
+    "entries": {
+        "Joltik": [
+            "Joltik that live in cities have learned a technique for sucking electricity from the outlets in houses.",
+            "They attach themselves to large-bodied Pok\u00e9mon and absorb static electricity, which they store in an electric pouch.",
+            "Since it can\u2019t generate its own electricity, it sticks onto large-bodied Pok\u00e9mon and absorbs static electricity.",
+            "Since it can\u2019t generate its own electricity, it sticks onto large-bodied Pok\u00e9mon and absorbs static electricity.",
+            "They attach themselves to large-bodied Pok\u00e9mon and absorb static electricity, which they store in an electric pouch.",
+            "Joltik can be found clinging to other Pok\u00e9mon. It\u2019s soaking up static electricity because it can\u2019t produce a charge on its own.",
+            "Joltik latch on to other Pok\u00e9mon and suck out static electricity. They\u2019re often found sticking to Yamper\u2019s hindquarters."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791238257983609/595.png",
+    "discord_sprite": "<:P595:1132138920444952606>"
+}

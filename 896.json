@@ -1,0 +1,136 @@
+{
+    "alt-version(s)": [],
+    "name": "Glastrier",
+    "Glastrier": {
+        "pokedex_data": {
+            "National No.": "0896",
+            "Type": [
+                "Ice"
+            ],
+            "Species": "Wild Horse Poke\u0301mon",
+            "Height": "2.2 m (7\u203203\u2032\u2032)",
+            "Weight": "800.0 kg (1763.7 lbs)",
+            "Abilities": {
+                "Chilling Neigh": {
+                    "href": "/ability/chilling-neigh",
+                    "effect": "Boosts Attack after knocking out a Pok\u00e9mon.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Attack",
+            "Catch rate": "3",
+            "BaseFriendship": "35",
+            "Base Exp.": "290",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "100",
+                "Min": "310",
+                "Max": "404"
+            },
+            "Attack": {
+                "Base": "145",
+                "Min": "265",
+                "Max": "427"
+            },
+            "Defense": {
+                "Base": "130",
+                "Min": "238",
+                "Max": "394"
+            },
+            "Sp. Atk": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Def": {
+                "Base": "110",
+                "Min": "202",
+                "Max": "350"
+            },
+            "Speed": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Total": "580"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Rock": "super-effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Tackle": "1",
+            "Tail Whip": "1",
+            "Double Kick": "6",
+            "Avalanche": "12",
+            "Stomp": "18",
+            "Torment": "24",
+            "Mist": "30",
+            "Icicle Crash": "36",
+            "Take Down": "42",
+            "Iron Defense": "48",
+            "Thrash": "54",
+            "Taunt": "60",
+            "Double-Edge": "66",
+            "Swords Dance": "72"
+        },
+        "egg": null,
+        "tm": {
+            "Take Down": "01",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Trailblaze": "20",
+            "Facade": "25",
+            "Bulldoze": "28",
+            "Snarl": "30",
+            "Icy Wind": "34",
+            "Mud Shot": "35",
+            "Avalanche": "46",
+            "Endure": "47",
+            "Snowscape": "52",
+            "Smart Strike": "53",
+            "Zen Headbutt": "59",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Taunt": "87",
+            "Swords Dance": "88",
+            "Body Press": "89",
+            "Substitute": "103",
+            "Iron Defense": "104",
+            "Crunch": "108",
+            "Heavy Slam": "121",
+            "Ice Beam": "135",
+            "Blizzard": "143",
+            "Giga Impact": "152",
+            "Outrage": "156",
+            "Hyper Beam": "163",
+            "Close Combat": "167",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Glastrier": [
+            "Glastrier emits intense cold from its hooves. It\u2019s also a belligerent Pok\u00e9mon\u2014anything it wants, it takes by force.",
+            "Glastrier has tremendous physical strength, and the mask of ice covering its face is 100 times harder than diamond."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793588351668255/896.png",
+    "discord_sprite": "<:P896:1132152227482566757>"
+}

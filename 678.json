@@ -1,0 +1,342 @@
+{
+    "alt-version(s)": [
+        "Male",
+        "Female"
+    ],
+    "Male": {
+        "pokedex_data": {
+            "National No.": "0678",
+            "Type": [
+                "Psychic"
+            ],
+            "Species": "Constraint Poke\u0301mon",
+            "Height": "0.6 m (2\u203200\u2032\u2032)",
+            "Weight": "8.5 kg (18.7 lbs)",
+            "Abilities": {
+                "Keen Eye": {
+                    "href": "/ability/keen-eye",
+                    "effect": "Prevents other Pok\u00e9mon from lowering accuracy.",
+                    "hidden": false
+                },
+                "Infiltrator": {
+                    "href": "/ability/infiltrator",
+                    "effect": "Passes through the foe's barrier and strikes.",
+                    "hidden": false
+                },
+                "Prankster": {
+                    "href": "/ability/prankster",
+                    "effect": "Gives priority to a status move.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Speed",
+            "Catch rate": "75",
+            "BaseFriendship": "50",
+            "Base Exp.": "163",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "100% male,0% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "74",
+                "Min": "258",
+                "Max": "352"
+            },
+            "Attack": {
+                "Base": "48",
+                "Min": "90",
+                "Max": "214"
+            },
+            "Defense": {
+                "Base": "76",
+                "Min": "141",
+                "Max": "276"
+            },
+            "Sp. Atk": {
+                "Base": "83",
+                "Min": "153",
+                "Max": "291"
+            },
+            "Sp. Def": {
+                "Base": "81",
+                "Min": "150",
+                "Max": "287"
+            },
+            "Speed": {
+                "Base": "104",
+                "Min": "191",
+                "Max": "337"
+            },
+            "Total": "466"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective"
+            }
+        }
+    },
+    "Female": {
+        "pokedex_data": {
+            "National No.": "0678",
+            "Type": [
+                "Psychic"
+            ],
+            "Species": "Constraint Poke\u0301mon",
+            "Height": "0.6 m (2\u203200\u2032\u2032)",
+            "Weight": "8.5 kg (18.7 lbs)",
+            "Abilities": {
+                "Keen Eye": {
+                    "href": "/ability/keen-eye",
+                    "effect": "Prevents other Pok\u00e9mon from lowering accuracy.",
+                    "hidden": false
+                },
+                "Infiltrator": {
+                    "href": "/ability/infiltrator",
+                    "effect": "Passes through the foe's barrier and strikes.",
+                    "hidden": false
+                },
+                "Competitive": {
+                    "href": "/ability/competitive",
+                    "effect": "Sharply raises Special Attack when the Pok\u00e9mon's stats are lowered.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Speed",
+            "Catch rate": "75",
+            "BaseFriendship": "50",
+            "Base Exp.": "163",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "0% male,100% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "74",
+                "Min": "258",
+                "Max": "352"
+            },
+            "Attack": {
+                "Base": "48",
+                "Min": "90",
+                "Max": "214"
+            },
+            "Defense": {
+                "Base": "76",
+                "Min": "141",
+                "Max": "276"
+            },
+            "Sp. Atk": {
+                "Base": "83",
+                "Min": "153",
+                "Max": "291"
+            },
+            "Sp. Def": {
+                "Base": "81",
+                "Min": "150",
+                "Max": "287"
+            },
+            "Speed": {
+                "Base": "104",
+                "Min": "191",
+                "Max": "337"
+            },
+            "Total": "466"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Espurr",
+                    "nationalNo": "#0677",
+                    "type": [
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Meowstic",
+                    "nationalNo": "#0678",
+                    "type": [
+                        "Psychic"
+                    ],
+                    "nickname": "Male"
+                },
+                "requirement": "(Level 25, Male)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Espurr",
+                    "nationalNo": "#0677",
+                    "type": [
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Meowstic",
+                    "nationalNo": "#0678",
+                    "type": [
+                        "Psychic"
+                    ],
+                    "nickname": "Female"
+                },
+                "requirement": "(Level 25, Female)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Expanding Force": "80"
+        },
+        "egg": {
+            "Expanding Force": null
+        },
+        "null": {
+            "Expanding Force": "80"
+        },
+        "Male": {
+            "tm": {
+                "Pay Day": "02",
+                "Hyper Beam": "08",
+                "Giga Impact": "09",
+                "Thunder Wave": "14",
+                "Dig": "15",
+                "Light Screen": "17",
+                "Reflect": "18",
+                "Safeguard": "19",
+                "Rest": "21",
+                "Snore": "24",
+                "Protect": "25",
+                "Charm": "29",
+                "Attract": "31",
+                "Rain Dance": "33",
+                "Sunny Day": "34",
+                "Facade": "39",
+                "Swift": "40",
+                "Helping Hand": "41",
+                "Imprison": "44",
+                "Fake Tears": "47",
+                "Payback": "57",
+                "Trick Room": "70",
+                "Wonder Room": "71",
+                "Magic Room": "72",
+                "Round": "76",
+                "Tail Slap": "84",
+                "Misty Terrain": "89",
+                "Psychic Terrain": "91"
+            },
+            "null": {
+                "Thunderbolt": "08",
+                "Psychic": "11",
+                "Substitute": "20",
+                "Psyshock": "25",
+                "Endure": "26",
+                "Sleep Talk": "27",
+                "Iron Tail": "31",
+                "Shadow Ball": "33",
+                "Trick": "38",
+                "Skill Swap": "40",
+                "Calm Mind": "49",
+                "Dark Pulse": "58",
+                "Energy Ball": "65",
+                "Nasty Plot": "68",
+                "Zen Headbutt": "69",
+                "Ally Switch": "83",
+                "Work Up": "85",
+                "Play Rough": "90"
+            }
+        },
+        "Female": {
+            "tm": {
+                "Pay Day": "02",
+                "Hyper Beam": "08",
+                "Giga Impact": "09",
+                "Magical Leaf": "10",
+                "Thunder Wave": "14",
+                "Dig": "15",
+                "Light Screen": "17",
+                "Reflect": "18",
+                "Safeguard": "19",
+                "Rest": "21",
+                "Snore": "24",
+                "Protect": "25",
+                "Charm": "29",
+                "Attract": "31",
+                "Rain Dance": "33",
+                "Sunny Day": "34",
+                "Facade": "39",
+                "Swift": "40",
+                "Helping Hand": "41",
+                "Fake Tears": "47",
+                "Payback": "57",
+                "Trick Room": "70",
+                "Wonder Room": "71",
+                "Magic Room": "72",
+                "Round": "76",
+                "Tail Slap": "84",
+                "Psychic Terrain": "91"
+            },
+            "null": {
+                "Thunderbolt": "08",
+                "Psychic": "11",
+                "Substitute": "20",
+                "Psyshock": "25",
+                "Endure": "26",
+                "Sleep Talk": "27",
+                "Iron Tail": "31",
+                "Shadow Ball": "33",
+                "Future Sight": "34",
+                "Trick": "38",
+                "Skill Swap": "40",
+                "Calm Mind": "49",
+                "Dark Pulse": "58",
+                "Energy Ball": "65",
+                "Nasty Plot": "68",
+                "Zen Headbutt": "69",
+                "Stored Power": "82",
+                "Ally Switch": "83",
+                "Work Up": "85",
+                "Play Rough": "90"
+            }
+        }
+    },
+    "entries": {
+        "Meowstic": [
+            "When in danger, it raises its ears and releases enough psychic power to grind a 10-ton truck into dust.",
+            "The eyeball patterns on the interior of its ears emit psychic energy. It keeps the patterns tightly covered because that power is too immense."
+        ],
+        "Male": [
+            "Revealing the eyelike patterns on the insides of its ears will unleash its psychic powers. It normally keeps the patterns hidden, however.",
+            "The defensive instinct of the males is strong. It\u2019s when they\u2019re protecting themselves or their partners that they unleash their full power."
+        ],
+        "Female": [
+            "Females are a bit more selfish and aggressive than males. If they don\u2019t get what they want, they will torment you with their psychic abilities.",
+            "If it doesn\u2019t hold back when it unleashes its psychic power, it can tear apart a tanker. Its unfriendliness is part of its charm."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791888404463646/678.png",
+    "discord_sprite": "<:P678:1132142575151763536>"
+}

@@ -1,0 +1,182 @@
+{
+    "alt-version(s)": [],
+    "name": "Shroodle",
+    "Shroodle": {
+        "pokedex_data": {
+            "National No.": "0944",
+            "Type": [
+                "Poison",
+                "Normal"
+            ],
+            "Species": "Toxic Mouse Poke\u0301mon",
+            "Height": "0.2 m (0\u203208\u2032\u2032)",
+            "Weight": "0.7 kg (1.5 lbs)",
+            "Abilities": {
+                "Unburden": {
+                    "href": "/ability/unburden",
+                    "effect": "Raises Speed if a held item is used.",
+                    "hidden": false
+                },
+                "Pickpocket": {
+                    "href": "/ability/pickpocket",
+                    "effect": "Steals an item when hit by another Pok\u00e9mon.",
+                    "hidden": false
+                },
+                "Prankster": {
+                    "href": "/ability/prankster",
+                    "effect": "Gives priority to a status move.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Speed",
+            "Catch rate": "190",
+            "BaseFriendship": "50",
+            "Base Exp.": "58",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "40",
+                "Min": "190",
+                "Max": "284"
+            },
+            "Attack": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Defense": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Sp. Atk": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Def": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Speed": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Total": "290"
+        },
+        "defense_stats": {
+            "default": {
+                "Grass": "not very effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Ghost": "no effect",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Shroodle",
+                    "nationalNo": "#0944",
+                    "type": [
+                        "Poison",
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Grafaiai",
+                    "nationalNo": "#0945",
+                    "type": [
+                        "Poison",
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 28)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Leer": "1",
+            "Scratch": "1",
+            "Acid Spray": "5",
+            "Bite": "8",
+            "Fury Swipes": "8",
+            "Switcheroo": "11",
+            "Poison Fang": "14",
+            "Flatter": "18",
+            "Slash": "21",
+            "U-turn": "25",
+            "Poison Jab": "29",
+            "Taunt": "33",
+            "Substitute": "36",
+            "Knock Off": "40",
+            "Gunk Shot": "45"
+        },
+        "egg": {
+            "Copycat": null,
+            "Cross Poison": null,
+            "Parting Shot": null,
+            "Super Fang": null,
+            "Swagger": null,
+            "Toxic": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Mud-Slap": "05",
+            "Protect": "07",
+            "Acid Spray": "13",
+            "Acrobatics": "14",
+            "Thief": "18",
+            "Trailblaze": "20",
+            "Pounce": "21",
+            "Facade": "25",
+            "Mud Shot": "35",
+            "Fling": "43",
+            "Venoshock": "45",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Dig": "55",
+            "U-turn": "60",
+            "Foul Play": "62",
+            "Sleep Talk": "70",
+            "Metronome": "80",
+            "Poison Jab": "83",
+            "Rest": "85",
+            "Taunt": "87",
+            "Swords Dance": "88",
+            "Gunk Shot": "102",
+            "Substitute": "103",
+            "Encore": "122",
+            "Helping Hand": "130",
+            "Baton Pass": "132",
+            "Nasty Plot": "140",
+            "Sludge Bomb": "148",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Shroodle": [
+            "Though usually a mellow Pok\u00e9mon, it will sink its sharp, poison-soaked front teeth into any that anger it, causing paralysis in the object of its ire.",
+            "To keep enemies away from its territory, it paints markings around its nest using a poisonous liquid that has an acrid odor."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793964345860186/944.png",
+    "discord_sprite": "<:P944:1132154332679262208>"
+}

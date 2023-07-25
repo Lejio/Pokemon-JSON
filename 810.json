@@ -1,0 +1,191 @@
+{
+    "alt-version(s)": [],
+    "name": "Grookey",
+    "Grookey": {
+        "pokedex_data": {
+            "National No.": "0810",
+            "Type": [
+                "Grass"
+            ],
+            "Species": "Chimp Poke\u0301mon",
+            "Height": "0.3 m (1\u203200\u2032\u2032)",
+            "Weight": "5.0 kg (11.0 lbs)",
+            "Abilities": {
+                "Overgrow": {
+                    "href": "/ability/overgrow",
+                    "effect": "Powers up Grass-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Grassy Surge": {
+                    "href": "/ability/grassy-surge",
+                    "effect": "The Pok\u00e9mon creates a Grassy Terrain when it enters a battle.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "62",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "50",
+                "Min": "210",
+                "Max": "304"
+            },
+            "Attack": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Defense": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Atk": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Def": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Speed": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Total": "310"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Poison": "super-effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Bug": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Grookey",
+                    "nationalNo": "#0810",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Thwackey",
+                    "nationalNo": "#0811",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 16)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Thwackey",
+                    "nationalNo": "#0811",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Rillaboom",
+                    "nationalNo": "#0812",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 35)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Growl": "1",
+            "Scratch": "1",
+            "Branch Poke": "6",
+            "Taunt": "8",
+            "Razor Leaf": "12",
+            "Screech": "17",
+            "Knock Off": "20",
+            "Slam": "24",
+            "Uproar": "28",
+            "Wood Hammer": "32",
+            "Endeavor": "36"
+        },
+        "egg": {
+            "Fake Out": null,
+            "Growth": null,
+            "Hammer Arm": null,
+            "Leech Seed": null,
+            "Strength": null,
+            "Worry Seed": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Protect": "07",
+            "Low Kick": "12",
+            "Acrobatics": "14",
+            "Thief": "18",
+            "Trailblaze": "20",
+            "Facade": "25",
+            "Swift": "32",
+            "Magical Leaf": "33",
+            "Fling": "43",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Bullet Seed": "56",
+            "False Swipe": "57",
+            "U-turn": "60",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Seed Bomb": "71",
+            "Drain Punch": "73",
+            "Grass Knot": "81",
+            "Rest": "85",
+            "Taunt": "87",
+            "Swords Dance": "88",
+            "Substitute": "103",
+            "Giga Drain": "111",
+            "Energy Ball": "119",
+            "Grassy Terrain": "137",
+            "Grass Pledge": "146",
+            "Leaf Storm": "159",
+            "Solar Beam": "168",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Grookey": [
+            "When it uses its special stick to strike up a beat, the sound waves produced carry revitalizing energy to the plants and flowers in the area.",
+            "It attacks with rapid beats of its stick. As it strikes with amazing speed, it gets more and more pumped."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792920949817404/810.png",
+    "discord_sprite": "<:P810:1132148441779294288>"
+}

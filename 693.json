@@ -1,0 +1,178 @@
+{
+    "alt-version(s)": [],
+    "name": "Clawitzer",
+    "Clawitzer": {
+        "pokedex_data": {
+            "National No.": "0693",
+            "Type": [
+                "Water"
+            ],
+            "Species": "Howitzer Poke\u0301mon",
+            "Height": "1.3 m (4\u203203\u2032\u2032)",
+            "Weight": "35.3 kg (77.8 lbs)",
+            "Abilities": {
+                "Mega Launcher": {
+                    "href": "/ability/mega-launcher",
+                    "effect": "Boosts the power of aura and pulse moves.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Sp. Atk",
+            "Catch rate": "55",
+            "BaseFriendship": "50",
+            "Base Exp.": "100",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "71",
+                "Min": "252",
+                "Max": "346"
+            },
+            "Attack": {
+                "Base": "73",
+                "Min": "135",
+                "Max": "269"
+            },
+            "Defense": {
+                "Base": "88",
+                "Min": "162",
+                "Max": "302"
+            },
+            "Sp. Atk": {
+                "Base": "120",
+                "Min": "220",
+                "Max": "372"
+            },
+            "Sp. Def": {
+                "Base": "89",
+                "Min": "164",
+                "Max": "304"
+            },
+            "Speed": {
+                "Base": "59",
+                "Min": "110",
+                "Max": "238"
+            },
+            "Total": "500"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Clauncher",
+                    "nationalNo": "#0692",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Clawitzer",
+                    "nationalNo": "#0693",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 37)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Dark Pulse": "1",
+            "Dragon Pulse": "1",
+            "Flail": "1",
+            "Heal Pulse": "1",
+            "Splash": "1",
+            "Vise Grip": "1",
+            "Water Gun": "1",
+            "Aqua Jet": "15",
+            "Smack Down": "20",
+            "Hone Claws": "25",
+            "Water Pulse": "30",
+            "Swords Dance": "35",
+            "Aura Sphere": "42",
+            "Bounce": "49",
+            "Muddy Water": "56",
+            "Crabhammer": "63"
+        },
+        "egg": {
+            "Aqua Tail": null,
+            "Bubble Beam": null,
+            "Entrainment": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Mud-Slap": "05",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Water Pulse": "11",
+            "Thief": "18",
+            "Pounce": "21",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Icy Wind": "34",
+            "Mud Shot": "35",
+            "Venoshock": "45",
+            "Endure": "47",
+            "Rain Dance": "50",
+            "U-turn": "60",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Waterfall": "77",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Swords Dance": "88",
+            "Flash Cannon": "93",
+            "Dark Pulse": "94",
+            "Substitute": "103",
+            "Liquidation": "110",
+            "Aura Sphere": "112",
+            "Shadow Ball": "114",
+            "Dragon Pulse": "115",
+            "Surf": "123",
+            "Helping Hand": "130",
+            "Ice Beam": "135",
+            "Hydro Pump": "142",
+            "Blizzard": "143",
+            "Sludge Bomb": "148",
+            "Giga Impact": "152",
+            "Focus Blast": "158",
+            "Hyper Beam": "163",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Clawitzer": [
+            "Their enormous claws launch cannonballs of water powerful enough to pierce tanker hulls.",
+            "By expelling water from the nozzle in the back of its claw, it can move at a speed of 60 knots.",
+            "It compresses the water it has sucked up and then projects it with enough power to punch a hole right through a thick sheet of iron.",
+            "Its right arm is packed with meat. When its pincer falls off, it\u2019s exported to be used as a cooking ingredient.",
+            "After using the feelers on its oversized claw to detect the location of prey, Clawitzer launches a cannonball of water at its target.",
+            "Clawitzer\u2019s right arm is a cannon that launches projectiles made of seawater. Shots from a Clawitzer\u2019s cannon arm can sink a tanker.",
+            "Clawitzer can move through the water at a speed of 60 knots by using gas inside its body to expel water from the back of its claw.",
+            "The cannonballs of seawater that Clawitzer launches from its claw are powerful enough to punch through tanker hulls."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792004460847195/693.png",
+    "discord_sprite": "<:P693:1132143236530569256>"
+}

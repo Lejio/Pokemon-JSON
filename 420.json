@@ -1,0 +1,171 @@
+{
+    "alt-version(s)": [],
+    "name": "Cherubi",
+    "Cherubi": {
+        "pokedex_data": {
+            "National No.": "0420",
+            "Type": [
+                "Grass"
+            ],
+            "Species": "Cherry Poke\u0301mon",
+            "Height": "0.4 m (1\u203204\u2032\u2032)",
+            "Weight": "3.3 kg (7.3 lbs)",
+            "Abilities": {
+                "Chlorophyll": {
+                    "href": "/ability/chlorophyll",
+                    "effect": "Boosts the Pok\u00e9mon's Speed in sunshine.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Sp. Atk",
+            "Catch rate": "190",
+            "BaseFriendship": "50",
+            "Base Exp.": "55",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "45",
+                "Min": "200",
+                "Max": "294"
+            },
+            "Attack": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Defense": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Sp. Atk": {
+                "Base": "62",
+                "Min": "116",
+                "Max": "245"
+            },
+            "Sp. Def": {
+                "Base": "53",
+                "Min": "99",
+                "Max": "225"
+            },
+            "Speed": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Total": "275"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Poison": "super-effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Bug": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Cherubi",
+                    "nationalNo": "#0420",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Cherrim",
+                    "nationalNo": "#0421",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 25)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Morning Sun": "1",
+            "Tackle": "1",
+            "Leafage": "5",
+            "Growth": "10",
+            "Helping Hand": "15",
+            "Magical Leaf": "20",
+            "Leech Seed": "26",
+            "Take Down": "30",
+            "Petal Blizzard": "35",
+            "Worry Seed": "40",
+            "Solar Beam": "45"
+        },
+        "egg": {
+            "Aromatherapy": null,
+            "Defense Curl": null,
+            "Flower Shield": null,
+            "Grassy Terrain": null,
+            "Heal Pulse": null,
+            "Healing Wish": null,
+            "Nature Power": null,
+            "Razor Leaf": null,
+            "Rollout": null,
+            "Seed Bomb": null,
+            "Sweet Scent": null,
+            "Tickle": null,
+            "Weather Ball": null
+        },
+        "tm": {
+            "Bullet Seed": "09",
+            "Sunny Day": "11",
+            "Protect": "17",
+            "Giga Drain": "19",
+            "Safeguard": "20",
+            "Dazzling Gleam": "21",
+            "Solar Beam": "22",
+            "Double Team": "32",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Energy Ball": "53",
+            "Endure": "58",
+            "Flash": "70",
+            "Swords Dance": "75",
+            "Sleep Talk": "82",
+            "Grass Knot": "86",
+            "Swagger": "87",
+            "Substitute": "90"
+        }
+    },
+    "entries": {
+        "Cherubi": [
+            "The small ball holds the nutrients needed for evolution. Apparently, it is very sweet and tasty.",
+            "Sunlight colors it red. When the small ball is drained of nutrients, it shrivels to herald evolution.",
+            "The small ball is not only filled with nutrients, it is also tasty. STARLY try to peck it off.",
+            "It evolves by sucking the energy out of the small ball where it had been storing nutrients.",
+            "The small ball is not only filled with nutrients, it is also tasty. Starly try to peck it off.",
+            "Sunlight colors it red. When the small ball is drained of nutrients, it shrivels to herald evolution.",
+            "It evolves by sucking the energy out of the small ball where it had been storing nutrients.",
+            "It nimbly dashes about to avoid getting pecked by bird Pok\u00e9mon that would love to make off with its small, nutrient-rich storage ball.",
+            "The deeper a Cherubi\u2019s red, the more nutrients it has stockpiled in its body. And the sweeter and tastier its small ball!",
+            "The small ball holds the nutrients needed for evolution. Apparently, it is very sweet and tasty.",
+            "Sunlight colors it red. When the small ball is drained of nutrients and shriveled, evolution is near.",
+            "Once the fruit growing alongside the main body is large and plump, Cherubi will use the nutrients within to evolve. The fruit then detaches, becoming nourishment for other creatures."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789876782710874/420.png",
+    "discord_sprite": "<:P420:1132131212811579513>"
+}

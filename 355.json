@@ -1,0 +1,211 @@
+{
+    "alt-version(s)": [],
+    "name": "Duskull",
+    "Duskull": {
+        "pokedex_data": {
+            "National No.": "0355",
+            "Type": [
+                "Ghost"
+            ],
+            "Species": "Requiem Poke\u0301mon",
+            "Height": "0.8 m (2\u203207\u2032\u2032)",
+            "Weight": "15.0 kg (33.1 lbs)",
+            "Abilities": {
+                "Levitate": {
+                    "href": "/ability/levitate",
+                    "effect": "Gives immunity to Ground type moves.",
+                    "hidden": false
+                },
+                "Frisk": {
+                    "href": "/ability/frisk",
+                    "effect": "The Pok\u00e9mon can check a foe's held item.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Sp. Def",
+            "Catch rate": "190",
+            "BaseFriendship": "35",
+            "Base Exp.": "59",
+            "Growth Rate": "Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "20",
+                "Min": "150",
+                "Max": "244"
+            },
+            "Attack": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Defense": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Sp. Atk": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Sp. Def": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Speed": {
+                "Base": "25",
+                "Min": "49",
+                "Max": "163"
+            },
+            "Total": "295"
+        },
+        "defense_stats": {
+            "Levitate ability": {
+                "Normal": "no effect",
+                "Fighting": "no effect",
+                "Poison": "not very effective",
+                "Ground": "no effect",
+                "Bug": "not very effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective"
+            },
+            "Frisk ability": {
+                "Normal": "no effect",
+                "Fighting": "no effect",
+                "Poison": "not very effective",
+                "Bug": "not very effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Duskull",
+                    "nationalNo": "#0355",
+                    "type": [
+                        "Ghost"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Dusclops",
+                    "nationalNo": "#0356",
+                    "type": [
+                        "Ghost"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 37)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Dusclops",
+                    "nationalNo": "#0356",
+                    "type": [
+                        "Ghost"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Dusknoir",
+                    "nationalNo": "#0477",
+                    "type": [
+                        "Ghost"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(trade holding Reaper Cloth)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Astonish": "1",
+            "Leer": "1",
+            "Disable": "4",
+            "Shadow Sneak": "8",
+            "Confuse Ray": "12",
+            "Night Shade": "16",
+            "Payback": "20",
+            "Will-O-Wisp": "24",
+            "Mean Look": "28",
+            "Hex": "32",
+            "Curse": "36",
+            "Shadow Ball": "40",
+            "Future Sight": "44"
+        },
+        "egg": {
+            "Destiny Bond": null,
+            "Grudge": null,
+            "Haze": null,
+            "Imprison": null,
+            "Memento": null,
+            "Pain Split": null
+        },
+        "tm": {
+            "Calm Mind": "04",
+            "Sunny Day": "11",
+            "Taunt": "12",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Psychic": "29",
+            "Shadow Ball": "30",
+            "Double Team": "32",
+            "Torment": "41",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Skill Swap": "48",
+            "Fling": "56",
+            "Charge Beam": "57",
+            "Endure": "58",
+            "Will-O-Wisp": "61",
+            "Payback": "66",
+            "Flash": "70",
+            "Psych Up": "77",
+            "Dark Pulse": "79",
+            "Sleep Talk": "82",
+            "Dream Eater": "85",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Trick Room": "92"
+        }
+    },
+    "entries": {
+        "Duskull": [
+            "DUSKULL can pass through any wall no matter how thick it may be. Once this pok\u00e9mon chooses a target, it will doggedly pursue the intended victim until the break of dawn.",
+            "DUSKULL wanders lost among the deep darkness of midnight. There is an oft-told admonishment given to misbehaving children that this pok\u00e9mon will spirit away bad children who earn scoldings from their mothers.",
+            "Making itself invisible, it silently sneaks up to prey. It has the ability to slip through thick walls.",
+            "A glare from its single scarlet eye makes even burly grown-ups freeze in utter fear. It is a nocturnal pok\u00e9mon that roams about under the cloak of darkness.",
+            "It doggedly pursues its prey wherever it goes. However, the chase is abandoned at sunrise.",
+            "It loves the crying of children. It startles bad kids by passing through walls and making them cry.",
+            "If it finds bad children who won\u2019t listen to their parents, it will spirit them away--or so it\u2019s said.",
+            "It loves the crying of children. It startles bad kids by passing through walls and making them cry.",
+            "It doggedly pursues its prey wherever it goes. However, the chase is abandoned at sunrise.",
+            "If it finds bad children who won\u2019t listen to their parents, it will spirit them away--or so it\u2019s said.",
+            "Duskull can pass through any wall no matter how thick it may be. Once this Pok\u00e9mon chooses a target, it will doggedly pursue the intended victim until the break of dawn.",
+            "Duskull wanders lost among the deep darkness of midnight. There is an oft-told admonishment given to misbehaving children that this Pok\u00e9mon will spirit away bad children who earn scoldings from their mothers.",
+            "If it finds bad children who won\u2019t listen to their parents, it will spirit them away\u2014or so it\u2019s said.",
+            "Making itself invisible, it silently sneaks up to prey. It has the ability to slip through thick walls.",
+            "It doggedly pursues its prey wherever the prey goes. However, the chase is abandoned at sunrise.",
+            "I\u2019ve heard that the children of Hisui all begin to behave once they\u2019ve been told the story of how this Pok\u00e9mon roams about before the witching hour to spirit away misbehaving children."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789373847900240/355.png",
+    "discord_sprite": "<:P355:1132128358298308761>"
+}

@@ -1,0 +1,175 @@
+{
+    "alt-version(s)": [],
+    "name": "Emolga",
+    "Emolga": {
+        "pokedex_data": {
+            "National No.": "0587",
+            "Type": [
+                "Electric",
+                "Flying"
+            ],
+            "Species": "Sky Squirrel Poke\u0301mon",
+            "Height": "0.4 m (1\u203204\u2032\u2032)",
+            "Weight": "5.0 kg (11.0 lbs)",
+            "Abilities": {
+                "Static": {
+                    "href": "/ability/static",
+                    "effect": "Contact with the Pok\u00e9mon may cause paralysis.",
+                    "hidden": false
+                },
+                "Motor Drive": {
+                    "href": "/ability/motor-drive",
+                    "effect": "Raises Speed if hit by an Electric-type move.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Speed",
+            "Catch rate": "200",
+            "BaseFriendship": "50",
+            "Base Exp.": "150",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "55",
+                "Min": "220",
+                "Max": "314"
+            },
+            "Attack": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Defense": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Atk": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Sp. Def": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Speed": {
+                "Base": "103",
+                "Min": "189",
+                "Max": "335"
+            },
+            "Total": "428"
+        },
+        "defense_stats": {
+            "Static ability": {
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Ground": "no effect",
+                "Flying": "not very effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Steel": "not very effective"
+            },
+            "Motor Drive ability": {
+                "Electric": "no effect",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Ground": "no effect",
+                "Flying": "not very effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Nuzzle": "1",
+            "Tail Whip": "1",
+            "Double Team": "5",
+            "Quick Attack": "10",
+            "Thunder Shock": "15",
+            "Charge": "20",
+            "Acrobatics": "25",
+            "Spark": "30",
+            "Encore": "35",
+            "Volt Switch": "40",
+            "Light Screen": "45",
+            "Discharge": "50",
+            "Agility": "55"
+        },
+        "egg": {
+            "Astonish": null,
+            "Covet": null,
+            "Defog": null,
+            "Roost": null,
+            "Shock Wave": null,
+            "Tickle": null
+        },
+        "null": {
+            "Thunderbolt": "08",
+            "Thunder": "09",
+            "Agility": "12",
+            "Substitute": "20",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Baton Pass": "29",
+            "Encore": "30",
+            "Iron Tail": "31",
+            "Taunt": "37",
+            "Energy Ball": "65",
+            "Electro Ball": "80",
+            "Wild Charge": "86"
+        },
+        "tm": {
+            "Solar Beam": "11",
+            "Thunder Wave": "14",
+            "Light Screen": "17",
+            "Rest": "21",
+            "Snore": "24",
+            "Protect": "25",
+            "Charm": "29",
+            "Attract": "31",
+            "Rain Dance": "33",
+            "Facade": "39",
+            "Swift": "40",
+            "Helping Hand": "41",
+            "U-turn": "56",
+            "Fling": "59",
+            "Speed Swap": "62",
+            "Round": "76",
+            "Acrobatics": "78",
+            "Volt Switch": "80",
+            "Electroweb": "82",
+            "Eerie Impulse": "93",
+            "Air Slash": "95"
+        }
+    },
+    "entries": {
+        "Emolga": [
+            "The energy made in its cheeks\u2019 electric pouches is stored inside its membrane and released while it is gliding.",
+            "They live on treetops and glide using the inside of a cape-like membrane while discharging electricity.",
+            "It glides on its outstretched membrane while shocking foes with the electricity stored in the pouches on its cheeks.",
+            "They live on treetops and glide using the inside of a cape-like membrane while discharging electricity.",
+            "The energy made in its cheeks\u2019 electric pouches is stored inside its membrane and released while it is gliding.",
+            "It glides using its cape-like membrane. Electrical energy scatters from it, shocking its friends and foes alike.",
+            "It grills berries and bug Pok\u00e9mon with electric shocks and makes a meal of them. It usually nests in the holes gouged in trees by Pikipek.",
+            "They store up electricity to fly through the air. When thunder cracks at night, sometimes there are almost enough of them to blot out the sky.",
+            "As it flies, it scatters electricity around, so bird Pok\u00e9mon keep their distance. That\u2019s why Emolga can keep all its food to itself.",
+            "As Emolga flutters through the air, it crackles with electricity. This Pok\u00e9mon is cute, but it can cause a lot of trouble.",
+            "This Pok\u00e9mon absolutely loves sweet berries. Sometimes it stuffs its cheeks full of so much food that it can\u2019t fly properly."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791177109225472/587.png",
+    "discord_sprite": "<:P587:1132138569088127077>"
+}

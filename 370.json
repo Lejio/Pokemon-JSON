@@ -1,0 +1,149 @@
+{
+    "alt-version(s)": [],
+    "name": "Luvdisc",
+    "Luvdisc": {
+        "pokedex_data": {
+            "National No.": "0370",
+            "Type": [
+                "Water"
+            ],
+            "Species": "Rendezvous Poke\u0301mon",
+            "Height": "0.6 m (2\u203200\u2032\u2032)",
+            "Weight": "8.7 kg (19.2 lbs)",
+            "Abilities": {
+                "Swift Swim": {
+                    "href": "/ability/swift-swim",
+                    "effect": "Boosts the Pok\u00e9mon's Speed in rain.",
+                    "hidden": false
+                },
+                "Hydration": {
+                    "href": "/ability/hydration",
+                    "effect": "Heals status problems if it is raining.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Speed",
+            "Catch rate": "225",
+            "BaseFriendship": "50",
+            "Base Exp.": "116",
+            "Growth Rate": "Fast"
+        },
+        "breeding_data": {
+            "Gender": "25% male,75% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "43",
+                "Min": "196",
+                "Max": "290"
+            },
+            "Attack": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Defense": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Sp. Atk": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Def": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Speed": {
+                "Base": "97",
+                "Min": "179",
+                "Max": "322"
+            },
+            "Total": "330"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Charm": "1",
+            "Tackle": "1",
+            "Water Gun": "4",
+            "Agility": "7",
+            "Wish": "13",
+            "Water Pulse": "17",
+            "Attract": "20",
+            "Draining Kiss": "22",
+            "Flail": "26",
+            "Sweet Kiss": "31",
+            "Take Down": "34",
+            "Baby-Doll Eyes": "37",
+            "Aqua Ring": "40",
+            "Soak": "42",
+            "Hydro Pump": "46",
+            "Safeguard": "49"
+        },
+        "egg": null,
+        "tm": {
+            "Take Down": "01",
+            "Charm": "02",
+            "Agility": "04",
+            "Protect": "07",
+            "Water Pulse": "11",
+            "Facade": "25",
+            "Icy Wind": "34",
+            "Draining Kiss": "37",
+            "Endure": "47",
+            "Rain Dance": "50",
+            "Snowscape": "52",
+            "Sleep Talk": "70",
+            "Waterfall": "77",
+            "Rest": "85",
+            "Substitute": "103",
+            "Liquidation": "110",
+            "Surf": "123",
+            "Ice Beam": "135",
+            "Hydro Pump": "142",
+            "Blizzard": "143",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Luvdisc": [
+            "LUVDISC live in shallow seas in the tropics. This heart-shaped pok\u00e9mon earned its name by swimming after loving couples it spotted in the ocean\u2019s waves.",
+            "LUVDISC\u2019s heart-shaped body is a symbol of love and romance. It is said that any couple meeting this pok\u00e9mon is promised a loving relationship that never ends.",
+            "During the spawning season, countless LUVDISC congregate at coral reefs, turning the waters pink.",
+            "LUVDISC make the branches of CORSOLA their nests. There is a custom from long ago of giving a LUVDISC as a gift to express one\u2019s feelings of love.",
+            "It lives in warm seas. It is said that a couple finding this Pok\u00e9mon will be blessed with eternal love.",
+            "Its heart-shaped body makes it popular. In some places, you would give a LUVDISC to someone you love.",
+            "It lives in warm seas. It is said that a couple finding this Pok\u00e9mon will be blessed with eternal love.",
+            "It lives in warm seas. It is said that a couple finding this Pok\u00e9mon will be blessed with eternal love.",
+            "During the spawning season, countless Luvdisc congregate at coral reefs, turning the waters pink.",
+            "Luvdisc live in shallow seas in the tropics. This heart-shaped Pok\u00e9mon earned its name by swimming after loving couples it spotted in the ocean\u2019s waves.",
+            "Luvdisc\u2019s heart-shaped body is a symbol of love and romance. It is said that any couple meeting this Pok\u00e9mon is promised a loving relationship that never ends.",
+            "If a Luvdisc is left on its own, it becomes despondent, leaving itself open to attack. That is when Pelipper snatch them up.",
+            "Loving couples have a soft spot for this Pok\u00e9mon, so honeymoon hotels often release this Pok\u00e9mon into their pools.",
+            "There was an era when it was overfished due to the rumor that having one of its heart-shaped scales would enable you to find a sweetheart.",
+            "Luvdisc makes its home in coral reefs in warm seas. It especially likes sleeping in the space between Corsola\u2019s branches.",
+            "It lives in warm seas. It is said that couples who find this Pok\u00e9mon will be blessed with eternal love.",
+            "Its heart-shaped body makes it popular. In some places, you would give a Luvdisc to someone you love.",
+            "During the spawning season, countless Luvdisc congregate at coral reefs, turning the waters pink."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789491133227079/370.png",
+    "discord_sprite": "<:P370:1132129015143084113>"
+}

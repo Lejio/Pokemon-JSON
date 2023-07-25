@@ -1,0 +1,218 @@
+{
+    "alt-version(s)": [],
+    "name": "Electivire",
+    "Electivire": {
+        "pokedex_data": {
+            "National No.": "0466",
+            "Type": [
+                "Electric"
+            ],
+            "Species": "Thunderbolt Poke\u0301mon",
+            "Height": "1.8 m (5\u203211\u2032\u2032)",
+            "Weight": "138.6 kg (305.6 lbs)",
+            "Abilities": {
+                "Motor Drive": {
+                    "href": "/ability/motor-drive",
+                    "effect": "Raises Speed if hit by an Electric-type move.",
+                    "hidden": false
+                },
+                "Vital Spirit": {
+                    "href": "/ability/vital-spirit",
+                    "effect": "Prevents the Pok\u00e9mon from falling asleep.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Attack",
+            "Catch rate": "30",
+            "BaseFriendship": "50",
+            "Base Exp.": "243",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "75% male,25% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "75",
+                "Min": "260",
+                "Max": "354"
+            },
+            "Attack": {
+                "Base": "123",
+                "Min": "225",
+                "Max": "379"
+            },
+            "Defense": {
+                "Base": "67",
+                "Min": "125",
+                "Max": "256"
+            },
+            "Sp. Atk": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Sp. Def": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Speed": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Total": "540"
+        },
+        "defense_stats": {
+            "Motor Drive ability": {
+                "Electric": "no effect",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Steel": "not very effective"
+            },
+            "Vital Spirit ability": {
+                "Electric": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Elekid",
+                    "nationalNo": "#0239",
+                    "type": [
+                        "Electric"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Electabuzz",
+                    "nationalNo": "#0125",
+                    "type": [
+                        "Electric"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 30)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Electabuzz",
+                    "nationalNo": "#0125",
+                    "type": [
+                        "Electric"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Electivire",
+                    "nationalNo": "#0466",
+                    "type": [
+                        "Electric"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(trade holding Electirizer)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Charge": "1",
+            "Leer": "1",
+            "Quick Attack": "1",
+            "Thunder Shock": "1",
+            "Wild Charge": "1",
+            "Swift": "12",
+            "Shock Wave": "16",
+            "Thunder Wave": "20",
+            "Screech": "24",
+            "Thunder Punch": "28",
+            "Discharge": "34",
+            "Low Kick": "40",
+            "Thunderbolt": "46",
+            "Light Screen": "52",
+            "Thunder": "58",
+            "Giga Impact": "64"
+        },
+        "egg": {
+            "Cross Chop": null,
+            "Dynamic Punch": null,
+            "Feint": null,
+            "Fire Punch": null,
+            "Hammer Arm": null,
+            "Ice Punch": null
+        },
+        "tm": {
+            "Focus Punch": "01",
+            "Taunt": "12",
+            "Hyper Beam": "15",
+            "Light Screen": "16",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Iron Tail": "23",
+            "Thunderbolt": "24",
+            "Thunder": "25",
+            "Earthquake": "26",
+            "Low Sweep": "27",
+            "Dig": "28",
+            "Psychic": "29",
+            "Brick Break": "31",
+            "Double Team": "32",
+            "Shock Wave": "34",
+            "Flamethrower": "35",
+            "Rock Tomb": "39",
+            "Torment": "41",
+            "Facade": "42",
+            "Volt Switch": "43",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Focus Blast": "52",
+            "Fling": "56",
+            "Charge Beam": "57",
+            "Endure": "58",
+            "Giga Impact": "68",
+            "Flash": "70",
+            "Thunder Wave": "73",
+            "Rock Slide": "80",
+            "Sleep Talk": "82",
+            "Bulldoze": "83",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Strength": "96",
+            "Rock Smash": "98",
+            "Rock Climb": "100"
+        }
+    },
+    "entries": {
+        "Electivire": [
+            "It pushes the tips of its two tails against the foe, then lets loose with over 20,000 volts of power.",
+            "Heedless of enemy attacks, it closes in, shoves its tails onto the foe, then looses high voltage.",
+            "As its electric charge amplifies, blue sparks begin to crackle between its horns.",
+            "Heedless of enemy attacks, it closes in, shoves its tails onto the foe, then looses high voltage.",
+            "The instant it presses the tips of its tails onto an opponent, it sends over 20,000 volts of electricity into the foe.",
+            "As its electric charge amplifies, blue sparks begin to crackle between its horns.",
+            "It pushes the tips of its two tails against the foe, then lets loose with over 20,000 volts of power.",
+            "It pushes the tips of its tails against its foes and then lets loose a high-voltage current. Its foes are burned to a crisp in an instant.",
+            "When it gets excited, it thumps its chest. With every thud, thunder roars and electric sparks shower all around.",
+            "It grips its tail, which spews electricity, and then beats down opponents with the power of its electrified fist.",
+            "A single Electivire can provide enough electricity for all the buildings in a big city for a year.",
+            "The amount of electrical energy this Pok\u00e9mon produces is proportional to the rate of its pulse. The voltage jumps while Electivire is battling.",
+            "In terms of electrical-energy output, Electivire is one of the best among all Electric Pok\u00e9mon. It discharges high-voltage currents from its tails.",
+            "It pushes the tips of its two tails against the foe, then lets loose with over 20,000 volts of electricity.",
+            "Its evolution was induced by an unusual item, and its electrical output rises along with its heart rate. From its tails, it can unleash an electric current measuring 20,000 volts."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790235311804519/466.png",
+    "discord_sprite": "<:P466:1132133237037219872>"
+}

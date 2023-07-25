@@ -1,0 +1,153 @@
+{
+    "alt-version(s)": [],
+    "name": "Iron Treads",
+    "Iron Treads": {
+        "pokedex_data": {
+            "National No.": "0990",
+            "Type": [
+                "Ground",
+                "Steel"
+            ],
+            "Species": "Paradox Poke\u0301mon",
+            "Height": "0.9 m (2\u203211\u2032\u2032)",
+            "Weight": "240.0 kg (529.1 lbs)",
+            "Abilities": {
+                "Quark Drive": {
+                    "href": "/ability/quark-drive",
+                    "effect": "Raises highest stat on Electric Terrain, or if holding Booster Energy.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Defense",
+            "Catch rate": "30",
+            "BaseFriendship": "0",
+            "Base Exp.": "285",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "90",
+                "Min": "290",
+                "Max": "384"
+            },
+            "Attack": {
+                "Base": "112",
+                "Min": "206",
+                "Max": "355"
+            },
+            "Defense": {
+                "Base": "120",
+                "Min": "220",
+                "Max": "372"
+            },
+            "Sp. Atk": {
+                "Base": "72",
+                "Min": "134",
+                "Max": "267"
+            },
+            "Sp. Def": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Speed": {
+                "Base": "106",
+                "Min": "195",
+                "Max": "342"
+            },
+            "Total": "570"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Fire": "super-effective",
+                "Water": "super-effective",
+                "Electric": "no effect",
+                "Fighting": "super-effective",
+                "Poison": "no effect",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Dragon": "not very effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Defense Curl": "1",
+            "Electric Terrain": "1",
+            "Horn Attack": "1",
+            "Rollout": "1",
+            "Bulldoze": "7",
+            "Rapid Spin": "21",
+            "Iron Head": "28",
+            "Stomping Tantrum": "35",
+            "Knock Off": "42",
+            "Earthquake": "49",
+            "Heavy Slam": "56",
+            "Wild Charge": "63",
+            "Endeavor": "70",
+            "Megahorn": "77",
+            "Giga Impact": "84",
+            "Steel Roller": "91"
+        },
+        "egg": null,
+        "tm": {
+            "Take Down": "01",
+            "Mud-Slap": "05",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Thunder Fang": "09",
+            "Ice Fang": "10",
+            "Facade": "25",
+            "Bulldoze": "28",
+            "Mud Shot": "35",
+            "Rock Tomb": "36",
+            "Volt Switch": "48",
+            "Sandstorm": "51",
+            "Smart Strike": "53",
+            "Zen Headbutt": "59",
+            "Body Slam": "66",
+            "Electro Ball": "72",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Body Press": "89",
+            "Flash Cannon": "93",
+            "Iron Head": "99",
+            "Substitute": "103",
+            "Iron Defense": "104",
+            "Stealth Rock": "116",
+            "Heavy Slam": "121",
+            "Ice Spinner": "124",
+            "Earth Power": "133",
+            "Electric Terrain": "136",
+            "Wild Charge": "147",
+            "Earthquake": "149",
+            "Stone Edge": "150",
+            "Giga Impact": "152",
+            "Hyper Beam": "163",
+            "Thunder": "166",
+            "Steel Beam": "170",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Iron Treads": [
+            "This Pok\u00e9mon closely resembles a scientific weapon that a paranormal magazine claimed was sent to this planet by aliens.",
+            "Sightings of this Pok\u00e9mon have occurred in recent years. It resembles a mysterious object described in an old expedition journal."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131794321809625098/990.png",
+    "discord_sprite": "<:P990:1132156353595592754>"
+}

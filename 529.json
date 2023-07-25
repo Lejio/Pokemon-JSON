@@ -1,0 +1,179 @@
+{
+    "alt-version(s)": [],
+    "name": "Drilbur",
+    "Drilbur": {
+        "pokedex_data": {
+            "National No.": "0529",
+            "Type": [
+                "Ground"
+            ],
+            "Species": "Mole Poke\u0301mon",
+            "Height": "0.3 m (1\u203200\u2032\u2032)",
+            "Weight": "8.5 kg (18.7 lbs)",
+            "Abilities": {
+                "Sand Rush": {
+                    "href": "/ability/sand-rush",
+                    "effect": "Boosts the Pok\u00e9mon's Speed in a sandstorm.",
+                    "hidden": false
+                },
+                "Sand Force": {
+                    "href": "/ability/sand-force",
+                    "effect": "Boosts certain moves' power in a sandstorm.",
+                    "hidden": false
+                },
+                "Mold Breaker": {
+                    "href": "/ability/mold-breaker",
+                    "effect": "Moves can be used regardless of Abilities.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack",
+            "Catch rate": "120",
+            "BaseFriendship": "50",
+            "Base Exp.": "66",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "60",
+                "Min": "230",
+                "Max": "324"
+            },
+            "Attack": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Defense": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Atk": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Sp. Def": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Speed": {
+                "Base": "68",
+                "Min": "126",
+                "Max": "258"
+            },
+            "Total": "328"
+        },
+        "defense_stats": {
+            "default": {
+                "Water": "super-effective",
+                "Electric": "no effect",
+                "Grass": "super-effective",
+                "Ice": "super-effective",
+                "Poison": "not very effective",
+                "Rock": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Drilbur",
+                    "nationalNo": "#0529",
+                    "type": [
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Excadrill",
+                    "nationalNo": "#0530",
+                    "type": [
+                        "Ground",
+                        "Steel"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 31)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Mud-Slap": "1",
+            "Rapid Spin": "1",
+            "Scratch": "4",
+            "Hone Claws": "8",
+            "Fury Swipes": "12",
+            "Metal Claw": "16",
+            "Sandstorm": "20",
+            "Crush Claw": "24",
+            "Rock Slide": "28",
+            "Dig": "32",
+            "Swords Dance": "36",
+            "Drill Run": "40",
+            "Earthquake": "44",
+            "Fissure": "48"
+        },
+        "egg": {
+            "Metal Sound": null,
+            "Slash": null,
+            "Submission": null
+        },
+        "null": {
+            "Swords Dance": "00",
+            "Earthquake": "10",
+            "Substitute": "20",
+            "Sludge Bomb": "22",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Iron Defense": "46",
+            "Poison Jab": "57",
+            "X-Scissor": "60",
+            "Earth Power": "67",
+            "Stealth Rock": "76",
+            "Drill Run": "87",
+            "High Horsepower": "94"
+        },
+        "tm": {
+            "Dig": "15",
+            "Rest": "21",
+            "Rock Slide": "22",
+            "Snore": "24",
+            "Protect": "25",
+            "Attract": "31",
+            "Sandstorm": "32",
+            "Facade": "39",
+            "Brick Break": "43",
+            "Rock Tomb": "48",
+            "Sand Tomb": "49",
+            "Mud Shot": "53",
+            "Fling": "59",
+            "Shadow Claw": "65",
+            "Round": "76",
+            "Bulldoze": "81"
+        }
+    },
+    "entries": {
+        "Drilbur": [
+            "It can dig through the ground at a speed of 30 mph. It could give a car running aboveground a good race.",
+            "It makes its way swiftly through the soil by putting both claws together and rotating at high speed.",
+            "By spinning its body, it can dig straight through the ground at a speed of 30 mph.",
+            "It makes its way swiftly through the soil by putting both claws together and rotating at high speed.",
+            "By spinning its body, it can dig straight through the ground at a speed of 30 mph.",
+            "It brings its claws together and whirls around at high speed before rushing toward its prey.",
+            "It\u2019s a digger, using its claws to burrow through the ground. It causes damage to vegetable crops, so many farmers have little love for it."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790725269426226/529.png",
+    "discord_sprite": "<:P529:1132136009786736660>"
+}

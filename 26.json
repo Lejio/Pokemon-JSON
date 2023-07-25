@@ -1,0 +1,412 @@
+{
+    "alt-version(s)": [
+        "Alolan Raichu"
+    ],
+    "name": "Raichu",
+    "Raichu": {
+        "pokedex_data": {
+            "National No.": "0026",
+            "Type": [
+                "Electric"
+            ],
+            "Species": "Mouse Poke\u0301mon",
+            "Height": "0.8 m (2\u203207\u2032\u2032)",
+            "Weight": "30.0 kg (66.1 lbs)",
+            "Abilities": {
+                "Static": {
+                    "href": "/ability/static",
+                    "effect": "Contact with the Pok\u00e9mon may cause paralysis.",
+                    "hidden": false
+                },
+                "Lightning Rod": {
+                    "href": "/ability/lightning-rod",
+                    "effect": "Draws in all Electric-type moves to up Sp. Attack.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Speed",
+            "Catch rate": "75",
+            "BaseFriendship": "50",
+            "Base Exp.": "243",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "60",
+                "Min": "230",
+                "Max": "324"
+            },
+            "Attack": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Defense": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Sp. Atk": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Sp. Def": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Speed": {
+                "Base": "110",
+                "Min": "202",
+                "Max": "350"
+            },
+            "Total": "485"
+        },
+        "defense_stats": {
+            "Static ability": {
+                "Electric": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Steel": "not very effective"
+            },
+            "Lightning Rod ability": {
+                "Electric": "no effect",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "Alolan Raichu": {
+        "pokedex_data": {
+            "National No.": "0026",
+            "Type": [
+                "Electric",
+                "Psychic"
+            ],
+            "Species": "Mouse Poke\u0301mon",
+            "Height": "0.7 m (2\u203204\u2032\u2032)",
+            "Weight": "21.0 kg (46.3 lbs)",
+            "Abilities": {
+                "Surge Surfer": {
+                    "href": "/ability/surge-surfer",
+                    "effect": "Doubles Speed during Electric Terrain. ",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Speed",
+            "Catch rate": "75",
+            "BaseFriendship": "50",
+            "Base Exp.": "243",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "60",
+                "Min": "230",
+                "Max": "324"
+            },
+            "Attack": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Defense": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Atk": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Sp. Def": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Speed": {
+                "Base": "110",
+                "Min": "202",
+                "Max": "350"
+            },
+            "Total": "485"
+        },
+        "defense_stats": {
+            "default": {
+                "Electric": "not very effective",
+                "Fighting": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Pichu",
+                    "nationalNo": "#0172",
+                    "type": [
+                        "Electric"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Pikachu",
+                    "nationalNo": "#0025",
+                    "type": [
+                        "Electric"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(high Friendship)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Pikachu",
+                    "nationalNo": "#0025",
+                    "type": [
+                        "Electric"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Raichu",
+                    "nationalNo": "#0026",
+                    "type": [
+                        "Electric"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Thunder Stone, outside Alola)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Pikachu",
+                    "nationalNo": "#0025",
+                    "type": [
+                        "Electric"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Raichu",
+                    "nationalNo": "#0026",
+                    "type": [
+                        "Electric",
+                        "Psychic"
+                    ],
+                    "nickname": "Alolan Raichu"
+                },
+                "requirement": "(use Thunder Stone, in Alola)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Agility": "1",
+            "Charm": "1",
+            "Discharge": "1",
+            "Double Team": "1",
+            "Electro Ball": "1",
+            "Feint": "1",
+            "Growl": "1",
+            "Iron Tail": "1",
+            "Light Screen": "1",
+            "Nasty Plot": "1",
+            "Nuzzle": "1",
+            "Play Nice": "1",
+            "Quick Attack": "1",
+            "Spark": "1",
+            "Sweet Kiss": "1",
+            "Tail Whip": "1",
+            "Thunder": "1",
+            "Thunder Shock": "1",
+            "Thunder Wave": "1",
+            "Thunderbolt": "5"
+        },
+        "evolution": {
+            "Charge": "\u2014",
+            "Disarming Voice": "40",
+            "Fake Out": "40",
+            "Flail": "\u2014",
+            "Present": "\u2014",
+            "Tickle": "\u2014",
+            "Wish": "\u2014"
+        },
+        "egg": {
+            "Charge": null,
+            "Disarming Voice": null,
+            "Fake Out": null,
+            "Flail": null,
+            "Present": null,
+            "Tickle": null,
+            "Wish": null
+        },
+        "Raichu": {
+            "tm": {
+                "Take Down": "01",
+                "Charm": "02",
+                "Agility": "04",
+                "Protect": "07",
+                "Thief": "18",
+                "Disarming Voice": "19",
+                "Trailblaze": "20",
+                "Charge Beam": "23",
+                "Facade": "25",
+                "Swift": "32",
+                "Draining Kiss": "37",
+                "Fling": "43",
+                "Endure": "47",
+                "Volt Switch": "48",
+                "Rain Dance": "50",
+                "Dig": "55",
+                "Brick Break": "58",
+                "Body Slam": "66",
+                "Thunder Punch": "68",
+                "Sleep Talk": "70",
+                "Electro Ball": "72",
+                "Reflect": "74",
+                "Light Screen": "75",
+                "Grass Knot": "81",
+                "Thunder Wave": "82",
+                "Rest": "85",
+                "Eerie Impulse": "96",
+                "Substitute": "103",
+                "Encore": "122",
+                "Surf": "123",
+                "Thunderbolt": "126",
+                "Play Rough": "127",
+                "Helping Hand": "130",
+                "Reversal": "134",
+                "Electric Terrain": "136",
+                "Nasty Plot": "140",
+                "Wild Charge": "147",
+                "Giga Impact": "152",
+                "Focus Blast": "158",
+                "Hyper Beam": "163",
+                "Thunder": "166",
+                "Tera Blast": "171"
+            }
+        },
+        "Alolan Raichu": {
+            "tm": {
+                "Take Down": "01",
+                "Charm": "02",
+                "Agility": "04",
+                "Protect": "07",
+                "Thief": "18",
+                "Trailblaze": "20",
+                "Charge Beam": "23",
+                "Facade": "25",
+                "Swift": "32",
+                "Draining Kiss": "37",
+                "Stored Power": "41",
+                "Fling": "43",
+                "Endure": "47",
+                "Volt Switch": "48",
+                "Rain Dance": "50",
+                "Psyshock": "54",
+                "Dig": "55",
+                "Brick Break": "58",
+                "Body Slam": "66",
+                "Thunder Punch": "68",
+                "Sleep Talk": "70",
+                "Electro Ball": "72",
+                "Reflect": "74",
+                "Light Screen": "75",
+                "Grass Knot": "81",
+                "Thunder Wave": "82",
+                "Rest": "85",
+                "Eerie Impulse": "96",
+                "Skill Swap": "98",
+                "Substitute": "103",
+                "Psychic": "120",
+                "Encore": "122",
+                "Surf": "123",
+                "Thunderbolt": "126",
+                "Play Rough": "127",
+                "Calm Mind": "129",
+                "Helping Hand": "130",
+                "Reversal": "134",
+                "Electric Terrain": "136",
+                "Psychic Terrain": "138",
+                "Nasty Plot": "140",
+                "Wild Charge": "147",
+                "Giga Impact": "152",
+                "Focus Blast": "158",
+                "Hyper Beam": "163",
+                "Thunder": "166",
+                "Tera Blast": "171"
+            }
+        }
+    },
+    "entries": {
+        "Raichu": [
+            "Its long tail serves as a ground to protect itself from its own high voltage power.",
+            "When electricity builds up inside its body, it becomes feisty. It also glows in the dark.",
+            "When its electricity builds, its muscles are stimulated, and it becomes more aggressive than usual.",
+            "If the electric pouches in its cheeks become fully charged, both ears will stand straight up.",
+            "If its electric pouches run empty, it raises its tail to gather electricity from the atmosphere.",
+            "If the electrical sacks become excessively charged, RAICHU plants its tail in the ground and discharges. Scorched patches of ground will be found near this pok\u00e9mon\u2019s nest.",
+            "This pok\u00e9mon exudes a weak electrical charge from all over its body that makes it take on a slight glow in darkness. RAICHU searches for electricity by planting its tail in the ground.",
+            "Its electric charges can reach even 100,000 volts. Careless contact can cause even an Indian elephant to faint.",
+            "Its long tail serves as a ground to protect itself from its own high-voltage power.",
+            "If it stores too much electricity, its behavior turns aggressive. To avoid this, it occasionally discharges excess energy and calms itself down.",
+            "It turns aggressive if it has too much electricity in its body. It discharges power through its tail.",
+            "It can loose 100,000-volt bursts of electricity, instantly downing foes several times its size.",
+            "Its tail discharges electricity into the ground, protecting it from getting shocked.",
+            "When its electricity builds, its muscles are stimulated, and it becomes more aggressive than usual.",
+            "If the electric pouches in its cheeks become fully charged, both ears will stand straight up.",
+            "Its tail discharges electricity into the ground, protecting it from getting shocked.",
+            "When its electricity builds, its muscles are stimulated, and it becomes more aggressive than usual.",
+            "It can loose 100,000-volt bursts of electricity, instantly downing foes several times its size.",
+            "If the electrical sacs become excessively charged, Raichu plants its tail in the ground and discharges. Scorched patches of ground will be found near this Pok\u00e9mon\u2019s nest.",
+            "This Pok\u00e9mon exudes a weak electrical charge from all over its body that makes it take on a slight glow in darkness. Raichu plants its tail in the ground to discharge electricity.",
+            "It unleashes electric shocks that can reach 100,000 volts. When agitated, it can knock out even an Indian elephant.",
+            "It becomes aggressive when it has electricity stored up. At such times, even its Trainer has to take care to avoid being attacked.",
+            "As electricity builds up inside its body, it becomes more aggressive. One theory is that the electricity buildup is actually causing stress.",
+            "Because so many Trainers like the way Pikachu looks, you don\u2019t see this Pok\u00e9mon very often.",
+            "When electricity builds up inside its body, it becomes feisty. It also glows in the dark.",
+            "Its long tail serves as a ground to protect itself from its own high-voltage power.",
+            "If its electric pouches run empty, it raises its tail to gather electricity from the atmosphere.",
+            "It turns aggressive if it has too much electricity in its body. It discharges power through its tail.",
+            "It can loose 100,000-volt bursts of electricity, instantly downing foes several times its size.",
+            "It can discharge bursts of electricity exceeding 100,000 volts\u2014 a single strike with that amount of power would incapacitate one of the Copperajah of my homeland.",
+            "Its tail discharges electricity into the ground, protecting it from getting shocked.",
+            "If the electric pouches in its cheeks become fully charged, both ears will stand straight up."
+        ],
+        "Alolan Raichu": [
+            "It only evolves to this form in the Alola region. According to researchers, its diet is one of the causes of this change.",
+            "It uses psychokinesis to control electricity. It hops aboard its own tail, using psychic power to lift the tail and move about while riding it.",
+            "It focuses psychic energy into its tail and rides it like it\u2019s surfing. Another name for this Pok\u00e9mon is \u201chodad.\u201d",
+            "When you rub its cheeks, a sweet fragrance comes wafting out. However, you\u2019ll also get a light shock!",
+            "It loves pancakes prepared with a secret Alolan recipe. Some wonder whether that recipe holds the key to this Pok\u00e9mon\u2019s evolution.",
+            "It\u2019s believed that the weather, climate, and food of the Alola region all play a part in causing Pikachu to evolve into this form of Raichu.",
+            "This Pok\u00e9mon rides on its tail while it uses its psychic powers to levitate. It attacks with star-shaped thunderbolts."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131786791712722965/26.png",
+    "discord_sprite": "<:P26:1131973035855978497>"
+}

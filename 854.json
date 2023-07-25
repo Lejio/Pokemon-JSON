@@ -1,0 +1,169 @@
+{
+    "alt-version(s)": [],
+    "name": "Sinistea",
+    "Sinistea": {
+        "pokedex_data": {
+            "National No.": "0854",
+            "Type": [
+                "Ghost"
+            ],
+            "Species": "Black Tea Poke\u0301mon",
+            "Height": "0.1 m (0\u203204\u2032\u2032)",
+            "Weight": "0.2 kg (0.4 lbs)",
+            "Abilities": {
+                "Weak Armor": {
+                    "href": "/ability/weak-armor",
+                    "effect": "Physical attacks lower Defense and raise Speed.",
+                    "hidden": false
+                },
+                "Cursed Body": {
+                    "href": "/ability/cursed-body",
+                    "effect": "May disable a move used on the Pok\u00e9mon.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Sp. Atk",
+            "Catch rate": "120",
+            "BaseFriendship": "50",
+            "Base Exp.": "62",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "40",
+                "Min": "190",
+                "Max": "284"
+            },
+            "Attack": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Defense": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Sp. Atk": {
+                "Base": "74",
+                "Min": "137",
+                "Max": "271"
+            },
+            "Sp. Def": {
+                "Base": "54",
+                "Min": "101",
+                "Max": "227"
+            },
+            "Speed": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Total": "308"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "no effect",
+                "Fighting": "no effect",
+                "Poison": "not very effective",
+                "Bug": "not very effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Sinistea",
+                    "nationalNo": "#0854",
+                    "type": [
+                        "Ghost"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Polteageist",
+                    "nationalNo": "#0855",
+                    "type": [
+                        "Ghost"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Cracked Pot)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Astonish": "1",
+            "Withdraw": "1",
+            "Aromatic Mist": "6",
+            "Mega Drain": "12",
+            "Sucker Punch": "24",
+            "Sweet Scent": "30",
+            "Giga Drain": "36",
+            "Nasty Plot": "42",
+            "Shadow Ball": "48",
+            "Memento": "54",
+            "Shell Smash": "60"
+        },
+        "egg": {
+            "Ally Switch": null
+        },
+        "tm": {
+            "Protect": "07",
+            "Psybeam": "16",
+            "Confuse Ray": "17",
+            "Facade": "25",
+            "Hex": "29",
+            "Magical Leaf": "33",
+            "Stored Power": "41",
+            "Night Shade": "42",
+            "Endure": "47",
+            "Psyshock": "54",
+            "Foul Play": "62",
+            "Sleep Talk": "70",
+            "Metronome": "80",
+            "Rest": "85",
+            "Imprison": "92",
+            "Dark Pulse": "94",
+            "Skill Swap": "98",
+            "Substitute": "103",
+            "Will-O-Wisp": "107",
+            "Trick": "109",
+            "Giga Drain": "111",
+            "Shadow Ball": "114",
+            "Psychic": "120",
+            "Calm Mind": "129",
+            "Baton Pass": "132",
+            "Nasty Plot": "140",
+            "Phantom Force": "151",
+            "Trick Room": "161",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Antique Form": [
+            "The swirl pattern in this Pok\u00e9mon\u2019s body is its weakness. If it gets stirred, the swirl loses its shape, and Sinistea gets dizzy.",
+            "It absorbs the life-force of those who drink it. It waits patiently, but opportunities are fleeting\u2014 it tastes so bad that it gets spat out immediately.",
+            "Some fanatics will go to great pains to prepare the perfect tea and teacup, eagerly waiting for a Sinistea to come and possess their selections.",
+            "This Sinistea lives in an antique teacup. As valuable as this Pok\u00e9mon is, its awful taste remains unchanged."
+        ],
+        "Phony Form": [
+            "This Pok\u00e9mon is said to have been born when a lonely spirit possessed a cold, leftover cup of tea.",
+            "The teacup in which this Pok\u00e9mon makes its home is a famous piece of antique tableware. Many forgeries are in circulation.",
+            "The soul of someone who died alone possessed some leftover tea. This Pok\u00e9mon appears in hotels and houses.",
+            "Sinistea gets into your body when you drink it, and then it steals your vitality from within. It also tastes awful."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793258234785894/854.png",
+    "discord_sprite": "<:P854:1132150375852539934>"
+}

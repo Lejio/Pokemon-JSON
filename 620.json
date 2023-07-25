@@ -1,0 +1,204 @@
+{
+    "alt-version(s)": [],
+    "name": "Mienshao",
+    "Mienshao": {
+        "pokedex_data": {
+            "National No.": "0620",
+            "Type": [
+                "Fighting"
+            ],
+            "Species": "Martial Arts Poke\u0301mon",
+            "Height": "1.4 m (4\u203207\u2032\u2032)",
+            "Weight": "35.5 kg (78.3 lbs)",
+            "Abilities": {
+                "Inner Focus": {
+                    "href": "/ability/inner-focus",
+                    "effect": "The Pok\u00e9mon is protected from flinching.",
+                    "hidden": false
+                },
+                "Regenerator": {
+                    "href": "/ability/regenerator",
+                    "effect": "Restores a little HP when withdrawn from battle.",
+                    "hidden": false
+                },
+                "Reckless": {
+                    "href": "/ability/reckless",
+                    "effect": "Powers up moves that have recoil damage.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "179",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "65",
+                "Min": "240",
+                "Max": "334"
+            },
+            "Attack": {
+                "Base": "125",
+                "Min": "229",
+                "Max": "383"
+            },
+            "Defense": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Atk": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Sp. Def": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Speed": {
+                "Base": "105",
+                "Min": "193",
+                "Max": "339"
+            },
+            "Total": "510"
+        },
+        "defense_stats": {
+            "default": {
+                "Flying": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Dark": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Mienfoo",
+                    "nationalNo": "#0619",
+                    "type": [
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Mienshao",
+                    "nationalNo": "#0620",
+                    "type": [
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 50)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Detect": "1",
+            "Fake Out": "1",
+            "Pound": "1",
+            "Quick Guard": "1",
+            "Reversal": "1",
+            "Fury Swipes": "15",
+            "Wide Guard": "20",
+            "Force Palm": "25",
+            "U-turn": "30",
+            "Drain Punch": "35",
+            "Hone Claws": "40",
+            "Aura Sphere": "45",
+            "Bounce": "53",
+            "Calm Mind": "59",
+            "High Jump Kick": "66"
+        },
+        "egg": {
+            "Feint": null,
+            "Focus Punch": null,
+            "Knock Off": null,
+            "Vital Throw": null
+        },
+        "null": {
+            "Swords Dance": "00",
+            "Low Kick": "07",
+            "Agility": "12",
+            "Focus Energy": "13",
+            "Substitute": "20",
+            "Reversal": "21",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Baton Pass": "29",
+            "Taunt": "37",
+            "Blaze Kick": "41",
+            "Bulk Up": "48",
+            "Calm Mind": "49",
+            "Close Combat": "53",
+            "Aura Sphere": "56",
+            "Poison Jab": "57",
+            "Focus Blast": "64",
+            "Stone Edge": "75",
+            "Grass Knot": "77",
+            "Ally Switch": "83",
+            "Work Up": "85"
+        },
+        "tm": {
+            "Mega Punch": "00",
+            "Mega Kick": "01",
+            "Hyper Beam": "08",
+            "Giga Impact": "09",
+            "Dig": "15",
+            "Reflect": "18",
+            "Rest": "21",
+            "Rock Slide": "22",
+            "Snore": "24",
+            "Protect": "25",
+            "Attract": "31",
+            "Rain Dance": "33",
+            "Sunny Day": "34",
+            "Facade": "39",
+            "Swift": "40",
+            "Helping Hand": "41",
+            "Revenge": "42",
+            "Brick Break": "43",
+            "Rock Tomb": "48",
+            "Bounce": "52",
+            "U-turn": "56",
+            "Payback": "57",
+            "Assurance": "58",
+            "Fling": "59",
+            "Drain Punch": "63",
+            "Low Sweep": "75",
+            "Round": "76",
+            "Acrobatics": "78",
+            "Retaliate": "79",
+            "Brutal Swing": "97"
+        }
+    },
+    "entries": {
+        "Mienshao": [
+            "It wields the fur on its arms like a whip. Its arm attacks come with such rapidity that they cannot even be seen.",
+            "They use the long fur on their arms as a whip to strike their opponents.",
+            "Using the long fur on its arms like whips, it launches into combo attacks that, once started, no one can stop.",
+            "It wields the fur on its arms like a whip. Its arm attacks come with such rapidity that they cannot even be seen.",
+            "Using the long fur on its arms like whips, it launches into combo attacks that, once started, no one can stop.",
+            "It overwhelms its opponents with continuous attacks and then slowly stores up power before delivering the finishing blow.",
+            "When Mienshao lets out a bizarre wail, you\u2019re in danger. A flurry of kicks and chops too fast to see is about to be unleashed!",
+            "When Mienshao comes across a truly challenging opponent, it will lighten itself by biting off the fur on its arms.",
+            "Delivered at blinding speeds, kicks from this Pok\u00e9mon can shatter massive boulders into tiny pieces."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791437026046042/620.png",
+    "discord_sprite": "<:P620:1132140027724447854>"
+}

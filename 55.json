@@ -1,0 +1,228 @@
+{
+    "alt-version(s)": [],
+    "name": "Golduck",
+    "Golduck": {
+        "pokedex_data": {
+            "National No.": "0055",
+            "Type": [
+                "Water"
+            ],
+            "Species": "Duck Poke\u0301mon",
+            "Height": "1.7 m (5\u203207\u2032\u2032)",
+            "Weight": "76.6 kg (168.9 lbs)",
+            "Abilities": {
+                "Damp": {
+                    "href": "/ability/damp",
+                    "effect": "Prevents the use of self-destructing moves.",
+                    "hidden": false
+                },
+                "Cloud Nine": {
+                    "href": "/ability/cloud-nine",
+                    "effect": "Eliminates the effects of weather.",
+                    "hidden": false
+                },
+                "Swift Swim": {
+                    "href": "/ability/swift-swim",
+                    "effect": "Boosts the Pok\u00e9mon's Speed in rain.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Sp. Atk",
+            "Catch rate": "75",
+            "BaseFriendship": "50",
+            "Base Exp.": "175",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "80",
+                "Min": "270",
+                "Max": "364"
+            },
+            "Attack": {
+                "Base": "82",
+                "Min": "152",
+                "Max": "289"
+            },
+            "Defense": {
+                "Base": "78",
+                "Min": "144",
+                "Max": "280"
+            },
+            "Sp. Atk": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Sp. Def": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Speed": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Total": "500"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Psyduck",
+                    "nationalNo": "#0054",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Golduck",
+                    "nationalNo": "#0055",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 33)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Aqua Jet": "1",
+            "Confusion": "1",
+            "Scratch": "1",
+            "Tail Whip": "1",
+            "Water Gun": "1",
+            "Fury Swipes": "9",
+            "Water Pulse": "12",
+            "Disable": "15",
+            "Zen Headbutt": "18",
+            "Screech": "21",
+            "Aqua Tail": "24",
+            "Soak": "27",
+            "Psych Up": "30",
+            "Amnesia": "36",
+            "Hydro Pump": "40",
+            "Wonder Room": "45"
+        },
+        "egg": {
+            "Clear Smog": null,
+            "Confuse Ray": null,
+            "Cross Chop": null,
+            "Hypnosis": null,
+            "Psybeam": null,
+            "Simple Beam": null,
+            "Yawn": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Protect": "07",
+            "Water Pulse": "11",
+            "Low Kick": "12",
+            "Psybeam": "16",
+            "Confuse Ray": "17",
+            "Thief": "18",
+            "Trailblaze": "20",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Swift": "32",
+            "Icy Wind": "34",
+            "Mud Shot": "35",
+            "Low Sweep": "39",
+            "Fling": "43",
+            "Endure": "47",
+            "Rain Dance": "50",
+            "Psyshock": "54",
+            "Dig": "55",
+            "Brick Break": "58",
+            "Zen Headbutt": "59",
+            "Shadow Claw": "61",
+            "Body Slam": "66",
+            "Ice Punch": "69",
+            "Sleep Talk": "70",
+            "Light Screen": "75",
+            "Waterfall": "77",
+            "Metronome": "80",
+            "Grass Knot": "81",
+            "Rest": "85",
+            "Taunt": "87",
+            "Skill Swap": "98",
+            "Power Gem": "101",
+            "Substitute": "103",
+            "Liquidation": "110",
+            "Psychic": "120",
+            "Encore": "122",
+            "Surf": "123",
+            "Amnesia": "128",
+            "Calm Mind": "129",
+            "Helping Hand": "130",
+            "Ice Beam": "135",
+            "Nasty Plot": "140",
+            "Hydro Pump": "142",
+            "Blizzard": "143",
+            "Giga Impact": "152",
+            "Focus Blast": "158",
+            "Hyper Beam": "163",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Golduck": [
+            "Often seen swimming elegantly by lake shores. It is often mistaken for the Japanese monster, Kappa.",
+            "Its slim and long limbs end in broad flippers. They are used for swimming gracefully in lakes.",
+            "When it swims at full speed using its long, webbed limbs, its forehead somehow begins to glow.",
+            "It appears by waterways at dusk. It may use telekinetic powers if its forehead glows mysteriously.",
+            "It swims gracefully along on the quiet, slow-moving rivers and lakes of which it is so fond.",
+            "The webbed flippers on its forelegs and hind legs and the streamlined body of GOLDUCK give it frightening speed. This pok\u00e9mon is definitely much faster than even the most athletic swimmer.",
+            "GOLDUCK is the fastest swimmer among all pok\u00e9mon. It swims effortlessly, even in a rough, stormy sea. It sometimes rescues people from wrecked ships floundering in high seas.",
+            "The forelegs are webbed, helping to make it an adept swimmer. It can be seen swimming elegantly in lakes, etc.",
+            "Often seen swimming elegantly by lakeshores. It is often mistaken for the Japanese monster Kappa.",
+            "A GOLDUCK is an adept swimmer. It sometimes joins competitive swimmers in training. It uses psychic powers when its forehead shimmers with light.",
+            "A Pok\u00e9mon that lives in lakes. It swims faster than any human swimming champion.",
+            "The flippers of its well-developed limbs give it shocking speed. It is the best swimmer among Pok\u00e9mon.",
+            "It is seen swimming dynamically and elegantly using its well-developed limbs and flippers.",
+            "When it swims at full speed using its long, webbed limbs, its forehead somehow begins to glow.",
+            "It appears by waterways at dusk. It may use telekinetic powers if its forehead glows mysteriously.",
+            "It is seen swimming dynamically and elegantly using its well-developed limbs and flippers.",
+            "When its forehead shines mysteriously, Golduck can use the full extent of its power.",
+            "It appears by waterways at dusk. It may use telekinetic powers if its forehead glows mysteriously.",
+            "The forelegs are webbed, helping to make it an adept swimmer. It can be seen swimming elegantly in lakes, etc.",
+            "The webbed flippers on its forelegs and hind legs and the streamlined body of Golduck give it frightening speed. This Pok\u00e9mon is definitely much faster than even the most athletic swimmer.",
+            "Golduck is the fastest swimmer among all Pok\u00e9mon. It swims effortlessly, even in a rough, stormy sea. It sometimes rescues people from wrecked ships floundering in high seas.",
+            "It is said that the red part of its forehead grants supernatural powers to those who possess one, so it was over-hunted in the past.",
+            "It swims along the banks of lakes and catches fish Pok\u00e9mon. It takes them to the shore and quietly eats them up.",
+            "Even fast-swimming fish Pok\u00e9mon can be disabled by Golduck. It brings them to a standstill and seizes them.",
+            "A professional swimmer, it can continue swimming for two days straight by waving its long tail skillfully.",
+            "Its long, slim limbs end in broad flippers. They are used for swimming gracefully in lakes.",
+            "This Pok\u00e9mon lives in gently flowing rivers. It paddles through the water with its long limbs, putting its graceful swimming skills on display.",
+            "Old tales tell of Golduck punishing those that defiled its river. The guilty were dragged into the water and taken away.",
+            "This Pok\u00e9mon lives in lakes. It swims faster than any world-class swimmer.",
+            "The flippers of its well-developed limbs give it shocking speed. It is the best swimmer among Pok\u00e9mon.",
+            "Its body is strong, and it has webbing on its hands and feet. Golduck can swim easily through rough seas, clawing its way through the high waves.",
+            "When it swims at full speed using its long, webbed limbs, its forehead somehow begins to glow.",
+            "It swims gracefully along on the quiet, slow-moving rivers and lakes of which it is so fond."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787020482646077/55.png",
+    "discord_sprite": "<:P55:1132115137654956042>"
+}

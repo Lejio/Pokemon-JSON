@@ -1,0 +1,145 @@
+{
+    "alt-version(s)": [],
+    "name": "Meltan",
+    "Meltan": {
+        "pokedex_data": {
+            "National No.": "0808",
+            "Type": [
+                "Steel"
+            ],
+            "Species": "Hex Nut Poke\u0301mon",
+            "Height": "0.2 m (0\u203208\u2032\u2032)",
+            "Weight": "8.0 kg (17.6 lbs)",
+            "Abilities": {
+                "Magnet Pull": {
+                    "href": "/ability/magnet-pull",
+                    "effect": "Prevents Steel-type Pok\u00e9mon from escaping.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack",
+            "Catch rate": "3",
+            "BaseFriendship": "0",
+            "Base Exp.": "150",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "46",
+                "Min": "202",
+                "Max": "296"
+            },
+            "Attack": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Defense": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Atk": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Sp. Def": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Speed": {
+                "Base": "34",
+                "Min": "65",
+                "Max": "183"
+            },
+            "Total": "300"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Fire": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Poison": "no effect",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Dragon": "not very effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Meltan",
+                    "nationalNo": "#0808",
+                    "type": [
+                        "Steel"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Melmetal",
+                    "nationalNo": "#0809",
+                    "type": [
+                        "Steel"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Pok\u00e9mon GO only, 400 Meltan Candies)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Harden": "1",
+            "Thunder Shock": "1",
+            "Tail Whip": "8",
+            "Headbutt": "16",
+            "Thunder Wave": "24",
+            "Acid Armor": "32",
+            "Flash Cannon": "40"
+        },
+        "egg": null,
+        "tm": {
+            "Thunder Wave": "14",
+            "Rest": "21",
+            "Snore": "24",
+            "Protect": "25",
+            "Facade": "39",
+            "Round": "76"
+        },
+        "null": {
+            "Thunderbolt": "08",
+            "Substitute": "20",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Iron Defense": "46",
+            "Gyro Ball": "52",
+            "Flash Cannon": "70"
+        }
+    },
+    "entries": {
+        "Meltan": [
+            "It melts particles of iron and other metals found in the subsoil, so it can absorb them into its body of molten steel.",
+            "It dissolves and eats metal. Circulating liquid metal within its body is how it generates energy.",
+            "They live as a group, but when the time comes, one strong Meltan will absorb all the others and evolve."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792905405743164/808.png",
+    "discord_sprite": "<:P808:1132148354554535936>"
+}

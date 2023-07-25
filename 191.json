@@ -1,0 +1,187 @@
+{
+    "alt-version(s)": [],
+    "name": "Sunkern",
+    "Sunkern": {
+        "pokedex_data": {
+            "National No.": "0191",
+            "Type": [
+                "Grass"
+            ],
+            "Species": "Seed Poke\u0301mon",
+            "Height": "0.3 m (1\u203200\u2032\u2032)",
+            "Weight": "1.8 kg (4.0 lbs)",
+            "Abilities": {
+                "Chlorophyll": {
+                    "href": "/ability/chlorophyll",
+                    "effect": "Boosts the Pok\u00e9mon's Speed in sunshine.",
+                    "hidden": false
+                },
+                "Solar Power": {
+                    "href": "/ability/solar-power",
+                    "effect": "In sunshine, Sp. Atk is boosted but HP decreases.",
+                    "hidden": false
+                },
+                "Early Bird": {
+                    "href": "/ability/early-bird",
+                    "effect": "The Pok\u00e9mon awakens quickly from sleep.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Sp. Atk",
+            "Catch rate": "235",
+            "BaseFriendship": "50",
+            "Base Exp.": "36",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "30",
+                "Min": "170",
+                "Max": "264"
+            },
+            "Attack": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Defense": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Sp. Atk": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Sp. Def": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Speed": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Total": "180"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Poison": "super-effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Bug": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Sunkern",
+                    "nationalNo": "#0191",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Sunflora",
+                    "nationalNo": "#0192",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Sun Stone)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Growth": "1",
+            "Tackle": "1",
+            "Absorb": "7",
+            "Mega Drain": "10",
+            "Razor Leaf": "16",
+            "Worry Seed": "19",
+            "Giga Drain": "22",
+            "Endeavor": "25",
+            "Synthesis": "28",
+            "Solar Beam": "31",
+            "Double-Edge": "34",
+            "Sunny Day": "36",
+            "Seed Bomb": "39"
+        },
+        "egg": {
+            "Curse": null,
+            "Encore": null,
+            "Grassy Terrain": null,
+            "Ingrain": null,
+            "Leech Seed": null,
+            "Morning Sun": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Protect": "07",
+            "Trailblaze": "20",
+            "Facade": "25",
+            "Magical Leaf": "33",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Bullet Seed": "56",
+            "Sleep Talk": "70",
+            "Seed Bomb": "71",
+            "Light Screen": "75",
+            "Grass Knot": "81",
+            "Rest": "85",
+            "Substitute": "103",
+            "Giga Drain": "111",
+            "Energy Ball": "119",
+            "Encore": "122",
+            "Helping Hand": "130",
+            "Earth Power": "133",
+            "Grassy Terrain": "137",
+            "Leaf Storm": "159",
+            "Solar Beam": "168",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Sunkern": [
+            "It may drop out of the sky suddenly. If attacked by a SPEAROW, it will violently shake its leaves.",
+            "It lives by drinking only dewdrops from under the leaves of plants. It is said that it eats nothing else.",
+            "It is very weak. Its only means of defense is to shake its leaves desperately at its attacker.",
+            "SUNKERN tries to move as little as it possibly can. It does so because it tries to conserve all the nutrients it has stored in its body for its evolution. It will not eat a thing, subsisting only on morning dew.",
+            "It lives by drinking only dewdrops from under the leaves of plants. It is said that it eats nothing else.",
+            "It may drop out of the sky suddenly. If attacked by a SPEAROW, it will violently shake its leaves.",
+            "SUNKERN try to minimize movement to conserve the nutrients they have stored in their bodies for evolution. They will not eat, subsisting only on morning dew.",
+            "It suddenly falls out of the sky in the morning. A year after a cold summer, their population explodes.",
+            "It may plummet from the sky. If attacked by a SPEAROW, it will violently shake its leaves.",
+            "It lives by drinking only dewdrops from under the leaves of plants. It is said that it eats nothing else.",
+            "It suddenly falls out of the sky in the morning. A year after a cold summer, their population explodes.",
+            "It suddenly falls out of the sky in the morning. Knowing it\u2019s weak, it simply feeds until it evolves.",
+            "It may plummet from the sky. If attacked by a Spearow, it will violently shake its leaves.",
+            "It lives by drinking only dewdrops from under the leaves of plants. It is said that it eats nothing else.",
+            "Sunkern tries to move as little as it possibly can. It does so because it tries to conserve all the nutrients it has stored in its body for its evolution. It will not eat a thing, subsisting only on morning dew.",
+            "They may suddenly fall out of the sky in the morning. In the year following a cold summer, their population explodes.",
+            "It suddenly falls out of the sky in the morning. Knowing it\u2019s weak, it simply feeds until it evolves.",
+            "It is very weak. Its only means of defense is to shake its leaves desperately at its attacker."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788081889038426/191.png",
+    "discord_sprite": "<:P191:1132121139137740911>"
+}

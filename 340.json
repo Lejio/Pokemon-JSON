@@ -1,0 +1,212 @@
+{
+    "alt-version(s)": [],
+    "name": "Whiscash",
+    "Whiscash": {
+        "pokedex_data": {
+            "National No.": "0340",
+            "Type": [
+                "Water",
+                "Ground"
+            ],
+            "Species": "Whiskers Poke\u0301mon",
+            "Height": "0.9 m (2\u203211\u2032\u2032)",
+            "Weight": "23.6 kg (52.0 lbs)",
+            "Abilities": {
+                "Oblivious": {
+                    "href": "/ability/oblivious",
+                    "effect": "Prevents it from becoming infatuated.",
+                    "hidden": false
+                },
+                "Anticipation": {
+                    "href": "/ability/anticipation",
+                    "effect": "Senses a foe's dangerous moves.",
+                    "hidden": false
+                },
+                "Hydration": {
+                    "href": "/ability/hydration",
+                    "effect": "Heals status problems if it is raining.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 HP",
+            "Catch rate": "75",
+            "BaseFriendship": "50",
+            "Base Exp.": "164",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "110",
+                "Min": "330",
+                "Max": "424"
+            },
+            "Attack": {
+                "Base": "78",
+                "Min": "144",
+                "Max": "280"
+            },
+            "Defense": {
+                "Base": "73",
+                "Min": "135",
+                "Max": "269"
+            },
+            "Sp. Atk": {
+                "Base": "76",
+                "Min": "141",
+                "Max": "276"
+            },
+            "Sp. Def": {
+                "Base": "71",
+                "Min": "132",
+                "Max": "265"
+            },
+            "Speed": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Total": "468"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Electric": "no effect",
+                "Grass": "super-effective",
+                "Poison": "not very effective",
+                "Rock": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Barboach",
+                    "nationalNo": "#0339",
+                    "type": [
+                        "Water",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Whiscash",
+                    "nationalNo": "#0340",
+                    "type": [
+                        "Water",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 30)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Belch": "1",
+            "Mud-Slap": "1",
+            "Rest": "1",
+            "Snore": "1",
+            "Tickle": "1",
+            "Water Gun": "1",
+            "Zen Headbutt": "1",
+            "Water Pulse": "12",
+            "Amnesia": "18",
+            "Aqua Tail": "24",
+            "Muddy Water": "33",
+            "Earthquake": "40",
+            "Future Sight": "48",
+            "Fissure": "56"
+        },
+        "evolution": {
+            "Thrash": "120"
+        },
+        "egg": {
+            "Flail": null,
+            "Spark": null,
+            "Take Down": null,
+            "Thrash": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Mud-Slap": "05",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Water Pulse": "11",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Bulldoze": "28",
+            "Swift": "32",
+            "Icy Wind": "34",
+            "Mud Shot": "35",
+            "Rock Tomb": "36",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Sandstorm": "51",
+            "Zen Headbutt": "59",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Waterfall": "77",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Spikes": "90",
+            "Dragon Dance": "100",
+            "Substitute": "103",
+            "Liquidation": "110",
+            "Stealth Rock": "116",
+            "Surf": "123",
+            "Amnesia": "128",
+            "Helping Hand": "130",
+            "Earth Power": "133",
+            "Ice Beam": "135",
+            "Hydro Pump": "142",
+            "Blizzard": "143",
+            "Earthquake": "149",
+            "Stone Edge": "150",
+            "Giga Impact": "152",
+            "Outrage": "156",
+            "Hyper Beam": "163",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Whiscash": [
+            "WHISCASH is extremely territorial. Just one of these pok\u00e9mon will claim a large pond as its exclusive territory. If a foe approaches it, it thrashes about and triggers a massive earthquake.",
+            "If WHISCASH goes on a wild rampage, it sets off a quake-like tremor with a radius of over three miles. This pok\u00e9mon has the ability to predict real earthquakes.",
+            "It makes its nest at the bottom of swamps. It will eat anything - if it is alive, WHISCASH will eat it.",
+            "Mysteriously, it can foretell earthquakes. In the daytime, it sleeps in mud at the bottom of a pond. When it awakens, it continually feeds throughout the night.",
+            "It is very territorial. It repels foes by setting off tremors that extend over a three-mile radius.",
+            "As a result of causing tremors by thrashing about, it developed the ability to foretell real quakes.",
+            "It is extremely protective of its territory. If any foe approaches, it attacks using vicious tremors.",
+            "It claims a large swamp to itself. If a foe comes near it, it sets off tremors by thrashing around.",
+            "It is extremely protective of its territory. If any foe approaches, it attacks using vicious tremors.",
+            "It claims a large swamp to itself. If a foe comes near it, it sets off tremors by thrashing around.",
+            "It makes its nest at the bottom of swamps. It will eat anything--if it is alive, Whiscash will eat it.",
+            "Whiscash is extremely territorial. Just one of these Pok\u00e9mon will claim a large pond as its exclusive territory. If a foe approaches it, it thrashes about and triggers a massive earthquake.",
+            "If Whiscash goes on a wild rampage, it sets off a quake-like tremor with a radius of over three miles. This Pok\u00e9mon has the ability to predict real earthquakes.",
+            "A glutton that devours anything that moves, it quietly lurks at the bottom of swamps, lying in wait for prey.",
+            "Sighting Whiscash leaping from the water is believed to herald an earthquake.",
+            "Whiscash shakes the ground at high intensities to intimidate its opponents. It swallows its prey whole\u2014along with mud from the swamp floor.",
+            "Its vision is not that good. It senses vibrations in the water with its whiskers to determine the location of its prey.",
+            "It makes its nest at the bottom of swamps. It will eat anything\u2014if it is alive, Whiscash will eat it.",
+            "It claims a large swamp to itself. If a foe comes near it, it sets off tremors by thrashing around.",
+            "It is very territorial. It repels foes by setting off tremors that extend over a three-mile radius.",
+            "As a result of causing tremors by thrashing about, it developed the ability to foretell real quakes.",
+            "Strikes its caudal fin against the swamp bed to shake the ground and startle its prey. It will then swallow the fleeing prey whole. People mistook this behavior as the cause of earthquakes.",
+            "It is extremely protective of its territory. If any foe approaches, it attacks using vicious tremors.",
+            "Sighting Whiscash leaping from the water is believed to herald an earthquake."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789257556643970/340.png",
+    "discord_sprite": "<:P340:1132127699259899975>"
+}

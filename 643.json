@@ -1,0 +1,171 @@
+{
+    "alt-version(s)": [],
+    "name": "Reshiram",
+    "Reshiram": {
+        "pokedex_data": {
+            "National No.": "0643",
+            "Type": [
+                "Dragon",
+                "Fire"
+            ],
+            "Species": "Vast White Poke\u0301mon",
+            "Height": "3.2 m (10\u203206\u2032\u2032)",
+            "Weight": "330.0 kg (727.5 lbs)",
+            "Abilities": {
+                "Turboblaze": {
+                    "href": "/ability/turboblaze",
+                    "effect": "Moves can be used regardless of Abilities.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Sp. Atk",
+            "Catch rate": "3",
+            "BaseFriendship": "0",
+            "Base Exp.": "306",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "100",
+                "Min": "310",
+                "Max": "404"
+            },
+            "Attack": {
+                "Base": "120",
+                "Min": "220",
+                "Max": "372"
+            },
+            "Defense": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Sp. Atk": {
+                "Base": "150",
+                "Min": "274",
+                "Max": "438"
+            },
+            "Sp. Def": {
+                "Base": "120",
+                "Min": "220",
+                "Max": "372"
+            },
+            "Speed": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Total": "680"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ground": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Dragon": "super-effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Ancient Power": "1",
+            "Dragon Breath": "1",
+            "Fire Fang": "1",
+            "Noble Roar": "1",
+            "Slash": "8",
+            "Crunch": "16",
+            "Extrasensory": "24",
+            "Dragon Pulse": "32",
+            "Flamethrower": "40",
+            "Fusion Flare": "48",
+            "Hyper Voice": "56",
+            "Fire Blast": "64",
+            "Imprison": "72",
+            "Outrage": "80",
+            "Blue Flare": "88"
+        },
+        "egg": {
+            "Dual Wingbeat": null,
+            "Scale Shot": null,
+            "Scorching Sands": null
+        },
+        "null": {
+            "Flamethrower": "02",
+            "Psychic": "11",
+            "Fire Blast": "15",
+            "Substitute": "20",
+            "Outrage": "24",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Crunch": "32",
+            "Shadow Ball": "33",
+            "Heat Wave": "36",
+            "Hyper Voice": "42",
+            "Overheat": "43",
+            "Dragon Claw": "47",
+            "Dragon Dance": "51",
+            "Flare Blitz": "55",
+            "Dragon Pulse": "62",
+            "Focus Blast": "64",
+            "Earth Power": "67",
+            "Zen Headbutt": "69",
+            "Stone Edge": "75",
+            "Heat Crash": "88",
+            "Body Press": "99"
+        },
+        "tm": {
+            "Fly": "06",
+            "Hyper Beam": "08",
+            "Giga Impact": "09",
+            "Solar Beam": "11",
+            "Light Screen": "17",
+            "Reflect": "18",
+            "Safeguard": "19",
+            "Rest": "21",
+            "Rock Slide": "22",
+            "Snore": "24",
+            "Protect": "25",
+            "Steel Wing": "30",
+            "Rain Dance": "33",
+            "Sunny Day": "34",
+            "Will-O-Wisp": "38",
+            "Facade": "39",
+            "Swift": "40",
+            "Helping Hand": "41",
+            "Imprison": "44",
+            "Weather Ball": "46",
+            "Rock Tomb": "48",
+            "Payback": "57",
+            "Fling": "59",
+            "Shadow Claw": "65",
+            "Fire Fang": "68",
+            "Round": "76",
+            "Mystical Fire": "92",
+            "Brutal Swing": "97",
+            "Breaking Swipe": "99"
+        }
+    },
+    "entries": {
+        "Reshiram": [
+            "This Pok\u00e9mon appears in legends. It sends flames into the air from its tail, burning up everything around it.",
+            "When Reshiram\u2019s tail flares, the heat energy moves the atmosphere and changes the world\u2019s weather.",
+            "This legendary Pok\u00e9mon can scorch the world with fire. It helps those who want to build a world of truth.",
+            "This legendary Pok\u00e9mon can scorch the world with fire. It helps those who want to build a world of truth.",
+            "When Reshiram\u2019s tail flares, the heat energy moves the atmosphere and changes the world\u2019s weather.",
+            "Flames spew from its tail as it flies through the sky like a jet airplane. It\u2019s said that this Pok\u00e9mon will scorch the world.",
+            "According to myth, if people ignore truth and let themselves become consumed by greed, Reshiram will arrive to burn their kingdoms down."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791615644684288/643.png",
+    "discord_sprite": "<:P643:1132141034390954024>"
+}

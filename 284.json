@@ -1,0 +1,209 @@
+{
+    "alt-version(s)": [],
+    "name": "Masquerain",
+    "Masquerain": {
+        "pokedex_data": {
+            "National No.": "0284",
+            "Type": [
+                "Bug",
+                "Flying"
+            ],
+            "Species": "Eyeball Poke\u0301mon",
+            "Height": "0.8 m (2\u203207\u2032\u2032)",
+            "Weight": "3.6 kg (7.9 lbs)",
+            "Abilities": {
+                "Intimidate": {
+                    "href": "/ability/intimidate",
+                    "effect": "Lowers the foe's Attack stat.",
+                    "hidden": false
+                },
+                "Unnerve": {
+                    "href": "/ability/unnerve",
+                    "effect": "Makes the foe nervous and unable to eat Berries.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Sp. Atk, 1 Sp. Def",
+            "Catch rate": "75",
+            "BaseFriendship": "50",
+            "Base Exp.": "159",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "70",
+                "Min": "250",
+                "Max": "344"
+            },
+            "Attack": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Defense": {
+                "Base": "62",
+                "Min": "116",
+                "Max": "245"
+            },
+            "Sp. Atk": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Sp. Def": {
+                "Base": "82",
+                "Min": "152",
+                "Max": "289"
+            },
+            "Speed": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Total": "454"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Electric": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Ground": "no effect",
+                "Flying": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Surskit",
+                    "nationalNo": "#0283",
+                    "type": [
+                        "Bug",
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Masquerain",
+                    "nationalNo": "#0284",
+                    "type": [
+                        "Bug",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 22)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Quick Attack": "1",
+            "Soak": "1",
+            "Sweet Scent": "1",
+            "Water Gun": "1",
+            "Whirlwind": "1",
+            "Gust": "17",
+            "Air Cutter": "22",
+            "Scary Face": "22",
+            "Stun Spore": "26",
+            "Air Slash": "32",
+            "Giga Drain": "38",
+            "Bug Buzz": "44",
+            "Quiver Dance": "52"
+        },
+        "egg": {
+            "Aqua Jet": null,
+            "Bug Bite": null,
+            "Fell Stinger": null,
+            "Hydro Pump": null,
+            "Lunge": null,
+            "Mud Shot": null,
+            "Power Split": null,
+            "Psybeam": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Agility": "04",
+            "Mud-Slap": "05",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Water Pulse": "11",
+            "Acrobatics": "14",
+            "Struggle Bug": "15",
+            "Psybeam": "16",
+            "Thief": "18",
+            "Pounce": "21",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Swift": "32",
+            "Icy Wind": "34",
+            "Mud Shot": "35",
+            "Air Cutter": "40",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "U-turn": "60",
+            "Foul Play": "62",
+            "Air Slash": "65",
+            "Sleep Talk": "70",
+            "Waterfall": "77",
+            "Rest": "85",
+            "Leech Life": "95",
+            "Substitute": "103",
+            "Liquidation": "110",
+            "Giga Drain": "111",
+            "Tailwind": "113",
+            "Shadow Ball": "114",
+            "Energy Ball": "119",
+            "Surf": "123",
+            "Helping Hand": "130",
+            "Baton Pass": "132",
+            "Ice Beam": "135",
+            "Hydro Pump": "142",
+            "Blizzard": "143",
+            "Giga Impact": "152",
+            "Hurricane": "160",
+            "Bug Buzz": "162",
+            "Hyper Beam": "163",
+            "Solar Beam": "168",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Masquerain": [
+            "MASQUERAIN intimidates enemies with the eyelike patterns on its antennas. This pok\u00e9mon flaps its four wings to freely fly in any direction - even sideways and backwards - as if it were a helicopter.",
+            "MASQUERAIN\u2019s antennas have eyelike patterns that usually give it an angry look. If the \u201ceyes\u201d are droopy and appear sad, it is said to be a sign that a heavy rainfall is on its way.",
+            "The antennae have distinctive patterns that look like eyes. When it rains, they grow heavy, making flight impossible.",
+            "It intimidates foes with the large eyelike patterns on its antennae. Because it can\u2019t fly if its wings get wet, it shelters itself from rain under large trees and eaves.",
+            "Its antennae have eye patterns on them. Its four wings enable it to hover and fly in any direction.",
+            "It flaps its four wings to hover and fly freely in any direction--to and fro and sideways.",
+            "Its antennae have eye patterns on them. Its four wings enable it to hover and fly in any direction.",
+            "Its antennae have eye patterns on them. Its four wings enable it to hover and fly in any direction.",
+            "It flaps its four wings to hover and fly freely in any direction--to and fro and sideways.",
+            "Masquerain intimidates enemies with the eyelike patterns on its antennas. This Pok\u00e9mon flaps its four wings to freely fly in any direction\u2014even sideways and backwards\u2014as if it were a helicopter.",
+            "Masquerain\u2019s antennas have eyelike patterns that usually give it an angry look. If the \u201ceyes\u201d are droopy and appear sad, it is said to be a sign that a heavy rainfall is on its way.",
+            "It intimidates enemies with the eye-like patterns on its antennae. Its four wings allow it to fly in any direction.",
+            "Its wings and antennae don\u2019t cope well with moisture. After a rain, it faces sunward to dry off.",
+            "Masquerain intimidates enemies with the eyelike patterns of its eyespots. If that doesn\u2019t work, it deftly makes its escape on its set of four wings.",
+            "Its thin, winglike antennae are highly absorbent. It waits out rainy days in tree hollows.",
+            "Its antennae have eye patterns on them. Its four wings enable it to hover and fly in any direction.",
+            "It flaps its four wings to hover and fly freely in any direction\u2014to and fro and sideways.",
+            "The antennae have distinctive patterns that look like eyes. When it rains, they grow heavy, making flight impossible."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788815372136448/284.png",
+    "discord_sprite": "<:P284:1132125240349179998>"
+}

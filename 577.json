@@ -1,0 +1,209 @@
+{
+    "alt-version(s)": [],
+    "name": "Solosis",
+    "Solosis": {
+        "pokedex_data": {
+            "National No.": "0577",
+            "Type": [
+                "Psychic"
+            ],
+            "Species": "Cell Poke\u0301mon",
+            "Height": "0.3 m (1\u203200\u2032\u2032)",
+            "Weight": "1.0 kg (2.2 lbs)",
+            "Abilities": {
+                "Overcoat": {
+                    "href": "/ability/overcoat",
+                    "effect": "Protects the Pok\u00e9mon from weather damage.",
+                    "hidden": false
+                },
+                "Magic Guard": {
+                    "href": "/ability/magic-guard",
+                    "effect": "Protects the Pok\u00e9mon from indirect damage.",
+                    "hidden": false
+                },
+                "Regenerator": {
+                    "href": "/ability/regenerator",
+                    "effect": "Restores a little HP when withdrawn from battle.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Sp. Atk",
+            "Catch rate": "200",
+            "BaseFriendship": "50",
+            "Base Exp.": "58",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "45",
+                "Min": "200",
+                "Max": "294"
+            },
+            "Attack": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Defense": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Atk": {
+                "Base": "105",
+                "Min": "193",
+                "Max": "339"
+            },
+            "Sp. Def": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Speed": {
+                "Base": "20",
+                "Min": "40",
+                "Max": "152"
+            },
+            "Total": "290"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Solosis",
+                    "nationalNo": "#0577",
+                    "type": [
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Duosion",
+                    "nationalNo": "#0578",
+                    "type": [
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 32)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Duosion",
+                    "nationalNo": "#0578",
+                    "type": [
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Reuniclus",
+                    "nationalNo": "#0579",
+                    "type": [
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 41)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Confusion": "1",
+            "Protect": "1",
+            "Recover": "4",
+            "Endeavor": "8",
+            "Psybeam": "12",
+            "Charm": "16",
+            "Psyshock": "20",
+            "Light Screen": "24",
+            "Reflect": "24",
+            "Ally Switch": "28",
+            "Pain Split": "33",
+            "Psychic": "36",
+            "Skill Swap": "40",
+            "Future Sight": "44",
+            "Wonder Room": "48"
+        },
+        "egg": {
+            "Acid Armor": null,
+            "Astonish": null,
+            "Confuse Ray": null
+        },
+        "null": {
+            "Thunder": "09",
+            "Psychic": "11",
+            "Substitute": "20",
+            "Psyshock": "25",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Encore": "30",
+            "Shadow Ball": "33",
+            "Future Sight": "34",
+            "Trick": "38",
+            "Skill Swap": "40",
+            "Iron Defense": "46",
+            "Calm Mind": "49",
+            "Gyro Ball": "52",
+            "Energy Ball": "65",
+            "Zen Headbutt": "69",
+            "Flash Cannon": "70",
+            "Stored Power": "82",
+            "Ally Switch": "83"
+        },
+        "tm": {
+            "Thunder Wave": "14",
+            "Light Screen": "17",
+            "Reflect": "18",
+            "Safeguard": "19",
+            "Rest": "21",
+            "Rock Slide": "22",
+            "Snore": "24",
+            "Protect": "25",
+            "Charm": "29",
+            "Attract": "31",
+            "Rain Dance": "33",
+            "Facade": "39",
+            "Helping Hand": "41",
+            "Imprison": "44",
+            "Rock Tomb": "48",
+            "Power Swap": "60",
+            "Guard Swap": "61",
+            "Trick Room": "70",
+            "Wonder Room": "71",
+            "Round": "76",
+            "Psychic Terrain": "91"
+        }
+    },
+    "entries": {
+        "Solosis": [
+            "They drive away attackers by unleashing psychic power. They can use telepathy to talk with others.",
+            "Because their bodies are enveloped in a special liquid, they can survive in any environment.",
+            "Because their bodies are enveloped in a special liquid, they are fine in any environment, no matter how severe.",
+            "Because their bodies are enveloped in a special liquid, they are fine in any environment, no matter how severe.",
+            "They drive away attackers by unleashing psychic power. They can use telepathy to talk with others.",
+            "It communicates with others telepathically. Its body is encapsulated in liquid, but if it takes a heavy blow, the liquid will leak out.",
+            "Many say that the special liquid covering this Pok\u00e9mon\u2019s body would allow it to survive in the vacuum of space."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791099346817034/577.png",
+    "discord_sprite": "<:P577:1132138129718005861>"
+}

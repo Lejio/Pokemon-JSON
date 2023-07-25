@@ -1,0 +1,211 @@
+{
+    "alt-version(s)": [],
+    "name": "Tinkaton",
+    "Tinkaton": {
+        "pokedex_data": {
+            "National No.": "0959",
+            "Type": [
+                "Fairy",
+                "Steel"
+            ],
+            "Species": "Hammer Poke\u0301mon",
+            "Height": "0.7 m (2\u203204\u2032\u2032)",
+            "Weight": "112.8 kg (248.7 lbs)",
+            "Abilities": {
+                "Mold Breaker": {
+                    "href": "/ability/mold-breaker",
+                    "effect": "Moves can be used regardless of Abilities.",
+                    "hidden": false
+                },
+                "Own Tempo": {
+                    "href": "/ability/own-tempo",
+                    "effect": "Prevents the Pok\u00e9mon from becoming confused.",
+                    "hidden": false
+                },
+                "Pickpocket": {
+                    "href": "/ability/pickpocket",
+                    "effect": "Steals an item when hit by another Pok\u00e9mon.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Sp. Def",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "253",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "0% male,100% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "85",
+                "Min": "280",
+                "Max": "374"
+            },
+            "Attack": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Defense": {
+                "Base": "77",
+                "Min": "143",
+                "Max": "278"
+            },
+            "Sp. Atk": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Def": {
+                "Base": "105",
+                "Min": "193",
+                "Max": "339"
+            },
+            "Speed": {
+                "Base": "94",
+                "Min": "173",
+                "Max": "315"
+            },
+            "Total": "506"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Fire": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Poison": "no effect",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Dragon": "no effect",
+                "Dark": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Tinkatink",
+                    "nationalNo": "#0957",
+                    "type": [
+                        "Fairy",
+                        "Steel"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Tinkatuff",
+                    "nationalNo": "#0958",
+                    "type": [
+                        "Fairy",
+                        "Steel"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 24)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Tinkatuff",
+                    "nationalNo": "#0958",
+                    "type": [
+                        "Fairy",
+                        "Steel"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Tinkaton",
+                    "nationalNo": "#0959",
+                    "type": [
+                        "Fairy",
+                        "Steel"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 38)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Astonish": "1",
+            "Fairy Wind": "1",
+            "Baby-Doll Eyes": "5",
+            "Metal Claw": "8",
+            "Covet": "11",
+            "Rock Smash": "14",
+            "Draining Kiss": "17",
+            "Sweet Kiss": "21",
+            "Brutal Swing": "24",
+            "Slam": "27",
+            "Flash Cannon": "31",
+            "Play Rough": "35",
+            "Fake Out": "39",
+            "Flatter": "43",
+            "Skitter Smack": "47",
+            "Knock Off": "52"
+        },
+        "evolution": {
+            "Gigaton Hammer": "160"
+        },
+        "egg": {
+            "Feint": null,
+            "Ice Hammer": null,
+            "Quash": null
+        },
+        "tm": {
+            "Fake Tears": "03",
+            "Protect": "07",
+            "Thief": "18",
+            "Pounce": "21",
+            "Facade": "25",
+            "Bulldoze": "28",
+            "Metal Claw": "31",
+            "Rock Tomb": "36",
+            "Draining Kiss": "37",
+            "Fling": "43",
+            "Endure": "47",
+            "Brick Break": "58",
+            "Foul Play": "62",
+            "Sleep Talk": "70",
+            "Reflect": "74",
+            "Light Screen": "75",
+            "Metronome": "80",
+            "Thunder Wave": "82",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Swords Dance": "88",
+            "Flash Cannon": "93",
+            "Skill Swap": "98",
+            "Substitute": "103",
+            "Stealth Rock": "116",
+            "Heavy Slam": "121",
+            "Encore": "122",
+            "Play Rough": "127",
+            "Helping Hand": "130",
+            "Stone Edge": "150",
+            "Steel Beam": "170",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Tinkaton": [
+            "This intelligent Pok\u00e9mon has a very daring disposition. It knocks rocks into the sky with its hammer, aiming for flying Corviknight.",
+            "The hammer tops 220 pounds, yet it gets swung around easily by Tinkaton as it steals whatever it pleases and carries its plunder back home."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131794081048186950/959.png",
+    "discord_sprite": "<:P959:1132154988903280710>"
+}

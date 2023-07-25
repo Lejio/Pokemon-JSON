@@ -1,0 +1,158 @@
+{
+    "alt-version(s)": [],
+    "name": "Cramorant",
+    "Cramorant": {
+        "pokedex_data": {
+            "National No.": "0845",
+            "Type": [
+                "Flying",
+                "Water"
+            ],
+            "Species": "Gulp Poke\u0301mon",
+            "Height": "0.8 m (2\u203207\u2032\u2032)",
+            "Weight": "18.0 kg (39.7 lbs)",
+            "Abilities": {
+                "Gulp Missile": {
+                    "href": "/ability/gulp-missile",
+                    "effect": "Returns with a catch in its mouth after using Surf or Dive.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Sp. Def",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "166",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "70",
+                "Min": "250",
+                "Max": "344"
+            },
+            "Attack": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Defense": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Sp. Atk": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Sp. Def": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Speed": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Total": "475"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Fighting": "not very effective",
+                "Ground": "no effect",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Belch": "1",
+            "Peck": "1",
+            "Spit Up": "1",
+            "Stockpile": "1",
+            "Swallow": "1",
+            "Water Gun": "7",
+            "Fury Attack": "14",
+            "Pluck": "21",
+            "Dive": "28",
+            "Drill Peck": "35",
+            "Amnesia": "42",
+            "Thrash": "49",
+            "Hydro Pump": "56"
+        },
+        "egg": {
+            "Aerial Ace": null,
+            "Aqua Ring": null,
+            "Defog": null,
+            "Feather Dance": null,
+            "Roost": null
+        },
+        "null": {
+            "Hydro Pump": "03",
+            "Surf": "04",
+            "Ice Beam": "05",
+            "Blizzard": "06",
+            "Agility": "12",
+            "Amnesia": "17",
+            "Substitute": "20",
+            "Reversal": "21",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Uproar": "35",
+            "Superpower": "39",
+            "Brave Bird": "66",
+            "Scald": "84",
+            "Hurricane": "89",
+            "Throat Chop": "95",
+            "Liquidation": "98"
+        },
+        "tm": {
+            "Fly": "06",
+            "Hyper Beam": "08",
+            "Giga Impact": "09",
+            "Rest": "21",
+            "Thief": "23",
+            "Snore": "24",
+            "Protect": "25",
+            "Icy Wind": "27",
+            "Steel Wing": "30",
+            "Attract": "31",
+            "Rain Dance": "33",
+            "Whirlpool": "36",
+            "Facade": "39",
+            "Dive": "45",
+            "Weather Ball": "46",
+            "Assurance": "58",
+            "Round": "76",
+            "Air Slash": "95"
+        }
+    },
+    "entries": {
+        "Cramorant": [
+            "It\u2019s so strong that it can knock out some opponents in a single hit, but it also may forget what it\u2019s battling midfight.",
+            "This hungry Pok\u00e9mon swallows Arrokuda whole. Occasionally, it makes a mistake and tries to swallow a Pok\u00e9mon other than its preferred prey."
+        ],
+        "Gorging Form": [
+            "This Cramorant has accidentally gotten a Pikachu lodged in its gullet. Cramorant is choking a little, but it isn\u2019t really bothered.",
+            "The half-swallowed Pikachu is so startled that it isn\u2019t struggling yet, but it\u2019s still looking for a chance to strike back."
+        ],
+        "Gulping Form": [
+            "Cramorant\u2019s gluttony led it to try to swallow an Arrokuda whole, which in turn led to Cramorant getting an Arrokuda stuck in its throat.",
+            "The slightest shock is sometimes enough to get this Pok\u00e9mon to spit out the Arrokuda lodged in its throat."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793190421274664/845.png",
+    "discord_sprite": "<:P845:1132149976789696512>"
+}

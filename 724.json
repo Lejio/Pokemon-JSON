@@ -1,0 +1,383 @@
+{
+    "alt-version(s)": [
+        "Hisuian Decidueye"
+    ],
+    "name": "Decidueye",
+    "Decidueye": {
+        "pokedex_data": {
+            "National No.": "0724",
+            "Type": [
+                "Grass",
+                "Ghost"
+            ],
+            "Species": "Arrow Quill Poke\u0301mon",
+            "Height": "1.6 m (5\u203203\u2032\u2032)",
+            "Weight": "36.6 kg (80.7 lbs)",
+            "Abilities": {
+                "Overgrow": {
+                    "href": "/ability/overgrow",
+                    "effect": "Powers up Grass-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Long Reach": {
+                    "href": "/ability/long-reach",
+                    "effect": "The Pok\u00e9mon uses its moves without making contact with the target.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Attack",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "265",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "78",
+                "Min": "266",
+                "Max": "360"
+            },
+            "Attack": {
+                "Base": "107",
+                "Min": "197",
+                "Max": "344"
+            },
+            "Defense": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Sp. Atk": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Sp. Def": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Speed": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Total": "530"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "no effect",
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "no effect",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective"
+            }
+        }
+    },
+    "Hisuian Decidueye": {
+        "pokedex_data": {
+            "National No.": "0724",
+            "Type": [
+                "Grass",
+                "Fighting"
+            ],
+            "Species": "Arrow Quill Poke\u0301mon",
+            "Height": "1.6 m (5\u203203\u2032\u2032)",
+            "Weight": "37.0 kg (81.6 lbs)",
+            "Abilities": {
+                "Overgrow": {
+                    "href": "/ability/overgrow",
+                    "effect": "Powers up Grass-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Scrappy": {
+                    "href": "/ability/scrappy",
+                    "effect": "Enables moves to hit Ghost-type Pok\u00e9mon.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Attack",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "265",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "88",
+                "Min": "286",
+                "Max": "380"
+            },
+            "Attack": {
+                "Base": "112",
+                "Min": "206",
+                "Max": "355"
+            },
+            "Defense": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Sp. Atk": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Sp. Def": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Speed": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Total": "530"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Poison": "super-effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Psychic": "super-effective",
+                "Rock": "not very effective",
+                "Dark": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Rowlet",
+                    "nationalNo": "#0722",
+                    "type": [
+                        "Grass",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Dartrix",
+                    "nationalNo": "#0723",
+                    "type": [
+                        "Grass",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 17)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Dartrix",
+                    "nationalNo": "#0723",
+                    "type": [
+                        "Grass",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Decidueye",
+                    "nationalNo": "#0724",
+                    "type": [
+                        "Grass",
+                        "Ghost"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 34)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Dartrix",
+                    "nationalNo": "#0723",
+                    "type": [
+                        "Grass",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Decidueye",
+                    "nationalNo": "#0724",
+                    "type": [
+                        "Grass",
+                        "Fighting"
+                    ],
+                    "nickname": "Hisuian Decidueye"
+                },
+                "requirement": "(Level 36, in Legends: Arceus)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Confuse Ray": "\u2014",
+            "Defog": "\u2014",
+            "Double Team": "\u2014",
+            "Knock Off": "65",
+            "Roost": "\u2014"
+        },
+        "evolution": {
+            "Confuse Ray": "\u2014",
+            "Defog": "\u2014",
+            "Double Team": "\u2014",
+            "Knock Off": "65",
+            "Roost": "\u2014"
+        },
+        "egg": {
+            "Confuse Ray": null,
+            "Defog": null,
+            "Double Team": null,
+            "Knock Off": null,
+            "Roost": null
+        },
+        "Decidueye": {
+            "tm": {
+                "Take Down": "01",
+                "Protect": "07",
+                "Low Kick": "12",
+                "Acrobatics": "14",
+                "Confuse Ray": "17",
+                "Trailblaze": "20",
+                "Facade": "25",
+                "Aerial Ace": "27",
+                "Hex": "29",
+                "Swift": "32",
+                "Magical Leaf": "33",
+                "Low Sweep": "39",
+                "Air Cutter": "40",
+                "Night Shade": "42",
+                "Endure": "47",
+                "Sunny Day": "49",
+                "Rain Dance": "50",
+                "Bullet Seed": "56",
+                "False Swipe": "57",
+                "U-turn": "60",
+                "Shadow Claw": "61",
+                "Air Slash": "65",
+                "Sleep Talk": "70",
+                "Seed Bomb": "71",
+                "Light Screen": "75",
+                "Grass Knot": "81",
+                "Rest": "85",
+                "Swords Dance": "88",
+                "Imprison": "92",
+                "Substitute": "103",
+                "Giga Drain": "111",
+                "Tailwind": "113",
+                "Shadow Ball": "114",
+                "Energy Ball": "119",
+                "Helping Hand": "130",
+                "Baton Pass": "132",
+                "Grassy Terrain": "137",
+                "Nasty Plot": "140",
+                "Grass Pledge": "146",
+                "Phantom Force": "151",
+                "Giga Impact": "152",
+                "Frenzy Plant": "155",
+                "Leaf Storm": "159",
+                "Hurricane": "160",
+                "Hyper Beam": "163",
+                "Brave Bird": "164",
+                "Solar Beam": "168",
+                "Tera Blast": "171"
+            }
+        },
+        "Hisuian Decidueye": {
+            "tm": {
+                "Take Down": "01",
+                "Scary Face": "06",
+                "Protect": "07",
+                "Low Kick": "12",
+                "Trailblaze": "20",
+                "Facade": "25",
+                "Aerial Ace": "27",
+                "Swift": "32",
+                "Magical Leaf": "33",
+                "Rock Tomb": "36",
+                "Low Sweep": "39",
+                "Air Cutter": "40",
+                "Endure": "47",
+                "Sunny Day": "49",
+                "Rain Dance": "50",
+                "Bullet Seed": "56",
+                "False Swipe": "57",
+                "Brick Break": "58",
+                "U-turn": "60",
+                "Shadow Claw": "61",
+                "Bulk Up": "64",
+                "Air Slash": "65",
+                "Sleep Talk": "70",
+                "Seed Bomb": "71",
+                "Grass Knot": "81",
+                "Rest": "85",
+                "Taunt": "87",
+                "Swords Dance": "88",
+                "Substitute": "103",
+                "Giga Drain": "111",
+                "Aura Sphere": "112",
+                "Tailwind": "113",
+                "Energy Ball": "119",
+                "Helping Hand": "130",
+                "Baton Pass": "132",
+                "Reversal": "134",
+                "Grassy Terrain": "137",
+                "Nasty Plot": "140",
+                "Grass Pledge": "146",
+                "Giga Impact": "152",
+                "Frenzy Plant": "155",
+                "Focus Blast": "158",
+                "Leaf Storm": "159",
+                "Hyper Beam": "163",
+                "Brave Bird": "164",
+                "Close Combat": "167",
+                "Solar Beam": "168",
+                "Tera Blast": "171"
+            }
+        }
+    },
+    "entries": {
+        "Decidueye": [
+            "It fires arrow quills from its wings with such precision, they can pierce a pebble at distances over a hundred yards.",
+            "Although basically cool and cautious, when it\u2019s caught by surprise, it\u2019s seized by panic.",
+            "It nocks its arrow quills and shoots them at opponents. When it simply can\u2019t afford to miss, it tugs the vine on its head to improve its focus.",
+            "Decidueye can nock and fire an arrow at an enemy in a tenth of a second, so its battles are decided in the blink of an eye.",
+            "As if wielding a bow, it launches the arrow quills hidden among the feathers of its wings. Decidueye\u2019s shots never miss.",
+            "In a tenth of a second, it can nock and fire an arrow quill, piercing an opponent\u2019s weak point before they notice what\u2019s happening."
+        ],
+        "Hisuian Decidueye": [
+            "The air stored inside the rachises of Decidueye\u2019s feathers insulates the Pok\u00e9mon against Hisui\u2019s extreme cold. This is firm proof that evolution can be influenced by environment."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792253493465108/724.png",
+    "discord_sprite": "<:P724:1132144591949267066>"
+}

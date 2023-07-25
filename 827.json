@@ -1,0 +1,167 @@
+{
+    "alt-version(s)": [],
+    "name": "Nickit",
+    "Nickit": {
+        "pokedex_data": {
+            "National No.": "0827",
+            "Type": [
+                "Dark"
+            ],
+            "Species": "Fox Poke\u0301mon",
+            "Height": "0.6 m (2\u203200\u2032\u2032)",
+            "Weight": "8.9 kg (19.6 lbs)",
+            "Abilities": {
+                "Run Away": {
+                    "href": "/ability/run-away",
+                    "effect": "Enables a sure getaway from wild Pok\u00e9mon.",
+                    "hidden": false
+                },
+                "Unburden": {
+                    "href": "/ability/unburden",
+                    "effect": "Raises Speed if a held item is used.",
+                    "hidden": false
+                },
+                "Stakeout": {
+                    "href": "/ability/stakeout",
+                    "effect": "Deals double damage to Pok\u00e9mon switching in.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Sp. Def",
+            "Catch rate": "255",
+            "BaseFriendship": "50",
+            "Base Exp.": "49",
+            "Growth Rate": "Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "40",
+                "Min": "190",
+                "Max": "284"
+            },
+            "Attack": {
+                "Base": "28",
+                "Min": "54",
+                "Max": "170"
+            },
+            "Defense": {
+                "Base": "28",
+                "Min": "54",
+                "Max": "170"
+            },
+            "Sp. Atk": {
+                "Base": "47",
+                "Min": "89",
+                "Max": "212"
+            },
+            "Sp. Def": {
+                "Base": "52",
+                "Min": "98",
+                "Max": "223"
+            },
+            "Speed": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Total": "245"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "super-effective",
+                "Psychic": "no effect",
+                "Bug": "super-effective",
+                "Ghost": "not very effective",
+                "Dark": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Nickit",
+                    "nationalNo": "#0827",
+                    "type": [
+                        "Dark"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Thievul",
+                    "nationalNo": "#0828",
+                    "type": [
+                        "Dark"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 18)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Quick Attack": "1",
+            "Tail Whip": "1",
+            "Beat Up": "4",
+            "Hone Claws": "8",
+            "Snarl": "12",
+            "Assurance": "16",
+            "Nasty Plot": "20",
+            "Sucker Punch": "24",
+            "Night Slash": "28",
+            "Tail Slap": "32",
+            "Foul Play": "36"
+        },
+        "egg": {
+            "Howl": null,
+            "Knock Off": null,
+            "Quick Guard": null,
+            "Torment": null
+        },
+        "null": {
+            "Agility": "12",
+            "Substitute": "20",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Baton Pass": "29",
+            "Taunt": "37",
+            "Nasty Plot": "68",
+            "Foul Play": "81",
+            "Play Rough": "90"
+        },
+        "tm": {
+            "Dig": "15",
+            "Screech": "16",
+            "Rest": "21",
+            "Thief": "23",
+            "Snore": "24",
+            "Protect": "25",
+            "Attract": "31",
+            "Beat Up": "37",
+            "Facade": "39",
+            "Swift": "40",
+            "Fake Tears": "47",
+            "Mud Shot": "53",
+            "Assurance": "58",
+            "Round": "76",
+            "Tail Slap": "84",
+            "Snarl": "85"
+        }
+    },
+    "entries": {
+        "Nickit": [
+            "Aided by the soft pads on its feet, it silently raids the food stores of other Pok\u00e9mon. It survives off its ill-gotten gains.",
+            "Cunning and cautious, this Pok\u00e9mon survives by stealing food from others. It erases its tracks with swipes of its tail as it makes off with its plunder."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793052374143106/827.png",
+    "discord_sprite": "<:P827:1132149189233619005>"
+}

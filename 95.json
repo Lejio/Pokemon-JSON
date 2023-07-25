@@ -1,0 +1,216 @@
+{
+    "alt-version(s)": [],
+    "name": "Onix",
+    "Onix": {
+        "pokedex_data": {
+            "National No.": "0095",
+            "Type": [
+                "Rock",
+                "Ground"
+            ],
+            "Species": "Rock Snake Poke\u0301mon",
+            "Height": "8.8 m (28\u203210\u2032\u2032)",
+            "Weight": "210.0 kg (463.0 lbs)",
+            "Abilities": {
+                "Rock Head": {
+                    "href": "/ability/rock-head",
+                    "effect": "Protects the Pok\u00e9mon from recoil damage.",
+                    "hidden": false
+                },
+                "Sturdy": {
+                    "href": "/ability/sturdy",
+                    "effect": "It cannot be knocked out with one hit.",
+                    "hidden": false
+                },
+                "Weak Armor": {
+                    "href": "/ability/weak-armor",
+                    "effect": "Physical attacks lower Defense and raise Speed.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Defense",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "77",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "35",
+                "Min": "180",
+                "Max": "274"
+            },
+            "Attack": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Defense": {
+                "Base": "160",
+                "Min": "292",
+                "Max": "460"
+            },
+            "Sp. Atk": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Sp. Def": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Speed": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Total": "385"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Electric": "no effect",
+                "Grass": "super-effective",
+                "Ice": "super-effective",
+                "Fighting": "super-effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Rock": "not very effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Onix",
+                    "nationalNo": "#0095",
+                    "type": [
+                        "Rock",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Steelix",
+                    "nationalNo": "#0208",
+                    "type": [
+                        "Steel",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(trade holding Metal Coat)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Bind": "1",
+            "Harden": "1",
+            "Rock Throw": "1",
+            "Tackle": "1",
+            "Smack Down": "4",
+            "Rock Polish": "8",
+            "Dragon Breath": "12",
+            "Curse": "16",
+            "Rock Slide": "20",
+            "Screech": "24",
+            "Sand Tomb": "28",
+            "Stealth Rock": "32",
+            "Slam": "36",
+            "Sandstorm": "40",
+            "Dig": "44",
+            "Iron Tail": "48",
+            "Stone Edge": "52",
+            "Double-Edge": "56"
+        },
+        "egg": {
+            "Block": null,
+            "Defense Curl": null,
+            "Dragon Tail": null,
+            "Flail": null,
+            "Head Smash": null,
+            "Heavy Slam": null,
+            "Rock Blast": null,
+            "Rollout": null,
+            "Wide Guard": null
+        },
+        "tm": {
+            "Roar": "05",
+            "Sunny Day": "11",
+            "Taunt": "12",
+            "Protect": "17",
+            "Iron Tail": "23",
+            "Earthquake": "26",
+            "Dig": "28",
+            "Double Team": "32",
+            "Sandstorm": "37",
+            "Rock Tomb": "39",
+            "Torment": "41",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Endure": "58",
+            "Dragon Pulse": "59",
+            "Explosion": "64",
+            "Payback": "66",
+            "Rock Polish": "69",
+            "Stone Edge": "71",
+            "Gyro Ball": "74",
+            "Stealth Rock": "76",
+            "Psych Up": "77",
+            "Rock Slide": "80",
+            "Sleep Talk": "82",
+            "Bulldoze": "83",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Flash Cannon": "91",
+            "Strength": "96",
+            "Rock Smash": "98",
+            "Rock Climb": "100"
+        }
+    },
+    "entries": {
+        "Onix": [
+            "As it grows, the stone portions of its body harden to become similar to a diamond, but colored black.",
+            "Burrows at high speed in search of food. The tunnels it leaves are used as homes by DIGLETTs.",
+            "It twists and squirms through the ground. The thunderous roar of its tunneling echoes a long way.",
+            "It rapidly bores through the ground at 50 mph by squirming and twisting its massive, rugged body.",
+            "As it digs through the ground, it absorbs many hard objects. This is what makes its body so solid.",
+            "ONIX has a magnet in its brain. It acts as a compass so that this pok\u00e9mon does not lose direction while it is tunneling. As it grows older, its body becomes increasingly rounder and smoother.",
+            "It usually lives underground. It searches for food while boring its way through the ground at 50 miles per hour.",
+            "As it grows, the stone portions of its body harden to become similar to black-colored diamonds.",
+            "There is a magnet in its brain that prevents an ONIX from losing direction while tunneling. As it grows older, its body becomes steadily rounder and smoother.",
+            "When it travels underground, it causes rumbling and tremors. It can move at 50 mph.",
+            "It squirms through the ground using its long and rugged body. It always eats while burrowing.",
+            "It burrows through the ground at a speed of 50 mph while feeding on large boulders.",
+            "It twists and squirms through the ground. The thunderous roar of its tunneling echoes a long way.",
+            "It rapidly bores through the ground at 50 mph by squirming and twisting its massive, rugged body.",
+            "It burrows through the ground at a speed of 50 mph while feeding on large boulders.",
+            "Opening its large mouth, it ingests massive amounts of soil and creates long tunnels.",
+            "Burrows at high speed in search of food. The tunnels it leaves are used as homes by Diglett.",
+            "It usually lives underground. It searches for food while boring its way through the ground at 50 miles per hour.",
+            "Onix has a magnet in its brain. It acts as a compass so that this Pok\u00e9mon does not lose direction while it is tunneling. As it grows older, its body becomes increasingly rounder and smoother.",
+            "Burrows at high speed in search of food. The tunnels it leaves are used as homes by Diglett.",
+            "As it digs through the ground, it absorbs many hard objects. This is what makes its body so solid.",
+            "It rapidly bores through the ground at 50 mph by squirming and twisting its massive, rugged body.",
+            "When it travels underground, it causes rumbling and tremors. It can move at 50 mph.",
+            "It squirms through the ground using its long and rugged body. It always eats while burrowing.",
+            "This chain of immense stones resembles a giant serpent. Tremors shake the earth above as it burrows deep beneath the ground, feeding on boulders as it goes."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787333163823184/95.png",
+    "discord_sprite": "<:P95:1132116903146561566>"
+}

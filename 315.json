@@ -1,0 +1,227 @@
+{
+    "alt-version(s)": [],
+    "name": "Roselia",
+    "Roselia": {
+        "pokedex_data": {
+            "National No.": "0315",
+            "Type": [
+                "Grass",
+                "Poison"
+            ],
+            "Species": "Thorn Poke\u0301mon",
+            "Height": "0.3 m (1\u203200\u2032\u2032)",
+            "Weight": "2.0 kg (4.4 lbs)",
+            "Abilities": {
+                "Natural Cure": {
+                    "href": "/ability/natural-cure",
+                    "effect": "All status problems heal when it switches out.",
+                    "hidden": false
+                },
+                "Poison Point": {
+                    "href": "/ability/poison-point",
+                    "effect": "Contact with the Pok\u00e9mon may poison the attacker.",
+                    "hidden": false
+                },
+                "Leaf Guard": {
+                    "href": "/ability/leaf-guard",
+                    "effect": "Prevents problems with status in sunny weather.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Sp. Atk",
+            "Catch rate": "150",
+            "BaseFriendship": "50",
+            "Base Exp.": "140",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "50",
+                "Min": "210",
+                "Max": "304"
+            },
+            "Attack": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Defense": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Sp. Atk": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Sp. Def": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Speed": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Total": "400"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Flying": "super-effective",
+                "Psychic": "super-effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Budew",
+                    "nationalNo": "#0406",
+                    "type": [
+                        "Grass",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Roselia",
+                    "nationalNo": "#0315",
+                    "type": [
+                        "Grass",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(high Friendship, Daytime)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Roselia",
+                    "nationalNo": "#0315",
+                    "type": [
+                        "Grass",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Roserade",
+                    "nationalNo": "#0407",
+                    "type": [
+                        "Grass",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Shiny Stone)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Absorb": "1",
+            "Growth": "1",
+            "Poison Sting": "1",
+            "Stun Spore": "1",
+            "Worry Seed": "1",
+            "Mega Drain": "5",
+            "Leech Seed": "10",
+            "Magical Leaf": "15",
+            "Toxic Spikes": "20",
+            "Sweet Scent": "25",
+            "Giga Drain": "30",
+            "Synthesis": "35",
+            "Toxic": "40",
+            "Petal Blizzard": "45",
+            "Aromatherapy": "50",
+            "Ingrain": "55",
+            "Petal Dance": "60"
+        },
+        "evolution": {
+            "Poison Sting": "15"
+        },
+        "egg": {
+            "Cotton Spore": null,
+            "Extrasensory": null,
+            "Leaf Storm": null,
+            "Life Dew": null,
+            "Mind Reader": null,
+            "Pin Missile": null,
+            "Power Whip": null,
+            "Razor Leaf": null,
+            "Seed Bomb": null,
+            "Sleep Powder": null,
+            "Spikes": null,
+            "Synthesis": null
+        },
+        "tm": {
+            "Toxic": "06",
+            "Bullet Seed": "09",
+            "Sunny Day": "11",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Giga Drain": "19",
+            "Dazzling Gleam": "21",
+            "Solar Beam": "22",
+            "Shadow Ball": "30",
+            "Double Team": "32",
+            "Sludge Bomb": "36",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Energy Ball": "53",
+            "Endure": "58",
+            "Flash": "70",
+            "Swords Dance": "75",
+            "Psych Up": "77",
+            "Sleep Talk": "82",
+            "Poison Jab": "84",
+            "Grass Knot": "86",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Cut": "93"
+        }
+    },
+    "entries": {
+        "Roselia": [
+            "ROSELIA shoots sharp thorns as projectiles at any opponent that tries to steal the flowers on its arms. The aroma of this pok\u00e9mon brings serenity to living things.",
+            "On extremely rare occasions, a ROSELIA is said to appear with its flowers in unusual colors. The thorns on this pok\u00e9mon\u2019s head contain a vicious poison.",
+            "Its flowers give off a relaxing fragrance. The stronger its aroma, the healthier the ROSELIA is.",
+            "A ROSELIA that drinks nutritionally rich springwater blooms with lovely flowers. The fragrance of its flowers has the effect of making its foes careless.",
+            "ROSELIA raised on clean drinking water are known to grow vividly colored flowers.",
+            "The beautiful flowers on its arms have toxic thorns. Don\u2019t even think about picking those flowers.",
+            "The more healthy the ROSELIA, the more pleasant its flowers\u2019 aroma. Its scent deeply relaxes people.",
+            "ROSELIA that drink nutritionally rich springwater are said to reveal rare coloration when they bloom.",
+            "The more healthy the Roselia, the more pleasant its flowers\u2019 aroma. Its scent deeply relaxes people.",
+            "It uses the different poisons in each hand separately when it attacks. The stronger its aroma, the healthier it is.",
+            "It uses the different poisons in each hand separately when it attacks. The stronger its aroma, the healthier it is.",
+            "Roselia that drink nutritionally rich springwater are said to reveal rare coloration when they bloom.",
+            "Roselia shoots sharp thorns as projectiles at any opponent that tries to steal the flowers on its arms. The aroma of this Pok\u00e9mon brings serenity to living things.",
+            "On extremely rare occasions, a Roselia is said to appear with its flowers in unusual colors. The thorns on this Pok\u00e9mon\u2019s head contain a vicious poison.",
+            "Its flowers give off a relaxing fragrance. The stronger its aroma, the healthier the Roselia is.",
+            "It uses the different poisons in each hand separately when it attacks. The stronger its aroma, the healthier it is.",
+            "Roselia raised on clean drinking water are known to grow vividly colored flowers.",
+            "The beautiful flowers on its arms have toxic thorns. Don\u2019t even think about picking those flowers.",
+            "Though beautiful, it has highly poisonous thorns. There is an old tradition in my homeland wherein one would send these thorns to an opponent to challenge them to a duel."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789063469400084/315.png",
+    "discord_sprite": "<:P315:1132126599039434812>"
+}

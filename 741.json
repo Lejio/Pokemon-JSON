@@ -1,0 +1,407 @@
+{
+    "alt-version(s)": [
+        "Baile Style",
+        "Pom-Pom Style",
+        "Pa'u Style",
+        "Sensu Style"
+    ],
+    "Baile Style": {
+        "pokedex_data": {
+            "National No.": "0741",
+            "Type": [
+                "Fire",
+                "Flying"
+            ],
+            "Species": "Dancing Poke\u0301mon",
+            "Height": "0.6 m (2\u203200\u2032\u2032)",
+            "Weight": "3.4 kg (7.5 lbs)",
+            "Abilities": {
+                "Dancer": {
+                    "href": "/ability/dancer",
+                    "effect": "Copies the foe's Dance moves.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Sp. Atk",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "167",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "25% male,75% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "75",
+                "Min": "260",
+                "Max": "354"
+            },
+            "Attack": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Defense": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Atk": {
+                "Base": "98",
+                "Min": "180",
+                "Max": "324"
+            },
+            "Sp. Def": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Speed": {
+                "Base": "93",
+                "Min": "171",
+                "Max": "313"
+            },
+            "Total": "476"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Electric": "super-effective",
+                "Grass": "not very effective",
+                "Fighting": "not very effective",
+                "Ground": "no effect",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "Pom-Pom Style": {
+        "pokedex_data": {
+            "National No.": "0741",
+            "Type": [
+                "Electric",
+                "Flying"
+            ],
+            "Species": "Dancing Poke\u0301mon",
+            "Height": "0.6 m (2\u203200\u2032\u2032)",
+            "Weight": "3.4 kg (7.5 lbs)",
+            "Abilities": {
+                "Dancer": {
+                    "href": "/ability/dancer",
+                    "effect": "Copies the foe's Dance moves.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Sp. Atk",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "167",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "25% male,75% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "75",
+                "Min": "260",
+                "Max": "354"
+            },
+            "Attack": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Defense": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Atk": {
+                "Base": "98",
+                "Min": "180",
+                "Max": "324"
+            },
+            "Sp. Def": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Speed": {
+                "Base": "93",
+                "Min": "171",
+                "Max": "313"
+            },
+            "Total": "476"
+        },
+        "defense_stats": {
+            "default": {
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Ground": "no effect",
+                "Flying": "not very effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "Pa'u Style": {
+        "pokedex_data": {
+            "National No.": "0741",
+            "Type": [
+                "Psychic",
+                "Flying"
+            ],
+            "Species": "Dancing Poke\u0301mon",
+            "Height": "0.6 m (2\u203200\u2032\u2032)",
+            "Weight": "3.4 kg (7.5 lbs)",
+            "Abilities": {
+                "Dancer": {
+                    "href": "/ability/dancer",
+                    "effect": "Copies the foe's Dance moves.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Sp. Atk",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "167",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "25% male,75% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "75",
+                "Min": "260",
+                "Max": "354"
+            },
+            "Attack": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Defense": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Atk": {
+                "Base": "98",
+                "Min": "180",
+                "Max": "324"
+            },
+            "Sp. Def": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Speed": {
+                "Base": "93",
+                "Min": "171",
+                "Max": "313"
+            },
+            "Total": "476"
+        },
+        "defense_stats": {
+            "default": {
+                "Electric": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Ground": "no effect",
+                "Psychic": "not very effective",
+                "Rock": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective"
+            }
+        }
+    },
+    "Sensu Style": {
+        "pokedex_data": {
+            "National No.": "0741",
+            "Type": [
+                "Ghost",
+                "Flying"
+            ],
+            "Species": "Dancing Poke\u0301mon",
+            "Height": "0.6 m (2\u203200\u2032\u2032)",
+            "Weight": "3.4 kg (7.5 lbs)",
+            "Abilities": {
+                "Dancer": {
+                    "href": "/ability/dancer",
+                    "effect": "Copies the foe's Dance moves.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Sp. Atk",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "167",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "25% male,75% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "75",
+                "Min": "260",
+                "Max": "354"
+            },
+            "Attack": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Defense": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Atk": {
+                "Base": "98",
+                "Min": "180",
+                "Max": "324"
+            },
+            "Sp. Def": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Speed": {
+                "Base": "93",
+                "Min": "171",
+                "Max": "313"
+            },
+            "Total": "476"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "no effect",
+                "Electric": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "no effect",
+                "Poison": "not very effective",
+                "Ground": "no effect",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Pound": "1",
+            "Growl": "4",
+            "Peck": "6",
+            "Helping Hand": "10",
+            "Air Cutter": "13",
+            "Baton Pass": "16",
+            "Feather Dance": "20",
+            "Acrobatics": "23",
+            "Teeter Dance": "26",
+            "Roost": "30",
+            "Flatter": "33",
+            "Air Slash": "36",
+            "Revelation Dance": "40",
+            "Agility": "43",
+            "Hurricane": "47"
+        },
+        "egg": {
+            "Attract": null,
+            "Defog": null,
+            "Pluck": null,
+            "Quiver Dance": null,
+            "Safeguard": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Charm": "02",
+            "Agility": "04",
+            "Protect": "07",
+            "Acrobatics": "14",
+            "Trailblaze": "20",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Swift": "32",
+            "Icy Wind": "34",
+            "Air Cutter": "40",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Sandstorm": "51",
+            "U-turn": "60",
+            "Air Slash": "65",
+            "Sleep Talk": "70",
+            "Rest": "85",
+            "Taunt": "87",
+            "Swords Dance": "88",
+            "Fly": "97",
+            "Substitute": "103",
+            "Tailwind": "113",
+            "Calm Mind": "129",
+            "Helping Hand": "130",
+            "Baton Pass": "132",
+            "Reversal": "134",
+            "Hurricane": "160",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Baile Style": [
+            "It beats its wings together to create fire. As it moves in the steps of its beautiful dance, it bathes opponents in intense flames.",
+            "This Oricorio has sipped red nectar. Its passionate dance moves cause its enemies to combust in both body and mind.",
+            "It wins the hearts of its enemies with its passionate dancing and then uses the opening it creates to burn them up with blazing flames.",
+            "This Oricorio has drunk red nectar. If its Trainer gives the wrong order, this passionate Pok\u00e9mon becomes fiercely angry.",
+            "This Pok\u00e9mon is incredibly popular, possibly because its passionate dancing is a great match with the temperament of Paldean people.",
+            "This form of Oricorio has sipped red nectar. It whips up blazing flames as it moves to the steps of its passionate dance."
+        ],
+        "Pa\u2019u Style": [
+            "The airy dance of these Oricorio is popular as a means of maintaining good health, but the Oricorio themselves are hard to find in Paldea.",
+            "This form of Oricorio has sipped pink nectar. It elevates its mind with the gentle steps of its dance, then unleashes its psychic energy."
+        ],
+        "Pom-Pom Style": [
+            "This Oricorio has sipped bright yellow nectar. Its bright, cheerful dance melts the hearts of its enemies.",
+            "It creates an electric charge by rubbing its feathers together. It dances over to its enemies and delivers shocking electrical punches.",
+            "It lifts its opponents\u2019 spirits with its cheerful dance moves. When they let their guard down, it electrocutes them with a jolt.",
+            "This Oricorio has drunk bright yellow nectar. When it sees someone looking glum, it will try to cheer them up with a dance.",
+            "This form of Oricorio has sipped yellow nectar. It uses nimble steps to approach opponents, then knocks them out with electric punches.",
+            "The energetic, cheerful dance of these Oricorio is popular with children, but the Oricorio themselves are hard to find in Paldea."
+        ],
+        "Pa'u Style": [
+            "This Oricorio relaxes by swaying gently. This increases its psychic energy, which it then fires at its enemies.",
+            "This Oricorio has sipped pink nectar. Its enemies\u2019 hearts melt at the sight of its gently swaying hips.",
+            "It relaxes its opponents with its elegant dancing. When they let their guard down, it showers them with psychic energy.",
+            "This Oricorio has sipped pink nectar. It gets so caught up in its dancing that it sometimes doesn\u2019t hear its Trainer\u2019s orders."
+        ],
+        "Sensu Style": [
+            "This Oricorio has sipped purple nectar. Its elegant, attractive dance will send the minds and hearts of its enemies to another world.",
+            "It summons the dead with its dreamy dancing. From their malice, it draws power with which to curse its enemies.",
+            "It charms its opponents with its refined dancing. When they let their guard down, it places a curse on them that will bring on their demise.",
+            "This Oricorio has sipped purple nectar. Some dancers use its graceful, elegant dancing as inspiration.",
+            "This form of Oricorio has sipped purple nectar. It uses ethereal dance steps to call forth the spirits of the dead.",
+            "The elegant, attractive dance of these Oricorio is popular with adults, but the Oricorio themselves are hard to find in Paldea."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792384498339912/741.png",
+    "discord_sprite": "<:P741:1132145338636046428>"
+}

@@ -1,0 +1,147 @@
+{
+    "alt-version(s)": [],
+    "name": "Furfrou",
+    "Furfrou": {
+        "pokedex_data": {
+            "National No.": "0676",
+            "Type": [
+                "Normal"
+            ],
+            "Species": "Poodle Poke\u0301mon",
+            "Height": "1.2 m (3\u203211\u2032\u2032)",
+            "Weight": "28.0 kg (61.7 lbs)",
+            "Abilities": {
+                "Fur Coat": {
+                    "href": "/ability/fur-coat",
+                    "effect": "Reduces damage from physical moves.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Speed",
+            "Catch rate": "160",
+            "BaseFriendship": "50",
+            "Base Exp.": "165",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "75",
+                "Min": "260",
+                "Max": "354"
+            },
+            "Attack": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Defense": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Atk": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Def": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Speed": {
+                "Base": "102",
+                "Min": "188",
+                "Max": "333"
+            },
+            "Total": "472"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Growl": "1",
+            "Tackle": "1",
+            "Sand Attack": "5",
+            "Baby-Doll Eyes": "9",
+            "Headbutt": "12",
+            "Tail Whip": "15",
+            "Bite": "22",
+            "Odor Sleuth": "27",
+            "Retaliate": "33",
+            "Take Down": "35",
+            "Charm": "38",
+            "Sucker Punch": "42",
+            "Cotton Guard": "48"
+        },
+        "egg": {
+            "Captivate": null,
+            "Mimic": null,
+            "Refresh": null,
+            "Role Play": null,
+            "Work Up": null
+        },
+        "null": {
+            "Endeavor": "\u2014",
+            "Helping Hand": "\u2014",
+            "Hyper Voice": "90",
+            "Iron Tail": "100",
+            "Last Resort": "140",
+            "Role Play": "\u2014",
+            "Snore": "50",
+            "Uproar": "90",
+            "Zen Headbutt": "80"
+        },
+        "tm": {
+            "Work Up": "01",
+            "Roar": "05",
+            "Toxic": "06",
+            "Hidden Power": "10",
+            "Sunny Day": "11",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Frustration": "21",
+            "Return": "27",
+            "Double Team": "32",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Round": "48",
+            "Echoed Voice": "49",
+            "Charge Beam": "57",
+            "Giga Impact": "68",
+            "Thunder Wave": "73",
+            "Grass Knot": "86",
+            "Swagger": "87",
+            "Sleep Talk": "88",
+            "U-turn": "89",
+            "Substitute": "90",
+            "Wild Charge": "93",
+            "Surf": "94",
+            "Snarl": "95",
+            "Dark Pulse": "97",
+            "Confide": "100"
+        }
+    },
+    "entries": {
+        "Furfrou": [
+            "Trimming its fluffy fur not only makes it more elegant but also increases the swiftness of its movements.",
+            "Historically, in the Kalos region, these Pok\u00e9mon were the designated guardians of the king.",
+            "There was an era when aristocrats would compete to see who could trim their Furfrou\u2019s fur into the most exquisite style.",
+            "Left alone, its fur will grow longer and longer, but it will only allow someone it trusts to cut it."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791872688398496/676.png",
+    "discord_sprite": "<:P676:1132142488224804975>"
+}

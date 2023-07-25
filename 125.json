@@ -1,0 +1,215 @@
+{
+    "alt-version(s)": [],
+    "name": "Electabuzz",
+    "Electabuzz": {
+        "pokedex_data": {
+            "National No.": "0125",
+            "Type": [
+                "Electric"
+            ],
+            "Species": "Electric Poke\u0301mon",
+            "Height": "1.1 m (3\u203207\u2032\u2032)",
+            "Weight": "30.0 kg (66.1 lbs)",
+            "Abilities": {
+                "Static": {
+                    "href": "/ability/static",
+                    "effect": "Contact with the Pok\u00e9mon may cause paralysis.",
+                    "hidden": false
+                },
+                "Vital Spirit": {
+                    "href": "/ability/vital-spirit",
+                    "effect": "Prevents the Pok\u00e9mon from falling asleep.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Speed",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "172",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "75% male,25% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "65",
+                "Min": "240",
+                "Max": "334"
+            },
+            "Attack": {
+                "Base": "83",
+                "Min": "153",
+                "Max": "291"
+            },
+            "Defense": {
+                "Base": "57",
+                "Min": "107",
+                "Max": "234"
+            },
+            "Sp. Atk": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Sp. Def": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Speed": {
+                "Base": "105",
+                "Min": "193",
+                "Max": "339"
+            },
+            "Total": "490"
+        },
+        "defense_stats": {
+            "default": {
+                "Electric": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Elekid",
+                    "nationalNo": "#0239",
+                    "type": [
+                        "Electric"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Electabuzz",
+                    "nationalNo": "#0125",
+                    "type": [
+                        "Electric"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 30)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Electabuzz",
+                    "nationalNo": "#0125",
+                    "type": [
+                        "Electric"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Electivire",
+                    "nationalNo": "#0466",
+                    "type": [
+                        "Electric"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(trade holding Electirizer)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Charge": "1",
+            "Leer": "1",
+            "Quick Attack": "1",
+            "Thunder Shock": "1",
+            "Swift": "12",
+            "Shock Wave": "16",
+            "Thunder Wave": "20",
+            "Screech": "24",
+            "Thunder Punch": "28",
+            "Discharge": "34",
+            "Low Kick": "40",
+            "Thunderbolt": "46",
+            "Light Screen": "52",
+            "Thunder": "58",
+            "Giga Impact": "64"
+        },
+        "egg": {
+            "Cross Chop": null,
+            "Dynamic Punch": null,
+            "Feint": null,
+            "Fire Punch": null,
+            "Hammer Arm": null,
+            "Ice Punch": null
+        },
+        "tm": {
+            "Focus Punch": "01",
+            "Hyper Beam": "15",
+            "Light Screen": "16",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Iron Tail": "23",
+            "Thunderbolt": "24",
+            "Thunder": "25",
+            "Low Sweep": "27",
+            "Psychic": "29",
+            "Brick Break": "31",
+            "Double Team": "32",
+            "Shock Wave": "34",
+            "Facade": "42",
+            "Volt Switch": "43",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Focus Blast": "52",
+            "Fling": "56",
+            "Charge Beam": "57",
+            "Endure": "58",
+            "Giga Impact": "68",
+            "Flash": "70",
+            "Thunder Wave": "73",
+            "Sleep Talk": "82",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Strength": "96",
+            "Rock Smash": "98",
+            "Rock Climb": "100"
+        }
+    },
+    "entries": {
+        "Electabuzz": [
+            "Normally found near power plants, they can wander away and cause major blackouts in cities.",
+            "If a major power outage occurs, it is certain that this pok\u00e9mon has eaten electricity at a power plant.",
+            "Electricity runs across the surface of its body. In darkness, its entire body glows a whitish-blue.",
+            "Its body constantly discharges electricity. Getting close to it will make your hair stand on end.",
+            "When two ELECTABUZZ touch, they control the electric currents to communicate their feelings.",
+            "When a storm arrives, gangs of this pok\u00e9mon compete with each other to scale heights that are likely to be stricken by lightning bolts. Some towns use ELECTABUZZ in place of lightning rods.",
+            "It loves to feed on strong electricity. It occasionally appears around large power plants and so on.",
+            "Normally found near power plants, they can wander away and cause major blackouts in cities.",
+            "When a storm approaches, it competes with others to scale heights that are likely to be stricken by lightning. Some towns use ELECTABUZZ in place of lightning rods.",
+            "Half of all blackouts occur when this Pok\u00e9mon appears at power plants and eats electricity.",
+            "It windmills its arms to slightly boost its punches. Foes have been known to escape in the meantime.",
+            "Electricity runs across the surface of its body. In darkness, its entire body glows a whitish-blue.",
+            "Its body constantly discharges electricity. Getting close to it will make your hair stand on end.",
+            "It windmills its arms to slightly boost its punches. Foes have been known to escape in the meantime.",
+            "Research is progressing on storing lightning in Electabuzz so this energy can be used at any time.",
+            "Electricity runs across the surface of its body. In darkness, its entire body glows a whitish blue.",
+            "It loves to feed on strong electricity. It occasionally appears around large power plants and so on.",
+            "When a storm arrives, gangs of this Pok\u00e9mon compete with each other to scale heights that are likely to be stricken by lightning bolts. Some towns use Electabuzz in place of lightning rods.",
+            "Half of all sudden blackouts are caused by Electabuzz gathering at electric power plants and gobbling up electricity.",
+            "Electricity leaks from it in amounts far greater than the amount of electricity it eats.",
+            "Electricity permeates its body. It swings its arms round and round to charge up electricity before unleashing a punch.",
+            "While it\u2019s often blamed for power outages, the truth is the cause of outages is more often an error on the part of the electric company.",
+            "If a major power outage occurs, it is certain that this Pok\u00e9mon has eaten electricity at a power plant.",
+            "Many power plants keep Ground-type Pok\u00e9mon around as a defense against Electabuzz that come seeking electricity.",
+            "With the coming of a storm, many of these Pok\u00e9mon will gather under tall trees and sit there waiting for lightning to strike.",
+            "Half of all blackouts occur when this Pok\u00e9mon appears at power plants and eats electricity.",
+            "Feeds on electrical energy. During sudden showers beneath looming thunderclouds, one can observe Electabuzz scaling tall trees, where the Pok\u00e9mon will then wait for lightning to strike."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787566358745138/125.png",
+    "discord_sprite": "<:P125:1132118234712256582>"
+}

@@ -1,0 +1,279 @@
+{
+    "alt-version(s)": [],
+    "name": "Vivillon",
+    "Vivillon": {
+        "pokedex_data": {
+            "National No.": "0666",
+            "Type": [
+                "Bug",
+                "Flying"
+            ],
+            "Species": "Scale Poke\u0301mon",
+            "Height": "1.2 m (3\u203211\u2032\u2032)",
+            "Weight": "17.0 kg (37.5 lbs)",
+            "Abilities": {
+                "Shield Dust": {
+                    "href": "/ability/shield-dust",
+                    "effect": "Blocks the added effects of attacks taken.",
+                    "hidden": false
+                },
+                "Compound Eyes": {
+                    "href": "/ability/compound-eyes",
+                    "effect": "The Pok\u00e9mon's accuracy is boosted.",
+                    "hidden": false
+                },
+                "Friend Guard": {
+                    "href": "/ability/friend-guard",
+                    "effect": "Reduces damage done to allies.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 HP, 1 Sp. Atk, 1 Speed",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "206",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "80",
+                "Min": "270",
+                "Max": "364"
+            },
+            "Attack": {
+                "Base": "52",
+                "Min": "98",
+                "Max": "223"
+            },
+            "Defense": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Atk": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Sp. Def": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Speed": {
+                "Base": "89",
+                "Min": "164",
+                "Max": "304"
+            },
+            "Total": "411"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Electric": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Ground": "no effect",
+                "Flying": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Scatterbug",
+                    "nationalNo": "#0664",
+                    "type": [
+                        "Bug"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Spewpa",
+                    "nationalNo": "#0665",
+                    "type": [
+                        "Bug"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 9)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Spewpa",
+                    "nationalNo": "#0665",
+                    "type": [
+                        "Bug"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Vivillon",
+                    "nationalNo": "#0666",
+                    "type": [
+                        "Bug",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 12)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Poison Powder": "1",
+            "Sleep Powder": "1",
+            "Struggle Bug": "1",
+            "Stun Spore": "1",
+            "Light Screen": "12",
+            "Psybeam": "17",
+            "Supersonic": "21",
+            "Draining Kiss": "25",
+            "Safeguard": "31",
+            "Bug Buzz": "35",
+            "Quiver Dance": "45",
+            "Hurricane": "50"
+        },
+        "evolution": {
+            "Gust": "40"
+        },
+        "egg": {
+            "Poison Powder": null,
+            "Rage Powder": null
+        },
+        "tm": {
+            "Protect": "07",
+            "Acrobatics": "14",
+            "Struggle Bug": "15",
+            "Psybeam": "16",
+            "Confuse Ray": "17",
+            "Thief": "18",
+            "Pounce": "21",
+            "Facade": "25",
+            "Swift": "32",
+            "Draining Kiss": "37",
+            "Air Cutter": "40",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "U-turn": "60",
+            "Air Slash": "65",
+            "Sleep Talk": "70",
+            "Light Screen": "75",
+            "Rest": "85",
+            "Substitute": "103",
+            "Iron Defense": "104",
+            "Giga Drain": "111",
+            "Tailwind": "113",
+            "Energy Ball": "119",
+            "Psychic": "120",
+            "Pollen Puff": "131",
+            "Giga Impact": "152",
+            "Hurricane": "160",
+            "Bug Buzz": "162",
+            "Hyper Beam": "163",
+            "Solar Beam": "168",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Vivillon": [
+            "Vivillon with many different patterns are found all over the world. These patterns are affected by the climate of their habitat.",
+            "The patterns on this Pok\u00e9mon\u2019s wings depend on the climate and topography of its habitat. It scatters colorful scales."
+        ],
+        "Jungle Pattern": [
+            "The patterns on this Pok\u00e9mon depend on the climate and topography of the land it was born in. This form is from lands of tropical rain forests.",
+            "This Pok\u00e9mon was born in a land of tropical rain forests. It scatters colorful, toxic scales from its wings during battle."
+        ],
+        "Meadow Pattern": [
+            "The patterns on this Pok\u00e9mon depend on the climate and topography of the land it was born in. This form is from lands where flowers bloom.",
+            "This Pok\u00e9mon was born in a land where flowers bloom. It scatters colorful, toxic scales from its wings during battle."
+        ],
+        "Marine Pattern": [
+            "The patterns on this Pok\u00e9mon depend on the climate and topography of the land it was born in. This form is from lands with ocean breezes.",
+            "This Pok\u00e9mon was born in a land with ocean breezes. It scatters colorful, toxic scales from its wings during battle."
+        ],
+        "Modern Pattern": [
+            "The patterns on this Pok\u00e9mon depend on the climate and topography of the land it was born in. This form is from sun-drenched lands.",
+            "This Pok\u00e9mon was born in a sun-drenched land. It scatters colorful, toxic scales from its wings during battle."
+        ],
+        "Monsoon Pattern": [
+            "The patterns on this Pok\u00e9mon depend on the climate and topography of the land it was born in. This form is from lands with intense rainfall.",
+            "This Pok\u00e9mon was born in a land with intense rainfall. It scatters colorful, toxic scales from its wings during battle."
+        ],
+        "Ocean Pattern": [
+            "The patterns on this Pok\u00e9mon depend on the climate and topography of the land it was born in. This form is from lands of perpetual summer.",
+            "This Pok\u00e9mon was born in a land of perpetual summer. It scatters colorful, toxic scales from its wings during battle."
+        ],
+        "Pok\u00e9 Ball Pattern": [
+            "The patterns on this Pok\u00e9mon depend on the climate and topography of the land it was born in. This form is from a special land.",
+            "This Pok\u00e9mon was born in a special land. It scatters colorful, toxic scales from its wings during battle."
+        ],
+        "Polar Pattern": [
+            "The patterns on this Pok\u00e9mon depend on the climate and topography of the land it was born in. This form is from snowy lands.",
+            "This Pok\u00e9mon was born in a snowy land. It scatters colorful, toxic scales from its wings during battle."
+        ],
+        "River Pattern": [
+            "The patterns on this Pok\u00e9mon depend on the climate and topography of the land it was born in. This form is from lands where large rivers flow.",
+            "This Pok\u00e9mon was born in a land where large rivers flow. It scatters colorful, toxic scales from its wings during battle."
+        ],
+        "Sandstorm Pattern": [
+            "The patterns on this Pok\u00e9mon depend on the climate and topography of the land it was born in. This form is from parched lands.",
+            "This Pok\u00e9mon was born in a parched land. It scatters colorful, toxic scales from its wings during battle."
+        ],
+        "Savanna Pattern": [
+            "The patterns on this Pok\u00e9mon depend on the climate and topography of the land it was born in. This form is from lands with a tropical climate.",
+            "This Pok\u00e9mon was born in a land with a tropical climate. It scatters colorful, toxic scales from its wings during battle."
+        ],
+        "Sun Pattern": [
+            "The patterns on this Pok\u00e9mon depend on the climate and topography of the land it was born in. This form is from lands bathed in light.",
+            "This Pok\u00e9mon was born in a land bathed in light. It scatters colorful, toxic scales from its wings during battle."
+        ],
+        "Tundra Pattern": [
+            "The patterns on this Pok\u00e9mon depend on the climate and topography of the land it was born in. This form is from lands of severe cold.",
+            "This Pok\u00e9mon was born in a land of severe cold. It scatters colorful, toxic scales from its wings during battle."
+        ],
+        "Icy Snow Pattern": [
+            "The patterns on this Pok\u00e9mon depend on the climate and topography of the land it was born in. This form is from frigid lands.",
+            "This Pok\u00e9mon was born in frigid lands. It scatters colorful, toxic scales from its wings during battle."
+        ],
+        "Archipelago Pattern": [
+            "The patterns on this Pok\u00e9mon depend on the climate and topography of the land it was born in. This form is from places with many islands.",
+            "This Pok\u00e9mon was born in a place with many islands. It scatters colorful, toxic scales from its wings during battle."
+        ],
+        "Continental Pattern": [
+            "The patterns on this Pok\u00e9mon depend on the climate and topography of the land it was born in. This form is from lands of vast space.",
+            "This Pok\u00e9mon was born in a land of vast space. It scatters colorful, toxic scales from its wings during battle."
+        ],
+        "Elegant Pattern": [
+            "The patterns on this Pok\u00e9mon depend on the climate and topography of the land it was born in. This form is from lands with distinct seasons.",
+            "This Pok\u00e9mon was born in a land with distinct seasons. It scatters colorful, toxic scales from its wings during battle."
+        ],
+        "Fancy Pattern": [
+            "The patterns on this Pok\u00e9mon depend on the climate and topography of the land it was born in. This form is from a mysterious land.",
+            "This Pok\u00e9mon was born in a mysterious land. It scatters colorful, toxic scales from its wings during battle."
+        ],
+        "Garden Pattern": [
+            "The patterns on this Pok\u00e9mon depend on the climate and topography of the land it was born in. This form is from verdant lands.",
+            "This Pok\u00e9mon was born in a verdant land. It scatters colorful, toxic scales from its wings during battle."
+        ],
+        "High Plains Pattern": [
+            "The patterns on this Pok\u00e9mon depend on the climate and topography of the land it was born in. This form is from lands with little rain.",
+            "This Pok\u00e9mon was born in a land with little rain. It scatters colorful, toxic scales from its wings during battle."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791794510766151/666.png",
+    "discord_sprite": "<:P666:1132142049337016442>"
+}

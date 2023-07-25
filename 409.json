@@ -1,0 +1,206 @@
+{
+    "alt-version(s)": [],
+    "name": "Rampardos",
+    "Rampardos": {
+        "pokedex_data": {
+            "National No.": "0409",
+            "Type": [
+                "Rock"
+            ],
+            "Species": "Head Butt Poke\u0301mon",
+            "Height": "1.6 m (5\u203203\u2032\u2032)",
+            "Weight": "102.5 kg (226.0 lbs)",
+            "Abilities": {
+                "Mold Breaker": {
+                    "href": "/ability/mold-breaker",
+                    "effect": "Moves can be used regardless of Abilities.",
+                    "hidden": false
+                },
+                "Sheer Force": {
+                    "href": "/ability/sheer-force",
+                    "effect": "Removes added effects to increase move damage.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "173",
+            "Growth Rate": "Erratic"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "97",
+                "Min": "304",
+                "Max": "398"
+            },
+            "Attack": {
+                "Base": "165",
+                "Min": "301",
+                "Max": "471"
+            },
+            "Defense": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Atk": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Def": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Speed": {
+                "Base": "58",
+                "Min": "108",
+                "Max": "236"
+            },
+            "Total": "495"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Grass": "super-effective",
+                "Fighting": "super-effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Cranidos",
+                    "nationalNo": "#0408",
+                    "type": [
+                        "Rock"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Rampardos",
+                    "nationalNo": "#0409",
+                    "type": [
+                        "Rock"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 30)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Endeavor": "1",
+            "Focus Energy": "6",
+            "Headbutt": "1",
+            "Leer": "1",
+            "Rock Polish": "10",
+            "Take Down": "15",
+            "Scary Face": "19",
+            "Assurance": "24",
+            "Swords Dance": "28",
+            "Ancient Power": "36",
+            "Zen Headbutt": "43",
+            "Screech": "51",
+            "Head Smash": "58"
+        },
+        "evolution": {
+            "Endeavor": "\u2014"
+        },
+        "egg": {
+            "Crunch": null,
+            "Curse": null,
+            "Double-Edge": null,
+            "Hammer Arm": null,
+            "Iron Head": null,
+            "Leer": null,
+            "Slam": null,
+            "Stomp": null,
+            "Thrash": null,
+            "Whirlwind": null
+        },
+        "tm": {
+            "Focus Punch": "01",
+            "Roar": "05",
+            "Sunny Day": "11",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Iron Tail": "23",
+            "Thunderbolt": "24",
+            "Thunder": "25",
+            "Earthquake": "26",
+            "Dig": "28",
+            "Brick Break": "31",
+            "Double Team": "32",
+            "Shock Wave": "34",
+            "Flamethrower": "35",
+            "Sandstorm": "37",
+            "Fire Blast": "38",
+            "Rock Tomb": "39",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Focus Blast": "52",
+            "Fling": "56",
+            "Endure": "58",
+            "Dragon Pulse": "59",
+            "Payback": "66",
+            "Giga Impact": "68",
+            "Rock Polish": "69",
+            "Stone Edge": "71",
+            "Avalanche": "72",
+            "Swords Dance": "75",
+            "Stealth Rock": "76",
+            "Rock Slide": "80",
+            "Sleep Talk": "82",
+            "Bulldoze": "83",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Cut": "93",
+            "Surf": "95",
+            "Strength": "96",
+            "Rock Smash": "98",
+            "Rock Climb": "100"
+        }
+    },
+    "entries": {
+        "Rampardos": [
+            "Its powerful head butt has enough power to shatter even the most durable things upon impact.",
+            "Its skull is as hard as iron. It is a brute that tears down jungle trees while catching prey.",
+            "If two were to smash their heads together, their foot-thick skulls would keep them from fainting.",
+            "Its skull withstands impacts of any magnitude. As a result, its brain never gets the chance to grow.",
+            "If two were to smash their heads together, their foot-thick skulls would keep them from fainting.",
+            "Its skull withstands impacts of any magnitude. As a result, its brain never gets the chance to grow.",
+            "Its skull is as hard as iron. It is a brute that tears down jungle trees while catching prey.",
+            "The result of repeated headbutts is a skull grown thick and hard. However, its brain has shrunk in size compared with Cranidos\u2019s.",
+            "Records exist of a revived fossil that evolved into Rampardos. It proceeded to escape and then destroy a skyscraper with a headbutt.",
+            "In ancient times, people would dig up fossils of this Pok\u00e9mon and use its skull, which is harder than steel, to make helmets.",
+            "This ancient Pok\u00e9mon used headbutts skillfully. Its brain was really small, so some theories suggest that its stupidity led to its extinction.",
+            "Its powerful headbutt has enough force to shatter even the most durable things upon impact.",
+            "Its skull is as hard as iron. It is a brute that tears down jungle trees while catching prey.",
+            "Very little is known about its biology. Can knock down massive trees by smashing its beautiful, pearl-like crown against them."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789791827066962/409.png",
+    "discord_sprite": "<:P409:1132130730269474907>"
+}

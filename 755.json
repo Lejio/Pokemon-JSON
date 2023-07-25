@@ -1,0 +1,182 @@
+{
+    "alt-version(s)": [],
+    "name": "Morelull",
+    "Morelull": {
+        "pokedex_data": {
+            "National No.": "0755",
+            "Type": [
+                "Grass",
+                "Fairy"
+            ],
+            "Species": "Illuminating Poke\u0301mon",
+            "Height": "0.2 m (0\u203208\u2032\u2032)",
+            "Weight": "1.5 kg (3.3 lbs)",
+            "Abilities": {
+                "Illuminate": {
+                    "href": "/ability/illuminate",
+                    "effect": "Raises the likelihood of meeting wild Pok\u00e9mon.",
+                    "hidden": false
+                },
+                "Effect Spore": {
+                    "href": "/ability/effect-spore",
+                    "effect": "Contact may poison or cause paralysis or sleep.",
+                    "hidden": false
+                },
+                "Rain Dish": {
+                    "href": "/ability/rain-dish",
+                    "effect": "The Pok\u00e9mon gradually regains HP in rain.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Sp. Def",
+            "Catch rate": "190",
+            "BaseFriendship": "50",
+            "Base Exp.": "57",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "40",
+                "Min": "190",
+                "Max": "284"
+            },
+            "Attack": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Defense": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Sp. Atk": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Def": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Speed": {
+                "Base": "15",
+                "Min": "31",
+                "Max": "141"
+            },
+            "Total": "285"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Poison": "super-effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Dragon": "no effect",
+                "Dark": "not very effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Morelull",
+                    "nationalNo": "#0755",
+                    "type": [
+                        "Grass",
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Shiinotic",
+                    "nationalNo": "#0756",
+                    "type": [
+                        "Grass",
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 24)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Absorb": "1",
+            "Astonish": "1",
+            "Confuse Ray": "4",
+            "Ingrain": "8",
+            "Mega Drain": "12",
+            "Sleep Powder": "16",
+            "Moonlight": "20",
+            "Strength Sap": "25",
+            "Giga Drain": "28",
+            "Dazzling Gleam": "32",
+            "Spore": "36",
+            "Moonblast": "40",
+            "Dream Eater": "44"
+        },
+        "egg": {
+            "Growth": null,
+            "Leech Seed": null,
+            "Poison Powder": null,
+            "Stun Spore": null
+        },
+        "tm": {
+            "Solar Beam": "11",
+            "Thunder Wave": "14",
+            "Light Screen": "17",
+            "Safeguard": "19",
+            "Rest": "21",
+            "Snore": "24",
+            "Protect": "25",
+            "Giga Drain": "28",
+            "Attract": "31",
+            "Sunny Day": "34",
+            "Facade": "39",
+            "Wonder Room": "71",
+            "Magic Room": "72",
+            "Round": "76",
+            "Draining Kiss": "87"
+        },
+        "null": {
+            "Amnesia": "17",
+            "Substitute": "20",
+            "Sludge Bomb": "22",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Seed Bomb": "59",
+            "Energy Ball": "65",
+            "Grass Knot": "77",
+            "Dazzling Gleam": "92",
+            "Pollen Puff": "96"
+        }
+    },
+    "entries": {
+        "Morelull": [
+            "It scatters spores that flicker and glow. Anyone seeing these lights falls into a deep slumber.",
+            "As it drowses the day away, it nourishes itself by sucking from tree roots. It wakens at the fall of night, wandering off in search of a new tree.",
+            "It scatters its shining spores around itself. Even though they\u2019re dangerous, nighttime tours of forests where Morelull live are popular.",
+            "It likes damp dark places. When night falls, the spores filling the caps of its mushrooms glow.",
+            "Pok\u00e9mon living in the forest eat the delicious caps on Morelull\u2019s head. The caps regrow overnight.",
+            "Morelull live in forests that stay dark even during the day. They scatter flickering spores that put enemies to sleep."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792493713817642/755.png",
+    "discord_sprite": "<:P755:1132146025373638667>"
+}

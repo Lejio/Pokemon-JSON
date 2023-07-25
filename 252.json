@@ -1,0 +1,213 @@
+{
+    "alt-version(s)": [],
+    "name": "Treecko",
+    "Treecko": {
+        "pokedex_data": {
+            "National No.": "0252",
+            "Type": [
+                "Grass"
+            ],
+            "Species": "Wood Gecko Poke\u0301mon",
+            "Height": "0.5 m (1\u203208\u2032\u2032)",
+            "Weight": "5.0 kg (11.0 lbs)",
+            "Abilities": {
+                "Overgrow": {
+                    "href": "/ability/overgrow",
+                    "effect": "Powers up Grass-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Unburden": {
+                    "href": "/ability/unburden",
+                    "effect": "Raises Speed if a held item is used.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Speed",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "62",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "40",
+                "Min": "190",
+                "Max": "284"
+            },
+            "Attack": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Defense": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Sp. Atk": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Def": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Speed": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Total": "310"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Poison": "super-effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Bug": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Treecko",
+                    "nationalNo": "#0252",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Grovyle",
+                    "nationalNo": "#0253",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 16)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Grovyle",
+                    "nationalNo": "#0253",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Sceptile",
+                    "nationalNo": "#0254",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 36)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Leer": "1",
+            "Pound": "1",
+            "Leafage": "3",
+            "Quick Attack": "6",
+            "Mega Drain": "9",
+            "Detect": "12",
+            "Quick Guard": "15",
+            "Assurance": "18",
+            "Giga Drain": "21",
+            "Slam": "24",
+            "Double Team": "27",
+            "Energy Ball": "30",
+            "Screech": "33",
+            "Endeavor": "36",
+            "Leaf Storm": "39"
+        },
+        "egg": {
+            "Absorb": null,
+            "Crunch": null,
+            "Crush Claw": null,
+            "Double Kick": null,
+            "Dragon Breath": null,
+            "Endeavor": null,
+            "Grassy Terrain": null,
+            "Leaf Storm": null,
+            "Leech Seed": null,
+            "Magical Leaf": null,
+            "Night Slash": null,
+            "Slash": null,
+            "Synthesis": null,
+            "Worry Seed": null
+        },
+        "tm": {
+            "Focus Punch": "01",
+            "Bullet Seed": "09",
+            "Work Up": "10",
+            "Sunny Day": "11",
+            "Protect": "17",
+            "Giga Drain": "19",
+            "Safeguard": "20",
+            "Solar Beam": "22",
+            "Iron Tail": "23",
+            "Dig": "28",
+            "Brick Break": "31",
+            "Double Team": "32",
+            "Rock Tomb": "39",
+            "Aerial Ace": "40",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Energy Ball": "53",
+            "Fling": "56",
+            "Endure": "58",
+            "Drain Punch": "60",
+            "Flash": "70",
+            "Swords Dance": "75",
+            "Rock Slide": "80",
+            "Sleep Talk": "82",
+            "Grass Knot": "86",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Cut": "93",
+            "Strength": "96",
+            "Rock Smash": "98"
+        }
+    },
+    "entries": {
+        "Treecko": [
+            "TREECKO has small hooks on the bottom of its feet that enable it to scale vertical walls. This pok\u00e9mon attacks by slamming foes with its thick tail.",
+            "TREECKO is cool, calm, and collected - it never panics under any situation. If a bigger foe were to glare at this pok\u00e9mon, it would glare right back without conceding an inch of ground.",
+            "It quickly scales even vertical walls. It senses humidity with its tail to predict the next day\u2019s weather.",
+            "It makes its nest in a giant tree in the forest. It ferociously guards against anything nearing its territory. It is said to be the protector of the forest\u2019s trees.",
+            "The soles of its feet are covered by countless tiny spikes, enabling it to walk on walls and ceilings.",
+            "Small hooks on the bottom of its feet catch on walls and ceilings. That is how it can hang from above.",
+            "The soles of its feet are covered by countless tiny spikes, enabling it to walk on walls and ceilings.",
+            "It quickly scales even vertical walls. It senses humidity with its tail to predict the next day\u2019s weather.",
+            "Small hooks on the bottom of its feet catch on walls and ceilings. That is how it can hang from above.",
+            "Treecko has small hooks on the bottom of its feet that enable it to scale vertical walls. This Pok\u00e9mon attacks by slamming foes with its thick tail.",
+            "Treecko is cool, calm, and collected\u2014it never panics under any situation. If a bigger foe were to glare at this Pok\u00e9mon, it would glare right back without conceding an inch of ground.",
+            "The soles of its feet are covered by countless tiny hooks, enabling it to walk on walls and ceilings."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788565144146081/252.png",
+    "discord_sprite": "<:P252:1132123830480023663>"
+}

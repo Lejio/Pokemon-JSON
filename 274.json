@@ -1,0 +1,239 @@
+{
+    "alt-version(s)": [],
+    "name": "Nuzleaf",
+    "Nuzleaf": {
+        "pokedex_data": {
+            "National No.": "0274",
+            "Type": [
+                "Grass",
+                "Dark"
+            ],
+            "Species": "Wily Poke\u0301mon",
+            "Height": "1.0 m (3\u203203\u2032\u2032)",
+            "Weight": "28.0 kg (61.7 lbs)",
+            "Abilities": {
+                "Chlorophyll": {
+                    "href": "/ability/chlorophyll",
+                    "effect": "Boosts the Pok\u00e9mon's Speed in sunshine.",
+                    "hidden": false
+                },
+                "Early Bird": {
+                    "href": "/ability/early-bird",
+                    "effect": "The Pok\u00e9mon awakens quickly from sleep.",
+                    "hidden": false
+                },
+                "Pickpocket": {
+                    "href": "/ability/pickpocket",
+                    "effect": "Steals an item when hit by another Pok\u00e9mon.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "120",
+            "BaseFriendship": "50",
+            "Base Exp.": "119",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "70",
+                "Min": "250",
+                "Max": "344"
+            },
+            "Attack": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Defense": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Atk": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Def": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Speed": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Total": "340"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "super-effective",
+                "Poison": "super-effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Psychic": "no effect",
+                "Bug": "super-effective",
+                "Ghost": "not very effective",
+                "Dark": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Seedot",
+                    "nationalNo": "#0273",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Nuzleaf",
+                    "nationalNo": "#0274",
+                    "type": [
+                        "Grass",
+                        "Dark"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 14)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Nuzleaf",
+                    "nationalNo": "#0274",
+                    "type": [
+                        "Grass",
+                        "Dark"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Shiftry",
+                    "nationalNo": "#0275",
+                    "type": [
+                        "Grass",
+                        "Dark"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Leaf Stone)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Absorb": "1",
+            "Air Cutter": "1",
+            "Astonish": "1",
+            "Explosion": "1",
+            "Fake Out": "1",
+            "Harden": "1",
+            "Razor Leaf": "1",
+            "Swagger": "1",
+            "Synthesis": "1",
+            "Tackle": "1",
+            "Torment": "1",
+            "Growth": "9",
+            "Rollout": "12",
+            "Mega Drain": "18",
+            "Payback": "24",
+            "Nature Power": "30",
+            "Sunny Day": "36",
+            "Extrasensory": "43",
+            "Sucker Punch": "50",
+            "Leaf Blade": "57"
+        },
+        "evolution": {
+            "Razor Leaf": "55"
+        },
+        "egg": {
+            "Amnesia": null,
+            "Beat Up": null,
+            "Foul Play": null,
+            "Grassy Terrain": null,
+            "Leech Seed": null,
+            "Night Slash": null,
+            "Power Swap": null,
+            "Quick Attack": null,
+            "Take Down": null,
+            "Worry Seed": null
+        },
+        "tm": {
+            "Bullet Seed": "09",
+            "Sunny Day": "11",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Giga Drain": "19",
+            "Solar Beam": "22",
+            "Low Sweep": "27",
+            "Dig": "28",
+            "Shadow Ball": "30",
+            "Brick Break": "31",
+            "Double Team": "32",
+            "Rock Tomb": "39",
+            "Torment": "41",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Energy Ball": "53",
+            "False Swipe": "54",
+            "Fling": "56",
+            "Endure": "58",
+            "Nasty Plot": "63",
+            "Explosion": "64",
+            "Payback": "66",
+            "Flash": "70",
+            "Swords Dance": "75",
+            "Psych Up": "77",
+            "Snarl": "78",
+            "Dark Pulse": "79",
+            "Rock Slide": "80",
+            "Sleep Talk": "82",
+            "Grass Knot": "86",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Cut": "93",
+            "Strength": "96",
+            "Rock Smash": "98"
+        }
+    },
+    "entries": {
+        "Nuzleaf": [
+            "NUZLEAF live in densely overgrown forests. They occasionally venture out of the forest to startle people. This pok\u00e9mon dislikes having its long nose pinched.",
+            "This pok\u00e9mon pulls out the leaf on its head and makes a flute with it. The sound of NUZLEAF\u2019s flute strikes fear and uncertainty in the hearts of people lost in a forest.",
+            "They live in holes bored in large trees. The sound of NUZLEAF\u2019s grass flute fills listeners with dread.",
+            "A forest-dwelling pok\u00e9mon that is skilled at climbing trees. Its long and pointed nose is its weak point. It loses power if the nose is gripped.",
+            "The sound of its grass flute makes its listeners uneasy. It lives deep in forests.",
+            "It lives deep in forests. With the leaf on its head, it makes a flute whose song makes listeners uneasy.",
+            "The sound of its grass flute makes its listeners uneasy. It lives deep in forests.",
+            "The sound of its grass flute makes its listeners uneasy. It lives deep in forests.",
+            "It lives deep in forests. With the leaf on its head, it makes a flute whose song makes listeners uneasy.",
+            "Nuzleaf live in densely overgrown forests. They occasionally venture out of the forest to startle people. This Pok\u00e9mon dislikes having its long nose pinched.",
+            "This Pok\u00e9mon pulls out the leaf on its head and makes a flute with it. The sound of Nuzleaf\u2019s flute strikes fear and uncertainty in the hearts of people lost in a forest.",
+            "It lives deep in forests. With the leaf on its head, it makes a flute whose song makes listeners uneasy.",
+            "They live in holes bored in large trees. The sound of Nuzleaf\u2019s grass flute fills listeners with dread.",
+            "The sound of its grass flute makes its listeners uneasy. It lives deep in the forest."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788738230485133/274.png",
+    "discord_sprite": "<:P274:1132124801331368046>"
+}

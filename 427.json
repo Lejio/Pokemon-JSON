@@ -1,0 +1,195 @@
+{
+    "alt-version(s)": [],
+    "name": "Buneary",
+    "Buneary": {
+        "pokedex_data": {
+            "National No.": "0427",
+            "Type": [
+                "Normal"
+            ],
+            "Species": "Rabbit Poke\u0301mon",
+            "Height": "0.4 m (1\u203204\u2032\u2032)",
+            "Weight": "5.5 kg (12.1 lbs)",
+            "Abilities": {
+                "Run Away": {
+                    "href": "/ability/run-away",
+                    "effect": "Enables a sure getaway from wild Pok\u00e9mon.",
+                    "hidden": false
+                },
+                "Klutz": {
+                    "href": "/ability/klutz",
+                    "effect": "The Pok\u00e9mon can't use any held items.",
+                    "hidden": false
+                },
+                "Limber": {
+                    "href": "/ability/limber",
+                    "effect": "The Pok\u00e9mon is protected from paralysis.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Speed",
+            "Catch rate": "190",
+            "BaseFriendship": "0",
+            "Base Exp.": "70",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "55",
+                "Min": "220",
+                "Max": "314"
+            },
+            "Attack": {
+                "Base": "66",
+                "Min": "123",
+                "Max": "254"
+            },
+            "Defense": {
+                "Base": "44",
+                "Min": "83",
+                "Max": "205"
+            },
+            "Sp. Atk": {
+                "Base": "44",
+                "Min": "83",
+                "Max": "205"
+            },
+            "Sp. Def": {
+                "Base": "56",
+                "Min": "105",
+                "Max": "232"
+            },
+            "Speed": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Total": "350"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Buneary",
+                    "nationalNo": "#0427",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Lopunny",
+                    "nationalNo": "#0428",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(high Friendship)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Pound": "1",
+            "Splash": "1",
+            "Defense Curl": "4",
+            "Baby-Doll Eyes": "8",
+            "After You": "12",
+            "Quick Attack": "16",
+            "Double Kick": "20",
+            "Charm": "24",
+            "Baton Pass": "28",
+            "Headbutt": "32",
+            "Agility": "36",
+            "Entrainment": "40",
+            "Flatter": "44",
+            "Bounce": "48",
+            "Healing Wish": "52"
+        },
+        "egg": {
+            "Circle Throw": null,
+            "Copycat": null,
+            "Cosmic Power": null,
+            "Double Hit": null,
+            "Encore": null,
+            "Fake Out": null,
+            "Fake Tears": null,
+            "Fire Punch": null,
+            "Flail": null,
+            "Ice Punch": null,
+            "Low Kick": null,
+            "Power-Up Punch": null,
+            "Sweet Kiss": null,
+            "Switcheroo": null,
+            "Teeter Dance": null,
+            "Thunder Punch": null
+        },
+        "tm": {
+            "Focus Punch": "01",
+            "Water Pulse": "03",
+            "Work Up": "10",
+            "Sunny Day": "11",
+            "Ice Beam": "13",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Solar Beam": "22",
+            "Iron Tail": "23",
+            "Thunderbolt": "24",
+            "Low Sweep": "27",
+            "Dig": "28",
+            "Shadow Ball": "30",
+            "Double Team": "32",
+            "Shock Wave": "34",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Fling": "56",
+            "Charge Beam": "57",
+            "Endure": "58",
+            "Drain Punch": "60",
+            "Payback": "66",
+            "Thunder Wave": "73",
+            "Sleep Talk": "82",
+            "Grass Knot": "86",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Cut": "93",
+            "Rock Smash": "98"
+        }
+    },
+    "entries": {
+        "Buneary": [
+            "It slams foes by sharply uncoiling its rolled ears. It stings enough to make a grown-up cry in pain.",
+            "When it senses danger, it perks up its ears. On cold nights, it sleeps with its head tucked into its fur.",
+            "Its ears are always rolled up. They can be forcefully extended to shatter even a large boulder.",
+            "You can tell how it feels by the way it rolls its ears. When it\u2019s scared, both ears are rolled up.",
+            "Its ears are always rolled up. They can be forcefully extended to shatter even a large boulder.",
+            "By extending its rolled-up ears and striking the ground, it can bound so high it surprises itself.",
+            "Its ears are always rolled up. They can be forcefully extended to shatter even a large boulder.",
+            "When it senses danger, it perks up its ears. On cold nights, it sleeps with its head tucked into its fur.",
+            "Its arms and legs are weak, but when it rolls its ears up tight and then unleashes them with its full force, it can smash boulders to dust.",
+            "The reason it keeps one ear rolled up is so it can launch a swift counterattack if it\u2019s attacked by an enemy.",
+            "If both of Buneary\u2019s ears are rolled up, something is wrong with its body or mind. It\u2019s a sure sign the Pok\u00e9mon is in need of care.",
+            "Buneary can attack by rolling up their ears and then striking with the force created by unrolling them. This attack becomes stronger with training.",
+            "It slams foes by sharply uncoiling its rolled ears. It stings enough to make a grown-up cry in pain.",
+            "When it senses danger, it perks up its ears. On cold nights, it sleeps with its head tucked into its fur.",
+            "My hypothesis as to why Buneary rolls up its ears is that its hearing is far too keen. I surmise that the Pok\u00e9mon protects its hearing by limiting the sound that may enter its ears."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789930306220042/427.png",
+    "discord_sprite": "<:P427:1132131520656724110>"
+}

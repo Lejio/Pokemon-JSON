@@ -1,0 +1,239 @@
+{
+    "alt-version(s)": [],
+    "name": "Cyndaquil",
+    "Cyndaquil": {
+        "pokedex_data": {
+            "National No.": "0155",
+            "Type": [
+                "Fire"
+            ],
+            "Species": "Fire Mouse Poke\u0301mon",
+            "Height": "0.5 m (1\u203208\u2032\u2032)",
+            "Weight": "7.9 kg (17.4 lbs)",
+            "Abilities": {
+                "Blaze": {
+                    "href": "/ability/blaze",
+                    "effect": "Powers up Fire-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Flash Fire": {
+                    "href": "/ability/flash-fire",
+                    "effect": "It powers up Fire-type moves if it's hit by one.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Speed",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "62",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "39",
+                "Min": "188",
+                "Max": "282"
+            },
+            "Attack": {
+                "Base": "52",
+                "Min": "98",
+                "Max": "223"
+            },
+            "Defense": {
+                "Base": "43",
+                "Min": "81",
+                "Max": "203"
+            },
+            "Sp. Atk": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Def": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Speed": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Total": "309"
+        },
+        "defense_stats": {
+            "Blaze ability": {
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Ground": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            },
+            "Flash Fire ability": {
+                "Fire": "no effect",
+                "Water": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Ground": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Cyndaquil",
+                    "nationalNo": "#0155",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Quilava",
+                    "nationalNo": "#0156",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 14, or Level 17 in Legends: Arceus)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Quilava",
+                    "nationalNo": "#0156",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Typhlosion",
+                    "nationalNo": "#0157",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 36)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Quilava",
+                    "nationalNo": "#0156",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Typhlosion",
+                    "nationalNo": "#0157",
+                    "type": [
+                        "Fire",
+                        "Ghost"
+                    ],
+                    "nickname": "Hisuian Typhlosion"
+                },
+                "requirement": "(Level 36, in Legends: Arceus)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Leer": "1",
+            "Tackle": "1",
+            "Smokescreen": "6",
+            "Ember": "10",
+            "Quick Attack": "13",
+            "Flame Wheel": "19",
+            "Defense Curl": "22",
+            "Flame Charge": "28",
+            "Swift": "31",
+            "Lava Plume": "37",
+            "Flamethrower": "40",
+            "Inferno": "46",
+            "Rollout": "49",
+            "Double-Edge": "55",
+            "Overheat": "58",
+            "Eruption": "64"
+        },
+        "egg": {
+            "Covet": null,
+            "Curse": null,
+            "Double Kick": null,
+            "Extrasensory": null,
+            "Howl": null,
+            "Reversal": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Protect": "07",
+            "Fire Fang": "08",
+            "Fire Spin": "24",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Swift": "32",
+            "Flame Charge": "38",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Dig": "55",
+            "Zen Headbutt": "59",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Rest": "85",
+            "Iron Head": "99",
+            "Substitute": "103",
+            "Will-O-Wisp": "107",
+            "Heat Wave": "118",
+            "Flamethrower": "125",
+            "Play Rough": "127",
+            "Reversal": "134",
+            "Fire Blast": "141",
+            "Fire Pledge": "144",
+            "Wild Charge": "147",
+            "Overheat": "157",
+            "Flare Blitz": "165",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Cyndaquil": [
+            "It is timid, and always curls itself up in a ball. If attacked, it flares up its back for protection.",
+            "It usually stays hunched over. If it is angry or surprised, it shoots flames out of its back.",
+            "The fire that spouts from its back burns hottest when it is angry. The flaring flames intimidate foes.",
+            "CYNDAQUIL protects itself by flaring up the flames on its back. The flames are vigorous if the pok\u00e9mon is angry. However, if it is tired, the flames splutter fitfully with incomplete combustion.",
+            "It usually stays hunched over. If it is angry or surprised, it shoots flames out of its back.",
+            "It is timid and always curls itself up in a ball. If attacked, it flares up its back for protection.",
+            "It flares flames from its back to protect itself. The fire burns vigorously if the pok\u00e9mon is angry. When it is tired, it sputters with incomplete combustion.",
+            "It has a timid nature. If it is startled, the flames on its back burn more vigorously.",
+            "It is timid, and always curls itself up in a ball. If attacked, it flares up its back for protection.",
+            "It usually stays hunched over. If it is angry or surprised, it shoots flames out of its back.",
+            "It has a timid nature. If it is startled, the flames on its back burn more vigorously.",
+            "It is timid and always curls itself up in a ball. If attacked, it flares up its back for protection.",
+            "It has a timid nature. If it is startled, the flames on its back burn more vigorously.",
+            "Cyndaquil protects itself by flaring up the flames on its back. The flames are vigorous if the Pok\u00e9mon is angry. However, if it is tired, the flames splutter fitfully with incomplete combustion.",
+            "It has a timid nature. If it is startled, the flames on its back burn more vigorously.",
+            "Hails from the Johto region. Though usually curled into a ball due to its timid disposition, it harbors tremendous firepower."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787800669335573/155.png",
+    "discord_sprite": "<:P155:1132119555863498873>"
+}

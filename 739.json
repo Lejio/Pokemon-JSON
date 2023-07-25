@@ -1,0 +1,185 @@
+{
+    "alt-version(s)": [],
+    "name": "Crabrawler",
+    "Crabrawler": {
+        "pokedex_data": {
+            "National No.": "0739",
+            "Type": [
+                "Fighting"
+            ],
+            "Species": "Boxing Poke\u0301mon",
+            "Height": "0.6 m (2\u203200\u2032\u2032)",
+            "Weight": "7.0 kg (15.4 lbs)",
+            "Abilities": {
+                "Hyper Cutter": {
+                    "href": "/ability/hyper-cutter",
+                    "effect": "Prevents other Pok\u00e9mon from lowering Attack stat.",
+                    "hidden": false
+                },
+                "Iron Fist": {
+                    "href": "/ability/iron-fist",
+                    "effect": "Boosts the power of punching moves.",
+                    "hidden": false
+                },
+                "Anger Point": {
+                    "href": "/ability/anger-point",
+                    "effect": "Maxes Attack after taking a critical hit.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack",
+            "Catch rate": "225",
+            "BaseFriendship": "50",
+            "Base Exp.": "68",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "47",
+                "Min": "204",
+                "Max": "298"
+            },
+            "Attack": {
+                "Base": "82",
+                "Min": "152",
+                "Max": "289"
+            },
+            "Defense": {
+                "Base": "57",
+                "Min": "107",
+                "Max": "234"
+            },
+            "Sp. Atk": {
+                "Base": "42",
+                "Min": "80",
+                "Max": "201"
+            },
+            "Sp. Def": {
+                "Base": "47",
+                "Min": "89",
+                "Max": "212"
+            },
+            "Speed": {
+                "Base": "63",
+                "Min": "117",
+                "Max": "247"
+            },
+            "Total": "338"
+        },
+        "defense_stats": {
+            "default": {
+                "Flying": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Dark": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Crabrawler",
+                    "nationalNo": "#0739",
+                    "type": [
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Crabominable",
+                    "nationalNo": "#0740",
+                    "type": [
+                        "Fighting",
+                        "Ice"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Ice Stone, or at Mount Lanakila in Alola)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Vise Grip": "1",
+            "Rock Smash": "5",
+            "Leer": "9",
+            "Bubble Beam": "13",
+            "Protect": "17",
+            "Brick Break": "22",
+            "Slam": "25",
+            "Payback": "29",
+            "Reversal": "33",
+            "Crabhammer": "37",
+            "Iron Defense": "42",
+            "Dynamic Punch": "45",
+            "Close Combat": "49"
+        },
+        "egg": {
+            "Endeavor": null,
+            "Focus Punch": null,
+            "Superpower": null,
+            "Wide Guard": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Mud-Slap": "05",
+            "Protect": "07",
+            "Thief": "18",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Bulldoze": "28",
+            "Swift": "32",
+            "Mud Shot": "35",
+            "Rock Tomb": "36",
+            "Fling": "43",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Dig": "55",
+            "Brick Break": "58",
+            "Zen Headbutt": "59",
+            "Bulk Up": "64",
+            "Body Slam": "66",
+            "Thunder Punch": "68",
+            "Ice Punch": "69",
+            "Sleep Talk": "70",
+            "Drain Punch": "73",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Iron Head": "99",
+            "Gunk Shot": "102",
+            "Substitute": "103",
+            "Iron Defense": "104",
+            "Liquidation": "110",
+            "Amnesia": "128",
+            "Helping Hand": "130",
+            "Reversal": "134",
+            "Earthquake": "149",
+            "Focus Blast": "158",
+            "Close Combat": "167",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Crabrawler": [
+            "While guarding its weak points with its pincers, it looks for an opening and unleashes punches. When it loses, it foams at the mouth and faints.",
+            "It punches so much, its pincers often come off from overuse, but they grow back quickly. What little meat they contain is rich and delicious.",
+            "Its hard pincers are well suited to both offense and defense. Fights between two Crabrawler are like boxing matches.",
+            "Crabrawler has been known to mistake Exeggutor for a coconut tree and climb it. The enraged Exeggutor shakes it off and stomps it.",
+            "This Pok\u00e9mon punches trees and eats the berries that drop down, training itself and getting food at the same time.",
+            "If it loses its pincers, they\u2019ll quickly regrow. The pincers are popular ingredients in paella since their shells produce a tasty soup stock."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792369201729607/739.png",
+    "discord_sprite": "<:P739:1132145251549728829>"
+}

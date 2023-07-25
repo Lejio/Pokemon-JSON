@@ -1,0 +1,212 @@
+{
+    "alt-version(s)": [],
+    "name": "Bagon",
+    "Bagon": {
+        "pokedex_data": {
+            "National No.": "0371",
+            "Type": [
+                "Dragon"
+            ],
+            "Species": "Rock Head Poke\u0301mon",
+            "Height": "0.6 m (2\u203200\u2032\u2032)",
+            "Weight": "42.1 kg (92.8 lbs)",
+            "Abilities": {
+                "Rock Head": {
+                    "href": "/ability/rock-head",
+                    "effect": "Protects the Pok\u00e9mon from recoil damage.",
+                    "hidden": false
+                },
+                "Sheer Force": {
+                    "href": "/ability/sheer-force",
+                    "effect": "Removes added effects to increase move damage.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack",
+            "Catch rate": "45",
+            "BaseFriendship": "35",
+            "Base Exp.": "60",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "45",
+                "Min": "200",
+                "Max": "294"
+            },
+            "Attack": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Defense": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Atk": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Def": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Speed": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Total": "300"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Dragon": "super-effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Bagon",
+                    "nationalNo": "#0371",
+                    "type": [
+                        "Dragon"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Shelgon",
+                    "nationalNo": "#0372",
+                    "type": [
+                        "Dragon"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 30)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Shelgon",
+                    "nationalNo": "#0372",
+                    "type": [
+                        "Dragon"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Salamence",
+                    "nationalNo": "#0373",
+                    "type": [
+                        "Dragon",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 50)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Ember": "1",
+            "Leer": "1",
+            "Bite": "5",
+            "Dragon Breath": "10",
+            "Headbutt": "15",
+            "Scary Face": "20",
+            "Crunch": "25",
+            "Dragon Claw": "31",
+            "Zen Headbutt": "35",
+            "Focus Energy": "40",
+            "Flamethrower": "45",
+            "Outrage": "50",
+            "Double-Edge": "55"
+        },
+        "egg": {
+            "Defense Curl": null,
+            "Dragon Rush": null,
+            "Thrash": null,
+            "Twister": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Mud-Slap": "05",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Fire Fang": "08",
+            "Thunder Fang": "09",
+            "Fire Spin": "24",
+            "Facade": "25",
+            "Rock Tomb": "36",
+            "Dragon Tail": "44",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Brick Break": "58",
+            "Zen Headbutt": "59",
+            "Shadow Claw": "61",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Dragon Claw": "78",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Iron Head": "99",
+            "Dragon Dance": "100",
+            "Substitute": "103",
+            "Iron Defense": "104",
+            "Crunch": "108",
+            "Dragon Pulse": "115",
+            "Hyper Voice": "117",
+            "Flamethrower": "125",
+            "Helping Hand": "130",
+            "Fire Blast": "141",
+            "Hydro Pump": "142",
+            "Outrage": "156",
+            "Draco Meteor": "169",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Bagon": [
+            "BAGON has a dream of one day soaring in the sky. In doomed efforts to fly, this pok\u00e9mon hurls itself off cliffs. As a result of its dives, its head has grown tough and as hard as tempered steel.",
+            "BAGON harbors a never-ending dream of one day soaring high among the clouds. As if trying to dispel its frustration over its inability to fly, this pok\u00e9mon slams its hard head against huge rocks and shatters them into pebbles.",
+            "Its steel-hard head can shatter boulders. It longingly hopes for wings to grow so it can fly.",
+            "Although it is small, this pok\u00e9mon is very powerful because its body is a bundle of muscles. It launches head-butts with its ironlike skull.",
+            "Dreaming of one day flying, it practices by leaping off cliffs every day.",
+            "Its well-developed neck muscles and ironlike head can smash boulders into pieces.",
+            "Dreaming of one day flying, it practices by leaping off cliffs every day.",
+            "Its well-developed neck muscles and iron-like head can smash boulders into pieces.",
+            "Dreaming of one day flying, it practices by leaping off cliffs every day.",
+            "Bagon has a dream of one day soaring in the sky. In doomed efforts to fly, this Pok\u00e9mon hurls itself off cliffs. As a result of its dives, its head has grown tough and as hard as tempered steel.",
+            "Bagon harbors a never-ending dream of one day soaring high among the clouds. As if trying to dispel its frustration over its inability to fly, this Pok\u00e9mon slams its hard head against huge rocks and shatters them into pebbles.",
+            "Its belief that it will be able to fly one day is apparently the influence of information carried in its genes.",
+            "With its steel-hard stone head, it headbutts indiscriminately. This is because of the stress it feels at being unable to fly.",
+            "Whenever it sees bird Pok\u00e9mon flying through the sky, it becomes envious and smashes its surroundings to bits with headbutts.",
+            "Some theories suggest that its behavior of forcefully bashing its head into things stimulates cells that affect its evolution.",
+            "Bagon jumps off cliffs every day, trying to grow stronger so that someday it will be able to fly.",
+            "Bagon is a solitary Pok\u00e9mon that doesn\u2019t form groups with others of its kind. It also has a head hard enough to cleave a boulder in one strike.",
+            "Dreaming of one day flying, it practices by leaping off cliffs every day.",
+            "Its steel-hard head can shatter boulders. It longingly hopes for wings to grow so it can fly.",
+            "Its belief that it will be able to fly one day is apparently the influence of information carried in its genes."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789498922045580/371.png",
+    "discord_sprite": "<:P371:1132129058944200735>"
+}

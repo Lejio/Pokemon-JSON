@@ -1,0 +1,237 @@
+{
+    "alt-version(s)": [],
+    "name": "Incineroar",
+    "Incineroar": {
+        "pokedex_data": {
+            "National No.": "0727",
+            "Type": [
+                "Fire",
+                "Dark"
+            ],
+            "Species": "Heel Poke\u0301mon",
+            "Height": "1.8 m (5\u203211\u2032\u2032)",
+            "Weight": "83.0 kg (183.0 lbs)",
+            "Abilities": {
+                "Blaze": {
+                    "href": "/ability/blaze",
+                    "effect": "Powers up Fire-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Intimidate": {
+                    "href": "/ability/intimidate",
+                    "effect": "Lowers the foe's Attack stat.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Attack",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "239",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "95",
+                "Min": "300",
+                "Max": "394"
+            },
+            "Attack": {
+                "Base": "115",
+                "Min": "211",
+                "Max": "361"
+            },
+            "Defense": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Sp. Atk": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Sp. Def": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Speed": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Total": "530"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Ground": "super-effective",
+                "Psychic": "no effect",
+                "Rock": "super-effective",
+                "Ghost": "not very effective",
+                "Dark": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Litten",
+                    "nationalNo": "#0725",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Torracat",
+                    "nationalNo": "#0726",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 17)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Torracat",
+                    "nationalNo": "#0726",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Incineroar",
+                    "nationalNo": "#0727",
+                    "type": [
+                        "Fire",
+                        "Dark"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 34)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Bulk Up": "1",
+            "Cross Chop": "1",
+            "Darkest Lariat": "1",
+            "Ember": "1",
+            "Growl": "1",
+            "Lick": "1",
+            "Scratch": "1",
+            "Throat Chop": "1",
+            "Roar": "9",
+            "Fury Swipes": "12",
+            "Bite": "15",
+            "Double Kick": "20",
+            "Fire Fang": "25",
+            "Scary Face": "30",
+            "Swagger": "32",
+            "Flamethrower": "44",
+            "Thrash": "51",
+            "Flare Blitz": "58"
+        },
+        "evolution": {
+            "Darkest Lariat": "85"
+        },
+        "egg": {
+            "Fake Out": null,
+            "Parting Shot": null,
+            "Power Trip": null
+        },
+        "null": {
+            "Swords Dance": "00",
+            "Body Slam": "01",
+            "Flamethrower": "02",
+            "Low Kick": "07",
+            "Earthquake": "10",
+            "Fire Blast": "15",
+            "Leech Life": "18",
+            "Substitute": "20",
+            "Reversal": "21",
+            "Outrage": "24",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Crunch": "32",
+            "Heat Wave": "36",
+            "Taunt": "37",
+            "Superpower": "39",
+            "Blaze Kick": "41",
+            "Overheat": "43",
+            "Bulk Up": "48",
+            "Close Combat": "53",
+            "Flare Blitz": "55",
+            "Dark Pulse": "58",
+            "Focus Blast": "64",
+            "Nasty Plot": "68",
+            "Iron Head": "74",
+            "Work Up": "85",
+            "Heat Crash": "88",
+            "Darkest Lariat": "93",
+            "Throat Chop": "95"
+        },
+        "tm": {
+            "Mega Punch": "00",
+            "Mega Kick": "01",
+            "Pay Day": "02",
+            "Fire Punch": "03",
+            "Thunder Punch": "05",
+            "Hyper Beam": "08",
+            "Giga Impact": "09",
+            "Fire Spin": "13",
+            "Rest": "21",
+            "Snore": "24",
+            "Protect": "25",
+            "Scary Face": "26",
+            "Attract": "31",
+            "Sunny Day": "34",
+            "Will-O-Wisp": "38",
+            "Facade": "39",
+            "Revenge": "42",
+            "Brick Break": "43",
+            "U-turn": "56",
+            "Assurance": "58",
+            "Fling": "59",
+            "Drain Punch": "63",
+            "Shadow Claw": "65",
+            "Fire Fang": "68",
+            "Low Sweep": "75",
+            "Round": "76",
+            "Acrobatics": "78",
+            "Bulldoze": "81",
+            "Snarl": "85",
+            "Brutal Swing": "97",
+            "Stomping Tantrum": "98"
+        }
+    },
+    "entries": {
+        "Incineroar": [
+            "This Pok\u00e9mon has a violent, selfish disposition. If it\u2019s not in the mood to listen, it will ignore its Trainer\u2019s orders with complete nonchalance.",
+            "After hurling ferocious punches and flinging furious kicks, it finishes opponents off by spewing fire from around its navel.",
+            "Although it\u2019s rough mannered and egotistical, it finds beating down unworthy opponents boring. It gets motivated for stronger opponents.",
+            "When its fighting spirit is set alight, the flames around its waist become especially intense.",
+            "It excels at violent, no-holds-barred battles. The temperature of the flames that issue from its navel exceeds 3,600 degrees Fahrenheit.",
+            "Incineroar\u2019s rough and aggressive behavior is its most notable trait, but the way it helps out small Pok\u00e9mon shows that it has a kind side as well."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792275765219409/727.png",
+    "discord_sprite": "<:P727:1132144723390377984>"
+}

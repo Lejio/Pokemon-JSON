@@ -1,0 +1,321 @@
+{
+    "alt-version(s)": [
+        "Alolan Vulpix"
+    ],
+    "name": "Vulpix",
+    "Vulpix": {
+        "pokedex_data": {
+            "National No.": "0037",
+            "Type": [
+                "Fire"
+            ],
+            "Species": "Fox Poke\u0301mon",
+            "Height": "0.6 m (2\u203200\u2032\u2032)",
+            "Weight": "9.9 kg (21.8 lbs)",
+            "Abilities": {
+                "Flash Fire": {
+                    "href": "/ability/flash-fire",
+                    "effect": "It powers up Fire-type moves if it's hit by one.",
+                    "hidden": false
+                },
+                "Drought": {
+                    "href": "/ability/drought",
+                    "effect": "Turns the sunlight harsh when the Pok\u00e9mon enters a battle.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Speed",
+            "Catch rate": "190",
+            "BaseFriendship": "50",
+            "Base Exp.": "60",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "25% male,75% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "38",
+                "Min": "186",
+                "Max": "280"
+            },
+            "Attack": {
+                "Base": "41",
+                "Min": "78",
+                "Max": "199"
+            },
+            "Defense": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Atk": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Def": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Speed": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Total": "299"
+        },
+        "defense_stats": {
+            "Flash Fire ability": {
+                "Fire": "no effect",
+                "Water": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Ground": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            },
+            "Drought ability": {
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Ground": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "Alolan Vulpix": {
+        "pokedex_data": {
+            "National No.": "0037",
+            "Type": [
+                "Ice"
+            ],
+            "Species": "Fox Poke\u0301mon",
+            "Height": "0.6 m (2\u203200\u2032\u2032)",
+            "Weight": "9.9 kg (21.8 lbs)",
+            "Abilities": {
+                "Snow Cloak": {
+                    "href": "/ability/snow-cloak",
+                    "effect": "Raises evasion in a hailstorm.",
+                    "hidden": false
+                },
+                "Snow Warning": {
+                    "href": "/ability/snow-warning",
+                    "effect": "The Pok\u00e9mon summons a hailstorm in battle.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Speed",
+            "Catch rate": "190",
+            "BaseFriendship": "50",
+            "Base Exp.": "60",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "25% male,75% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "38",
+                "Min": "186",
+                "Max": "280"
+            },
+            "Attack": {
+                "Base": "41",
+                "Min": "78",
+                "Max": "199"
+            },
+            "Defense": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Atk": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Def": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Speed": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Total": "299"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Rock": "super-effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Vulpix",
+                    "nationalNo": "#0037",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Ninetales",
+                    "nationalNo": "#0038",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Fire Stone)",
+                "shed": null
+            }
+        ],
+        [
+            {
+                "from": {
+                    "name": "Vulpix",
+                    "nationalNo": "#0037",
+                    "type": [
+                        "Ice"
+                    ],
+                    "nickname": "Alolan Vulpix"
+                },
+                "to": {
+                    "name": "Ninetales",
+                    "nationalNo": "#0038",
+                    "type": [
+                        "Ice",
+                        "Fairy"
+                    ],
+                    "nickname": "Alolan Ninetales"
+                },
+                "requirement": "(use Ice Stone)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Ember": "1",
+            "Tail Whip": "1",
+            "Disable": "4",
+            "Quick Attack": "8",
+            "Spite": "12",
+            "Incinerate": "16",
+            "Confuse Ray": "20",
+            "Will-O-Wisp": "24",
+            "Extrasensory": "28",
+            "Flamethrower": "32",
+            "Imprison": "36",
+            "Fire Spin": "40",
+            "Safeguard": "44",
+            "Inferno": "48",
+            "Grudge": "52",
+            "Fire Blast": "56"
+        },
+        "egg": {
+            "Baby-Doll Eyes": null,
+            "Disable": null,
+            "Extrasensory": null,
+            "Flail": null,
+            "Flame Charge": null,
+            "Flare Blitz": null,
+            "Heat Wave": null,
+            "Hex": null,
+            "Howl": null,
+            "Hypnosis": null,
+            "Memento": null,
+            "Power Swap": null,
+            "Spite": null
+        },
+        "tm": {
+            "Roar": "05",
+            "Sunny Day": "11",
+            "Protect": "17",
+            "Safeguard": "20",
+            "Iron Tail": "23",
+            "Dig": "28",
+            "Double Team": "32",
+            "Flamethrower": "35",
+            "Fire Blast": "38",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Overheat": "50",
+            "Energy Ball": "53",
+            "Endure": "58",
+            "Will-O-Wisp": "61",
+            "Payback": "66",
+            "Psych Up": "77",
+            "Dark Pulse": "79",
+            "Sleep Talk": "82",
+            "Swagger": "87",
+            "Substitute": "90"
+        }
+    },
+    "entries": {
+        "Vulpix": [
+            "At the time of birth, it has just one tail. The tail splits from its tip as it grows older.",
+            "Both its fur and its tails are beautiful. As it grows, the tails split and form more tails.",
+            "As it develops, its single white tail gains color and splits into six. It is quite warm and cuddly.",
+            "If it is attacked by an enemy that is stronger than itself, it feigns injury to fool the enemy and escapes.",
+            "As its body grows larger, its six warm tails become more beautiful, with a more luxurious coat of fur.",
+            "At the time of its birth, VULPIX has one white tail. The tail separates into six if this pok\u00e9mon receives plenty of love from its TRAINER. The six tails become magnificently curled.",
+            "Inside VULPIX\u2019s body burns a flame that never goes out. During the daytime, when the temperatures rise, this pok\u00e9mon releases flames from its mouth to prevent its body from growing too hot.",
+            "While young, it has six gorgeous tails. When it grows, several new tails are sprouted.",
+            "When it is born, it has just one snow-white tail. The tail splits from its tip as it grows older.",
+            "It can freely control fire, making fiery orbs fly like will-o\u2019-the-wisps. Just before evolution, its six tails grow hot as if on fire.",
+            "It controls balls of fire. As it grows, its six tails split from their tips to make more tails.",
+            "As it develops, its single white tail gains color and splits into six. It is quite warm and cuddly.",
+            "If it is attacked by an enemy that is stronger than itself, it feigns injury to fool the enemy and escapes.",
+            "It controls balls of fire. As it grows, its six tails split from their tips to make more tails.",
+            "As each tail grows, its fur becomes more lustrous. When held, it feels slightly warm.",
+            "When it is born, it has just one snow-white tail. The tail splits from its tip as it grows older.",
+            "While young, it has six gorgeous tails. When it grows, several new tails are sprouted.",
+            "At the time of its birth, Vulpix has one white tail. The tail separates into six if this Pok\u00e9mon receives plenty of love from its Trainer. The six tails become magnificently curled.",
+            "Inside Vulpix\u2019s body burns a flame that never goes out. During the daytime, when the temperatures rise, this Pok\u00e9mon releases flames from its mouth to prevent its body from growing too hot.",
+            "Its beautiful fur and tails have made it very popular. As it grows, its tails split to form more tails.",
+            "From its mouth spew flames that seem to resemble the spirits of the deceased. Some people mistakenly think this fire is a ghost.",
+            "Its beautiful tails have made it very popular. However, if it\u2019s not brushed diligently, it will be a mass of tangles before you know it.",
+            "It manipulates balls of fire to catch its prey. If you raise one from when it\u2019s young, it will grow close to you like a puppy Pok\u00e9mon.",
+            "Both its fur and its tails are beautiful. As it grows, the tails split and form more tails.",
+            "While young, it has six gorgeous tails. When it grows, several new tails are sprouted.",
+            "As each tail grows, its fur becomes more lustrous. When held, it feels slightly warm.",
+            "It controls balls of fire. As it grows, its six tails split from their tips to make more tails.",
+            "In its belly burns a fire, which Vulpix spits out in the form of fireballs. When young, this Pok\u00e9mon has but one white tail. As the Pok\u00e9mon matures, this single tail splits into six."
+        ],
+        "Alolan Vulpix": [
+            "It exhales air colder than -58 degrees Fahrenheit. Elderly people in Alola call this Pok\u00e9mon by an older name\u2014Keokeo.",
+            "In hot weather, this Pok\u00e9mon makes ice shards with its six tails and sprays them around to cool itself off.",
+            "If you carelessly approach it because it\u2019s cute, the boss of the pack, Ninetales, will appear and freeze you.",
+            "They live together in a skulk, helping one another. Before eating their prey, they freeze it solid with their \u201358 degree Fahrenheit breath.",
+            "It looks like snow come to life, and the breath it exhales is \u201358 degrees Fahrenheit. Another name for it is Keokeo.",
+            "After long years in the ever-snowcapped mountains of Alola, this Vulpix has gained power over ice.",
+            "If you observe its curly hairs through a microscope, you\u2019ll see small ice particles springing up.",
+            "These Pok\u00e9mon live in packs in the snowy mountains and defend themselves with icy breath. I suspect this species changed its form to adapt to the frigid climate."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131786877901475901/37.png",
+    "discord_sprite": "<:P37:1131973520977559602>"
+}

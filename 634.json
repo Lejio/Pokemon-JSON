@@ -1,0 +1,206 @@
+{
+    "alt-version(s)": [],
+    "name": "Zweilous",
+    "Zweilous": {
+        "pokedex_data": {
+            "National No.": "0634",
+            "Type": [
+                "Dark",
+                "Dragon"
+            ],
+            "Species": "Hostile Poke\u0301mon",
+            "Height": "1.4 m (4\u203207\u2032\u2032)",
+            "Weight": "50.0 kg (110.2 lbs)",
+            "Abilities": {
+                "Hustle": {
+                    "href": "/ability/hustle",
+                    "effect": "Boosts the Attack stat, but lowers accuracy.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "45",
+            "BaseFriendship": "35",
+            "Base Exp.": "147",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "72",
+                "Min": "254",
+                "Max": "348"
+            },
+            "Attack": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Defense": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Atk": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Def": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Speed": {
+                "Base": "58",
+                "Min": "108",
+                "Max": "236"
+            },
+            "Total": "420"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "super-effective",
+                "Psychic": "no effect",
+                "Bug": "super-effective",
+                "Ghost": "not very effective",
+                "Dragon": "super-effective",
+                "Dark": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Deino",
+                    "nationalNo": "#0633",
+                    "type": [
+                        "Dark",
+                        "Dragon"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Zweilous",
+                    "nationalNo": "#0634",
+                    "type": [
+                        "Dark",
+                        "Dragon"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 50)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Zweilous",
+                    "nationalNo": "#0634",
+                    "type": [
+                        "Dark",
+                        "Dragon"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Hydreigon",
+                    "nationalNo": "#0635",
+                    "type": [
+                        "Dark",
+                        "Dragon"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 64)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Bite": "1",
+            "Double Hit": "1",
+            "Dragon Breath": "1",
+            "Focus Energy": "1",
+            "Tackle": "1",
+            "Roar": "12",
+            "Assurance": "16",
+            "Headbutt": "20",
+            "Work Up": "24",
+            "Slam": "28",
+            "Crunch": "32",
+            "Scary Face": "36",
+            "Dragon Pulse": "40",
+            "Body Slam": "44",
+            "Hyper Voice": "48",
+            "Dragon Rush": "54",
+            "Nasty Plot": "60",
+            "Outrage": "66"
+        },
+        "egg": {
+            "Astonish": null,
+            "Belch": null,
+            "Double Hit": null,
+            "Head Smash": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Fire Fang": "08",
+            "Thunder Fang": "09",
+            "Ice Fang": "10",
+            "Thief": "18",
+            "Facade": "25",
+            "Snarl": "30",
+            "Dragon Tail": "44",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Zen Headbutt": "59",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Thunder Wave": "82",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Taunt": "87",
+            "Dark Pulse": "94",
+            "Substitute": "103",
+            "Crunch": "108",
+            "Dragon Pulse": "115",
+            "Hyper Voice": "117",
+            "Helping Hand": "130",
+            "Earth Power": "133",
+            "Nasty Plot": "140",
+            "Outrage": "156",
+            "Draco Meteor": "169",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Zweilous": [
+            "After it has eaten up all the food in its territory, it moves to another area. Its two heads do not get along.",
+            "Since their two heads do not get along and compete with each other for food, they always eat too much.",
+            "The two heads do not get along. Whichever head eats more than the other gets to be the leader.",
+            "The two heads do not get along. Whichever head eats more than the other gets to be the leader.",
+            "After it has eaten up all the food in its territory, it moves to another area. Its two heads do not get along.",
+            "While hunting for prey, Zweilous wanders its territory, its two heads often bickering over which way to go.",
+            "Their two heads will fight each other over a single piece of food. Zweilous are covered in scars even without battling others.",
+            "The two heads do not get along at all. If you don\u2019t give each head the same amount of attention, they\u2019ll begin fighting out of jealousy.",
+            "The two heads have different likes and dislikes. Because the heads fight with each other, Zweilous gets stronger without needing to rely on others."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791546132463748/634.png",
+    "discord_sprite": "<:P634:1132140640650657882>"
+}

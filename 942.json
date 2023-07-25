@@ -1,0 +1,172 @@
+{
+    "alt-version(s)": [],
+    "name": "Maschiff",
+    "Maschiff": {
+        "pokedex_data": {
+            "National No.": "0942",
+            "Type": [
+                "Dark"
+            ],
+            "Species": "Rascal Poke\u0301mon",
+            "Height": "0.5 m (1\u203208\u2032\u2032)",
+            "Weight": "16.0 kg (35.3 lbs)",
+            "Abilities": {
+                "Intimidate": {
+                    "href": "/ability/intimidate",
+                    "effect": "Lowers the foe's Attack stat.",
+                    "hidden": false
+                },
+                "Run Away": {
+                    "href": "/ability/run-away",
+                    "effect": "Enables a sure getaway from wild Pok\u00e9mon.",
+                    "hidden": false
+                },
+                "Stakeout": {
+                    "href": "/ability/stakeout",
+                    "effect": "Deals double damage to Pok\u00e9mon switching in.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack",
+            "Catch rate": "150",
+            "BaseFriendship": "50",
+            "Base Exp.": "68",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "60",
+                "Min": "230",
+                "Max": "324"
+            },
+            "Attack": {
+                "Base": "78",
+                "Min": "144",
+                "Max": "280"
+            },
+            "Defense": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Atk": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Def": {
+                "Base": "51",
+                "Min": "96",
+                "Max": "221"
+            },
+            "Speed": {
+                "Base": "51",
+                "Min": "96",
+                "Max": "221"
+            },
+            "Total": "340"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "super-effective",
+                "Psychic": "no effect",
+                "Bug": "super-effective",
+                "Ghost": "not very effective",
+                "Dark": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Maschiff",
+                    "nationalNo": "#0942",
+                    "type": [
+                        "Dark"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Mabosstiff",
+                    "nationalNo": "#0943",
+                    "type": [
+                        "Dark"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 30)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Leer": "1",
+            "Scary Face": "1",
+            "Tackle": "1",
+            "Lick": "4",
+            "Snarl": "7",
+            "Hone Claws": "10",
+            "Bite": "14",
+            "Roar": "18",
+            "Headbutt": "22",
+            "Payback": "26",
+            "Crunch": "31",
+            "Swagger": "35",
+            "Reversal": "39",
+            "Jaw Lock": "43",
+            "Double-Edge": "49"
+        },
+        "egg": {
+            "Destiny Bond": null,
+            "Endeavor": null,
+            "Play Rough": null,
+            "Retaliate": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Charm": "02",
+            "Fake Tears": "03",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Fire Fang": "08",
+            "Thunder Fang": "09",
+            "Ice Fang": "10",
+            "Thief": "18",
+            "Trailblaze": "20",
+            "Facade": "25",
+            "Snarl": "30",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Dig": "55",
+            "Psychic Fangs": "63",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Rest": "85",
+            "Taunt": "87",
+            "Dark Pulse": "94",
+            "Substitute": "103",
+            "Crunch": "108",
+            "Play Rough": "127",
+            "Helping Hand": "130",
+            "Reversal": "134",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Maschiff": [
+            "It always scowls in an attempt to make opponents take it seriously, but even crying children will burst into laughter when they see Maschiff\u2019s face.",
+            "Its well-developed jaw and fangs are strong enough to crunch through boulders, and its thick fat makes for an excellent defense."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793949468676136/942.png",
+    "discord_sprite": "<:P942:1132154244808581170>"
+}

@@ -1,0 +1,212 @@
+{
+    "alt-version(s)": [],
+    "name": "Bellsprout",
+    "Bellsprout": {
+        "pokedex_data": {
+            "National No.": "0069",
+            "Type": [
+                "Grass",
+                "Poison"
+            ],
+            "Species": "Flower Poke\u0301mon",
+            "Height": "0.7 m (2\u203204\u2032\u2032)",
+            "Weight": "4.0 kg (8.8 lbs)",
+            "Abilities": {
+                "Chlorophyll": {
+                    "href": "/ability/chlorophyll",
+                    "effect": "Boosts the Pok\u00e9mon's Speed in sunshine.",
+                    "hidden": false
+                },
+                "Gluttony": {
+                    "href": "/ability/gluttony",
+                    "effect": "Encourages the early use of a held Berry.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack",
+            "Catch rate": "255",
+            "BaseFriendship": "50",
+            "Base Exp.": "60",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "50",
+                "Min": "210",
+                "Max": "304"
+            },
+            "Attack": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Defense": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Sp. Atk": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Def": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Speed": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Total": "300"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Flying": "super-effective",
+                "Psychic": "super-effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Bellsprout",
+                    "nationalNo": "#0069",
+                    "type": [
+                        "Grass",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Weepinbell",
+                    "nationalNo": "#0070",
+                    "type": [
+                        "Grass",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 21)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Weepinbell",
+                    "nationalNo": "#0070",
+                    "type": [
+                        "Grass",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Victreebel",
+                    "nationalNo": "#0071",
+                    "type": [
+                        "Grass",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Leaf Stone)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Vine Whip": "1",
+            "Growth": "7",
+            "Wrap": "11",
+            "Sleep Powder": "13",
+            "Poison Powder": "15",
+            "Stun Spore": "17",
+            "Acid": "23",
+            "Knock Off": "27",
+            "Sweet Scent": "29",
+            "Gastro Acid": "35",
+            "Razor Leaf": "39",
+            "Poison Jab": "41",
+            "Slam": "47"
+        },
+        "egg": {
+            "Acid Spray": null,
+            "Belch": null,
+            "Clear Smog": null,
+            "Encore": null,
+            "Ingrain": null,
+            "Leech Life": null,
+            "Magical Leaf": null,
+            "Power Whip": null,
+            "Strength Sap": null,
+            "Synthesis": null,
+            "Tickle": null,
+            "Weather Ball": null,
+            "Worry Seed": null
+        },
+        "tm": {
+            "Bullet Seed": "09",
+            "Sunny Day": "11",
+            "Protect": "17",
+            "Giga Drain": "19",
+            "Solar Beam": "22",
+            "Double Team": "32",
+            "Reflect": "33",
+            "Sludge Bomb": "36",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Energy Ball": "53",
+            "Endure": "58",
+            "Flash": "70",
+            "Swords Dance": "75",
+            "Sleep Talk": "82",
+            "Poison Jab": "84",
+            "Grass Knot": "86",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Cut": "93"
+        }
+    },
+    "entries": {
+        "Bellsprout": [
+            "A carnivorous pok\u00e9mon that traps and eats bugs. It uses its root feet to soak up needed moisture.",
+            "Prefers hot and humid places. It ensnares tiny insects with its vines and devours them.",
+            "Even though its body is extremely skinny, it is blindingly fast when catching its prey.",
+            "It plants its feet deep underground to replenish water. It can\u2019t escape its enemy while it\u2019s rooted.",
+            "If it notices anything that moves, it immediately flings its vine at the object.",
+            "BELLSPROUT\u2019s thin and flexible body lets it bend and sway to avoid any attack, however strong it may be. From its mouth, this pok\u00e9mon spits a corrosive fluid that melts even iron.",
+            "Its bud looks like a human face. Because of the bud, it is rumored to be a type of legendary mandrake plant.",
+            "A carnivorous pok\u00e9mon that traps and eats bugs. It appears to use its root feet to replenish moisture.",
+            "A BELLSPROUT\u2019s thin and flexible body lets it bend and sway to avoid any attack, however strong it may be. From its mouth, it leaks a fluid that melts even iron.",
+            "It prefers hot and humid environments. It is quick at capturing prey with its vines.",
+            "Even though its body is extremely skinny, it is blindingly fast when catching its prey.",
+            "It plants its feet deep underground to replenish water. It can\u2019t escape its enemy while it\u2019s rooted.",
+            "It prefers hot and humid environments. It is quick at capturing prey with its vines.",
+            "Even though its body is extremely skinny, it is blindingly fast when catching its prey.",
+            "Its bud looks like a human face. Because of the bud, it is rumored to be a type of legendary mandrake plant.",
+            "Bellsprout\u2019s thin and flexible body lets it bend and sway to avoid any attack, however strong it may be. From its mouth, this Pok\u00e9mon spits a corrosive fluid that melts even iron.",
+            "Prefers hot and humid places. It ensnares tiny bugs with its vines and devours them.",
+            "It prefers hot and humid environments. It is quick at capturing prey with its vines."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787129589080175/69.png",
+    "discord_sprite": "<:P69:1132115755765350481>"
+}

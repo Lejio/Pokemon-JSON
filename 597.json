@@ -1,0 +1,177 @@
+{
+    "alt-version(s)": [],
+    "name": "Ferroseed",
+    "Ferroseed": {
+        "pokedex_data": {
+            "National No.": "0597",
+            "Type": [
+                "Grass",
+                "Steel"
+            ],
+            "Species": "Thorn Seed Poke\u0301mon",
+            "Height": "0.6 m (2\u203200\u2032\u2032)",
+            "Weight": "18.8 kg (41.4 lbs)",
+            "Abilities": {
+                "Iron Barbs": {
+                    "href": "/ability/iron-barbs",
+                    "effect": "Inflicts damage to the Pok\u00e9mon on contact.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Defense",
+            "Catch rate": "255",
+            "BaseFriendship": "50",
+            "Base Exp.": "61",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "44",
+                "Min": "198",
+                "Max": "292"
+            },
+            "Attack": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Defense": {
+                "Base": "91",
+                "Min": "168",
+                "Max": "309"
+            },
+            "Sp. Atk": {
+                "Base": "24",
+                "Min": "47",
+                "Max": "161"
+            },
+            "Sp. Def": {
+                "Base": "86",
+                "Min": "159",
+                "Max": "298"
+            },
+            "Speed": {
+                "Base": "10",
+                "Min": "22",
+                "Max": "130"
+            },
+            "Total": "305"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Fighting": "super-effective",
+                "Poison": "no effect",
+                "Psychic": "not very effective",
+                "Rock": "not very effective",
+                "Dragon": "not very effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Ferroseed",
+                    "nationalNo": "#0597",
+                    "type": [
+                        "Grass",
+                        "Steel"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Ferrothorn",
+                    "nationalNo": "#0598",
+                    "type": [
+                        "Grass",
+                        "Steel"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 40)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Harden": "1",
+            "Tackle": "1",
+            "Metal Claw": "5",
+            "Pin Missile": "10",
+            "Ingrain": "15",
+            "Flash Cannon": "20",
+            "Iron Head": "25",
+            "Self-Destruct": "30",
+            "Iron Defense": "35",
+            "Curse": "41",
+            "Gyro Ball": "45",
+            "Explosion": "50"
+        },
+        "egg": {
+            "Acid Spray": null,
+            "Gravity": null,
+            "Knock Off": null,
+            "Leech Seed": null,
+            "Toxic": null
+        },
+        "null": {
+            "Thunderbolt": "08",
+            "Substitute": "20",
+            "Spikes": "23",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Iron Defense": "46",
+            "Gyro Ball": "52",
+            "Poison Jab": "57",
+            "Seed Bomb": "59",
+            "Energy Ball": "65",
+            "Flash Cannon": "70",
+            "Iron Head": "74",
+            "Stealth Rock": "76"
+        },
+        "tm": {
+            "Pin Missile": "07",
+            "Solar Beam": "11",
+            "Thunder Wave": "14",
+            "Self-Destruct": "20",
+            "Rest": "21",
+            "Snore": "24",
+            "Protect": "25",
+            "Giga Drain": "28",
+            "Attract": "31",
+            "Sunny Day": "34",
+            "Facade": "39",
+            "Revenge": "42",
+            "Bullet Seed": "50",
+            "Payback": "57",
+            "Assurance": "58",
+            "Round": "76"
+        }
+    },
+    "entries": {
+        "Ferroseed": [
+            "When threatened, it attacks by shooting a barrage of spikes, which gives it a chance to escape by rolling away.",
+            "They stick their spikes into cave walls and absorb the minerals they find in the rock.",
+            "It absorbs the iron it finds in the rock while clinging to the ceiling. It shoots spikes when in danger.",
+            "When threatened, it attacks by shooting a barrage of spikes, which gives it a chance to escape by rolling away.",
+            "It absorbs the iron it finds in the rock while clinging to the ceiling. It shoots spikes when in danger.",
+            "It defends itself by launching spikes, but its aim isn\u2019t very good at first. Only after a lot of practice will it improve.",
+            "Mossy caves are their preferred dwellings. Enzymes contained in mosses help Ferroseed\u2019s spikes grow big and strong."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791253730754712/597.png",
+    "discord_sprite": "<:P597:1132139008726663269>"
+}

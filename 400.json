@@ -1,0 +1,204 @@
+{
+    "alt-version(s)": [],
+    "name": "Bibarel",
+    "Bibarel": {
+        "pokedex_data": {
+            "National No.": "0400",
+            "Type": [
+                "Normal",
+                "Water"
+            ],
+            "Species": "Beaver Poke\u0301mon",
+            "Height": "1.0 m (3\u203203\u2032\u2032)",
+            "Weight": "31.5 kg (69.4 lbs)",
+            "Abilities": {
+                "Simple": {
+                    "href": "/ability/simple",
+                    "effect": "Doubles all stat changes.",
+                    "hidden": false
+                },
+                "Unaware": {
+                    "href": "/ability/unaware",
+                    "effect": "Ignores any stat changes in the Pok\u00e9mon.",
+                    "hidden": false
+                },
+                "Moody": {
+                    "href": "/ability/moody",
+                    "effect": "Raises one stat and lowers another.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "127",
+            "BaseFriendship": "50",
+            "Base Exp.": "144",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "79",
+                "Min": "268",
+                "Max": "362"
+            },
+            "Attack": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Defense": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Atk": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Sp. Def": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Speed": {
+                "Base": "71",
+                "Min": "132",
+                "Max": "265"
+            },
+            "Total": "410"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Ghost": "no effect",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Bidoof",
+                    "nationalNo": "#0399",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Bibarel",
+                    "nationalNo": "#0400",
+                    "type": [
+                        "Normal",
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 15)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Aqua Jet": "1",
+            "Growl": "1",
+            "Tackle": "1",
+            "Water Gun": "1",
+            "Defense Curl": "5",
+            "Rollout": "9",
+            "Headbutt": "13",
+            "Taunt": "18",
+            "Yawn": "23",
+            "Crunch": "28",
+            "Take Down": "33",
+            "Super Fang": "38",
+            "Swords Dance": "43",
+            "Amnesia": "48",
+            "Superpower": "53",
+            "Curse": "58"
+        },
+        "evolution": {
+            "Water Gun": "40"
+        },
+        "egg": {
+            "Aqua Tail": null,
+            "Defense Curl": null,
+            "Double-Edge": null,
+            "Fury Swipes": null,
+            "Quick Attack": null,
+            "Rollout": null,
+            "Skull Bash": null
+        },
+        "tm": {
+            "Focus Punch": "01",
+            "Water Pulse": "03",
+            "Work Up": "10",
+            "Sunny Day": "11",
+            "Taunt": "12",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Iron Tail": "23",
+            "Thunderbolt": "24",
+            "Thunder": "25",
+            "Dig": "28",
+            "Shadow Ball": "30",
+            "Double Team": "32",
+            "Shock Wave": "34",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Scald": "49",
+            "Fling": "56",
+            "Charge Beam": "57",
+            "Endure": "58",
+            "Giga Impact": "68",
+            "Thunder Wave": "73",
+            "Swords Dance": "75",
+            "Stealth Rock": "76",
+            "Sleep Talk": "82",
+            "Bulldoze": "83",
+            "Grass Knot": "86",
+            "Swagger": "87",
+            "Pluck": "88",
+            "Substitute": "90",
+            "Cut": "93",
+            "Surf": "95",
+            "Strength": "96",
+            "Rock Smash": "98",
+            "Waterfall": "99",
+            "Rock Climb": "100"
+        }
+    },
+    "entries": {
+        "Bibarel": [
+            "It makes its nest by damming streams with bark and mud. It is known as an industrious worker.",
+            "While its movements out of water are sluggish, it can swim as fast as any FEEBAS.",
+            "A river dammed by BIBAREL will never overflow its banks, which is appreciated by people nearby.",
+            "It busily makes its nest with stacks of branches and roots it has cut up with its sharp incisors.",
+            "A river dammed by Bibarel will never overflow its banks, which is appreciated by people nearby.",
+            "It busily makes its nest with stacks of branches and roots it has cut up with its sharp incisors.",
+            "It makes its nest by damming streams with bark and mud. It is known as an industrious worker.",
+            "It makes its nest by damming streams with bark and mud. It is known as an industrious worker.",
+            "While its movements out of water are sluggish, it can swim as fast as any Feebas.",
+            "Bibarel fur repels water and is also a fantastic material for heat retention. These Pok\u00e9mon create dams on rivers to live in."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789723363451021/400.png",
+    "discord_sprite": "<:P400:1132130335103127572>"
+}

@@ -1,0 +1,204 @@
+{
+    "alt-version(s)": [],
+    "name": "Ariados",
+    "Ariados": {
+        "pokedex_data": {
+            "National No.": "0168",
+            "Type": [
+                "Bug",
+                "Poison"
+            ],
+            "Species": "Long Leg Poke\u0301mon",
+            "Height": "1.1 m (3\u203207\u2032\u2032)",
+            "Weight": "33.5 kg (73.9 lbs)",
+            "Abilities": {
+                "Swarm": {
+                    "href": "/ability/swarm",
+                    "effect": "Powers up Bug-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Insomnia": {
+                    "href": "/ability/insomnia",
+                    "effect": "Prevents the Pok\u00e9mon from falling asleep.",
+                    "hidden": false
+                },
+                "Sniper": {
+                    "href": "/ability/sniper",
+                    "effect": "Powers up moves if they become critical hits.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "90",
+            "BaseFriendship": "50",
+            "Base Exp.": "140",
+            "Growth Rate": "Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "70",
+                "Min": "250",
+                "Max": "344"
+            },
+            "Attack": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Defense": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Atk": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Def": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Speed": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Total": "400"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Grass": "not very effective",
+                "Fighting": "not very effective",
+                "Poison": "not very effective",
+                "Flying": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Spinarak",
+                    "nationalNo": "#0167",
+                    "type": [
+                        "Bug",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Ariados",
+                    "nationalNo": "#0168",
+                    "type": [
+                        "Bug",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 22)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Absorb": "5",
+            "Bug Bite": "1",
+            "Fell Stinger": "1",
+            "Focus Energy": "1",
+            "Poison Sting": "1",
+            "String Shot": "1",
+            "Swords Dance": "1",
+            "Venom Drench": "1",
+            "Infestation": "8",
+            "Scary Face": "12",
+            "Night Shade": "15",
+            "Shadow Sneak": "19",
+            "Fury Swipes": "23",
+            "Sucker Punch": "28",
+            "Leech Life": "32",
+            "Agility": "37",
+            "Pin Missile": "41",
+            "Psychic": "46",
+            "Poison Jab": "50",
+            "Cross Poison": "55",
+            "Sticky Web": "58",
+            "Toxic Thread": "63"
+        },
+        "evolution": {
+            "Swords Dance": "\u2014"
+        },
+        "egg": {
+            "Baton Pass": null,
+            "Disable": null,
+            "Lunge": null,
+            "Megahorn": null,
+            "Night Slash": null,
+            "Psybeam": null,
+            "Rage Powder": null,
+            "Toxic Spikes": null
+        },
+        "tm": {
+            "Sunny Day": "11",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Giga Drain": "19",
+            "Solar Beam": "22",
+            "Dig": "28",
+            "Psychic": "29",
+            "Double Team": "32",
+            "Sludge Bomb": "36",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Endure": "58",
+            "Bug Buzz": "62",
+            "Giga Impact": "68",
+            "Flash": "70",
+            "Swords Dance": "75",
+            "X-Scissor": "81",
+            "Sleep Talk": "82",
+            "Poison Jab": "84",
+            "Swagger": "87",
+            "Substitute": "90"
+        }
+    },
+    "entries": {
+        "Ariados": [
+            "It spins string not only from its rear but also from its mouth. It is hard to tell which end is which.",
+            "A single strand of a special string is endlessly spun out of its rear. The string leads back to its nest.",
+            "Rather than making a nest in one specific spot, it wanders in search of food after darkness falls.",
+            "ARIADOS\u2019s feet are tipped with tiny hooked claws that enable it to scuttle on ceilings and vertical walls. This pok\u00e9mon constricts the foe with thin and strong silk webbing.",
+            "A single strand of a special string is endlessly spun out of its rear. The string leads back to its nest.",
+            "It spins string not only from its rear but also from its mouth. It is hard to tell which end is which.",
+            "Its feet are tipped with tiny hooked claws that enable it to scuttle on ceilings and vertical walls. It constricts its foe with thin and strong silk webbing.",
+            "It attaches silk to its prey and sets it free. Later, it tracks the silk to the prey and its friends.",
+            "It spins string not only from its rear but also from its mouth. It\u2019s hard to tell which end is which.",
+            "A single strand of a special string is endlessly spun out of its rear. The string leads back to its nest.",
+            "It attaches silk to its prey and sets it free. Later, it tracks the silk to the prey and its friends.",
+            "It spins string not only from its rear but also from its mouth. It\u2019s hard to tell which end is which.",
+            "It attaches silk to its prey and sets it free. Later, it tracks the silk to the prey and its friends.",
+            "Ariados\u2019s feet are tipped with tiny hooked claws that enable it to scuttle on ceilings and vertical walls. This Pok\u00e9mon constricts the foe with thin and strong silk webbing.",
+            "There are some areas where people use the string Ariados spins for their own weaving. The resulting cloth is popular for its strength.",
+            "It spins thread from both its rear and its mouth. Then it wraps its prey up in thread and sips their bodily fluids at its leisure.",
+            "Every night, it wanders around in search of prey, whose movements it restrains by spewing threads before it bites into them with its fangs.",
+            "It spews threads from its mouth to catch its prey. When night falls, it leaves its web to go hunt aggressively.",
+            "It attaches silk to its prey and sets it free. Later, it tracks the silk to the prey and its friends."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787902880333935/168.png",
+    "discord_sprite": "<:P168:1132120127924600915>"
+}

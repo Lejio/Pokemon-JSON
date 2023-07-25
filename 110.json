@@ -1,0 +1,361 @@
+{
+    "alt-version(s)": [
+        "Galarian Weezing"
+    ],
+    "name": "Weezing",
+    "Weezing": {
+        "pokedex_data": {
+            "National No.": "0110",
+            "Type": [
+                "Poison"
+            ],
+            "Species": "Poison Gas Poke\u0301mon",
+            "Height": "1.2 m (3\u203211\u2032\u2032)",
+            "Weight": "9.5 kg (20.9 lbs)",
+            "Abilities": {
+                "Levitate": {
+                    "href": "/ability/levitate",
+                    "effect": "Gives immunity to Ground type moves.",
+                    "hidden": false
+                },
+                "Neutralizing Gas": {
+                    "href": "/ability/neutralizing-gas",
+                    "effect": "Neutralizes abilities of all Pok\u00e9mon in battle.",
+                    "hidden": false
+                },
+                "Stench": {
+                    "href": "/ability/stench",
+                    "effect": "The stench may cause the target to flinch.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Defense",
+            "Catch rate": "60",
+            "BaseFriendship": "50",
+            "Base Exp.": "172",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "65",
+                "Min": "240",
+                "Max": "334"
+            },
+            "Attack": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Defense": {
+                "Base": "120",
+                "Min": "220",
+                "Max": "372"
+            },
+            "Sp. Atk": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Sp. Def": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Speed": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Total": "490"
+        },
+        "defense_stats": {
+            "Levitate ability": {
+                "Grass": "not very effective",
+                "Fighting": "not very effective",
+                "Poison": "not very effective",
+                "Ground": "no effect",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Fairy": "not very effective"
+            },
+            "Neutralizing Gas ability": {
+                "Grass": "not very effective",
+                "Fighting": "not very effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Fairy": "not very effective"
+            },
+            "Stench ability": {
+                "Grass": "not very effective",
+                "Fighting": "not very effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "Galarian Weezing": {
+        "pokedex_data": {
+            "National No.": "0110",
+            "Type": [
+                "Poison",
+                "Fairy"
+            ],
+            "Species": "Poison Gas Poke\u0301mon",
+            "Height": "3.0 m (9\u203210\u2032\u2032)",
+            "Weight": "16.0 kg (35.3 lbs)",
+            "Abilities": {
+                "Levitate": {
+                    "href": "/ability/levitate",
+                    "effect": "Gives immunity to Ground type moves.",
+                    "hidden": false
+                },
+                "Neutralizing Gas": {
+                    "href": "/ability/neutralizing-gas",
+                    "effect": "Neutralizes abilities of all Pok\u00e9mon in battle.",
+                    "hidden": false
+                },
+                "Misty Surge": {
+                    "href": "/ability/misty-surge",
+                    "effect": "The Pok\u00e9mon creates a Misty Terrain when it enters a battle.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Defense",
+            "Catch rate": "60",
+            "BaseFriendship": "50",
+            "Base Exp.": "172",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "65",
+                "Min": "240",
+                "Max": "334"
+            },
+            "Attack": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Defense": {
+                "Base": "120",
+                "Min": "220",
+                "Max": "372"
+            },
+            "Sp. Atk": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Sp. Def": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Speed": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Total": "490"
+        },
+        "defense_stats": {
+            "Levitate ability": {
+                "Grass": "not very effective",
+                "Fighting": "not very effective",
+                "Ground": "no effect",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Dragon": "no effect",
+                "Dark": "not very effective",
+                "Steel": "super-effective",
+                "Fairy": "not very effective"
+            },
+            "Neutralizing Gas ability": {
+                "Grass": "not very effective",
+                "Fighting": "not very effective",
+                "Ground": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Dragon": "no effect",
+                "Dark": "not very effective",
+                "Steel": "super-effective",
+                "Fairy": "not very effective"
+            },
+            "Misty Surge ability": {
+                "Grass": "not very effective",
+                "Fighting": "not very effective",
+                "Ground": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Dragon": "no effect",
+                "Dark": "not very effective",
+                "Steel": "super-effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Koffing",
+                    "nationalNo": "#0109",
+                    "type": [
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Weezing",
+                    "nationalNo": "#0110",
+                    "type": [
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 35, outside Galar)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Koffing",
+                    "nationalNo": "#0109",
+                    "type": [
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Weezing",
+                    "nationalNo": "#0110",
+                    "type": [
+                        "Poison",
+                        "Fairy"
+                    ],
+                    "nickname": "Galarian Weezing"
+                },
+                "requirement": "(Level 35, in Galar)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Double Hit": "1",
+            "Heat Wave": "1",
+            "Poison Gas": "1",
+            "Smog": "1",
+            "Smokescreen": "1",
+            "Tackle": "1",
+            "Clear Smog": "12",
+            "Assurance": "16",
+            "Sludge": "20",
+            "Haze": "24",
+            "Self-Destruct": "28",
+            "Sludge Bomb": "32",
+            "Toxic": "38",
+            "Belch": "44",
+            "Explosion": "50",
+            "Memento": "56",
+            "Destiny Bond": "62"
+        },
+        "evolution": {
+            "Double Hit": "35"
+        },
+        "egg": {
+            "Curse": null,
+            "Destiny Bond": null,
+            "Grudge": null,
+            "Pain Split": null,
+            "Psybeam": null,
+            "Screech": null,
+            "Spit Up": null,
+            "Spite": null,
+            "Stockpile": null,
+            "Swallow": null,
+            "Toxic Spikes": null,
+            "Venom Drench": null
+        },
+        "tm": {
+            "Toxic": "06",
+            "Sunny Day": "11",
+            "Taunt": "12",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Thunderbolt": "24",
+            "Thunder": "25",
+            "Shadow Ball": "30",
+            "Double Team": "32",
+            "Shock Wave": "34",
+            "Flamethrower": "35",
+            "Sludge Bomb": "36",
+            "Fire Blast": "38",
+            "Torment": "41",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Endure": "58",
+            "Will-O-Wisp": "61",
+            "Explosion": "64",
+            "Payback": "66",
+            "Giga Impact": "68",
+            "Flash": "70",
+            "Gyro Ball": "74",
+            "Dark Pulse": "79",
+            "Sleep Talk": "82",
+            "Swagger": "87",
+            "Substitute": "90"
+        }
+    },
+    "entries": {
+        "Weezing": [
+            "Where two kinds of poison gases meet, 2 KOFFINGs can fuse into a WEEZING over many years.",
+            "It lives and grows by absorbing dust, germs and poison gases that are contained in toxic waste and garbage.",
+            "If one of the twin KOFFING inflates, the other one deflates. It constantly mixes its poisonous gases.",
+            "Top-grade perfume is made using its internal poison gases by diluting them to the highest level.",
+            "When it inhales poisonous gases from garbage, its body expands, and its insides smell much worse.",
+            "WEEZING loves the gases given off by rotted kitchen garbage. This pok\u00e9mon will find a dirty, unkempt house and make it its home. At night, when the people in the house are asleep, it will go through the trash.",
+            "WEEZING alternately shrinks and inflates its twin bodies to mix together toxic gases inside. The more the gases are mixed, the more powerful the toxins become. The pok\u00e9mon also becomes more putrid.",
+            "Very rarely, a sudden mutation can result in two small KOFFING twins becoming conjoined as a WEEZING.",
+            "Where two kinds of poison gases meet, two KOFFING can fuse into a WEEZING over many years.",
+            "By diluting its toxic gases with a special process, the highest grade of perfume can be extracted. To WEEZING, gases emanating from garbage are the ultimate feast.",
+            "It grows by feeding on gases released by garbage. Though very rare, triplets have been found.",
+            "If one of the twin KOFFING inflates, the other one deflates. It constantly mixes its poisonous gases.",
+            "Top-grade perfume is made using its internal poison gases by diluting them to the highest level.",
+            "It grows by feeding on gases released by garbage. Though very rare, triplets have been found.",
+            "Inhaling toxic fumes from trash and mixing them inside its body lets it spread an even fouler stench.",
+            "If one of the twin Koffing inflates, the other one deflates. It constantly mixes its poisonous gases.",
+            "Very rarely, a sudden mutation can result in two small Koffing twins becoming conjoined as a Weezing.",
+            "Weezing loves the gases given off by rotted kitchen garbage. This Pok\u00e9mon will find a dirty, unkempt house and make it its home. At night, when the people in the house are asleep, it will go through the trash.",
+            "Weezing alternately shrinks and inflates its twin bodies to mix together toxic gases inside. The more the gases are mixed, the more powerful the toxins become. The Pok\u00e9mon also becomes more putrid.",
+            "This Pok\u00e9mon lives and grows by absorbing poison gas, dust, and germs that exist inside garbage.",
+            "It mixes gases between its two bodies. It\u2019s said that these Pok\u00e9mon were seen all over the Galar region back in the day.",
+            "It can\u2019t suck in air quite as well as a Galarian Weezing, but the toxins it creates are more potent than those of its counterpart.",
+            "It grows by feeding on gases released by garbage. Though very rare, triplets have been found."
+        ],
+        "Galarian Weezing": [
+            "This Pok\u00e9mon consumes particles that contaminate the air. Instead of leaving droppings, it expels clean air.",
+            "Long ago, during a time when droves of factories fouled the air with pollution, Weezing changed into this form for some reason."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787449778053161/110.png",
+    "discord_sprite": "<:P110:1132117570523250758>"
+}

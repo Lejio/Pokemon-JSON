@@ -1,0 +1,200 @@
+{
+    "alt-version(s)": [],
+    "name": "Roggenrola",
+    "Roggenrola": {
+        "pokedex_data": {
+            "National No.": "0524",
+            "Type": [
+                "Rock"
+            ],
+            "Species": "Mantle Poke\u0301mon",
+            "Height": "0.4 m (1\u203204\u2032\u2032)",
+            "Weight": "18.0 kg (39.7 lbs)",
+            "Abilities": {
+                "Sturdy": {
+                    "href": "/ability/sturdy",
+                    "effect": "It cannot be knocked out with one hit.",
+                    "hidden": false
+                },
+                "Weak Armor": {
+                    "href": "/ability/weak-armor",
+                    "effect": "Physical attacks lower Defense and raise Speed.",
+                    "hidden": false
+                },
+                "Sand Force": {
+                    "href": "/ability/sand-force",
+                    "effect": "Boosts certain moves' power in a sandstorm.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Defense",
+            "Catch rate": "255",
+            "BaseFriendship": "50",
+            "Base Exp.": "56",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "55",
+                "Min": "220",
+                "Max": "314"
+            },
+            "Attack": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Defense": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Sp. Atk": {
+                "Base": "25",
+                "Min": "49",
+                "Max": "163"
+            },
+            "Sp. Def": {
+                "Base": "25",
+                "Min": "49",
+                "Max": "163"
+            },
+            "Speed": {
+                "Base": "15",
+                "Min": "31",
+                "Max": "141"
+            },
+            "Total": "280"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Grass": "super-effective",
+                "Fighting": "super-effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Roggenrola",
+                    "nationalNo": "#0524",
+                    "type": [
+                        "Rock"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Boldore",
+                    "nationalNo": "#0525",
+                    "type": [
+                        "Rock"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 25)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Boldore",
+                    "nationalNo": "#0525",
+                    "type": [
+                        "Rock"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Gigalith",
+                    "nationalNo": "#0526",
+                    "type": [
+                        "Rock"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Trade)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Sand Attack": "1",
+            "Tackle": "1",
+            "Harden": "4",
+            "Stealth Rock": "8",
+            "Mud-Slap": "12",
+            "Smack Down": "16",
+            "Iron Defense": "20",
+            "Headbutt": "24",
+            "Rock Slide": "28",
+            "Rock Blast": "32",
+            "Sandstorm": "36",
+            "Stone Edge": "40",
+            "Explosion": "44"
+        },
+        "egg": {
+            "Autotomize": null,
+            "Curse": null,
+            "Gravity": null,
+            "Take Down": null,
+            "Wide Guard": null
+        },
+        "null": {
+            "Earthquake": "10",
+            "Substitute": "20",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Iron Defense": "46",
+            "Earth Power": "67",
+            "Flash Cannon": "70",
+            "Stone Edge": "75",
+            "Stealth Rock": "76",
+            "Heavy Slam": "79",
+            "Body Press": "99"
+        },
+        "tm": {
+            "Rest": "21",
+            "Rock Slide": "22",
+            "Snore": "24",
+            "Protect": "25",
+            "Attract": "31",
+            "Sandstorm": "32",
+            "Facade": "39",
+            "Rock Tomb": "48",
+            "Sand Tomb": "49",
+            "Rock Blast": "54",
+            "Round": "76",
+            "Bulldoze": "81"
+        }
+    },
+    "entries": {
+        "Roggenrola": [
+            "Its ear is hexagonal in shape. Compressed underground, its body is as hard as steel.",
+            "They were discovered a hundred years ago in an earthquake fissure. Inside each one is an energy core.",
+            "The hexagonal-shaped hole is its ear. It has a tendency to walk in the direction the sound is coming from.",
+            "Its ear is hexagonal in shape. Compressed underground, its body is as hard as steel.",
+            "They were discovered a hundred years ago in an earthquake fissure. Inside each one is an energy core.",
+            "Born deep within the ground, it compares itself with similar species, such as Geodude and Carbink, to settle which has the hardest body.",
+            "The hexagonal cavity is its ear. It walks in the direction of sounds it hears, but if the sounds cease, it panics and topples over.",
+            "The hexagonal hole is its ear. Deep in that ear is an energy core, so if you stick your hand in there, Roggenrola will be very angry!",
+            "It was found in a fissure in a layer of exposed rock. The material that makes up its body is dirt from several hundred years ago.",
+            "It\u2019s as hard as steel, but apparently a long soak in water will cause it to soften a bit.",
+            "When it detects a noise, it starts to move. The energy core inside it makes this Pok\u00e9mon slightly warm to the touch."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790686841208902/524.png",
+    "discord_sprite": "<:P524:1132135790495936562>"
+}

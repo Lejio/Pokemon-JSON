@@ -1,0 +1,179 @@
+{
+    "alt-version(s)": [],
+    "name": "Amoonguss",
+    "Amoonguss": {
+        "pokedex_data": {
+            "National No.": "0591",
+            "Type": [
+                "Grass",
+                "Poison"
+            ],
+            "Species": "Mushroom Poke\u0301mon",
+            "Height": "0.6 m (2\u203200\u2032\u2032)",
+            "Weight": "10.5 kg (23.1 lbs)",
+            "Abilities": {
+                "Effect Spore": {
+                    "href": "/ability/effect-spore",
+                    "effect": "Contact may poison or cause paralysis or sleep.",
+                    "hidden": false
+                },
+                "Regenerator": {
+                    "href": "/ability/regenerator",
+                    "effect": "Restores a little HP when withdrawn from battle.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 HP",
+            "Catch rate": "75",
+            "BaseFriendship": "50",
+            "Base Exp.": "162",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "114",
+                "Min": "338",
+                "Max": "432"
+            },
+            "Attack": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Defense": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Atk": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Sp. Def": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Speed": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Total": "464"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Flying": "super-effective",
+                "Psychic": "super-effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Foongus",
+                    "nationalNo": "#0590",
+                    "type": [
+                        "Grass",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Amoonguss",
+                    "nationalNo": "#0591",
+                    "type": [
+                        "Grass",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 39)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Absorb": "1",
+            "Astonish": "1",
+            "Growth": "1",
+            "Stun Spore": "1",
+            "Mega Drain": "12",
+            "Synthesis": "16",
+            "Clear Smog": "20",
+            "Sweet Scent": "24",
+            "Giga Drain": "28",
+            "Ingrain": "32",
+            "Toxic": "36",
+            "Rage Powder": "42",
+            "Solar Beam": "48",
+            "Spore": "54"
+        },
+        "egg": {
+            "Defense Curl": null,
+            "Poison Powder": null,
+            "Rollout": null,
+            "Worry Seed": null
+        },
+        "tm": {
+            "Scary Face": "06",
+            "Protect": "07",
+            "Facade": "25",
+            "Hex": "29",
+            "Magical Leaf": "33",
+            "Venoshock": "45",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Bullet Seed": "56",
+            "Foul Play": "62",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Seed Bomb": "71",
+            "Grass Knot": "81",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Substitute": "103",
+            "Giga Drain": "111",
+            "Energy Ball": "119",
+            "Pollen Puff": "131",
+            "Grassy Terrain": "137",
+            "Sludge Bomb": "148",
+            "Giga Impact": "152",
+            "Leaf Storm": "159",
+            "Hyper Beam": "163",
+            "Solar Beam": "168",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Amoonguss": [
+            "It lures prey close by dancing and waving its arm caps, which resemble Pok\u00e9 Balls, in a swaying motion.",
+            "They show off their Pok\u00e9 Ball caps to lure prey, but very few Pok\u00e9mon are fooled by this.",
+            "It moves the caps on both arms and does a dance to lure prey. It prefers damp places.",
+            "They show off their Pok\u00e9 Ball caps to lure prey, but very few Pok\u00e9mon are fooled by this.",
+            "It lures prey close by dancing and waving its arm caps, which resemble Pok\u00e9 Balls, in a swaying motion.",
+            "This Pok\u00e9mon puffs poisonous spores at its foes. If the spores aren\u2019t washed off quickly, they\u2019ll grow into mushrooms wherever they land.",
+            "Amoonguss generally doesn\u2019t move much. It tends to stand still near Pok\u00e9 Balls that have been dropped on the ground.",
+            "Be wary of the poisonous spores it releases. Mushrooms resembling Amoonguss\u2019s caps will grow out of anywhere the spores touch.",
+            "Amoonguss mimics Pok\u00e9 Balls. It is not yet clear whether this mimicry is effective against other Pok\u00e9mon."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791207585042483/591.png",
+    "discord_sprite": "<:P591:1132138744586186832>"
+}

@@ -1,0 +1,182 @@
+{
+    "alt-version(s)": [],
+    "name": "Magearna",
+    "Magearna": {
+        "pokedex_data": {
+            "National No.": "0801",
+            "Type": [
+                "Steel",
+                "Fairy"
+            ],
+            "Species": "Artificial Poke\u0301mon",
+            "Height": "1.0 m (3\u203203\u2032\u2032)",
+            "Weight": "80.5 kg (177.5 lbs)",
+            "Abilities": {
+                "Soul-Heart": {
+                    "href": "/ability/soul-heart",
+                    "effect": "Raises Special Attack when another Pok\u00e9mon faints.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Sp. Atk",
+            "Catch rate": "3",
+            "BaseFriendship": "0",
+            "Base Exp.": "300",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "80",
+                "Min": "270",
+                "Max": "364"
+            },
+            "Attack": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Defense": {
+                "Base": "115",
+                "Min": "211",
+                "Max": "361"
+            },
+            "Sp. Atk": {
+                "Base": "130",
+                "Min": "238",
+                "Max": "394"
+            },
+            "Sp. Def": {
+                "Base": "115",
+                "Min": "211",
+                "Max": "361"
+            },
+            "Speed": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Total": "600"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Fire": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Poison": "no effect",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Dragon": "no effect",
+                "Dark": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Gyro Ball": "1",
+            "Helping Hand": "1",
+            "Defense Curl": "6",
+            "Rollout": "12",
+            "Iron Defense": "18",
+            "Magnetic Flux": "24",
+            "Psybeam": "30",
+            "Aurora Beam": "36",
+            "Lock-On": "42",
+            "Shift Gear": "48",
+            "Trick": "54",
+            "Iron Head": "60",
+            "Aura Sphere": "66",
+            "Flash Cannon": "72",
+            "Pain Split": "78",
+            "Zap Cannon": "84",
+            "Fleur Cannon": "90"
+        },
+        "egg": null,
+        "tm": {
+            "Take Down": "01",
+            "Agility": "04",
+            "Protect": "07",
+            "Psybeam": "16",
+            "Confuse Ray": "17",
+            "Disarming Voice": "19",
+            "Charge Beam": "23",
+            "Facade": "25",
+            "Swift": "32",
+            "Draining Kiss": "37",
+            "Stored Power": "41",
+            "Endure": "47",
+            "Volt Switch": "48",
+            "Sunny Day": "49",
+            "Snowscape": "52",
+            "Psyshock": "54",
+            "False Swipe": "57",
+            "Brick Break": "58",
+            "Zen Headbutt": "59",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Electro Ball": "72",
+            "Reflect": "74",
+            "Light Screen": "75",
+            "Dazzling Gleam": "79",
+            "Grass Knot": "81",
+            "Thunder Wave": "82",
+            "Rest": "85",
+            "Spikes": "90",
+            "Imprison": "92",
+            "Flash Cannon": "93",
+            "Eerie Impulse": "96",
+            "Skill Swap": "98",
+            "Iron Head": "99",
+            "Substitute": "103",
+            "Iron Defense": "104",
+            "Trick": "109",
+            "Aura Sphere": "112",
+            "Shadow Ball": "114",
+            "Energy Ball": "119",
+            "Psychic": "120",
+            "Heavy Slam": "121",
+            "Encore": "122",
+            "Ice Spinner": "124",
+            "Thunderbolt": "126",
+            "Play Rough": "127",
+            "Calm Mind": "129",
+            "Helping Hand": "130",
+            "Baton Pass": "132",
+            "Ice Beam": "135",
+            "Misty Terrain": "139",
+            "Giga Impact": "152",
+            "Focus Blast": "158",
+            "Trick Room": "161",
+            "Hyper Beam": "163",
+            "Solar Beam": "168",
+            "Steel Beam": "170",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Magearna": [
+            "This artificial Pok\u00e9mon, constructed more than 500 years ago, can understand human speech but cannot itself speak.",
+            "Its mechanized body is merely a vessel. Its true self is its Soul-Heart, an artificial soul.",
+            "It synchronizes its consciousness with others to understand their feelings. This faculty makes it useful for taking care of people.",
+            "Built roughly 500 years ago by a scientist, the part called the Soul-Heart is the actual life-form."
+        ],
+        "Original Color": [
+            "This beautiful form reflects Magearna\u2019s appearance when first presented to a king\u2019s daughter 500 years ago.",
+            "This gorgeous Magearna looks as it did at the time of its invention. Its luxurious decoration pleased the king\u2019s daughter.",
+            "This is its form from almost 500 years ago. Its body is nothing more than a container\u2014its artificial heart is the actual life-form.",
+            "It functions thanks to its artificial soul. The vivid decoration is proof that it was presented as a gift to royalty."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792850317742180/801.png",
+    "discord_sprite": "<:P801:1132148048982716498>"
+}

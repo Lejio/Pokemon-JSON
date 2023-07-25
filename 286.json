@@ -1,0 +1,221 @@
+{
+    "alt-version(s)": [],
+    "name": "Breloom",
+    "Breloom": {
+        "pokedex_data": {
+            "National No.": "0286",
+            "Type": [
+                "Grass",
+                "Fighting"
+            ],
+            "Species": "Mushroom Poke\u0301mon",
+            "Height": "1.2 m (3\u203211\u2032\u2032)",
+            "Weight": "39.2 kg (86.4 lbs)",
+            "Abilities": {
+                "Effect Spore": {
+                    "href": "/ability/effect-spore",
+                    "effect": "Contact may poison or cause paralysis or sleep.",
+                    "hidden": false
+                },
+                "Poison Heal": {
+                    "href": "/ability/poison-heal",
+                    "effect": "Restores HP if the Pok\u00e9mon is poisoned.",
+                    "hidden": false
+                },
+                "Technician": {
+                    "href": "/ability/technician",
+                    "effect": "Powers up the Pok\u00e9mon's weaker moves.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "90",
+            "BaseFriendship": "50",
+            "Base Exp.": "161",
+            "Growth Rate": "Fluctuating"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "60",
+                "Min": "230",
+                "Max": "324"
+            },
+            "Attack": {
+                "Base": "130",
+                "Min": "238",
+                "Max": "394"
+            },
+            "Defense": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Sp. Atk": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Def": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Speed": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Total": "460"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Poison": "super-effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Psychic": "super-effective",
+                "Rock": "not very effective",
+                "Dark": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Shroomish",
+                    "nationalNo": "#0285",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Breloom",
+                    "nationalNo": "#0286",
+                    "type": [
+                        "Grass",
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 23)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Absorb": "1",
+            "Growth": "1",
+            "Leech Seed": "1",
+            "Poison Powder": "1",
+            "Stun Spore": "1",
+            "Tackle": "1",
+            "Toxic": "1",
+            "Mega Drain": "12",
+            "Headbutt": "15",
+            "Feint": "19",
+            "Counter": "22",
+            "Force Palm": "28",
+            "Worry Seed": "33",
+            "Brick Break": "39",
+            "Seed Bomb": "44",
+            "Dynamic Punch": "50",
+            "Focus Punch": "55"
+        },
+        "evolution": {
+            "Mach Punch": "40"
+        },
+        "egg": {
+            "Charm": null,
+            "Fake Tears": null,
+            "Helping Hand": null,
+            "Worry Seed": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Charm": "02",
+            "Fake Tears": "03",
+            "Mud-Slap": "05",
+            "Protect": "07",
+            "Low Kick": "12",
+            "Pounce": "21",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Bulldoze": "28",
+            "Swift": "32",
+            "Magical Leaf": "33",
+            "Mud Shot": "35",
+            "Rock Tomb": "36",
+            "Low Sweep": "39",
+            "Fling": "43",
+            "Venoshock": "45",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Dig": "55",
+            "Bullet Seed": "56",
+            "False Swipe": "57",
+            "Brick Break": "58",
+            "Zen Headbutt": "59",
+            "Bulk Up": "64",
+            "Body Slam": "66",
+            "Thunder Punch": "68",
+            "Sleep Talk": "70",
+            "Seed Bomb": "71",
+            "Drain Punch": "73",
+            "Grass Knot": "81",
+            "Poison Jab": "83",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Swords Dance": "88",
+            "Gunk Shot": "102",
+            "Substitute": "103",
+            "Giga Drain": "111",
+            "Energy Ball": "119",
+            "Helping Hand": "130",
+            "Reversal": "134",
+            "Grassy Terrain": "137",
+            "Sludge Bomb": "148",
+            "Stone Edge": "150",
+            "Giga Impact": "152",
+            "Focus Blast": "158",
+            "Leaf Storm": "159",
+            "Hyper Beam": "163",
+            "Close Combat": "167",
+            "Solar Beam": "168",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Breloom": [
+            "BRELOOM closes in on its foe with light and sprightly footwork, then throws punches with its stretchy arms. This pok\u00e9mon\u2019s fighting technique puts boxers to shame.",
+            "The seeds ringing BRELOOM\u2019s tail are made of hardened toxic spores. It is horrible to eat the seeds. Just taking a bite of this pok\u00e9mon\u2019s seed will cause your stomach to rumble.",
+            "The seeds on its tail are made of toxic spores. It knocks out foes with quick, virtually invisible punches.",
+            "It scatters spores from holes in the cap on its head. It loves warm and humid climates. It feeds on trees and plants in fields and forests.",
+            "Its short arms stretch when it throws punches. Its technique is equal to that of pro boxers.",
+            "It scatters poisonous spores and throws powerful punches while its foe is hampered by inhaled spores.",
+            "Its short arms stretch when it throws punches. Its technique is equal to that of pro boxers.",
+            "Its short arms stretch when it throws punches. Its technique is equal to that of pro boxers.",
+            "It scatters poisonous spores and throws powerful punches while its foe is hampered by inhaled spores.",
+            "Breloom closes in on its foe with light and sprightly footwork, then throws punches with its stretchy arms. This Pok\u00e9mon\u2019s fighting technique puts boxers to shame.",
+            "The seeds ringing Breloom\u2019s tail are made of hardened toxic spores. It is horrible to eat the seeds. Just taking a bite of this Pok\u00e9mon\u2019s seed will cause your stomach to rumble.",
+            "Its short arms stretch when it throws punches. Its technique is equal to that of pro boxers.",
+            "It scatters poisonous spores and throws powerful punches while its foe is hampered by inhaled spores.",
+            "The seeds on its tail are made of toxic spores. It knocks out foes with quick, virtually invisible punches."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788831276929085/286.png",
+    "discord_sprite": "<:P286:1132125327783645254>"
+}

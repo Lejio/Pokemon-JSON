@@ -1,0 +1,226 @@
+{
+    "alt-version(s)": [],
+    "name": "Tirtouga",
+    "Tirtouga": {
+        "pokedex_data": {
+            "National No.": "0564",
+            "Type": [
+                "Water",
+                "Rock"
+            ],
+            "Species": "Prototurtle Poke\u0301mon",
+            "Height": "0.7 m (2\u203204\u2032\u2032)",
+            "Weight": "16.5 kg (36.4 lbs)",
+            "Abilities": {
+                "Solid Rock": {
+                    "href": "/ability/solid-rock",
+                    "effect": "Reduces damage from super-effective attacks.",
+                    "hidden": false
+                },
+                "Sturdy": {
+                    "href": "/ability/sturdy",
+                    "effect": "It cannot be knocked out with one hit.",
+                    "hidden": false
+                },
+                "Swift Swim": {
+                    "href": "/ability/swift-swim",
+                    "effect": "Boosts the Pok\u00e9mon's Speed in rain.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Defense",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "71",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "54",
+                "Min": "218",
+                "Max": "312"
+            },
+            "Attack": {
+                "Base": "78",
+                "Min": "144",
+                "Max": "280"
+            },
+            "Defense": {
+                "Base": "103",
+                "Min": "189",
+                "Max": "335"
+            },
+            "Sp. Atk": {
+                "Base": "53",
+                "Min": "99",
+                "Max": "225"
+            },
+            "Sp. Def": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Speed": {
+                "Base": "22",
+                "Min": "44",
+                "Max": "157"
+            },
+            "Total": "355"
+        },
+        "defense_stats": {
+            "Solid Rock ability": {
+                "Normal": "not very effective",
+                "Fire": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective"
+            },
+            "Sturdy ability": {
+                "Normal": "not very effective",
+                "Fire": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective"
+            },
+            "Swift Swim ability": {
+                "Normal": "not very effective",
+                "Fire": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Tirtouga",
+                    "nationalNo": "#0564",
+                    "type": [
+                        "Water",
+                        "Rock"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Carracosta",
+                    "nationalNo": "#0565",
+                    "type": [
+                        "Water",
+                        "Rock"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 37)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Water Gun": "1",
+            "Withdraw": "1",
+            "Protect": "3",
+            "Aqua Jet": "6",
+            "Smack Down": "9",
+            "Ancient Power": "12",
+            "Bite": "15",
+            "Wide Guard": "18",
+            "Brine": "21",
+            "Rock Slide": "24",
+            "Crunch": "27",
+            "Curse": "30",
+            "Iron Defense": "33",
+            "Aqua Tail": "36",
+            "Rain Dance": "39",
+            "Hydro Pump": "42",
+            "Shell Smash": "45"
+        },
+        "egg": {
+            "Block": null,
+            "Knock Off": null,
+            "Rock Throw": null,
+            "Rollout": null,
+            "Slam": null,
+            "Water Pulse": null
+        },
+        "null": {
+            "Body Slam": "01",
+            "Hydro Pump": "03",
+            "Surf": "04",
+            "Ice Beam": "05",
+            "Blizzard": "06",
+            "Earthquake": "10",
+            "Waterfall": "16",
+            "Substitute": "20",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Iron Tail": "31",
+            "Crunch": "32",
+            "Muddy Water": "45",
+            "Iron Defense": "46",
+            "Earth Power": "67",
+            "Zen Headbutt": "69",
+            "Stone Edge": "75",
+            "Stealth Rock": "76",
+            "Scald": "84",
+            "Liquidation": "98"
+        },
+        "tm": {
+            "Dig": "15",
+            "Rest": "21",
+            "Rock Slide": "22",
+            "Snore": "24",
+            "Protect": "25",
+            "Icy Wind": "27",
+            "Attract": "31",
+            "Sandstorm": "32",
+            "Rain Dance": "33",
+            "Whirlpool": "36",
+            "Facade": "39",
+            "Dive": "45",
+            "Rock Tomb": "48",
+            "Mud Shot": "53",
+            "Rock Blast": "54",
+            "Brine": "55",
+            "Guard Swap": "61",
+            "Round": "76",
+            "Bulldoze": "81"
+        }
+    },
+    "entries": {
+        "Tirtouga": [
+            "Restored from a fossil, this Pok\u00e9mon can dive to depths beyond half a mile.",
+            "About 100 million years ago, these Pok\u00e9mon swam in oceans. It is thought they also went on land to attack prey.",
+            "This Pok\u00e9mon was restored from a fossil. It swam skillfully and dove to depths beyond half a mile.",
+            "About 100 million years ago, these Pok\u00e9mon swam in oceans. It is thought they also went on land to attack prey.",
+            "Restored from a fossil, this Pok\u00e9mon can dive to depths beyond half a mile.",
+            "Based on studies of its skeletal structure, it can apparently dive to ocean depths of over half a mile.",
+            "Reputed to be the ancestor of most turtle Pok\u00e9mon, it lived in warm seas approximately a hundred million years ago.",
+            "It was restored from an ancient fossil. Tirtouga lived in the sea but came up onto the land to search for prey.",
+            "Its hunting grounds encompassed a broad area, from the land to more than half a mile deep in the ocean.",
+            "This Pok\u00e9mon inhabited ancient seas. Although it can only crawl, it still comes up onto land in search of prey.",
+            "Tirtouga is considered to be the ancestor of many turtle Pok\u00e9mon. It was restored to life from a fossil."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790996682854450/564.png",
+    "discord_sprite": "<:P564:1132137555798806548>"
+}

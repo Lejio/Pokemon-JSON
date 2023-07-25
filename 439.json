@@ -1,0 +1,269 @@
+{
+    "alt-version(s)": [],
+    "name": "Mime Jr.",
+    "Mime Jr.": {
+        "pokedex_data": {
+            "National No.": "0439",
+            "Type": [
+                "Psychic",
+                "Fairy"
+            ],
+            "Species": "Mime Poke\u0301mon",
+            "Height": "0.6 m (2\u203200\u2032\u2032)",
+            "Weight": "13.0 kg (28.7 lbs)",
+            "Abilities": {
+                "Soundproof": {
+                    "href": "/ability/soundproof",
+                    "effect": "Gives immunity to <q>sound-based</q> moves.",
+                    "hidden": false
+                },
+                "Filter": {
+                    "href": "/ability/filter",
+                    "effect": "Reduces damage from super-effective attacks.",
+                    "hidden": false
+                },
+                "Technician": {
+                    "href": "/ability/technician",
+                    "effect": "Powers up the Pok\u00e9mon's weaker moves.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Sp. Def",
+            "Catch rate": "145",
+            "BaseFriendship": "50",
+            "Base Exp.": "62",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "20",
+                "Min": "150",
+                "Max": "244"
+            },
+            "Attack": {
+                "Base": "25",
+                "Min": "49",
+                "Max": "163"
+            },
+            "Defense": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Sp. Atk": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Def": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Speed": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Total": "310"
+        },
+        "defense_stats": {
+            "Soundproof ability": {
+                "Fighting": "not very effective",
+                "Poison": "super-effective",
+                "Psychic": "not very effective",
+                "Ghost": "super-effective",
+                "Dragon": "no effect",
+                "Steel": "super-effective"
+            },
+            "Filter ability": {
+                "Fighting": "not very effective",
+                "Poison": "super-effective",
+                "Psychic": "not very effective",
+                "Ghost": "super-effective",
+                "Dragon": "no effect",
+                "Steel": "super-effective"
+            },
+            "Technician ability": {
+                "Fighting": "not very effective",
+                "Poison": "super-effective",
+                "Psychic": "not very effective",
+                "Ghost": "super-effective",
+                "Dragon": "no effect",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Mime",
+                    "nationalNo": "#0439",
+                    "type": [
+                        "Psychic",
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Mr.",
+                    "nationalNo": "#0122",
+                    "type": [
+                        "Psychic",
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(after Mimic learned, outside Galar)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Mime",
+                    "nationalNo": "#0439",
+                    "type": [
+                        "Psychic",
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Mr.",
+                    "nationalNo": "#0122",
+                    "type": [
+                        "Ice",
+                        "Psychic"
+                    ],
+                    "nickname": "Galarian Mr. Mime"
+                },
+                "requirement": "(after Mimic learned, in Galar)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Mr.",
+                    "nationalNo": "#0122",
+                    "type": [
+                        "Ice",
+                        "Psychic"
+                    ],
+                    "nickname": "Galarian Mr. Mime"
+                },
+                "to": {
+                    "name": "Mr.",
+                    "nationalNo": "#0866",
+                    "type": [
+                        "Ice",
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 42)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Copycat": "1",
+            "Pound": "1",
+            "Baton Pass": "4",
+            "Encore": "8",
+            "Confusion": "12",
+            "Role Play": "16",
+            "Protect": "20",
+            "Recycle": "24",
+            "Psybeam": "28",
+            "Mimic": "32",
+            "Light Screen": "36",
+            "Reflect": "36",
+            "Safeguard": "36",
+            "Sucker Punch": "40",
+            "Dazzling Gleam": "44",
+            "Psychic": "48",
+            "Teeter Dance": "52"
+        },
+        "egg": {
+            "Charm": null,
+            "Confuse Ray": null,
+            "Fake Out": null,
+            "Future Sight": null,
+            "Healing Wish": null,
+            "Hypnosis": null,
+            "Icy Wind": null,
+            "Magic Room": null,
+            "Mimic": null,
+            "Power Split": null,
+            "Teeter Dance": null,
+            "Tickle": null,
+            "Trick": null
+        },
+        "tm": {
+            "Focus Punch": "01",
+            "Calm Mind": "04",
+            "Sunny Day": "11",
+            "Taunt": "12",
+            "Light Screen": "16",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Safeguard": "20",
+            "Dazzling Gleam": "21",
+            "Solar Beam": "22",
+            "Thunderbolt": "24",
+            "Thunder": "25",
+            "Psychic": "29",
+            "Shadow Ball": "30",
+            "Brick Break": "31",
+            "Double Team": "32",
+            "Reflect": "33",
+            "Shock Wave": "34",
+            "Torment": "41",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Skill Swap": "48",
+            "Fling": "56",
+            "Charge Beam": "57",
+            "Endure": "58",
+            "Drain Punch": "60",
+            "Nasty Plot": "63",
+            "Recycle": "67",
+            "Flash": "70",
+            "Thunder Wave": "73",
+            "Psych Up": "77",
+            "Sleep Talk": "82",
+            "Dream Eater": "85",
+            "Grass Knot": "86",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Trick Room": "92"
+        }
+    },
+    "entries": {
+        "Mime Jr.": [
+            "It habitually mimics foes. Once mimicked, the foe cannot take its eyes off this Pok\u00e9mon.",
+            "It likes places where people gather. It mimics foes to confuse them, then makes its getaway.",
+            "It mimics the expressions and motions of those it sees to understand the feelings of others.",
+            "In an attempt to confuse its enemy, it mimics the enemy\u2019s movements. Then it wastes no time in making itself scarce!",
+            "It mimics the expressions and motions of those it sees to understand the feelings of others.",
+            "In an attempt to confuse its enemy, it mimics the enemy\u2019s movements. Then it wastes no time in making itself scarce!",
+            "It habitually mimics foes. Once mimicked, the foe cannot take its eyes off this Pok\u00e9mon.",
+            "It does its absolute best to mimic the movements and expressions of its opponents, but it\u2019s still not very good at it.",
+            "When this gifted mimic surprises an opponent, Mime Jr. feels so happy that it ends up forgetting it was imitating something.",
+            "It mimics everyone it sees, but it puts extra effort into copying the graceful dance steps of Mr. Rime as practice.",
+            "It looks for a Mr. Rime that\u2019s a good dancer and carefully copies the Mr. Rime\u2019s steps like an apprentice.",
+            "It habitually mimics foes. The mimicked foe is said to be unable to look away from Mime Jr.",
+            "It likes places where people gather. It mimics foes to confuse them, then makes its getaway.",
+            "Known to turn up in bustling marketplaces now and again. It mimics people much as a child would, then watches how they react, eyes sparkling."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790026359975996/439.png",
+    "discord_sprite": "<:P439:1132132049898188820>"
+}

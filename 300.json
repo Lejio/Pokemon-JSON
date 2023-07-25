@@ -1,0 +1,193 @@
+{
+    "alt-version(s)": [],
+    "name": "Skitty",
+    "Skitty": {
+        "pokedex_data": {
+            "National No.": "0300",
+            "Type": [
+                "Normal"
+            ],
+            "Species": "Kitten Poke\u0301mon",
+            "Height": "0.6 m (2\u203200\u2032\u2032)",
+            "Weight": "11.0 kg (24.3 lbs)",
+            "Abilities": {
+                "Cute Charm": {
+                    "href": "/ability/cute-charm",
+                    "effect": "Contact with the Pok\u00e9mon may cause infatuation.",
+                    "hidden": false
+                },
+                "Normalize": {
+                    "href": "/ability/normalize",
+                    "effect": "All the Pok\u00e9mon's moves become the Normal type.",
+                    "hidden": false
+                },
+                "Wonder Skin": {
+                    "href": "/ability/wonder-skin",
+                    "effect": "Makes status-changing moves more likely to miss.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Speed",
+            "Catch rate": "255",
+            "BaseFriendship": "50",
+            "Base Exp.": "52",
+            "Growth Rate": "Fast"
+        },
+        "breeding_data": {
+            "Gender": "25% male,75% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "50",
+                "Min": "210",
+                "Max": "304"
+            },
+            "Attack": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Defense": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Sp. Atk": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Sp. Def": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Speed": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Total": "260"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Skitty",
+                    "nationalNo": "#0300",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Delcatty",
+                    "nationalNo": "#0301",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Moon Stone)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Fake Out": "1",
+            "Growl": "1",
+            "Tail Whip": "1",
+            "Tackle": "4",
+            "Sing": "7",
+            "Attract": "10",
+            "Disarming Voice": "13",
+            "Fury Swipes": "16",
+            "Copycat": "19",
+            "Payback": "22",
+            "Charm": "25",
+            "Facade": "31",
+            "Covet": "34",
+            "Heal Bell": "37",
+            "Double-Edge": "40",
+            "Baby-Doll Eyes": "43",
+            "Play Rough": "46"
+        },
+        "egg": {
+            "Baton Pass": null,
+            "Cosmic Power": null,
+            "Fake Out": null,
+            "Fake Tears": null,
+            "Helping Hand": null,
+            "Last Resort": null,
+            "Simple Beam": null,
+            "Sucker Punch": null,
+            "Tickle": null,
+            "Uproar": null,
+            "Wish": null,
+            "Zen Headbutt": null
+        },
+        "tm": {
+            "Water Pulse": "03",
+            "Calm Mind": "04",
+            "Work Up": "10",
+            "Sunny Day": "11",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Safeguard": "20",
+            "Solar Beam": "22",
+            "Iron Tail": "23",
+            "Thunderbolt": "24",
+            "Thunder": "25",
+            "Dig": "28",
+            "Shadow Ball": "30",
+            "Double Team": "32",
+            "Shock Wave": "34",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Charge Beam": "57",
+            "Endure": "58",
+            "Nasty Plot": "63",
+            "Payback": "66",
+            "Flash": "70",
+            "Thunder Wave": "73",
+            "Psych Up": "77",
+            "Sleep Talk": "82",
+            "Dream Eater": "85",
+            "Grass Knot": "86",
+            "Swagger": "87",
+            "Substitute": "90"
+        }
+    },
+    "entries": {
+        "Skitty": [
+            "SKITTY has the habit of becoming fascinated by moving objects and chasing them around. This pok\u00e9mon is known to chase after its own tail and become dizzy.",
+            "SKITTY is known to chase around playfully after its own tail. In the wild, this pok\u00e9mon lives in holes in the trees of forests. It is very popular as a pet because of its adorable looks.",
+            "It is said to be difficult to earn its trust. However, it is extremely popular for its cute looks and behavior.",
+            "A SKITTY\u2019s adorably cute behavior makes it highly popular. In battle, it makes its tail puff out. It threatens foes with a sharp growl.",
+            "It can\u2019t stop itself from chasing moving things, and it runs in a circle, chasing its own tail.",
+            "It\u2019s adorable when it chases its own tail. It\u2019s difficult to earn its trust.",
+            "It can\u2019t stop itself from chasing moving things, and it runs in a circle, chasing its own tail.",
+            "It shows its cute side by chasing its own tail until it gets dizzy.",
+            "It can\u2019t stop itself from chasing moving things, and it runs in a circle, chasing its own tail.",
+            "It shows its cute side by chasing its own tail until it gets dizzy.",
+            "Skitty has the habit of becoming fascinated by moving objects and chasing them around. This Pok\u00e9mon is known to chase after its own tail and become dizzy.",
+            "Skitty is known to chase around playfully after its own tail. In the wild, this Pok\u00e9mon lives in holes in the trees of forests. It is very popular as a pet because of its adorable looks.",
+            "It can\u2019t stop itself from chasing moving things, and it runs in circles, chasing its own tail."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788945034858597/300.png",
+    "discord_sprite": "<:P300:1132125940789547179>"
+}

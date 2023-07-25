@@ -1,0 +1,213 @@
+{
+    "alt-version(s)": [],
+    "name": "Croconaw",
+    "Croconaw": {
+        "pokedex_data": {
+            "National No.": "0159",
+            "Type": [
+                "Water"
+            ],
+            "Species": "Big Jaw Poke\u0301mon",
+            "Height": "1.1 m (3\u203207\u2032\u2032)",
+            "Weight": "25.0 kg (55.1 lbs)",
+            "Abilities": {
+                "Torrent": {
+                    "href": "/ability/torrent",
+                    "effect": "Powers up Water-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Sheer Force": {
+                    "href": "/ability/sheer-force",
+                    "effect": "Removes added effects to increase move damage.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack, 1 Defense",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "142",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "65",
+                "Min": "240",
+                "Max": "334"
+            },
+            "Attack": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Defense": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Sp. Atk": {
+                "Base": "59",
+                "Min": "110",
+                "Max": "238"
+            },
+            "Sp. Def": {
+                "Base": "63",
+                "Min": "117",
+                "Max": "247"
+            },
+            "Speed": {
+                "Base": "58",
+                "Min": "108",
+                "Max": "236"
+            },
+            "Total": "405"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Totodile",
+                    "nationalNo": "#0158",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Croconaw",
+                    "nationalNo": "#0159",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 18)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Croconaw",
+                    "nationalNo": "#0159",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Feraligatr",
+                    "nationalNo": "#0160",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 30)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Leer": "1",
+            "Scratch": "1",
+            "Water Gun": "6",
+            "Mud-Slap": "8",
+            "Bite": "13",
+            "Scary Face": "15",
+            "Ice Fang": "21",
+            "Flail": "24",
+            "Crunch": "30",
+            "Low Kick": "33",
+            "Slash": "39",
+            "Screech": "42",
+            "Thrash": "48",
+            "Aqua Tail": "51",
+            "Superpower": "57",
+            "Hydro Pump": "60"
+        },
+        "egg": {
+            "Ancient Power": null,
+            "Aqua Jet": null,
+            "Block": null,
+            "Crunch": null,
+            "Dragon Dance": null,
+            "Fake Tears": null,
+            "Flatter": null,
+            "Hydro Pump": null,
+            "Ice Punch": null,
+            "Metal Claw": null,
+            "Thrash": null
+        },
+        "tm": {
+            "Focus Punch": "01",
+            "Dragon Claw": "02",
+            "Water Pulse": "03",
+            "Roar": "05",
+            "Hail": "07",
+            "Work Up": "10",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Iron Tail": "23",
+            "Dig": "28",
+            "Brick Break": "31",
+            "Double Team": "32",
+            "Rock Tomb": "39",
+            "Aerial Ace": "40",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Scald": "49",
+            "Fling": "56",
+            "Endure": "58",
+            "Shadow Claw": "65",
+            "Swords Dance": "75",
+            "Rock Slide": "80",
+            "Sleep Talk": "82",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Cut": "93",
+            "Surf": "95",
+            "Strength": "96",
+            "Rock Smash": "98",
+            "Waterfall": "99"
+        }
+    },
+    "entries": {
+        "Croconaw": [
+            "If it loses a fang, a new one grows back in its place. There are always 48 fangs lining its mouth.",
+            "It opens its huge jaws wide when attacking. If it loses any fangs while biting, they grow back in.",
+            "The tips of its fangs are slanted backward. Once those fangs clamp down, the prey has no hope of escape.",
+            "Once CROCONAW has clamped its jaws on its foe, it will absolutely not let go. Because the tips of its fangs are forked back like barbed fishhooks, they become impossible to remove when they have sunk in.",
+            "It opens its huge jaws wide when attacking. If it loses any fangs while biting, they grow back in.",
+            "If it loses a fang, a new one grows back in its place. There are always 48 fangs lining its mouth.",
+            "Once its jaws clamp down on its foe, it will absolutely not let go. Because the tips of its fangs are forked back like fishhooks, they become irremovably embedded.",
+            "Once it bites down, it won\u2019t let go until it loses its fangs. New fangs quickly grow into place.",
+            "If it loses a fang, a new one grows back in its place. There are always 48 fangs lining its mouth.",
+            "It opens its huge jaws wide when attacking. If it loses any fangs while biting, they grow back in.",
+            "Once it bites down, it won\u2019t let go until it loses its fangs. New fangs quickly grow into place.",
+            "If it loses a fang, a new one grows back in its place. There are always 48 fangs lining its mouth.",
+            "Once it bites down, it won\u2019t let go until it loses its fangs. New fangs quickly grow into place.",
+            "Once Croconaw has clamped its jaws on its foe, it will absolutely not let go. Because the tips of its fangs are forked back like barbed fishhooks, they become impossible to remove when they have sunk in.",
+            "Once it bites down, it won\u2019t let go until it loses its fangs. New fangs quickly grow into place."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787832281813032/159.png",
+    "discord_sprite": "<:P159:1132119733399986287>"
+}

@@ -1,0 +1,225 @@
+{
+    "alt-version(s)": [
+        "Eternamax"
+    ],
+    "name": "Eternatus",
+    "Eternatus": {
+        "pokedex_data": {
+            "National No.": "0890",
+            "Type": [
+                "Poison",
+                "Dragon"
+            ],
+            "Species": "Gigantic Poke\u0301mon",
+            "Height": "20.0 m (65\u203207\u2032\u2032)",
+            "Weight": "950.0 kg (2094.4 lbs)",
+            "Abilities": {
+                "Pressure": {
+                    "href": "/ability/pressure",
+                    "effect": "The Pok\u00e9mon raises the foe's PP usage.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 HP",
+            "Catch rate": "255",
+            "BaseFriendship": "0",
+            "Base Exp.": "345",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "140",
+                "Min": "390",
+                "Max": "484"
+            },
+            "Attack": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Defense": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Sp. Atk": {
+                "Base": "145",
+                "Min": "265",
+                "Max": "427"
+            },
+            "Sp. Def": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Speed": {
+                "Base": "130",
+                "Min": "238",
+                "Max": "394"
+            },
+            "Total": "690"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Dragon": "super-effective"
+            }
+        }
+    },
+    "Eternamax": {
+        "pokedex_data": {
+            "National No.": "0890",
+            "Type": [
+                "Poison",
+                "Dragon"
+            ],
+            "Species": "Gigantic Poke\u0301mon",
+            "Height": "100.0 m (328\u203201\u2032\u2032)",
+            "Weight": "\u2014",
+            "Abilities": {}
+        },
+        "training_data": {
+            "EV yield": "3 HP",
+            "Catch rate": "\u2014",
+            "BaseFriendship": "0",
+            "Base Exp.": "563",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "\u2014"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "255",
+                "Min": "620",
+                "Max": "714"
+            },
+            "Attack": {
+                "Base": "115",
+                "Min": "211",
+                "Max": "361"
+            },
+            "Defense": {
+                "Base": "250",
+                "Min": "454",
+                "Max": "658"
+            },
+            "Sp. Atk": {
+                "Base": "125",
+                "Min": "229",
+                "Max": "383"
+            },
+            "Sp. Def": {
+                "Base": "250",
+                "Min": "454",
+                "Max": "658"
+            },
+            "Speed": {
+                "Base": "130",
+                "Min": "238",
+                "Max": "394"
+            },
+            "Total": "1125"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Dragon": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Agility": "1",
+            "Confuse Ray": "1",
+            "Dragon Tail": "1",
+            "Poison Tail": "1",
+            "Toxic": "8",
+            "Venoshock": "16",
+            "Dragon Dance": "24",
+            "Cross Poison": "32",
+            "Dragon Pulse": "40",
+            "Flamethrower": "48",
+            "Dynamax Cannon": "56",
+            "Cosmic Power": "64",
+            "Recover": "72",
+            "Hyper Beam": "80",
+            "Outrage": "88"
+        },
+        "egg": null,
+        "tm": {
+            "Take Down": "01",
+            "Agility": "04",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Confuse Ray": "17",
+            "Fire Spin": "24",
+            "Facade": "25",
+            "Poison Tail": "26",
+            "Dragon Tail": "44",
+            "Venoshock": "45",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Reflect": "74",
+            "Light Screen": "75",
+            "Poison Jab": "83",
+            "Rest": "85",
+            "Toxic Spikes": "91",
+            "Flash Cannon": "93",
+            "Fly": "97",
+            "Dragon Dance": "100",
+            "Gunk Shot": "102",
+            "Substitute": "103",
+            "Shadow Ball": "114",
+            "Dragon Pulse": "115",
+            "Flamethrower": "125",
+            "Fire Blast": "141",
+            "Sludge Bomb": "148",
+            "Giga Impact": "152",
+            "Outrage": "156",
+            "Hyper Beam": "163",
+            "Solar Beam": "168",
+            "Draco Meteor": "169",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Eternatus": [
+            "The core on its chest absorbs energy emanating from the lands of the Galar region. This energy is what allows Eternatus to stay active.",
+            "It was inside a meteorite that fell 20,000 years ago. There seems to be a connection between this Pok\u00e9mon and the Dynamax phenomenon."
+        ],
+        "Eternamax": [
+            "As a result of Rose\u2019s meddling, Eternatus absorbed all the energy in the Galar region. It\u2019s now in a state of power overload.",
+            "Infinite amounts of energy pour from this Pok\u00e9mon\u2019s enlarged core, warping the surrounding space-time."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793543355187302/890.png",
+    "discord_sprite": "<:P890:1132151962461278309>"
+}

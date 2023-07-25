@@ -1,0 +1,228 @@
+{
+    "alt-version(s)": [],
+    "name": "Armarouge",
+    "Armarouge": {
+        "pokedex_data": {
+            "National No.": "0936",
+            "Type": [
+                "Fire",
+                "Psychic"
+            ],
+            "Species": "Fire Warrior Poke\u0301mon",
+            "Height": "1.5 m (4\u203211\u2032\u2032)",
+            "Weight": "85.0 kg (187.4 lbs)",
+            "Abilities": {
+                "Flash Fire": {
+                    "href": "/ability/flash-fire",
+                    "effect": "It powers up Fire-type moves if it's hit by one.",
+                    "hidden": false
+                },
+                "Weak Armor": {
+                    "href": "/ability/weak-armor",
+                    "effect": "Physical attacks lower Defense and raise Speed.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Sp. Atk",
+            "Catch rate": "25",
+            "BaseFriendship": "20",
+            "Base Exp.": "263",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "85",
+                "Min": "280",
+                "Max": "374"
+            },
+            "Attack": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Defense": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Sp. Atk": {
+                "Base": "125",
+                "Min": "229",
+                "Max": "383"
+            },
+            "Sp. Def": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Speed": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Total": "525"
+        },
+        "defense_stats": {
+            "Flash Fire ability": {
+                "Fire": "no effect",
+                "Water": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Fighting": "not very effective",
+                "Ground": "super-effective",
+                "Psychic": "not very effective",
+                "Rock": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            },
+            "Weak Armor ability": {
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Fighting": "not very effective",
+                "Ground": "super-effective",
+                "Psychic": "not very effective",
+                "Rock": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Charcadet",
+                    "nationalNo": "#0935",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Armarouge",
+                    "nationalNo": "#0936",
+                    "type": [
+                        "Fire",
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Auspicious Armor)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Charcadet",
+                    "nationalNo": "#0935",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Ceruledge",
+                    "nationalNo": "#0937",
+                    "type": [
+                        "Fire",
+                        "Ghost"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Malicious Armor)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Astonish": "1",
+            "Ember": "1",
+            "Leer": "1",
+            "Mystical Fire": "1",
+            "Wide Guard": "1",
+            "Clear Smog": "8",
+            "Fire Spin": "12",
+            "Will-O-Wisp": "16",
+            "Night Shade": "20",
+            "Flame Charge": "24",
+            "Incinerate": "28",
+            "Lava Plume": "32",
+            "Calm Mind": "37",
+            "Ally Switch": "42",
+            "Flamethrower": "48",
+            "Expanding Force": "56",
+            "Armor Cannon": "62"
+        },
+        "evolution": {
+            "Psyshock": "80"
+        },
+        "egg": {
+            "Destiny Bond": null,
+            "Disable": null,
+            "Spite": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Protect": "07",
+            "Acid Spray": "13",
+            "Psybeam": "16",
+            "Confuse Ray": "17",
+            "Fire Spin": "24",
+            "Facade": "25",
+            "Flame Charge": "38",
+            "Stored Power": "41",
+            "Night Shade": "42",
+            "Fling": "43",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Psyshock": "54",
+            "Sleep Talk": "70",
+            "Reflect": "74",
+            "Light Screen": "75",
+            "Rest": "85",
+            "Taunt": "87",
+            "Flash Cannon": "93",
+            "Dark Pulse": "94",
+            "Substitute": "103",
+            "Iron Defense": "104",
+            "Will-O-Wisp": "107",
+            "Trick": "109",
+            "Aura Sphere": "112",
+            "Shadow Ball": "114",
+            "Dragon Pulse": "115",
+            "Heat Wave": "118",
+            "Energy Ball": "119",
+            "Psychic": "120",
+            "Flamethrower": "125",
+            "Calm Mind": "129",
+            "Helping Hand": "130",
+            "Psychic Terrain": "138",
+            "Fire Blast": "141",
+            "Overheat": "157",
+            "Focus Blast": "158",
+            "Trick Room": "161",
+            "Flare Blitz": "165",
+            "Solar Beam": "168",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Armarouge": [
+            "Armarouge evolved through the use of a set of armor that belonged to a distinguished warrior. This Pok\u00e9mon is incredibly loyal.",
+            "This Pok\u00e9mon clads itself in armor that has been fortified by psychic and fire energy, and it shoots blazing fireballs."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793904178581544/936.png",
+    "discord_sprite": "<:P936:1132153979707596870>"
+}

@@ -1,0 +1,191 @@
+{
+    "alt-version(s)": [],
+    "name": "Slugma",
+    "Slugma": {
+        "pokedex_data": {
+            "National No.": "0218",
+            "Type": [
+                "Fire"
+            ],
+            "Species": "Lava Poke\u0301mon",
+            "Height": "0.7 m (2\u203204\u2032\u2032)",
+            "Weight": "35.0 kg (77.2 lbs)",
+            "Abilities": {
+                "Magma Armor": {
+                    "href": "/ability/magma-armor",
+                    "effect": "Prevents the Pok\u00e9mon from becoming frozen.",
+                    "hidden": false
+                },
+                "Flame Body": {
+                    "href": "/ability/flame-body",
+                    "effect": "Contact with the Pok\u00e9mon may burn the attacker.",
+                    "hidden": false
+                },
+                "Weak Armor": {
+                    "href": "/ability/weak-armor",
+                    "effect": "Physical attacks lower Defense and raise Speed.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Sp. Atk",
+            "Catch rate": "190",
+            "BaseFriendship": "50",
+            "Base Exp.": "50",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "40",
+                "Min": "190",
+                "Max": "284"
+            },
+            "Attack": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Defense": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Atk": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Def": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Speed": {
+                "Base": "20",
+                "Min": "40",
+                "Max": "152"
+            },
+            "Total": "250"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Ground": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Slugma",
+                    "nationalNo": "#0218",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Magcargo",
+                    "nationalNo": "#0219",
+                    "type": [
+                        "Fire",
+                        "Rock"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 38)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Smog": "1",
+            "Yawn": "1",
+            "Ember": "6",
+            "Rock Throw": "8",
+            "Harden": "13",
+            "Incinerate": "15",
+            "Clear Smog": "20",
+            "Ancient Power": "22",
+            "Rock Slide": "29",
+            "Lava Plume": "34",
+            "Amnesia": "36",
+            "Body Slam": "41",
+            "Recover": "43",
+            "Flamethrower": "48",
+            "Earth Power": "50"
+        },
+        "egg": {
+            "Acid Armor": null,
+            "Curse": null,
+            "Earth Power": null,
+            "Guard Swap": null,
+            "Heat Wave": null,
+            "Inferno": null,
+            "Memento": null,
+            "Rollout": null,
+            "Smokescreen": null,
+            "Spit Up": null,
+            "Stockpile": null,
+            "Swallow": null
+        },
+        "tm": {
+            "Sunny Day": "11",
+            "Light Screen": "16",
+            "Protect": "17",
+            "Double Team": "32",
+            "Reflect": "33",
+            "Flamethrower": "35",
+            "Sandstorm": "37",
+            "Fire Blast": "38",
+            "Rock Tomb": "39",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Overheat": "50",
+            "Endure": "58",
+            "Will-O-Wisp": "61",
+            "Rock Slide": "80",
+            "Sleep Talk": "82",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Rock Smash": "98"
+        }
+    },
+    "entries": {
+        "Slugma": [
+            "It never sleeps. It has to keep moving because if it stopped, its magma body would cool and harden.",
+            "A common sight in volcanic areas, it slowly slithers around in a constant search for warm places.",
+            "These group together in areas that are hotter than normal. If it cools off, its skin hardens.",
+            "Molten magma courses throughout SLUGMA\u2019s circulatory system. If this pok\u00e9mon is chilled, the magma cools and hardens. Its body turns brittle and chunks fall off, reducing its size.",
+            "SLUGMA does not have any blood in its body. Instead, intensely hot magma circulates throughout this pok\u00e9mon\u2019s body, carrying essential nutrients and oxygen to its organs.",
+            "A common sight in volcanic areas, it slowly slithers around in a constant search for warm places.",
+            "It never sleeps. It has to keep moving because if it stopped, its magma body would cool and harden.",
+            "It is a species of pok\u00e9mon that lives in volcanic areas. If its body cools, its skin hardens and immobilizes it. To avoid that, it sleeps near magma.",
+            "Its body is made of magma. If it doesn\u2019t keep moving, its body will cool and harden.",
+            "It never sleeps. It has to keep moving because if it stopped, its magma body would cool and harden.",
+            "A common sight in volcanic areas, it slowly slithers around in a constant search for warm places.",
+            "Its body is made of magma. If it doesn\u2019t keep moving, its body will cool and harden.",
+            "A common sight in volcanic areas, it slowly slithers around in a constant search for warm places.",
+            "Its body is made of magma. If it doesn\u2019t keep moving, its body will cool and harden.",
+            "Molten magma courses throughout Slugma\u2019s circulatory system. If this Pok\u00e9mon is chilled, the magma cools and hardens. Its body turns brittle and chunks fall off, reducing its size.",
+            "Slugma does not have any blood in its body. Instead, intensely hot magma circulates throughout this Pok\u00e9mon\u2019s body, carrying essential nutrients and oxygen to its organs.",
+            "Its body is made of magma. If it doesn\u2019t keep moving, its body will cool and harden."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788296729673868/218.png",
+    "discord_sprite": "<:P218:1132122330903093280>"
+}

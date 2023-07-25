@@ -1,0 +1,232 @@
+{
+    "alt-version(s)": [],
+    "name": "Hariyama",
+    "Hariyama": {
+        "pokedex_data": {
+            "National No.": "0297",
+            "Type": [
+                "Fighting"
+            ],
+            "Species": "Arm Thrust Poke\u0301mon",
+            "Height": "2.3 m (7\u203207\u2032\u2032)",
+            "Weight": "253.8 kg (559.5 lbs)",
+            "Abilities": {
+                "Thick Fat": {
+                    "href": "/ability/thick-fat",
+                    "effect": "Ups resistance to Fire- and Ice-type moves.",
+                    "hidden": false
+                },
+                "Guts": {
+                    "href": "/ability/guts",
+                    "effect": "Boosts Attack if there is a status problem.",
+                    "hidden": false
+                },
+                "Sheer Force": {
+                    "href": "/ability/sheer-force",
+                    "effect": "Removes added effects to increase move damage.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 HP",
+            "Catch rate": "200",
+            "BaseFriendship": "50",
+            "Base Exp.": "166",
+            "Growth Rate": "Fluctuating"
+        },
+        "breeding_data": {
+            "Gender": "75% male,25% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "144",
+                "Min": "398",
+                "Max": "492"
+            },
+            "Attack": {
+                "Base": "120",
+                "Min": "220",
+                "Max": "372"
+            },
+            "Defense": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Atk": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Def": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Speed": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Total": "474"
+        },
+        "defense_stats": {
+            "Thick Fat ability": {
+                "Fire": "not very effective",
+                "Ice": "not very effective",
+                "Flying": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Dark": "not very effective",
+                "Fairy": "super-effective"
+            },
+            "Guts ability": {
+                "Flying": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Dark": "not very effective",
+                "Fairy": "super-effective"
+            },
+            "Sheer Force ability": {
+                "Flying": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Dark": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Makuhita",
+                    "nationalNo": "#0296",
+                    "type": [
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Hariyama",
+                    "nationalNo": "#0297",
+                    "type": [
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 24)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Arm Thrust": "1",
+            "Brine": "1",
+            "Focus Energy": "1",
+            "Sand Attack": "1",
+            "Tackle": "1",
+            "Fake Out": "10",
+            "Force Palm": "13",
+            "Whirlwind": "16",
+            "Knock Off": "19",
+            "Bulk Up": "22",
+            "Belly Drum": "26",
+            "Detect": "30",
+            "Seismic Toss": "34",
+            "Focus Punch": "38",
+            "Endure": "42",
+            "Close Combat": "46",
+            "Reversal": "50",
+            "Heavy Slam": "54",
+            "Headlong Rush": "60"
+        },
+        "egg": {
+            "Bullet Punch": null,
+            "Counter": null,
+            "Cross Chop": null,
+            "Dynamic Punch": null,
+            "Feint": null,
+            "Helping Hand": null,
+            "Wide Guard": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Mud-Slap": "05",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Low Kick": "12",
+            "Thief": "18",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Bulldoze": "28",
+            "Swift": "32",
+            "Mud Shot": "35",
+            "Rock Tomb": "36",
+            "Low Sweep": "39",
+            "Fling": "43",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Dig": "55",
+            "Brick Break": "58",
+            "Zen Headbutt": "59",
+            "Bulk Up": "64",
+            "Body Slam": "66",
+            "Fire Punch": "67",
+            "Thunder Punch": "68",
+            "Ice Punch": "69",
+            "Sleep Talk": "70",
+            "Drain Punch": "73",
+            "Metronome": "80",
+            "Poison Jab": "83",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Taunt": "87",
+            "Body Press": "89",
+            "Iron Head": "99",
+            "Substitute": "103",
+            "Heavy Slam": "121",
+            "Surf": "123",
+            "Helping Hand": "130",
+            "Reversal": "134",
+            "Earthquake": "149",
+            "Stone Edge": "150",
+            "Giga Impact": "152",
+            "Focus Blast": "158",
+            "Hyper Beam": "163",
+            "Close Combat": "167",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Hariyama": [
+            "HARIYAMA practices its straight-arm slaps in any number of locations. One hit of this pok\u00e9mon\u2019s powerful, openhanded, straight-arm punches could snap a telephone pole in two.",
+            "HARIYAMA\u2019s thick body may appear fat, but it is actually a hunk of solid muscle. If this pok\u00e9mon bears down and tightens all its muscles, its body becomes as hard as a rock.",
+            "It stomps on the ground to build power. It can send a 10-ton truck flying with a straight-arm punch.",
+            "It has the habit of challenging others without hesitation to tests of strength. It\u2019s been known to stand on train tracks and stop trains using forearm thrusts.",
+            "It loves to match power with big-bodied Pok\u00e9mon. It can knock a truck flying with its arm thrusts.",
+            "It loves challenging others to tests of strength. It has the power to stop a train with a slap.",
+            "It loves to match power with big-bodied Pok\u00e9mon. It can knock a truck flying with its arm thrusts.",
+            "It stomps on the ground to build power. It can send a 10-ton truck flying with a straight-arm punch.",
+            "It loves to match power with big-bodied Pok\u00e9mon. It can knock a truck flying with its arm thrusts.",
+            "Hariyama practices its straight-arm slaps in any number of locations. One hit of this Pok\u00e9mon\u2019s powerful, openhanded, straight-arm punches could snap a telephone pole in two.",
+            "Hariyama\u2019s thick body may appear fat, but it is actually a hunk of solid muscle. If this Pok\u00e9mon bears down and tightens all its muscles, its body becomes as hard as a rock.",
+            "It is known for its fantastic strength, but as it grows older, it focuses more on training Makuhita.",
+            "They love to compare their freakish strength\u2014 strength enough to send a truck flying with a single slap.",
+            "Although they enjoy comparing their strength, they\u2019re also kind. They value etiquette, praising opponents they battle.",
+            "Hariyama that are big and fat aren\u2019t necessarily strong. There are some small ones that move nimbly and use moves skillfully.",
+            "It loves to match power with big-bodied Pok\u00e9mon. It can send a truck flying with its arm thrusts.",
+            "It loves challenging others to tests of strength. It has the power to stop a train with a slap.",
+            "It stomps on the ground to build power. It can send a 10-ton truck flying with a straight-arm punch."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788921005690900/297.png",
+    "discord_sprite": "<:P297:1132125809356845166>"
+}

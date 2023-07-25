@@ -1,0 +1,371 @@
+{
+    "alt-version(s)": [
+        "Hisuian Electrode"
+    ],
+    "name": "Electrode",
+    "Electrode": {
+        "pokedex_data": {
+            "National No.": "0101",
+            "Type": [
+                "Electric"
+            ],
+            "Species": "Ball Poke\u0301mon",
+            "Height": "1.2 m (3\u203211\u2032\u2032)",
+            "Weight": "66.6 kg (146.8 lbs)",
+            "Abilities": {
+                "Soundproof": {
+                    "href": "/ability/soundproof",
+                    "effect": "Gives immunity to <q>sound-based</q> moves.",
+                    "hidden": false
+                },
+                "Static": {
+                    "href": "/ability/static",
+                    "effect": "Contact with the Pok\u00e9mon may cause paralysis.",
+                    "hidden": false
+                },
+                "Aftermath": {
+                    "href": "/ability/aftermath",
+                    "effect": "Damages the attacker landing the finishing hit.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Speed",
+            "Catch rate": "60",
+            "BaseFriendship": "50",
+            "Base Exp.": "172",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "60",
+                "Min": "230",
+                "Max": "324"
+            },
+            "Attack": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Defense": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Atk": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Sp. Def": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Speed": {
+                "Base": "150",
+                "Min": "274",
+                "Max": "438"
+            },
+            "Total": "490"
+        },
+        "defense_stats": {
+            "default": {
+                "Electric": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "Hisuian Electrode": {
+        "pokedex_data": {
+            "National No.": "0101",
+            "Type": [
+                "Electric",
+                "Grass"
+            ],
+            "Species": "Sphere Poke\u0301mon",
+            "Height": "1.2 m (3\u203211\u2032\u2032)",
+            "Weight": "71.0 kg (156.5 lbs)",
+            "Abilities": {
+                "Soundproof": {
+                    "href": "/ability/soundproof",
+                    "effect": "Gives immunity to <q>sound-based</q> moves.",
+                    "hidden": false
+                },
+                "Static": {
+                    "href": "/ability/static",
+                    "effect": "Contact with the Pok\u00e9mon may cause paralysis.",
+                    "hidden": false
+                },
+                "Aftermath": {
+                    "href": "/ability/aftermath",
+                    "effect": "Damages the attacker landing the finishing hit.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Speed",
+            "Catch rate": "60",
+            "BaseFriendship": "50",
+            "Base Exp.": "172",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "60",
+                "Min": "230",
+                "Max": "324"
+            },
+            "Attack": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Defense": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Atk": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Sp. Def": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Speed": {
+                "Base": "150",
+                "Min": "274",
+                "Max": "438"
+            },
+            "Total": "490"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Poison": "super-effective",
+                "Bug": "super-effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Voltorb",
+                    "nationalNo": "#0100",
+                    "type": [
+                        "Electric"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Electrode",
+                    "nationalNo": "#0101",
+                    "type": [
+                        "Electric"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 30)",
+                "shed": null
+            }
+        ],
+        [
+            {
+                "from": {
+                    "name": "Voltorb",
+                    "nationalNo": "#0100",
+                    "type": [
+                        "Electric",
+                        "Grass"
+                    ],
+                    "nickname": "Hisuian Voltorb"
+                },
+                "to": {
+                    "name": "Electrode",
+                    "nationalNo": "#0101",
+                    "type": [
+                        "Electric",
+                        "Grass"
+                    ],
+                    "nickname": "Hisuian Electrode"
+                },
+                "requirement": "(use Leaf Stone)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "Electrode": {
+            "moves": {
+                "Charge": "1",
+                "Eerie Impulse": "1",
+                "Magnetic Flux": "1",
+                "Tackle": "1",
+                "Thunder Shock": "1",
+                "Spark": "9",
+                "Rollout": "11",
+                "Screech": "13",
+                "Charge Beam": "16",
+                "Swift": "20",
+                "Electro Ball": "22",
+                "Self-Destruct": "26",
+                "Light Screen": "29",
+                "Magnet Rise": "36",
+                "Discharge": "41",
+                "Explosion": "47",
+                "Gyro Ball": "54",
+                "Mirror Coat": "58"
+            },
+            "egg": {
+                "Metal Sound": null,
+                "Recycle": null
+            },
+            "tm": {
+                "Take Down": "01",
+                "Agility": "04",
+                "Scary Face": "06",
+                "Protect": "07",
+                "Thief": "18",
+                "Charge Beam": "23",
+                "Facade": "25",
+                "Swift": "32",
+                "Endure": "47",
+                "Volt Switch": "48",
+                "Rain Dance": "50",
+                "Foul Play": "62",
+                "Sleep Talk": "70",
+                "Electro Ball": "72",
+                "Light Screen": "75",
+                "Thunder Wave": "82",
+                "Rest": "85",
+                "Taunt": "87",
+                "Eerie Impulse": "96",
+                "Substitute": "103",
+                "Thunderbolt": "126",
+                "Helping Hand": "130",
+                "Electric Terrain": "136",
+                "Wild Charge": "147",
+                "Giga Impact": "152",
+                "Hyper Beam": "163",
+                "Thunder": "166",
+                "Tera Blast": "171"
+            }
+        },
+        "Hisuian Electrode": {
+            "moves": {
+                "Charge": "1",
+                "Tackle": "1",
+                "Thunder Shock": "4",
+                "Stun Spore": "6",
+                "Bullet Seed": "9",
+                "Rollout": "11",
+                "Screech": "13",
+                "Charge Beam": "16",
+                "Swift": "20",
+                "Electro Ball": "22",
+                "Self-Destruct": "26",
+                "Energy Ball": "29",
+                "Discharge": "34",
+                "Seed Bomb": "34",
+                "Explosion": "41",
+                "Gyro Ball": "46",
+                "Grassy Terrain": "50"
+            },
+            "evolution": {
+                "Chloroblast": "150"
+            },
+            "egg": {
+                "Leech Seed": null,
+                "Recycle": null,
+                "Worry Seed": null
+            },
+            "tm": {
+                "Take Down": "01",
+                "Agility": "04",
+                "Scary Face": "06",
+                "Protect": "07",
+                "Thief": "18",
+                "Charge Beam": "23",
+                "Facade": "25",
+                "Swift": "32",
+                "Endure": "47",
+                "Volt Switch": "48",
+                "Rain Dance": "50",
+                "Bullet Seed": "56",
+                "Foul Play": "62",
+                "Sleep Talk": "70",
+                "Seed Bomb": "71",
+                "Electro Ball": "72",
+                "Reflect": "74",
+                "Grass Knot": "81",
+                "Thunder Wave": "82",
+                "Rest": "85",
+                "Taunt": "87",
+                "Substitute": "103",
+                "Giga Drain": "111",
+                "Energy Ball": "119",
+                "Thunderbolt": "126",
+                "Electric Terrain": "136",
+                "Grassy Terrain": "137",
+                "Wild Charge": "147",
+                "Giga Impact": "152",
+                "Leaf Storm": "159",
+                "Hyper Beam": "163",
+                "Thunder": "166",
+                "Solar Beam": "168",
+                "Tera Blast": "171"
+            }
+        }
+    },
+    "entries": {
+        "Electrode": [
+            "It stores electric energy under very high pressure. It often explodes with little or no provocation.",
+            "Stores electrical energy inside its body. Even the slightest shock could trigger a huge explosion.",
+            "It is dangerous. If it has too much electricity and has nothing to do, it amuses itself by exploding.",
+            "It stores an overflowing amount of electric energy inside its body. Even a small shock makes it explode.",
+            "The more energy it charges up, the faster it gets. But this also makes it more likely to explode.",
+            "ELECTRODE eats electricity in the atmosphere. On days when lightning strikes, you can see this pok\u00e9mon exploding all over the place from eating too much electricity.",
+            "One of ELECTRODE\u2019s characteristics is its attraction to electricity. It is a problematical pok\u00e9mon that congregates mostly at electrical power plants to feed on electricity that has just been generated.",
+            "It explodes in response to even minor stimuli. It is feared, with the nickname of \u201cThe Bomb Ball.\u201d",
+            "It stores electric energy under very high pressure. It often explodes with little or no provocation.",
+            "They appear in great numbers at electric power plants. Because they feed on electricity, they cause massive and chaotic blackouts in nearby cities.",
+            "It is known to drift on winds if it is bloated to bursting with stored electricity.",
+            "It is dangerous. If it has too much electricity and has nothing to do, it amuses itself by exploding.",
+            "It stores an overflowing amount of electric energy inside its body. Even a small shock makes it explode.",
+            "It is known to drift on winds if it is bloated to bursting with stored electricity.",
+            "It explodes in response to even minor stimuli. It is feared, with the nickname of \u201cThe Bomb Ball.\u201d",
+            "It stores an overflowing amount of electric energy inside its body. Even a small shock makes it explode.",
+            "Electrode eats electricity in the atmosphere. On days when lightning strikes, you can see this Pok\u00e9mon exploding all over the place from eating too much electricity.",
+            "One of Electrode\u2019s characteristics is its attraction to electricity. It is a problematical Pok\u00e9mon that congregates mostly at electrical power plants to feed on electricity that has just been generated.",
+            "Stores electrical energy inside its body. Even the slightest shock could trigger a huge explosion.",
+            "It is known to drift on winds if it is bloated to bursting with stored electricity.",
+            "The more energy it charges up, the faster it gets. But this also makes it more likely to explode.",
+            "It explodes in response to even minor stimuli. It is feared, with the nickname of the Bomb Ball."
+        ],
+        "Hisuian Electrode": [
+            "The tissue on the surface of its body is curiously similar in composition to an Apricorn. When irritated, this Pok\u00e9mon lets loose an electric current equal to 20 lightning bolts."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787380328779848/101.png",
+    "discord_sprite": "<:P101:1132117168079786177>"
+}

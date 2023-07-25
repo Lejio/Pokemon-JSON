@@ -1,0 +1,210 @@
+{
+    "alt-version(s)": [],
+    "name": "Seaking",
+    "Seaking": {
+        "pokedex_data": {
+            "National No.": "0119",
+            "Type": [
+                "Water"
+            ],
+            "Species": "Goldfish Poke\u0301mon",
+            "Height": "1.3 m (4\u203203\u2032\u2032)",
+            "Weight": "39.0 kg (86.0 lbs)",
+            "Abilities": {
+                "Swift Swim": {
+                    "href": "/ability/swift-swim",
+                    "effect": "Boosts the Pok\u00e9mon's Speed in rain.",
+                    "hidden": false
+                },
+                "Water Veil": {
+                    "href": "/ability/water-veil",
+                    "effect": "Prevents the Pok\u00e9mon from getting a burn.",
+                    "hidden": false
+                },
+                "Lightning Rod": {
+                    "href": "/ability/lightning-rod",
+                    "effect": "Draws in all Electric-type moves to up Sp. Attack.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "60",
+            "BaseFriendship": "50",
+            "Base Exp.": "158",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "80",
+                "Min": "270",
+                "Max": "364"
+            },
+            "Attack": {
+                "Base": "92",
+                "Min": "170",
+                "Max": "311"
+            },
+            "Defense": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Atk": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Def": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Speed": {
+                "Base": "68",
+                "Min": "126",
+                "Max": "258"
+            },
+            "Total": "450"
+        },
+        "defense_stats": {
+            "Swift Swim ability": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Steel": "not very effective"
+            },
+            "Water Veil ability": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Steel": "not very effective"
+            },
+            "Lightning Rod ability": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "no effect",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Goldeen",
+                    "nationalNo": "#0118",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Seaking",
+                    "nationalNo": "#0119",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 33)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Peck": "1",
+            "Supersonic": "1",
+            "Tail Whip": "1",
+            "Water Pulse": "1",
+            "Horn Attack": "15",
+            "Agility": "20",
+            "Aqua Ring": "25",
+            "Flail": "30",
+            "Waterfall": "37",
+            "Soak": "44",
+            "Megahorn": "51",
+            "Horn Drill": "58"
+        },
+        "egg": {
+            "Acupressure": null,
+            "Aqua Tail": null,
+            "Body Slam": null,
+            "Haze": null,
+            "Hydro Pump": null,
+            "Mud Shot": null,
+            "Mud-Slap": null,
+            "Psybeam": null,
+            "Skull Bash": null
+        },
+        "tm": {
+            "Water Pulse": "03",
+            "Hail": "07",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Double Team": "32",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Scald": "49",
+            "Endure": "58",
+            "Giga Impact": "68",
+            "Swords Dance": "75",
+            "Sleep Talk": "82",
+            "Poison Jab": "84",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Surf": "95",
+            "Waterfall": "99"
+        }
+    },
+    "entries": {
+        "Seaking": [
+            "In the autumn spawning season, they can be seen swimming powerfully up rivers and creeks.",
+            "It is the male\u2019s job to make a nest by carving out boulders in a stream using the horn on its head.",
+            "During spawning season, SEAKING gather from all over, coloring the rivers a brilliant red.",
+            "Using its horn, it bores holes in riverbed boulders, making nests to prevent its eggs from washing away.",
+            "When autumn comes, the males patrol the area around their nests in order to protect their offspring.",
+            "In the autumn, SEAKING males can be seen performing courtship dances in riverbeds to woo females. During this season, this pok\u00e9mon\u2019s body coloration is at its most beautiful.",
+            "SEAKING is very protective of its eggs. The male and female will take turns patrolling around their nest and eggs. The guarding of eggs by these pok\u00e9mon goes on for over a month.",
+            "The horn on its head is sharp like a drill. It bores a hole in a boulder to make its nest.",
+            "In the autumn spawning season, they can be seen swimming powerfully up rivers and creeks.",
+            "It punches holes in boulders on streambeds. This is a clever innovation that prevents its eggs from being attacked or washed away by the current.",
+            "It makes its nest by hollowing out boulders in streams with its horn. It defends its eggs with its life.",
+            "To protect its family, it will fight with its drill-sharp horn. It lives in hollowed rocks in streams.",
+            "In autumn, its body becomes more fatty in preparing to propose to a mate. It takes on beautiful colors.",
+            "During spawning season, SEAKING gather from all over, causing rivers to appear a brilliant red.",
+            "Using its horn, it bores holes in riverbed boulders, making nests to prevent its eggs from washing away.",
+            "In autumn, its body becomes more fatty in preparing to propose to a mate. It takes on beautiful colors.",
+            "In the autumn spawning season, they can be seen swimming powerfully up rivers and creeks.",
+            "It makes its nest by hollowing out boulders in streams with its horn. It defends its eggs with its life.",
+            "In the autumn, Seaking males can be seen performing courtship dances in riverbeds to woo females. During this season, this Pok\u00e9mon\u2019s body coloration is at its most beautiful.",
+            "Seaking is very protective of its eggs. The male and female will take turns patrolling around their nest and eggs. The guarding of eggs by these Pok\u00e9mon goes on for over a month.",
+            "When the weather grows cold, its whole body flushes a deep red. This sight serves as a poetic reminder that autumn has arrived.",
+            "Trainers who are crazy for Seaking are divided into horn enthusiasts and fin enthusiasts. The two groups do not get along well.",
+            "Its horn spins like a drill to steadily hollow out rocks\u2014even harder ones. The coloration of the male is more vivid.",
+            "To attract females, males dance on the river\u2019s floor. The females gather around the male that dances most gracefully.",
+            "It is the male\u2019s job to make a nest by carving out boulders in a stream using the horn on its head.",
+            "In autumn, its body becomes more fatty in preparing to propose to a mate. It takes on beautiful colors.",
+            "Using its horn, it bores holes in riverbed boulders, making nests to prevent its eggs from washing away.",
+            "It makes its nest by hollowing out boulders in streams with its horn. The Pok\u00e9mon defends its eggs with its life.",
+            "To protect its family, it will fight with its drill-sharp horn. It lives in hollowed rocks in streams."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787519919390720/119.png",
+    "discord_sprite": "<:P119:1132117966343905410>"
+}

@@ -1,0 +1,245 @@
+{
+    "alt-version(s)": [],
+    "name": "Piloswine",
+    "Piloswine": {
+        "pokedex_data": {
+            "National No.": "0221",
+            "Type": [
+                "Ice",
+                "Ground"
+            ],
+            "Species": "Swine Poke\u0301mon",
+            "Height": "1.1 m (3\u203207\u2032\u2032)",
+            "Weight": "55.8 kg (123.0 lbs)",
+            "Abilities": {
+                "Oblivious": {
+                    "href": "/ability/oblivious",
+                    "effect": "Prevents it from becoming infatuated.",
+                    "hidden": false
+                },
+                "Snow Cloak": {
+                    "href": "/ability/snow-cloak",
+                    "effect": "Raises evasion in a hailstorm.",
+                    "hidden": false
+                },
+                "Thick Fat": {
+                    "href": "/ability/thick-fat",
+                    "effect": "Ups resistance to Fire- and Ice-type moves.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 HP, 1 Attack",
+            "Catch rate": "75",
+            "BaseFriendship": "50",
+            "Base Exp.": "158",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "100",
+                "Min": "310",
+                "Max": "404"
+            },
+            "Attack": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Defense": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Sp. Atk": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Def": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Speed": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Total": "450"
+        },
+        "defense_stats": {
+            "Oblivious ability": {
+                "Fire": "super-effective",
+                "Water": "super-effective",
+                "Electric": "no effect",
+                "Grass": "super-effective",
+                "Fighting": "super-effective",
+                "Poison": "not very effective",
+                "Steel": "super-effective"
+            },
+            "Snow Cloak ability": {
+                "Fire": "super-effective",
+                "Water": "super-effective",
+                "Electric": "no effect",
+                "Grass": "super-effective",
+                "Fighting": "super-effective",
+                "Poison": "not very effective",
+                "Steel": "super-effective"
+            },
+            "Thick Fat ability": {
+                "Water": "super-effective",
+                "Electric": "no effect",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Poison": "not very effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Swinub",
+                    "nationalNo": "#0220",
+                    "type": [
+                        "Ice",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Piloswine",
+                    "nationalNo": "#0221",
+                    "type": [
+                        "Ice",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 33)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Piloswine",
+                    "nationalNo": "#0221",
+                    "type": [
+                        "Ice",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Mamoswine",
+                    "nationalNo": "#0473",
+                    "type": [
+                        "Ice",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(after Ancient Power learned)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Ancient Power": "1",
+            "Flail": "1",
+            "Ice Fang": "1",
+            "Mud-Slap": "1",
+            "Powder Snow": "1",
+            "Tackle": "1",
+            "Ice Shard": "15",
+            "Mist": "20",
+            "Endure": "25",
+            "Icy Wind": "30",
+            "Amnesia": "37",
+            "Take Down": "44",
+            "Earthquake": "51",
+            "Blizzard": "58",
+            "Thrash": "65"
+        },
+        "evolution": {
+            "Ice Fang": "65"
+        },
+        "egg": {
+            "Ancient Power": null,
+            "Bite": null,
+            "Body Slam": null,
+            "Curse": null,
+            "Double-Edge": null,
+            "Fissure": null,
+            "Freeze-Dry": null,
+            "Icicle Crash": null,
+            "Icicle Spear": null,
+            "Mud Shot": null,
+            "Take Down": null
+        },
+        "tm": {
+            "Roar": "05",
+            "Hail": "07",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Hyper Beam": "15",
+            "Light Screen": "16",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Earthquake": "26",
+            "Dig": "28",
+            "Double Team": "32",
+            "Reflect": "33",
+            "Sandstorm": "37",
+            "Rock Tomb": "39",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Endure": "58",
+            "Giga Impact": "68",
+            "Stone Edge": "71",
+            "Avalanche": "72",
+            "Stealth Rock": "76",
+            "Rock Slide": "80",
+            "Sleep Talk": "82",
+            "Bulldoze": "83",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Strength": "96",
+            "Rock Smash": "98"
+        }
+    },
+    "entries": {
+        "Piloswine": [
+            "Because the long hair all over its body obscures its sight, it just keeps charging repeatedly.",
+            "If it charges at an enemy, the hairs on its back stand up straight. It is very sensitive to sound.",
+            "Although its legs are short, its rugged hooves prevent it from slipping, even on icy ground.",
+            "PILOSWINE is covered by a thick coat of long hair that enables it to endure the freezing cold. This pok\u00e9mon uses its tusks to dig up food that has been buried under ice.",
+            "If it charges at an enemy, the hairs on its back stand up straight. It is very sensitive to sound.",
+            "Because the long hair all over its body obscures its sight, it just keeps charging repeatedly.",
+            "A PILOSWINE is covered by a thick coat of long hair for enduring freezing cold. It uses its tusks to dig up food that has been buried under ice.",
+            "Its shaggy coat makes it unable to see. It checks surroundings with its sensitive nose instead.",
+            "Covered by a shaggy coat, it is strong against the cold. Its tusks of ice thicken when it snows.",
+            "Because the long hair all over its body obscures its sight, it just keeps charging repeatedly.",
+            "If it charges at an enemy, the hairs on its back stand up straight. It is very sensitive to sound.",
+            "Covered by a shaggy coat, it is strong against the cold. Its tusks of ice thicken when it snows.",
+            "With its excellent sense of smell, it\u2019s even able to find mushrooms that are buried under frozen ground.",
+            "Although its legs are short, its rugged hooves prevent it from slipping, even on icy ground.",
+            "Because the long hair all over its body obscures its sight, it just keeps charging repeatedly.",
+            "Piloswine is covered by a thick coat of long hair that enables it to endure the freezing cold. This Pok\u00e9mon uses its tusks to dig up food that has been buried under ice.",
+            "If it charges at an enemy, the hairs on its back stand up straight. It is very sensitive to sound.",
+            "Although its legs are short, its rugged hooves prevent it from slipping, even on icy ground.",
+            "Its shaggy coat makes it unable to see. It checks surroundings with its sensitive nose instead.",
+            "The long fur of this Pok\u00e9mon covers its eyes, ears, and even limbs, allowing Piloswine to resist harshly frigid conditions. The Pok\u00e9mon\u2019s white tusks can be used to defeat its enemies."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788320213585982/221.png",
+    "discord_sprite": "<:P221:1132122462587457596>"
+}

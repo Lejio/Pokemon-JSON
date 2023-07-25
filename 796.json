@@ -1,0 +1,143 @@
+{
+    "alt-version(s)": [],
+    "name": "Xurkitree",
+    "Xurkitree": {
+        "pokedex_data": {
+            "National No.": "0796",
+            "Type": [
+                "Electric"
+            ],
+            "Species": "Glowing Poke\u0301mon",
+            "Height": "3.8 m (12\u203206\u2032\u2032)",
+            "Weight": "100.0 kg (220.5 lbs)",
+            "Abilities": {
+                "Beast Boost": {
+                    "href": "/ability/beast-boost",
+                    "effect": "The Pok\u00e9mon boosts its most proficient stat each time it knocks out a Pok\u00e9mon.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Sp. Atk",
+            "Catch rate": "45",
+            "BaseFriendship": "0",
+            "Base Exp.": "257",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "83",
+                "Min": "276",
+                "Max": "370"
+            },
+            "Attack": {
+                "Base": "89",
+                "Min": "164",
+                "Max": "304"
+            },
+            "Defense": {
+                "Base": "71",
+                "Min": "132",
+                "Max": "265"
+            },
+            "Sp. Atk": {
+                "Base": "173",
+                "Min": "315",
+                "Max": "489"
+            },
+            "Sp. Def": {
+                "Base": "71",
+                "Min": "132",
+                "Max": "265"
+            },
+            "Speed": {
+                "Base": "83",
+                "Min": "153",
+                "Max": "291"
+            },
+            "Total": "570"
+        },
+        "defense_stats": {
+            "default": {
+                "Electric": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Thunder Shock": "1",
+            "Wrap": "1",
+            "Charge": "5",
+            "Thunder Wave": "10",
+            "Ingrain": "15",
+            "Spark": "20",
+            "Shock Wave": "25",
+            "Hypnosis": "30",
+            "Eerie Impulse": "35",
+            "Thunder Punch": "40",
+            "Discharge": "45",
+            "Magnet Rise": "50",
+            "Thunderbolt": "55",
+            "Electric Terrain": "60",
+            "Power Whip": "65",
+            "Zap Cannon": "70"
+        },
+        "egg": {
+            "Rising Voltage": null
+        },
+        "null": {
+            "Thunderbolt": "08",
+            "Thunder": "09",
+            "Substitute": "20",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Calm Mind": "49",
+            "Energy Ball": "65",
+            "Power Whip": "72",
+            "Grass Knot": "77",
+            "Electro Ball": "80",
+            "Wild Charge": "86",
+            "Dazzling Gleam": "92"
+        },
+        "tm": {
+            "Thunder Punch": "05",
+            "Hyper Beam": "08",
+            "Giga Impact": "09",
+            "Solar Beam": "11",
+            "Thunder Wave": "14",
+            "Light Screen": "17",
+            "Reflect": "18",
+            "Rest": "21",
+            "Snore": "24",
+            "Protect": "25",
+            "Rain Dance": "33",
+            "Sunny Day": "34",
+            "Facade": "39",
+            "Fling": "59",
+            "Round": "76",
+            "Volt Switch": "80",
+            "Electroweb": "82",
+            "Electric Terrain": "90",
+            "Eerie Impulse": "93",
+            "Brutal Swing": "97"
+        }
+    },
+    "entries": {
+        "Xurkitree": [
+            "One of the mysterious life-forms known as Ultra Beasts. Astonishing electric shocks emanate from its entire body, according to witnesses.",
+            "It appeared from the Ultra Wormhole. It raided a power plant, so people think it energizes itself with electricity.",
+            "Although it\u2019s alien to this world and a danger here, it\u2019s apparently a common organism in the world where it normally lives.",
+            "They\u2019ve been dubbed Ultra Beasts. Some of them stand unmoving, like trees, with their arms and legs stuck into the ground."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792812225073162/796.png",
+    "discord_sprite": "<:P796:1132147828362317824>"
+}

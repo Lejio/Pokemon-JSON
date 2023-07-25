@@ -1,0 +1,173 @@
+{
+    "alt-version(s)": [],
+    "name": "Kricketune",
+    "Kricketune": {
+        "pokedex_data": {
+            "National No.": "0402",
+            "Type": [
+                "Bug"
+            ],
+            "Species": "Cricket Poke\u0301mon",
+            "Height": "1.0 m (3\u203203\u2032\u2032)",
+            "Weight": "25.5 kg (56.2 lbs)",
+            "Abilities": {
+                "Swarm": {
+                    "href": "/ability/swarm",
+                    "effect": "Powers up Bug-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Technician": {
+                    "href": "/ability/technician",
+                    "effect": "Powers up the Pok\u00e9mon's weaker moves.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "134",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "77",
+                "Min": "264",
+                "Max": "358"
+            },
+            "Attack": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Defense": {
+                "Base": "51",
+                "Min": "96",
+                "Max": "221"
+            },
+            "Sp. Atk": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Sp. Def": {
+                "Base": "51",
+                "Min": "96",
+                "Max": "221"
+            },
+            "Speed": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Total": "384"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Grass": "not very effective",
+                "Fighting": "not very effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Rock": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Kricketot",
+                    "nationalNo": "#0401",
+                    "type": [
+                        "Bug"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Kricketune",
+                    "nationalNo": "#0402",
+                    "type": [
+                        "Bug"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 10)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Growl": "1",
+            "Tackle": "1",
+            "Absorb": "14",
+            "Sing": "18",
+            "Focus Energy": "22",
+            "Slash": "26",
+            "X-Scissor": "30",
+            "Screech": "34",
+            "Fell Stinger": "36",
+            "Taunt": "38",
+            "Night Slash": "42",
+            "Sticky Web": "44",
+            "Bug Buzz": "46",
+            "Perish Song": "50"
+        },
+        "evolution": {
+            "Fury Cutter": "40"
+        },
+        "egg": null,
+        "tm": {
+            "Take Down": "01",
+            "Protect": "07",
+            "Struggle Bug": "15",
+            "Trailblaze": "20",
+            "Pounce": "21",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "False Swipe": "57",
+            "Brick Break": "58",
+            "Sleep Talk": "70",
+            "Rest": "85",
+            "Taunt": "87",
+            "Swords Dance": "88",
+            "Leech Life": "95",
+            "Substitute": "103",
+            "X-Scissor": "105",
+            "Giga Drain": "111",
+            "Hyper Voice": "117",
+            "Helping Hand": "130",
+            "Baton Pass": "132",
+            "Giga Impact": "152",
+            "Bug Buzz": "162",
+            "Hyper Beam": "163",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Kricketune": [
+            "It crosses its knifelike arms in front of its chest when it cries. It can compose melodies ad lib.",
+            "It signals its emotions with its melodies. Scientists are studying these melodic patterns.",
+            "There is a village that hosts a contest based on the amazingly variable cries of this Pok\u00e9mon.",
+            "By allowing its cry to resonate in the hollow of its belly, it produces a captivating sound.",
+            "There is a village that hosts a contest based on the amazingly variable cries of this Pok\u00e9mon.",
+            "It crosses its knifelike arms in front of its chest when it cries. It can compose melodies ad lib.",
+            "It signals its emotions with its melodies. Scientists are studying these melodic patterns.",
+            "It crosses its knifelike arms in front of its chest when it cries. It can compose melodies ad lib.",
+            "It signals its emotions with its melodies. Scientists are studying these melodic patterns.",
+            "It uses its cutlass-like arms to produce sound, the melody of which varies from individual to individual. It is a worthwhile endeavor to seek out one\u2019s favorite tunes.",
+            "By allowing its cry to resonate in the hollow of its belly, it produces a captivating sound.",
+            "There is a village that hosts a contest based on the amazingly variable cries of this Pok\u00e9mon."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789738324525106/402.png",
+    "discord_sprite": "<:P402:1132130422873128971>"
+}

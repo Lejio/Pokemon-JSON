@@ -1,0 +1,188 @@
+{
+    "alt-version(s)": [],
+    "name": "Maractus",
+    "Maractus": {
+        "pokedex_data": {
+            "National No.": "0556",
+            "Type": [
+                "Grass"
+            ],
+            "Species": "Cactus Poke\u0301mon",
+            "Height": "1.0 m (3\u203203\u2032\u2032)",
+            "Weight": "28.0 kg (61.7 lbs)",
+            "Abilities": {
+                "Water Absorb": {
+                    "href": "/ability/water-absorb",
+                    "effect": "Restores HP if hit by a Water-type move.",
+                    "hidden": false
+                },
+                "Chlorophyll": {
+                    "href": "/ability/chlorophyll",
+                    "effect": "Boosts the Pok\u00e9mon's Speed in sunshine.",
+                    "hidden": false
+                },
+                "Storm Drain": {
+                    "href": "/ability/storm-drain",
+                    "effect": "Draws in all Water-type moves to up Sp. Attack.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Sp. Atk",
+            "Catch rate": "255",
+            "BaseFriendship": "50",
+            "Base Exp.": "161",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "75",
+                "Min": "260",
+                "Max": "354"
+            },
+            "Attack": {
+                "Base": "86",
+                "Min": "159",
+                "Max": "298"
+            },
+            "Defense": {
+                "Base": "67",
+                "Min": "125",
+                "Max": "256"
+            },
+            "Sp. Atk": {
+                "Base": "106",
+                "Min": "195",
+                "Max": "342"
+            },
+            "Sp. Def": {
+                "Base": "67",
+                "Min": "125",
+                "Max": "256"
+            },
+            "Speed": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Total": "461"
+        },
+        "defense_stats": {
+            "Water Absorb ability": {
+                "Fire": "super-effective",
+                "Water": "no effect",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Poison": "super-effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Bug": "super-effective"
+            },
+            "Chlorophyll ability": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Poison": "super-effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Bug": "super-effective"
+            },
+            "Storm Drain ability": {
+                "Fire": "super-effective",
+                "Water": "no effect",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Poison": "super-effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Bug": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Absorb": "1",
+            "After You": "1",
+            "Ingrain": "1",
+            "Peck": "1",
+            "Spiky Shield": "1",
+            "Growth": "4",
+            "Mega Drain": "8",
+            "Leech Seed": "12",
+            "Sucker Punch": "16",
+            "Pin Missile": "20",
+            "Giga Drain": "24",
+            "Sweet Scent": "28",
+            "Synthesis": "32",
+            "Petal Blizzard": "36",
+            "Cotton Spore": "40",
+            "Sunny Day": "44",
+            "Solar Beam": "48",
+            "Acupressure": "52",
+            "Petal Dance": "56",
+            "Cotton Guard": "60"
+        },
+        "egg": {
+            "Wood Hammer": null,
+            "Worry Seed": null
+        },
+        "null": {
+            "Substitute": "20",
+            "Spikes": "23",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Uproar": "35",
+            "Hyper Voice": "42",
+            "Poison Jab": "57",
+            "Seed Bomb": "59",
+            "Energy Ball": "65",
+            "Leaf Storm": "71",
+            "Grass Knot": "77",
+            "Throat Chop": "95"
+        },
+        "tm": {
+            "Pin Missile": "07",
+            "Solar Beam": "11",
+            "Screech": "16",
+            "Safeguard": "19",
+            "Rest": "21",
+            "Snore": "24",
+            "Protect": "25",
+            "Giga Drain": "28",
+            "Attract": "31",
+            "Rain Dance": "33",
+            "Sunny Day": "34",
+            "Facade": "39",
+            "Helping Hand": "41",
+            "Weather Ball": "46",
+            "Bullet Seed": "50",
+            "Bounce": "52",
+            "Assurance": "58",
+            "Drain Punch": "63",
+            "Round": "76",
+            "Grassy Terrain": "88"
+        }
+    },
+    "entries": {
+        "Maractus": [
+            "It uses an up-tempo song and dance to drive away the bird Pok\u00e9mon that prey on its flower seeds.",
+            "Arid regions are their habitat. They move rhythmically, making a sound similar to maracas.",
+            "When it moves rhythmically, it makes a sound similar to maracas, making the surprised Pok\u00e9mon flee.",
+            "It uses an up-tempo song and dance to drive away the bird Pok\u00e9mon that prey on its flower seeds.",
+            "Arid regions are their habitat. They move rhythmically, making a sound similar to maracas.",
+            "With noises that could be mistaken for the rattles of maracas, it creates an upbeat rhythm, startling bird Pok\u00e9mon and making them fly off in a hurry.",
+            "Once each year, this Pok\u00e9mon scatters its seeds. They\u2019re jam-packed with nutrients, making them a precious food source out in the desert."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790934707806359/556.png",
+    "discord_sprite": "<:P556:1132137203296911422>"
+}

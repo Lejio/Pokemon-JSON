@@ -1,0 +1,205 @@
+{
+    "alt-version(s)": [],
+    "name": "Honchkrow",
+    "Honchkrow": {
+        "pokedex_data": {
+            "National No.": "0430",
+            "Type": [
+                "Dark",
+                "Flying"
+            ],
+            "Species": "Big Boss Poke\u0301mon",
+            "Height": "0.9 m (2\u203211\u2032\u2032)",
+            "Weight": "27.3 kg (60.2 lbs)",
+            "Abilities": {
+                "Insomnia": {
+                    "href": "/ability/insomnia",
+                    "effect": "Prevents the Pok\u00e9mon from falling asleep.",
+                    "hidden": false
+                },
+                "Super Luck": {
+                    "href": "/ability/super-luck",
+                    "effect": "Heightens the critical-hit ratios of moves.",
+                    "hidden": false
+                },
+                "Moxie": {
+                    "href": "/ability/moxie",
+                    "effect": "Boosts Attack after knocking out any Pok\u00e9mon.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "30",
+            "BaseFriendship": "35",
+            "Base Exp.": "177",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "100",
+                "Min": "310",
+                "Max": "404"
+            },
+            "Attack": {
+                "Base": "125",
+                "Min": "229",
+                "Max": "383"
+            },
+            "Defense": {
+                "Base": "52",
+                "Min": "98",
+                "Max": "223"
+            },
+            "Sp. Atk": {
+                "Base": "105",
+                "Min": "193",
+                "Max": "339"
+            },
+            "Sp. Def": {
+                "Base": "52",
+                "Min": "98",
+                "Max": "223"
+            },
+            "Speed": {
+                "Base": "71",
+                "Min": "132",
+                "Max": "265"
+            },
+            "Total": "505"
+        },
+        "defense_stats": {
+            "default": {
+                "Electric": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Ground": "no effect",
+                "Psychic": "no effect",
+                "Rock": "super-effective",
+                "Ghost": "not very effective",
+                "Dark": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Murkrow",
+                    "nationalNo": "#0198",
+                    "type": [
+                        "Dark",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Honchkrow",
+                    "nationalNo": "#0430",
+                    "type": [
+                        "Dark",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Dusk Stone)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Astonish": "1",
+            "Haze": "1",
+            "Night Slash": "1",
+            "Quash": "1",
+            "Sucker Punch": "1",
+            "Wing Attack": "1",
+            "Swagger": "25",
+            "Nasty Plot": "35",
+            "Foul Play": "45",
+            "Dark Pulse": "55",
+            "Comeuppance": "65"
+        },
+        "egg": {
+            "Brave Bird": null,
+            "Confuse Ray": null,
+            "Drill Peck": null,
+            "Feather Dance": null,
+            "Flatter": null,
+            "Perish Song": null,
+            "Screech": null,
+            "Sky Attack": null,
+            "Whirlwind": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Mud-Slap": "05",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Acrobatics": "14",
+            "Confuse Ray": "17",
+            "Thief": "18",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Hex": "29",
+            "Snarl": "30",
+            "Icy Wind": "34",
+            "Air Cutter": "40",
+            "Night Shade": "42",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "U-turn": "60",
+            "Foul Play": "62",
+            "Air Slash": "65",
+            "Sleep Talk": "70",
+            "Thunder Wave": "82",
+            "Rest": "85",
+            "Taunt": "87",
+            "Dark Pulse": "94",
+            "Fly": "97",
+            "Substitute": "103",
+            "Tailwind": "113",
+            "Shadow Ball": "114",
+            "Heat Wave": "118",
+            "Psychic": "120",
+            "Calm Mind": "129",
+            "Helping Hand": "130",
+            "Nasty Plot": "140",
+            "Giga Impact": "152",
+            "Hurricane": "160",
+            "Hyper Beam": "163",
+            "Brave Bird": "164",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Honchkrow": [
+            "Becoming active at night, it is known to swarm with numerous MURKROW in tow.",
+            "It makes its MURKROW cronies bring it food. It idles its time away, grooming itself in its nest.",
+            "If one utters a deep cry, many MURKROW gather quickly. For this, it is called \u201cSummoner of Night.\u201d",
+            "It is merciless by nature. It is said that it never forgives the mistakes of its MURKROW followers.",
+            "If one utters a deep cry, many Murkrow gather quickly. For this, it is called \u201cSummoner of Night.\u201d",
+            "If one utters a deep cry, many Murkrow gather quickly. For this, it is called \u201cSummoner of Night.\u201d",
+            "Becoming active at night, it is known to swarm with numerous Murkrow in tow.",
+            "A single cry from this nocturnal Pok\u00e9mon, and more than a hundred of its Murkrow cronies will assemble.",
+            "If its Murkrow cronies fail to catch food for it, or if it feels they have betrayed it, it will hunt them down wherever they are and punish them.",
+            "It will absolutely not forgive failure from or betrayal by its goons. It has no choice in this if it wants to maintain the order of the flock.",
+            "Its goons take care of most of the fighting for it. The only time it dirties its own hands is in delivering a final blow to finish off an opponent.",
+            "Becoming active at night, it is known to form flocks with numerous Murkrow in tow.",
+            "It makes its Murkrow cronies bring it food. It idles its time away, grooming itself in its nest.",
+            "One cry from this Pok\u00e9mon, and a murder of Murkrow come flying. At such times, one would think the curtain of night had fallen, plunging the world into jet-black darkness.",
+            "It is merciless by nature. It is said that it never forgives the mistakes of its Murkrow followers.",
+            "A single cry from this nocturnal Pok\u00e9mon, and more than 100 of its Murkrow cronies will assemble."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789955048427530/430.png",
+    "discord_sprite": "<:P430:1132131652966039568>"
+}

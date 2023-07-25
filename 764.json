@@ -1,0 +1,168 @@
+{
+    "alt-version(s)": [],
+    "name": "Comfey",
+    "Comfey": {
+        "pokedex_data": {
+            "National No.": "0764",
+            "Type": [
+                "Fairy"
+            ],
+            "Species": "Posy Picker Poke\u0301mon",
+            "Height": "0.1 m (0\u203204\u2032\u2032)",
+            "Weight": "0.3 kg (0.7 lbs)",
+            "Abilities": {
+                "Flower Veil": {
+                    "href": "/ability/flower-veil",
+                    "effect": "Prevents lowering of ally Grass-type Pok\u00e9mon's stats.",
+                    "hidden": false
+                },
+                "Triage": {
+                    "href": "/ability/triage",
+                    "effect": "Gives priority to restorative moves.",
+                    "hidden": false
+                },
+                "Natural Cure": {
+                    "href": "/ability/natural-cure",
+                    "effect": "All status problems heal when it switches out.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Sp. Def",
+            "Catch rate": "60",
+            "BaseFriendship": "50",
+            "Base Exp.": "170",
+            "Growth Rate": "Fast"
+        },
+        "breeding_data": {
+            "Gender": "25% male,75% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "51",
+                "Min": "212",
+                "Max": "306"
+            },
+            "Attack": {
+                "Base": "52",
+                "Min": "98",
+                "Max": "223"
+            },
+            "Defense": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Sp. Atk": {
+                "Base": "82",
+                "Min": "152",
+                "Max": "289"
+            },
+            "Sp. Def": {
+                "Base": "110",
+                "Min": "202",
+                "Max": "350"
+            },
+            "Speed": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Total": "485"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "not very effective",
+                "Poison": "super-effective",
+                "Bug": "not very effective",
+                "Dragon": "no effect",
+                "Dark": "not very effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Growth": "1",
+            "Wrap": "1",
+            "Vine Whip": "3",
+            "Helping Hand": "6",
+            "Draining Kiss": "9",
+            "Flower Shield": "12",
+            "Magical Leaf": "15",
+            "Synthesis": "18",
+            "Leech Seed": "21",
+            "Grass Knot": "24",
+            "Sweet Kiss": "27",
+            "Floral Healing": "30",
+            "Petal Blizzard": "33",
+            "Aromatherapy": "36",
+            "Play Rough": "39",
+            "Sweet Scent": "42",
+            "Petal Dance": "45",
+            "Grassy Terrain": "48"
+        },
+        "egg": {
+            "After You": null,
+            "Leaf Tornado": null,
+            "Worry Seed": null
+        },
+        "null": {
+            "Amnesia": "17",
+            "Substitute": "20",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Encore": "30",
+            "Taunt": "37",
+            "Trick": "38",
+            "Calm Mind": "49",
+            "Seed Bomb": "59",
+            "Energy Ball": "65",
+            "Grass Knot": "77",
+            "Stored Power": "82",
+            "Ally Switch": "83",
+            "Play Rough": "90",
+            "Dazzling Gleam": "92",
+            "Pollen Puff": "96"
+        },
+        "tm": {
+            "Hyper Beam": "08",
+            "Magical Leaf": "10",
+            "Solar Beam": "11",
+            "Light Screen": "17",
+            "Safeguard": "19",
+            "Rest": "21",
+            "Thief": "23",
+            "Snore": "24",
+            "Protect": "25",
+            "Giga Drain": "28",
+            "Charm": "29",
+            "Attract": "31",
+            "Sunny Day": "34",
+            "Facade": "39",
+            "Helping Hand": "41",
+            "Bullet Seed": "50",
+            "U-turn": "56",
+            "Fling": "59",
+            "Trick Room": "70",
+            "Round": "76",
+            "Acrobatics": "78",
+            "Draining Kiss": "87",
+            "Grassy Terrain": "88"
+        }
+    },
+    "entries": {
+        "Comfey": [
+            "It attaches flowers to its highly nutritious vine. This revitalizes the flowers, and they give off an aromatic scent.",
+            "Baths prepared with the flowers from its vine have a relaxing effect, so this Pok\u00e9mon is a hit with many people.",
+            "It stretches sticky vines out from its head and picks flowers to adorn itself with. When it doesn\u2019t have any flowers, it feels uneasy.",
+            "It picks flowers and sticks them to its body with fluids it produces. The aroma that wafts from its petals has a healing effect.",
+            "Comfey picks flowers with its vine and decorates itself with them. For some reason, flowers won\u2019t wither once they\u2019re attached to a Comfey.",
+            "These Pok\u00e9mon smell very nice. All Comfey wear different flowers, so each of these Pok\u00e9mon has its own individual scent."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792564148785273/764.png",
+    "discord_sprite": "<:P764:1132146418925195264>"
+}

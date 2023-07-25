@@ -1,0 +1,205 @@
+{
+    "alt-version(s)": [],
+    "name": "Kabuto",
+    "Kabuto": {
+        "pokedex_data": {
+            "National No.": "0140",
+            "Type": [
+                "Rock",
+                "Water"
+            ],
+            "Species": "Shellfish Poke\u0301mon",
+            "Height": "0.5 m (1\u203208\u2032\u2032)",
+            "Weight": "11.5 kg (25.4 lbs)",
+            "Abilities": {
+                "Swift Swim": {
+                    "href": "/ability/swift-swim",
+                    "effect": "Boosts the Pok\u00e9mon's Speed in rain.",
+                    "hidden": false
+                },
+                "Battle Armor": {
+                    "href": "/ability/battle-armor",
+                    "effect": "The Pok\u00e9mon is protected against critical hits.",
+                    "hidden": false
+                },
+                "Weak Armor": {
+                    "href": "/ability/weak-armor",
+                    "effect": "Physical attacks lower Defense and raise Speed.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Defense",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "71",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "30",
+                "Min": "170",
+                "Max": "264"
+            },
+            "Attack": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Defense": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Sp. Atk": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Sp. Def": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Speed": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Total": "355"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Fire": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Kabuto",
+                    "nationalNo": "#0140",
+                    "type": [
+                        "Rock",
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Kabutops",
+                    "nationalNo": "#0141",
+                    "type": [
+                        "Rock",
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 40)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Absorb": "1",
+            "Harden": "1",
+            "Scratch": "5",
+            "Sand Attack": "10",
+            "Aqua Jet": "15",
+            "Leer": "20",
+            "Mud Shot": "25",
+            "Ancient Power": "30",
+            "Brine": "35",
+            "Protect": "41",
+            "Leech Life": "45",
+            "Liquidation": "50",
+            "Metal Sound": "55",
+            "Stone Edge": "60"
+        },
+        "egg": {
+            "Aurora Beam": null,
+            "Bubble Beam": null,
+            "Confuse Ray": null,
+            "Flail": null,
+            "Icy Wind": null,
+            "Knock Off": null,
+            "Mega Drain": null,
+            "Mud Shot": null,
+            "Rapid Spin": null,
+            "Screech": null,
+            "Take Down": null
+        },
+        "tm": {
+            "Water Pulse": "03",
+            "Hail": "07",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Giga Drain": "19",
+            "Dig": "28",
+            "Double Team": "32",
+            "Sandstorm": "37",
+            "Rock Tomb": "39",
+            "Aerial Ace": "40",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Scald": "49",
+            "Brine": "55",
+            "Endure": "58",
+            "Rock Polish": "69",
+            "Stone Edge": "71",
+            "Stealth Rock": "76",
+            "Rock Slide": "80",
+            "Sleep Talk": "82",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Surf": "95",
+            "Rock Smash": "98",
+            "Waterfall": "99"
+        }
+    },
+    "entries": {
+        "Kabuto": [
+            "A pok\u00e9mon that was resurrected from a fossil found in what was once the ocean floor eons ago.",
+            "A pok\u00e9mon that was recovered from a fossil. It uses the eyes on its back while hiding on the sea floor.",
+            "On rare occasions, some have been found as fossils which they became while hiding on the ocean floor.",
+            "This pok\u00e9mon lived in ancient times. On rare occasions, it has been discovered as a living fossil.",
+            "Three hundred million years ago, it hid on the sea floor. It also has eyes on its back that glow.",
+            "KABUTO is a pok\u00e9mon that has been regenerated from a fossil. However, in extremely rare cases, living examples have been discovered. The pok\u00e9mon has not changed at all for 300 million years.",
+            "This pok\u00e9mon was regenerated from the fossil of an ancient creature. It protects itself with a hard shell.",
+            "A pok\u00e9mon that was regenerated from a fossil found in what was once the ocean floor long ago.",
+            "It is a pok\u00e9mon that has been regenerated from a fossil. However, in rare cases, living examples have been discovered. KABUTO have not changed for 300 million years.",
+            "It is thought to have inhabited beaches 300 million years ago. It is protected by a stiff shell.",
+            "On rare occasions, some have been found as fossils which they became while hiding on the ocean floor.",
+            "This Pok\u00e9mon lived in ancient times. On rare occasions, it has been discovered as a living fossil.",
+            "It is thought to have inhabited beaches 300 million years ago. It is protected by a stiff shell.",
+            "It is thought to have inhabited beaches 300 million years ago. It is protected by a stiff shell.",
+            "This Pok\u00e9mon was regenerated from the fossil of an ancient creature. It protects itself with a hard shell.",
+            "Kabuto is a Pok\u00e9mon that has been regenerated from a fossil. However, in extremely rare cases, living examples have been discovered. The Pok\u00e9mon has not changed at all for 300 million years.",
+            "This Pok\u00e9mon thrived 300 million years ago. It\u2019s said that living specimens can still be seen in a certain region\u2014a rare sight.",
+            "This Pok\u00e9mon became extinct everywhere, except in a few areas. It protects itself with its hard shell.",
+            "A Pok\u00e9mon that was recovered from a fossil. It used the eyes on its back while hiding on the seafloor.",
+            "This species is almost entirely extinct. Kabuto molt every three days, making their shells harder and harder.",
+            "While some say this species has gone extinct, Kabuto sightings are apparently fairly common in some places.",
+            "It is thought to have inhabited beaches 300 million years ago. It is protected by a sturdy shell."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787683522420826/140.png",
+    "discord_sprite": "<:P140:1132118894694383678>"
+}

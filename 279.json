@@ -1,0 +1,217 @@
+{
+    "alt-version(s)": [],
+    "name": "Pelipper",
+    "Pelipper": {
+        "pokedex_data": {
+            "National No.": "0279",
+            "Type": [
+                "Water",
+                "Flying"
+            ],
+            "Species": "Water Bird Poke\u0301mon",
+            "Height": "1.2 m (3\u203211\u2032\u2032)",
+            "Weight": "28.0 kg (61.7 lbs)",
+            "Abilities": {
+                "Keen Eye": {
+                    "href": "/ability/keen-eye",
+                    "effect": "Prevents other Pok\u00e9mon from lowering accuracy.",
+                    "hidden": false
+                },
+                "Drizzle": {
+                    "href": "/ability/drizzle",
+                    "effect": "The Pok\u00e9mon makes it rain when it enters a battle.",
+                    "hidden": false
+                },
+                "Rain Dish": {
+                    "href": "/ability/rain-dish",
+                    "effect": "The Pok\u00e9mon gradually regains HP in rain.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Defense",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "154",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "60",
+                "Min": "230",
+                "Max": "324"
+            },
+            "Attack": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Defense": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Sp. Atk": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Sp. Def": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Speed": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Total": "440"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Fighting": "not very effective",
+                "Ground": "no effect",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Wingull",
+                    "nationalNo": "#0278",
+                    "type": [
+                        "Water",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Pelipper",
+                    "nationalNo": "#0279",
+                    "type": [
+                        "Water",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 25)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Agility": "1",
+            "Air Slash": "1",
+            "Growl": "1",
+            "Protect": "1",
+            "Quick Attack": "1",
+            "Soak": "1",
+            "Supersonic": "1",
+            "Tailwind": "1",
+            "Water Gun": "1",
+            "Wing Attack": "15",
+            "Water Pulse": "20",
+            "Spit Up": "28",
+            "Stockpile": "28",
+            "Swallow": "28",
+            "Fling": "34",
+            "Mist": "41",
+            "Roost": "48",
+            "Hurricane": "55",
+            "Hydro Pump": "62"
+        },
+        "egg": {
+            "Aerial Ace": null,
+            "Air Cutter": null,
+            "Aqua Ring": null,
+            "Gust": null,
+            "Knock Off": null,
+            "Soak": null,
+            "Twister": null,
+            "Wide Guard": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Agility": "04",
+            "Protect": "07",
+            "Water Pulse": "11",
+            "Acrobatics": "14",
+            "Thief": "18",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Swift": "32",
+            "Icy Wind": "34",
+            "Air Cutter": "40",
+            "Fling": "43",
+            "Endure": "47",
+            "Rain Dance": "50",
+            "Snowscape": "52",
+            "U-turn": "60",
+            "Air Slash": "65",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Seed Bomb": "71",
+            "Waterfall": "77",
+            "Rest": "85",
+            "Fly": "97",
+            "Gunk Shot": "102",
+            "Substitute": "103",
+            "Liquidation": "110",
+            "Tailwind": "113",
+            "Surf": "123",
+            "Helping Hand": "130",
+            "Ice Beam": "135",
+            "Hydro Pump": "142",
+            "Blizzard": "143",
+            "Giga Impact": "152",
+            "Hurricane": "160",
+            "Hyper Beam": "163",
+            "Brave Bird": "164",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Pelipper": [
+            "PELIPPER is a flying transporter that carries small pok\u00e9mon and eggs inside its massive bill. This pok\u00e9mon builds its nest on steep cliffs facing the sea.",
+            "PELIPPER searches for food while in flight by skimming the wave tops. This pok\u00e9mon dips its large bill in the sea to scoop up food, then swallows everything in one big gulp.",
+            "It is a flying transporter that carries small pok\u00e9mon in its beak. It bobs on the waves to rest its wings.",
+            "It skims the tops of waves as it flies. When it spots prey, it uses its large beak to scoop up the victim with water. It protects its eggs in its beak.",
+            "It dips its large bill in the sea, then scoops up numerous prey along with water.",
+            "It acts as a delivery service by carrying small Pok\u00e9mon in its bill. It bobs on the waves to rest.",
+            "It is a messenger of the skies, carrying small Pok\u00e9mon and eggs to safety in its bill.",
+            "It protects its young in its beak. It bobs on waves, resting on them on days when the waters are calm.",
+            "It is a messenger of the skies, carrying small Pok\u00e9mon and eggs to safety in its bill.",
+            "Skimming the water\u2019s surface, it dips its large bill in the sea, scoops up food and water, and carries it.",
+            "It dips its large bill in the sea, then scoops up numerous prey along with water.",
+            "It is a messenger of the skies, carrying small Pok\u00e9mon and eggs to safety in its bill.",
+            "Pelipper is a flying transporter that carries small Pok\u00e9mon and eggs inside its massive bill. This Pok\u00e9mon builds its nest on steep cliffs facing the sea.",
+            "Pelipper searches for food while in flight by skimming the wave tops. This Pok\u00e9mon dips its large bill in the sea to scoop up food, then swallows everything in one big gulp.",
+            "Its spacious beak is large enough for a small child to fit right inside.",
+            "Gathering food is the work of young males. They store food in their capacious beaks and carry it back to others waiting in the nest.",
+            "It places small Pok\u00e9mon into its spacious beak and carries them around. No one knows where it\u2019s taking them.",
+            "It scoops up Wishiwashi in its huge beak and swallows them whole. It can devour more than 30 at one go!",
+            "It is a messenger of the skies, carrying small Pok\u00e9mon and eggs to safety in its bill.",
+            "Skimming the water\u2019s surface, it dips its large bill in the sea, scoops up food and water, and carries it.",
+            "It dips its large bill in the sea, then scoops up numerous prey along with water.",
+            "It acts as a delivery service by carrying small Pok\u00e9mon in its bill. It bobs on the waves to rest.",
+            "It is a flying transporter that carries small Pok\u00e9mon in its beak. It bobs on the waves to rest its wings.",
+            "It protects its young in its beak. It bobs on waves, resting on them on days when the waters are calm."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788777166209074/279.png",
+    "discord_sprite": "<:P279:1132125021444243546>"
+}

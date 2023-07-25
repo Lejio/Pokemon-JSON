@@ -1,0 +1,199 @@
+{
+    "alt-version(s)": [],
+    "name": "Ribombee",
+    "Ribombee": {
+        "pokedex_data": {
+            "National No.": "0743",
+            "Type": [
+                "Bug",
+                "Fairy"
+            ],
+            "Species": "Bee Fly Poke\u0301mon",
+            "Height": "0.2 m (0\u203208\u2032\u2032)",
+            "Weight": "0.5 kg (1.1 lbs)",
+            "Abilities": {
+                "Honey Gather": {
+                    "href": "/ability/honey-gather",
+                    "effect": "The Pok\u00e9mon may gather Honey from somewhere.",
+                    "hidden": false
+                },
+                "Shield Dust": {
+                    "href": "/ability/shield-dust",
+                    "effect": "Blocks the added effects of attacks taken.",
+                    "hidden": false
+                },
+                "Sweet Veil": {
+                    "href": "/ability/sweet-veil",
+                    "effect": "Prevents the Pok\u00e9mon and allies from falling asleep.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Speed",
+            "Catch rate": "75",
+            "BaseFriendship": "50",
+            "Base Exp.": "162",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "60",
+                "Min": "230",
+                "Max": "324"
+            },
+            "Attack": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Defense": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Atk": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Sp. Def": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Speed": {
+                "Base": "124",
+                "Min": "227",
+                "Max": "381"
+            },
+            "Total": "464"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Grass": "not very effective",
+                "Fighting": "not very effective",
+                "Poison": "super-effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Dragon": "no effect",
+                "Dark": "not very effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Cutiefly",
+                    "nationalNo": "#0742",
+                    "type": [
+                        "Bug",
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Ribombee",
+                    "nationalNo": "#0743",
+                    "type": [
+                        "Bug",
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 25)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Absorb": "1",
+            "Covet": "1",
+            "Fairy Wind": "1",
+            "Pollen Puff": "1",
+            "Stun Spore": "1",
+            "Sweet Scent": "1",
+            "Draining Kiss": "18",
+            "Struggle Bug": "24",
+            "Aromatherapy": "32",
+            "Switcheroo": "40",
+            "Dazzling Gleam": "48",
+            "Bug Buzz": "56",
+            "Quiver Dance": "64"
+        },
+        "evolution": {
+            "Pollen Puff": "90"
+        },
+        "egg": {
+            "Aromatic Mist": null,
+            "Moonblast": null,
+            "Sticky Web": null
+        },
+        "null": {
+            "Psychic": "11",
+            "Leech Life": "18",
+            "Substitute": "20",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Baton Pass": "29",
+            "Trick": "38",
+            "Skill Swap": "40",
+            "Calm Mind": "49",
+            "Bug Buzz": "61",
+            "Energy Ball": "65",
+            "Ally Switch": "83",
+            "Play Rough": "90",
+            "Dazzling Gleam": "92",
+            "Pollen Puff": "96"
+        },
+        "tm": {
+            "Hyper Beam": "08",
+            "Giga Impact": "09",
+            "Magical Leaf": "10",
+            "Solar Beam": "11",
+            "Light Screen": "17",
+            "Reflect": "18",
+            "Safeguard": "19",
+            "Rest": "21",
+            "Thief": "23",
+            "Snore": "24",
+            "Protect": "25",
+            "Charm": "29",
+            "Attract": "31",
+            "Sunny Day": "34",
+            "Facade": "39",
+            "Swift": "40",
+            "Helping Hand": "41",
+            "Imprison": "44",
+            "Fake Tears": "47",
+            "U-turn": "56",
+            "Speed Swap": "62",
+            "Wonder Room": "71",
+            "Magic Room": "72",
+            "Round": "76",
+            "Acrobatics": "78",
+            "Draining Kiss": "87"
+        }
+    },
+    "entries": {
+        "Ribombee": [
+            "It rolls up pollen into puffs. It makes many different varieties, some used as food and others used in battle.",
+            "Some of Ribombee\u2019s pollen puffs are highly nutritious. They are sometimes sold as supplements.",
+            "Rain makes pollen damp, so Ribombee hates rain. When it sees ominous clouds, it finds a hollow in a tree, where it waits stock-still.",
+            "It can predict the weather from moisture levels and wind direction. Ribombee only reveals itself when there are a few clear days in a row.",
+            "It makes pollen puffs from pollen and nectar. The puffs\u2019 effects depend on the type of ingredients and how much of each one is used.",
+            "Ribombee absolutely hate getting wet or rained on. In the cloudy Galar region, they are very seldom seen."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792400147288064/743.png",
+    "discord_sprite": "<:P743:1132145426674503791>"
+}

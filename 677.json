@@ -1,0 +1,197 @@
+{
+    "alt-version(s)": [],
+    "name": "Espurr",
+    "Espurr": {
+        "pokedex_data": {
+            "National No.": "0677",
+            "Type": [
+                "Psychic"
+            ],
+            "Species": "Restraint Poke\u0301mon",
+            "Height": "0.3 m (1\u203200\u2032\u2032)",
+            "Weight": "3.5 kg (7.7 lbs)",
+            "Abilities": {
+                "Keen Eye": {
+                    "href": "/ability/keen-eye",
+                    "effect": "Prevents other Pok\u00e9mon from lowering accuracy.",
+                    "hidden": false
+                },
+                "Infiltrator": {
+                    "href": "/ability/infiltrator",
+                    "effect": "Passes through the foe's barrier and strikes.",
+                    "hidden": false
+                },
+                "Own Tempo": {
+                    "href": "/ability/own-tempo",
+                    "effect": "Prevents the Pok\u00e9mon from becoming confused.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Speed",
+            "Catch rate": "190",
+            "BaseFriendship": "50",
+            "Base Exp.": "71",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "62",
+                "Min": "234",
+                "Max": "328"
+            },
+            "Attack": {
+                "Base": "48",
+                "Min": "90",
+                "Max": "214"
+            },
+            "Defense": {
+                "Base": "54",
+                "Min": "101",
+                "Max": "227"
+            },
+            "Sp. Atk": {
+                "Base": "63",
+                "Min": "117",
+                "Max": "247"
+            },
+            "Sp. Def": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Speed": {
+                "Base": "68",
+                "Min": "126",
+                "Max": "258"
+            },
+            "Total": "355"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Espurr",
+                    "nationalNo": "#0677",
+                    "type": [
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Meowstic",
+                    "nationalNo": "#0678",
+                    "type": [
+                        "Psychic"
+                    ],
+                    "nickname": "Male"
+                },
+                "requirement": "(Level 25, Male)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Espurr",
+                    "nationalNo": "#0677",
+                    "type": [
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Meowstic",
+                    "nationalNo": "#0678",
+                    "type": [
+                        "Psychic"
+                    ],
+                    "nickname": "Female"
+                },
+                "requirement": "(Level 25, Female)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Leer": "1",
+            "Scratch": "1",
+            "Fake Out": "3",
+            "Disarming Voice": "6",
+            "Confusion": "9",
+            "Covet": "18",
+            "Psybeam": "21",
+            "Light Screen": "30",
+            "Reflect": "30",
+            "Psyshock": "33"
+        },
+        "egg": {
+            "Tickle": null,
+            "Yawn": null
+        },
+        "null": {
+            "Thunderbolt": "08",
+            "Psychic": "11",
+            "Substitute": "20",
+            "Psyshock": "25",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Iron Tail": "31",
+            "Trick": "38",
+            "Skill Swap": "40",
+            "Calm Mind": "49",
+            "Dark Pulse": "58",
+            "Energy Ball": "65",
+            "Nasty Plot": "68",
+            "Zen Headbutt": "69",
+            "Ally Switch": "83",
+            "Work Up": "85",
+            "Play Rough": "90"
+        },
+        "tm": {
+            "Pay Day": "02",
+            "Thunder Wave": "14",
+            "Light Screen": "17",
+            "Reflect": "18",
+            "Safeguard": "19",
+            "Rest": "21",
+            "Snore": "24",
+            "Protect": "25",
+            "Attract": "31",
+            "Rain Dance": "33",
+            "Sunny Day": "34",
+            "Facade": "39",
+            "Swift": "40",
+            "Helping Hand": "41",
+            "Fake Tears": "47",
+            "Payback": "57",
+            "Trick Room": "70",
+            "Wonder Room": "71",
+            "Magic Room": "72",
+            "Round": "76"
+        }
+    },
+    "entries": {
+        "Espurr": [
+            "The organ that emits its intense psychic power is sheltered by its ears to keep power from leaking out.",
+            "It has enough psychic energy to blast everything within 300 feet of itself, but it has no control over its power.",
+            "Though Espurr\u2019s expression never changes, behind that blank stare is an intense struggle to contain its devastating psychic power.",
+            "There\u2019s enough psychic power in Espurr to send a wrestler flying, but because this power can\u2019t be controlled, Espurr finds it troublesome."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791880552718426/677.png",
+    "discord_sprite": "<:P677:1132142531669413918>"
+}

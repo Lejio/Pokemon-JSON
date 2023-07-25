@@ -1,0 +1,170 @@
+{
+    "alt-version(s)": [],
+    "name": "Zarude",
+    "Zarude": {
+        "pokedex_data": {
+            "National No.": "0893",
+            "Type": [
+                "Dark",
+                "Grass"
+            ],
+            "Species": "Rogue Monkey Poke\u0301mon",
+            "Height": "1.8 m (5\u203211\u2032\u2032)",
+            "Weight": "70.0 kg (154.3 lbs)",
+            "Abilities": {
+                "Leaf Guard": {
+                    "href": "/ability/leaf-guard",
+                    "effect": "Prevents problems with status in sunny weather.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Attack",
+            "Catch rate": "3",
+            "BaseFriendship": "0",
+            "Base Exp.": "300",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "105",
+                "Min": "320",
+                "Max": "414"
+            },
+            "Attack": {
+                "Base": "120",
+                "Min": "220",
+                "Max": "372"
+            },
+            "Defense": {
+                "Base": "105",
+                "Min": "193",
+                "Max": "339"
+            },
+            "Sp. Atk": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Def": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Speed": {
+                "Base": "105",
+                "Min": "193",
+                "Max": "339"
+            },
+            "Total": "600"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "super-effective",
+                "Poison": "super-effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Psychic": "no effect",
+                "Bug": "super-effective",
+                "Ghost": "not very effective",
+                "Dark": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Bind": "1",
+            "Scratch": "1",
+            "Leer": "6",
+            "Vine Whip": "12",
+            "Growth": "18",
+            "Fury Swipes": "24",
+            "Scary Face": "30",
+            "Grass Knot": "36",
+            "Bite": "42",
+            "U-turn": "48",
+            "Swagger": "54",
+            "Energy Ball": "60",
+            "Synthesis": "66",
+            "Hammer Arm": "72",
+            "Thrash": "78",
+            "Power Whip": "84",
+            "Jungle Healing": "90"
+        },
+        "egg": null,
+        "tm": {
+            "Take Down": "01",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Low Kick": "12",
+            "Acrobatics": "14",
+            "Thief": "18",
+            "Trailblaze": "20",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Snarl": "30",
+            "Swift": "32",
+            "Magical Leaf": "33",
+            "Mud Shot": "35",
+            "Rock Tomb": "36",
+            "Low Sweep": "39",
+            "Fling": "43",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Dig": "55",
+            "Bullet Seed": "56",
+            "Brick Break": "58",
+            "U-turn": "60",
+            "Bulk Up": "64",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Seed Bomb": "71",
+            "Drain Punch": "73",
+            "Grass Knot": "81",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Taunt": "87",
+            "Swords Dance": "88",
+            "Dark Pulse": "94",
+            "Substitute": "103",
+            "Crunch": "108",
+            "Giga Drain": "111",
+            "Hyper Voice": "117",
+            "Energy Ball": "119",
+            "Encore": "122",
+            "Helping Hand": "130",
+            "Grassy Terrain": "137",
+            "Nasty Plot": "140",
+            "Giga Impact": "152",
+            "Leaf Storm": "159",
+            "Hyper Beam": "163",
+            "Close Combat": "167",
+            "Solar Beam": "168",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Zarude": [
+            "Within dense forests, this Pok\u00e9mon lives in a pack with others of its kind. It\u2019s incredibly aggressive, and the other Pok\u00e9mon of the forest fear it.",
+            "Once the vines on Zarude\u2019s body tear off, they become nutrients in the soil. This helps the plants of the forest grow."
+        ],
+        "Dada Form": [
+            "This Zarude left its pack to raise a human child. The cloth Zarude would wrap the child with has a comforting scent that calmed the child\u2019s crying.",
+            "This Zarude\u2019s special strength stems from its love and care for an orphaned human child that the Pok\u00e9mon has raised since the child\u2019s infancy."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793565656289350/893.png",
+    "discord_sprite": "<:P893:1132152094854500433>"
+}

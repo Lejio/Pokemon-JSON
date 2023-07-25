@@ -1,0 +1,233 @@
+{
+    "alt-version(s)": [],
+    "name": "Machop",
+    "Machop": {
+        "pokedex_data": {
+            "National No.": "0066",
+            "Type": [
+                "Fighting"
+            ],
+            "Species": "Superpower Poke\u0301mon",
+            "Height": "0.8 m (2\u203207\u2032\u2032)",
+            "Weight": "19.5 kg (43.0 lbs)",
+            "Abilities": {
+                "Guts": {
+                    "href": "/ability/guts",
+                    "effect": "Boosts Attack if there is a status problem.",
+                    "hidden": false
+                },
+                "No Guard": {
+                    "href": "/ability/no-guard",
+                    "effect": "Ensures attacks by or against the Pok\u00e9mon land.",
+                    "hidden": false
+                },
+                "Steadfast": {
+                    "href": "/ability/steadfast",
+                    "effect": "Raises Speed each time the Pok\u00e9mon flinches.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack",
+            "Catch rate": "180",
+            "BaseFriendship": "50",
+            "Base Exp.": "61",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "75% male,25% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "70",
+                "Min": "250",
+                "Max": "344"
+            },
+            "Attack": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Defense": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Atk": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Sp. Def": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Speed": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Total": "305"
+        },
+        "defense_stats": {
+            "default": {
+                "Flying": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Dark": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Machop",
+                    "nationalNo": "#0066",
+                    "type": [
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Machoke",
+                    "nationalNo": "#0067",
+                    "type": [
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 28)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Machoke",
+                    "nationalNo": "#0067",
+                    "type": [
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Machamp",
+                    "nationalNo": "#0068",
+                    "type": [
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Trade)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Leer": "1",
+            "Low Kick": "1",
+            "Focus Energy": "4",
+            "Revenge": "8",
+            "Low Sweep": "12",
+            "Knock Off": "16",
+            "Scary Face": "20",
+            "Vital Throw": "24",
+            "Strength": "29",
+            "Dual Chop": "32",
+            "Bulk Up": "36",
+            "Seismic Toss": "40",
+            "Dynamic Punch": "44",
+            "Cross Chop": "48",
+            "Double-Edge": "52"
+        },
+        "egg": {
+            "Bullet Punch": null,
+            "Close Combat": null,
+            "Counter": null,
+            "Encore": null,
+            "Fire Punch": null,
+            "Heavy Slam": null,
+            "Ice Punch": null,
+            "Knock Off": null,
+            "Power Trick": null,
+            "Quick Guard": null,
+            "Submission": null,
+            "Thunder Punch": null,
+            "Tickle": null
+        },
+        "tm": {
+            "Focus Punch": "01",
+            "Bulk Up": "08",
+            "Work Up": "10",
+            "Sunny Day": "11",
+            "Light Screen": "16",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Earthquake": "26",
+            "Low Sweep": "27",
+            "Dig": "28",
+            "Brick Break": "31",
+            "Double Team": "32",
+            "Flamethrower": "35",
+            "Fire Blast": "38",
+            "Rock Tomb": "39",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Focus Blast": "52",
+            "Fling": "56",
+            "Endure": "58",
+            "Payback": "66",
+            "Rock Slide": "80",
+            "Sleep Talk": "82",
+            "Bulldoze": "83",
+            "Poison Jab": "84",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Strength": "96",
+            "Rock Smash": "98",
+            "Rock Climb": "100"
+        }
+    },
+    "entries": {
+        "Machop": [
+            "Loves to build its muscles. It trains in all styles of martial arts to become even stronger.",
+            "Very powerful in spite of its small size. Its mastery of many types of martial arts makes it very tough.",
+            "Always brimming with power, it passes time by lifting boulders. Doing so makes it even stronger.",
+            "It loves to work out and build its muscles. It is never satisfied, even if it trains hard all day long.",
+            "It trains by lifting rocks in the mountains. It can even pick up a GRAVELER with ease.",
+            "MACHOP\u2019s muscles are special - they never get sore no matter how much they are used in exercise. This pok\u00e9mon has sufficient power to hurl a hundred adult humans.",
+            "MACHOP exercises by hefting around a GRAVELER as if it were a barbell. There are some MACHOP that travel the world in a quest to master all kinds of martial arts.",
+            "Its whole body is composed of muscles. Even though it\u2019s the size of a human child, it can hurl 100 grown-ups.",
+            "Loves to build its muscles. It trains in all styles of martial arts to become even stronger.",
+            "It continually undertakes strenuous training to master all forms of martial arts. Its strength lets it easily hoist a sumo wrestler onto its shoulders.",
+            "It hefts a GRAVELER repeatedly to strengthen its entire body. It uses every type of martial arts.",
+            "Its muscles never cramp however much it trains. It lives in the mountains away from humans.",
+            "Though small in stature, it is powerful enough to easily heft and throw a number of GEODUDE at once.",
+            "Always brimming with power, it passes time by lifting boulders. Doing so makes it even stronger.",
+            "It loves to work out and build its muscles. It is never satisfied, even if it trains hard all day long.",
+            "Though small in stature, it is powerful enough to easily heft and throw a number of Geodude at once.",
+            "It hefts a Graveler repeatedly to strengthen its entire body. It uses every type of martial arts.",
+            "Its whole body is composed of muscles. Even though it\u2019s the size of a human child, it can hurl 100 grown-ups.",
+            "Machop\u2019s muscles are special\u2014they never get sore no matter how much they are used in exercise. This Pok\u00e9mon has sufficient power to hurl a hundred adult humans.",
+            "Machop exercises by hefting around a Graveler as if it were a barbell. There are some Machop that travel the world in a quest to master all kinds of martial arts.",
+            "It loves working out. As it gazes at its muscles, which continue to swell day by day, it becomes more and more dedicated to its training.",
+            "With its superhuman strength, it\u2019s able to throw a hundred people all at the same time. Its strength comes from lifting Graveler every day.",
+            "Once this Pok\u00e9mon has gained enough confidence and muscle from training with its friends, it challenges Makuhita to a battle.",
+            "It likes food that\u2019s highly nutritious because its instincts drive it to build muscle efficiently.",
+            "Very powerful in spite of its small size. Its mastery of many types of martial arts makes it very tough.",
+            "Its whole body is composed of muscles. Even though it\u2019s the size of a human child, it can hurl 100 grown-ups.",
+            "Always brimming with power, it passes time by lifting boulders. Doing so makes it even stronger.",
+            "It hefts a Graveler repeatedly to strengthen its entire body. It uses every type of martial arts.",
+            "Its muscles never cramp however much it trains. It lives in the mountains away from humans.",
+            "Though as small as a child, it has strength enough to easily throw a well-built adult. Striving to become ever stronger, Machop trains by carrying a Graveler on its shoulders."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787106847567942/66.png",
+    "discord_sprite": "<:P66:1132115623900614676>"
+}

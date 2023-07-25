@@ -1,0 +1,198 @@
+{
+    "alt-version(s)": [],
+    "name": "Froakie",
+    "Froakie": {
+        "pokedex_data": {
+            "National No.": "0656",
+            "Type": [
+                "Water"
+            ],
+            "Species": "Bubble Frog Poke\u0301mon",
+            "Height": "0.3 m (1\u203200\u2032\u2032)",
+            "Weight": "7.0 kg (15.4 lbs)",
+            "Abilities": {
+                "Torrent": {
+                    "href": "/ability/torrent",
+                    "effect": "Powers up Water-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Protean": {
+                    "href": "/ability/protean",
+                    "effect": "Changes the Pok\u00e9mon's type to its last used move.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Speed",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "63",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "41",
+                "Min": "192",
+                "Max": "286"
+            },
+            "Attack": {
+                "Base": "56",
+                "Min": "105",
+                "Max": "232"
+            },
+            "Defense": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Atk": {
+                "Base": "62",
+                "Min": "116",
+                "Max": "245"
+            },
+            "Sp. Def": {
+                "Base": "44",
+                "Min": "83",
+                "Max": "205"
+            },
+            "Speed": {
+                "Base": "71",
+                "Min": "132",
+                "Max": "265"
+            },
+            "Total": "314"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Froakie",
+                    "nationalNo": "#0656",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Frogadier",
+                    "nationalNo": "#0657",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 16)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Frogadier",
+                    "nationalNo": "#0657",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Greninja",
+                    "nationalNo": "#0658",
+                    "type": [
+                        "Water",
+                        "Dark"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 36)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Growl": "1",
+            "Pound": "1",
+            "Water Gun": "5",
+            "Quick Attack": "8",
+            "Lick": "10",
+            "Water Pulse": "14",
+            "Smokescreen": "18",
+            "Round": "21",
+            "Fling": "25",
+            "Smack Down": "29",
+            "Substitute": "35",
+            "Bounce": "39",
+            "Double Team": "43",
+            "Hydro Pump": "48"
+        },
+        "egg": {
+            "Counter": null,
+            "Retaliate": null,
+            "Spikes": null,
+            "Switcheroo": null,
+            "Toxic Spikes": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Mud-Slap": "05",
+            "Protect": "07",
+            "Water Pulse": "11",
+            "Acrobatics": "14",
+            "Thief": "18",
+            "Trailblaze": "20",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Swift": "32",
+            "Icy Wind": "34",
+            "Mud Shot": "35",
+            "Rock Tomb": "36",
+            "Fling": "43",
+            "Endure": "47",
+            "Rain Dance": "50",
+            "Snowscape": "52",
+            "Dig": "55",
+            "False Swipe": "57",
+            "U-turn": "60",
+            "Sleep Talk": "70",
+            "Waterfall": "77",
+            "Grass Knot": "81",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Taunt": "87",
+            "Spikes": "90",
+            "Toxic Spikes": "91",
+            "Substitute": "103",
+            "Liquidation": "110",
+            "Surf": "123",
+            "Helping Hand": "130",
+            "Ice Beam": "135",
+            "Hydro Pump": "142",
+            "Blizzard": "143",
+            "Water Pledge": "145",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Froakie": [
+            "It secretes flexible bubbles from its chest and back. The bubbles reduce the damage it would otherwise take when attacked.",
+            "It protects its skin by covering its body in delicate bubbles. Beneath its happy-go-lucky air, it keeps a watchful eye on its surroundings."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791717100699788/656.png",
+    "discord_sprite": "<:P656:1132141610327621693>"
+}

@@ -1,0 +1,212 @@
+{
+    "alt-version(s)": [],
+    "name": "Quilladin",
+    "Quilladin": {
+        "pokedex_data": {
+            "National No.": "0651",
+            "Type": [
+                "Grass"
+            ],
+            "Species": "Spiny Armor Poke\u0301mon",
+            "Height": "0.7 m (2\u203204\u2032\u2032)",
+            "Weight": "29.0 kg (63.9 lbs)",
+            "Abilities": {
+                "Overgrow": {
+                    "href": "/ability/overgrow",
+                    "effect": "Powers up Grass-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Bulletproof": {
+                    "href": "/ability/bulletproof",
+                    "effect": "Protects the Pok\u00e9mon from ball and bomb moves.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Defense",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "142",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "61",
+                "Min": "232",
+                "Max": "326"
+            },
+            "Attack": {
+                "Base": "78",
+                "Min": "144",
+                "Max": "280"
+            },
+            "Defense": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Sp. Atk": {
+                "Base": "56",
+                "Min": "105",
+                "Max": "232"
+            },
+            "Sp. Def": {
+                "Base": "58",
+                "Min": "108",
+                "Max": "236"
+            },
+            "Speed": {
+                "Base": "57",
+                "Min": "107",
+                "Max": "234"
+            },
+            "Total": "405"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Poison": "super-effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Bug": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Chespin",
+                    "nationalNo": "#0650",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Quilladin",
+                    "nationalNo": "#0651",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 16)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Quilladin",
+                    "nationalNo": "#0651",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Chesnaught",
+                    "nationalNo": "#0652",
+                    "type": [
+                        "Grass",
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 36)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Growl": "1",
+            "Vine Whip": "1",
+            "Rollout": "8",
+            "Bite": "11",
+            "Leech Seed": "15",
+            "Seed Bomb": "20",
+            "Pin Missile": "24",
+            "Take Down": "29",
+            "Mud Shot": "34",
+            "Bulk Up": "38",
+            "Body Slam": "43",
+            "Pain Split": "47",
+            "Wood Hammer": "53"
+        },
+        "egg": {
+            "Belly Drum": null,
+            "Curse": null,
+            "Quick Guard": null,
+            "Spikes": null,
+            "Super Fang": null,
+            "Synthesis": null,
+            "Wide Guard": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Protect": "07",
+            "Low Kick": "12",
+            "Trailblaze": "20",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Bulldoze": "28",
+            "Metal Claw": "31",
+            "Swift": "32",
+            "Magical Leaf": "33",
+            "Mud Shot": "35",
+            "Rock Tomb": "36",
+            "Low Sweep": "39",
+            "Fling": "43",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Dig": "55",
+            "Bullet Seed": "56",
+            "Brick Break": "58",
+            "Zen Headbutt": "59",
+            "Shadow Claw": "61",
+            "Bulk Up": "64",
+            "Body Slam": "66",
+            "Thunder Punch": "68",
+            "Sleep Talk": "70",
+            "Seed Bomb": "71",
+            "Drain Punch": "73",
+            "Reflect": "74",
+            "Grass Knot": "81",
+            "Poison Jab": "83",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Taunt": "87",
+            "Spikes": "90",
+            "Iron Head": "99",
+            "Substitute": "103",
+            "Iron Defense": "104",
+            "Giga Drain": "111",
+            "Energy Ball": "119",
+            "Helping Hand": "130",
+            "Grassy Terrain": "137",
+            "Grass Pledge": "146",
+            "Stone Edge": "150",
+            "Leaf Storm": "159",
+            "Solar Beam": "168",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Quilladin": [
+            "It relies on its sturdy shell to deflect predators\u2019 attacks. It counterattacks with its sharp quills.",
+            "They strengthen their lower bodies by running into one another. They are very kind and won\u2019t start fights."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791678311780372/651.png",
+    "discord_sprite": "<:P651:1132141386053996664>"
+}

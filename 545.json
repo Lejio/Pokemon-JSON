@@ -1,0 +1,220 @@
+{
+    "alt-version(s)": [],
+    "name": "Scolipede",
+    "Scolipede": {
+        "pokedex_data": {
+            "National No.": "0545",
+            "Type": [
+                "Bug",
+                "Poison"
+            ],
+            "Species": "Megapede Poke\u0301mon",
+            "Height": "2.5 m (8\u203202\u2032\u2032)",
+            "Weight": "200.5 kg (442.0 lbs)",
+            "Abilities": {
+                "Poison Point": {
+                    "href": "/ability/poison-point",
+                    "effect": "Contact with the Pok\u00e9mon may poison the attacker.",
+                    "hidden": false
+                },
+                "Swarm": {
+                    "href": "/ability/swarm",
+                    "effect": "Powers up Bug-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Speed Boost": {
+                    "href": "/ability/speed-boost",
+                    "effect": "Its Speed stat is gradually boosted.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Speed",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "218",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "60",
+                "Min": "230",
+                "Max": "324"
+            },
+            "Attack": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Defense": {
+                "Base": "89",
+                "Min": "164",
+                "Max": "304"
+            },
+            "Sp. Atk": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Sp. Def": {
+                "Base": "69",
+                "Min": "128",
+                "Max": "260"
+            },
+            "Speed": {
+                "Base": "112",
+                "Min": "206",
+                "Max": "355"
+            },
+            "Total": "485"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Grass": "not very effective",
+                "Fighting": "not very effective",
+                "Poison": "not very effective",
+                "Flying": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Venipede",
+                    "nationalNo": "#0543",
+                    "type": [
+                        "Bug",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Whirlipede",
+                    "nationalNo": "#0544",
+                    "type": [
+                        "Bug",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 22)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Whirlipede",
+                    "nationalNo": "#0544",
+                    "type": [
+                        "Bug",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Scolipede",
+                    "nationalNo": "#0545",
+                    "type": [
+                        "Bug",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 30)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Baton Pass": "1",
+            "Defense Curl": "1",
+            "Iron Defense": "1",
+            "Poison Sting": "1",
+            "Protect": "1",
+            "Rollout": "1",
+            "Poison Tail": "12",
+            "Screech": "16",
+            "Bug Bite": "20",
+            "Venoshock": "26",
+            "Take Down": "34",
+            "Agility": "42",
+            "Toxic": "50",
+            "Venom Drench": "58",
+            "Double-Edge": "66",
+            "Megahorn": "74"
+        },
+        "egg": {
+            "Bite": null,
+            "Fury Cutter": null
+        },
+        "null": {
+            "Swords Dance": "00",
+            "Earthquake": "10",
+            "Agility": "12",
+            "Substitute": "20",
+            "Sludge Bomb": "22",
+            "Spikes": "23",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Megahorn": "28",
+            "Baton Pass": "29",
+            "Iron Tail": "31",
+            "Superpower": "39",
+            "Iron Defense": "46",
+            "Gyro Ball": "52",
+            "Toxic Spikes": "54",
+            "Poison Jab": "57",
+            "X-Scissor": "60",
+            "Venom Drench": "91",
+            "Throat Chop": "95"
+        },
+        "tm": {
+            "Pin Missile": "07",
+            "Hyper Beam": "08",
+            "Giga Impact": "09",
+            "Solar Beam": "11",
+            "Dig": "15",
+            "Screech": "16",
+            "Rest": "21",
+            "Rock Slide": "22",
+            "Snore": "24",
+            "Protect": "25",
+            "Attract": "31",
+            "Sunny Day": "34",
+            "Facade": "39",
+            "Rock Tomb": "48",
+            "Payback": "57",
+            "Assurance": "58",
+            "Cross Poison": "73",
+            "Venoshock": "74",
+            "Round": "76",
+            "Hex": "77",
+            "Bulldoze": "81",
+            "Smart Strike": "96",
+            "Stomping Tantrum": "98"
+        }
+    },
+    "entries": {
+        "Scolipede": [
+            "With quick movements, it chases down its foes, attacking relentlessly with its horns until it prevails.",
+            "Highly aggressive, it uses the claws near its neck to dig into its opponents and poison them.",
+            "It clasps its prey with the claws on its neck until it stops moving. Then it finishes it off with deadly poison.",
+            "It clasps its prey with the claws on its neck until it stops moving. Then it finishes it off with deadly poison.",
+            "With quick movements, it chases down its foes, attacking relentlessly with its horns until it prevails.",
+            "Scolipede latches on to its prey with the claws on its neck before slamming them into the ground and jabbing them with its claws\u2019 toxic spikes.",
+            "Scolipede engage in fierce territorial battles with Centiskorch. At the end of one of these battles, the victor makes a meal of the loser."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790849076899891/545.png",
+    "discord_sprite": "<:P545:1132136717294501919>"
+}

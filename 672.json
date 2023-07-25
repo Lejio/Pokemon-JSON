@@ -1,0 +1,189 @@
+{
+    "alt-version(s)": [],
+    "name": "Skiddo",
+    "Skiddo": {
+        "pokedex_data": {
+            "National No.": "0672",
+            "Type": [
+                "Grass"
+            ],
+            "Species": "Mount Poke\u0301mon",
+            "Height": "0.9 m (2\u203211\u2032\u2032)",
+            "Weight": "31.0 kg (68.3 lbs)",
+            "Abilities": {
+                "Sap Sipper": {
+                    "href": "/ability/sap-sipper",
+                    "effect": "Boosts Attack when hit by a Grass-type move.",
+                    "hidden": false
+                },
+                "Grass Pelt": {
+                    "href": "/ability/grass-pelt",
+                    "effect": "Boosts the Defense stat in Grassy Terrain.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 HP",
+            "Catch rate": "200",
+            "BaseFriendship": "50",
+            "Base Exp.": "70",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "66",
+                "Min": "242",
+                "Max": "336"
+            },
+            "Attack": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Defense": {
+                "Base": "48",
+                "Min": "90",
+                "Max": "214"
+            },
+            "Sp. Atk": {
+                "Base": "62",
+                "Min": "116",
+                "Max": "245"
+            },
+            "Sp. Def": {
+                "Base": "57",
+                "Min": "107",
+                "Max": "234"
+            },
+            "Speed": {
+                "Base": "52",
+                "Min": "98",
+                "Max": "223"
+            },
+            "Total": "350"
+        },
+        "defense_stats": {
+            "Sap Sipper ability": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "no effect",
+                "Ice": "super-effective",
+                "Poison": "super-effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Bug": "super-effective"
+            },
+            "Grass Pelt ability": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Poison": "super-effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Bug": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Skiddo",
+                    "nationalNo": "#0672",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Gogoat",
+                    "nationalNo": "#0673",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 32)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Growth": "1",
+            "Tackle": "1",
+            "Vine Whip": "7",
+            "Tail Whip": "9",
+            "Leech Seed": "12",
+            "Razor Leaf": "13",
+            "Worry Seed": "16",
+            "Synthesis": "20",
+            "Take Down": "22",
+            "Bulldoze": "26",
+            "Seed Bomb": "30",
+            "Bulk Up": "34",
+            "Double-Edge": "38",
+            "Horn Leech": "42",
+            "Leaf Blade": "45"
+        },
+        "egg": {
+            "Defense Curl": null,
+            "Grassy Terrain": null,
+            "Milk Drink": null,
+            "Rollout": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Mud-Slap": "05",
+            "Protect": "07",
+            "Trailblaze": "20",
+            "Facade": "25",
+            "Bulldoze": "28",
+            "Magical Leaf": "33",
+            "Mud Shot": "35",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Dig": "55",
+            "Bullet Seed": "56",
+            "Brick Break": "58",
+            "Zen Headbutt": "59",
+            "Bulk Up": "64",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Seed Bomb": "71",
+            "Grass Knot": "81",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Substitute": "103",
+            "Giga Drain": "111",
+            "Energy Ball": "119",
+            "Surf": "123",
+            "Play Rough": "127",
+            "Helping Hand": "130",
+            "Grassy Terrain": "137",
+            "Wild Charge": "147",
+            "Leaf Storm": "159",
+            "Solar Beam": "168",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Skiddo": [
+            "Thought to be one of the first Pok\u00e9mon to live in harmony with humans, it has a placid disposition.",
+            "If it has sunshine and water, it doesn\u2019t need to eat, because it can generate energy from the leaves on its back.",
+            "Until recently, people living in the mountains would ride on the backs of these Pok\u00e9mon to traverse the mountain paths.",
+            "As long as it has sunlight and water, Skiddo can make energy with the leaves on its body, allowing it to live on rocky mountains barren of food."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791841197555854/672.png",
+    "discord_sprite": "<:P672:1132142313133576283>"
+}

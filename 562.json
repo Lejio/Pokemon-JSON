@@ -1,0 +1,310 @@
+{
+    "alt-version(s)": [
+        "Galarian Yamask"
+    ],
+    "name": "Yamask",
+    "Yamask": {
+        "pokedex_data": {
+            "National No.": "0562",
+            "Type": [
+                "Ghost"
+            ],
+            "Species": "Spirit Poke\u0301mon",
+            "Height": "0.5 m (1\u203208\u2032\u2032)",
+            "Weight": "1.5 kg (3.3 lbs)",
+            "Abilities": {
+                "Mummy": {
+                    "href": "/ability/mummy",
+                    "effect": "Contact with this Pok\u00e9mon spreads this Ability.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Defense",
+            "Catch rate": "190",
+            "BaseFriendship": "50",
+            "Base Exp.": "61",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "38",
+                "Min": "186",
+                "Max": "280"
+            },
+            "Attack": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Defense": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Sp. Atk": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Sp. Def": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Speed": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Total": "303"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "no effect",
+                "Fighting": "no effect",
+                "Poison": "not very effective",
+                "Bug": "not very effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective"
+            }
+        }
+    },
+    "Galarian Yamask": {
+        "pokedex_data": {
+            "National No.": "0562",
+            "Type": [
+                "Ground",
+                "Ghost"
+            ],
+            "Species": "Spirit Poke\u0301mon",
+            "Height": "0.5 m (1\u203208\u2032\u2032)",
+            "Weight": "1.5 kg (3.3 lbs)",
+            "Abilities": {
+                "Wandering Spirit": {
+                    "href": "/ability/wandering-spirit",
+                    "effect": "Swaps abilities with opponents on contact.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Defense",
+            "Catch rate": "190",
+            "BaseFriendship": "50",
+            "Base Exp.": "61",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "38",
+                "Min": "186",
+                "Max": "280"
+            },
+            "Attack": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Defense": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Sp. Atk": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Sp. Def": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Speed": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Total": "303"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "no effect",
+                "Water": "super-effective",
+                "Electric": "no effect",
+                "Grass": "super-effective",
+                "Ice": "super-effective",
+                "Fighting": "no effect",
+                "Poison": "not very effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Yamask",
+                    "nationalNo": "#0562",
+                    "type": [
+                        "Ghost"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Cofagrigus",
+                    "nationalNo": "#0563",
+                    "type": [
+                        "Ghost"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 34)",
+                "shed": null
+            }
+        ],
+        [
+            {
+                "from": {
+                    "name": "Yamask",
+                    "nationalNo": "#0562",
+                    "type": [
+                        "Ground",
+                        "Ghost"
+                    ],
+                    "nickname": "Galarian Yamask"
+                },
+                "to": {
+                    "name": "Runerigus",
+                    "nationalNo": "#0867",
+                    "type": [
+                        "Ground",
+                        "Ghost"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(near Dusty Bowl)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Memento": "\u2014"
+        },
+        "egg": {
+            "Memento": null
+        },
+        "null": {
+            "Poltergeist": "110"
+        },
+        "Yamask": {
+            "tm": {
+                "Safeguard": "19",
+                "Rest": "21",
+                "Thief": "23",
+                "Snore": "24",
+                "Protect": "25",
+                "Attract": "31",
+                "Rain Dance": "33",
+                "Will-O-Wisp": "38",
+                "Facade": "39",
+                "Imprison": "44",
+                "Fake Tears": "47",
+                "Payback": "57",
+                "Trick Room": "70",
+                "Wonder Room": "71",
+                "Round": "76",
+                "Hex": "77"
+            },
+            "null": {
+                "Psychic": "11",
+                "Substitute": "20",
+                "Endure": "26",
+                "Sleep Talk": "27",
+                "Shadow Ball": "33",
+                "Trick": "38",
+                "Skill Swap": "40",
+                "Iron Defense": "46",
+                "Calm Mind": "49",
+                "Toxic Spikes": "54",
+                "Dark Pulse": "58",
+                "Energy Ball": "65",
+                "Nasty Plot": "68",
+                "Zen Headbutt": "69",
+                "Ally Switch": "83"
+            }
+        },
+        "Galarian Yamask": {
+            "tm": {
+                "Safeguard": "19",
+                "Rest": "21",
+                "Rock Slide": "22",
+                "Thief": "23",
+                "Snore": "24",
+                "Protect": "25",
+                "Attract": "31",
+                "Sandstorm": "32",
+                "Rain Dance": "33",
+                "Will-O-Wisp": "38",
+                "Facade": "39",
+                "Imprison": "44",
+                "Fake Tears": "47",
+                "Rock Tomb": "48",
+                "Payback": "57",
+                "Trick Room": "70",
+                "Wonder Room": "71",
+                "Round": "76",
+                "Hex": "77",
+                "Brutal Swing": "97"
+            },
+            "null": {
+                "Earthquake": "10",
+                "Psychic": "11",
+                "Substitute": "20",
+                "Endure": "26",
+                "Sleep Talk": "27",
+                "Shadow Ball": "33",
+                "Trick": "38",
+                "Skill Swap": "40",
+                "Iron Defense": "46",
+                "Calm Mind": "49",
+                "Toxic Spikes": "54",
+                "Dark Pulse": "58",
+                "Energy Ball": "65",
+                "Earth Power": "67",
+                "Nasty Plot": "68",
+                "Zen Headbutt": "69",
+                "Ally Switch": "83"
+            }
+        }
+    },
+    "entries": {
+        "Yamask": [
+            "Each of them carries a mask that used to be its face when it was human. Sometimes they look at it and cry.",
+            "These Pok\u00e9mon arose from the spirits of people interred in graves in past ages. Each retains memories of its former life.",
+            "These Pok\u00e9mon arose from the spirits of people interred in graves. Each retains memories of its former life.",
+            "These Pok\u00e9mon arose from the spirits of people interred in graves. Each retains memories of its former life.",
+            "Each of them carries a mask that used to be its face when it was human. Sometimes they look at it and cry.",
+            "It wanders through ruins by night, carrying a mask that\u2019s said to have been the face it had when it was still human.",
+            "The spirit of a person from a bygone age became this Pok\u00e9mon. It rambles through ruins, searching for someone who knows its face."
+        ],
+        "Galarian Yamask": [
+            "A clay slab with cursed engravings took possession of a Yamask. The slab is said to be absorbing the Yamask\u2019s dark power.",
+            "It\u2019s said that this Pok\u00e9mon was formed when an ancient clay tablet was drawn to a vengeful spirit."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790981436538922/562.png",
+    "discord_sprite": "<:P562:1132137466539819119>"
+}

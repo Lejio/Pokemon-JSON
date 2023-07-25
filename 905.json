@@ -1,0 +1,235 @@
+{
+    "alt-version(s)": [
+        "Incarnate Forme",
+        "Therian Forme"
+    ],
+    "Incarnate Forme": {
+        "pokedex_data": {
+            "National No.": "0905",
+            "Type": [
+                "Fairy",
+                "Flying"
+            ],
+            "Species": "Love-Hate Poke\u0301mon",
+            "Height": "1.6 m (5\u203203\u2032\u2032)",
+            "Weight": "48.0 kg (105.8 lbs)",
+            "Abilities": {
+                "Cute Charm": {
+                    "href": "/ability/cute-charm",
+                    "effect": "Contact with the Pok\u00e9mon may cause infatuation.",
+                    "hidden": false
+                },
+                "Contrary": {
+                    "href": "/ability/contrary",
+                    "effect": "Makes stat changes have an opposite effect.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Sp. Atk",
+            "Catch rate": "3",
+            "BaseFriendship": "50",
+            "Base Exp.": "116",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "0% male,100% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "74",
+                "Min": "258",
+                "Max": "352"
+            },
+            "Attack": {
+                "Base": "115",
+                "Min": "211",
+                "Max": "361"
+            },
+            "Defense": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Atk": {
+                "Base": "135",
+                "Min": "247",
+                "Max": "405"
+            },
+            "Sp. Def": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Speed": {
+                "Base": "106",
+                "Min": "195",
+                "Max": "342"
+            },
+            "Total": "580"
+        },
+        "defense_stats": {
+            "default": {
+                "Electric": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Poison": "super-effective",
+                "Ground": "no effect",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Dragon": "no effect",
+                "Dark": "not very effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "Therian Forme": {
+        "pokedex_data": {
+            "National No.": "0905",
+            "Type": [
+                "Fairy",
+                "Flying"
+            ],
+            "Species": "Love-Hate Poke\u0301mon",
+            "Height": "1.6 m (5\u203203\u2032\u2032)",
+            "Weight": "48.0 kg (105.8 lbs)",
+            "Abilities": {
+                "Overcoat": {
+                    "href": "/ability/overcoat",
+                    "effect": "Protects the Pok\u00e9mon from weather damage.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Sp. Atk",
+            "Catch rate": "3",
+            "BaseFriendship": "50",
+            "Base Exp.": "116",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "0% male,100% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "74",
+                "Min": "258",
+                "Max": "352"
+            },
+            "Attack": {
+                "Base": "115",
+                "Min": "211",
+                "Max": "361"
+            },
+            "Defense": {
+                "Base": "110",
+                "Min": "202",
+                "Max": "350"
+            },
+            "Sp. Atk": {
+                "Base": "135",
+                "Min": "247",
+                "Max": "405"
+            },
+            "Sp. Def": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Speed": {
+                "Base": "46",
+                "Min": "87",
+                "Max": "210"
+            },
+            "Total": "580"
+        },
+        "defense_stats": {
+            "default": {
+                "Electric": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Poison": "super-effective",
+                "Ground": "no effect",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Dragon": "no effect",
+                "Dark": "not very effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Astonish": "1",
+            "Fairy Wind": "1",
+            "Torment": "5",
+            "Flatter": "10",
+            "Twister": "15",
+            "Draining Kiss": "20",
+            "Iron Defense": "25",
+            "Imprison": "30",
+            "Mystical Fire": "35",
+            "Dazzling Gleam": "40",
+            "Extrasensory": "45",
+            "Uproar": "50",
+            "Superpower": "55",
+            "Healing Wish": "60",
+            "Moonblast": "65",
+            "Outrage": "70",
+            "Springtide Storm": "75"
+        },
+        "egg": null,
+        "tm": {
+            "Take Down": "01",
+            "Agility": "04",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Disarming Voice": "19",
+            "Facade": "25",
+            "Draining Kiss": "37",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Zen Headbutt": "59",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Dazzling Gleam": "79",
+            "Grass Knot": "81",
+            "Rest": "85",
+            "Taunt": "87",
+            "Imprison": "92",
+            "Fly": "97",
+            "Iron Head": "99",
+            "Substitute": "103",
+            "Iron Defense": "104",
+            "Tailwind": "113",
+            "Psychic": "120",
+            "Play Rough": "127",
+            "Calm Mind": "129",
+            "Earth Power": "133",
+            "Grassy Terrain": "137",
+            "Misty Terrain": "139",
+            "Sludge Bomb": "148",
+            "Giga Impact": "152",
+            "Outrage": "156",
+            "Focus Blast": "158",
+            "Hyper Beam": "163",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Incarnate Forme": [
+            "When it flies to this land from across the sea, the bitter winter comes to an end. According to legend, this Pok\u00e9mon\u2019s love gives rise to the budding of fresh life across Hisui."
+        ],
+        "Therian Forme": [
+            "A different guise from its feminine humanoid form. From the clouds, it descends upon those who treat any form of life with disrespect and metes out wrathful, ruthless punishment."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793657322799145/905.png",
+    "discord_sprite": "<:P905:1132152621805875321>"
+}

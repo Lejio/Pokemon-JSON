@@ -1,0 +1,221 @@
+{
+    "alt-version(s)": [],
+    "name": "Roserade",
+    "Roserade": {
+        "pokedex_data": {
+            "National No.": "0407",
+            "Type": [
+                "Grass",
+                "Poison"
+            ],
+            "Species": "Bouquet Poke\u0301mon",
+            "Height": "0.9 m (2\u203211\u2032\u2032)",
+            "Weight": "14.5 kg (32.0 lbs)",
+            "Abilities": {
+                "Natural Cure": {
+                    "href": "/ability/natural-cure",
+                    "effect": "All status problems heal when it switches out.",
+                    "hidden": false
+                },
+                "Poison Point": {
+                    "href": "/ability/poison-point",
+                    "effect": "Contact with the Pok\u00e9mon may poison the attacker.",
+                    "hidden": false
+                },
+                "Technician": {
+                    "href": "/ability/technician",
+                    "effect": "Powers up the Pok\u00e9mon's weaker moves.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Sp. Atk",
+            "Catch rate": "75",
+            "BaseFriendship": "50",
+            "Base Exp.": "232",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "60",
+                "Min": "230",
+                "Max": "324"
+            },
+            "Attack": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Defense": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Atk": {
+                "Base": "125",
+                "Min": "229",
+                "Max": "383"
+            },
+            "Sp. Def": {
+                "Base": "105",
+                "Min": "193",
+                "Max": "339"
+            },
+            "Speed": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Total": "515"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Flying": "super-effective",
+                "Psychic": "super-effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Budew",
+                    "nationalNo": "#0406",
+                    "type": [
+                        "Grass",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Roselia",
+                    "nationalNo": "#0315",
+                    "type": [
+                        "Grass",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(high Friendship, Daytime)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Roselia",
+                    "nationalNo": "#0315",
+                    "type": [
+                        "Grass",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Roserade",
+                    "nationalNo": "#0407",
+                    "type": [
+                        "Grass",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Shiny Stone)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Absorb": "1",
+            "Aromatherapy": "1",
+            "Giga Drain": "1",
+            "Grassy Terrain": "1",
+            "Growth": "1",
+            "Ingrain": "1",
+            "Leech Seed": "1",
+            "Magical Leaf": "1",
+            "Mega Drain": "1",
+            "Petal Blizzard": "1",
+            "Petal Dance": "1",
+            "Poison Sting": "1",
+            "Stun Spore": "1",
+            "Sweet Scent": "1",
+            "Synthesis": "1",
+            "Toxic": "1",
+            "Toxic Spikes": "1",
+            "Venom Drench": "1",
+            "Worry Seed": "1"
+        },
+        "egg": {
+            "Cotton Spore": null,
+            "Extrasensory": null,
+            "Leaf Storm": null,
+            "Life Dew": null,
+            "Mind Reader": null,
+            "Pin Missile": null,
+            "Razor Leaf": null,
+            "Seed Bomb": null,
+            "Sleep Powder": null,
+            "Spikes": null,
+            "Synthesis": null
+        },
+        "tm": {
+            "Toxic": "06",
+            "Bullet Seed": "09",
+            "Sunny Day": "11",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Giga Drain": "19",
+            "Dazzling Gleam": "21",
+            "Solar Beam": "22",
+            "Shadow Ball": "30",
+            "Double Team": "32",
+            "Sludge Bomb": "36",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Energy Ball": "53",
+            "Endure": "58",
+            "Giga Impact": "68",
+            "Flash": "70",
+            "Swords Dance": "75",
+            "Psych Up": "77",
+            "Sleep Talk": "82",
+            "Poison Jab": "84",
+            "Grass Knot": "86",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Cut": "93"
+        }
+    },
+    "entries": {
+        "Roserade": [
+            "It attracts prey with a sweet aroma, then downs it with thorny whips hidden in its arms.",
+            "With the movements of a dancer, it strikes with whips that are densely lined with poison thorns.",
+            "Each of its hands contains different toxins, but both hands can jab with near-fatal power.",
+            "Its sweet aroma attracts prey. Then it spews poison. The more toxic it is, the sweeter its aroma.",
+            "Each of its hands contains different toxins, but both hands can jab with near-fatal power.",
+            "Luring prey with a sweet scent, it uses poison whips on its arms to poison, bind, and finish off the prey.",
+            "Luring prey with a sweet scent, it uses poison whips on its arms to poison, bind, and finish off the prey.",
+            "With the movements of a dancer, it strikes with whips that are densely lined with poison thorns.",
+            "After captivating opponents with its sweet scent, it lashes them with its thorny whips.",
+            "The poison in its right hand is quick acting. The poison in its left hand is slow acting. Both are life threatening.",
+            "It attracts prey with a sweet aroma, then downs it with thorny whips hidden in its arms.",
+            "With the movements of a dancer, it strikes with whips that are densely lined with poison thorns.",
+            "Hidden within the bouquet on each hand are thorned whips loaded with virulent poison. Roserade moves gracefully as it corners its prey and mercilessly lashes them with its whips."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789776710811698/407.png",
+    "discord_sprite": "<:P407:1132130642721787905>"
+}

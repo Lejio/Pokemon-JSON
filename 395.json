@@ -1,0 +1,235 @@
+{
+    "alt-version(s)": [],
+    "name": "Empoleon",
+    "Empoleon": {
+        "pokedex_data": {
+            "National No.": "0395",
+            "Type": [
+                "Water",
+                "Steel"
+            ],
+            "Species": "Emperor Poke\u0301mon",
+            "Height": "1.7 m (5\u203207\u2032\u2032)",
+            "Weight": "84.5 kg (186.3 lbs)",
+            "Abilities": {
+                "Torrent": {
+                    "href": "/ability/torrent",
+                    "effect": "Powers up Water-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Defiant": {
+                    "href": "/ability/defiant",
+                    "effect": "Sharply raises Attack when the Pok\u00e9mon's stats are lowered.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Sp. Atk",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "239",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "84",
+                "Min": "278",
+                "Max": "372"
+            },
+            "Attack": {
+                "Base": "86",
+                "Min": "159",
+                "Max": "298"
+            },
+            "Defense": {
+                "Base": "88",
+                "Min": "162",
+                "Max": "302"
+            },
+            "Sp. Atk": {
+                "Base": "111",
+                "Min": "204",
+                "Max": "353"
+            },
+            "Sp. Def": {
+                "Base": "101",
+                "Min": "186",
+                "Max": "331"
+            },
+            "Speed": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Total": "530"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Poison": "no effect",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Dragon": "not very effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Piplup",
+                    "nationalNo": "#0393",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Prinplup",
+                    "nationalNo": "#0394",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 16)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Prinplup",
+                    "nationalNo": "#0394",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Empoleon",
+                    "nationalNo": "#0395",
+                    "type": [
+                        "Water",
+                        "Steel"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 36)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Aqua Jet": "1",
+            "Charm": "1",
+            "Growl": "4",
+            "Metal Claw": "1",
+            "Pound": "1",
+            "Tackle": "1",
+            "Water Gun": "8",
+            "Swords Dance": "11",
+            "Peck": "15",
+            "Bubble Beam": "19",
+            "Swagger": "24",
+            "Fury Attack": "28",
+            "Brine": "33",
+            "Whirlpool": "39",
+            "Mist": "46",
+            "Drill Peck": "52",
+            "Hydro Pump": "59"
+        },
+        "evolution": {
+            "Aqua Jet": "40"
+        },
+        "egg": {
+            "Agility": null,
+            "Aqua Ring": null,
+            "Double Hit": null,
+            "Feather Dance": null,
+            "Flail": null,
+            "Hydro Pump": null,
+            "Icy Wind": null,
+            "Mud-Slap": null,
+            "Snore": null,
+            "Supersonic": null,
+            "Yawn": null
+        },
+        "null": {
+            "Hydro Cannon": "150"
+        },
+        "tm": {
+            "Water Pulse": "03",
+            "Roar": "05",
+            "Hail": "07",
+            "Work Up": "10",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Earthquake": "26",
+            "Dig": "28",
+            "Brick Break": "31",
+            "Double Team": "32",
+            "Rock Tomb": "39",
+            "Aerial Ace": "40",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Steel Wing": "47",
+            "Scald": "49",
+            "Brine": "55",
+            "Fling": "56",
+            "Endure": "58",
+            "Shadow Claw": "65",
+            "Giga Impact": "68",
+            "Avalanche": "72",
+            "Swords Dance": "75",
+            "Stealth Rock": "76",
+            "Rock Slide": "80",
+            "Sleep Talk": "82",
+            "Bulldoze": "83",
+            "Grass Knot": "86",
+            "Swagger": "87",
+            "Pluck": "88",
+            "Substitute": "90",
+            "Flash Cannon": "91",
+            "Cut": "93",
+            "Surf": "95",
+            "Strength": "96",
+            "Defog": "97",
+            "Rock Smash": "98",
+            "Waterfall": "99",
+            "Rock Climb": "100"
+        }
+    },
+    "entries": {
+        "Empoleon": [
+            "The three horns that extend from its beak attest to its power. The leader has the biggest horns.",
+            "It swims as fast as a jet boat. The edges of its wings are sharp and can slice apart drifting ice.",
+            "If anyone were to hurt its pride, it would slash them with wings that can cleave through an ice floe.",
+            "It avoids unnecessary disputes, but it will decimate anything that threatens its pride.",
+            "If anyone were to hurt its pride, it would slash them with wings that can cleave through an ice floe.",
+            "It swims as fast as a jet boat. The edges of its wings are sharp and can slice apart drifting ice.",
+            "The three horns that extend from its beak attest to its power. The leader has the biggest horns.",
+            "The three horns that extend from its beak attest to its power. The leader has the biggest horns.",
+            "It swims as fast as a jet boat. The edges of its wings are sharp and can slice apart drifting ice.",
+            "Since ancient times, it has been revered by the people of Hisui, who call it the Master of the Waves. Its wings are a match for even master-crafted blades."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789685455323176/395.png",
+    "discord_sprite": "<:P395:1132130115682324591>"
+}

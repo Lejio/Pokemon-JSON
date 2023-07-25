@@ -1,0 +1,268 @@
+{
+    "alt-version(s)": [],
+    "name": "Rhyperior",
+    "Rhyperior": {
+        "pokedex_data": {
+            "National No.": "0464",
+            "Type": [
+                "Ground",
+                "Rock"
+            ],
+            "Species": "Drill Poke\u0301mon",
+            "Height": "2.4 m (7\u203210\u2032\u2032)",
+            "Weight": "282.8 kg (623.5 lbs)",
+            "Abilities": {
+                "Lightning Rod": {
+                    "href": "/ability/lightning-rod",
+                    "effect": "Draws in all Electric-type moves to up Sp. Attack.",
+                    "hidden": false
+                },
+                "Solid Rock": {
+                    "href": "/ability/solid-rock",
+                    "effect": "Reduces damage from super-effective attacks.",
+                    "hidden": false
+                },
+                "Reckless": {
+                    "href": "/ability/reckless",
+                    "effect": "Powers up moves that have recoil damage.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Attack",
+            "Catch rate": "30",
+            "BaseFriendship": "50",
+            "Base Exp.": "241",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "115",
+                "Min": "340",
+                "Max": "434"
+            },
+            "Attack": {
+                "Base": "140",
+                "Min": "256",
+                "Max": "416"
+            },
+            "Defense": {
+                "Base": "130",
+                "Min": "238",
+                "Max": "394"
+            },
+            "Sp. Atk": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Sp. Def": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Speed": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Total": "535"
+        },
+        "defense_stats": {
+            "Lightning Rod ability": {
+                "Normal": "not very effective",
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Electric": "no effect",
+                "Grass": "super-effective",
+                "Ice": "super-effective",
+                "Fighting": "super-effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Rock": "not very effective",
+                "Steel": "super-effective"
+            },
+            "Solid Rock ability": {
+                "Normal": "not very effective",
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Electric": "no effect",
+                "Grass": "super-effective",
+                "Ice": "super-effective",
+                "Fighting": "super-effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Rock": "not very effective",
+                "Steel": "super-effective"
+            },
+            "Reckless ability": {
+                "Normal": "not very effective",
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Electric": "no effect",
+                "Grass": "super-effective",
+                "Ice": "super-effective",
+                "Fighting": "super-effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Rock": "not very effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Rhyhorn",
+                    "nationalNo": "#0111",
+                    "type": [
+                        "Ground",
+                        "Rock"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Rhydon",
+                    "nationalNo": "#0112",
+                    "type": [
+                        "Ground",
+                        "Rock"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 42)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Rhydon",
+                    "nationalNo": "#0112",
+                    "type": [
+                        "Ground",
+                        "Rock"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Rhyperior",
+                    "nationalNo": "#0464",
+                    "type": [
+                        "Ground",
+                        "Rock"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(trade holding Protector)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Bulldoze": "1",
+            "Hammer Arm": "1",
+            "Smack Down": "1",
+            "Tackle": "1",
+            "Tail Whip": "1",
+            "Horn Attack": "15",
+            "Scary Face": "20",
+            "Stomp": "25",
+            "Rock Blast": "30",
+            "Drill Run": "35",
+            "Take Down": "40",
+            "Earthquake": "47",
+            "Stone Edge": "54",
+            "Megahorn": "61",
+            "Horn Drill": "68",
+            "Rock Wrecker": "75"
+        },
+        "egg": {
+            "Counter": null,
+            "Crunch": null,
+            "Crush Claw": null,
+            "Curse": null,
+            "Dragon Rush": null,
+            "Fire Fang": null,
+            "Guard Split": null,
+            "Ice Fang": null,
+            "Metal Burst": null,
+            "Reversal": null,
+            "Skull Bash": null,
+            "Thunder Fang": null
+        },
+        "tm": {
+            "Focus Punch": "01",
+            "Roar": "05",
+            "Sunny Day": "11",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Iron Tail": "23",
+            "Thunderbolt": "24",
+            "Thunder": "25",
+            "Earthquake": "26",
+            "Dig": "28",
+            "Brick Break": "31",
+            "Double Team": "32",
+            "Shock Wave": "34",
+            "Flamethrower": "35",
+            "Sandstorm": "37",
+            "Fire Blast": "38",
+            "Rock Tomb": "39",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Focus Blast": "52",
+            "Fling": "56",
+            "Endure": "58",
+            "Dragon Pulse": "59",
+            "Shadow Claw": "65",
+            "Payback": "66",
+            "Giga Impact": "68",
+            "Rock Polish": "69",
+            "Stone Edge": "71",
+            "Avalanche": "72",
+            "Swords Dance": "75",
+            "Stealth Rock": "76",
+            "Rock Slide": "80",
+            "Sleep Talk": "82",
+            "Bulldoze": "83",
+            "Poison Jab": "84",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Flash Cannon": "91",
+            "Cut": "93",
+            "Surf": "95",
+            "Strength": "96",
+            "Rock Smash": "98",
+            "Rock Climb": "100"
+        }
+    },
+    "entries": {
+        "Rhyperior": [
+            "It puts rocks in holes in its palms and uses its muscles to shoot them. GEODUDE are shot at rare times.",
+            "It can launch a rock held in its hand like a missile by tightening then expanding muscles instantly.",
+            "From holes in its palms, it fires out GEODUDE. Its carapace can withstand volcanic eruptions.",
+            "It can launch a rock held in its hand like a missile by tightening then expanding muscles instantly.",
+            "From holes in its palms, it fires out Geodude. Its carapace can withstand volcanic eruptions.",
+            "It puts rocks in holes in its palms and uses its muscles to shoot them. Geodude are shot at rare times.",
+            "It can load up to three projectiles per arm into the holes in its hands. What launches out of those holes could be either rocks or Roggenrola.",
+            "It relies on its carapace to deflect incoming attacks and throw its enemy off balance. As soon as that happens, it drives its drill into the foe.",
+            "It puts rocks in holes in its palms and uses its muscles to shoot them. On rare occasions, the Pok\u00e9mon even shoots out Geodude.",
+            "This Pok\u00e9mon evolved through use of a curious item. Its rocklike hide is composed of a mysterious substance and can withstand a blow from a masterwork sword with nary a scratch."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790220296204408/464.png",
+    "discord_sprite": "<:P464:1132133148386398268>"
+}

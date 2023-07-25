@@ -1,0 +1,166 @@
+{
+    "alt-version(s)": [],
+    "name": "Barraskewda",
+    "Barraskewda": {
+        "pokedex_data": {
+            "National No.": "0847",
+            "Type": [
+                "Water"
+            ],
+            "Species": "Skewer Poke\u0301mon",
+            "Height": "1.3 m (4\u203203\u2032\u2032)",
+            "Weight": "30.0 kg (66.1 lbs)",
+            "Abilities": {
+                "Swift Swim": {
+                    "href": "/ability/swift-swim",
+                    "effect": "Boosts the Pok\u00e9mon's Speed in rain.",
+                    "hidden": false
+                },
+                "Propeller Tail": {
+                    "href": "/ability/propeller-tail",
+                    "effect": "Ignores moves and abilities that draw in moves.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Speed",
+            "Catch rate": "60",
+            "BaseFriendship": "50",
+            "Base Exp.": "172",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "61",
+                "Min": "232",
+                "Max": "326"
+            },
+            "Attack": {
+                "Base": "123",
+                "Min": "225",
+                "Max": "379"
+            },
+            "Defense": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Atk": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Def": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Speed": {
+                "Base": "136",
+                "Min": "249",
+                "Max": "408"
+            },
+            "Total": "490"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Arrokuda",
+                    "nationalNo": "#0846",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Barraskewda",
+                    "nationalNo": "#0847",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 26)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Aqua Jet": "1",
+            "Bite": "1",
+            "Fury Attack": "1",
+            "Peck": "1",
+            "Throat Chop": "1",
+            "Agility": "18",
+            "Dive": "24",
+            "Focus Energy": "32",
+            "Crunch": "40",
+            "Liquidation": "48",
+            "Double-Edge": "56"
+        },
+        "egg": {
+            "Acupressure": null,
+            "Night Slash": null,
+            "Slash": null,
+            "Thrash": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Agility": "04",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Ice Fang": "10",
+            "Water Pulse": "11",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Swift": "32",
+            "Endure": "47",
+            "Rain Dance": "50",
+            "Brick Break": "58",
+            "Psychic Fangs": "63",
+            "Sleep Talk": "70",
+            "Waterfall": "77",
+            "Poison Jab": "83",
+            "Rest": "85",
+            "Substitute": "103",
+            "Drill Run": "106",
+            "Crunch": "108",
+            "Liquidation": "110",
+            "Surf": "123",
+            "Ice Beam": "135",
+            "Hydro Pump": "142",
+            "Blizzard": "143",
+            "Giga Impact": "152",
+            "Hyper Beam": "163",
+            "Close Combat": "167",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Barraskewda": [
+            "This Pok\u00e9mon has a jaw that\u2019s as sharp as a spear and as strong as steel. Apparently Barraskewda\u2019s flesh is surprisingly tasty, too.",
+            "It spins its tail fins to propel itself, surging forward at speeds of over 100 knots before ramming prey and spearing into them.",
+            "It spins its tail fins to leap from the water, then viciously bites down on Wingull flying close to the water\u2019s surface.",
+            "It swims at speeds of over 100 knots and battles fiercely with pods of Finizen over prey."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793205583695952/847.png",
+    "discord_sprite": "<:P847:1132150064496779274>"
+}

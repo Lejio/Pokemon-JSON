@@ -1,0 +1,233 @@
+{
+    "alt-version(s)": [],
+    "name": "Meowscarada",
+    "Meowscarada": {
+        "pokedex_data": {
+            "National No.": "0908",
+            "Type": [
+                "Grass",
+                "Dark"
+            ],
+            "Species": "Magician Poke\u0301mon",
+            "Height": "1.5 m (4\u203211\u2032\u2032)",
+            "Weight": "31.2 kg (68.8 lbs)",
+            "Abilities": {
+                "Overgrow": {
+                    "href": "/ability/overgrow",
+                    "effect": "Powers up Grass-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Protean": {
+                    "href": "/ability/protean",
+                    "effect": "Changes the Pok\u00e9mon's type to its last used move.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Speed",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "265",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "76",
+                "Min": "262",
+                "Max": "356"
+            },
+            "Attack": {
+                "Base": "110",
+                "Min": "202",
+                "Max": "350"
+            },
+            "Defense": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Atk": {
+                "Base": "81",
+                "Min": "150",
+                "Max": "287"
+            },
+            "Sp. Def": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Speed": {
+                "Base": "123",
+                "Min": "225",
+                "Max": "379"
+            },
+            "Total": "530"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "super-effective",
+                "Poison": "super-effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Psychic": "no effect",
+                "Bug": "super-effective",
+                "Ghost": "not very effective",
+                "Dark": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Sprigatito",
+                    "nationalNo": "#0906",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Floragato",
+                    "nationalNo": "#0907",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 16)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Floragato",
+                    "nationalNo": "#0907",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Meowscarada",
+                    "nationalNo": "#0908",
+                    "type": [
+                        "Grass",
+                        "Dark"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 36)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Leafage": "1",
+            "Scratch": "1",
+            "Tail Whip": "1",
+            "Bite": "7",
+            "Hone Claws": "10",
+            "Magical Leaf": "13",
+            "Quick Attack": "15",
+            "Seed Bomb": "20",
+            "U-turn": "24",
+            "Worry Seed": "29",
+            "Slash": "33",
+            "Night Slash": "38",
+            "Energy Ball": "42",
+            "Play Rough": "47",
+            "Knock Off": "52",
+            "Grassy Terrain": "58",
+            "Leaf Storm": "64"
+        },
+        "evolution": {
+            "Flower Trick": "70"
+        },
+        "reminder": {
+            "Double Team": "\u2014",
+            "Trick": "\u2014"
+        },
+        "egg": {
+            "Ally Switch": null,
+            "Copycat": null,
+            "Leech Seed": null,
+            "Petal Blizzard": null,
+            "Sucker Punch": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Charm": "02",
+            "Fake Tears": "03",
+            "Agility": "04",
+            "Mud-Slap": "05",
+            "Protect": "07",
+            "Low Kick": "12",
+            "Acrobatics": "14",
+            "Thief": "18",
+            "Disarming Voice": "19",
+            "Trailblaze": "20",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Swift": "32",
+            "Magical Leaf": "33",
+            "Low Sweep": "39",
+            "Fling": "43",
+            "Endure": "47",
+            "Bullet Seed": "56",
+            "Brick Break": "58",
+            "U-turn": "60",
+            "Shadow Claw": "61",
+            "Foul Play": "62",
+            "Thunder Punch": "68",
+            "Sleep Talk": "70",
+            "Seed Bomb": "71",
+            "Grass Knot": "81",
+            "Rest": "85",
+            "Taunt": "87",
+            "Spikes": "90",
+            "Toxic Spikes": "91",
+            "Dark Pulse": "94",
+            "Skill Swap": "98",
+            "Power Gem": "101",
+            "Substitute": "103",
+            "Trick": "109",
+            "Giga Drain": "111",
+            "Aura Sphere": "112",
+            "Shadow Ball": "114",
+            "Energy Ball": "119",
+            "Play Rough": "127",
+            "Helping Hand": "130",
+            "Pollen Puff": "131",
+            "Grassy Terrain": "137",
+            "Nasty Plot": "140",
+            "Grass Pledge": "146",
+            "Giga Impact": "152",
+            "Frenzy Plant": "155",
+            "Leaf Storm": "159",
+            "Trick Room": "161",
+            "Hyper Beam": "163",
+            "Solar Beam": "168",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Meowscarada": [
+            "This Pok\u00e9mon uses the reflective fur lining its cape to camouflage the stem of its flower, creating the illusion that the flower is floating.",
+            "With skillful misdirection, it rigs foes with pollen-packed flower bombs. Meowscarada sets off the bombs before its foes realize what\u2019s going on."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793679368069130/908.png",
+    "discord_sprite": "<:P908:1132152752416493649>"
+}

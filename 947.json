@@ -1,0 +1,175 @@
+{
+    "alt-version(s)": [],
+    "name": "Brambleghast",
+    "Brambleghast": {
+        "pokedex_data": {
+            "National No.": "0947",
+            "Type": [
+                "Grass",
+                "Ghost"
+            ],
+            "Species": "Tumbleweed Poke\u0301mon",
+            "Height": "1.2 m (3\u203211\u2032\u2032)",
+            "Weight": "6.0 kg (13.2 lbs)",
+            "Abilities": {
+                "Wind Rider": {
+                    "href": "/ability/wind-rider",
+                    "effect": "Takes no damage from wind moves, and boosts Attack if hit by one.",
+                    "hidden": false
+                },
+                "Infiltrator": {
+                    "href": "/ability/infiltrator",
+                    "effect": "Passes through the foe's barrier and strikes.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "168",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "55",
+                "Min": "220",
+                "Max": "314"
+            },
+            "Attack": {
+                "Base": "115",
+                "Min": "211",
+                "Max": "361"
+            },
+            "Defense": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Atk": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Sp. Def": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Speed": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Total": "480"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "no effect",
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "no effect",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Bramblin",
+                    "nationalNo": "#0946",
+                    "type": [
+                        "Grass",
+                        "Ghost"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Brambleghast",
+                    "nationalNo": "#0947",
+                    "type": [
+                        "Grass",
+                        "Ghost"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(walk 1,000 steps in Let's Go mode)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Astonish": "1",
+            "Defense Curl": "1",
+            "Rollout": "1",
+            "Absorb": "5",
+            "Rapid Spin": "9",
+            "Bullet Seed": "13",
+            "Infestation": "17",
+            "Hex": "21",
+            "Mega Drain": "25",
+            "Disable": "29",
+            "Phantom Force": "35",
+            "Giga Drain": "40",
+            "Curse": "45",
+            "Pain Split": "50",
+            "Power Whip": "55"
+        },
+        "egg": {
+            "Beat Up": null,
+            "Block": null,
+            "Leech Seed": null,
+            "Shadow Sneak": null,
+            "Strength Sap": null
+        },
+        "tm": {
+            "Scary Face": "06",
+            "Protect": "07",
+            "Confuse Ray": "17",
+            "Thief": "18",
+            "Trailblaze": "20",
+            "Pounce": "21",
+            "Facade": "25",
+            "Hex": "29",
+            "Night Shade": "42",
+            "Endure": "47",
+            "Bullet Seed": "56",
+            "Sleep Talk": "70",
+            "Seed Bomb": "71",
+            "Grass Knot": "81",
+            "Rest": "85",
+            "Spikes": "90",
+            "Substitute": "103",
+            "Giga Drain": "111",
+            "Shadow Ball": "114",
+            "Energy Ball": "119",
+            "Grassy Terrain": "137",
+            "Phantom Force": "151",
+            "Giga Impact": "152",
+            "Leaf Storm": "159",
+            "Hyper Beam": "163",
+            "Solar Beam": "168",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Brambleghast": [
+            "It will open the branches of its head to envelop its prey. Once it absorbs all the life energy it needs, it expels the prey and discards it.",
+            "Brambleghast wanders around arid regions. On rare occasions, mass outbreaks of these Pok\u00e9mon will bury an entire town."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793986839912509/947.png",
+    "discord_sprite": "<:P947:1132154463973560411>"
+}

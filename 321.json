@@ -1,0 +1,200 @@
+{
+    "alt-version(s)": [],
+    "name": "Wailord",
+    "Wailord": {
+        "pokedex_data": {
+            "National No.": "0321",
+            "Type": [
+                "Water"
+            ],
+            "Species": "Float Whale Poke\u0301mon",
+            "Height": "14.5 m (47\u203207\u2032\u2032)",
+            "Weight": "398.0 kg (877.4 lbs)",
+            "Abilities": {
+                "Water Veil": {
+                    "href": "/ability/water-veil",
+                    "effect": "Prevents the Pok\u00e9mon from getting a burn.",
+                    "hidden": false
+                },
+                "Oblivious": {
+                    "href": "/ability/oblivious",
+                    "effect": "Prevents it from becoming infatuated.",
+                    "hidden": false
+                },
+                "Pressure": {
+                    "href": "/ability/pressure",
+                    "effect": "The Pok\u00e9mon raises the foe's PP usage.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 HP",
+            "Catch rate": "60",
+            "BaseFriendship": "50",
+            "Base Exp.": "175",
+            "Growth Rate": "Fluctuating"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "170",
+                "Min": "450",
+                "Max": "544"
+            },
+            "Attack": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Defense": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Sp. Atk": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Sp. Def": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Speed": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Total": "500"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Wailmer",
+                    "nationalNo": "#0320",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Wailord",
+                    "nationalNo": "#0321",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 40)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Astonish": "1",
+            "Growl": "1",
+            "Noble Roar": "1",
+            "Soak": "1",
+            "Splash": "1",
+            "Water Gun": "1",
+            "Mist": "15",
+            "Water Pulse": "18",
+            "Heavy Slam": "21",
+            "Brine": "24",
+            "Whirlpool": "27",
+            "Dive": "30",
+            "Bounce": "33",
+            "Body Slam": "36",
+            "Rest": "39",
+            "Amnesia": "44",
+            "Hydro Pump": "49",
+            "Water Spout": "54"
+        },
+        "egg": {
+            "Aqua Ring": null,
+            "Body Slam": null,
+            "Clear Smog": null,
+            "Curse": null,
+            "Defense Curl": null,
+            "Double-Edge": null,
+            "Fissure": null,
+            "Rollout": null,
+            "Snore": null,
+            "Soak": null,
+            "Thrash": null,
+            "Tickle": null,
+            "Zen Headbutt": null
+        },
+        "tm": {
+            "Water Pulse": "03",
+            "Roar": "05",
+            "Hail": "07",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Earthquake": "26",
+            "Double Team": "32",
+            "Rock Tomb": "39",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Scald": "49",
+            "Brine": "55",
+            "Endure": "58",
+            "Giga Impact": "68",
+            "Avalanche": "72",
+            "Sleep Talk": "82",
+            "Bulldoze": "83",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Surf": "95",
+            "Strength": "96",
+            "Rock Smash": "98",
+            "Waterfall": "99"
+        }
+    },
+    "entries": {
+        "Wailord": [
+            "WAILORD is the largest of all identified pok\u00e9mon up to now. This giant pok\u00e9mon swims languorously in the vast open sea, eating massive amounts of food at once with its enormous mouth.",
+            "When chasing prey, WAILORD herds them by leaping out of the water and making a humongous splash. It is breathtaking to see this pok\u00e9mon leaping out of the sea with others in its pod.",
+            "It is among the largest of all pok\u00e9mon. It herds prey in a pack then swallows the massed prey in one gulp.",
+            "It breathes through nostrils that it raises above the sea. By inhaling to its maximum capacity, a WAILORD can dive close to 10,000 feet beneath the waves.",
+            "The biggest of all Pok\u00e9mon. It can dive to a depth of almost 10,000 feet on only one breath.",
+            "It is the largest of all identified Pok\u00e9mon. They jump as a pack to herd their prey.",
+            "The biggest of all Pok\u00e9mon. It can dive to a depth of almost 10,000 feet on only one breath.",
+            "It can sometimes knock out opponents with the shock created by breaching and crashing its big body onto the water.",
+            "It can sometimes knock out opponents with the shock created by breaching and crashing its big body onto the water.",
+            "The biggest of all Pok\u00e9mon. It can dive to a depth of almost 10,000 feet on only one breath.",
+            "Wailord is the largest of all identified Pok\u00e9mon up to now. This giant Pok\u00e9mon swims languorously in the vast open sea, eating massive amounts of food at once with its enormous mouth.",
+            "When chasing prey, Wailord herds them by leaping out of the water and making a humongous splash. It is breathtaking to see this Pok\u00e9mon leaping out of the sea with others in its pod.",
+            "Wailord pursue their prey in pods. With their large mouths, they can swallow entire schools of Wishiwashi whole.",
+            "Its immense size is the reason for its popularity. Wailord watching is a favorite sightseeing activity in various parts of the world.",
+            "They eat so many fish Pok\u00e9mon that when Wailord become too numerous, fishermen have to chase them off.",
+            "When a small Wailmer is attacked by Sharpedo or Dhelmise, its whole pod works together to protect it.",
+            "It can sometimes knock out opponents with the shock created by breaching and crashing its big body onto the water.",
+            "Its immense size is the reason for its popularity. Wailord watching is a favorite sightseeing activity in various parts of the world.",
+            "It\u2019s the biggest of all Pok\u00e9mon. It can dive to a depth of almost 10,000 feet on only one breath."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789110265262080/321.png",
+    "discord_sprite": "<:P321:1132126861657374790>"
+}

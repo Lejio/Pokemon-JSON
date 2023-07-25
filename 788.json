@@ -1,0 +1,165 @@
+{
+    "alt-version(s)": [],
+    "name": "Tapu Fini",
+    "Tapu Fini": {
+        "pokedex_data": {
+            "National No.": "0788",
+            "Type": [
+                "Water",
+                "Fairy"
+            ],
+            "Species": "Land Spirit Poke\u0301mon",
+            "Height": "1.3 m (4\u203203\u2032\u2032)",
+            "Weight": "21.2 kg (46.7 lbs)",
+            "Abilities": {
+                "Misty Surge": {
+                    "href": "/ability/misty-surge",
+                    "effect": "The Pok\u00e9mon creates a Misty Terrain when it enters a battle.",
+                    "hidden": false
+                },
+                "Telepathy": {
+                    "href": "/ability/telepathy",
+                    "effect": "Anticipates an ally's attack and dodges it.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Sp. Def",
+            "Catch rate": "3",
+            "BaseFriendship": "50",
+            "Base Exp.": "257",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "70",
+                "Min": "250",
+                "Max": "344"
+            },
+            "Attack": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Defense": {
+                "Base": "115",
+                "Min": "211",
+                "Max": "361"
+            },
+            "Sp. Atk": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Sp. Def": {
+                "Base": "130",
+                "Min": "238",
+                "Max": "394"
+            },
+            "Speed": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Total": "570"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "not very effective",
+                "Poison": "super-effective",
+                "Bug": "not very effective",
+                "Dragon": "no effect",
+                "Dark": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Disarming Voice": "1",
+            "Water Gun": "1",
+            "Withdraw": "5",
+            "Haze": "10",
+            "Mist": "10",
+            "Aqua Ring": "15",
+            "Water Pulse": "20",
+            "Brine": "25",
+            "Defog": "30",
+            "Heal Pulse": "35",
+            "Surf": "40",
+            "Muddy Water": "45",
+            "Mean Look": "50",
+            "Nature's Madness": "55",
+            "Moonblast": "60",
+            "Hydro Pump": "65",
+            "Soak": "70",
+            "Misty Terrain": "75"
+        },
+        "egg": null,
+        "tm": {
+            "Ice Punch": "04",
+            "Hyper Beam": "08",
+            "Giga Impact": "09",
+            "Light Screen": "17",
+            "Reflect": "18",
+            "Safeguard": "19",
+            "Rest": "21",
+            "Snore": "24",
+            "Protect": "25",
+            "Icy Wind": "27",
+            "Rain Dance": "33",
+            "Whirlpool": "36",
+            "Facade": "39",
+            "Dive": "45",
+            "Brine": "55",
+            "Fling": "59",
+            "Guard Swap": "61",
+            "Wonder Room": "71",
+            "Magic Room": "72",
+            "Round": "76",
+            "Draining Kiss": "87",
+            "Misty Terrain": "89",
+            "Smart Strike": "96"
+        },
+        "null": {
+            "Hydro Pump": "03",
+            "Surf": "04",
+            "Ice Beam": "05",
+            "Blizzard": "06",
+            "Waterfall": "16",
+            "Substitute": "20",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Shadow Ball": "33",
+            "Taunt": "37",
+            "Trick": "38",
+            "Muddy Water": "45",
+            "Iron Defense": "46",
+            "Calm Mind": "49",
+            "Grass Knot": "77",
+            "Stored Power": "82",
+            "Scald": "84",
+            "Play Rough": "90",
+            "Dazzling Gleam": "92"
+        }
+    },
+    "entries": {
+        "Tapu Fini": [
+            "The dense fog it creates brings the downfall and destruction of its confused enemies. Ocean currents are the source of its energy.",
+            "The guardian deity of Poni, it can control water. People say it can create pure water that will wash away any uncleanness.",
+            "This guardian deity of Poni Island manipulates water. Because it lives deep within a thick fog, it came to be both feared and revered.",
+            "Although it\u2019s called a guardian deity, terrible calamities sometimes befall those who recklessly approach Tapu Fini."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792750912753755/788.png",
+    "discord_sprite": "<:P788:1132147476212756480>"
+}

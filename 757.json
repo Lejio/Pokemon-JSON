@@ -1,0 +1,191 @@
+{
+    "alt-version(s)": [],
+    "name": "Salandit",
+    "Salandit": {
+        "pokedex_data": {
+            "National No.": "0757",
+            "Type": [
+                "Poison",
+                "Fire"
+            ],
+            "Species": "Toxic Lizard Poke\u0301mon",
+            "Height": "0.6 m (2\u203200\u2032\u2032)",
+            "Weight": "4.8 kg (10.6 lbs)",
+            "Abilities": {
+                "Corrosion": {
+                    "href": "/ability/corrosion",
+                    "effect": "The Pok\u00e9mon can poison Steel and Poison types.",
+                    "hidden": false
+                },
+                "Oblivious": {
+                    "href": "/ability/oblivious",
+                    "effect": "Prevents it from becoming infatuated.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Speed",
+            "Catch rate": "120",
+            "BaseFriendship": "50",
+            "Base Exp.": "64",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "48",
+                "Min": "206",
+                "Max": "300"
+            },
+            "Attack": {
+                "Base": "44",
+                "Min": "83",
+                "Max": "205"
+            },
+            "Defense": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Atk": {
+                "Base": "71",
+                "Min": "132",
+                "Max": "265"
+            },
+            "Sp. Def": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Speed": {
+                "Base": "77",
+                "Min": "143",
+                "Max": "278"
+            },
+            "Total": "320"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Fighting": "not very effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Salandit",
+                    "nationalNo": "#0757",
+                    "type": [
+                        "Poison",
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Salazzle",
+                    "nationalNo": "#0758",
+                    "type": [
+                        "Poison",
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 33, Female)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Poison Gas": "1",
+            "Scratch": "1",
+            "Smog": "5",
+            "Ember": "10",
+            "Poison Fang": "15",
+            "Sweet Scent": "20",
+            "Nasty Plot": "25",
+            "Incinerate": "30",
+            "Venoshock": "35",
+            "Dragon Pulse": "40",
+            "Flamethrower": "45",
+            "Toxic": "50",
+            "Endeavor": "55"
+        },
+        "egg": {
+            "Belch": null,
+            "Fake Out": null,
+            "Mud-Slap": null,
+            "Sand Attack": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Agility": "04",
+            "Mud-Slap": "05",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Fire Fang": "08",
+            "Acid Spray": "13",
+            "Thief": "18",
+            "Trailblaze": "20",
+            "Facade": "25",
+            "Poison Tail": "26",
+            "Swift": "32",
+            "Fling": "43",
+            "Venoshock": "45",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Shadow Claw": "61",
+            "Foul Play": "62",
+            "Sleep Talk": "70",
+            "Dragon Claw": "78",
+            "Thunder Wave": "82",
+            "Poison Jab": "83",
+            "Rest": "85",
+            "Taunt": "87",
+            "Toxic Spikes": "91",
+            "Leech Life": "95",
+            "Gunk Shot": "102",
+            "Substitute": "103",
+            "Will-O-Wisp": "107",
+            "Dragon Pulse": "115",
+            "Heat Wave": "118",
+            "Flamethrower": "125",
+            "Helping Hand": "130",
+            "Nasty Plot": "140",
+            "Fire Blast": "141",
+            "Sludge Bomb": "148",
+            "Overheat": "157",
+            "Flare Blitz": "165",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Salandit": [
+            "It burns its bodily fluids to create a poisonous gas. When its enemies become disoriented from inhaling the gas, it attacks them.",
+            "Volcanoes or dry, craggy places are its home. It emanates a sweet-smelling poisonous gas that attracts bug Pok\u00e9mon, then attacks them.",
+            "The males will do whatever the females tell them. They give the females most of their food. Due to malnutrition, the males can\u2019t evolve.",
+            "It weakens opponents and sends them reeling with its poisonous gas. Salandit doesn\u2019t deal well with Spinda, since it\u2019s always reeling.",
+            "Its venom sacs produce a fluid that this Pok\u00e9mon then heats up with the flame in its tail. This process creates Salandit\u2019s poisonous gas.",
+            "This sneaky Pok\u00e9mon will slink behind its prey and immobilize it with poisonous gas before the prey even realizes Salandit is there.",
+            "It taunts its prey and lures them into narrow, rocky areas where it then sprays them with toxic gas to make them dizzy and take them down.",
+            "Only female Salandit can produce gas laden with pheromones. Males entranced by this gas will do whatever the females tell them."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792509132083293/757.png",
+    "discord_sprite": "<:P757:1132146112661303317>"
+}

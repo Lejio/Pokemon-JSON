@@ -1,0 +1,420 @@
+{
+    "alt-version(s)": [
+        "Dusk Mane Necrozma",
+        "Dawn Wings Necrozma",
+        "Ultra Necrozma"
+    ],
+    "name": "Necrozma",
+    "Necrozma": {
+        "pokedex_data": {
+            "National No.": "0800",
+            "Type": [
+                "Psychic"
+            ],
+            "Species": "Prism Poke\u0301mon",
+            "Height": "2.4 m (7\u203210\u2032\u2032)",
+            "Weight": "230.0 kg (507.1 lbs)",
+            "Abilities": {
+                "Prism Armor": {
+                    "href": "/ability/prism-armor",
+                    "effect": "Reduces damage from super-effective attacks.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack, 2 Sp. Atk",
+            "Catch rate": "255",
+            "BaseFriendship": "0",
+            "Base Exp.": "270",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "97",
+                "Min": "304",
+                "Max": "398"
+            },
+            "Attack": {
+                "Base": "107",
+                "Min": "197",
+                "Max": "344"
+            },
+            "Defense": {
+                "Base": "101",
+                "Min": "186",
+                "Max": "331"
+            },
+            "Sp. Atk": {
+                "Base": "127",
+                "Min": "233",
+                "Max": "388"
+            },
+            "Sp. Def": {
+                "Base": "89",
+                "Min": "164",
+                "Max": "304"
+            },
+            "Speed": {
+                "Base": "79",
+                "Min": "146",
+                "Max": "282"
+            },
+            "Total": "600"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective"
+            }
+        }
+    },
+    "Dusk Mane Necrozma": {
+        "pokedex_data": {
+            "National No.": "0800",
+            "Type": [
+                "Psychic",
+                "Steel"
+            ],
+            "Species": "Prism Poke\u0301mon",
+            "Height": "3.8 m (12\u203206\u2032\u2032)",
+            "Weight": "460.0 kg (1014.1 lbs)",
+            "Abilities": {
+                "Prism Armor": {
+                    "href": "/ability/prism-armor",
+                    "effect": "Reduces damage from super-effective attacks.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Attack",
+            "Catch rate": "3",
+            "BaseFriendship": "0",
+            "Base Exp.": "306",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "97",
+                "Min": "304",
+                "Max": "398"
+            },
+            "Attack": {
+                "Base": "157",
+                "Min": "287",
+                "Max": "454"
+            },
+            "Defense": {
+                "Base": "127",
+                "Min": "233",
+                "Max": "388"
+            },
+            "Sp. Atk": {
+                "Base": "113",
+                "Min": "207",
+                "Max": "357"
+            },
+            "Sp. Def": {
+                "Base": "109",
+                "Min": "200",
+                "Max": "348"
+            },
+            "Speed": {
+                "Base": "77",
+                "Min": "143",
+                "Max": "278"
+            },
+            "Total": "680"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Fire": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Poison": "no effect",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Psychic": "not very effective",
+                "Rock": "not very effective",
+                "Ghost": "super-effective",
+                "Dragon": "not very effective",
+                "Dark": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "Dawn Wings Necrozma": {
+        "pokedex_data": {
+            "National No.": "0800",
+            "Type": [
+                "Psychic",
+                "Ghost"
+            ],
+            "Species": "Prism Poke\u0301mon",
+            "Height": "4.2 m (13\u203209\u2032\u2032)",
+            "Weight": "350.0 kg (771.6 lbs)",
+            "Abilities": {
+                "Prism Armor": {
+                    "href": "/ability/prism-armor",
+                    "effect": "Reduces damage from super-effective attacks.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Sp. Atk",
+            "Catch rate": "3",
+            "BaseFriendship": "0",
+            "Base Exp.": "306",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "97",
+                "Min": "304",
+                "Max": "398"
+            },
+            "Attack": {
+                "Base": "113",
+                "Min": "207",
+                "Max": "357"
+            },
+            "Defense": {
+                "Base": "109",
+                "Min": "200",
+                "Max": "348"
+            },
+            "Sp. Atk": {
+                "Base": "157",
+                "Min": "287",
+                "Max": "454"
+            },
+            "Sp. Def": {
+                "Base": "127",
+                "Min": "233",
+                "Max": "388"
+            },
+            "Speed": {
+                "Base": "77",
+                "Min": "143",
+                "Max": "278"
+            },
+            "Total": "680"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "no effect",
+                "Fighting": "no effect",
+                "Poison": "not very effective",
+                "Psychic": "not very effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective"
+            }
+        }
+    },
+    "Ultra Necrozma": {
+        "pokedex_data": {
+            "National No.": "0800",
+            "Type": [
+                "Psychic",
+                "Dragon"
+            ],
+            "Species": "Prism Poke\u0301mon",
+            "Height": "7.5 m (24\u203207\u2032\u2032)",
+            "Weight": "230.0 kg (507.1 lbs)",
+            "Abilities": {
+                "Neuroforce": {
+                    "href": "/ability/neuroforce",
+                    "effect": "Powers up moves that are super effective.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack, 1 Sp. Atk, 1 Speed",
+            "Catch rate": "3",
+            "BaseFriendship": "0",
+            "Base Exp.": "339",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "97",
+                "Min": "304",
+                "Max": "398"
+            },
+            "Attack": {
+                "Base": "167",
+                "Min": "305",
+                "Max": "476"
+            },
+            "Defense": {
+                "Base": "97",
+                "Min": "179",
+                "Max": "322"
+            },
+            "Sp. Atk": {
+                "Base": "167",
+                "Min": "305",
+                "Max": "476"
+            },
+            "Sp. Def": {
+                "Base": "97",
+                "Min": "179",
+                "Max": "322"
+            },
+            "Speed": {
+                "Base": "129",
+                "Min": "236",
+                "Max": "392"
+            },
+            "Total": "754"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "super-effective",
+                "Ghost": "super-effective",
+                "Dragon": "super-effective",
+                "Dark": "super-effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Charge Beam": "1",
+            "Confusion": "1",
+            "Gravity": "1",
+            "Metal Claw": "1",
+            "Moonlight": "1",
+            "Morning Sun": "1",
+            "Stealth Rock": "8",
+            "Slash": "16",
+            "Night Slash": "24",
+            "Psycho Cut": "32",
+            "Stored Power": "40",
+            "Rock Blast": "48",
+            "Iron Defense": "56",
+            "Power Gem": "64",
+            "Photon Geyser": "72",
+            "Autotomize": "80",
+            "Prismatic Laser": "88"
+        },
+        "egg": {
+            "Expanding Force": null,
+            "Meteor Beam": null
+        },
+        "null": {
+            "Swords Dance": "00",
+            "Earthquake": "10",
+            "Psychic": "11",
+            "Substitute": "20",
+            "Outrage": "24",
+            "Psyshock": "25",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Future Sight": "34",
+            "Heat Wave": "36",
+            "Hyper Voice": "42",
+            "Cosmic Power": "44",
+            "Iron Defense": "46",
+            "Calm Mind": "49",
+            "Dragon Dance": "51",
+            "Gyro Ball": "52",
+            "Dark Pulse": "58",
+            "X-Scissor": "60",
+            "Dragon Pulse": "62",
+            "Power Gem": "63",
+            "Earth Power": "67",
+            "Flash Cannon": "70",
+            "Iron Head": "74",
+            "Stone Edge": "75",
+            "Stealth Rock": "76",
+            "Stored Power": "82",
+            "Ally Switch": "83",
+            "Psychic Fangs": "97"
+        },
+        "tm": {
+            "Hyper Beam": "08",
+            "Giga Impact": "09",
+            "Solar Beam": "11",
+            "Thunder Wave": "14",
+            "Light Screen": "17",
+            "Reflect": "18",
+            "Rest": "21",
+            "Rock Slide": "22",
+            "Thief": "23",
+            "Snore": "24",
+            "Protect": "25",
+            "Scary Face": "26",
+            "Facade": "39",
+            "Brick Break": "43",
+            "Imprison": "44",
+            "Rock Tomb": "48",
+            "Rock Blast": "54",
+            "Fling": "59",
+            "Shadow Claw": "65",
+            "Psycho Cut": "69",
+            "Trick Room": "70",
+            "Round": "76",
+            "Bulldoze": "81",
+            "Smart Strike": "96",
+            "Brutal Swing": "97",
+            "Breaking Swipe": "99"
+        }
+    },
+    "entries": {
+        "Necrozma": [
+            "Reminiscent of the Ultra Beasts, this life-form, apparently asleep underground, is thought to have come from another world in ancient times.",
+            "Light is apparently the source of its energy. It has an extraordinarily vicious disposition and is constantly firing off laser beams.",
+            "It looks somehow pained as it rages around in search of light, which serves as its energy. It\u2019s apparently from another world.",
+            "Light is the source of its energy. If it isn\u2019t devouring light, impurities build up in it and on it, and Necrozma darkens and stops moving.",
+            "It survives by absorbing light. After a long time spent slumbering underground, impurities accumulated within it, causing its body to darken.",
+            "It needs light to survive, and it goes on a rampage seeking it out. Its laser beams will cut anything to pieces."
+        ],
+        "Dusk Mane Necrozma": [
+            "This is its form while it is devouring the light of Solgaleo. It pounces on foes and then slashes them with the claws on its four limbs and back.",
+            "This is Necrozma\u2019s form while it\u2019s absorbing the power of Solgaleo, making it extremely ferocious and impossible to control.",
+            "When it dominates Solgaleo, it takes on this form. It\u2019s a vicious Pok\u00e9mon, mangling prey with its many claws\u2014including those on its back.",
+            "Necrozma has attached itself to Solgaleo. It siphons away its host\u2019s limitless energy, exploiting that energy to fuel a rampage."
+        ],
+        "Dawn Wings Necrozma": [
+            "Lunala no longer has a will of its own. Now under the control of Necrozma, it continuously expels all of its energy.",
+            "This is its form while it\u2019s devouring the light of Lunala. It grasps foes in its giant claws and rips them apart with brute force.",
+            "Necrozma has subjugated Lunala entirely, forcing the unfortunate Pok\u00e9mon to emit its light energy for Necrozma to consume.",
+            "When Necrozma latches on to Lunala, it becomes vicious, seeing enemies everywhere it looks. It will burn the world with lasers."
+        ],
+        "Ultra Necrozma": [
+            "This is its form when it has absorbed overwhelming light energy. It fires laser beams from all over its body.",
+            "The light pouring out from all over its body affects living things and nature, impacting them in various ways."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792842348581015/800.png",
+    "discord_sprite": "<:P800:1132148005148049418>"
+}

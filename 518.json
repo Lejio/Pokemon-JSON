@@ -1,0 +1,189 @@
+{
+    "alt-version(s)": [],
+    "name": "Musharna",
+    "Musharna": {
+        "pokedex_data": {
+            "National No.": "0518",
+            "Type": [
+                "Psychic"
+            ],
+            "Species": "Drowsing Poke\u0301mon",
+            "Height": "1.1 m (3\u203207\u2032\u2032)",
+            "Weight": "60.5 kg (133.4 lbs)",
+            "Abilities": {
+                "Forewarn": {
+                    "href": "/ability/forewarn",
+                    "effect": "Determines what moves a foe has.",
+                    "hidden": false
+                },
+                "Synchronize": {
+                    "href": "/ability/synchronize",
+                    "effect": "Passes a burn, poison, or paralysis to the foe.",
+                    "hidden": false
+                },
+                "Telepathy": {
+                    "href": "/ability/telepathy",
+                    "effect": "Anticipates an ally's attack and dodges it.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 HP",
+            "Catch rate": "75",
+            "BaseFriendship": "50",
+            "Base Exp.": "170",
+            "Growth Rate": "Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "116",
+                "Min": "342",
+                "Max": "436"
+            },
+            "Attack": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Defense": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Sp. Atk": {
+                "Base": "107",
+                "Min": "197",
+                "Max": "344"
+            },
+            "Sp. Def": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Speed": {
+                "Base": "29",
+                "Min": "56",
+                "Max": "172"
+            },
+            "Total": "487"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Munna",
+                    "nationalNo": "#0517",
+                    "type": [
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Musharna",
+                    "nationalNo": "#0518",
+                    "type": [
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Moon Stone)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Calm Mind": "1",
+            "Defense Curl": "1",
+            "Dream Eater": "1",
+            "Future Sight": "1",
+            "Hypnosis": "1",
+            "Imprison": "1",
+            "Magic Coat": "1",
+            "Moonblast": "1",
+            "Moonlight": "1",
+            "Psybeam": "1",
+            "Psychic": "1",
+            "Psychic Terrain": "1",
+            "Stored Power": "1",
+            "Wonder Room": "1",
+            "Yawn": "1",
+            "Zen Headbutt": "1"
+        },
+        "egg": {
+            "Curse": null,
+            "Healing Wish": null
+        },
+        "null": {
+            "Psychic": "11",
+            "Amnesia": "17",
+            "Substitute": "20",
+            "Psyshock": "25",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Shadow Ball": "33",
+            "Future Sight": "34",
+            "Trick": "38",
+            "Skill Swap": "40",
+            "Calm Mind": "49",
+            "Gyro Ball": "52",
+            "Energy Ball": "65",
+            "Zen Headbutt": "69",
+            "Stored Power": "82",
+            "Ally Switch": "83",
+            "Dazzling Gleam": "92"
+        },
+        "tm": {
+            "Hyper Beam": "08",
+            "Giga Impact": "09",
+            "Thunder Wave": "14",
+            "Light Screen": "17",
+            "Reflect": "18",
+            "Safeguard": "19",
+            "Rest": "21",
+            "Rock Slide": "22",
+            "Snore": "24",
+            "Protect": "25",
+            "Attract": "31",
+            "Rain Dance": "33",
+            "Facade": "39",
+            "Swift": "40",
+            "Helping Hand": "41",
+            "Imprison": "44",
+            "Rock Tomb": "48",
+            "Power Swap": "60",
+            "Guard Swap": "61",
+            "Trick Room": "70",
+            "Wonder Room": "71",
+            "Round": "76",
+            "Psychic Terrain": "91"
+        }
+    },
+    "entries": {
+        "Musharna": [
+            "The mist emanating from their foreheads is packed with the dreams of people and Pok\u00e9mon.",
+            "With the mist from its forehead, it can create shapes of things from dreams it has eaten.",
+            "The dream mist coming from its forehead changes into many different colors depending on the dream that was eaten.",
+            "The mist emanating from their foreheads is packed with the dreams of people and Pok\u00e9mon.",
+            "The dream mist coming from its forehead changes into many different colors depending on the dream that was eaten.",
+            "When dark mists emanate from its body, don\u2019t get too near. If you do, your nightmares will become reality.",
+            "It drowses and dreams all the time. It\u2019s best to leave it be if it\u2019s just woken up, as it\u2019s a terrible grump when freshly roused from sleep."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790639357501501/518.png",
+    "discord_sprite": "<:P518:1132135524488982658>"
+}

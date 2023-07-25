@@ -1,0 +1,180 @@
+{
+    "alt-version(s)": [],
+    "name": "Lurantis",
+    "Lurantis": {
+        "pokedex_data": {
+            "National No.": "0754",
+            "Type": [
+                "Grass"
+            ],
+            "Species": "Bloom Sickle Poke\u0301mon",
+            "Height": "0.9 m (2\u203211\u2032\u2032)",
+            "Weight": "18.5 kg (40.8 lbs)",
+            "Abilities": {
+                "Leaf Guard": {
+                    "href": "/ability/leaf-guard",
+                    "effect": "Prevents problems with status in sunny weather.",
+                    "hidden": false
+                },
+                "Contrary": {
+                    "href": "/ability/contrary",
+                    "effect": "Makes stat changes have an opposite effect.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "75",
+            "BaseFriendship": "50",
+            "Base Exp.": "168",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "70",
+                "Min": "250",
+                "Max": "344"
+            },
+            "Attack": {
+                "Base": "105",
+                "Min": "193",
+                "Max": "339"
+            },
+            "Defense": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Sp. Atk": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Sp. Def": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Speed": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Total": "480"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Poison": "super-effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Bug": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Fomantis",
+                    "nationalNo": "#0753",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Lurantis",
+                    "nationalNo": "#0754",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 34, Daytime)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Fury Cutter": "1",
+            "Growth": "1",
+            "Ingrain": "1",
+            "Leafage": "1",
+            "Night Slash": "1",
+            "Solar Beam": "1",
+            "Razor Leaf": "15",
+            "Sweet Scent": "20",
+            "Slash": "25",
+            "X-Scissor": "30",
+            "Synthesis": "37",
+            "Leaf Blade": "44",
+            "Sunny Day": "51",
+            "Solar Blade": "63"
+        },
+        "evolution": {
+            "Petal Blizzard": "90"
+        },
+        "egg": {
+            "Defog": null,
+            "Worry Seed": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Trailblaze": "20",
+            "Facade": "25",
+            "Magical Leaf": "33",
+            "Low Sweep": "39",
+            "Fling": "43",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Bullet Seed": "56",
+            "False Swipe": "57",
+            "Brick Break": "58",
+            "Sleep Talk": "70",
+            "Seed Bomb": "71",
+            "Grass Knot": "81",
+            "Poison Jab": "83",
+            "Rest": "85",
+            "Swords Dance": "88",
+            "Leech Life": "95",
+            "Substitute": "103",
+            "X-Scissor": "105",
+            "Giga Drain": "111",
+            "Energy Ball": "119",
+            "Pollen Puff": "131",
+            "Grassy Terrain": "137",
+            "Giga Impact": "152",
+            "Leaf Storm": "159",
+            "Hyper Beam": "163",
+            "Solar Beam": "168",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Lurantis": [
+            "It requires a lot of effort to maintain Lurantis\u2019s vivid coloring, but some collectors enjoy this work and treat it as their hobby.",
+            "It fires beams from its sickle-shaped petals. These beams are powerful enough to cleave through thick metal plates.",
+            "For self-protection, it pretends to be a bug Pok\u00e9mon. Both of its arms bear keen-edged petals.",
+            "As it slashes into its enemies, it looks like it\u2019s dancing. Its elegant appearance has led some to call it the most glamorous Grass Pok\u00e9mon.",
+            "This Pok\u00e9mon resembles a beautiful flower. A properly raised Lurantis will have gorgeous, brilliant colors.",
+            "The petals on this Pok\u00e9mon\u2019s arms are thin and super sharp, and they can fire laser beams if Lurantis gathers light first.",
+            "By masquerading as a bug Pok\u00e9mon, it lowers the guard of actual bug Pok\u00e9mon lured in by a scent of sweet flowers. Its sickles bring them down.",
+            "A lot of time and effort is required to maintain the vivid colors of its petals. This Pok\u00e9mon puts its Trainer\u2019s attentiveness to the test."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792486038253588/754.png",
+    "discord_sprite": "<:P754:1132145980796588063>"
+}

@@ -1,0 +1,251 @@
+{
+    "alt-version(s)": [],
+    "name": "Chandelure",
+    "Chandelure": {
+        "pokedex_data": {
+            "National No.": "0609",
+            "Type": [
+                "Ghost",
+                "Fire"
+            ],
+            "Species": "Luring Poke\u0301mon",
+            "Height": "1.0 m (3\u203203\u2032\u2032)",
+            "Weight": "34.3 kg (75.6 lbs)",
+            "Abilities": {
+                "Flash Fire": {
+                    "href": "/ability/flash-fire",
+                    "effect": "It powers up Fire-type moves if it's hit by one.",
+                    "hidden": false
+                },
+                "Flame Body": {
+                    "href": "/ability/flame-body",
+                    "effect": "Contact with the Pok\u00e9mon may burn the attacker.",
+                    "hidden": false
+                },
+                "Infiltrator": {
+                    "href": "/ability/infiltrator",
+                    "effect": "Passes through the foe's barrier and strikes.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Sp. Atk",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "234",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "60",
+                "Min": "230",
+                "Max": "324"
+            },
+            "Attack": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Defense": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Sp. Atk": {
+                "Base": "145",
+                "Min": "265",
+                "Max": "427"
+            },
+            "Sp. Def": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Speed": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Total": "520"
+        },
+        "defense_stats": {
+            "Flash Fire ability": {
+                "Normal": "no effect",
+                "Fire": "no effect",
+                "Water": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Fighting": "no effect",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            },
+            "Flame Body ability": {
+                "Normal": "no effect",
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Fighting": "no effect",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            },
+            "Infiltrator ability": {
+                "Normal": "no effect",
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Fighting": "no effect",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Litwick",
+                    "nationalNo": "#0607",
+                    "type": [
+                        "Ghost",
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Lampent",
+                    "nationalNo": "#0608",
+                    "type": [
+                        "Ghost",
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 41)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Lampent",
+                    "nationalNo": "#0608",
+                    "type": [
+                        "Ghost",
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Chandelure",
+                    "nationalNo": "#0609",
+                    "type": [
+                        "Ghost",
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Dusk Stone)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Astonish": "1",
+            "Confuse Ray": "1",
+            "Curse": "1",
+            "Ember": "1",
+            "Fire Spin": "1",
+            "Hex": "1",
+            "Imprison": "1",
+            "Inferno": "1",
+            "Memento": "1",
+            "Minimize": "1",
+            "Night Shade": "1",
+            "Overheat": "1",
+            "Pain Split": "1",
+            "Shadow Ball": "1",
+            "Smog": "1",
+            "Will-O-Wisp": "1"
+        },
+        "egg": {
+            "Acid Armor": null,
+            "Clear Smog": null,
+            "Haze": null,
+            "Power Split": null
+        },
+        "null": {
+            "Flamethrower": "02",
+            "Psychic": "11",
+            "Fire Blast": "15",
+            "Substitute": "20",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Shadow Ball": "33",
+            "Heat Wave": "36",
+            "Taunt": "37",
+            "Trick": "38",
+            "Overheat": "43",
+            "Calm Mind": "49",
+            "Dark Pulse": "58",
+            "Energy Ball": "65",
+            "Ally Switch": "83"
+        },
+        "tm": {
+            "Hyper Beam": "08",
+            "Giga Impact": "09",
+            "Solar Beam": "11",
+            "Fire Spin": "13",
+            "Safeguard": "19",
+            "Rest": "21",
+            "Thief": "23",
+            "Snore": "24",
+            "Protect": "25",
+            "Attract": "31",
+            "Sunny Day": "34",
+            "Will-O-Wisp": "38",
+            "Facade": "39",
+            "Imprison": "44",
+            "Payback": "57",
+            "Trick Room": "70",
+            "Round": "76",
+            "Hex": "77",
+            "Mystical Fire": "92"
+        }
+    },
+    "entries": {
+        "Chandelure": [
+            "It absorbs a spirit, which it then burns. By waving the flames on its arms, it puts its foes into a hypnotic trance.",
+            "Being consumed in Chandelure\u2019s flame burns up the spirit, leaving the body behind.",
+            "The spirits burned up in its ominous flame lose their way and wander this world forever.",
+            "Being consumed in Chandelure\u2019s flame burns up the spirit, leaving the body behind.",
+            "The spirits burned up in its ominous flame lose their way and wander this world forever.",
+            "This Pok\u00e9mon haunts dilapidated mansions. It sways its arms to hypnotize opponents with the ominous dancing of its flames.",
+            "In homes illuminated by Chandelure instead of lights, funerals were a constant occurrence\u2014 or so it\u2019s said."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791351466442792/609.png",
+    "discord_sprite": "<:P609:1132139537624211527>"
+}

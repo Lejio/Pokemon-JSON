@@ -1,0 +1,154 @@
+{
+    "alt-version(s)": [],
+    "name": "Iron Jugulis",
+    "Iron Jugulis": {
+        "pokedex_data": {
+            "National No.": "0993",
+            "Type": [
+                "Dark",
+                "Flying"
+            ],
+            "Species": "Paradox Poke\u0301mon",
+            "Height": "1.3 m (4\u203203\u2032\u2032)",
+            "Weight": "111.0 kg (244.7 lbs)",
+            "Abilities": {
+                "Quark Drive": {
+                    "href": "/ability/quark-drive",
+                    "effect": "Raises highest stat on Electric Terrain, or if holding Booster Energy.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Sp. Atk",
+            "Catch rate": "30",
+            "BaseFriendship": "0",
+            "Base Exp.": "285",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "94",
+                "Min": "298",
+                "Max": "392"
+            },
+            "Attack": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Defense": {
+                "Base": "86",
+                "Min": "159",
+                "Max": "298"
+            },
+            "Sp. Atk": {
+                "Base": "122",
+                "Min": "224",
+                "Max": "377"
+            },
+            "Sp. Def": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Speed": {
+                "Base": "108",
+                "Min": "198",
+                "Max": "346"
+            },
+            "Total": "570"
+        },
+        "defense_stats": {
+            "default": {
+                "Electric": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Ground": "no effect",
+                "Psychic": "no effect",
+                "Rock": "super-effective",
+                "Ghost": "not very effective",
+                "Dark": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Air Cutter": "1",
+            "Electric Terrain": "1",
+            "Focus Energy": "1",
+            "Tri Attack": "1",
+            "Work Up": "1",
+            "Roar": "7",
+            "Assurance": "14",
+            "Dragon Breath": "21",
+            "Snarl": "28",
+            "Crunch": "35",
+            "Hyper Voice": "42",
+            "Air Slash": "56",
+            "Knock Off": "63",
+            "Dark Pulse": "70",
+            "Outrage": "77",
+            "Dragon Pulse": "84",
+            "Hyper Beam": "91"
+        },
+        "egg": null,
+        "tm": {
+            "Take Down": "01",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Fire Fang": "08",
+            "Acrobatics": "14",
+            "Charge Beam": "23",
+            "Facade": "25",
+            "Snarl": "30",
+            "Rock Tomb": "36",
+            "Air Cutter": "40",
+            "Dragon Tail": "44",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Zen Headbutt": "59",
+            "U-turn": "60",
+            "Air Slash": "65",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Rest": "85",
+            "Taunt": "87",
+            "Flash Cannon": "93",
+            "Dark Pulse": "94",
+            "Fly": "97",
+            "Iron Head": "99",
+            "Substitute": "103",
+            "Crunch": "108",
+            "Tailwind": "113",
+            "Dragon Pulse": "115",
+            "Hyper Voice": "117",
+            "Heat Wave": "118",
+            "Flamethrower": "125",
+            "Earth Power": "133",
+            "Electric Terrain": "136",
+            "Fire Blast": "141",
+            "Hydro Pump": "142",
+            "Giga Impact": "152",
+            "Outrage": "156",
+            "Focus Blast": "158",
+            "Hurricane": "160",
+            "Hyper Beam": "163",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Iron Jugulis": [
+            "It resembles a certain Pok\u00e9mon introduced in a paranormal magazine, described as the offspring of a Hydreigon that fell in love with a robot.",
+            "It\u2019s possible that Iron Jugulis, an object described in an old book, may actually be this Pok\u00e9mon."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131794345050247309/993.png",
+    "discord_sprite": "<:P993:1132156485711974400>"
+}

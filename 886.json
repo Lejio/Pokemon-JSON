@@ -1,0 +1,221 @@
+{
+    "alt-version(s)": [],
+    "name": "Drakloak",
+    "Drakloak": {
+        "pokedex_data": {
+            "National No.": "0886",
+            "Type": [
+                "Dragon",
+                "Ghost"
+            ],
+            "Species": "Caretaker Poke\u0301mon",
+            "Height": "1.4 m (4\u203207\u2032\u2032)",
+            "Weight": "11.0 kg (24.3 lbs)",
+            "Abilities": {
+                "Clear Body": {
+                    "href": "/ability/clear-body",
+                    "effect": "Prevents other Pok\u00e9mon from lowering its stats.",
+                    "hidden": false
+                },
+                "Infiltrator": {
+                    "href": "/ability/infiltrator",
+                    "effect": "Passes through the foe's barrier and strikes.",
+                    "hidden": false
+                },
+                "Cursed Body": {
+                    "href": "/ability/cursed-body",
+                    "effect": "May disable a move used on the Pok\u00e9mon.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Speed",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "144",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "68",
+                "Min": "246",
+                "Max": "340"
+            },
+            "Attack": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Defense": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Atk": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Def": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Speed": {
+                "Base": "102",
+                "Min": "188",
+                "Max": "333"
+            },
+            "Total": "410"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "no effect",
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "no effect",
+                "Poison": "not very effective",
+                "Bug": "not very effective",
+                "Ghost": "super-effective",
+                "Dragon": "super-effective",
+                "Dark": "super-effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Dreepy",
+                    "nationalNo": "#0885",
+                    "type": [
+                        "Dragon",
+                        "Ghost"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Drakloak",
+                    "nationalNo": "#0886",
+                    "type": [
+                        "Dragon",
+                        "Ghost"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 50)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Drakloak",
+                    "nationalNo": "#0886",
+                    "type": [
+                        "Dragon",
+                        "Ghost"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Dragapult",
+                    "nationalNo": "#0887",
+                    "type": [
+                        "Dragon",
+                        "Ghost"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 60)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Astonish": "1",
+            "Bite": "1",
+            "Infestation": "1",
+            "Quick Attack": "1",
+            "Lock-On": "6",
+            "Assurance": "12",
+            "Hex": "18",
+            "Agility": "24",
+            "Double Hit": "30",
+            "U-turn": "36",
+            "Dragon Dance": "42",
+            "Phantom Force": "48",
+            "Take Down": "54",
+            "Dragon Rush": "61",
+            "Double-Edge": "66",
+            "Last Resort": "72"
+        },
+        "evolution": {
+            "Dragon Pulse": "85"
+        },
+        "egg": {
+            "Confuse Ray": null,
+            "Curse": null,
+            "Disable": null,
+            "Double Team": null,
+            "Dragon Tail": null,
+            "Sucker Punch": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Agility": "04",
+            "Protect": "07",
+            "Acrobatics": "14",
+            "Thief": "18",
+            "Pounce": "21",
+            "Facade": "25",
+            "Hex": "29",
+            "Swift": "32",
+            "Night Shade": "42",
+            "Dragon Tail": "44",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "U-turn": "60",
+            "Psychic Fangs": "63",
+            "Sleep Talk": "70",
+            "Reflect": "74",
+            "Light Screen": "75",
+            "Thunder Wave": "82",
+            "Rest": "85",
+            "Dragon Dance": "100",
+            "Substitute": "103",
+            "Will-O-Wisp": "107",
+            "Shadow Ball": "114",
+            "Dragon Pulse": "115",
+            "Surf": "123",
+            "Flamethrower": "125",
+            "Thunderbolt": "126",
+            "Helping Hand": "130",
+            "Baton Pass": "132",
+            "Fire Blast": "141",
+            "Hydro Pump": "142",
+            "Phantom Force": "151",
+            "Outrage": "156",
+            "Thunder": "166",
+            "Draco Meteor": "169",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Drakloak": [
+            "It\u2019s capable of flying faster than 120 mph. It battles alongside Dreepy and dotes on them until they successfully evolve.",
+            "Without a Dreepy to place on its head and care for, it gets so uneasy it\u2019ll try to substitute any Pok\u00e9mon it finds for the missing Dreepy.",
+            "This Pok\u00e9mon flies around at over 120 miles per hour. If a Drakloak is defeated in a battle, its Dreepy will wander off without a second thought.",
+            "This Pok\u00e9mon stores up energy in its lungs, then shoots it out. It takes care of Dreepy and battles alongside them until they\u2019re all grown up."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793511298109510/886.png",
+    "discord_sprite": "<:P886:1132151785008676975>"
+}

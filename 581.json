@@ -1,0 +1,193 @@
+{
+    "alt-version(s)": [],
+    "name": "Swanna",
+    "Swanna": {
+        "pokedex_data": {
+            "National No.": "0581",
+            "Type": [
+                "Water",
+                "Flying"
+            ],
+            "Species": "White Bird Poke\u0301mon",
+            "Height": "1.3 m (4\u203203\u2032\u2032)",
+            "Weight": "24.2 kg (53.4 lbs)",
+            "Abilities": {
+                "Keen Eye": {
+                    "href": "/ability/keen-eye",
+                    "effect": "Prevents other Pok\u00e9mon from lowering accuracy.",
+                    "hidden": false
+                },
+                "Big Pecks": {
+                    "href": "/ability/big-pecks",
+                    "effect": "Protects the Pok\u00e9mon from Defense-lowering attacks.",
+                    "hidden": false
+                },
+                "Hydration": {
+                    "href": "/ability/hydration",
+                    "effect": "Heals status problems if it is raining.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Speed",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "166",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "75",
+                "Min": "260",
+                "Max": "354"
+            },
+            "Attack": {
+                "Base": "87",
+                "Min": "161",
+                "Max": "300"
+            },
+            "Defense": {
+                "Base": "63",
+                "Min": "117",
+                "Max": "247"
+            },
+            "Sp. Atk": {
+                "Base": "87",
+                "Min": "161",
+                "Max": "300"
+            },
+            "Sp. Def": {
+                "Base": "63",
+                "Min": "117",
+                "Max": "247"
+            },
+            "Speed": {
+                "Base": "98",
+                "Min": "180",
+                "Max": "324"
+            },
+            "Total": "473"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Fighting": "not very effective",
+                "Ground": "no effect",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Ducklett",
+                    "nationalNo": "#0580",
+                    "type": [
+                        "Water",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Swanna",
+                    "nationalNo": "#0581",
+                    "type": [
+                        "Water",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 35)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Defog": "6",
+            "Water Gun": "1",
+            "Water Sport": "3",
+            "Wing Attack": "9",
+            "Water Pulse": "13",
+            "Aerial Ace": "15",
+            "Bubble Beam": "19",
+            "Feather Dance": "21",
+            "Aqua Ring": "24",
+            "Air Slash": "27",
+            "Roost": "30",
+            "Rain Dance": "34",
+            "Tailwind": "40",
+            "Brave Bird": "47",
+            "Hurricane": "55"
+        },
+        "egg": {
+            "Air Cutter": null,
+            "Aqua Jet": null,
+            "Brine": null,
+            "Gust": null,
+            "Lucky Chant": null,
+            "Me First": null,
+            "Mirror Move": null,
+            "Mud Sport": null,
+            "Steel Wing": null
+        },
+        "null": {
+            "Defog": "\u2014",
+            "Endeavor": "\u2014",
+            "Icy Wind": "55",
+            "Liquidation": "85",
+            "Sky Attack": "140",
+            "Snore": "50",
+            "Tailwind": "\u2014",
+            "Uproar": "90",
+            "Water Pulse": "60"
+        },
+        "tm": {
+            "Toxic": "06",
+            "Hail": "07",
+            "Hidden Power": "10",
+            "Ice Beam": "13",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Roost": "19",
+            "Frustration": "21",
+            "Return": "27",
+            "Double Team": "32",
+            "Aerial Ace": "40",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Round": "48",
+            "Steel Wing": "51",
+            "Scald": "55",
+            "Giga Impact": "68",
+            "Fly": "76",
+            "Swagger": "87",
+            "Sleep Talk": "88",
+            "Substitute": "90",
+            "Surf": "94",
+            "Confide": "100"
+        }
+    },
+    "entries": {
+        "Swanna": [
+            "Swanna start to dance at dusk. The one dancing in the middle is the leader of the flock.",
+            "It administers sharp, powerful pecks with its bill. It whips its long neck to deliver forceful repeated strikes.",
+            "Despite their elegant appearance, they can flap their wings strongly and fly for thousands of miles.",
+            "Despite their elegant appearance, they can flap their wings strongly and fly for thousands of miles.",
+            "Swanna start to dance at dusk. The one dancing in the middle is the leader of the flock."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791130623754300/581.png",
+    "discord_sprite": "<:P581:1132138306302382110>"
+}

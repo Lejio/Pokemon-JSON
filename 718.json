@@ -1,0 +1,331 @@
+{
+    "alt-version(s)": [
+        "50% Forme",
+        "10% Forme",
+        "Complete Forme"
+    ],
+    "50% Forme": {
+        "pokedex_data": {
+            "National No.": "0718",
+            "Type": [
+                "Dragon",
+                "Ground"
+            ],
+            "Species": "Order Poke\u0301mon",
+            "Height": "5.0 m (16\u203205\u2032\u2032)",
+            "Weight": "305.0 kg (672.4 lbs)",
+            "Abilities": {
+                "Aura Break": {
+                    "href": "/ability/aura-break",
+                    "effect": "Reduces power of Dark- and Fairy-type moves.",
+                    "hidden": false
+                },
+                "Power Construct": {
+                    "href": "/ability/power-construct",
+                    "effect": "Changes form when HP drops below half.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 HP",
+            "Catch rate": "3",
+            "BaseFriendship": "0",
+            "Base Exp.": "270",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "108",
+                "Min": "326",
+                "Max": "420"
+            },
+            "Attack": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Defense": {
+                "Base": "121",
+                "Min": "222",
+                "Max": "375"
+            },
+            "Sp. Atk": {
+                "Base": "81",
+                "Min": "150",
+                "Max": "287"
+            },
+            "Sp. Def": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Speed": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Total": "600"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Electric": "no effect",
+                "Ice": "super-effective",
+                "Poison": "not very effective",
+                "Rock": "not very effective",
+                "Dragon": "super-effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "10% Forme": {
+        "pokedex_data": {
+            "National No.": "0718",
+            "Type": [
+                "Dragon",
+                "Ground"
+            ],
+            "Species": "Order Poke\u0301mon",
+            "Height": "1.2 m (3\u203211\u2032\u2032)",
+            "Weight": "33.5 kg (73.9 lbs)",
+            "Abilities": {
+                "Aura Break": {
+                    "href": "/ability/aura-break",
+                    "effect": "Reduces power of Dark- and Fairy-type moves.",
+                    "hidden": false
+                },
+                "Power Construct": {
+                    "href": "/ability/power-construct",
+                    "effect": "Changes form when HP drops below half.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 HP",
+            "Catch rate": "3",
+            "BaseFriendship": "0",
+            "Base Exp.": "219",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "54",
+                "Min": "218",
+                "Max": "312"
+            },
+            "Attack": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Defense": {
+                "Base": "71",
+                "Min": "132",
+                "Max": "265"
+            },
+            "Sp. Atk": {
+                "Base": "61",
+                "Min": "114",
+                "Max": "243"
+            },
+            "Sp. Def": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Speed": {
+                "Base": "115",
+                "Min": "211",
+                "Max": "361"
+            },
+            "Total": "486"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Electric": "no effect",
+                "Ice": "super-effective",
+                "Poison": "not very effective",
+                "Rock": "not very effective",
+                "Dragon": "super-effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "Complete Forme": {
+        "pokedex_data": {
+            "National No.": "0718",
+            "Type": [
+                "Dragon",
+                "Ground"
+            ],
+            "Species": "Order Poke\u0301mon",
+            "Height": "4.5 m (14\u203209\u2032\u2032)",
+            "Weight": "610.0 kg (1344.8 lbs)",
+            "Abilities": {
+                "Power Construct": {
+                    "href": "/ability/power-construct",
+                    "effect": "Changes form when HP drops below half.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 HP",
+            "Catch rate": "3",
+            "BaseFriendship": "0",
+            "Base Exp.": "319",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "216",
+                "Min": "542",
+                "Max": "636"
+            },
+            "Attack": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Defense": {
+                "Base": "121",
+                "Min": "222",
+                "Max": "375"
+            },
+            "Sp. Atk": {
+                "Base": "91",
+                "Min": "168",
+                "Max": "309"
+            },
+            "Sp. Def": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Speed": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Total": "708"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Electric": "no effect",
+                "Ice": "super-effective",
+                "Poison": "not very effective",
+                "Rock": "not very effective",
+                "Dragon": "super-effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Bind": "1",
+            "Bite": "1",
+            "Bulldoze": "1",
+            "Core Enforcer": "1",
+            "Dragon Breath": "1",
+            "Thousand Arrows": "1",
+            "Thousand Waves": "1",
+            "Haze": "8",
+            "Dig": "16",
+            "Safeguard": "24",
+            "Crunch": "32",
+            "Dragon Pulse": "40",
+            "Land's Wrath": "48",
+            "Glare": "56",
+            "Sandstorm": "64",
+            "Coil": "72",
+            "Earthquake": "80",
+            "Outrage": "88"
+        },
+        "egg": {
+            "Scale Shot": null,
+            "Scorching Sands": null,
+            "Skitter Smack": null
+        },
+        "null": {
+            "Body Slam": "01",
+            "Earthquake": "10",
+            "Substitute": "20",
+            "Reversal": "21",
+            "Outrage": "24",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Iron Tail": "31",
+            "Crunch": "32",
+            "Superpower": "39",
+            "Hyper Voice": "42",
+            "Dragon Dance": "51",
+            "Dragon Pulse": "62",
+            "Focus Blast": "64",
+            "Earth Power": "67",
+            "Zen Headbutt": "69",
+            "Stone Edge": "75",
+            "Grass Knot": "77",
+            "Sludge Wave": "78",
+            "High Horsepower": "94"
+        },
+        "tm": {
+            "Hyper Beam": "08",
+            "Giga Impact": "09",
+            "Dig": "15",
+            "Safeguard": "19",
+            "Rest": "21",
+            "Rock Slide": "22",
+            "Snore": "24",
+            "Protect": "25",
+            "Sandstorm": "32",
+            "Sunny Day": "34",
+            "Facade": "39",
+            "Swift": "40",
+            "Brick Break": "43",
+            "Payback": "57",
+            "Round": "76",
+            "Retaliate": "79",
+            "Bulldoze": "81",
+            "Stomping Tantrum": "98",
+            "Breaking Swipe": "99"
+        }
+    },
+    "entries": {
+        "50% Forme": [
+            "When the Kalos region\u2019s ecosystem falls into disarray, it appears and reveals its secret power.",
+            "It\u2019s hypothesized that it\u2019s monitoring those who destroy the ecosystem from deep in the cave where it lives.",
+            "This is Zygarde\u2019s form when it has gathered 50% of its cells. It wipes out all those who oppose it, showing not a shred of mercy.",
+            "It\u2019s thought to be monitoring the ecosystem. There are rumors that even greater power lies hidden within it.",
+            "This is Zygarde\u2019s form when about half of its pieces have been assembled. It plays the role of monitoring the ecosystem.",
+            "Some say it can change to an even more powerful form when battling those who threaten the ecosystem."
+        ],
+        "10% Forme": [
+            "Its sharp fangs make short work of finishing off its enemies, but it\u2019s unable to maintain this body indefinitely. After a period of time, it falls apart.",
+            "This is Zygarde\u2019s form when about 10% of its cells have been gathered. It runs across the land at speeds greater than 60 mph.",
+            "This is Zygarde when about 10% of its pieces have been assembled. It leaps at its opponent\u2019s chest and sinks its sharp fangs into them.",
+            "Born when around 10% of Zygarde\u2019s cells have been gathered from all over, this form is skilled in close-range combat."
+        ],
+        "Complete Forme": [
+            "This is Zygarde\u2019s form at times when it uses its overwhelming power to suppress those who endanger the ecosystem.",
+            "This is Zygarde\u2019s 100% form. It has enough power to overwhelm even Xerneas or Yveltal.",
+            "This is Zygarde\u2019s perfected form. From the orifice on its chest, it radiates high-powered energy that eliminates everything.",
+            "Born when all of Zygarde\u2019s cells have been gathered together, it uses force to neutralize those who harm the ecosystem."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792207096066078/718.png",
+    "discord_sprite": "<:P718:1132144329721393222>"
+}

@@ -1,0 +1,291 @@
+{
+    "alt-version(s)": [
+        "Mega Beedrill"
+    ],
+    "name": "Beedrill",
+    "Beedrill": {
+        "pokedex_data": {
+            "National No.": "0015",
+            "Type": [
+                "Bug",
+                "Poison"
+            ],
+            "Species": "Poison Bee Poke\u0301mon",
+            "Height": "1.0 m (3\u203203\u2032\u2032)",
+            "Weight": "29.5 kg (65.0 lbs)",
+            "Abilities": {
+                "Swarm": {
+                    "href": "/ability/swarm",
+                    "effect": "Powers up Bug-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Sniper": {
+                    "href": "/ability/sniper",
+                    "effect": "Powers up moves if they become critical hits.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack, 1 Sp. Def",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "178",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "65",
+                "Min": "240",
+                "Max": "334"
+            },
+            "Attack": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Defense": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Atk": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Sp. Def": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Speed": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Total": "395"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Grass": "not very effective",
+                "Fighting": "not very effective",
+                "Poison": "not very effective",
+                "Flying": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "Mega Beedrill": {
+        "pokedex_data": {
+            "National No.": "0015",
+            "Type": [
+                "Bug",
+                "Poison"
+            ],
+            "Species": "Poison Bee Poke\u0301mon",
+            "Height": "1.4 m (4\u203207\u2032\u2032)",
+            "Weight": "40.5 kg (89.3 lbs)",
+            "Abilities": {
+                "Adaptability": {
+                    "href": "/ability/adaptability",
+                    "effect": "Powers up moves of the same type.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack, 1 Sp. Def",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "223",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "65",
+                "Min": "240",
+                "Max": "334"
+            },
+            "Attack": {
+                "Base": "150",
+                "Min": "274",
+                "Max": "438"
+            },
+            "Defense": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Atk": {
+                "Base": "15",
+                "Min": "31",
+                "Max": "141"
+            },
+            "Sp. Def": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Speed": {
+                "Base": "145",
+                "Min": "265",
+                "Max": "427"
+            },
+            "Total": "495"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Grass": "not very effective",
+                "Fighting": "not very effective",
+                "Poison": "not very effective",
+                "Flying": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Weedle",
+                    "nationalNo": "#0013",
+                    "type": [
+                        "Bug",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Kakuna",
+                    "nationalNo": "#0014",
+                    "type": [
+                        "Bug",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 7)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Kakuna",
+                    "nationalNo": "#0014",
+                    "type": [
+                        "Bug",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Beedrill",
+                    "nationalNo": "#0015",
+                    "type": [
+                        "Bug",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 10)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Bug Bite": "1",
+            "Fury Attack": "1",
+            "Harden": "1",
+            "Poison Sting": "17",
+            "String Shot": "1",
+            "Fury Cutter": "11",
+            "Laser Focus": "14",
+            "Focus Energy": "20",
+            "Venoshock": "23",
+            "Assurance": "26",
+            "Toxic Spikes": "29",
+            "Pin Missile": "32",
+            "Poison Jab": "35",
+            "Agility": "38",
+            "Endeavor": "41",
+            "Fell Stinger": "44"
+        },
+        "evolution": {
+            "Fury Attack": "15"
+        },
+        "egg": null,
+        "tm": {
+            "Sunny Day": "11",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Giga Drain": "19",
+            "Solar Beam": "22",
+            "Brick Break": "31",
+            "Double Team": "32",
+            "Sludge Bomb": "36",
+            "Aerial Ace": "40",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Roost": "51",
+            "False Swipe": "54",
+            "Endure": "58",
+            "Payback": "66",
+            "Giga Impact": "68",
+            "Flash": "70",
+            "Swords Dance": "75",
+            "X-Scissor": "81",
+            "Sleep Talk": "82",
+            "Poison Jab": "84",
+            "Swagger": "87",
+            "U-turn": "89",
+            "Substitute": "90",
+            "Cut": "93",
+            "Defog": "97",
+            "Rock Smash": "98"
+        }
+    },
+    "entries": {
+        "Beedrill": [
+            "Flies at high speed and attacks using its large venomous stingers on its forelegs and tail.",
+            "It has 3 poisonous stingers on its forelegs and its tail. They are used to jab its enemy repeatedly.",
+            "It can take down any opponent with its powerful poison stingers. It sometimes attacks in swarms.",
+            "It has three poison barbs. The barb on its tail secretes the most powerful poison.",
+            "It uses sharp, poisonous stings to defeat prey, then takes the victim back to its nest for food.",
+            "BEEDRILL is extremely territorial. No one should ever approach its nest - this is for their own safety. If angered, they will attack in a furious swarm.",
+            "May appear in a swarm. Flies at violent speeds, all the while stabbing with the toxic stinger on its rear.",
+            "It flies at high speed and attacks using the large venomous stingers on its forelegs and tail.",
+            "A BEEDRILL is extremely territorial. For safety reasons, no one should ever approach its nest. If angered, they will attack in a swarm.",
+            "Its best attack involves flying around at high speed, striking with poison needles, then flying off.",
+            "It can take down any opponent with its powerful poison stingers. It sometimes attacks in swarms.",
+            "It has three poison barbs. The barb on its tail secretes the most powerful poison.",
+            "Its best attack involves flying around at high speed, striking with poison needles, then flying off.",
+            "It has three poisonous stingers on its forelegs and its tail. They are used to jab its enemy repeatedly.",
+            "May appear in a swarm. Flies at violent speeds, all the while stabbing with the toxic stinger on its rear.",
+            "Beedrill is extremely territorial. No one should ever approach its nest\u2014this is for their own safety. If angered, they will attack in a furious swarm.",
+            "It has three poisonous stingers on its forelegs and its tail. They are used to jab its enemy repeatedly.",
+            "Its best attack involves flying around at high speed, striking with poison needles, then flying off."
+        ],
+        "Mega Beedrill": [
+            "Its legs have become poison stingers. It stabs its prey repeatedly with the stingers on its limbs, dealing the final blow with the stinger on its rear."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131786705540759562/15.png",
+    "discord_sprite": "<:P15:1131972552240156752>"
+}

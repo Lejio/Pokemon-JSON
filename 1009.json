@@ -1,0 +1,140 @@
+{
+    "alt-version(s)": [],
+    "name": "Walking Wake",
+    "Walking Wake": {
+        "pokedex_data": {
+            "National No.": "1009",
+            "Type": [
+                "Water",
+                "Dragon"
+            ],
+            "Species": "Paradox Poke\u0301mon",
+            "Height": "3.5 m (11\u203206\u2032\u2032)",
+            "Weight": "280.0 kg (617.3 lbs)",
+            "Abilities": {
+                "Protosynthesis": {
+                    "href": "/ability/protosynthesis",
+                    "effect": "Raises highest stat in harsh sunlight, or if holding Booster Energy.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "\u2014",
+            "Catch rate": "\u2014",
+            "BaseFriendship": "\u2014",
+            "Base Exp.": "\u2014",
+            "Growth Rate": "\u2014"
+        },
+        "breeding_data": {
+            "Gender": "\u2014"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "99",
+                "Min": "308",
+                "Max": "402"
+            },
+            "Attack": {
+                "Base": "83",
+                "Min": "153",
+                "Max": "291"
+            },
+            "Defense": {
+                "Base": "91",
+                "Min": "168",
+                "Max": "309"
+            },
+            "Sp. Atk": {
+                "Base": "125",
+                "Min": "229",
+                "Max": "383"
+            },
+            "Sp. Def": {
+                "Base": "83",
+                "Min": "153",
+                "Max": "291"
+            },
+            "Speed": {
+                "Base": "109",
+                "Min": "200",
+                "Max": "348"
+            },
+            "Total": "590"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Dragon": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Aqua Jet": "1",
+            "Leer": "1",
+            "Roar": "1",
+            "Twister": "1",
+            "Bite": "7",
+            "Water Pulse": "14",
+            "Noble Roar": "21",
+            "Dragon Breath": "28",
+            "Breaking Swipe": "35",
+            "Dragon Rush": "42",
+            "Hydro Steam": "56",
+            "Dragon Pulse": "63",
+            "Outrage": "70",
+            "Flamethrower": "77",
+            "Hydro Pump": "84"
+        },
+        "reminder": {
+            "Hone Claws": "\u2014",
+            "Sunny Day": "\u2014"
+        },
+        "egg": null,
+        "tm": {
+            "Take Down": "01",
+            "Agility": "04",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Fire Fang": "08",
+            "Water Pulse": "11",
+            "Low Kick": "12",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Snarl": "30",
+            "Swift": "32",
+            "Mud Shot": "35",
+            "Dragon Tail": "44",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Waterfall": "77",
+            "Dragon Claw": "78",
+            "Rest": "85",
+            "Dragon Dance": "100",
+            "Substitute": "103",
+            "Crunch": "108",
+            "Liquidation": "110",
+            "Dragon Pulse": "115",
+            "Surf": "123",
+            "Flamethrower": "125",
+            "Hydro Pump": "142",
+            "Giga Impact": "152",
+            "Outrage": "156",
+            "Hurricane": "160",
+            "Hyper Beam": "163",
+            "Draco Meteor": "169",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {},
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131794471181369446/1009.png",
+    "discord_sprite": "<:P1009:1132157190657036318>"
+}

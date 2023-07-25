@@ -1,0 +1,162 @@
+{
+    "alt-version(s)": [],
+    "name": "Type: Null",
+    "Type: Null": {
+        "pokedex_data": {
+            "National No.": "0772",
+            "Type": [
+                "Normal"
+            ],
+            "Species": "Synthetic Poke\u0301mon",
+            "Height": "1.9 m (6\u203203\u2032\u2032)",
+            "Weight": "120.5 kg (265.7 lbs)",
+            "Abilities": {
+                "Battle Armor": {
+                    "href": "/ability/battle-armor",
+                    "effect": "The Pok\u00e9mon is protected against critical hits.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 HP",
+            "Catch rate": "3",
+            "BaseFriendship": "0",
+            "Base Exp.": "107",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "95",
+                "Min": "300",
+                "Max": "394"
+            },
+            "Attack": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Defense": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Sp. Atk": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Sp. Def": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Speed": {
+                "Base": "59",
+                "Min": "110",
+                "Max": "238"
+            },
+            "Total": "534"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Type:",
+                    "nationalNo": "#0772",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Silvally",
+                    "nationalNo": "#0773",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(high Friendship)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Imprison": "1",
+            "Tackle": "1",
+            "Aerial Ace": "5",
+            "Scary Face": "10",
+            "Double Hit": "15",
+            "Metal Sound": "20",
+            "Crush Claw": "25",
+            "Air Slash": "30",
+            "Tri Attack": "35",
+            "X-Scissor": "40",
+            "Iron Head": "45",
+            "Take Down": "50",
+            "Double-Edge": "55"
+        },
+        "egg": {
+            "Terrain Pulse": null
+        },
+        "null": {
+            "Swords Dance": "00",
+            "Tri Attack": "19",
+            "Substitute": "20",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Iron Defense": "46",
+            "Dragon Claw": "47",
+            "X-Scissor": "60",
+            "Iron Head": "74",
+            "Work Up": "85"
+        },
+        "tm": {
+            "Hyper Beam": "08",
+            "Giga Impact": "09",
+            "Thunder Wave": "14",
+            "Rest": "21",
+            "Rock Slide": "22",
+            "Snore": "24",
+            "Protect": "25",
+            "Scary Face": "26",
+            "Icy Wind": "27",
+            "Sandstorm": "32",
+            "Rain Dance": "33",
+            "Sunny Day": "34",
+            "Hail": "35",
+            "Facade": "39",
+            "Swift": "40",
+            "Imprison": "44",
+            "U-turn": "56",
+            "Payback": "57",
+            "Shadow Claw": "65",
+            "Round": "76",
+            "Air Slash": "95"
+        }
+    },
+    "entries": {
+        "Type: Null": [
+            "The heavy control mask it wears suppresses its intrinsic capabilities. This Pok\u00e9mon has some hidden special power.",
+            "Due to the danger that this synthetic Pok\u00e9mon may go on a rampage, it wears a control mask to restrain its power.",
+            "A Pok\u00e9mon weapon developed for a specific mission, it went berserk during an experiment, so it was cryogenically frozen.",
+            "There\u2019s danger of its going on a rampage, so its true power is sealed away beneath its control mask.",
+            "Rumor has it that the theft of top-secret research notes led to a new instance of this Pok\u00e9mon being created in the Galar region.",
+            "It was modeled after a mighty Pok\u00e9mon of myth. The mask placed upon it limits its power in order to keep it under control."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792627843473518/772.png",
+    "discord_sprite": "<:P772:1132146770177175583>"
+}

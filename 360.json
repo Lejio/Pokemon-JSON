@@ -1,0 +1,139 @@
+{
+    "alt-version(s)": [],
+    "name": "Wynaut",
+    "Wynaut": {
+        "pokedex_data": {
+            "National No.": "0360",
+            "Type": [
+                "Psychic"
+            ],
+            "Species": "Bright Poke\u0301mon",
+            "Height": "0.6 m (2\u203200\u2032\u2032)",
+            "Weight": "14.0 kg (30.9 lbs)",
+            "Abilities": {
+                "Shadow Tag": {
+                    "href": "/ability/shadow-tag",
+                    "effect": "Prevents the foe from escaping.",
+                    "hidden": false
+                },
+                "Telepathy": {
+                    "href": "/ability/telepathy",
+                    "effect": "Anticipates an ally's attack and dodges it.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 HP",
+            "Catch rate": "125",
+            "BaseFriendship": "50",
+            "Base Exp.": "52",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "95",
+                "Min": "300",
+                "Max": "394"
+            },
+            "Attack": {
+                "Base": "23",
+                "Min": "45",
+                "Max": "159"
+            },
+            "Defense": {
+                "Base": "48",
+                "Min": "90",
+                "Max": "214"
+            },
+            "Sp. Atk": {
+                "Base": "23",
+                "Min": "45",
+                "Max": "159"
+            },
+            "Sp. Def": {
+                "Base": "48",
+                "Min": "90",
+                "Max": "214"
+            },
+            "Speed": {
+                "Base": "23",
+                "Min": "45",
+                "Max": "159"
+            },
+            "Total": "260"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Wynaut",
+                    "nationalNo": "#0360",
+                    "type": [
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Wobbuffet",
+                    "nationalNo": "#0202",
+                    "type": [
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 15)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Amnesia": "1",
+            "Charm": "1",
+            "Counter": "1",
+            "Destiny Bond": "1",
+            "Encore": "1",
+            "Mirror Coat": "1",
+            "Safeguard": "1",
+            "Splash": "1"
+        },
+        "egg": null,
+        "tm": {
+            "Safeguard": "20"
+        }
+    },
+    "entries": {
+        "Wynaut": [
+            "WYNAUT can always be seen with a big, happy smile on its face. Look at its tail to determine if it is angry. When angered, this pok\u00e9mon will be slapping the ground with its tail.",
+            "WYNAUT gather on moonlit nights to play by squeezing up against each other. By being squeezed, this pok\u00e9mon gains endurance and is trained to dole out powerful counterattacks.",
+            "It tends to move in a pack with others. They cluster in a tight group to sleep in a cave.",
+            "A WYNAUT loves to eat sweet fruits. It cleverly picks fruits using its earlike arms. They gather in fruit gardens, drawn by the fragrance.",
+            "It grows strong by pushing up against others en masse. It loves eating sweet fruit.",
+            "It tends to move in a pack. Individuals squash against one another to toughen their spirits.",
+            "It grows strong by pushing up against others en masse. It loves eating sweet fruit.",
+            "It tends to move in a pack with others. They cluster in a tight group to sleep in a cave.",
+            "It grows strong by pushing up against others en masse. It loves eating sweet fruit.",
+            "Wynaut can always be seen with a big, happy smile on its face. Look at its tail to determine if it is angry. When angered, this Pok\u00e9mon will be slapping the ground with its tail.",
+            "Wynaut gather on moonlit nights to play by squeezing up against each other. By being squeezed, this Pok\u00e9mon gains endurance and is trained to dole out powerful counterattacks.",
+            "It tends to move in a pack. Individuals squash against one another to toughen their spirits.",
+            "It tends to move in a pack with others. They cluster in a tight group to sleep in a cave.",
+            "They grow strong by pushing up against one another en masse. They love eating sweet fruit."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789414092243054/360.png",
+    "discord_sprite": "<:P360:1132128578037882920>"
+}

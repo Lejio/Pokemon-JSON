@@ -1,0 +1,209 @@
+{
+    "alt-version(s)": [],
+    "name": "Cofagrigus",
+    "Cofagrigus": {
+        "pokedex_data": {
+            "National No.": "0563",
+            "Type": [
+                "Ghost"
+            ],
+            "Species": "Coffin Poke\u0301mon",
+            "Height": "1.7 m (5\u203207\u2032\u2032)",
+            "Weight": "76.5 kg (168.7 lbs)",
+            "Abilities": {
+                "Mummy": {
+                    "href": "/ability/mummy",
+                    "effect": "Contact with this Pok\u00e9mon spreads this Ability.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Defense",
+            "Catch rate": "90",
+            "BaseFriendship": "50",
+            "Base Exp.": "169",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "58",
+                "Min": "226",
+                "Max": "320"
+            },
+            "Attack": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Defense": {
+                "Base": "145",
+                "Min": "265",
+                "Max": "427"
+            },
+            "Sp. Atk": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Sp. Def": {
+                "Base": "105",
+                "Min": "193",
+                "Max": "339"
+            },
+            "Speed": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Total": "483"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "no effect",
+                "Fighting": "no effect",
+                "Poison": "not very effective",
+                "Bug": "not very effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Yamask",
+                    "nationalNo": "#0562",
+                    "type": [
+                        "Ghost"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Cofagrigus",
+                    "nationalNo": "#0563",
+                    "type": [
+                        "Ghost"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 34)",
+                "shed": null
+            }
+        ],
+        [
+            {
+                "from": {
+                    "name": "Yamask",
+                    "nationalNo": "#0562",
+                    "type": [
+                        "Ground",
+                        "Ghost"
+                    ],
+                    "nickname": "Galarian Yamask"
+                },
+                "to": {
+                    "name": "Runerigus",
+                    "nationalNo": "#0867",
+                    "type": [
+                        "Ground",
+                        "Ghost"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(near Dusty Bowl)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Astonish": "1",
+            "Haze": "1",
+            "Night Shade": "1",
+            "Protect": "1",
+            "Scary Face": "1",
+            "Shadow Claw": "1",
+            "Disable": "12",
+            "Will-O-Wisp": "16",
+            "Crafty Shield": "20",
+            "Hex": "24",
+            "Mean Look": "28",
+            "Grudge": "32",
+            "Curse": "38",
+            "Shadow Ball": "44",
+            "Dark Pulse": "50",
+            "Guard Split": "56",
+            "Power Split": "56",
+            "Destiny Bond": "62"
+        },
+        "evolution": {
+            "Shadow Claw": "70"
+        },
+        "egg": {
+            "Memento": null
+        },
+        "null": {
+            "Psychic": "11",
+            "Substitute": "20",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Shadow Ball": "33",
+            "Trick": "38",
+            "Skill Swap": "40",
+            "Iron Defense": "46",
+            "Calm Mind": "49",
+            "Toxic Spikes": "54",
+            "Dark Pulse": "58",
+            "Energy Ball": "65",
+            "Nasty Plot": "68",
+            "Zen Headbutt": "69",
+            "Grass Knot": "77",
+            "Ally Switch": "83",
+            "Body Press": "99"
+        },
+        "tm": {
+            "Hyper Beam": "08",
+            "Giga Impact": "09",
+            "Safeguard": "19",
+            "Rest": "21",
+            "Thief": "23",
+            "Snore": "24",
+            "Protect": "25",
+            "Scary Face": "26",
+            "Attract": "31",
+            "Rain Dance": "33",
+            "Will-O-Wisp": "38",
+            "Facade": "39",
+            "Revenge": "42",
+            "Imprison": "44",
+            "Fake Tears": "47",
+            "Payback": "57",
+            "Power Swap": "60",
+            "Guard Swap": "61",
+            "Shadow Claw": "65",
+            "Trick Room": "70",
+            "Wonder Room": "71",
+            "Round": "76",
+            "Hex": "77",
+            "Phantom Force": "86"
+        }
+    },
+    "entries": {
+        "Cofagrigus": [
+            "It has been said that they swallow those who get too close and turn them into mummies. They like to eat gold nuggets.",
+            "They pretend to be elaborate coffins to teach lessons to grave robbers. Their bodies are covered in pure gold.",
+            "Grave robbers who mistake them for real coffins and get too close end up trapped inside their bodies.",
+            "It has been said that they swallow those who get too close and turn them into mummies. They like to eat gold nuggets.",
+            "Grave robbers who mistake them for real coffins and get too close end up trapped inside their bodies.",
+            "This Pok\u00e9mon has a body of sparkling gold. People say it no longer remembers that it was once human.",
+            "There are many depictions of Cofagrigus decorating ancient tombs. They\u2019re symbols of the wealth that kings of bygone eras had."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790989263118377/563.png",
+    "discord_sprite": "<:P563:1132137511980892271>"
+}

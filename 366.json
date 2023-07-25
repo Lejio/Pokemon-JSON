@@ -1,0 +1,179 @@
+{
+    "alt-version(s)": [],
+    "name": "Clamperl",
+    "Clamperl": {
+        "pokedex_data": {
+            "National No.": "0366",
+            "Type": [
+                "Water"
+            ],
+            "Species": "Bivalve Poke\u0301mon",
+            "Height": "0.4 m (1\u203204\u2032\u2032)",
+            "Weight": "52.5 kg (115.7 lbs)",
+            "Abilities": {
+                "Shell Armor": {
+                    "href": "/ability/shell-armor",
+                    "effect": "The Pok\u00e9mon is protected against critical hits.",
+                    "hidden": false
+                },
+                "Rattled": {
+                    "href": "/ability/rattled",
+                    "effect": "Bug, Ghost or Dark type moves scare it and boost its Speed.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Defense",
+            "Catch rate": "255",
+            "BaseFriendship": "50",
+            "Base Exp.": "69",
+            "Growth Rate": "Erratic"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "35",
+                "Min": "180",
+                "Max": "274"
+            },
+            "Attack": {
+                "Base": "64",
+                "Min": "119",
+                "Max": "249"
+            },
+            "Defense": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Sp. Atk": {
+                "Base": "74",
+                "Min": "137",
+                "Max": "271"
+            },
+            "Sp. Def": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Speed": {
+                "Base": "32",
+                "Min": "62",
+                "Max": "179"
+            },
+            "Total": "345"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Clamperl",
+                    "nationalNo": "#0366",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Huntail",
+                    "nationalNo": "#0367",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(trade holding Deep Sea Tooth)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Clamperl",
+                    "nationalNo": "#0366",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Gorebyss",
+                    "nationalNo": "#0368",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(trade holding Deep Sea Scale)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Iron Defense": "1",
+            "Water Gun": "1",
+            "Whirlpool": "1",
+            "Shell Smash": "50"
+        },
+        "egg": {
+            "Aqua Ring": null,
+            "Body Slam": null,
+            "Confuse Ray": null,
+            "Muddy Water": null,
+            "Supersonic": null
+        },
+        "tm": {
+            "Water Pulse": "03",
+            "Hail": "07",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Double Team": "32",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Scald": "49",
+            "Brine": "55",
+            "Endure": "58",
+            "Sleep Talk": "82",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Surf": "95",
+            "Waterfall": "99"
+        }
+    },
+    "entries": {
+        "Clamperl": [
+            "CLAMPERL\u2019s sturdy shell is not only good for protection - it is also used for clamping and catching prey. A fully grown CLAMPERL\u2019s shell will be scored with nicks and scratches all over.",
+            "CLAMPERL grows while being protected by its rock-hard shell. When its body becomes too large to fit inside the shell, it is sure evidence that this pok\u00e9mon is getting close to evolution.",
+            "It is protected by a sturdy shell. Once in a lifetime, it makes a magnificent pearl.",
+            "A CLAMPERL slams its shell closed on prey to prevent escape. The pearl it creates upon evolution is said to be infused with a mysterious energy.",
+            "It makes a single pearl during its lifetime. The pearl is said to amplify psychic power.",
+            "When it evolves, it makes a mysterious pearl that amplifies psychic powers when it\u2019s held.",
+            "It makes a single pearl during its lifetime. The pearl is said to amplify psychic power.",
+            "When it evolves, it makes a mysterious pearl that amplifies psychic powers when it\u2019s held.",
+            "It is protected by a sturdy shell. Once in a lifetime, it makes a magnificent pearl.",
+            "Clamperl\u2019s sturdy shell is not only good for protection\u2014it is also used for clamping and catching prey. A fully grown Clamperl\u2019s shell will be scored with nicks and scratches all over.",
+            "Clamperl grows while being protected by its rock-hard shell. When its body becomes too large to fit inside the shell, it is sure evidence that this Pok\u00e9mon is getting close to evolution.",
+            "Despite its appearance, it\u2019s carnivorous. It clamps down on its prey with both sides of its shell and doesn\u2019t let go until they stop moving.",
+            "Clamperl\u2019s pearls are exceedingly precious. They can be more than 10 times as costly as Shellder\u2019s pearls.",
+            "It makes a single pearl during its lifetime. The pearl is said to amplify psychic power."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789459617235104/366.png",
+    "discord_sprite": "<:P366:1132128839749881886>"
+}

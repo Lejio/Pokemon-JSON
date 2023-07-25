@@ -1,0 +1,260 @@
+{
+    "alt-version(s)": [
+        "Mega Rayquaza"
+    ],
+    "name": "Rayquaza",
+    "Rayquaza": {
+        "pokedex_data": {
+            "National No.": "0384",
+            "Type": [
+                "Dragon",
+                "Flying"
+            ],
+            "Species": "Sky High Poke\u0301mon",
+            "Height": "7.0 m (23\u203200\u2032\u2032)",
+            "Weight": "206.5 kg (455.3 lbs)",
+            "Abilities": {
+                "Air Lock": {
+                    "href": "/ability/air-lock",
+                    "effect": "Eliminates the effects of weather.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack, 1 Sp. Atk",
+            "Catch rate": "45",
+            "BaseFriendship": "0",
+            "Base Exp.": "340",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "105",
+                "Min": "320",
+                "Max": "414"
+            },
+            "Attack": {
+                "Base": "150",
+                "Min": "274",
+                "Max": "438"
+            },
+            "Defense": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Sp. Atk": {
+                "Base": "150",
+                "Min": "274",
+                "Max": "438"
+            },
+            "Sp. Def": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Speed": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Total": "680"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Ground": "no effect",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Dragon": "super-effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "Mega Rayquaza": {
+        "pokedex_data": {
+            "National No.": "0384",
+            "Type": [
+                "Dragon",
+                "Flying"
+            ],
+            "Species": "Sky High Poke\u0301mon",
+            "Height": "10.8 m (35\u203205\u2032\u2032)",
+            "Weight": "392.0 kg (864.2 lbs)",
+            "Abilities": {
+                "Delta Stream": {
+                    "href": "/ability/delta-stream",
+                    "effect": "Creates strong winds when the ability activates.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack, 1 Sp. Atk",
+            "Catch rate": "3",
+            "BaseFriendship": "0",
+            "Base Exp.": "351",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "105",
+                "Min": "320",
+                "Max": "414"
+            },
+            "Attack": {
+                "Base": "180",
+                "Min": "328",
+                "Max": "504"
+            },
+            "Defense": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Sp. Atk": {
+                "Base": "180",
+                "Min": "328",
+                "Max": "504"
+            },
+            "Sp. Def": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Speed": {
+                "Base": "115",
+                "Min": "211",
+                "Max": "361"
+            },
+            "Total": "780"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Ground": "no effect",
+                "Bug": "not very effective",
+                "Dragon": "super-effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Air Slash": "1",
+            "Ancient Power": "1",
+            "Dragon Ascent": "1",
+            "Scary Face": "1",
+            "Twister": "1",
+            "Crunch": "9",
+            "Dragon Dance": "18",
+            "Extreme Speed": "27",
+            "Dragon Pulse": "36",
+            "Hyper Voice": "45",
+            "Rest": "54",
+            "Fly": "63",
+            "Hurricane": "72",
+            "Outrage": "81",
+            "Hyper Beam": "90"
+        },
+        "egg": null,
+        "tm": {
+            "Take Down": "01",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Bulldoze": "28",
+            "Swift": "32",
+            "Icy Wind": "34",
+            "Rock Tomb": "36",
+            "Fling": "43",
+            "Dragon Tail": "44",
+            "Avalanche": "46",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Sandstorm": "51",
+            "Brick Break": "58",
+            "U-turn": "60",
+            "Shadow Claw": "61",
+            "Bulk Up": "64",
+            "Air Slash": "65",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Waterfall": "77",
+            "Dragon Claw": "78",
+            "Thunder Wave": "82",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Swords Dance": "88",
+            "Fly": "97",
+            "Iron Head": "99",
+            "Dragon Dance": "100",
+            "Substitute": "103",
+            "Crunch": "108",
+            "Tailwind": "113",
+            "Dragon Pulse": "115",
+            "Stealth Rock": "116",
+            "Hyper Voice": "117",
+            "Energy Ball": "119",
+            "Surf": "123",
+            "Flamethrower": "125",
+            "Thunderbolt": "126",
+            "Helping Hand": "130",
+            "Earth Power": "133",
+            "Ice Beam": "135",
+            "Fire Blast": "141",
+            "Hydro Pump": "142",
+            "Blizzard": "143",
+            "Wild Charge": "147",
+            "Earthquake": "149",
+            "Stone Edge": "150",
+            "Giga Impact": "152",
+            "Outrage": "156",
+            "Overheat": "157",
+            "Focus Blast": "158",
+            "Hurricane": "160",
+            "Hyper Beam": "163",
+            "Thunder": "166",
+            "Solar Beam": "168",
+            "Draco Meteor": "169",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Rayquaza": [
+            "RAYQUAZA lived for hundreds of millions of years in the earth\u2019s ozone layer, never descending to the ground. This pok\u00e9mon appears to feed on water and particles in the atmosphere.",
+            "RAYQUAZA is said to have lived for hundreds of millions of years in the earth\u2019s ozone layer, above the clouds. Its existence had been completely unknown because it lived so high in the sky.",
+            "It has lived for hundreds of millions of years in the ozone layer. Its flying form looks like a meteor.",
+            "A pok\u00e9mon that flies endlessly in the ozone layer. It is said it would descend to the ground if KYOGRE and GROUDON were to fight.",
+            "It lives in the ozone layer far above the clouds and cannot be seen from the ground.",
+            "It flies in the ozone layer, way up high in the sky. Until recently, no one had ever seen it.",
+            "It lives in the ozone layer far above the clouds and cannot be seen from the ground.",
+            "It lives in the ozone layer far above the clouds and cannot be seen from the ground.",
+            "It flies in the ozone layer, way up high in the sky. Until recently, no one had ever seen it.",
+            "Rayquaza is said to have lived for hundreds of millions of years. Legends remain of how it put to rest the clash between Kyogre and Groudon.",
+            "It flies forever through the ozone layer, consuming meteoroids for sustenance. The many meteoroids in its body provide the energy it needs to Mega Evolve.",
+            "It lives in the ozone layer far above the clouds and cannot be seen from the ground."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789600487133224/384.png",
+    "discord_sprite": "<:P384:1132129629759606835>"
+}

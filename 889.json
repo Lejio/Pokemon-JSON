@@ -1,0 +1,234 @@
+{
+    "alt-version(s)": [
+        "Hero of Many Battles",
+        "Crowned Shield"
+    ],
+    "Hero of Many Battles": {
+        "pokedex_data": {
+            "National No.": "0889",
+            "Type": [
+                "Fighting"
+            ],
+            "Species": "Warrior Poke\u0301mon",
+            "Height": "2.9 m (9\u203206\u2032\u2032)",
+            "Weight": "210.0 kg (463.0 lbs)",
+            "Abilities": {
+                "Dauntless Shield": {
+                    "href": "/ability/dauntless-shield",
+                    "effect": "Boosts Defense in battle.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Speed",
+            "Catch rate": "10",
+            "BaseFriendship": "0",
+            "Base Exp.": "330",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "92",
+                "Min": "294",
+                "Max": "388"
+            },
+            "Attack": {
+                "Base": "120",
+                "Min": "220",
+                "Max": "372"
+            },
+            "Defense": {
+                "Base": "115",
+                "Min": "211",
+                "Max": "361"
+            },
+            "Sp. Atk": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Sp. Def": {
+                "Base": "115",
+                "Min": "211",
+                "Max": "361"
+            },
+            "Speed": {
+                "Base": "138",
+                "Min": "252",
+                "Max": "412"
+            },
+            "Total": "660"
+        },
+        "defense_stats": {
+            "default": {
+                "Flying": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Dark": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "Crowned Shield": {
+        "pokedex_data": {
+            "National No.": "0889",
+            "Type": [
+                "Fighting",
+                "Steel"
+            ],
+            "Species": "Warrior Poke\u0301mon",
+            "Height": "2.9 m (9\u203206\u2032\u2032)",
+            "Weight": "785.0 kg (1730.6 lbs)",
+            "Abilities": {
+                "Dauntless Shield": {
+                    "href": "/ability/dauntless-shield",
+                    "effect": "Boosts Defense in battle.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Speed",
+            "Catch rate": "10",
+            "BaseFriendship": "0",
+            "Base Exp.": "350",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "92",
+                "Min": "294",
+                "Max": "388"
+            },
+            "Attack": {
+                "Base": "120",
+                "Min": "220",
+                "Max": "372"
+            },
+            "Defense": {
+                "Base": "140",
+                "Min": "256",
+                "Max": "416"
+            },
+            "Sp. Atk": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Sp. Def": {
+                "Base": "140",
+                "Min": "256",
+                "Max": "416"
+            },
+            "Speed": {
+                "Base": "128",
+                "Min": "234",
+                "Max": "390"
+            },
+            "Total": "700"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Fire": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Poison": "no effect",
+                "Ground": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Dragon": "not very effective",
+                "Dark": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Bite": "1",
+            "Howl": "1",
+            "Metal Claw": "1",
+            "Quick Attack": "1",
+            "Wide Guard": "1",
+            "Slash": "11",
+            "Iron Defense": "22",
+            "Iron Head": "33",
+            "Metal Burst": "44",
+            "Crunch": "55",
+            "Moonblast": "66",
+            "Close Combat": "77",
+            "Giga Impact": "88"
+        },
+        "egg": null,
+        "tm": {
+            "Take Down": "01",
+            "Agility": "04",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Fire Fang": "08",
+            "Thunder Fang": "09",
+            "Ice Fang": "10",
+            "Trailblaze": "20",
+            "Facade": "25",
+            "Snarl": "30",
+            "Metal Claw": "31",
+            "Swift": "32",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Sandstorm": "51",
+            "Dig": "55",
+            "Brick Break": "58",
+            "Psychic Fangs": "63",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Reflect": "74",
+            "Light Screen": "75",
+            "Dazzling Gleam": "79",
+            "Rest": "85",
+            "Body Press": "89",
+            "Imprison": "92",
+            "Flash Cannon": "93",
+            "Iron Head": "99",
+            "Substitute": "103",
+            "Iron Defense": "104",
+            "Crunch": "108",
+            "Hyper Voice": "117",
+            "Heavy Slam": "121",
+            "Play Rough": "127",
+            "Helping Hand": "130",
+            "Reversal": "134",
+            "Wild Charge": "147",
+            "Stone Edge": "150",
+            "Giga Impact": "152",
+            "Focus Blast": "158",
+            "Hyper Beam": "163",
+            "Close Combat": "167",
+            "Solar Beam": "168",
+            "Steel Beam": "170",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Hero of Many Battles": [
+            "In times past, it worked together with a king of the people to save the Galar region. It absorbs metal that it then uses in battle.",
+            "This Pok\u00e9mon slept for aeons while in the form of a statue. It was asleep for so long, people forgot that it ever existed."
+        ],
+        "Crowned Shield": [
+            "Its ability to deflect any attack led to it being known as the Fighting Master\u2019s Shield. It was feared and respected by all.",
+            "Now that it\u2019s equipped with its shield, it can shrug off impressive blows, including the attacks of Dynamax Pok\u00e9mon."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793535692189856/889.png",
+    "discord_sprite": "<:P889:1132151918681141319>"
+}

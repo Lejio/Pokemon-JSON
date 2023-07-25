@@ -1,0 +1,137 @@
+{
+    "alt-version(s)": [],
+    "name": "Spectrier",
+    "Spectrier": {
+        "pokedex_data": {
+            "National No.": "0897",
+            "Type": [
+                "Ghost"
+            ],
+            "Species": "Swift Horse Poke\u0301mon",
+            "Height": "2.0 m (6\u203207\u2032\u2032)",
+            "Weight": "44.5 kg (98.1 lbs)",
+            "Abilities": {
+                "Grim Neigh": {
+                    "href": "/ability/grim-neigh",
+                    "effect": "Boosts Special Attack after knocking out a Pok\u00e9mon.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Sp. Atk",
+            "Catch rate": "3",
+            "BaseFriendship": "35",
+            "Base Exp.": "290",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "100",
+                "Min": "310",
+                "Max": "404"
+            },
+            "Attack": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Defense": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Atk": {
+                "Base": "145",
+                "Min": "265",
+                "Max": "427"
+            },
+            "Sp. Def": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Speed": {
+                "Base": "130",
+                "Min": "238",
+                "Max": "394"
+            },
+            "Total": "580"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "no effect",
+                "Fighting": "no effect",
+                "Poison": "not very effective",
+                "Bug": "not very effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Tackle": "1",
+            "Tail Whip": "1",
+            "Double Kick": "6",
+            "Hex": "12",
+            "Stomp": "18",
+            "Confuse Ray": "24",
+            "Haze": "30",
+            "Shadow Ball": "36",
+            "Take Down": "42",
+            "Agility": "48",
+            "Thrash": "54",
+            "Disable": "60",
+            "Double-Edge": "66",
+            "Nasty Plot": "72"
+        },
+        "egg": null,
+        "tm": {
+            "Take Down": "01",
+            "Agility": "04",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Confuse Ray": "17",
+            "Facade": "25",
+            "Bulldoze": "28",
+            "Hex": "29",
+            "Snarl": "30",
+            "Swift": "32",
+            "Mud Shot": "35",
+            "Draining Kiss": "37",
+            "Night Shade": "42",
+            "Endure": "47",
+            "Foul Play": "62",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Taunt": "87",
+            "Dark Pulse": "94",
+            "Substitute": "103",
+            "Will-O-Wisp": "107",
+            "Crunch": "108",
+            "Shadow Ball": "114",
+            "Psychic": "120",
+            "Calm Mind": "129",
+            "Nasty Plot": "140",
+            "Phantom Force": "151",
+            "Giga Impact": "152",
+            "Hyper Beam": "163",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Spectrier": [
+            "It probes its surroundings with all its senses save one\u2014it doesn\u2019t use its sense of sight. Spectrier\u2019s kicks are said to separate soul from body.",
+            "As it dashes through the night, Spectrier absorbs the life-force of sleeping creatures. It craves silence and solitude."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793596304076911/897.png",
+    "discord_sprite": "<:P897:1132152271128510585>"
+}

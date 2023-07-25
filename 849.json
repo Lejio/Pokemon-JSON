@@ -1,0 +1,307 @@
+{
+    "alt-version(s)": [
+        "Amped Form",
+        "Low Key Form"
+    ],
+    "Amped Form": {
+        "pokedex_data": {
+            "National No.": "0849",
+            "Type": [
+                "Electric",
+                "Poison"
+            ],
+            "Species": "Punk Poke\u0301mon",
+            "Height": "1.6 m (5\u203203\u2032\u2032)",
+            "Weight": "40.0 kg (88.2 lbs)",
+            "Abilities": {
+                "Punk Rock": {
+                    "href": "/ability/punk-rock",
+                    "effect": "Boosts sound-based moves and halves damage from the same moves.",
+                    "hidden": false
+                },
+                "Plus": {
+                    "href": "/ability/plus",
+                    "effect": "Ups Sp. Atk if another Pok\u00e9mon has Plus or Minus.",
+                    "hidden": false
+                },
+                "Technician": {
+                    "href": "/ability/technician",
+                    "effect": "Powers up the Pok\u00e9mon's weaker moves.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Sp. Atk",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "176",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "75",
+                "Min": "260",
+                "Max": "354"
+            },
+            "Attack": {
+                "Base": "98",
+                "Min": "180",
+                "Max": "324"
+            },
+            "Defense": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Atk": {
+                "Base": "114",
+                "Min": "209",
+                "Max": "359"
+            },
+            "Sp. Def": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Speed": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Total": "502"
+        },
+        "defense_stats": {
+            "default": {
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Fighting": "not very effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "Low Key Form": {
+        "pokedex_data": {
+            "National No.": "0849",
+            "Type": [
+                "Electric",
+                "Poison"
+            ],
+            "Species": "Punk Poke\u0301mon",
+            "Height": "1.6 m (5\u203203\u2032\u2032)",
+            "Weight": "40.0 kg (88.2 lbs)",
+            "Abilities": {
+                "Punk Rock": {
+                    "href": "/ability/punk-rock",
+                    "effect": "Boosts sound-based moves and halves damage from the same moves.",
+                    "hidden": false
+                },
+                "Minus": {
+                    "href": "/ability/minus",
+                    "effect": "Ups Sp. Atk if another Pok\u00e9mon has Plus or Minus.",
+                    "hidden": false
+                },
+                "Technician": {
+                    "href": "/ability/technician",
+                    "effect": "Powers up the Pok\u00e9mon's weaker moves.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Sp. Atk",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "176",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "75",
+                "Min": "260",
+                "Max": "354"
+            },
+            "Attack": {
+                "Base": "98",
+                "Min": "180",
+                "Max": "324"
+            },
+            "Defense": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Atk": {
+                "Base": "114",
+                "Min": "209",
+                "Max": "359"
+            },
+            "Sp. Def": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Speed": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Total": "502"
+        },
+        "defense_stats": {
+            "default": {
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Fighting": "not very effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Toxel",
+                    "nationalNo": "#0848",
+                    "type": [
+                        "Electric",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Toxtricity",
+                    "nationalNo": "#0849",
+                    "type": [
+                        "Electric",
+                        "Poison"
+                    ],
+                    "nickname": "Amped Form"
+                },
+                "requirement": "(Level 30, with an amped Nature)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Toxel",
+                    "nationalNo": "#0848",
+                    "type": [
+                        "Electric",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Toxtricity",
+                    "nationalNo": "#0849",
+                    "type": [
+                        "Electric",
+                        "Poison"
+                    ],
+                    "nickname": "Low Key Form"
+                },
+                "requirement": "(Level 30, with a low key Nature)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Spark": "65"
+        },
+        "evolution": {
+            "Spark": "65"
+        },
+        "egg": {
+            "Endeavor": null,
+            "Metal Sound": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Charm": "02",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Thunder Fang": "09",
+            "Acid Spray": "13",
+            "Thief": "18",
+            "Trailblaze": "20",
+            "Charge Beam": "23",
+            "Facade": "25",
+            "Poison Tail": "26",
+            "Hex": "29",
+            "Snarl": "30",
+            "Swift": "32",
+            "Stored Power": "41",
+            "Fling": "43",
+            "Venoshock": "45",
+            "Endure": "47",
+            "Volt Switch": "48",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Brick Break": "58",
+            "Fire Punch": "67",
+            "Thunder Punch": "68",
+            "Sleep Talk": "70",
+            "Electro Ball": "72",
+            "Drain Punch": "73",
+            "Metronome": "80",
+            "Thunder Wave": "82",
+            "Poison Jab": "83",
+            "Rest": "85",
+            "Taunt": "87",
+            "Toxic Spikes": "91",
+            "Eerie Impulse": "96",
+            "Gunk Shot": "102",
+            "Substitute": "103",
+            "Hyper Voice": "117",
+            "Encore": "122",
+            "Thunderbolt": "126",
+            "Helping Hand": "130",
+            "Electric Terrain": "136",
+            "Wild Charge": "147",
+            "Sludge Bomb": "148",
+            "Giga Impact": "152",
+            "Hyper Beam": "163",
+            "Thunder": "166",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Amped Form": [
+            "When this Pok\u00e9mon sounds as if it\u2019s strumming a guitar, it\u2019s actually clawing at the protrusions on its chest to generate electricity.",
+            "This short-tempered and aggressive Pok\u00e9mon chugs stagnant water to absorb any toxins it might contain.",
+            "As it scatters toxic sweat and emits electricity, a melody that sounds like it came from a guitar reverberates through the surrounding area.",
+            "The jolts of electricity it launches by violently strumming the protrusions on its chest easily exceed 15,000 volts."
+        ],
+        "Low Key Form": [
+            "Capable of generating 15,000 volts of electricity, this Pok\u00e9mon looks down on all that would challenge it.",
+            "It has an electrical organ on its chest. While generating electricity, it fills its surroundings with what sounds like the strumming of a bass guitar.",
+            "Many youths admire the way this Pok\u00e9mon listlessly picks fights and keeps its cool no matter what opponent it faces.",
+            "As it gulps down stagnant water and generates electricity in its body, a sound like a rhythm played by a bass guitar reverberates all around."
+        ],
+        "Gigantamax": [
+            "Its excessive electric energy is its weapon. This Pok\u00e9mon can build up more electricity than any thundercloud.",
+            "Out of control after its own poison penetrated its brain, it tears across the land in a rampage, contaminating the earth with toxic sweat."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793220523802705/849.png",
+    "discord_sprite": "<:P849:1132150156888903702>"
+}

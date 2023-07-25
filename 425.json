@@ -1,0 +1,207 @@
+{
+    "alt-version(s)": [],
+    "name": "Drifloon",
+    "Drifloon": {
+        "pokedex_data": {
+            "National No.": "0425",
+            "Type": [
+                "Ghost",
+                "Flying"
+            ],
+            "Species": "Balloon Poke\u0301mon",
+            "Height": "0.4 m (1\u203204\u2032\u2032)",
+            "Weight": "1.2 kg (2.6 lbs)",
+            "Abilities": {
+                "Aftermath": {
+                    "href": "/ability/aftermath",
+                    "effect": "Damages the attacker landing the finishing hit.",
+                    "hidden": false
+                },
+                "Unburden": {
+                    "href": "/ability/unburden",
+                    "effect": "Raises Speed if a held item is used.",
+                    "hidden": false
+                },
+                "Flare Boost": {
+                    "href": "/ability/flare-boost",
+                    "effect": "Powers up special attacks when burned.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 HP",
+            "Catch rate": "125",
+            "BaseFriendship": "50",
+            "Base Exp.": "70",
+            "Growth Rate": "Fluctuating"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "90",
+                "Min": "290",
+                "Max": "384"
+            },
+            "Attack": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Defense": {
+                "Base": "34",
+                "Min": "65",
+                "Max": "183"
+            },
+            "Sp. Atk": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Def": {
+                "Base": "44",
+                "Min": "83",
+                "Max": "205"
+            },
+            "Speed": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Total": "348"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "no effect",
+                "Electric": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "no effect",
+                "Poison": "not very effective",
+                "Ground": "no effect",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Drifloon",
+                    "nationalNo": "#0425",
+                    "type": [
+                        "Ghost",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Drifblim",
+                    "nationalNo": "#0426",
+                    "type": [
+                        "Ghost",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 28)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Astonish": "1",
+            "Minimize": "1",
+            "Gust": "4",
+            "Focus Energy": "8",
+            "Payback": "12",
+            "Hex": "16",
+            "Shadow Ball": "20",
+            "Spit Up": "24",
+            "Stockpile": "24",
+            "Swallow": "24",
+            "Self-Destruct": "29",
+            "Destiny Bond": "32",
+            "Baton Pass": "36",
+            "Tailwind": "40",
+            "Explosion": "44"
+        },
+        "egg": {
+            "Clear Smog": null,
+            "Defog": null,
+            "Disable": null,
+            "Haze": null,
+            "Hypnosis": null,
+            "Memento": null
+        },
+        "tm": {
+            "Protect": "07",
+            "Acrobatics": "14",
+            "Psybeam": "16",
+            "Thief": "18",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Hex": "29",
+            "Swift": "32",
+            "Icy Wind": "34",
+            "Air Cutter": "40",
+            "Stored Power": "41",
+            "Night Shade": "42",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Sleep Talk": "70",
+            "Thunder Wave": "82",
+            "Rest": "85",
+            "Imprison": "92",
+            "Fly": "97",
+            "Skill Swap": "98",
+            "Substitute": "103",
+            "Will-O-Wisp": "107",
+            "Trick": "109",
+            "Tailwind": "113",
+            "Shadow Ball": "114",
+            "Psychic": "120",
+            "Thunderbolt": "126",
+            "Amnesia": "128",
+            "Calm Mind": "129",
+            "Helping Hand": "130",
+            "Baton Pass": "132",
+            "Phantom Force": "151",
+            "Trick Room": "161",
+            "Thunder": "166",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Drifloon": [
+            "A Pok\u00e9mon formed by the spirits of people and Pok\u00e9mon. It loves damp, humid seasons.",
+            "It tugs on the hands of children to steal them away. However, it gets pulled around instead.",
+            "Because of the way it floats aimlessly, an old folktale calls it a \u201cSignpost for Wandering Spirits.\u201d",
+            "It is whispered that any child who mistakes DRIFLOON for a balloon and holds on to it could wind up missing.",
+            "Because of the way it floats aimlessly, an old folktale calls it a \u201cSignpost for Wandering Spirits.\u201d",
+            "These Pok\u00e9mon are called the \u201cSignpost for Wandering Spirits.\u201d Children holding them sometimes vanish.",
+            "A Pok\u00e9mon formed by the spirits of people and Pok\u00e9mon. It loves damp, humid seasons.",
+            "These Pok\u00e9mon are called the \u201cSignpost for Wandering Spirits.\u201d Children holding them sometimes vanish.",
+            "Stories go that it grabs the hands of small children and drags them away to the afterlife. It dislikes heavy children.",
+            "If for some reason its body bursts, its soul spills out with a screaming sound.",
+            "Its round body is stuffed with souls and expands each time it leads someone away.",
+            "Wandering souls gathered together to form this Pok\u00e9mon. When trying to make friends with children, Drifloon grabs them by the hand.",
+            "Perhaps seeking company, it approaches children. However, it often quickly runs away again when the children play too roughly with it.",
+            "The gathering of many souls gave rise to this Pok\u00e9mon. During humid seasons, they seem to appear in abundance.",
+            "It is a Pok\u00e9mon formed by the spirits of people and Pok\u00e9mon. It loves damp, humid seasons.",
+            "It tugs on the hands of children to spirit them away. However, it gets pulled around instead.",
+            "Said to lure away young children and carry them off to the afterlife. Some whisper that Drifloon are formed of reincarnated human souls, but these rumors are as yet unconfirmed.",
+            "It is whispered that any child who mistakes Drifloon for a balloon and holds on to it could wind up missing.",
+            "Because of the way it floats aimlessly, an old folktale calls it a \u201csignpost for wandering spirits.\u201d"
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789915181563995/425.png",
+    "discord_sprite": "<:P425:1132131433260011520>"
+}

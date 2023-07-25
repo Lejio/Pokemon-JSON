@@ -1,0 +1,193 @@
+{
+    "alt-version(s)": [],
+    "name": "Bergmite",
+    "Bergmite": {
+        "pokedex_data": {
+            "National No.": "0712",
+            "Type": [
+                "Ice"
+            ],
+            "Species": "Ice Chunk Poke\u0301mon",
+            "Height": "1.0 m (3\u203203\u2032\u2032)",
+            "Weight": "99.5 kg (219.4 lbs)",
+            "Abilities": {
+                "Own Tempo": {
+                    "href": "/ability/own-tempo",
+                    "effect": "Prevents the Pok\u00e9mon from becoming confused.",
+                    "hidden": false
+                },
+                "Ice Body": {
+                    "href": "/ability/ice-body",
+                    "effect": "The Pok\u00e9mon gradually regains HP in a hailstorm.",
+                    "hidden": false
+                },
+                "Sturdy": {
+                    "href": "/ability/sturdy",
+                    "effect": "It cannot be knocked out with one hit.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Defense",
+            "Catch rate": "190",
+            "BaseFriendship": "50",
+            "Base Exp.": "61",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "55",
+                "Min": "220",
+                "Max": "314"
+            },
+            "Attack": {
+                "Base": "69",
+                "Min": "128",
+                "Max": "260"
+            },
+            "Defense": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Sp. Atk": {
+                "Base": "32",
+                "Min": "62",
+                "Max": "179"
+            },
+            "Sp. Def": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Speed": {
+                "Base": "28",
+                "Min": "54",
+                "Max": "170"
+            },
+            "Total": "304"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Rock": "super-effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Bergmite",
+                    "nationalNo": "#0712",
+                    "type": [
+                        "Ice"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Avalugg",
+                    "nationalNo": "#0713",
+                    "type": [
+                        "Ice"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 37)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Bergmite",
+                    "nationalNo": "#0712",
+                    "type": [
+                        "Ice"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Avalugg",
+                    "nationalNo": "#0713",
+                    "type": [
+                        "Ice",
+                        "Rock"
+                    ],
+                    "nickname": "Hisuian Avalugg"
+                },
+                "requirement": "(Level 37, in Legends: Arceus)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Harden": "1",
+            "Rapid Spin": "1",
+            "Tackle": "3",
+            "Powder Snow": "6",
+            "Curse": "9",
+            "Icy Wind": "12",
+            "Protect": "15",
+            "Avalanche": "18",
+            "Bite": "21",
+            "Ice Fang": "24",
+            "Iron Defense": "27",
+            "Recover": "30",
+            "Crunch": "33",
+            "Take Down": "36",
+            "Blizzard": "39",
+            "Double-Edge": "42"
+        },
+        "egg": {
+            "Aurora Veil": null,
+            "Mirror Coat": null,
+            "Mist": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Protect": "07",
+            "Ice Fang": "10",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Bulldoze": "28",
+            "Icy Wind": "34",
+            "Rock Tomb": "36",
+            "Avalanche": "46",
+            "Endure": "47",
+            "Rain Dance": "50",
+            "Snowscape": "52",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Substitute": "103",
+            "Iron Defense": "104",
+            "Crunch": "108",
+            "Ice Spinner": "124",
+            "Ice Beam": "135",
+            "Blizzard": "143",
+            "Stone Edge": "150",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Bergmite": [
+            "It blocks opponents\u2019 attacks with the ice that shields its body. It uses cold air to repair any cracks with new ice.",
+            "Using air of -150 degrees Fahrenheit, they freeze opponents solid. They live in herds above the snow line on mountains.",
+            "They chill the air around them to \u2212150 degrees Fahrenheit, freezing the water in the air into ice that they use as armor.",
+            "This Pok\u00e9mon lives in areas of frigid cold. It secures itself to the back of an Avalugg by freezing its feet in place.",
+            "Lives on mountains blanketed in perennial snow. It freezes water vapor in the air to make the ice helmet that it dons for defense.",
+            "They live in mountainous regions of frigid cold. On rare occasions, they ride on the back of an Avalugg to cross seas and move to new habitats.",
+            "Bergmite protects itself by coating its body in ice formed by frigid air of \u2212148 degrees Fahrenheit. It fights with Frigibax whenever they meet."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792151630585908/712.png",
+    "discord_sprite": "<:P712:1132144067229253703>"
+}

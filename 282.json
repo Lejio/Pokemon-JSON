@@ -1,0 +1,347 @@
+{
+    "alt-version(s)": [
+        "Mega Gardevoir"
+    ],
+    "name": "Gardevoir",
+    "Gardevoir": {
+        "pokedex_data": {
+            "National No.": "0282",
+            "Type": [
+                "Psychic",
+                "Fairy"
+            ],
+            "Species": "Embrace Poke\u0301mon",
+            "Height": "1.6 m (5\u203203\u2032\u2032)",
+            "Weight": "48.4 kg (106.7 lbs)",
+            "Abilities": {
+                "Synchronize": {
+                    "href": "/ability/synchronize",
+                    "effect": "Passes a burn, poison, or paralysis to the foe.",
+                    "hidden": false
+                },
+                "Trace": {
+                    "href": "/ability/trace",
+                    "effect": "The Pok\u00e9mon copies a foe's Ability.",
+                    "hidden": false
+                },
+                "Telepathy": {
+                    "href": "/ability/telepathy",
+                    "effect": "Anticipates an ally's attack and dodges it.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Sp. Atk",
+            "Catch rate": "45",
+            "BaseFriendship": "35",
+            "Base Exp.": "259",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "68",
+                "Min": "246",
+                "Max": "340"
+            },
+            "Attack": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Defense": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Atk": {
+                "Base": "125",
+                "Min": "229",
+                "Max": "383"
+            },
+            "Sp. Def": {
+                "Base": "115",
+                "Min": "211",
+                "Max": "361"
+            },
+            "Speed": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Total": "518"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "not very effective",
+                "Poison": "super-effective",
+                "Psychic": "not very effective",
+                "Ghost": "super-effective",
+                "Dragon": "no effect",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "Mega Gardevoir": {
+        "pokedex_data": {
+            "National No.": "0282",
+            "Type": [
+                "Psychic",
+                "Fairy"
+            ],
+            "Species": "Embrace Poke\u0301mon",
+            "Height": "1.6 m (5\u203203\u2032\u2032)",
+            "Weight": "48.4 kg (106.7 lbs)",
+            "Abilities": {
+                "Pixilate": {
+                    "href": "/ability/pixilate",
+                    "effect": "Turns Normal-type moves into Fairy-type moves.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Sp. Atk",
+            "Catch rate": "45",
+            "BaseFriendship": "35",
+            "Base Exp.": "278",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "68",
+                "Min": "246",
+                "Max": "340"
+            },
+            "Attack": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Defense": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Atk": {
+                "Base": "165",
+                "Min": "301",
+                "Max": "471"
+            },
+            "Sp. Def": {
+                "Base": "135",
+                "Min": "247",
+                "Max": "405"
+            },
+            "Speed": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Total": "618"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "not very effective",
+                "Poison": "super-effective",
+                "Psychic": "not very effective",
+                "Ghost": "super-effective",
+                "Dragon": "no effect",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Ralts",
+                    "nationalNo": "#0280",
+                    "type": [
+                        "Psychic",
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Kirlia",
+                    "nationalNo": "#0281",
+                    "type": [
+                        "Psychic",
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 20)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Kirlia",
+                    "nationalNo": "#0281",
+                    "type": [
+                        "Psychic",
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Gardevoir",
+                    "nationalNo": "#0282",
+                    "type": [
+                        "Psychic",
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 30)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Kirlia",
+                    "nationalNo": "#0281",
+                    "type": [
+                        "Psychic",
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Gallade",
+                    "nationalNo": "#0475",
+                    "type": [
+                        "Psychic",
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Dawn Stone, Male)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Charm": "1",
+            "Confusion": "1",
+            "Disarming Voice": "1",
+            "Double Team": "1",
+            "Growl": "1",
+            "Heal Pulse": "1",
+            "Healing Wish": "1",
+            "Misty Terrain": "1",
+            "Mystical Fire": "1",
+            "Hypnosis": "9",
+            "Draining Kiss": "12",
+            "Teleport": "15",
+            "Psybeam": "18",
+            "Life Dew": "23",
+            "Wish": "28",
+            "Calm Mind": "35",
+            "Psychic": "42",
+            "Moonblast": "49",
+            "Dream Eater": "56",
+            "Future Sight": "63"
+        },
+        "evolution": {
+            "Dazzling Gleam": "80"
+        },
+        "egg": {
+            "Confuse Ray": null,
+            "Destiny Bond": null,
+            "Disable": null,
+            "Knock Off": null,
+            "Mean Look": null,
+            "Memento": null,
+            "Mystical Fire": null,
+            "Shadow Sneak": null
+        },
+        "tm": {
+            "Charm": "02",
+            "Protect": "07",
+            "Psybeam": "16",
+            "Confuse Ray": "17",
+            "Thief": "18",
+            "Disarming Voice": "19",
+            "Charge Beam": "23",
+            "Facade": "25",
+            "Swift": "32",
+            "Magical Leaf": "33",
+            "Icy Wind": "34",
+            "Draining Kiss": "37",
+            "Stored Power": "41",
+            "Night Shade": "42",
+            "Fling": "43",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Psyshock": "54",
+            "Zen Headbutt": "59",
+            "Body Slam": "66",
+            "Fire Punch": "67",
+            "Thunder Punch": "68",
+            "Ice Punch": "69",
+            "Sleep Talk": "70",
+            "Reflect": "74",
+            "Light Screen": "75",
+            "Dazzling Gleam": "79",
+            "Metronome": "80",
+            "Grass Knot": "81",
+            "Thunder Wave": "82",
+            "Rest": "85",
+            "Taunt": "87",
+            "Imprison": "92",
+            "Skill Swap": "98",
+            "Substitute": "103",
+            "Will-O-Wisp": "107",
+            "Trick": "109",
+            "Aura Sphere": "112",
+            "Shadow Ball": "114",
+            "Hyper Voice": "117",
+            "Energy Ball": "119",
+            "Psychic": "120",
+            "Encore": "122",
+            "Thunderbolt": "126",
+            "Calm Mind": "129",
+            "Helping Hand": "130",
+            "Psychic Terrain": "138",
+            "Misty Terrain": "139",
+            "Giga Impact": "152",
+            "Focus Blast": "158",
+            "Trick Room": "161",
+            "Hyper Beam": "163",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Gardevoir": [
+            "GARDEVOIR has the ability to read the future. If it senses impending danger to its TRAINER, this pok\u00e9mon is said to unleash its psychokinetic energy at full power.",
+            "GARDEVOIR has the psychokinetic power to distort the dimensions and create a small black hole. This pok\u00e9mon will try to protect its TRAINER even at the risk of its own life.",
+            "It has the power to predict the future. Its power peaks when it is protecting its TRAINER.",
+            "It apparently does not feel the pull of gravity because it supports itself with psychic power. It will give its life to protect its TRAINER.",
+            "It will try to guard its trusted Trainer with its life. It has the ability to see the future.",
+            "To protect its Trainer, it will expend all its psychic power to create a small black hole.",
+            "It unleashes psychokinetic energy at full power when protecting a Trainer it has bonded closely with.",
+            "To protect its Trainer, it will expend all its psychic power to create a small black hole.",
+            "To protect its Trainer, it will expend all its psychic power to create a small black hole.",
+            "It has the power to predict the future. Its power peaks when it is protecting its Trainer.",
+            "Gardevoir has the ability to read the future. If it senses impending danger to its Trainer, this Pok\u00e9mon is said to unleash its psychokinetic energy at full power.",
+            "Gardevoir has the psychokinetic power to distort the dimensions and create a small black hole. This Pok\u00e9mon will try to protect its Trainer even at the risk of its own life.",
+            "It has the power to predict the future. Its power peaks when it is protecting its Trainer.",
+            "To protect its Trainer, it will expend all its psychic power to create a small black hole.",
+            "It will try to guard its trusted Trainer with its life. It has the ability to see the future.",
+            "It will dedicate itself to defending a master it has come to adore. Its pure white dress, reminiscent of those worn by ladies of nobility, is the dress of one who is willing to risk their life.",
+            "To protect its Trainer, it will expend all its psychic power to create a small black hole.",
+            "It unleashes psychokinetic energy at full power when protecting a Trainer it has bonded closely with."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788799861608468/282.png",
+    "discord_sprite": "<:P282:1132125153527079007>"
+}

@@ -1,0 +1,178 @@
+{
+    "alt-version(s)": [],
+    "name": "Druddigon",
+    "Druddigon": {
+        "pokedex_data": {
+            "National No.": "0621",
+            "Type": [
+                "Dragon"
+            ],
+            "Species": "Cave Poke\u0301mon",
+            "Height": "1.6 m (5\u203203\u2032\u2032)",
+            "Weight": "139.0 kg (306.4 lbs)",
+            "Abilities": {
+                "Rough Skin": {
+                    "href": "/ability/rough-skin",
+                    "effect": "Inflicts damage to the attacker on contact.",
+                    "hidden": false
+                },
+                "Sheer Force": {
+                    "href": "/ability/sheer-force",
+                    "effect": "Removes added effects to increase move damage.",
+                    "hidden": false
+                },
+                "Mold Breaker": {
+                    "href": "/ability/mold-breaker",
+                    "effect": "Moves can be used regardless of Abilities.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "170",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "77",
+                "Min": "264",
+                "Max": "358"
+            },
+            "Attack": {
+                "Base": "120",
+                "Min": "220",
+                "Max": "372"
+            },
+            "Defense": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Sp. Atk": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Def": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Speed": {
+                "Base": "48",
+                "Min": "90",
+                "Max": "214"
+            },
+            "Total": "485"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Dragon": "super-effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Leer": "1",
+            "Scratch": "1",
+            "Bite": "5",
+            "Dragon Tail": "10",
+            "Metal Claw": "15",
+            "Scary Face": "20",
+            "Slash": "25",
+            "Dragon Claw": "30",
+            "Hone Claws": "35",
+            "Crunch": "40",
+            "Iron Head": "45",
+            "Outrage": "50",
+            "Superpower": "55"
+        },
+        "egg": {
+            "Glare": null,
+            "Night Slash": null,
+            "Poison Tail": null,
+            "Sucker Punch": null
+        },
+        "null": {
+            "Body Slam": "01",
+            "Flamethrower": "02",
+            "Surf": "04",
+            "Earthquake": "10",
+            "Substitute": "20",
+            "Sludge Bomb": "22",
+            "Outrage": "24",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Iron Tail": "31",
+            "Crunch": "32",
+            "Heat Wave": "36",
+            "Taunt": "37",
+            "Superpower": "39",
+            "Dragon Claw": "47",
+            "Dark Pulse": "58",
+            "Dragon Pulse": "62",
+            "Focus Blast": "64",
+            "Flash Cannon": "70",
+            "Gunk Shot": "73",
+            "Iron Head": "74",
+            "Stealth Rock": "76"
+        },
+        "tm": {
+            "Mega Punch": "00",
+            "Fire Punch": "03",
+            "Thunder Punch": "05",
+            "Hyper Beam": "08",
+            "Giga Impact": "09",
+            "Dig": "15",
+            "Rest": "21",
+            "Rock Slide": "22",
+            "Snore": "24",
+            "Protect": "25",
+            "Scary Face": "26",
+            "Attract": "31",
+            "Rain Dance": "33",
+            "Sunny Day": "34",
+            "Facade": "39",
+            "Revenge": "42",
+            "Rock Tomb": "48",
+            "Payback": "57",
+            "Fling": "59",
+            "Shadow Claw": "65",
+            "Thunder Fang": "66",
+            "Fire Fang": "68",
+            "Round": "76",
+            "Retaliate": "79",
+            "Bulldoze": "81",
+            "Snarl": "85",
+            "Stomping Tantrum": "98"
+        }
+    },
+    "entries": {
+        "Druddigon": [
+            "It warms its body by absorbing sunlight with its wings. When its body temperature falls, it can no longer move.",
+            "It races through narrow caves, using its sharp claws to catch prey. The skin on its face is harder than a rock.",
+            "It runs through the narrow tunnels formed by Excadrill and Onix. It uses its sharp claws to catch prey.",
+            "It races through narrow caves, using its sharp claws to catch prey. The skin on its face is harder than a rock.",
+            "It warms its body by absorbing sunlight with its wings. When its body temperature falls, it can no longer move.",
+            "The red skin on its face is harder than rock. In narrow caves, it squares off against its enemies and charges face-first right into them.",
+            "It infiltrates tunnels that Pok\u00e9mon like Diglett and Dugtrio have dug and quietly waits for prey to pass through.",
+            "Druddigon lives in caves, but it never skips sunbathing\u2014it won\u2019t be able to move if its body gets too cold.",
+            "Druddigon are vicious and cunning. They take up residence in nests dug out by other Pok\u00e9mon, treating the stolen nests as their own lairs."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791444739358733/621.png",
+    "discord_sprite": "<:P621:1132140071835934801>"
+}

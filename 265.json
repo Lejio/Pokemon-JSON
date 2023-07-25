@@ -1,0 +1,198 @@
+{
+    "alt-version(s)": [],
+    "name": "Wurmple",
+    "Wurmple": {
+        "pokedex_data": {
+            "National No.": "0265",
+            "Type": [
+                "Bug"
+            ],
+            "Species": "Worm Poke\u0301mon",
+            "Height": "0.3 m (1\u203200\u2032\u2032)",
+            "Weight": "3.6 kg (7.9 lbs)",
+            "Abilities": {
+                "Shield Dust": {
+                    "href": "/ability/shield-dust",
+                    "effect": "Blocks the added effects of attacks taken.",
+                    "hidden": false
+                },
+                "Run Away": {
+                    "href": "/ability/run-away",
+                    "effect": "Enables a sure getaway from wild Pok\u00e9mon.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 HP",
+            "Catch rate": "255",
+            "BaseFriendship": "50",
+            "Base Exp.": "56",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "45",
+                "Min": "200",
+                "Max": "294"
+            },
+            "Attack": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Defense": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Sp. Atk": {
+                "Base": "20",
+                "Min": "40",
+                "Max": "152"
+            },
+            "Sp. Def": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Speed": {
+                "Base": "20",
+                "Min": "40",
+                "Max": "152"
+            },
+            "Total": "195"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Grass": "not very effective",
+                "Fighting": "not very effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Rock": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Wurmple",
+                    "nationalNo": "#0265",
+                    "type": [
+                        "Bug"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Silcoon",
+                    "nationalNo": "#0266",
+                    "type": [
+                        "Bug"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 7, random based on personality)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Silcoon",
+                    "nationalNo": "#0266",
+                    "type": [
+                        "Bug"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Beautifly",
+                    "nationalNo": "#0267",
+                    "type": [
+                        "Bug",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 10)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Wurmple",
+                    "nationalNo": "#0265",
+                    "type": [
+                        "Bug"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Cascoon",
+                    "nationalNo": "#0268",
+                    "type": [
+                        "Bug"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 7, random based on personality)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Cascoon",
+                    "nationalNo": "#0268",
+                    "type": [
+                        "Bug"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Dustox",
+                    "nationalNo": "#0269",
+                    "type": [
+                        "Bug",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 10)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "String Shot": "1",
+            "Tackle": "1",
+            "Poison Sting": "5",
+            "Bug Bite": "15"
+        },
+        "egg": null,
+        "tm": null
+    },
+    "entries": {
+        "Wurmple": [
+            "Using the spikes on its rear end, WURMPLE peels the bark off trees and feeds on the sap that oozes out. This pok\u00e9mon\u2019s feet are tipped with suction pads that allow it to cling to glass without slipping.",
+            "WURMPLE is targeted by SWELLOW as prey. This pok\u00e9mon will try to resist by pointing the spikes on its rear at the attacking predator. It will weaken the foe by leaking poison from the spikes.",
+            "It lives amidst tall grass and in forests. When attacked, it resists by pointing its venomous spikes at the foe.",
+            "It sticks to tree branches and eats leaves. The thread it spits from its mouth, which becomes gooey when it touches air, slows the movement of its foes.",
+            "It loves to eat leaves. If it is attacked by a STARLY, it will defend itself with its spiked rear.",
+            "It spits a white silk that turns sticky when it contacts air. It is used to immobilize foes.",
+            "Often targeted by bird Pok\u00e9mon, it desperately resists by releasing poison from its tail spikes.",
+            "It lives among the tall grass and in forests. It repels attacks by raising up the spikes on its rear.",
+            "Often targeted by bird Pok\u00e9mon, it desperately resists by releasing poison from its tail spikes.",
+            "It loves to eat leaves. If it is attacked by a Starly, it will defend itself with its spiked rear.",
+            "It lives among the tall grass and in forests. It repels attacks by raising up the spikes on its rear.",
+            "Using the spikes on its rear end, Wurmple peels the bark off trees and feeds on the sap that oozes out. This Pok\u00e9mon\u2019s feet are tipped with suction pads that allow it to cling to glass without slipping.",
+            "Wurmple is targeted by Swellow as prey. This Pok\u00e9mon will try to resist by pointing the spikes on its rear at the attacking predator. It will weaken the foe by leaking poison from the spikes.",
+            "It loves to eat leaves. If it is attacked by a Starly, it will defend itself with its spiked rear.",
+            "It spits a white silk thread that turns sticky when coming into contact with air. The silk is used to immobilize foes.",
+            "Likes sap and is abundant in the wild. Why it evolves into various different forms is unknown. One cannot tell from a Wurmple\u2019s appearance which form it will take when it evolves."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788667753598986/265.png",
+    "discord_sprite": "<:P265:1132124407431700600>"
+}

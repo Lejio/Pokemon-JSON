@@ -1,0 +1,206 @@
+{
+    "alt-version(s)": [],
+    "name": "Mudkip",
+    "Mudkip": {
+        "pokedex_data": {
+            "National No.": "0258",
+            "Type": [
+                "Water"
+            ],
+            "Species": "Mud Fish Poke\u0301mon",
+            "Height": "0.4 m (1\u203204\u2032\u2032)",
+            "Weight": "7.6 kg (16.8 lbs)",
+            "Abilities": {
+                "Torrent": {
+                    "href": "/ability/torrent",
+                    "effect": "Powers up Water-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Damp": {
+                    "href": "/ability/damp",
+                    "effect": "Prevents the use of self-destructing moves.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "62",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "50",
+                "Min": "210",
+                "Max": "304"
+            },
+            "Attack": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Defense": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Atk": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Def": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Speed": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Total": "310"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Mudkip",
+                    "nationalNo": "#0258",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Marshtomp",
+                    "nationalNo": "#0259",
+                    "type": [
+                        "Water",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 16)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Marshtomp",
+                    "nationalNo": "#0259",
+                    "type": [
+                        "Water",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Swampert",
+                    "nationalNo": "#0260",
+                    "type": [
+                        "Water",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 36)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Growl": "1",
+            "Tackle": "1",
+            "Water Gun": "3",
+            "Rock Smash": "6",
+            "Rock Throw": "9",
+            "Protect": "12",
+            "Supersonic": "15",
+            "Water Pulse": "18",
+            "Rock Slide": "21",
+            "Take Down": "24",
+            "Amnesia": "27",
+            "Surf": "30",
+            "Screech": "33",
+            "Endeavor": "36",
+            "Hydro Pump": "39"
+        },
+        "egg": {
+            "Ancient Power": null,
+            "Bite": null,
+            "Counter": null,
+            "Curse": null,
+            "Double-Edge": null,
+            "Mirror Coat": null,
+            "Mud-Slap": null,
+            "Sludge": null,
+            "Stomp": null,
+            "Uproar": null,
+            "Whirlpool": null,
+            "Wide Guard": null,
+            "Yawn": null
+        },
+        "tm": {
+            "Water Pulse": "03",
+            "Hail": "07",
+            "Work Up": "10",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Iron Tail": "23",
+            "Dig": "28",
+            "Double Team": "32",
+            "Rock Tomb": "39",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Scald": "49",
+            "Endure": "58",
+            "Avalanche": "72",
+            "Rock Slide": "80",
+            "Sleep Talk": "82",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Surf": "95",
+            "Strength": "96",
+            "Rock Smash": "98",
+            "Waterfall": "99"
+        }
+    },
+    "entries": {
+        "Mudkip": [
+            "The fin on MUDKIP\u2019s head acts as highly sensitive radar. Using this fin to sense movements of water and air, this pok\u00e9mon can determine what is taking place around it without using its eyes.",
+            "In water, MUDKIP breathes using the gills on its cheeks. If it is faced with a tight situation in battle, this pok\u00e9mon will unleash its amazing power - it can crush rocks bigger than itself.",
+            "Its large tail fin propels it through water with powerful acceleration. It is strong in spite of its size.",
+            "On land, it can powerfully lift large boulders by planting its four feet and heaving. It sleeps by burying itself in soil at the water\u2019s edge.",
+            "To alert it, the fin on its head senses the flow of water. It has the strength to heft boulders.",
+            "Its power can crush boulders. It rests by covering itself with mud at the bottom of a river.",
+            "To alert it, the fin on its head senses the flow of water. It has the strength to heft boulders.",
+            "Its large tail fin propels it through water with powerful acceleration. It is strong in spite of its size.",
+            "To alert it, the fin on its head senses the flow of water. It has the strength to heft boulders.",
+            "The fin on Mudkip\u2019s head acts as highly sensitive radar. Using this fin to sense movements of water and air, this Pok\u00e9mon can determine what is taking place around it without using its eyes.",
+            "In water, Mudkip breathes using the gills on its cheeks. If it is faced with a tight situation in battle, this Pok\u00e9mon will unleash its amazing power\u2014it can crush rocks bigger than itself.",
+            "Using the fin on its head, Mudkip senses the flow of water to keep track of what\u2019s going on around it. Mudkip has the strength to heft boulders."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788612728541275/258.png",
+    "discord_sprite": "<:P258:1132124094599548938>"
+}

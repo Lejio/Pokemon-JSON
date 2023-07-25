@@ -1,0 +1,196 @@
+{
+    "alt-version(s)": [],
+    "name": "Smoochum",
+    "Smoochum": {
+        "pokedex_data": {
+            "National No.": "0238",
+            "Type": [
+                "Ice",
+                "Psychic"
+            ],
+            "Species": "Kiss Poke\u0301mon",
+            "Height": "0.4 m (1\u203204\u2032\u2032)",
+            "Weight": "6.0 kg (13.2 lbs)",
+            "Abilities": {
+                "Oblivious": {
+                    "href": "/ability/oblivious",
+                    "effect": "Prevents it from becoming infatuated.",
+                    "hidden": false
+                },
+                "Forewarn": {
+                    "href": "/ability/forewarn",
+                    "effect": "Determines what moves a foe has.",
+                    "hidden": false
+                },
+                "Hydration": {
+                    "href": "/ability/hydration",
+                    "effect": "Heals status problems if it is raining.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Sp. Atk",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "61",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "0% male,100% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "45",
+                "Min": "200",
+                "Max": "294"
+            },
+            "Attack": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Defense": {
+                "Base": "15",
+                "Min": "31",
+                "Max": "141"
+            },
+            "Sp. Atk": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Sp. Def": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Speed": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Total": "305"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Ice": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "super-effective",
+                "Rock": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Smoochum",
+                    "nationalNo": "#0238",
+                    "type": [
+                        "Ice",
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Jynx",
+                    "nationalNo": "#0124",
+                    "type": [
+                        "Ice",
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 30)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Lick": "1",
+            "Pound": "1",
+            "Powder Snow": "4",
+            "Copycat": "8",
+            "Confusion": "12",
+            "Covet": "16",
+            "Sing": "20",
+            "Fake Tears": "24",
+            "Ice Punch": "28",
+            "Psychic": "32",
+            "Sweet Kiss": "36",
+            "Mean Look": "40",
+            "Perish Song": "44",
+            "Blizzard": "48"
+        },
+        "egg": {
+            "Fake Out": null,
+            "Ice Punch": null,
+            "Role Play": null,
+            "Wish": null
+        },
+        "tm": {
+            "Water Pulse": "03",
+            "Calm Mind": "04",
+            "Hail": "07",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Light Screen": "16",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Psychic": "29",
+            "Shadow Ball": "30",
+            "Double Team": "32",
+            "Reflect": "33",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Skill Swap": "48",
+            "Fling": "56",
+            "Endure": "58",
+            "Nasty Plot": "63",
+            "Payback": "66",
+            "Recycle": "67",
+            "Flash": "70",
+            "Avalanche": "72",
+            "Psych Up": "77",
+            "Sleep Talk": "82",
+            "Dream Eater": "85",
+            "Grass Knot": "86",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Trick Room": "92"
+        }
+    },
+    "entries": {
+        "Smoochum": [
+            "Its lips are the most sensitive parts on its body. It always uses its lips first to examine things.",
+            "It always rocks its head slowly backwards and forwards as if it is trying to kiss someone.",
+            "The sensitivity of its lips develops most quickly. It uses them to try to identify unknown objects.",
+            "SMOOCHUM actively runs about, but also falls quite often. Whenever the chance arrives, it will look for its reflection to make sure its face hasn\u2019t become dirty.",
+            "It always rocks its head slowly backwards and forwards as if it is trying to kiss someone.",
+            "Its lips are the most sensitive parts on its body. It always uses its lips first to examine things.",
+            "It actively runs about, but also falls often. Whenever it falls, it will check its reflection on a lake\u2019s surface to make sure its face hasn\u2019t become dirty.",
+            "It tests everything by touching with its lips, which remember what it likes and dislikes.",
+            "Its lips are the most sensitive part of its body. It always uses its lips first to examine things.",
+            "It always rocks its head slowly backwards and forwards as if it is trying to kiss someone.",
+            "It tests everything by touching with its lips, which remember what it likes and dislikes.",
+            "Its lips are the most sensitive part of its body. It always uses its lips first to examine things.",
+            "It tests everything by touching with its lips, which remember what it likes and dislikes.",
+            "Smoochum actively runs about, but also falls quite often. Whenever the chance arrives, it will look for its reflection to make sure its face hasn\u2019t become dirty.",
+            "When it examines things, before touching them with its hands, it makes lip contact and then diligently licks all the dirt off its lips.",
+            "Highly perceptive sensors, Smoochum\u2019s lips are kept moist by its daily application of tree sap.",
+            "If its face gets even slightly dirty, Smoochum will bathe immediately. But if its body gets dirty, Smoochum doesn\u2019t really seem to care.",
+            "This is a very curious Pok\u00e9mon. Smoochum decides what it likes and dislikes by touching things with its lips.",
+            "It tests everything by touching with its lips, which remember what it likes and dislikes."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788454691340288/238.png",
+    "discord_sprite": "<:P238:1132123210431868928>"
+}

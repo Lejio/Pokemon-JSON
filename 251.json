@@ -1,0 +1,165 @@
+{
+    "alt-version(s)": [],
+    "name": "Celebi",
+    "Celebi": {
+        "pokedex_data": {
+            "National No.": "0251",
+            "Type": [
+                "Psychic",
+                "Grass"
+            ],
+            "Species": "Time Travel Poke\u0301mon",
+            "Height": "0.6 m (2\u203200\u2032\u2032)",
+            "Weight": "5.0 kg (11.0 lbs)",
+            "Abilities": {
+                "Natural Cure": {
+                    "href": "/ability/natural-cure",
+                    "effect": "All status problems heal when it switches out.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 HP",
+            "Catch rate": "45",
+            "BaseFriendship": "100",
+            "Base Exp.": "270",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "100",
+                "Min": "310",
+                "Max": "404"
+            },
+            "Attack": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Defense": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Sp. Atk": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Sp. Def": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Speed": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Total": "600"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Poison": "super-effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Psychic": "not very effective",
+                "Bug": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Confusion": "1",
+            "Heal Bell": "1",
+            "Magical Leaf": "10",
+            "Baton Pass": "20",
+            "Ancient Power": "30",
+            "Life Dew": "40",
+            "Leech Seed": "50",
+            "Recover": "60",
+            "Future Sight": "70",
+            "Healing Wish": "80",
+            "Leaf Storm": "90",
+            "Perish Song": "100"
+        },
+        "egg": null,
+        "tm": {
+            "Water Pulse": "03",
+            "Calm Mind": "04",
+            "Sunny Day": "11",
+            "Hyper Beam": "15",
+            "Light Screen": "16",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Giga Drain": "19",
+            "Safeguard": "20",
+            "Dazzling Gleam": "21",
+            "Solar Beam": "22",
+            "Psychic": "29",
+            "Shadow Ball": "30",
+            "Double Team": "32",
+            "Reflect": "33",
+            "Shock Wave": "34",
+            "Sandstorm": "37",
+            "Aerial Ace": "40",
+            "Facade": "42",
+            "Rest": "44",
+            "Skill Swap": "48",
+            "Energy Ball": "53",
+            "Fling": "56",
+            "Charge Beam": "57",
+            "Endure": "58",
+            "Nasty Plot": "63",
+            "Giga Impact": "68",
+            "Flash": "70",
+            "Thunder Wave": "73",
+            "Swords Dance": "75",
+            "Stealth Rock": "76",
+            "Psych Up": "77",
+            "Sleep Talk": "82",
+            "Dream Eater": "85",
+            "Grass Knot": "86",
+            "Swagger": "87",
+            "U-turn": "89",
+            "Substitute": "90",
+            "Trick Room": "92",
+            "Cut": "93"
+        }
+    },
+    "entries": {
+        "Celebi": [
+            "This pok\u00e9mon wanders across time. Grass and trees flourish in the forests in which it has appeared.",
+            "When CELEBI disappears deep in a forest, it is said to leave behind an egg it brought from the future.",
+            "Revered as a guardian of the forest, CELEBI appears wherever beautiful forests exist.",
+            "This pok\u00e9mon came from the future by crossing over time. It is thought that so long as CELEBI appears, a bright and shining future awaits us.",
+            "When CELEBI disappears deep in a forest, it is said to leave behind an egg it brought from the future.",
+            "This pok\u00e9mon wanders across time. Grass and trees flourish in the forests in which it has appeared.",
+            "It has the power to travel across time, but it is said to appear only in peaceful times.",
+            "This Pok\u00e9mon wanders across time. Grass and trees flourish in the forests in which it has appeared.",
+            "When CELEBI disappears deep in a forest, it is said to leave behind an egg it brought from the future.",
+            "It has the power to travel across time, but it is said to appear only in peaceful times.",
+            "This Pok\u00e9mon wanders across time. Grass and trees flourish in the forests in which it has appeared.",
+            "It has the power to travel across time, but it is said to appear only in peaceful times.",
+            "This Pok\u00e9mon came from the future by crossing over time. It is thought that so long as Celebi appears, a bright and shining future awaits us.",
+            "This Pok\u00e9mon has the ability to move through time. Records describing it as a forest deity can be found from many different eras.",
+            "This Pok\u00e9mon traveled through time to come from the future. It bolsters grass and trees with its own strength, and it can heal wounds, too.",
+            "It has the power to travel across time, but it is said to appear only in peaceful times."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788557116256369/251.png",
+    "discord_sprite": "<:P251:1132123786494353418>"
+}

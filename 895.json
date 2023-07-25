@@ -1,0 +1,132 @@
+{
+    "alt-version(s)": [],
+    "name": "Regidrago",
+    "Regidrago": {
+        "pokedex_data": {
+            "National No.": "0895",
+            "Type": [
+                "Dragon"
+            ],
+            "Species": "Dragon Orb Poke\u0301mon",
+            "Height": "2.1 m (6\u203211\u2032\u2032)",
+            "Weight": "200.0 kg (440.9 lbs)",
+            "Abilities": {
+                "Dragon's Maw": {
+                    "href": "/ability/dragons-maw",
+                    "effect": "Powers up Dragon-type moves.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 HP",
+            "Catch rate": "3",
+            "BaseFriendship": "35",
+            "Base Exp.": "290",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "200",
+                "Min": "510",
+                "Max": "604"
+            },
+            "Attack": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Defense": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Atk": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Sp. Def": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Speed": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Total": "580"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Dragon": "super-effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Twister": "1",
+            "Vise Grip": "1",
+            "Bite": "6",
+            "Ancient Power": "12",
+            "Dragon Breath": "18",
+            "Crunch": "30",
+            "Dragon Claw": "36",
+            "Hammer Arm": "42",
+            "Dragon Dance": "48",
+            "Thrash": "54",
+            "Focus Energy": "60",
+            "Dragon Energy": "66",
+            "Hyper Beam": "72",
+            "Explosion": "78"
+        },
+        "egg": null,
+        "tm": {
+            "Take Down": "01",
+            "Protect": "07",
+            "Fire Fang": "08",
+            "Thunder Fang": "09",
+            "Ice Fang": "10",
+            "Facade": "25",
+            "Swift": "32",
+            "Endure": "47",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Reflect": "74",
+            "Light Screen": "75",
+            "Dragon Claw": "78",
+            "Rest": "85",
+            "Dragon Dance": "100",
+            "Substitute": "103",
+            "Crunch": "108",
+            "Dragon Pulse": "115",
+            "Earth Power": "133",
+            "Reversal": "134",
+            "Earthquake": "149",
+            "Giga Impact": "152",
+            "Outrage": "156",
+            "Hyper Beam": "163",
+            "Draco Meteor": "169",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Regidrago": [
+            "An academic theory proposes that Regidrago\u2019s arms were once the head of an ancient dragon Pok\u00e9mon. The theory remains unproven.",
+            "Its body is composed of crystallized dragon energy. Regidrago is said to have the powers of every dragon Pok\u00e9mon."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793581036802149/895.png",
+    "discord_sprite": "<:P895:1132152183996031118>"
+}

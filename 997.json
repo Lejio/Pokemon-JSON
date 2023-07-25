@@ -1,0 +1,192 @@
+{
+    "alt-version(s)": [],
+    "name": "Arctibax",
+    "Arctibax": {
+        "pokedex_data": {
+            "National No.": "0997",
+            "Type": [
+                "Dragon",
+                "Ice"
+            ],
+            "Species": "Ice Fin Poke\u0301mon",
+            "Height": "0.8 m (2\u203207\u2032\u2032)",
+            "Weight": "30.0 kg (66.1 lbs)",
+            "Abilities": {
+                "Thermal Exchange": {
+                    "href": "/ability/thermal-exchange",
+                    "effect": "Raises Attack when hit by a Fire-type move. Cannot be burned.",
+                    "hidden": false
+                },
+                "Ice Body": {
+                    "href": "/ability/ice-body",
+                    "effect": "The Pok\u00e9mon gradually regains HP in a hailstorm.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "25",
+            "BaseFriendship": "50",
+            "Base Exp.": "148",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "90",
+                "Min": "290",
+                "Max": "384"
+            },
+            "Attack": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Defense": {
+                "Base": "66",
+                "Min": "123",
+                "Max": "254"
+            },
+            "Sp. Atk": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Sp. Def": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Speed": {
+                "Base": "62",
+                "Min": "116",
+                "Max": "245"
+            },
+            "Total": "423"
+        },
+        "defense_stats": {
+            "default": {
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Fighting": "super-effective",
+                "Rock": "super-effective",
+                "Dragon": "super-effective",
+                "Steel": "super-effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Frigibax",
+                    "nationalNo": "#0996",
+                    "type": [
+                        "Dragon",
+                        "Ice"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Arctibax",
+                    "nationalNo": "#0997",
+                    "type": [
+                        "Dragon",
+                        "Ice"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 35)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Arctibax",
+                    "nationalNo": "#0997",
+                    "type": [
+                        "Dragon",
+                        "Ice"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Baxcalibur",
+                    "nationalNo": "#0998",
+                    "type": [
+                        "Dragon",
+                        "Ice"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 54)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Dragon Tail": "1",
+            "Leer": "1",
+            "Tackle": "1",
+            "Icy Wind": "6",
+            "Dragon Breath": "12",
+            "Focus Energy": "18",
+            "Bite": "24",
+            "Ice Fang": "29",
+            "Take Down": "40",
+            "Ice Beam": "45",
+            "Crunch": "50",
+            "Icicle Crash": "55"
+        },
+        "egg": {
+            "Aqua Tail": null,
+            "Dragon Rush": null,
+            "Freeze-Dry": null,
+            "Icicle Spear": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Ice Fang": "10",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Icy Wind": "34",
+            "Dragon Tail": "44",
+            "Avalanche": "46",
+            "Endure": "47",
+            "Rain Dance": "50",
+            "Snowscape": "52",
+            "Dig": "55",
+            "Brick Break": "58",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Dragon Claw": "78",
+            "Rest": "85",
+            "Swords Dance": "88",
+            "Iron Head": "99",
+            "Substitute": "103",
+            "Crunch": "108",
+            "Dragon Pulse": "115",
+            "Helping Hand": "130",
+            "Ice Beam": "135",
+            "Blizzard": "143",
+            "Outrage": "156",
+            "Draco Meteor": "169",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Arctibax": [
+            "Arctibax freezes the air around it, protecting its face with an ice mask and turning its dorsal fin into a blade of ice.",
+            "It attacks with the blade of its frozen dorsal fin by doing a front flip in the air. Arctibax\u2019s strong back and legs allow it to pull off this technique."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131794376339759196/997.png",
+    "discord_sprite": "<:P997:1132156663009386506>"
+}

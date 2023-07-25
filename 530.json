@@ -1,0 +1,200 @@
+{
+    "alt-version(s)": [],
+    "name": "Excadrill",
+    "Excadrill": {
+        "pokedex_data": {
+            "National No.": "0530",
+            "Type": [
+                "Ground",
+                "Steel"
+            ],
+            "Species": "Subterrene Poke\u0301mon",
+            "Height": "0.7 m (2\u203204\u2032\u2032)",
+            "Weight": "40.4 kg (89.1 lbs)",
+            "Abilities": {
+                "Sand Rush": {
+                    "href": "/ability/sand-rush",
+                    "effect": "Boosts the Pok\u00e9mon's Speed in a sandstorm.",
+                    "hidden": false
+                },
+                "Sand Force": {
+                    "href": "/ability/sand-force",
+                    "effect": "Boosts certain moves' power in a sandstorm.",
+                    "hidden": false
+                },
+                "Mold Breaker": {
+                    "href": "/ability/mold-breaker",
+                    "effect": "Moves can be used regardless of Abilities.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "60",
+            "BaseFriendship": "50",
+            "Base Exp.": "178",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "110",
+                "Min": "330",
+                "Max": "424"
+            },
+            "Attack": {
+                "Base": "135",
+                "Min": "247",
+                "Max": "405"
+            },
+            "Defense": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Atk": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Def": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Speed": {
+                "Base": "88",
+                "Min": "162",
+                "Max": "302"
+            },
+            "Total": "508"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Fire": "super-effective",
+                "Water": "super-effective",
+                "Electric": "no effect",
+                "Fighting": "super-effective",
+                "Poison": "no effect",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Dragon": "not very effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Drilbur",
+                    "nationalNo": "#0529",
+                    "type": [
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Excadrill",
+                    "nationalNo": "#0530",
+                    "type": [
+                        "Ground",
+                        "Steel"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 31)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Hone Claws": "1",
+            "Horn Drill": "1",
+            "Mud-Slap": "1",
+            "Rapid Spin": "1",
+            "Scratch": "1",
+            "Fury Swipes": "12",
+            "Metal Claw": "16",
+            "Sandstorm": "20",
+            "Crush Claw": "24",
+            "Rock Slide": "28",
+            "Dig": "34",
+            "Swords Dance": "40",
+            "Drill Run": "46",
+            "Earthquake": "52",
+            "Fissure": "58"
+        },
+        "evolution": {
+            "Horn Drill": "\u2014"
+        },
+        "egg": {
+            "Metal Sound": null,
+            "Slash": null,
+            "Submission": null
+        },
+        "null": {
+            "Swords Dance": "00",
+            "Earthquake": "10",
+            "Substitute": "20",
+            "Sludge Bomb": "22",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Iron Defense": "46",
+            "Poison Jab": "57",
+            "X-Scissor": "60",
+            "Focus Blast": "64",
+            "Earth Power": "67",
+            "Iron Head": "74",
+            "Stealth Rock": "76",
+            "Drill Run": "87",
+            "High Horsepower": "94"
+        },
+        "tm": {
+            "Hyper Beam": "08",
+            "Giga Impact": "09",
+            "Dig": "15",
+            "Rest": "21",
+            "Rock Slide": "22",
+            "Snore": "24",
+            "Protect": "25",
+            "Attract": "31",
+            "Sandstorm": "32",
+            "Facade": "39",
+            "Brick Break": "43",
+            "Rock Tomb": "48",
+            "Sand Tomb": "49",
+            "Mud Shot": "53",
+            "Rock Blast": "54",
+            "Fling": "59",
+            "Shadow Claw": "65",
+            "Round": "76",
+            "Bulldoze": "81",
+            "Smart Strike": "96",
+            "Brutal Swing": "97",
+            "Stomping Tantrum": "98"
+        }
+    },
+    "entries": {
+        "Excadrill": [
+            "It can help in tunnel construction. Its drill has evolved into steel strong enough to bore through iron plates.",
+            "More than 300 feet below the surface, they build mazelike nests. Their activity can be destructive to subway tunnels.",
+            "Forming a drill with its steel claws and head, it can bore through a steel plate, no matter how thick it is.",
+            "It can help in tunnel construction. Its drill has evolved into steel strong enough to bore through iron plates.",
+            "More than 300 feet below the surface, they build mazelike nests. Their activity can be destructive to subway tunnels.",
+            "It\u2019s not uncommon for tunnels that appear to have formed naturally to actually be a result of Excadrill\u2019s rampant digging.",
+            "Known as the Drill King, this Pok\u00e9mon can tunnel through the terrain at speeds of over 90 mph."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790733301518377/530.png",
+    "discord_sprite": "<:P530:1132136053818527905>"
+}

@@ -1,0 +1,205 @@
+{
+    "alt-version(s)": [],
+    "name": "Dottler",
+    "Dottler": {
+        "pokedex_data": {
+            "National No.": "0825",
+            "Type": [
+                "Bug",
+                "Psychic"
+            ],
+            "Species": "Radome Poke\u0301mon",
+            "Height": "0.4 m (1\u203204\u2032\u2032)",
+            "Weight": "19.5 kg (43.0 lbs)",
+            "Abilities": {
+                "Swarm": {
+                    "href": "/ability/swarm",
+                    "effect": "Powers up Bug-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Compound Eyes": {
+                    "href": "/ability/compound-eyes",
+                    "effect": "The Pok\u00e9mon's accuracy is boosted.",
+                    "hidden": false
+                },
+                "Telepathy": {
+                    "href": "/ability/telepathy",
+                    "effect": "Anticipates an ally's attack and dodges it.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Sp. Def",
+            "Catch rate": "120",
+            "BaseFriendship": "50",
+            "Base Exp.": "117",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "50",
+                "Min": "210",
+                "Max": "304"
+            },
+            "Attack": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Defense": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Sp. Atk": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Def": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Speed": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Total": "335"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Grass": "not very effective",
+                "Fighting": "not very effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Psychic": "not very effective",
+                "Bug": "super-effective",
+                "Rock": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Blipbug",
+                    "nationalNo": "#0824",
+                    "type": [
+                        "Bug"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Dottler",
+                    "nationalNo": "#0825",
+                    "type": [
+                        "Bug",
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 10)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Dottler",
+                    "nationalNo": "#0825",
+                    "type": [
+                        "Bug",
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Orbeetle",
+                    "nationalNo": "#0826",
+                    "type": [
+                        "Bug",
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 30)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Confusion": "1",
+            "Light Screen": "1",
+            "Reflect": "1",
+            "Struggle Bug": "1"
+        },
+        "evolution": {
+            "Confusion": "50",
+            "Light Screen": "\u2014",
+            "Reflect": "\u2014"
+        },
+        "egg": {
+            "Infestation": null,
+            "Recover": null,
+            "Sticky Web": null,
+            "Supersonic": null
+        },
+        "null": {
+            "Psychic": "11",
+            "Leech Life": "18",
+            "Substitute": "20",
+            "Psyshock": "25",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Shadow Ball": "33",
+            "Future Sight": "34",
+            "Trick": "38",
+            "Skill Swap": "40",
+            "Iron Defense": "46",
+            "Calm Mind": "49",
+            "Bug Buzz": "61",
+            "Energy Ball": "65",
+            "Zen Headbutt": "69",
+            "Stored Power": "82",
+            "Ally Switch": "83",
+            "Body Press": "99"
+        },
+        "tm": {
+            "Solar Beam": "11",
+            "Light Screen": "17",
+            "Reflect": "18",
+            "Safeguard": "19",
+            "Rest": "21",
+            "Snore": "24",
+            "Protect": "25",
+            "Attract": "31",
+            "Facade": "39",
+            "Helping Hand": "41",
+            "Imprison": "44",
+            "Payback": "57",
+            "Power Swap": "60",
+            "Guard Swap": "61",
+            "Trick Room": "70",
+            "Wonder Room": "71",
+            "Magic Room": "72",
+            "Round": "76",
+            "Psychic Terrain": "91"
+        }
+    },
+    "entries": {
+        "Dottler": [
+            "It barely moves, but it\u2019s still alive. Hiding in its shell without food or water seems to have awakened its psychic powers.",
+            "As it grows inside its shell, it uses its psychic abilities to monitor the outside world and prepare for evolution."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793036012171264/825.png",
+    "discord_sprite": "<:P825:1132149100767367289>"
+}

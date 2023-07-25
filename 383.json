@@ -1,0 +1,246 @@
+{
+    "alt-version(s)": [
+        "Primal Groudon"
+    ],
+    "name": "Groudon",
+    "Groudon": {
+        "pokedex_data": {
+            "National No.": "0383",
+            "Type": [
+                "Ground"
+            ],
+            "Species": "Continent Poke\u0301mon",
+            "Height": "3.5 m (11\u203206\u2032\u2032)",
+            "Weight": "950.0 kg (2094.4 lbs)",
+            "Abilities": {
+                "Drought": {
+                    "href": "/ability/drought",
+                    "effect": "Turns the sunlight harsh when the Pok\u00e9mon enters a battle.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Attack",
+            "Catch rate": "3",
+            "BaseFriendship": "0",
+            "Base Exp.": "335",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "100",
+                "Min": "310",
+                "Max": "404"
+            },
+            "Attack": {
+                "Base": "150",
+                "Min": "274",
+                "Max": "438"
+            },
+            "Defense": {
+                "Base": "140",
+                "Min": "256",
+                "Max": "416"
+            },
+            "Sp. Atk": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Sp. Def": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Speed": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Total": "670"
+        },
+        "defense_stats": {
+            "default": {
+                "Water": "super-effective",
+                "Electric": "no effect",
+                "Grass": "super-effective",
+                "Ice": "super-effective",
+                "Poison": "not very effective",
+                "Rock": "not very effective"
+            }
+        }
+    },
+    "Primal Groudon": {
+        "pokedex_data": {
+            "National No.": "0383",
+            "Type": [
+                "Ground",
+                "Fire"
+            ],
+            "Species": "Continent Poke\u0301mon",
+            "Height": "5.0 m (16\u203205\u2032\u2032)",
+            "Weight": "999.7 kg (2204.0 lbs)",
+            "Abilities": {
+                "Desolate Land": {
+                    "href": "/ability/desolate-land",
+                    "effect": "Turns the sunlight extremely harsh when the ability activates.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Attack",
+            "Catch rate": "5",
+            "BaseFriendship": "0",
+            "Base Exp.": "347",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "100",
+                "Min": "310",
+                "Max": "404"
+            },
+            "Attack": {
+                "Base": "180",
+                "Min": "328",
+                "Max": "504"
+            },
+            "Defense": {
+                "Base": "160",
+                "Min": "292",
+                "Max": "460"
+            },
+            "Sp. Atk": {
+                "Base": "150",
+                "Min": "274",
+                "Max": "438"
+            },
+            "Sp. Def": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Speed": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Total": "770"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "no effect",
+                "Electric": "no effect",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Bug": "not very effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Ancient Power": "1",
+            "Lava Plume": "1",
+            "Mud Shot": "1",
+            "Precipice Blades": "1",
+            "Scary Face": "1",
+            "Earth Power": "9",
+            "Bulk Up": "18",
+            "Earthquake": "27",
+            "Hammer Arm": "36",
+            "Fissure": "45",
+            "Rest": "54",
+            "Fire Blast": "72",
+            "Solar Beam": "81",
+            "Eruption": "90"
+        },
+        "egg": null,
+        "tm": {
+            "Take Down": "01",
+            "Mud-Slap": "05",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Fire Fang": "08",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Bulldoze": "28",
+            "Metal Claw": "31",
+            "Mud Shot": "35",
+            "Rock Tomb": "36",
+            "Fling": "43",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Sandstorm": "51",
+            "Dig": "55",
+            "Brick Break": "58",
+            "Zen Headbutt": "59",
+            "Shadow Claw": "61",
+            "Bulk Up": "64",
+            "Body Slam": "66",
+            "Fire Punch": "67",
+            "Thunder Punch": "68",
+            "Sleep Talk": "70",
+            "Rock Blast": "76",
+            "Dragon Claw": "78",
+            "Thunder Wave": "82",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Swords Dance": "88",
+            "Body Press": "89",
+            "Spikes": "90",
+            "Iron Head": "99",
+            "Substitute": "103",
+            "Will-O-Wisp": "107",
+            "Crunch": "108",
+            "Dragon Pulse": "115",
+            "Stealth Rock": "116",
+            "Heat Wave": "118",
+            "Heavy Slam": "121",
+            "Flamethrower": "125",
+            "Thunderbolt": "126",
+            "Helping Hand": "130",
+            "Earth Power": "133",
+            "Fire Blast": "141",
+            "Earthquake": "149",
+            "Stone Edge": "150",
+            "Giga Impact": "152",
+            "Overheat": "157",
+            "Focus Blast": "158",
+            "Hyper Beam": "163",
+            "Thunder": "166",
+            "Solar Beam": "168",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Groudon": [
+            "GROUDON has long been described in mythology as the pok\u00e9mon that raised lands and expanded continents. This pok\u00e9mon took to sleep after a cataclysmic battle with KYOGRE.",
+            "GROUDON has the power to scatter rain clouds and make water evaporate with light and heat. It came as a savior to people who had been suffering from terrible floods.",
+            "This legendary pok\u00e9mon is said to represent the land. It went to sleep after dueling KYOGRE.",
+            "GROUDON has appeared in mythology as the creator of the land. It sleeps in magma underground and is said to make volcanoes erupt on awakening.",
+            "It had been asleep in underground magma ever since it fiercely fought KYOGRE long ago.",
+            "Said to have expanded the lands by evaporating water with raging heat. It battled titanically with KYOGRE.",
+            "It had been asleep in underground magma ever since it fiercely fought Kyogre long ago.",
+            "Said to have expanded the lands by evaporating water with raging heat. It battled titanically with Kyogre.",
+            "This legendary Pok\u00e9mon is said to represent the land. It went to sleep after dueling Kyogre.",
+            "Groudon is said to be the personification of the land itself. Legends tell of its many clashes against Kyogre, as each sought to gain the power of nature.",
+            "Through Primal Reversion and with nature\u2019s full power, it will take back its true form. It can cause magma to erupt and expand the landmass of the world.",
+            "It had been asleep in underground magma ever since it fiercely fought Kyogre long ago."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789592949969076/383.png",
+    "discord_sprite": "<:P383:1132129586059169813>"
+}

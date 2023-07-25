@@ -1,0 +1,255 @@
+{
+    "alt-version(s)": [],
+    "name": "Clefable",
+    "Clefable": {
+        "pokedex_data": {
+            "National No.": "0036",
+            "Type": [
+                "Fairy"
+            ],
+            "Species": "Fairy Poke\u0301mon",
+            "Height": "1.3 m (4\u203203\u2032\u2032)",
+            "Weight": "40.0 kg (88.2 lbs)",
+            "Abilities": {
+                "Cute Charm": {
+                    "href": "/ability/cute-charm",
+                    "effect": "Contact with the Pok\u00e9mon may cause infatuation.",
+                    "hidden": false
+                },
+                "Magic Guard": {
+                    "href": "/ability/magic-guard",
+                    "effect": "Protects the Pok\u00e9mon from indirect damage.",
+                    "hidden": false
+                },
+                "Unaware": {
+                    "href": "/ability/unaware",
+                    "effect": "Ignores any stat changes in the Pok\u00e9mon.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 HP",
+            "Catch rate": "25",
+            "BaseFriendship": "140",
+            "Base Exp.": "217",
+            "Growth Rate": "Fast"
+        },
+        "breeding_data": {
+            "Gender": "25% male,75% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "95",
+                "Min": "300",
+                "Max": "394"
+            },
+            "Attack": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Defense": {
+                "Base": "73",
+                "Min": "135",
+                "Max": "269"
+            },
+            "Sp. Atk": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Sp. Def": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Speed": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Total": "483"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "not very effective",
+                "Poison": "super-effective",
+                "Bug": "not very effective",
+                "Dragon": "no effect",
+                "Dark": "not very effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Cleffa",
+                    "nationalNo": "#0173",
+                    "type": [
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Clefairy",
+                    "nationalNo": "#0035",
+                    "type": [
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(high Friendship)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Clefairy",
+                    "nationalNo": "#0035",
+                    "type": [
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Clefable",
+                    "nationalNo": "#0036",
+                    "type": [
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Moon Stone)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "After You": "1",
+            "Charm": "1",
+            "Copycat": "1",
+            "Cosmic Power": "1",
+            "Defense Curl": "1",
+            "Disarming Voice": "1",
+            "Encore": "1",
+            "Follow Me": "1",
+            "Gravity": "1",
+            "Growl": "1",
+            "Healing Wish": "1",
+            "Life Dew": "1",
+            "Meteor Mash": "1",
+            "Metronome": "1",
+            "Minimize": "1",
+            "Moonblast": "1",
+            "Moonlight": "1",
+            "Pound": "1",
+            "Sing": "1",
+            "Splash": "1",
+            "Stored Power": "1",
+            "Sweet Kiss": "1"
+        },
+        "egg": {
+            "Amnesia": null,
+            "Aromatherapy": null,
+            "Belly Drum": null,
+            "Covet": null,
+            "Fake Tears": null,
+            "Heal Pulse": null,
+            "Metronome": null,
+            "Mimic": null,
+            "Misty Terrain": null,
+            "Present": null,
+            "Splash": null,
+            "Stored Power": null,
+            "Tickle": null,
+            "Wish": null
+        },
+        "tm": {
+            "Focus Punch": "01",
+            "Water Pulse": "03",
+            "Calm Mind": "04",
+            "Work Up": "10",
+            "Sunny Day": "11",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Hyper Beam": "15",
+            "Light Screen": "16",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Safeguard": "20",
+            "Dazzling Gleam": "21",
+            "Solar Beam": "22",
+            "Iron Tail": "23",
+            "Thunderbolt": "24",
+            "Thunder": "25",
+            "Dig": "28",
+            "Psychic": "29",
+            "Shadow Ball": "30",
+            "Brick Break": "31",
+            "Double Team": "32",
+            "Reflect": "33",
+            "Shock Wave": "34",
+            "Flamethrower": "35",
+            "Fire Blast": "38",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Focus Blast": "52",
+            "Fling": "56",
+            "Charge Beam": "57",
+            "Endure": "58",
+            "Drain Punch": "60",
+            "Recycle": "67",
+            "Giga Impact": "68",
+            "Flash": "70",
+            "Thunder Wave": "73",
+            "Stealth Rock": "76",
+            "Psych Up": "77",
+            "Sleep Talk": "82",
+            "Dream Eater": "85",
+            "Grass Knot": "86",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Strength": "96",
+            "Rock Smash": "98"
+        }
+    },
+    "entries": {
+        "Clefable": [
+            "A timid fairy pok\u00e9mon that is rarely seen. It will run and hide the moment it senses people.",
+            "They appear to be very protective of their own world. It is a kind of fairy, rarely seen by people.",
+            "With its acute hearing, it can pick up sounds from far away. It usually hides in quiet places.",
+            "Its very sensitive ears lets it distinguish distant sounds. As a result, it prefers quiet places.",
+            "Said to live in quiet, remote mountains, this type of fairy has a strong aversion to being seen.",
+            "CLEFABLE moves by skipping lightly as if it were flying using its wings. Its bouncy step lets it even walk on water. It is known to take strolls on lakes on quiet, moonlit nights.",
+            "It has an acute sense of hearing. It can easily hear a pin being dropped nearly 1,100 yards away.",
+            "A timid fairy pok\u00e9mon that is rarely seen, it will run and hide the moment it senses people.",
+            "A CLEFABLE uses its wings to skip lightly as if it were flying. Its bouncy step lets it even walk on water. On quiet, moonlit nights, it strolls on lakes.",
+            "Rarely seen by people, it is said to be drawn by the full moon to play at deserted lakes.",
+            "Its hearing is so acute it can hear a pin drop over half a mile away. It lives on quiet mountains.",
+            "It is very wary and rarely shows itself to people. Its ears can hear a pin drop over half a mile away.",
+            "With its acute hearing, it can pick up sounds from far away. It usually hides in quiet places.",
+            "Its very sensitive ears let it distinguish distant sounds. As a result, it prefers quiet places.",
+            "It is very wary and rarely shows itself to people. Its ears can hear a pin drop over half a mile away.",
+            "Their ears are sensitive enough to hear a pin drop from over a mile away, so they\u2019re usually found in quiet places.",
+            "Its hearing is so acute it can hear a pin drop over half a mile away. It lives on quiet mountains.",
+            "A timid fairy Pok\u00e9mon that is rarely seen, it will run and hide the moment it senses people.",
+            "Clefable moves by skipping lightly as if it were flying using its wings. Its bouncy step lets it even walk on water. It is known to take strolls on lakes on quiet, moonlit nights.",
+            "They don\u2019t like to reveal themselves in front of people. They live quietly in packs deep in the mountains.",
+            "According to tradition, people who see a pair of Clefable skipping by can look forward to a happy marriage.",
+            "It can\u2019t help but hear a pin drop from over half a mile away, so it lives deep in the mountains where there aren\u2019t many people or Pok\u00e9mon.",
+            "Some scientists believe that it gazes intently at the sky on nights with a full moon because it\u2019s homesick.",
+            "They appear to be very protective of their own world. It is a kind of fairy, rarely seen by people.",
+            "A timid fairy Pok\u00e9mon that is rarely seen, it will run and hide the moment it senses people.",
+            "Their ears are sensitive enough to hear a pin drop from over a mile away, so they\u2019re usually found in quiet places.",
+            "Rarely seen by people, it is said to be drawn by the full moon to play at deserted lakes.",
+            "Its hearing is so acute it can hear a pin drop over half a mile away. It lives on quiet mountains.",
+            "Legend says that on clear, quiet nights, it listens for the voices of its kin living on the moon. I, too, often think of my homeland, so far away."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131786869978435614/36.png",
+    "discord_sprite": "<:P36:1131973475679084574>"
+}

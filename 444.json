@@ -1,0 +1,219 @@
+{
+    "alt-version(s)": [],
+    "name": "Gabite",
+    "Gabite": {
+        "pokedex_data": {
+            "National No.": "0444",
+            "Type": [
+                "Dragon",
+                "Ground"
+            ],
+            "Species": "Cave Poke\u0301mon",
+            "Height": "1.4 m (4\u203207\u2032\u2032)",
+            "Weight": "56.0 kg (123.5 lbs)",
+            "Abilities": {
+                "Sand Veil": {
+                    "href": "/ability/sand-veil",
+                    "effect": "Boosts the Pok\u00e9mon's evasion in a sandstorm.",
+                    "hidden": false
+                },
+                "Rough Skin": {
+                    "href": "/ability/rough-skin",
+                    "effect": "Inflicts damage to the attacker on contact.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "144",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "68",
+                "Min": "246",
+                "Max": "340"
+            },
+            "Attack": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Defense": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Atk": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Def": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Speed": {
+                "Base": "82",
+                "Min": "152",
+                "Max": "289"
+            },
+            "Total": "410"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Electric": "no effect",
+                "Ice": "super-effective",
+                "Poison": "not very effective",
+                "Rock": "not very effective",
+                "Dragon": "super-effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Gible",
+                    "nationalNo": "#0443",
+                    "type": [
+                        "Dragon",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Gabite",
+                    "nationalNo": "#0444",
+                    "type": [
+                        "Dragon",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 24)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Gabite",
+                    "nationalNo": "#0444",
+                    "type": [
+                        "Dragon",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Garchomp",
+                    "nationalNo": "#0445",
+                    "type": [
+                        "Dragon",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 48)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Dragon Breath": "1",
+            "Sand Attack": "1",
+            "Sand Tomb": "1",
+            "Tackle": "1",
+            "Bulldoze": "18",
+            "Bite": "27",
+            "Slash": "34",
+            "Dragon Claw": "42",
+            "Dig": "50",
+            "Sandstorm": "58",
+            "Take Down": "66",
+            "Dragon Rush": "74"
+        },
+        "egg": {
+            "Double-Edge": null,
+            "Metal Claw": null,
+            "Thrash": null,
+            "Twister": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Fire Fang": "08",
+            "Thunder Fang": "09",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Bulldoze": "28",
+            "Metal Claw": "31",
+            "Swift": "32",
+            "Mud Shot": "35",
+            "Rock Tomb": "36",
+            "Dragon Tail": "44",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Sandstorm": "51",
+            "Dig": "55",
+            "False Swipe": "57",
+            "Shadow Claw": "61",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Dragon Claw": "78",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Swords Dance": "88",
+            "Iron Head": "99",
+            "Power Gem": "101",
+            "Substitute": "103",
+            "Crunch": "108",
+            "Dragon Pulse": "115",
+            "Stealth Rock": "116",
+            "Flamethrower": "125",
+            "Helping Hand": "130",
+            "Earth Power": "133",
+            "Fire Blast": "141",
+            "Earthquake": "149",
+            "Stone Edge": "150",
+            "Outrage": "156",
+            "Draco Meteor": "169",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Gabite": [
+            "There is a long-held belief that medicine made from its scales will heal even incurable illnesses.",
+            "It habitually digs up and hoards gems in its nest. Its loot is constantly targeted by thieves.",
+            "It loves sparkly things. It seeks treasures in caves and hoards the loot in its nest.",
+            "As it digs to expand its nest, it habitually digs up gems that it then hoards in its nest.",
+            "It loves sparkly things. It seeks treasures in caves and hoards the loot in its nest.",
+            "It loves sparkly things. It seeks treasures in caves and hoards the loot in its nest.",
+            "As it digs to expand its nest, it habitually digs up gems that it then hoards in its nest.",
+            "In rare cases, it molts and sheds its scales. Medicine containing its scales as an ingredient will make a weary body feel invigorated.",
+            "Shiny objects are its passion. It can be found in its cave, scarcely moving, its gaze fixed on the jewels it\u2019s amassed or Carbink it has caught.",
+            "It loves shiny things. When it finds a Sableye trying to catch a Carbink, Gabite becomes furiously angry and attacks the Sableye.",
+            "It sheds its skin and gradually grows larger. Its scales can be ground into a powder and used as raw materials for traditional medicine.",
+            "This Pok\u00e9mon emits ultrasonic waves from a protrusion on either side of its head to probe pitch-dark caves.",
+            "Jewels are buried in the caves these Pok\u00e9mon nest in, but you\u2019ll be torn apart by claws and fangs the moment you enter one of these caves.",
+            "There is a long-held belief that medicine made from its scales will heal incurable illnesses.",
+            "It habitually digs up and hoards gems in its nest. Its loot is constantly targeted by thieves.",
+            "Though Gabite are usually of a violent disposition, when I gave one a glass bead it had been eyeing covetously, it suddenly became quite docile.",
+            "In rare cases, it molts and sheds its scales. Medicine containing its scales as an ingredient will make a weary body feel invigorated.",
+            "It loves sparkly things. It seeks treasures in caves and hoards the loot in its nest."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790064947572736/444.png",
+    "discord_sprite": "<:P444:1132132268203319306>"
+}

@@ -1,0 +1,206 @@
+{
+    "alt-version(s)": [],
+    "name": "Mareep",
+    "Mareep": {
+        "pokedex_data": {
+            "National No.": "0179",
+            "Type": [
+                "Electric"
+            ],
+            "Species": "Wool Poke\u0301mon",
+            "Height": "0.6 m (2\u203200\u2032\u2032)",
+            "Weight": "7.8 kg (17.2 lbs)",
+            "Abilities": {
+                "Static": {
+                    "href": "/ability/static",
+                    "effect": "Contact with the Pok\u00e9mon may cause paralysis.",
+                    "hidden": false
+                },
+                "Plus": {
+                    "href": "/ability/plus",
+                    "effect": "Ups Sp. Atk if another Pok\u00e9mon has Plus or Minus.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Sp. Atk",
+            "Catch rate": "235",
+            "BaseFriendship": "50",
+            "Base Exp.": "56",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "55",
+                "Min": "220",
+                "Max": "314"
+            },
+            "Attack": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Defense": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Atk": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Def": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Speed": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Total": "280"
+        },
+        "defense_stats": {
+            "default": {
+                "Electric": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Mareep",
+                    "nationalNo": "#0179",
+                    "type": [
+                        "Electric"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Flaaffy",
+                    "nationalNo": "#0180",
+                    "type": [
+                        "Electric"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 15)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Flaaffy",
+                    "nationalNo": "#0180",
+                    "type": [
+                        "Electric"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Ampharos",
+                    "nationalNo": "#0181",
+                    "type": [
+                        "Electric"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 30)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Growl": "1",
+            "Tackle": "1",
+            "Thunder Wave": "4",
+            "Thunder Shock": "8",
+            "Cotton Spore": "11",
+            "Charge": "15",
+            "Take Down": "18",
+            "Electro Ball": "22",
+            "Confuse Ray": "25",
+            "Power Gem": "29",
+            "Discharge": "32",
+            "Cotton Guard": "36",
+            "Dazzling Gleam": "39",
+            "Light Screen": "43",
+            "Thunder": "46"
+        },
+        "egg": {
+            "After You": null,
+            "Agility": null,
+            "Eerie Impulse": null,
+            "Electric Terrain": null,
+            "Electroweb": null,
+            "Flatter": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Agility": "04",
+            "Protect": "07",
+            "Confuse Ray": "17",
+            "Trailblaze": "20",
+            "Charge Beam": "23",
+            "Facade": "25",
+            "Endure": "47",
+            "Volt Switch": "48",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Dig": "55",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Electro Ball": "72",
+            "Reflect": "74",
+            "Light Screen": "75",
+            "Dazzling Gleam": "79",
+            "Thunder Wave": "82",
+            "Rest": "85",
+            "Eerie Impulse": "96",
+            "Power Gem": "101",
+            "Substitute": "103",
+            "Thunderbolt": "126",
+            "Helping Hand": "130",
+            "Electric Terrain": "136",
+            "Wild Charge": "147",
+            "Thunder": "166",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Mareep": [
+            "If static electricity builds in its body, its fleece doubles in volume. Touching it will shock you.",
+            "Its fleece grows continually. In the summer, the fleece is fully shed, but it grows back in a week.",
+            "It stores lots of air in its soft fur, allowing it to stay cool in summer and warm in winter.",
+            "MAREEP\u2019s fluffy coat of wool rubs together and builds a static charge. The more static electricity is charged, the more brightly the lightbulb at the tip of its tail grows.",
+            "Its fleece grows continually. In the summer, the fleece is fully shed, but it grows back in a week.",
+            "If static electricity builds in its body, its fleece doubles in volume. Touching it will shock you.",
+            "Its fluffy wool rubs together and builds a static charge. The more energy is charged, the more brightly the lightbulb at the tip of its tail glows.",
+            "Its fluffy coat swells to double when static electricity builds up. Touching it can be shocking.",
+            "If static electricity builds in its body, its fleece doubles in volume. Touching it will shock you.",
+            "Its fleece grows continually. In the summer, the fleece is fully shed, but it grows back in a week.",
+            "Its fluffy coat swells to double when static electricity builds up. Touching it can be shocking.",
+            "When cold weather increases static electricity, its wool doubles in size and the tip of its tail glows slightly.",
+            "Its fluffy coat swells to double when static electricity builds up. Touching it can be shocking.",
+            "It stores lots of air in its soft fur, allowing it to stay cool in summer and warm in winter.",
+            "Mareep\u2019s fluffy coat of wool rubs together and builds a static charge. The more static electricity is charged, the more brightly the lightbulb at the tip of its tail glows.",
+            "Clothing made from Mareep\u2019s fleece is easily charged with static electricity, so a special process is used on it.",
+            "Rubbing its fleece generates electricity. You\u2019ll want to pet it because it\u2019s cute, but if you use your bare hand, you\u2019ll get a painful shock.",
+            "Its fluffy coat doubles in size when static electricity builds up. Touching it can be shocking.",
+            "If static electricity builds in its body, its fleece doubles in volume. Touching it will shock you.",
+            "Its fleece grows continually. In the summer, the fleece is fully shed, but it grows back in a week."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787989085864026/179.png",
+    "discord_sprite": "<:P179:1132120611456565318>"
+}

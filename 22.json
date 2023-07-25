@@ -1,0 +1,190 @@
+{
+    "alt-version(s)": [],
+    "name": "Fearow",
+    "Fearow": {
+        "pokedex_data": {
+            "National No.": "0022",
+            "Type": [
+                "Normal",
+                "Flying"
+            ],
+            "Species": "Beak Poke\u0301mon",
+            "Height": "1.2 m (3\u203211\u2032\u2032)",
+            "Weight": "38.0 kg (83.8 lbs)",
+            "Abilities": {
+                "Keen Eye": {
+                    "href": "/ability/keen-eye",
+                    "effect": "Prevents other Pok\u00e9mon from lowering accuracy.",
+                    "hidden": false
+                },
+                "Sniper": {
+                    "href": "/ability/sniper",
+                    "effect": "Powers up moves if they become critical hits.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Speed",
+            "Catch rate": "90",
+            "BaseFriendship": "50",
+            "Base Exp.": "155",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "65",
+                "Min": "240",
+                "Max": "334"
+            },
+            "Attack": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Defense": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Atk": {
+                "Base": "61",
+                "Min": "114",
+                "Max": "243"
+            },
+            "Sp. Def": {
+                "Base": "61",
+                "Min": "114",
+                "Max": "243"
+            },
+            "Speed": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Total": "442"
+        },
+        "defense_stats": {
+            "default": {
+                "Electric": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Ground": "no effect",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Spearow",
+                    "nationalNo": "#0021",
+                    "type": [
+                        "Normal",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Fearow",
+                    "nationalNo": "#0022",
+                    "type": [
+                        "Normal",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 20)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Drill Run": "45",
+            "Growl": "1",
+            "Leer": "4",
+            "Peck": "1",
+            "Pluck": "1",
+            "Assurance": "8",
+            "Fury Attack": "11",
+            "Aerial Ace": "15",
+            "Wing Attack": "18",
+            "Take Down": "23",
+            "Agility": "27",
+            "Focus Energy": "32",
+            "Roost": "36",
+            "Drill Peck": "41"
+        },
+        "egg": {
+            "Astonish": null,
+            "Feather Dance": null,
+            "Quick Attack": null,
+            "Scary Face": null,
+            "Sky Attack": null,
+            "Tri Attack": null,
+            "Uproar": null,
+            "Whirlwind": null
+        },
+        "tm": {
+            "Work Up": "10",
+            "Sunny Day": "11",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Double Team": "32",
+            "Aerial Ace": "40",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Steel Wing": "47",
+            "Roost": "51",
+            "False Swipe": "54",
+            "Endure": "58",
+            "Giga Impact": "68",
+            "Sleep Talk": "82",
+            "Swagger": "87",
+            "Pluck": "88",
+            "U-turn": "89",
+            "Substitute": "90",
+            "Fly": "94",
+            "Defog": "97"
+        }
+    },
+    "entries": {
+        "Fearow": [
+            "With its huge and magnificent wings, it can keep aloft without ever having to land for rest.",
+            "A pok\u00e9mon that dates back many years. If it senses danger, it flies high and away, instantly.",
+            "It shoots itself suddenly high into the sky, then plummets down in one fell swoop to strike its prey.",
+            "It cleverly uses its thin, long beak to pluck and eat small insects that hide under the ground.",
+            "It uses its long beak to attack. It has a surprisingly long reach, so it must be treated with caution.",
+            "FEAROW is recognized by its long neck and elongated beak. They are conveniently shaped for catching prey in soil or water. It deftly moves its long and skinny beak to pluck prey.",
+            "Its huge and magnificent wings can keep it aloft in the sky. It can remain flying a whole day without landing.",
+            "With its huge and magnificent wings, it can keep aloft without ever having to land for rest.",
+            "Its long neck and elongated beak are ideal for catching prey in soil or water. It deftly moves this extended and skinny beak to pluck prey.",
+            "It has the stamina to fly all day on its broad wings. It fights by using its sharp beak.",
+            "It has the stamina to keep flying all day on its broad wings. It fights by using its sharp beak.",
+            "It shoots itself suddenly high into the sky, then plummets down in one fell swoop to strike its prey.",
+            "It cleverly uses its thin, long beak to pluck and eat small insects that hide under the ground.",
+            "It has the stamina to fly all day on its broad wings. It fights by using its sharp beak.",
+            "With its huge and magnificent wings, it can keep aloft without ever having to land for rest.",
+            "It has the stamina to fly all day on its broad wings. It fights by using its sharp beak.",
+            "Fearow is recognized by its long neck and elongated beak. They are conveniently shaped for catching prey in soil or water. It deftly moves its long and skinny beak to pluck prey.",
+            "It\u2019s tough and has excellent stamina. It has no problem flying continuously for a whole day carrying a heavy load.",
+            "Drawings of a Pok\u00e9mon resembling Fearow can be seen in murals from deep in ancient history.",
+            "Carrying food through Fearow\u2019s territory is dangerous. It will snatch the food away from you in a flash!",
+            "In Alola, fish Pok\u00e9mon are its prey. It can be seen circling above the ocean searching for food.",
+            "A Pok\u00e9mon that dates back many years. If it senses danger, it flies high and away, instantly.",
+            "It has the stamina to fly all day on its broad wings. It fights by using its sharp beak."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131786760230281216/22.png",
+    "discord_sprite": "<:P22:1131972859108012105>"
+}

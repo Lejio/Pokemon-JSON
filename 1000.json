@@ -1,0 +1,175 @@
+{
+    "alt-version(s)": [],
+    "name": "Gholdengo",
+    "Gholdengo": {
+        "pokedex_data": {
+            "National No.": "1000",
+            "Type": [
+                "Steel",
+                "Ghost"
+            ],
+            "Species": "Coin Entity Poke\u0301mon",
+            "Height": "1.2 m (3\u203211\u2032\u2032)",
+            "Weight": "30.0 kg (66.1 lbs)",
+            "Abilities": {
+                "Good as Gold": {
+                    "href": "/ability/good-as-gold",
+                    "effect": "Gives immunity to status moves.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Sp. Atk",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "275",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "87",
+                "Min": "284",
+                "Max": "378"
+            },
+            "Attack": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Defense": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Sp. Atk": {
+                "Base": "133",
+                "Min": "243",
+                "Max": "401"
+            },
+            "Sp. Def": {
+                "Base": "91",
+                "Min": "168",
+                "Max": "309"
+            },
+            "Speed": {
+                "Base": "84",
+                "Min": "155",
+                "Max": "293"
+            },
+            "Total": "550"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "no effect",
+                "Fire": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Fighting": "no effect",
+                "Poison": "no effect",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Ghost": "super-effective",
+                "Dragon": "not very effective",
+                "Dark": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Gimmighoul",
+                    "nationalNo": "#0999",
+                    "type": [
+                        "Ghost"
+                    ],
+                    "nickname": "Chest Form"
+                },
+                "to": {
+                    "name": "Gholdengo",
+                    "nationalNo": "#1000",
+                    "type": [
+                        "Steel",
+                        "Ghost"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(collect 999 Coins from Roaming Form)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Astonish": "1",
+            "Tackle": "1",
+            "Night Shade": "7",
+            "Confuse Ray": "14",
+            "Substitute": "21",
+            "Metal Sound": "28",
+            "Shadow Ball": "35",
+            "Recover": "42",
+            "Power Gem": "49",
+            "Make It Rain": "56",
+            "Nasty Plot": "63",
+            "Memento": "70"
+        },
+        "egg": null,
+        "tm": {
+            "Take Down": "01",
+            "Protect": "07",
+            "Low Kick": "12",
+            "Confuse Ray": "17",
+            "Thief": "18",
+            "Charge Beam": "23",
+            "Hex": "29",
+            "Low Sweep": "39",
+            "Night Shade": "42",
+            "Fling": "43",
+            "Endure": "47",
+            "Sandstorm": "51",
+            "Psyshock": "54",
+            "Thunder Punch": "68",
+            "Sleep Talk": "70",
+            "Electro Ball": "72",
+            "Reflect": "74",
+            "Light Screen": "75",
+            "Dazzling Gleam": "79",
+            "Thunder Wave": "82",
+            "Rest": "85",
+            "Flash Cannon": "93",
+            "Iron Head": "99",
+            "Power Gem": "101",
+            "Substitute": "103",
+            "Trick": "109",
+            "Shadow Ball": "114",
+            "Psychic": "120",
+            "Heavy Slam": "121",
+            "Thunderbolt": "126",
+            "Nasty Plot": "140",
+            "Giga Impact": "152",
+            "Focus Blast": "158",
+            "Hyper Beam": "163",
+            "Thunder": "166",
+            "Steel Beam": "170",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Gholdengo": [
+            "Its body seems to be made up of 1,000 coins. This Pok\u00e9mon gets along well with others and is quick to make friends with anybody.",
+            "It has a sturdy body made up of stacked coins. Gholdengo overwhelms its enemies by firing coin after coin at them in quick succession."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131794400079511612/1000.png",
+    "discord_sprite": "<:P1000:1132156794676989983>"
+}

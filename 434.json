@@ -1,0 +1,198 @@
+{
+    "alt-version(s)": [],
+    "name": "Stunky",
+    "Stunky": {
+        "pokedex_data": {
+            "National No.": "0434",
+            "Type": [
+                "Poison",
+                "Dark"
+            ],
+            "Species": "Skunk Poke\u0301mon",
+            "Height": "0.4 m (1\u203204\u2032\u2032)",
+            "Weight": "19.2 kg (42.3 lbs)",
+            "Abilities": {
+                "Stench": {
+                    "href": "/ability/stench",
+                    "effect": "The stench may cause the target to flinch.",
+                    "hidden": false
+                },
+                "Aftermath": {
+                    "href": "/ability/aftermath",
+                    "effect": "Damages the attacker landing the finishing hit.",
+                    "hidden": false
+                },
+                "Keen Eye": {
+                    "href": "/ability/keen-eye",
+                    "effect": "Prevents other Pok\u00e9mon from lowering accuracy.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Speed",
+            "Catch rate": "225",
+            "BaseFriendship": "50",
+            "Base Exp.": "66",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "63",
+                "Min": "236",
+                "Max": "330"
+            },
+            "Attack": {
+                "Base": "63",
+                "Min": "117",
+                "Max": "247"
+            },
+            "Defense": {
+                "Base": "47",
+                "Min": "89",
+                "Max": "212"
+            },
+            "Sp. Atk": {
+                "Base": "41",
+                "Min": "78",
+                "Max": "199"
+            },
+            "Sp. Def": {
+                "Base": "41",
+                "Min": "78",
+                "Max": "199"
+            },
+            "Speed": {
+                "Base": "74",
+                "Min": "137",
+                "Max": "271"
+            },
+            "Total": "329"
+        },
+        "defense_stats": {
+            "default": {
+                "Grass": "not very effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Psychic": "no effect",
+                "Ghost": "not very effective",
+                "Dark": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Stunky",
+                    "nationalNo": "#0434",
+                    "type": [
+                        "Poison",
+                        "Dark"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Skuntank",
+                    "nationalNo": "#0435",
+                    "type": [
+                        "Poison",
+                        "Dark"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 34)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Poison Gas": "1",
+            "Scratch": "1",
+            "Feint": "3",
+            "Smokescreen": "6",
+            "Acid Spray": "9",
+            "Fury Swipes": "12",
+            "Focus Energy": "15",
+            "Bite": "18",
+            "Venoshock": "21",
+            "Screech": "24",
+            "Toxic": "27",
+            "Sucker Punch": "30",
+            "Memento": "33",
+            "Night Slash": "36",
+            "Belch": "39",
+            "Explosion": "42"
+        },
+        "egg": {
+            "Astonish": null,
+            "Double-Edge": null,
+            "Haze": null,
+            "Leer": null,
+            "Slash": null,
+            "Smog": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Acid Spray": "13",
+            "Thief": "18",
+            "Trailblaze": "20",
+            "Facade": "25",
+            "Poison Tail": "26",
+            "Hex": "29",
+            "Snarl": "30",
+            "Swift": "32",
+            "Venoshock": "45",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Dig": "55",
+            "Shadow Claw": "61",
+            "Foul Play": "62",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Poison Jab": "83",
+            "Rest": "85",
+            "Taunt": "87",
+            "Toxic Spikes": "91",
+            "Dark Pulse": "94",
+            "Gunk Shot": "102",
+            "Substitute": "103",
+            "Crunch": "108",
+            "Shadow Ball": "114",
+            "Flamethrower": "125",
+            "Play Rough": "127",
+            "Helping Hand": "130",
+            "Nasty Plot": "140",
+            "Fire Blast": "141",
+            "Sludge Bomb": "148",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Stunky": [
+            "It protects itself by spraying a noxious fluid from its rear. The stench lingers for 24 hours.",
+            "It sprays a nose-curling, stinky fluid from its rear to repel attackers.",
+            "It sprays a foul fluid from its rear. Its stench spreads over a mile radius, driving Pok\u00e9mon away.",
+            "The foul fluid from its rear is so revolting that it can make people feel queasy up to a mile and a quarter away.",
+            "It sprays a foul fluid from its rear. Its stench spreads over a mile radius, driving Pok\u00e9mon away.",
+            "It sprays a foul fluid from its rear. Its stench spreads over a mile radius, driving Pok\u00e9mon away.",
+            "It protects itself by spraying a noxious fluid from its rear. The stench lingers for 24 hours.",
+            "From its rear, it sprays a foul-smelling liquid at opponents. It aims for their faces, and it can hit them from over 16 feet away.",
+            "If it lifts its tail and points its rear at you, beware. It\u2019s about to spray you with a fluid stinky enough to make you faint.",
+            "It protects itself by spraying a noxious fluid from its rear. The stench lingers for 24 hours.",
+            "It sprays a nose-curling, stinky fluid from its rear to repel attackers.",
+            "The poison that gushes from its aft end is accompanied by an utterly evil-smelling odor with such potency that one whiff can induce memory loss.",
+            "It sprays a foul fluid from its rear. Its stench spreads over a mile radius, driving Pok\u00e9mon away.",
+            "The foul fluid from its rear is so revolting that it can make people feel queasy up to a mile and a quarter away."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789986409222226/434.png",
+    "discord_sprite": "<:P434:1132131829344899154>"
+}

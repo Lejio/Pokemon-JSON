@@ -1,0 +1,189 @@
+{
+    "alt-version(s)": [],
+    "name": "Patrat",
+    "Patrat": {
+        "pokedex_data": {
+            "National No.": "0504",
+            "Type": [
+                "Normal"
+            ],
+            "Species": "Scout Poke\u0301mon",
+            "Height": "0.5 m (1\u203208\u2032\u2032)",
+            "Weight": "11.6 kg (25.6 lbs)",
+            "Abilities": {
+                "Run Away": {
+                    "href": "/ability/run-away",
+                    "effect": "Enables a sure getaway from wild Pok\u00e9mon.",
+                    "hidden": false
+                },
+                "Keen Eye": {
+                    "href": "/ability/keen-eye",
+                    "effect": "Prevents other Pok\u00e9mon from lowering accuracy.",
+                    "hidden": false
+                },
+                "Analytic": {
+                    "href": "/ability/analytic",
+                    "effect": "Boosts move power when the Pok\u00e9mon moves last.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack",
+            "Catch rate": "255",
+            "BaseFriendship": "50",
+            "Base Exp.": "51",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "45",
+                "Min": "200",
+                "Max": "294"
+            },
+            "Attack": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Defense": {
+                "Base": "39",
+                "Min": "74",
+                "Max": "194"
+            },
+            "Sp. Atk": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Sp. Def": {
+                "Base": "39",
+                "Min": "74",
+                "Max": "194"
+            },
+            "Speed": {
+                "Base": "42",
+                "Min": "80",
+                "Max": "201"
+            },
+            "Total": "255"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Patrat",
+                    "nationalNo": "#0504",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Watchog",
+                    "nationalNo": "#0505",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 20)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Tackle": "1",
+            "Leer": "3",
+            "Bite": "6",
+            "Bide": "8",
+            "Detect": "11",
+            "Sand Attack": "13",
+            "Crunch": "16",
+            "Hypnosis": "18",
+            "Super Fang": "21",
+            "After You": "23",
+            "Focus Energy": "26",
+            "Work Up": "28",
+            "Hyper Fang": "31",
+            "Nasty Plot": "33",
+            "Mean Look": "36",
+            "Baton Pass": "38",
+            "Slam": "41"
+        },
+        "egg": {
+            "Assurance": null,
+            "Bullet Seed": null,
+            "Flail": null,
+            "Foresight": null,
+            "Iron Tail": null,
+            "Pursuit": null,
+            "Revenge": null,
+            "Screech": null,
+            "Tearful Look": null
+        },
+        "null": {
+            "After You": "\u2014",
+            "Aqua Tail": "90",
+            "Covet": "60",
+            "Endeavor": "\u2014",
+            "Gunk Shot": "120",
+            "Helping Hand": "\u2014",
+            "Iron Tail": "100",
+            "Laser Focus": "\u2014",
+            "Last Resort": "140",
+            "Low Kick": "\u2014",
+            "Seed Bomb": "80",
+            "Shock Wave": "60",
+            "Snore": "50",
+            "Super Fang": "\u2014",
+            "Zen Headbutt": "80"
+        },
+        "tm": {
+            "Work Up": "01",
+            "Toxic": "06",
+            "Hidden Power": "10",
+            "Sunny Day": "11",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Frustration": "21",
+            "Thunderbolt": "24",
+            "Return": "27",
+            "Shadow Ball": "30",
+            "Double Team": "32",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Round": "48",
+            "Fling": "56",
+            "Swords Dance": "75",
+            "Grass Knot": "86",
+            "Swagger": "87",
+            "Sleep Talk": "88",
+            "Substitute": "90",
+            "Confide": "100"
+        }
+    },
+    "entries": {
+        "Patrat": [
+            "Using food stored in cheek pouches, they can keep watch for days. They use their tails to communicate with others.",
+            "Extremely cautious, they take shifts to maintain a constant watch of their nest. They feel insecure without a lookout.",
+            "Extremely cautious, one of them will always be on the lookout, but it won\u2019t notice a foe coming from behind.",
+            "Using food stored in cheek pouches, they can keep watch for days. They use their tails to communicate with others.",
+            "Extremely cautious, one of them will always be on the lookout, but it won\u2019t notice a foe coming from behind."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790530116849735/504.png",
+    "discord_sprite": "<:P504:1132134908102451261>"
+}

@@ -1,0 +1,208 @@
+{
+    "alt-version(s)": [],
+    "name": "Goldeen",
+    "Goldeen": {
+        "pokedex_data": {
+            "National No.": "0118",
+            "Type": [
+                "Water"
+            ],
+            "Species": "Goldfish Poke\u0301mon",
+            "Height": "0.6 m (2\u203200\u2032\u2032)",
+            "Weight": "15.0 kg (33.1 lbs)",
+            "Abilities": {
+                "Swift Swim": {
+                    "href": "/ability/swift-swim",
+                    "effect": "Boosts the Pok\u00e9mon's Speed in rain.",
+                    "hidden": false
+                },
+                "Water Veil": {
+                    "href": "/ability/water-veil",
+                    "effect": "Prevents the Pok\u00e9mon from getting a burn.",
+                    "hidden": false
+                },
+                "Lightning Rod": {
+                    "href": "/ability/lightning-rod",
+                    "effect": "Draws in all Electric-type moves to up Sp. Attack.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack",
+            "Catch rate": "225",
+            "BaseFriendship": "50",
+            "Base Exp.": "64",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "45",
+                "Min": "200",
+                "Max": "294"
+            },
+            "Attack": {
+                "Base": "67",
+                "Min": "125",
+                "Max": "256"
+            },
+            "Defense": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Atk": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Sp. Def": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Speed": {
+                "Base": "63",
+                "Min": "117",
+                "Max": "247"
+            },
+            "Total": "320"
+        },
+        "defense_stats": {
+            "Swift Swim ability": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Steel": "not very effective"
+            },
+            "Water Veil ability": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Steel": "not very effective"
+            },
+            "Lightning Rod ability": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "no effect",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Goldeen",
+                    "nationalNo": "#0118",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Seaking",
+                    "nationalNo": "#0119",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 33)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Peck": "1",
+            "Tail Whip": "1",
+            "Supersonic": "5",
+            "Water Pulse": "10",
+            "Horn Attack": "15",
+            "Agility": "20",
+            "Aqua Ring": "25",
+            "Flail": "30",
+            "Waterfall": "35",
+            "Soak": "40",
+            "Megahorn": "45",
+            "Horn Drill": "50"
+        },
+        "egg": {
+            "Acupressure": null,
+            "Aqua Tail": null,
+            "Body Slam": null,
+            "Haze": null,
+            "Hydro Pump": null,
+            "Mud Shot": null,
+            "Mud-Slap": null,
+            "Psybeam": null,
+            "Skull Bash": null
+        },
+        "tm": {
+            "Water Pulse": "03",
+            "Hail": "07",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Double Team": "32",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Scald": "49",
+            "Endure": "58",
+            "Swords Dance": "75",
+            "Sleep Talk": "82",
+            "Poison Jab": "84",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Surf": "95",
+            "Waterfall": "99"
+        }
+    },
+    "entries": {
+        "Goldeen": [
+            "Its tail fin billows like an elegant ballroom dress, giving it the nickname of the Water Queen.",
+            "When it is time for them to lay eggs, they can be seen swimming up rivers and falls in large groups.",
+            "Its dorsal, pectoral and tail fins wave elegantly in water. That is why it is known as the water dancer.",
+            "A strong swimmer, it is capable of swimming nonstop up fast streams at a steady speed of five knots.",
+            "During spawning season, they swim gracefully in the water, searching for their perfect mate.",
+            "GOLDEEN is a very beautiful pok\u00e9mon with fins that billow elegantly in water. However, don\u2019t let your guard down around this pok\u00e9mon - it could ram you powerfully with its horn.",
+            "GOLDEEN loves swimming wild and free in rivers and ponds. If one of these pok\u00e9mon is placed in an aquarium, it will shatter even the thickest glass with one ram of its horn and make its escape.",
+            "Its dorsal and pectoral fins are strongly developed like muscles. It can swim at a speed of five knots.",
+            "Its tail fin billows like an elegant ballroom dress, giving it the nickname of \u201cThe Water Queen.\u201d",
+            "In the springtime, schools of GOLDEEN can be seen swimming up falls and rivers. It metes out staggering damage with its single horn.",
+            "It swims elegantly by flittering its tail fin as if it were a dress. It has the look of a queen.",
+            "It swims at a steady 5 knots. If it senses danger, it will strike back with its sharp horn.",
+            "Though it appears very elegant when swimming with fins unfurled, it can jab powerfully with its horn.",
+            "Its dorsal, pectoral and tail fins wave elegantly in water. That is why it is known as the water dancer.",
+            "A strong swimmer, it is capable of swimming nonstop up fast streams at a steady speed of five knots per hour.",
+            "Though it appears very elegant when swimming with fins unfurled, it can jab powerfully with its horn.",
+            "It swims at a steady 5 knots. If it senses danger, it will strike back with its sharp horn.",
+            "Its dorsal, pectoral, and tail fins wave elegantly in water. That is why it is known as the water dancer.",
+            "Goldeen is a very beautiful Pok\u00e9mon with fins that billow elegantly in water. However, don\u2019t let your guard down around this Pok\u00e9mon\u2014it could ram you powerfully with its horn.",
+            "Goldeen loves swimming wild and free in rivers and ponds. If one of these Pok\u00e9mon is placed in an aquarium, it will shatter even the thickest glass with one ram of its horn and make its escape.",
+            "When the weather grows warm, they form groups and swim upriver. This sight serves as a poetic reminder that spring has arrived.",
+            "Spellbound by the length of its horn and the beauty of its fins, many strange Trainers raise Goldeen and nothing but Goldeen.",
+            "Although known for their splendid tail fins, Goldeen apparently compete among themselves to see whose horn is thickest and sharpest.",
+            "The way it swims along fluttering its dress-like fins has earned it the name \u201cprincess of the water.\u201d",
+            "When it is time for them to lay eggs, they can be seen swimming up rivers and falls in large groups.",
+            "Its dorsal, pectoral, and tail fins wave elegantly in water. That is why it is known as the Water Dancer.",
+            "Its dorsal and pectoral fins are strongly developed like muscles. It can swim at a speed of five knots.",
+            "It swims elegantly by flittering its tail fin as if it were a dress. It has the look of a queen.",
+            "It swims at a steady five knots. If it senses danger, it will strike back with its sharp horn."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787511396569240/118.png",
+    "discord_sprite": "<:P118:1132117922588930059>"
+}

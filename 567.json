@@ -1,0 +1,198 @@
+{
+    "alt-version(s)": [],
+    "name": "Archeops",
+    "Archeops": {
+        "pokedex_data": {
+            "National No.": "0567",
+            "Type": [
+                "Rock",
+                "Flying"
+            ],
+            "Species": "First Bird Poke\u0301mon",
+            "Height": "1.4 m (4\u203207\u2032\u2032)",
+            "Weight": "32.0 kg (70.5 lbs)",
+            "Abilities": {
+                "Defeatist": {
+                    "href": "/ability/defeatist",
+                    "effect": "Lowers stats when HP drops below half.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "177",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "75",
+                "Min": "260",
+                "Max": "354"
+            },
+            "Attack": {
+                "Base": "140",
+                "Min": "256",
+                "Max": "416"
+            },
+            "Defense": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Atk": {
+                "Base": "112",
+                "Min": "206",
+                "Max": "355"
+            },
+            "Sp. Def": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Speed": {
+                "Base": "110",
+                "Min": "202",
+                "Max": "350"
+            },
+            "Total": "567"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Electric": "super-effective",
+                "Ice": "super-effective",
+                "Poison": "not very effective",
+                "Ground": "no effect",
+                "Flying": "not very effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Archen",
+                    "nationalNo": "#0566",
+                    "type": [
+                        "Rock",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Archeops",
+                    "nationalNo": "#0567",
+                    "type": [
+                        "Rock",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 37)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Leer": "1",
+            "Quick Attack": "1",
+            "Rock Throw": "1",
+            "Wing Attack": "1",
+            "Dragon Breath": "9",
+            "Ancient Power": "12",
+            "Pluck": "15",
+            "Quick Guard": "18",
+            "U-turn": "21",
+            "Rock Slide": "24",
+            "Scary Face": "27",
+            "Crunch": "30",
+            "Agility": "33",
+            "Tailwind": "36",
+            "Dragon Claw": "41",
+            "Thrash": "46",
+            "Endeavor": "51"
+        },
+        "egg": {
+            "Dual Wingbeat": null,
+            "Lash Out": null,
+            "Meteor Beam": null
+        },
+        "null": {
+            "Earthquake": "10",
+            "Agility": "12",
+            "Substitute": "20",
+            "Outrage": "24",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Iron Tail": "31",
+            "Crunch": "32",
+            "Uproar": "35",
+            "Heat Wave": "36",
+            "Taunt": "37",
+            "Iron Defense": "46",
+            "Dragon Claw": "47",
+            "Dragon Pulse": "62",
+            "Focus Blast": "64",
+            "Earth Power": "67",
+            "Zen Headbutt": "69",
+            "Stone Edge": "75",
+            "Stealth Rock": "76",
+            "Ally Switch": "83"
+        },
+        "tm": {
+            "Fly": "06",
+            "Hyper Beam": "08",
+            "Giga Impact": "09",
+            "Dig": "15",
+            "Rest": "21",
+            "Rock Slide": "22",
+            "Snore": "24",
+            "Protect": "25",
+            "Scary Face": "26",
+            "Steel Wing": "30",
+            "Attract": "31",
+            "Sandstorm": "32",
+            "Facade": "39",
+            "Swift": "40",
+            "Rock Tomb": "48",
+            "Bounce": "52",
+            "Rock Blast": "54",
+            "U-turn": "56",
+            "Assurance": "58",
+            "Shadow Claw": "65",
+            "Round": "76",
+            "Acrobatics": "78",
+            "Bulldoze": "81",
+            "Air Slash": "95"
+        }
+    },
+    "entries": {
+        "Archeops": [
+            "They are intelligent and will cooperate to catch prey. From the ground, they use a running start to take flight.",
+            "It runs better than it flies. It catches prey by running at speeds comparable to those of an automobile.",
+            "It runs better than it flies. It takes off into the sky by running at a speed of 25 mph.",
+            "They are intelligent and will cooperate to catch prey. From the ground, they use a running start to take flight.",
+            "It runs better than it flies. It takes off into the sky by running at a speed of 25 mph.",
+            "Although apparently able to fly, they tended to run along the ground, averaging speeds of roughly 25 mph.",
+            "They hunted in flocks. When one Archeops had the prey cornered, another would swoop on it.",
+            "This ancient Pok\u00e9mon\u2019s plumage is delicate, so if anyone other than an experienced professional tries to restore it, they will fail.",
+            "Said to be an ancestor of bird Pok\u00e9mon, the muscles it uses to flap its wings are still weak, so it needs a long runway in order to take off.",
+            "It needs a running start to take off. If Archeops wants to fly, it first needs to run nearly 25 mph, building speed over a course of about 2.5 miles.",
+            "Though capable of flight, Archeops was apparently better at hunting on the ground."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791020485525514/567.png",
+    "discord_sprite": "<:P567:1132137691954302976>"
+}

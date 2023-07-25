@@ -1,0 +1,374 @@
+{
+    "alt-version(s)": [
+        "Alolan Graveler"
+    ],
+    "name": "Graveler",
+    "Graveler": {
+        "pokedex_data": {
+            "National No.": "0075",
+            "Type": [
+                "Rock",
+                "Ground"
+            ],
+            "Species": "Rock Poke\u0301mon",
+            "Height": "1.0 m (3\u203203\u2032\u2032)",
+            "Weight": "105.0 kg (231.5 lbs)",
+            "Abilities": {
+                "Rock Head": {
+                    "href": "/ability/rock-head",
+                    "effect": "Protects the Pok\u00e9mon from recoil damage.",
+                    "hidden": false
+                },
+                "Sturdy": {
+                    "href": "/ability/sturdy",
+                    "effect": "It cannot be knocked out with one hit.",
+                    "hidden": false
+                },
+                "Sand Veil": {
+                    "href": "/ability/sand-veil",
+                    "effect": "Boosts the Pok\u00e9mon's evasion in a sandstorm.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Defense",
+            "Catch rate": "120",
+            "BaseFriendship": "50",
+            "Base Exp.": "137",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "55",
+                "Min": "220",
+                "Max": "314"
+            },
+            "Attack": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Defense": {
+                "Base": "115",
+                "Min": "211",
+                "Max": "361"
+            },
+            "Sp. Atk": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Sp. Def": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Speed": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Total": "390"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Electric": "no effect",
+                "Grass": "super-effective",
+                "Ice": "super-effective",
+                "Fighting": "super-effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Rock": "not very effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "Alolan Graveler": {
+        "pokedex_data": {
+            "National No.": "0075",
+            "Type": [
+                "Rock",
+                "Electric"
+            ],
+            "Species": "Rock Poke\u0301mon",
+            "Height": "1.0 m (3\u203203\u2032\u2032)",
+            "Weight": "110.0 kg (242.5 lbs)",
+            "Abilities": {
+                "Magnet Pull": {
+                    "href": "/ability/magnet-pull",
+                    "effect": "Prevents Steel-type Pok\u00e9mon from escaping.",
+                    "hidden": false
+                },
+                "Sturdy": {
+                    "href": "/ability/sturdy",
+                    "effect": "It cannot be knocked out with one hit.",
+                    "hidden": false
+                },
+                "Galvanize": {
+                    "href": "/ability/galvanize",
+                    "effect": "Normal-type moves become Electric-type moves and their power boosted.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Defense",
+            "Catch rate": "120",
+            "BaseFriendship": "50",
+            "Base Exp.": "137",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "55",
+                "Min": "220",
+                "Max": "314"
+            },
+            "Attack": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Defense": {
+                "Base": "115",
+                "Min": "211",
+                "Max": "361"
+            },
+            "Sp. Atk": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Sp. Def": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Speed": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Total": "390"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Electric": "not very effective",
+                "Grass": "super-effective",
+                "Fighting": "super-effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Geodude",
+                    "nationalNo": "#0074",
+                    "type": [
+                        "Rock",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Graveler",
+                    "nationalNo": "#0075",
+                    "type": [
+                        "Rock",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 25)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Graveler",
+                    "nationalNo": "#0075",
+                    "type": [
+                        "Rock",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Golem",
+                    "nationalNo": "#0076",
+                    "type": [
+                        "Rock",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Trade)",
+                "shed": null
+            }
+        ],
+        [
+            {
+                "from": {
+                    "name": "Geodude",
+                    "nationalNo": "#0074",
+                    "type": [
+                        "Rock",
+                        "Electric"
+                    ],
+                    "nickname": "Alolan Geodude"
+                },
+                "to": {
+                    "name": "Graveler",
+                    "nationalNo": "#0075",
+                    "type": [
+                        "Rock",
+                        "Electric"
+                    ],
+                    "nickname": "Alolan Graveler"
+                },
+                "requirement": "(Level 25)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Graveler",
+                    "nationalNo": "#0075",
+                    "type": [
+                        "Rock",
+                        "Electric"
+                    ],
+                    "nickname": "Alolan Graveler"
+                },
+                "to": {
+                    "name": "Golem",
+                    "nationalNo": "#0076",
+                    "type": [
+                        "Rock",
+                        "Electric"
+                    ],
+                    "nickname": "Alolan Golem"
+                },
+                "requirement": "(Trade)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Defense Curl": "1",
+            "Rock Polish": "6",
+            "Tackle": "1",
+            "Sandstorm": "4",
+            "Rollout": "10",
+            "Harden": "12",
+            "Rock Throw": "16",
+            "Smack Down": "18",
+            "Bulldoze": "22",
+            "Self-Destruct": "24",
+            "Stealth Rock": "30",
+            "Rock Blast": "34",
+            "Earthquake": "40",
+            "Explosion": "44",
+            "Double-Edge": "50",
+            "Stone Edge": "54"
+        },
+        "egg": {
+            "Autotomize": null,
+            "Block": null,
+            "Curse": null,
+            "Flail": null,
+            "Hammer Arm": null,
+            "Mega Punch": null,
+            "Wide Guard": null
+        },
+        "tm": {
+            "Focus Punch": "01",
+            "Sunny Day": "11",
+            "Protect": "17",
+            "Earthquake": "26",
+            "Dig": "28",
+            "Brick Break": "31",
+            "Double Team": "32",
+            "Flamethrower": "35",
+            "Sandstorm": "37",
+            "Fire Blast": "38",
+            "Rock Tomb": "39",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Fling": "56",
+            "Endure": "58",
+            "Explosion": "64",
+            "Rock Polish": "69",
+            "Stone Edge": "71",
+            "Gyro Ball": "74",
+            "Stealth Rock": "76",
+            "Rock Slide": "80",
+            "Sleep Talk": "82",
+            "Bulldoze": "83",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Strength": "96",
+            "Rock Smash": "98",
+            "Rock Climb": "100"
+        }
+    },
+    "entries": {
+        "Graveler": [
+            "Rolls down slopes to move. It rolls over any obstacle without slowing or changing its direction.",
+            "Often seen rolling down mountain trails. Obstacles are just things to roll straight over, not avoid.",
+            "With a free and uncaring nature, it doesn\u2019t mind if pieces break off while it rolls down mountains.",
+            "A slow walker, it rolls to move. It pays no attention to any object that happens to be in its path.",
+            "It travels by rolling on mountain paths. If it gains too much speed, it stops by running into huge rocks.",
+            "GRAVELER grows by feeding on rocks. Apparently, it prefers to eat rocks that are covered in moss. This pok\u00e9mon eats its way through a ton of rocks on a daily basis.",
+            "Rocks are GRAVELER\u2019s favorite food. This pok\u00e9mon will climb a mountain from the base to the summit, crunchingly feasting on rocks all the while. Upon reaching the peak, it rolls back down to the bottom.",
+            "Be careful while hiking on mountain trails. GRAVELER may come rolling down the path without slowing.",
+            "Rolls down slopes to move. It rolls over any obstacle without slowing or changing its direction.",
+            "They descend from mountains by tumbling down steep slopes. They are so brutal, they smash aside obstructing trees and massive boulders with thunderous tackles.",
+            "GRAVELER make their homes on sheer cliff faces by gouging out numerous horizontal holes.",
+            "It tumbles down slopes, heedless of any body parts chipping off. It eats a ton of rocks daily.",
+            "It rolls on mountain paths to move. Once it builds momentum, no Pok\u00e9mon can stop it without difficulty.",
+            "With a free and uncaring nature, it doesn\u2019t mind if pieces break off while it rolls down mountains.",
+            "A slow walker, it rolls to move. It pays no attention to any object that happens to be in its path.",
+            "It rolls on mountain paths to move. Once it builds momentum, no Pok\u00e9mon can stop it without difficulty.",
+            "With a free and uncaring nature, it doesn\u2019t mind if pieces break off while it rolls down mountains.",
+            "Rolls down slopes to move. It rolls over any obstacle without slowing or changing its direction.",
+            "Graveler grows by feeding on rocks. Apparently, it prefers to eat rocks that are covered in moss. This Pok\u00e9mon eats its way through a ton of rocks on a daily basis.",
+            "Rocks are Graveler\u2019s favorite food. This Pok\u00e9mon will climb a mountain from the base to the summit, crunchingly feasting on rocks all the while. Upon reaching the peak, it rolls back down to the bottom.",
+            "Mossy rocks are its favorite food. It can devour a ton a day while crunching loudly.",
+            "This slow-footed Pok\u00e9mon moves by curling up and rolling instead of walking. With enough momentum, its speed can exceed 60 mph.",
+            "It climbs up cliffs as it heads toward the peak of a mountain. As soon as it reaches the summit, it rolls back down the way it came.",
+            "It travels by rolling down cliffs. If it falls into a river, it will explode with its last gasp.",
+            "Often seen rolling down mountain trails. Obstacles are just things to roll straight over, not avoid.",
+            "Graveler make their homes on sheer cliff faces that have numerous holes in them.",
+            "It tumbles down slopes, heedless of any body parts chipping off. It eats a ton of rocks daily.",
+            "Dwells in holes dug into sheer walls of stone. It enjoys rolling down slopes as though it were a boulder during a rockfall, so keep an eye upward while traversing mountain roads."
+        ],
+        "Alolan Graveler": [
+            "Its preferred food is dravite. After it has eaten this mineral, crystals form inside the Pok\u00e9mon, rising to the surface of part of its body.",
+            "They eat rocks and often get into a scrap over them. The shock of Graveler smashing together causes a flash of light and a booming noise.",
+            "When two Graveler fight each other, it fills the surroundings with flashes of light and sound. People call it the \u201cfireworks of the earth.\u201d",
+            "Graveler\u2019s entire body is tinged with electricity due to the stones it likes to eat. It\u2019s very quick-tempered.",
+            "When it comes rolling down a mountain path, anything in its way gets zapped by electricity and sent flying."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787175835480064/75.png",
+    "discord_sprite": "<:P75:1132116024427298827>"
+}

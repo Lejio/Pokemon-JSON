@@ -1,0 +1,207 @@
+{
+    "alt-version(s)": [],
+    "name": "Bayleef",
+    "Bayleef": {
+        "pokedex_data": {
+            "National No.": "0153",
+            "Type": [
+                "Grass"
+            ],
+            "Species": "Leaf Poke\u0301mon",
+            "Height": "1.2 m (3\u203211\u2032\u2032)",
+            "Weight": "15.8 kg (34.8 lbs)",
+            "Abilities": {
+                "Overgrow": {
+                    "href": "/ability/overgrow",
+                    "effect": "Powers up Grass-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Leaf Guard": {
+                    "href": "/ability/leaf-guard",
+                    "effect": "Prevents problems with status in sunny weather.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Defense, 1 Sp. Def",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "142",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "60",
+                "Min": "230",
+                "Max": "324"
+            },
+            "Attack": {
+                "Base": "62",
+                "Min": "116",
+                "Max": "245"
+            },
+            "Defense": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Sp. Atk": {
+                "Base": "63",
+                "Min": "117",
+                "Max": "247"
+            },
+            "Sp. Def": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Speed": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Total": "405"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Poison": "super-effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Bug": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Chikorita",
+                    "nationalNo": "#0152",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Bayleef",
+                    "nationalNo": "#0153",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 16)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Bayleef",
+                    "nationalNo": "#0153",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Meganium",
+                    "nationalNo": "#0154",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 32)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Growl": "1",
+            "Poison Powder": "9",
+            "Razor Leaf": "6",
+            "Tackle": "1",
+            "Synthesis": "12",
+            "Reflect": "18",
+            "Magical Leaf": "22",
+            "Nature Power": "26",
+            "Sweet Scent": "32",
+            "Light Screen": "36",
+            "Body Slam": "40",
+            "Safeguard": "46",
+            "Aromatherapy": "50",
+            "Solar Beam": "54"
+        },
+        "egg": {
+            "Ancient Power": null,
+            "Aromatherapy": null,
+            "Body Slam": null,
+            "Counter": null,
+            "Flail": null,
+            "Grassy Terrain": null,
+            "Heal Pulse": null,
+            "Ingrain": null,
+            "Leaf Storm": null,
+            "Leech Seed": null,
+            "Nature Power": null,
+            "Vine Whip": null
+        },
+        "tm": {
+            "Bullet Seed": "09",
+            "Work Up": "10",
+            "Sunny Day": "11",
+            "Light Screen": "16",
+            "Protect": "17",
+            "Giga Drain": "19",
+            "Safeguard": "20",
+            "Solar Beam": "22",
+            "Iron Tail": "23",
+            "Double Team": "32",
+            "Reflect": "33",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Energy Ball": "53",
+            "Endure": "58",
+            "Flash": "70",
+            "Swords Dance": "75",
+            "Sleep Talk": "82",
+            "Grass Knot": "86",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Cut": "93",
+            "Strength": "96",
+            "Rock Smash": "98"
+        }
+    },
+    "entries": {
+        "Bayleef": [
+            "The scent of spices comes from around its neck. Somehow, sniffing it makes you want to fight.",
+            "A spicy aroma emanates from around its neck. The aroma acts as a stimulant to restore health.",
+            "The scent that wafts from the leaves on its neck causes anyone who smells it to become energetic.",
+            "BAYLEEF\u2019s neck is ringed by curled-up leaves. Inside each tubular leaf is a small shoot of a tree. The fragrance of this shoot makes people peppy.",
+            "A spicy aroma emanates from around its neck. The aroma acts as a stimulant to restore health.",
+            "The scent of spices comes from around its neck. Somehow, sniffing it makes you want to fight.",
+            "A BAYLEEF\u2019s neck is ringed by curled-up leaves. Inside each leaf is a small tree shoot. The fragrance of this shoot makes people peppy.",
+            "The buds that ring its neck give off a spicy aroma that perks people up.",
+            "The scent of spices comes from around its neck. Somehow, sniffing it makes you want to fight.",
+            "A spicy aroma emanates from around its neck. The aroma acts as a stimulant to restore health.",
+            "The buds that ring its neck give off a spicy aroma that perks people up.",
+            "A spicy aroma emanates from around its neck. The aroma acts as a stimulant to restore health.",
+            "The buds that ring its neck give off a spicy aroma that perks people up.",
+            "Bayleef\u2019s neck is ringed by curled-up leaves. Inside each tubular leaf is a small shoot of a tree. The fragrance of this shoot makes people peppy.",
+            "The buds that ring its neck give off a spicy aroma that perks people up."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787784793899128/153.png",
+    "discord_sprite": "<:P153:1132119467741159446>"
+}

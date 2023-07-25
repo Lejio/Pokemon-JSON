@@ -1,0 +1,224 @@
+{
+    "alt-version(s)": [],
+    "name": "Sudowoodo",
+    "Sudowoodo": {
+        "pokedex_data": {
+            "National No.": "0185",
+            "Type": [
+                "Rock"
+            ],
+            "Species": "Imitation Poke\u0301mon",
+            "Height": "1.2 m (3\u203211\u2032\u2032)",
+            "Weight": "38.0 kg (83.8 lbs)",
+            "Abilities": {
+                "Sturdy": {
+                    "href": "/ability/sturdy",
+                    "effect": "It cannot be knocked out with one hit.",
+                    "hidden": false
+                },
+                "Rock Head": {
+                    "href": "/ability/rock-head",
+                    "effect": "Protects the Pok\u00e9mon from recoil damage.",
+                    "hidden": false
+                },
+                "Rattled": {
+                    "href": "/ability/rattled",
+                    "effect": "Bug, Ghost or Dark type moves scare it and boost its Speed.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Defense",
+            "Catch rate": "65",
+            "BaseFriendship": "50",
+            "Base Exp.": "144",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "70",
+                "Min": "250",
+                "Max": "344"
+            },
+            "Attack": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Defense": {
+                "Base": "115",
+                "Min": "211",
+                "Max": "361"
+            },
+            "Sp. Atk": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Sp. Def": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Speed": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Total": "410"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Grass": "super-effective",
+                "Fighting": "super-effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Bonsly",
+                    "nationalNo": "#0438",
+                    "type": [
+                        "Rock"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Sudowoodo",
+                    "nationalNo": "#0185",
+                    "type": [
+                        "Rock"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(after Mimic learned)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Copycat": "1",
+            "Fake Tears": "1",
+            "Flail": "1",
+            "Hammer Arm": "1",
+            "Rock Throw": "1",
+            "Stone Edge": "1",
+            "Wood Hammer": "1",
+            "Block": "12",
+            "Mimic": "16",
+            "Rock Tomb": "20",
+            "Tearful Look": "24",
+            "Sucker Punch": "28",
+            "Rock Slide": "32",
+            "Low Kick": "36",
+            "Counter": "40",
+            "Double-Edge": "44",
+            "Head Smash": "48"
+        },
+        "evolution": {
+            "Slam": "80"
+        },
+        "egg": {
+            "Curse": null,
+            "Defense Curl": null,
+            "Harden": null,
+            "Headbutt": null,
+            "Rock Polish": null,
+            "Rollout": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Fake Tears": "03",
+            "Mud-Slap": "05",
+            "Protect": "07",
+            "Low Kick": "12",
+            "Thief": "18",
+            "Trailblaze": "20",
+            "Facade": "25",
+            "Bulldoze": "28",
+            "Mud Shot": "35",
+            "Rock Tomb": "36",
+            "Low Sweep": "39",
+            "Fling": "43",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Sandstorm": "51",
+            "Dig": "55",
+            "Brick Break": "58",
+            "Foul Play": "62",
+            "Body Slam": "66",
+            "Fire Punch": "67",
+            "Thunder Punch": "68",
+            "Ice Punch": "69",
+            "Sleep Talk": "70",
+            "Drain Punch": "73",
+            "Rock Blast": "76",
+            "Grass Knot": "81",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Taunt": "87",
+            "Body Press": "89",
+            "Spikes": "90",
+            "Power Gem": "101",
+            "Substitute": "103",
+            "Iron Defense": "104",
+            "Stealth Rock": "116",
+            "Calm Mind": "129",
+            "Helping Hand": "130",
+            "Earth Power": "133",
+            "Earthquake": "149",
+            "Stone Edge": "150",
+            "Giga Impact": "152",
+            "Hyper Beam": "163",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Sudowoodo": [
+            "Although it always pretends to be a tree, its composition appears to be closer to a rock than a plant.",
+            "It disguises itself as a tree to avoid attack. It hates water, so it will disappear if it starts raining.",
+            "If a tree branch shakes when there is no wind, it\u2019s a SUDOWOODO, not a tree. It hides from the rain.",
+            "SUDOWOODO camouflages itself as a tree to avoid being attacked by enemies. However, because the forelegs remain green throughout the year, the pok\u00e9mon is easily identified as a fake during the winter.",
+            "It disguises itself as a tree to avoid attack. It hates water, so it will disappear if it starts raining.",
+            "Although it always pretends to be a tree, its composition appears to be closer to a rock than a plant.",
+            "It mimics a tree to avoid being attacked by enemies. But since its forelegs remain green throughout the year, it is easily identified as a fake in the winter.",
+            "Despite appearing to be a tree, its body is closer to rocks and stones. It is very weak to water.",
+            "It stands along paths pretending to be a tree. If it starts raining, it seems to disappear.",
+            "To avoid being attacked, it does nothing but mimic a tree. It hates water and flees from rain.",
+            "Although it always pretends to be a tree, its composition appears more similar to rock than to vegetation.",
+            "It disguises itself as a tree to avoid attack. It hates water, so it will disappear if it starts raining.",
+            "To avoid being attacked, it does nothing but mimic a tree. It hates water and flees from rain.",
+            "Although it always pretends to be a tree, its composition appears more similar to rock than to vegetation.",
+            "It disguises itself as a tree to avoid attack. It hates water, so it will disappear if it starts raining.",
+            "Sudowoodo camouflages itself as a tree to avoid being attacked by enemies. However, because its hands remain green throughout the year, the Pok\u00e9mon is easily identified as a fake during the winter.",
+            "To avoid attack, it mimics a tree. It will run off if splashed with water, which it hates.",
+            "Apparently, the larger the green parts of this Pok\u00e9mon, the more collectors value it. It\u2019s a particular favorite among elderly people.",
+            "It\u2019s so popular with the elderly that there\u2019s a magazine devoted to this Pok\u00e9mon. Fans obsess over the particular length and angle of its arms.",
+            "The result of its holding the same pose all the time is arms that have become supple yet strong.",
+            "If a tree branch shakes when there is no wind, it\u2019s a Sudowoodo, not a tree. It hides from the rain.",
+            "It disguises itself as a tree to avoid attack. It hates water, so it will disappear if it starts raining.",
+            "Though it looks like a tree, its body is actually more like rock or stone. The Pok\u00e9mon is very weak to water.",
+            "It stands along paths pretending to be a tree. If it starts raining, it seems to disappear.",
+            "Though it pretends to be a tree, it fails to fool even children. To the touch, its body feels more like rock than tree bark. Sudowoodo\u2019s extreme aversion to water merits special note.",
+            "Although it always pretends to be a tree, its composition appears more similar to rock than to vegetation.",
+            "To avoid being attacked, it does nothing but mimic a tree. It hates water and flees from rain."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788034568888410/185.png",
+    "discord_sprite": "<:P185:1132120876029071440>"
+}

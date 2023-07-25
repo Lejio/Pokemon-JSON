@@ -1,0 +1,165 @@
+{
+    "alt-version(s)": [],
+    "name": "Volbeat",
+    "Volbeat": {
+        "pokedex_data": {
+            "National No.": "0313",
+            "Type": [
+                "Bug"
+            ],
+            "Species": "Firefly Poke\u0301mon",
+            "Height": "0.7 m (2\u203204\u2032\u2032)",
+            "Weight": "17.7 kg (39.0 lbs)",
+            "Abilities": {
+                "Illuminate": {
+                    "href": "/ability/illuminate",
+                    "effect": "Raises the likelihood of meeting wild Pok\u00e9mon.",
+                    "hidden": false
+                },
+                "Swarm": {
+                    "href": "/ability/swarm",
+                    "effect": "Powers up Bug-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Prankster": {
+                    "href": "/ability/prankster",
+                    "effect": "Gives priority to a status move.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Speed",
+            "Catch rate": "150",
+            "BaseFriendship": "50",
+            "Base Exp.": "151",
+            "Growth Rate": "Erratic"
+        },
+        "breeding_data": {
+            "Gender": "100% male,0% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "65",
+                "Min": "240",
+                "Max": "334"
+            },
+            "Attack": {
+                "Base": "73",
+                "Min": "135",
+                "Max": "269"
+            },
+            "Defense": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Sp. Atk": {
+                "Base": "47",
+                "Min": "89",
+                "Max": "212"
+            },
+            "Sp. Def": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Speed": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Total": "430"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Grass": "not very effective",
+                "Fighting": "not very effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Rock": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Play Nice": "1",
+            "Tackle": "1",
+            "Double Team": "5",
+            "Confuse Ray": "8",
+            "Quick Attack": "12",
+            "Struggle Bug": "15",
+            "Moonlight": "19",
+            "Tail Glow": "22",
+            "Encore": "26",
+            "Protect": "29",
+            "Zen Headbutt": "33",
+            "Helping Hand": "36",
+            "Bug Buzz": "40",
+            "Play Rough": "43",
+            "Double-Edge": "47",
+            "Infestation": "50"
+        },
+        "egg": {
+            "Baton Pass": null,
+            "Encore": null,
+            "Lunge": null,
+            "Seismic Toss": null,
+            "Trick": null
+        },
+        "tm": {
+            "Focus Punch": "01",
+            "Water Pulse": "03",
+            "Sunny Day": "11",
+            "Light Screen": "16",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Giga Drain": "19",
+            "Dazzling Gleam": "21",
+            "Solar Beam": "22",
+            "Thunderbolt": "24",
+            "Thunder": "25",
+            "Shadow Ball": "30",
+            "Brick Break": "31",
+            "Double Team": "32",
+            "Shock Wave": "34",
+            "Aerial Ace": "40",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Roost": "51",
+            "Fling": "56",
+            "Charge Beam": "57",
+            "Endure": "58",
+            "Bug Buzz": "62",
+            "Flash": "70",
+            "Thunder Wave": "73",
+            "Psych Up": "77",
+            "Sleep Talk": "82",
+            "Swagger": "87",
+            "U-turn": "89",
+            "Substitute": "90"
+        }
+    },
+    "entries": {
+        "Volbeat": [
+            "With the arrival of night, VOLBEAT emits light from its tail. It communicates with others by adjusting the intensity and flashing of its light. This pok\u00e9mon is attracted by the sweet aroma of ILLUMISE.",
+            "VOLBEAT\u2019s tail glows like a lightbulb. With other VOLBEAT, it uses its tail to draw geometric shapes in the night sky. This pok\u00e9mon loves the sweet aroma given off by ILLUMISE.",
+            "It lives around clean ponds. At night, its rear lights up. It converses with others by flashing its light.",
+            "With their taillights lit, VOLBEAT fly in a swarm, drawing geometric designs in the night sky. They move their nests if their pond water becomes dirty.",
+            "It communicates with others by lighting up its rear at night. It loves ILLUMISE\u2019s sweet aroma.",
+            "It emits light from its tail to communicate. It loves the sweet aroma given off by ILLUMISE.",
+            "It communicates with others by lighting up its rear at night. It loves Illumise\u2019s sweet aroma.",
+            "It communicates with others by lighting up its rear at night. It loves Illumise\u2019s sweet aroma.",
+            "It lives around clean ponds. At night, its rear lights up. It converses with others by flashing its light.",
+            "With the arrival of night, Volbeat emits light from its tail. It communicates with others by adjusting the intensity and flashing of its light. This Pok\u00e9mon is attracted by the sweet aroma of Illumise.",
+            "Volbeat\u2019s tail glows like a lightbulb. With other Volbeat, it uses its tail to draw geometric shapes in the night sky. This Pok\u00e9mon loves the sweet aroma given off by Illumise.",
+            "It communicates with others by lighting up its rear at night. It loves Illumise\u2019s sweet aroma."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789048197947514/313.png",
+    "discord_sprite": "<:P313:1132126510921306202>"
+}

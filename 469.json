@@ -1,0 +1,191 @@
+{
+    "alt-version(s)": [],
+    "name": "Yanmega",
+    "Yanmega": {
+        "pokedex_data": {
+            "National No.": "0469",
+            "Type": [
+                "Bug",
+                "Flying"
+            ],
+            "Species": "Ogre Darner Poke\u0301mon",
+            "Height": "1.9 m (6\u203203\u2032\u2032)",
+            "Weight": "51.5 kg (113.5 lbs)",
+            "Abilities": {
+                "Speed Boost": {
+                    "href": "/ability/speed-boost",
+                    "effect": "Its Speed stat is gradually boosted.",
+                    "hidden": false
+                },
+                "Tinted Lens": {
+                    "href": "/ability/tinted-lens",
+                    "effect": "Powers up \u201cnot very effective\u201d moves.",
+                    "hidden": false
+                },
+                "Frisk": {
+                    "href": "/ability/frisk",
+                    "effect": "The Pok\u00e9mon can check a foe's held item.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "30",
+            "BaseFriendship": "50",
+            "Base Exp.": "180",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "86",
+                "Min": "282",
+                "Max": "376"
+            },
+            "Attack": {
+                "Base": "76",
+                "Min": "141",
+                "Max": "276"
+            },
+            "Defense": {
+                "Base": "86",
+                "Min": "159",
+                "Max": "298"
+            },
+            "Sp. Atk": {
+                "Base": "116",
+                "Min": "213",
+                "Max": "364"
+            },
+            "Sp. Def": {
+                "Base": "56",
+                "Min": "105",
+                "Max": "232"
+            },
+            "Speed": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Total": "515"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Electric": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Ground": "no effect",
+                "Flying": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Yanma",
+                    "nationalNo": "#0193",
+                    "type": [
+                        "Bug",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Yanmega",
+                    "nationalNo": "#0469",
+                    "type": [
+                        "Bug",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(after Ancient Power learned)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Air Slash": "54",
+            "Bug Bite": "1",
+            "Bug Buzz": "57",
+            "Double Team": "11",
+            "Gust": "1",
+            "Hypnosis": "1",
+            "Night Slash": "1",
+            "Quick Attack": "6",
+            "Tackle": "1",
+            "Wing Attack": "1",
+            "Aerial Ace": "14",
+            "Detect": "17",
+            "Supersonic": "22",
+            "Uproar": "27",
+            "String Shot": "30",
+            "Ancient Power": "33",
+            "Feint": "38",
+            "Slash": "43",
+            "Screech": "46",
+            "U-turn": "49"
+        },
+        "egg": {
+            "Double-Edge": null,
+            "Feint": null,
+            "Leech Life": null,
+            "Reversal": null,
+            "Whirlwind": null
+        },
+        "tm": {
+            "Sunny Day": "11",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Giga Drain": "19",
+            "Solar Beam": "22",
+            "Psychic": "29",
+            "Shadow Ball": "30",
+            "Double Team": "32",
+            "Aerial Ace": "40",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Steel Wing": "47",
+            "Roost": "51",
+            "Endure": "58",
+            "Bug Buzz": "62",
+            "Giga Impact": "68",
+            "Flash": "70",
+            "Swords Dance": "75",
+            "Psych Up": "77",
+            "Sleep Talk": "82",
+            "Dream Eater": "85",
+            "Swagger": "87",
+            "U-turn": "89",
+            "Substitute": "90",
+            "Defog": "97"
+        }
+    },
+    "entries": {
+        "Yanmega": [
+            "By churning its wings, it creates shock waves that inflict critical internal injuries to foes.",
+            "Its jaw power is incredible. It is adept at biting apart foes while flying by at high speed.",
+            "This six-legged Pok\u00e9mon is easily capable of transporting an adult in flight. The wings on its tail help it stay balanced.",
+            "The beat of its wings is so powerful that it accidentally dislodges full-grown trees when it takes off in flight.",
+            "Its jaw power is incredible. It is adept at biting apart foes while flying by at high speed.",
+            "It prefers to battle by biting apart foes\u2019 heads instantly while flying by at high speed.",
+            "It prefers to battle by biting apart foes\u2019 heads instantly while flying by at high speed.",
+            "This six-legged Pok\u00e9mon is easily capable of transporting an adult in flight. The wings on its tail help it stay balanced.",
+            "By churning its wings, it creates shock waves that inflict critical internal injuries to foes.",
+            "Extremely violent. When hunting, it wastes none of its energy, aiming only for prey\u2019s most vulnerable spots. Any who manage to tame this Pok\u00e9mon must be of incredible bravery."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790257956860016/469.png",
+    "discord_sprite": "<:P469:1132133369128431746>"
+}

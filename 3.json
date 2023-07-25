@@ -1,0 +1,311 @@
+{
+    "alt-version(s)": [
+        "Mega Venusaur"
+    ],
+    "name": "Venusaur",
+    "Venusaur": {
+        "pokedex_data": {
+            "National No.": "0003",
+            "Type": [
+                "Grass",
+                "Poison"
+            ],
+            "Species": "Seed Poke\u0301mon",
+            "Height": "2.0 m (6\u203207\u2032\u2032)",
+            "Weight": "100.0 kg (220.5 lbs)",
+            "Abilities": {
+                "Overgrow": {
+                    "href": "/ability/overgrow",
+                    "effect": "Powers up Grass-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Chlorophyll": {
+                    "href": "/ability/chlorophyll",
+                    "effect": "Boosts the Pok\u00e9mon's Speed in sunshine.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Sp. Atk, 1 Sp. Def",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "236",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "80",
+                "Min": "270",
+                "Max": "364"
+            },
+            "Attack": {
+                "Base": "82",
+                "Min": "152",
+                "Max": "289"
+            },
+            "Defense": {
+                "Base": "83",
+                "Min": "153",
+                "Max": "291"
+            },
+            "Sp. Atk": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Sp. Def": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Speed": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Total": "525"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Flying": "super-effective",
+                "Psychic": "super-effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "Mega Venusaur": {
+        "pokedex_data": {
+            "National No.": "0003",
+            "Type": [
+                "Grass",
+                "Poison"
+            ],
+            "Species": "Seed Poke\u0301mon",
+            "Height": "2.4 m (7\u203210\u2032\u2032)",
+            "Weight": "155.5 kg (342.8 lbs)",
+            "Abilities": {
+                "Thick Fat": {
+                    "href": "/ability/thick-fat",
+                    "effect": "Ups resistance to Fire- and Ice-type moves.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Sp. Atk, 1 Sp. Def",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "281",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "80",
+                "Min": "270",
+                "Max": "364"
+            },
+            "Attack": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Defense": {
+                "Base": "123",
+                "Min": "225",
+                "Max": "379"
+            },
+            "Sp. Atk": {
+                "Base": "122",
+                "Min": "224",
+                "Max": "377"
+            },
+            "Sp. Def": {
+                "Base": "120",
+                "Min": "220",
+                "Max": "372"
+            },
+            "Speed": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Total": "625"
+        },
+        "defense_stats": {
+            "default": {
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Fighting": "not very effective",
+                "Flying": "super-effective",
+                "Psychic": "super-effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Bulbasaur",
+                    "nationalNo": "#0001",
+                    "type": [
+                        "Grass",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Ivysaur",
+                    "nationalNo": "#0002",
+                    "type": [
+                        "Grass",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 16)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Ivysaur",
+                    "nationalNo": "#0002",
+                    "type": [
+                        "Grass",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Venusaur",
+                    "nationalNo": "#0003",
+                    "type": [
+                        "Grass",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 32)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Growl": "1",
+            "Growth": "1",
+            "Petal Blizzard": "1",
+            "Petal Dance": "1",
+            "Tackle": "1",
+            "Vine Whip": "1",
+            "Leech Seed": "9",
+            "Razor Leaf": "12",
+            "Poison Powder": "15",
+            "Sleep Powder": "15",
+            "Seed Bomb": "20",
+            "Take Down": "25",
+            "Sweet Scent": "30",
+            "Synthesis": "37",
+            "Worry Seed": "44",
+            "Double-Edge": "51",
+            "Solar Beam": "58"
+        },
+        "evolution": {
+            "Petal Blizzard": "90"
+        },
+        "egg": {
+            "Amnesia": null,
+            "Charm": null,
+            "Curse": null,
+            "Grassy Terrain": null,
+            "Ingrain": null,
+            "Leaf Storm": null,
+            "Magical Leaf": null,
+            "Nature Power": null,
+            "Petal Dance": null,
+            "Power Whip": null,
+            "Skull Bash": null,
+            "Sludge": null
+        },
+        "null": {
+            "Frenzy Plant": "150"
+        },
+        "tm": {
+            "Roar": "05",
+            "Toxic": "06",
+            "Bullet Seed": "09",
+            "Work Up": "10",
+            "Sunny Day": "11",
+            "Hyper Beam": "15",
+            "Light Screen": "16",
+            "Protect": "17",
+            "Giga Drain": "19",
+            "Safeguard": "20",
+            "Solar Beam": "22",
+            "Earthquake": "26",
+            "Double Team": "32",
+            "Sludge Bomb": "36",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Energy Ball": "53",
+            "False Swipe": "54",
+            "Endure": "58",
+            "Giga Impact": "68",
+            "Flash": "70",
+            "Swords Dance": "75",
+            "Sleep Talk": "82",
+            "Bulldoze": "83",
+            "Grass Knot": "86",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Cut": "93",
+            "Strength": "96",
+            "Rock Smash": "98",
+            "Rock Climb": "100"
+        }
+    },
+    "entries": {
+        "Venusaur": [
+            "The plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight.",
+            "The flower on its back catches the sun\u2019s rays. The sunlight is then absorbed and used for energy.",
+            "By spreading the broad petals of its flower and catching the sun\u2019s rays, it fills its body with power.",
+            "It is able to convert sunlight into energy. As a result, it is more powerful in the summertime.",
+            "As it warms itself and absorbs the sunlight, its flower petals release a pleasant fragrance.",
+            "There is a large flower on VENUSAUR\u2019s back. The flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower\u2019s aroma soothes the emotions of people.",
+            "A bewitching aroma wafts from its flower. The fragrance becalms those engaged in a battle.",
+            "Its plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight.",
+            "VENUSAUR\u2019s flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower\u2019s aroma soothes the emotions of people.",
+            "After a rainy day, the flower on its back smells stronger. The scent attracts other Pok\u00e9mon.",
+            "By spreading the broad petals of its flower and catching the sun\u2019s rays, it fills its body with power.",
+            "It is able to convert sunlight into energy. As a result, it is more powerful in the summertime.",
+            "After a rainy day, the flower on its back smells stronger. The scent attracts other Pok\u00e9mon.",
+            "By spreading the broad petals of its flower and catching the sun\u2019s rays, it fills its body with power.",
+            "After a rainy day, the flower on its back smells stronger. The scent attracts other Pok\u00e9mon.",
+            "There is a large flower on Venusaur\u2019s back. The flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower\u2019s aroma soothes the emotions of people.",
+            "The flower on its back catches the sun\u2019s rays. The sunlight is then absorbed and used for energy.",
+            "Its plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight.",
+            "A bewitching aroma wafts from its flower. The fragrance becalms those engaged in a battle.",
+            "After a rainy day, the flower on its back smells stronger. The scent attracts other Pok\u00e9mon."
+        ],
+        "Mega Venusaur": [
+            "In order to support its flower, which has grown larger due to Mega Evolution, its back and legs have become stronger."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131786612741779586/3.png",
+    "discord_sprite": "<:P3:1131972025280380990>"
+}

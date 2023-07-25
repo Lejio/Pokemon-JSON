@@ -1,0 +1,207 @@
+{
+    "alt-version(s)": [],
+    "name": "Probopass",
+    "Probopass": {
+        "pokedex_data": {
+            "National No.": "0476",
+            "Type": [
+                "Rock",
+                "Steel"
+            ],
+            "Species": "Compass Poke\u0301mon",
+            "Height": "1.4 m (4\u203207\u2032\u2032)",
+            "Weight": "340.0 kg (749.6 lbs)",
+            "Abilities": {
+                "Sturdy": {
+                    "href": "/ability/sturdy",
+                    "effect": "It cannot be knocked out with one hit.",
+                    "hidden": false
+                },
+                "Magnet Pull": {
+                    "href": "/ability/magnet-pull",
+                    "effect": "Prevents Steel-type Pok\u00e9mon from escaping.",
+                    "hidden": false
+                },
+                "Sand Force": {
+                    "href": "/ability/sand-force",
+                    "effect": "Boosts certain moves' power in a sandstorm.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Defense, 2 Sp. Def",
+            "Catch rate": "60",
+            "BaseFriendship": "50",
+            "Base Exp.": "184",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "60",
+                "Min": "230",
+                "Max": "324"
+            },
+            "Attack": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Defense": {
+                "Base": "145",
+                "Min": "265",
+                "Max": "427"
+            },
+            "Sp. Atk": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Sp. Def": {
+                "Base": "150",
+                "Min": "274",
+                "Max": "438"
+            },
+            "Speed": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Total": "525"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Water": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Poison": "no effect",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Dragon": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Nosepass",
+                    "nationalNo": "#0299",
+                    "type": [
+                        "Rock"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Probopass",
+                    "nationalNo": "#0476",
+                    "type": [
+                        "Rock",
+                        "Steel"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(level up in a Magnetic Field area)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Block": "7",
+            "Gravity": "1",
+            "Harden": "1",
+            "Iron Defense": "4",
+            "Magnet Rise": "1",
+            "Magnetic Flux": "1",
+            "Rock Throw": "1",
+            "Tackle": "1",
+            "Tri Attack": "1",
+            "Wide Guard": "1",
+            "Smack Down": "10",
+            "Thunder Wave": "13",
+            "Rest": "16",
+            "Spark": "19",
+            "Rock Slide": "22",
+            "Power Gem": "25",
+            "Rock Blast": "28",
+            "Discharge": "31",
+            "Sandstorm": "34",
+            "Earth Power": "37",
+            "Stone Edge": "40",
+            "Lock-On": "43",
+            "Zap Cannon": "43",
+            "Body Press": "50"
+        },
+        "evolution": {
+            "Tri Attack": "80"
+        },
+        "egg": {
+            "Block": null,
+            "Double-Edge": null,
+            "Rollout": null,
+            "Wide Guard": null
+        },
+        "tm": {
+            "Sunny Day": "11",
+            "Taunt": "12",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Dazzling Gleam": "21",
+            "Thunderbolt": "24",
+            "Thunder": "25",
+            "Earthquake": "26",
+            "Double Team": "32",
+            "Shock Wave": "34",
+            "Sandstorm": "37",
+            "Rock Tomb": "39",
+            "Torment": "41",
+            "Facade": "42",
+            "Volt Switch": "43",
+            "Rest": "44",
+            "Attract": "45",
+            "Endure": "58",
+            "Explosion": "64",
+            "Giga Impact": "68",
+            "Rock Polish": "69",
+            "Stone Edge": "71",
+            "Thunder Wave": "73",
+            "Stealth Rock": "76",
+            "Rock Slide": "80",
+            "Sleep Talk": "82",
+            "Bulldoze": "83",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Flash Cannon": "91",
+            "Strength": "96",
+            "Rock Smash": "98"
+        }
+    },
+    "entries": {
+        "Probopass": [
+            "It exudes strong magnetism from all over. It controls three small units called Mini-Noses.",
+            "It freely controls three small units called Mini-Noses using magnetic force.",
+            "It controls three units called Mini-Noses using magnetic force. With them, it can attack the foe from three directions.",
+            "It freely controls three small units called Mini-Noses using magnetic force.",
+            "It freely controls three units called Mini-Noses using magnetic force.",
+            "It exudes strong magnetism from all over. It controls three small units called Mini-Noses.",
+            "It freely controls three small units called Mini-Noses using magnetic force.",
+            "It radiates such a powerful magnetic field that nearby electrical appliances become unusable.",
+            "The main body controls three mobile units called Mini-Noses, which it maneuvers to catch prey.",
+            "Although it can control its units known as Mini-Noses, they sometimes get lost and don\u2019t come back.",
+            "It uses three small units to catch prey and battle enemies. The main body mostly just gives orders.",
+            "Its entire body exudes strong magnetism. Probopass controls three small units called Mini-Noses.",
+            "It is able to emit powerful magnetism, allowing it control over the iron sand that forms its luscious mustache. Using this iron sand, Probopass forms hard stones with which it smites its prey."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790311207751802/476.png",
+    "discord_sprite": "<:P476:1132133677267157054>"
+}

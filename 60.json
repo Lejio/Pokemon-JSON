@@ -1,0 +1,244 @@
+{
+    "alt-version(s)": [],
+    "name": "Poliwag",
+    "Poliwag": {
+        "pokedex_data": {
+            "National No.": "0060",
+            "Type": [
+                "Water"
+            ],
+            "Species": "Tadpole Poke\u0301mon",
+            "Height": "0.6 m (2\u203200\u2032\u2032)",
+            "Weight": "12.4 kg (27.3 lbs)",
+            "Abilities": {
+                "Water Absorb": {
+                    "href": "/ability/water-absorb",
+                    "effect": "Restores HP if hit by a Water-type move.",
+                    "hidden": false
+                },
+                "Damp": {
+                    "href": "/ability/damp",
+                    "effect": "Prevents the use of self-destructing moves.",
+                    "hidden": false
+                },
+                "Swift Swim": {
+                    "href": "/ability/swift-swim",
+                    "effect": "Boosts the Pok\u00e9mon's Speed in rain.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Speed",
+            "Catch rate": "255",
+            "BaseFriendship": "50",
+            "Base Exp.": "60",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "40",
+                "Min": "190",
+                "Max": "284"
+            },
+            "Attack": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Defense": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Atk": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Def": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Speed": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Total": "300"
+        },
+        "defense_stats": {
+            "Water Absorb ability": {
+                "Fire": "not very effective",
+                "Water": "no effect",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Steel": "not very effective"
+            },
+            "Damp ability": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Steel": "not very effective"
+            },
+            "Swift Swim ability": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Poliwag",
+                    "nationalNo": "#0060",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Poliwhirl",
+                    "nationalNo": "#0061",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 25)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Poliwhirl",
+                    "nationalNo": "#0061",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Poliwrath",
+                    "nationalNo": "#0062",
+                    "type": [
+                        "Water",
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Water Stone)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Poliwhirl",
+                    "nationalNo": "#0061",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Politoed",
+                    "nationalNo": "#0186",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(trade holding Kings Rock)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Hypnosis": "1",
+            "Water Gun": "1",
+            "Pound": "6",
+            "Mud Shot": "12",
+            "Bubble Beam": "18",
+            "Rain Dance": "24",
+            "Body Slam": "30",
+            "Earth Power": "36",
+            "Hydro Pump": "42",
+            "Belly Drum": "48",
+            "Double-Edge": "54"
+        },
+        "egg": {
+            "Bubble Beam": null,
+            "Encore": null,
+            "Endeavor": null,
+            "Haze": null,
+            "Mind Reader": null,
+            "Mist": null,
+            "Mud Shot": null,
+            "Splash": null
+        },
+        "tm": {
+            "Water Pulse": "03",
+            "Hail": "07",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Dig": "28",
+            "Psychic": "29",
+            "Double Team": "32",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Scald": "49",
+            "Endure": "58",
+            "Sleep Talk": "82",
+            "Bulldoze": "83",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Surf": "95",
+            "Waterfall": "99"
+        }
+    },
+    "entries": {
+        "Poliwag": [
+            "Its newly grown legs prevent it from running. It appears to prefer swimming than trying to stand.",
+            "The direction of the spiral on the belly differs by area. It is more adept at swimming than walking.",
+            "Because it is inept at walking on its newly grown legs, it always swims around in water.",
+            "The direction of its belly spiral differs by area. The equator is thought to have an effect on this.",
+            "The swirl on its belly is its insides showing through the skin. It looks clearer after it eats.",
+            "POLIWAG has a very thin skin. It is possible to see the pok\u00e9mon\u2019s spiral innards right through the skin. Despite its thinness, however, the skin is also very flexible. Even sharp fangs bounce right off it.",
+            "Its slick black skin is thin and damp. A part of its internal organs can be seen through the skin as a spiral pattern.",
+            "Its newly grown legs prevent it from walking well. It appears to prefer swimming over walking.",
+            "It is possible to see this pok\u00e9mon\u2019s spiral innards right through its thin skin. However, the skin is also very flexible. Even sharp fangs bounce right off it.",
+            "Its skin is so thin, its internal organs are visible. It has trouble walking on its newly grown feet.",
+            "Because it is inept at walking on its newly grown legs, it always swims around in water.",
+            "The direction of its belly spiral differs by area. The equator is thought to have an effect on this.",
+            "Its skin is so thin, its internal organs are visible. It has trouble walking on its newly grown feet.",
+            "Its slick black skin is thin and damp. A part of its internal organs can be seen through the skin as a spiral pattern.",
+            "The direction of the spiral on the belly differs by area. It is more adept at swimming than walking.",
+            "Poliwag has a very thin skin. It is possible to see the Pok\u00e9mon\u2019s spiral innards right through the skin. Despite its thinness, however, the skin is also very flexible. Even sharp fangs bounce right off it.",
+            "The swirl on its belly is its internal organs showing through. If the swirl is tinged white, that means it\u2019s affected by some disease.",
+            "It\u2019s still not very good at walking. Its Trainers should train this Pok\u00e9mon to walk every day.",
+            "Despite the danger, it wants to come up on land. So it does its best to waddle along, but when an enemy finds it, it rushes back to the water.",
+            "The direction of the swirl on their stomachs differs depending on where they live. Poliwag aficionados can tell them apart at a glance.",
+            "The direction of the spiral on the belly differs by area. It is more adept at swimming than walking.",
+            "For Poliwag, swimming is easier than walking. The swirl pattern on its belly is actually part of the Pok\u00e9mon\u2019s innards showing through the skin.",
+            "In rivers with fast-flowing water, this Pok\u00e9mon will cling to a rock by using its thick lips, which act like a suction cup.",
+            "Its skin is so thin, its internal organs are visible. It has trouble walking on its newly grown feet."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787060345319486/60.png",
+    "discord_sprite": "<:P60:1132115360259252224>"
+}

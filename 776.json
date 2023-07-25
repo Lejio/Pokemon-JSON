@@ -1,0 +1,168 @@
+{
+    "alt-version(s)": [],
+    "name": "Turtonator",
+    "Turtonator": {
+        "pokedex_data": {
+            "National No.": "0776",
+            "Type": [
+                "Fire",
+                "Dragon"
+            ],
+            "Species": "Blast Turtle Poke\u0301mon",
+            "Height": "2.0 m (6\u203207\u2032\u2032)",
+            "Weight": "212.0 kg (467.4 lbs)",
+            "Abilities": {
+                "Shell Armor": {
+                    "href": "/ability/shell-armor",
+                    "effect": "The Pok\u00e9mon is protected against critical hits.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Defense",
+            "Catch rate": "70",
+            "BaseFriendship": "50",
+            "Base Exp.": "170",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "60",
+                "Min": "230",
+                "Max": "324"
+            },
+            "Attack": {
+                "Base": "78",
+                "Min": "144",
+                "Max": "280"
+            },
+            "Defense": {
+                "Base": "135",
+                "Min": "247",
+                "Max": "405"
+            },
+            "Sp. Atk": {
+                "Base": "91",
+                "Min": "168",
+                "Max": "309"
+            },
+            "Sp. Def": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Speed": {
+                "Base": "36",
+                "Min": "69",
+                "Max": "188"
+            },
+            "Total": "485"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ground": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Dragon": "super-effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Smog": "1",
+            "Tackle": "1",
+            "Ember": "4",
+            "Protect": "8",
+            "Endure": "12",
+            "Flail": "16",
+            "Incinerate": "20",
+            "Iron Defense": "24",
+            "Dragon Pulse": "28",
+            "Body Slam": "32",
+            "Flamethrower": "36",
+            "Shell Trap": "40",
+            "Shell Smash": "44",
+            "Overheat": "48",
+            "Explosion": "52"
+        },
+        "egg": {
+            "Curse": null,
+            "Head Smash": null,
+            "Rapid Spin": null,
+            "Wide Guard": null
+        },
+        "null": {
+            "Body Slam": "01",
+            "Flamethrower": "02",
+            "Earthquake": "10",
+            "Fire Blast": "15",
+            "Substitute": "20",
+            "Outrage": "24",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Iron Tail": "31",
+            "Uproar": "35",
+            "Heat Wave": "36",
+            "Taunt": "37",
+            "Hyper Voice": "42",
+            "Overheat": "43",
+            "Iron Defense": "46",
+            "Dragon Claw": "47",
+            "Bulk Up": "48",
+            "Dragon Pulse": "62",
+            "Focus Blast": "64",
+            "Flash Cannon": "70",
+            "Iron Head": "74",
+            "Stone Edge": "75",
+            "Heavy Slam": "79",
+            "Work Up": "85",
+            "Heat Crash": "88",
+            "Body Press": "99"
+        },
+        "tm": {
+            "Mega Punch": "00",
+            "Mega Kick": "01",
+            "Hyper Beam": "08",
+            "Giga Impact": "09",
+            "Solar Beam": "11",
+            "Fire Spin": "13",
+            "Rest": "21",
+            "Snore": "24",
+            "Protect": "25",
+            "Attract": "31",
+            "Sunny Day": "34",
+            "Will-O-Wisp": "38",
+            "Facade": "39",
+            "Revenge": "42",
+            "Rock Tomb": "48",
+            "Payback": "57",
+            "Fling": "59",
+            "Venoshock": "74",
+            "Round": "76",
+            "Bulldoze": "81",
+            "Brutal Swing": "97",
+            "Stomping Tantrum": "98"
+        }
+    },
+    "entries": {
+        "Turtonator": [
+            "The shell on its back is chemically unstable and explodes violently if struck. The hole in its stomach is its weak point.",
+            "It gushes fire and poisonous gases from its nostrils. Its dung is an explosive substance and can be put to various uses.",
+            "It lives in volcanoes and eats sulfur and other minerals. Materials from the food it eats form the basis of its explosive shell.",
+            "Its exploding shell poses a real danger but is sensitive to moisture. On rainy days, Turtonator takes silent refuge in caves.",
+            "Explosive substances coat the shell on its back. Enemies that dare attack it will be blown away by an immense detonation.",
+            "Eating sulfur in its volcanic habitat is what causes explosive compounds to develop in its shell. Its droppings are also dangerously explosive."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792658537390150/776.png",
+    "discord_sprite": "<:P776:1132146946912550942>"
+}

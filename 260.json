@@ -1,0 +1,301 @@
+{
+    "alt-version(s)": [
+        "Mega Swampert"
+    ],
+    "name": "Swampert",
+    "Swampert": {
+        "pokedex_data": {
+            "National No.": "0260",
+            "Type": [
+                "Water",
+                "Ground"
+            ],
+            "Species": "Mud Fish Poke\u0301mon",
+            "Height": "1.5 m (4\u203211\u2032\u2032)",
+            "Weight": "81.9 kg (180.6 lbs)",
+            "Abilities": {
+                "Torrent": {
+                    "href": "/ability/torrent",
+                    "effect": "Powers up Water-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Damp": {
+                    "href": "/ability/damp",
+                    "effect": "Prevents the use of self-destructing moves.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Attack",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "241",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "100",
+                "Min": "310",
+                "Max": "404"
+            },
+            "Attack": {
+                "Base": "110",
+                "Min": "202",
+                "Max": "350"
+            },
+            "Defense": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Sp. Atk": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Sp. Def": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Speed": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Total": "535"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Electric": "no effect",
+                "Grass": "super-effective",
+                "Poison": "not very effective",
+                "Rock": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "Mega Swampert": {
+        "pokedex_data": {
+            "National No.": "0260",
+            "Type": [
+                "Water",
+                "Ground"
+            ],
+            "Species": "Mud Fish Poke\u0301mon",
+            "Height": "1.9 m (6\u203203\u2032\u2032)",
+            "Weight": "102.0 kg (224.9 lbs)",
+            "Abilities": {
+                "Swift Swim": {
+                    "href": "/ability/swift-swim",
+                    "effect": "Boosts the Pok\u00e9mon's Speed in rain.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Attack",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "286",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "100",
+                "Min": "310",
+                "Max": "404"
+            },
+            "Attack": {
+                "Base": "150",
+                "Min": "274",
+                "Max": "438"
+            },
+            "Defense": {
+                "Base": "110",
+                "Min": "202",
+                "Max": "350"
+            },
+            "Sp. Atk": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Sp. Def": {
+                "Base": "110",
+                "Min": "202",
+                "Max": "350"
+            },
+            "Speed": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Total": "635"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Electric": "no effect",
+                "Grass": "super-effective",
+                "Poison": "not very effective",
+                "Rock": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Mudkip",
+                    "nationalNo": "#0258",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Marshtomp",
+                    "nationalNo": "#0259",
+                    "type": [
+                        "Water",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 16)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Marshtomp",
+                    "nationalNo": "#0259",
+                    "type": [
+                        "Water",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Swampert",
+                    "nationalNo": "#0260",
+                    "type": [
+                        "Water",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 36)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Earthquake": "1",
+            "Growl": "1",
+            "Hammer Arm": "1",
+            "Mud Shot": "1",
+            "Rock Smash": "1",
+            "Surf": "1",
+            "Tackle": "1",
+            "Water Gun": "1",
+            "Rock Throw": "9",
+            "Protect": "12",
+            "Supersonic": "15",
+            "Water Pulse": "20",
+            "Rock Slide": "25",
+            "Take Down": "30",
+            "Amnesia": "35",
+            "Muddy Water": "42",
+            "Screech": "49",
+            "Endeavor": "56",
+            "Hydro Pump": "63"
+        },
+        "egg": {
+            "Ancient Power": null,
+            "Bite": null,
+            "Counter": null,
+            "Curse": null,
+            "Double-Edge": null,
+            "Mirror Coat": null,
+            "Mud-Slap": null,
+            "Sludge": null,
+            "Stomp": null,
+            "Uproar": null,
+            "Whirlpool": null,
+            "Wide Guard": null,
+            "Yawn": null
+        },
+        "null": {
+            "Hydro Cannon": "150"
+        },
+        "tm": {
+            "Focus Punch": "01",
+            "Water Pulse": "03",
+            "Roar": "05",
+            "Hail": "07",
+            "Bulk Up": "08",
+            "Work Up": "10",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Iron Tail": "23",
+            "Earthquake": "26",
+            "Dig": "28",
+            "Brick Break": "31",
+            "Double Team": "32",
+            "Rock Tomb": "39",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Scald": "49",
+            "Focus Blast": "52",
+            "Fling": "56",
+            "Endure": "58",
+            "Giga Impact": "68",
+            "Stone Edge": "71",
+            "Avalanche": "72",
+            "Stealth Rock": "76",
+            "Rock Slide": "80",
+            "Sleep Talk": "82",
+            "Bulldoze": "83",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Surf": "95",
+            "Strength": "96",
+            "Rock Smash": "98",
+            "Waterfall": "99",
+            "Rock Climb": "100"
+        }
+    },
+    "entries": {
+        "Swampert": [
+            "SWAMPERT is very strong. It has enough power to easily drag a boulder weighing more than a ton. This pok\u00e9mon also has powerful vision that lets it see even in murky water.",
+            "SWAMPERT predicts storms by sensing subtle differences in the sounds of waves and tidal winds with its fins. If a storm is approaching, it piles up boulders to protect itself.",
+            "Its arms are rock-hard. With one swing, they can batter down its foe. It makes its nest on beautiful beaches.",
+            "If it senses the approach of a storm and a tidal wave, it protects its seaside nest by piling up boulders. It swims as fast as a jet ski.",
+            "It can swim while towing a large ship. It bashes down foes with a swing of its thick arms.",
+            "Its arms are hard as rock. With one swing, it can break a boulder into pieces.",
+            "It can swim while towing a large ship. It bashes down foes with a swing of its thick arms.",
+            "Its arms are hard as rock. With one swing, it can break a boulder into pieces.",
+            "It can swim while towing a large ship. It bashes down foes with a swing of its thick arms.",
+            "Swampert is very strong. It has enough power to easily drag a boulder weighing more than a ton. This Pok\u00e9mon also has powerful vision that lets it see even in murky water.",
+            "Swampert predicts storms by sensing subtle differences in the sounds of waves and tidal winds with its fins. If a storm is approaching, it piles up boulders to protect itself.",
+            "It can swim while towing a large ship. It bashes down foes with a swing of its thick arms."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788628733993050/260.png",
+    "discord_sprite": "<:P260:1132124187809546293>"
+}

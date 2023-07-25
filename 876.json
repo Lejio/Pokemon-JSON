@@ -1,0 +1,300 @@
+{
+    "alt-version(s)": [
+        "Male",
+        "Female"
+    ],
+    "Male": {
+        "pokedex_data": {
+            "National No.": "0876",
+            "Type": [
+                "Psychic",
+                "Normal"
+            ],
+            "Species": "Emotion Poke\u0301mon",
+            "Height": "0.9 m (2\u203211\u2032\u2032)",
+            "Weight": "28.0 kg (61.7 lbs)",
+            "Abilities": {
+                "Inner Focus": {
+                    "href": "/ability/inner-focus",
+                    "effect": "The Pok\u00e9mon is protected from flinching.",
+                    "hidden": false
+                },
+                "Synchronize": {
+                    "href": "/ability/synchronize",
+                    "effect": "Passes a burn, poison, or paralysis to the foe.",
+                    "hidden": false
+                },
+                "Psychic Surge": {
+                    "href": "/ability/psychic-surge",
+                    "effect": "The Pok\u00e9mon creates a Psychic Terrain when it enters a battle.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Sp. Atk",
+            "Catch rate": "30",
+            "BaseFriendship": "140",
+            "Base Exp.": "166",
+            "Growth Rate": "Fast"
+        },
+        "breeding_data": {
+            "Gender": "100% male,0% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "60",
+                "Min": "230",
+                "Max": "324"
+            },
+            "Attack": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Defense": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Sp. Atk": {
+                "Base": "105",
+                "Min": "193",
+                "Max": "339"
+            },
+            "Sp. Def": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Speed": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Total": "475"
+        },
+        "defense_stats": {
+            "default": {
+                "Psychic": "not very effective",
+                "Bug": "super-effective",
+                "Ghost": "no effect",
+                "Dark": "super-effective"
+            }
+        }
+    },
+    "Female": {
+        "pokedex_data": {
+            "National No.": "0876",
+            "Type": [
+                "Psychic",
+                "Normal"
+            ],
+            "Species": "Emotion Poke\u0301mon",
+            "Height": "0.9 m (2\u203211\u2032\u2032)",
+            "Weight": "28.0 kg (61.7 lbs)",
+            "Abilities": {
+                "Own Tempo": {
+                    "href": "/ability/own-tempo",
+                    "effect": "Prevents the Pok\u00e9mon from becoming confused.",
+                    "hidden": false
+                },
+                "Synchronize": {
+                    "href": "/ability/synchronize",
+                    "effect": "Passes a burn, poison, or paralysis to the foe.",
+                    "hidden": false
+                },
+                "Psychic Surge": {
+                    "href": "/ability/psychic-surge",
+                    "effect": "The Pok\u00e9mon creates a Psychic Terrain when it enters a battle.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Sp. Def",
+            "Catch rate": "30",
+            "BaseFriendship": "140",
+            "Base Exp.": "166",
+            "Growth Rate": "Fast"
+        },
+        "breeding_data": {
+            "Gender": "0% male,100% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "70",
+                "Min": "250",
+                "Max": "344"
+            },
+            "Attack": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Defense": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Atk": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Sp. Def": {
+                "Base": "105",
+                "Min": "193",
+                "Max": "339"
+            },
+            "Speed": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Total": "475"
+        },
+        "defense_stats": {
+            "default": {
+                "Psychic": "not very effective",
+                "Bug": "super-effective",
+                "Ghost": "no effect",
+                "Dark": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "Male": {
+            "moves": {
+                "Play Nice": "1",
+                "Stored Power": "1",
+                "Encore": "5",
+                "Disarming Voice": "10",
+                "Psybeam": "15",
+                "Helping Hand": "20",
+                "After You": "25",
+                "Healing Wish": "30",
+                "Psychic": "35",
+                "Calm Mind": "40",
+                "Power Split": "45",
+                "Psychic Terrain": "50",
+                "Last Resort": "55"
+            },
+            "egg": {
+                "Extrasensory": null,
+                "Fake Out": null,
+                "Psych Up": null
+            },
+            "tm": {
+                "Take Down": "01",
+                "Protect": "07",
+                "Psybeam": "16",
+                "Disarming Voice": "19",
+                "Facade": "25",
+                "Swift": "32",
+                "Magical Leaf": "33",
+                "Draining Kiss": "37",
+                "Stored Power": "41",
+                "Endure": "47",
+                "Psyshock": "54",
+                "Zen Headbutt": "59",
+                "Body Slam": "66",
+                "Sleep Talk": "70",
+                "Drain Punch": "73",
+                "Dazzling Gleam": "79",
+                "Metronome": "80",
+                "Rest": "85",
+                "Imprison": "92",
+                "Skill Swap": "98",
+                "Substitute": "103",
+                "Trick": "109",
+                "Shadow Ball": "114",
+                "Hyper Voice": "117",
+                "Energy Ball": "119",
+                "Psychic": "120",
+                "Encore": "122",
+                "Play Rough": "127",
+                "Calm Mind": "129",
+                "Helping Hand": "130",
+                "Psychic Terrain": "138",
+                "Trick Room": "161",
+                "Tera Blast": "171"
+            }
+        },
+        "Female": {
+            "moves": {
+                "Play Nice": "1",
+                "Stored Power": "1",
+                "Baton Pass": "5",
+                "Disarming Voice": "10",
+                "Psybeam": "15",
+                "Helping Hand": "20",
+                "Follow Me": "25",
+                "Healing Wish": "30",
+                "Psychic": "35",
+                "Calm Mind": "40",
+                "Guard Split": "45",
+                "Psychic Terrain": "50"
+            },
+            "egg": {
+                "Fake Out": null,
+                "Heal Pulse": null,
+                "Psych Up": null
+            },
+            "tm": {
+                "Take Down": "01",
+                "Charm": "02",
+                "Protect": "07",
+                "Psybeam": "16",
+                "Disarming Voice": "19",
+                "Facade": "25",
+                "Swift": "32",
+                "Magical Leaf": "33",
+                "Draining Kiss": "37",
+                "Stored Power": "41",
+                "Endure": "47",
+                "Psyshock": "54",
+                "Zen Headbutt": "59",
+                "Body Slam": "66",
+                "Sleep Talk": "70",
+                "Drain Punch": "73",
+                "Reflect": "74",
+                "Light Screen": "75",
+                "Dazzling Gleam": "79",
+                "Metronome": "80",
+                "Rest": "85",
+                "Imprison": "92",
+                "Skill Swap": "98",
+                "Substitute": "103",
+                "Trick": "109",
+                "Shadow Ball": "114",
+                "Hyper Voice": "117",
+                "Energy Ball": "119",
+                "Psychic": "120",
+                "Play Rough": "127",
+                "Calm Mind": "129",
+                "Helping Hand": "130",
+                "Baton Pass": "132",
+                "Psychic Terrain": "138",
+                "Tera Blast": "171"
+            }
+        }
+    },
+    "entries": {
+        "Male": [
+            "It uses the horns on its head to sense the emotions of others. Males will act as valets for those they serve, looking after their every need.",
+            "Through its horns, it can pick up on the emotions of creatures around it. Positive emotions are the source of its strength.",
+            "This Pok\u00e9mon picks up on the positive emotions of other creatures via its horns and uses those emotions to fuel itself.",
+            "This Pok\u00e9mon never leaves its Trainer\u2019s side. It predicts their actions with its psychic power and takes care of their day-to-day needs."
+        ],
+        "Female": [
+            "These intelligent Pok\u00e9mon touch horns with each other to share information between them.",
+            "They diligently serve people and Pok\u00e9mon so they can gather feelings of gratitude. The females are particularly good at babysitting.",
+            "It dislikes conflict. If a fight occurs in its territory, it uses psychic power to throw things at the combatants in an effort to drive them away.",
+            "In search of happy feelings\u2014such as joy and gratitude\u2014Indeedee bustles around, taking diligent care of people and other Pok\u00e9mon."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793432847843368/876.png",
+    "discord_sprite": "<:P876:1132151346527740064>"
+}

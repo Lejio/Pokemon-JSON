@@ -1,0 +1,404 @@
+{
+    "alt-version(s)": [
+        "Mega Charizard X",
+        "Mega Charizard Y"
+    ],
+    "name": "Charizard",
+    "Charizard": {
+        "pokedex_data": {
+            "National No.": "0006",
+            "Type": [
+                "Fire",
+                "Flying"
+            ],
+            "Species": "Flame Poke\u0301mon",
+            "Height": "1.7 m (5\u203207\u2032\u2032)",
+            "Weight": "90.5 kg (199.5 lbs)",
+            "Abilities": {
+                "Blaze": {
+                    "href": "/ability/blaze",
+                    "effect": "Powers up Fire-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Solar Power": {
+                    "href": "/ability/solar-power",
+                    "effect": "In sunshine, Sp. Atk is boosted but HP decreases.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Sp. Atk",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "267",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "78",
+                "Min": "266",
+                "Max": "360"
+            },
+            "Attack": {
+                "Base": "84",
+                "Min": "155",
+                "Max": "293"
+            },
+            "Defense": {
+                "Base": "78",
+                "Min": "144",
+                "Max": "280"
+            },
+            "Sp. Atk": {
+                "Base": "109",
+                "Min": "200",
+                "Max": "348"
+            },
+            "Sp. Def": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Speed": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Total": "534"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Electric": "super-effective",
+                "Grass": "not very effective",
+                "Fighting": "not very effective",
+                "Ground": "no effect",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "Mega Charizard X": {
+        "pokedex_data": {
+            "National No.": "0006",
+            "Type": [
+                "Fire",
+                "Dragon"
+            ],
+            "Species": "Flame Poke\u0301mon",
+            "Height": "1.7 m (5\u203207\u2032\u2032)",
+            "Weight": "110.5 kg (243.6 lbs)",
+            "Abilities": {
+                "Tough Claws": {
+                    "href": "/ability/tough-claws",
+                    "effect": "Boosts the power of contact moves.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Sp. Atk",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "285",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "78",
+                "Min": "266",
+                "Max": "360"
+            },
+            "Attack": {
+                "Base": "130",
+                "Min": "238",
+                "Max": "394"
+            },
+            "Defense": {
+                "Base": "111",
+                "Min": "204",
+                "Max": "353"
+            },
+            "Sp. Atk": {
+                "Base": "130",
+                "Min": "238",
+                "Max": "394"
+            },
+            "Sp. Def": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Speed": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Total": "634"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ground": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Dragon": "super-effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "Mega Charizard Y": {
+        "pokedex_data": {
+            "National No.": "0006",
+            "Type": [
+                "Fire",
+                "Flying"
+            ],
+            "Species": "Flame Poke\u0301mon",
+            "Height": "1.7 m (5\u203207\u2032\u2032)",
+            "Weight": "100.5 kg (221.6 lbs)",
+            "Abilities": {
+                "Drought": {
+                    "href": "/ability/drought",
+                    "effect": "Turns the sunlight harsh when the Pok\u00e9mon enters a battle.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Sp. Atk",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "285",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "78",
+                "Min": "266",
+                "Max": "360"
+            },
+            "Attack": {
+                "Base": "104",
+                "Min": "191",
+                "Max": "337"
+            },
+            "Defense": {
+                "Base": "78",
+                "Min": "144",
+                "Max": "280"
+            },
+            "Sp. Atk": {
+                "Base": "159",
+                "Min": "290",
+                "Max": "458"
+            },
+            "Sp. Def": {
+                "Base": "115",
+                "Min": "211",
+                "Max": "361"
+            },
+            "Speed": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Total": "634"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Electric": "super-effective",
+                "Grass": "not very effective",
+                "Fighting": "not very effective",
+                "Ground": "no effect",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Charmander",
+                    "nationalNo": "#0004",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Charmeleon",
+                    "nationalNo": "#0005",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 16)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Charmeleon",
+                    "nationalNo": "#0005",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Charizard",
+                    "nationalNo": "#0006",
+                    "type": [
+                        "Fire",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 36)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Dragon Claw": "1",
+            "Ember": "1",
+            "Growl": "1",
+            "Heat Wave": "1",
+            "Scratch": "1",
+            "Smokescreen": "1",
+            "Dragon Breath": "12",
+            "Fire Fang": "19",
+            "Slash": "24",
+            "Flamethrower": "30",
+            "Scary Face": "39",
+            "Fire Spin": "46",
+            "Inferno": "54",
+            "Flare Blitz": "62"
+        },
+        "evolution": {
+            "Air Slash": "75"
+        },
+        "egg": {
+            "Ancient Power": null,
+            "Belly Drum": null,
+            "Bite": null,
+            "Counter": null,
+            "Dragon Rush": null,
+            "Dragon Tail": null,
+            "Iron Tail": null,
+            "Metal Claw": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Fire Fang": "08",
+            "Acrobatics": "14",
+            "Fire Spin": "24",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Bulldoze": "28",
+            "Swift": "32",
+            "Rock Tomb": "36",
+            "Flame Charge": "38",
+            "Air Cutter": "40",
+            "Fling": "43",
+            "Dragon Tail": "44",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Sandstorm": "51",
+            "Dig": "55",
+            "Brick Break": "58",
+            "Shadow Claw": "61",
+            "Air Slash": "65",
+            "Body Slam": "66",
+            "Fire Punch": "67",
+            "Thunder Punch": "68",
+            "Sleep Talk": "70",
+            "Dragon Claw": "78",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Swords Dance": "88",
+            "Fly": "97",
+            "Dragon Dance": "100",
+            "Substitute": "103",
+            "Will-O-Wisp": "107",
+            "Crunch": "108",
+            "Dragon Pulse": "115",
+            "Heat Wave": "118",
+            "Flamethrower": "125",
+            "Helping Hand": "130",
+            "Fire Blast": "141",
+            "Fire Pledge": "144",
+            "Earthquake": "149",
+            "Giga Impact": "152",
+            "Blast Burn": "153",
+            "Outrage": "156",
+            "Overheat": "157",
+            "Focus Blast": "158",
+            "Hurricane": "160",
+            "Hyper Beam": "163",
+            "Flare Blitz": "165",
+            "Solar Beam": "168",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Charizard": [
+            "Spits fire that is hot enough to melt boulders. Known to cause forest fires unintentionally.",
+            "When expelling a blast of super hot fire, the red flame at the tip of its tail burns more intensely.",
+            "If CHARIZARD becomes furious, the flame at the tip of its tail flares up in a whitish-blue color.",
+            "Breathing intense, hot flames, it can melt almost anything. Its breath inflicts terrible pain on enemies.",
+            "It uses its wings to fly high. The temperature of its fire increases as it gains experience in battle.",
+            "CHARIZARD flies around the sky in search of powerful opponents. It breathes fire of such great heat that it melts anything. However, it never turns its fiery breath on any opponent weaker than itself.",
+            "Its wings can carry this pok\u00e9mon close to an altitude of 4,600 feet. It blows out fire at very high temperatures.",
+            "It spits fire that is hot enough to melt boulders. It may cause forest fires by blowing flames.",
+            "A CHARIZARD flies about in search of strong opponents. It breathes intense flames that can melt any material. However, it will never torch a weaker foe.",
+            "It is said that CHARIZARD\u2019s fire burns hotter if it has experienced harsh battles.",
+            "If CHARIZARD becomes furious, the flame at the tip of its tail flares up in a light blue shade.",
+            "Breathing intense, hot flames, it can melt almost anything. Its breath inflicts terrible pain on enemies.",
+            "It is said that Charizard\u2019s fire burns hotter if it has experienced harsh battles.",
+            "When expelling a blast of superhot fire, the red flame at the tip of its tail burns more intensely.",
+            "Its wings can carry this Pok\u00e9mon close to an altitude of 4,600 feet. It blows out fire at very high temperatures.",
+            "Charizard flies around the sky in search of powerful opponents. It breathes fire of such great heat that it melts anything. However, it never turns its fiery breath on any opponent weaker than itself.",
+            "When this Pok\u00e9mon expels a blast of superhot fire, the red flame at the tip of its tails burns more intensely.",
+            "It spits fire that is hot enough to melt boulders. It may cause forest fires by blowing flames.",
+            "Its wings can carry this Pok\u00e9mon close to an altitude of 4,600 feet. It blows out fire at very high temperatures.",
+            "It is said that Charizard\u2019s fire burns hotter if it has experienced harsh battles."
+        ],
+        "Gigantamax": [
+            "This colossal, flame-winged figure of a Charizard was brought about by Gigantamax energy.",
+            "The flame inside its body burns hotter than 3,600 degrees Fahrenheit. When Charizard roars, that temperature climbs even higher."
+        ],
+        "Mega Charizard X": [
+            "The overwhelming power that fills its entire body causes it to turn black and create intense blue flames."
+        ],
+        "Mega Charizard Y": [
+            "Its bond with its Trainer is the source of its power. It boasts speed and maneuverability greater than that of a jet fighter."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131786635403599982/6.png",
+    "discord_sprite": "<:P6:1131972157036052563>"
+}

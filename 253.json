@@ -1,0 +1,221 @@
+{
+    "alt-version(s)": [],
+    "name": "Grovyle",
+    "Grovyle": {
+        "pokedex_data": {
+            "National No.": "0253",
+            "Type": [
+                "Grass"
+            ],
+            "Species": "Wood Gecko Poke\u0301mon",
+            "Height": "0.9 m (2\u203211\u2032\u2032)",
+            "Weight": "21.6 kg (47.6 lbs)",
+            "Abilities": {
+                "Overgrow": {
+                    "href": "/ability/overgrow",
+                    "effect": "Powers up Grass-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Unburden": {
+                    "href": "/ability/unburden",
+                    "effect": "Raises Speed if a held item is used.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Speed",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "142",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "50",
+                "Min": "210",
+                "Max": "304"
+            },
+            "Attack": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Defense": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Sp. Atk": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Sp. Def": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Speed": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Total": "405"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Poison": "super-effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Bug": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Treecko",
+                    "nationalNo": "#0252",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Grovyle",
+                    "nationalNo": "#0253",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 16)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Grovyle",
+                    "nationalNo": "#0253",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Sceptile",
+                    "nationalNo": "#0254",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 36)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Energy Ball": "1",
+            "False Swipe": "1",
+            "Fury Cutter": "1",
+            "Leafage": "1",
+            "Leer": "1",
+            "Pound": "1",
+            "Quick Attack": "1",
+            "X-Scissor": "1",
+            "Mega Drain": "9",
+            "Detect": "12",
+            "Quick Guard": "15",
+            "Assurance": "20",
+            "Giga Drain": "25",
+            "Slam": "30",
+            "Double Team": "35",
+            "Leaf Blade": "40",
+            "Screech": "45",
+            "Endeavor": "50",
+            "Leaf Storm": "55"
+        },
+        "egg": {
+            "Absorb": null,
+            "Crunch": null,
+            "Crush Claw": null,
+            "Double Kick": null,
+            "Dragon Breath": null,
+            "Endeavor": null,
+            "Grassy Terrain": null,
+            "Leaf Storm": null,
+            "Leech Seed": null,
+            "Magical Leaf": null,
+            "Night Slash": null,
+            "Slash": null,
+            "Synthesis": null,
+            "Worry Seed": null
+        },
+        "tm": {
+            "Focus Punch": "01",
+            "Bullet Seed": "09",
+            "Work Up": "10",
+            "Sunny Day": "11",
+            "Protect": "17",
+            "Giga Drain": "19",
+            "Safeguard": "20",
+            "Solar Beam": "22",
+            "Iron Tail": "23",
+            "Low Sweep": "27",
+            "Dig": "28",
+            "Brick Break": "31",
+            "Double Team": "32",
+            "Rock Tomb": "39",
+            "Aerial Ace": "40",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Energy Ball": "53",
+            "False Swipe": "54",
+            "Fling": "56",
+            "Endure": "58",
+            "Drain Punch": "60",
+            "Flash": "70",
+            "Swords Dance": "75",
+            "Rock Slide": "80",
+            "X-Scissor": "81",
+            "Sleep Talk": "82",
+            "Grass Knot": "86",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Cut": "93",
+            "Strength": "96",
+            "Rock Smash": "98"
+        }
+    },
+    "entries": {
+        "Grovyle": [
+            "The leaves growing out of GROVYLE\u2019s body are convenient for camouflaging it from enemies in the forest. This pok\u00e9mon is a master at climbing trees in jungles.",
+            "This pok\u00e9mon adeptly flies from branch to branch in trees. In a forest, no pok\u00e9mon can ever hope to catch a fleeing GROVYLE however fast they may be.",
+            "Its strongly developed thigh muscles give it astounding agility and jumping performance.",
+            "Leaves grow out of this pok\u00e9mon\u2019s body. They help obscure a GROVYLE from the eyes of its enemies while it is in a thickly overgrown forest.",
+            "It lives in dense jungles. While closing in on its prey, it leaps from branch to branch.",
+            "It leaps from tree branch to tree branch quite swiftly. It shows astounding agility.",
+            "It lives in dense jungles. While closing in on its prey, it leaps from branch to branch.",
+            "It lives in dense jungles. While closing in on its prey, it leaps from branch to branch.",
+            "Its strongly developed thigh muscles give it astounding agility and jumping performance.",
+            "It lives in dense jungles. While closing in on its prey, it leaps from branch to branch.",
+            "The leaves growing out of Grovyle\u2019s body are convenient for camouflaging it from enemies in the forest. This Pok\u00e9mon is a master at climbing trees in jungles.",
+            "This Pok\u00e9mon adeptly flies from branch to branch in trees. In a forest, no Pok\u00e9mon can ever hope to catch a fleeing Grovyle however fast they may be.",
+            "It lives in dense jungles. While closing in on its prey, it leaps from branch to branch."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788572668739614/253.png",
+    "discord_sprite": "<:P253:1132123874046246924>"
+}

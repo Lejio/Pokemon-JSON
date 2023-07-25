@@ -1,0 +1,157 @@
+{
+    "alt-version(s)": [],
+    "name": "Rellor",
+    "Rellor": {
+        "pokedex_data": {
+            "National No.": "0953",
+            "Type": [
+                "Bug"
+            ],
+            "Species": "Rolling Poke\u0301mon",
+            "Height": "0.2 m (0\u203208\u2032\u2032)",
+            "Weight": "1.0 kg (2.2 lbs)",
+            "Abilities": {
+                "Compound Eyes": {
+                    "href": "/ability/compound-eyes",
+                    "effect": "The Pok\u00e9mon's accuracy is boosted.",
+                    "hidden": false
+                },
+                "Shed Skin": {
+                    "href": "/ability/shed-skin",
+                    "effect": "The Pok\u00e9mon may heal its own status problems.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Defense",
+            "Catch rate": "190",
+            "BaseFriendship": "50",
+            "Base Exp.": "54",
+            "Growth Rate": "Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "41",
+                "Min": "192",
+                "Max": "286"
+            },
+            "Attack": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Defense": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Atk": {
+                "Base": "31",
+                "Min": "60",
+                "Max": "177"
+            },
+            "Sp. Def": {
+                "Base": "58",
+                "Min": "108",
+                "Max": "236"
+            },
+            "Speed": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Total": "270"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Grass": "not very effective",
+                "Fighting": "not very effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Rock": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Rellor",
+                    "nationalNo": "#0953",
+                    "type": [
+                        "Bug"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Rabsca",
+                    "nationalNo": "#0954",
+                    "type": [
+                        "Bug",
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(walk 1,000 steps in Let's Go mode)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Defense Curl": "1",
+            "Tackle": "1",
+            "Sand Attack": "4",
+            "Struggle Bug": "7",
+            "Rollout": "11",
+            "Mud Shot": "15",
+            "Bug Bite": "20",
+            "Take Down": "24",
+            "Dig": "29",
+            "Lunge": "35"
+        },
+        "egg": {
+            "Cosmic Power": null,
+            "Memento": null,
+            "Recover": null,
+            "Weather Ball": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Mud-Slap": "05",
+            "Protect": "07",
+            "Struggle Bug": "15",
+            "Thief": "18",
+            "Pounce": "21",
+            "Facade": "25",
+            "Mud Shot": "35",
+            "Rock Tomb": "36",
+            "Fling": "43",
+            "Endure": "47",
+            "Dig": "55",
+            "Sleep Talk": "70",
+            "Rest": "85",
+            "Leech Life": "95",
+            "Gunk Shot": "102",
+            "Substitute": "103",
+            "Iron Defense": "104",
+            "X-Scissor": "105",
+            "Sludge Bomb": "148",
+            "Bug Buzz": "162",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Rellor": [
+            "This Pok\u00e9mon creates a mud ball by mixing sand and dirt with psychic energy. It treasures its mud ball more than its own life.",
+            "It rolls its mud ball around while the energy it needs for evolution matures. Eventually the time comes for it to evolve."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131794032775925780/953.png",
+    "discord_sprite": "<:P953:1132154726969004072>"
+}

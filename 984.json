@@ -1,0 +1,156 @@
+{
+    "alt-version(s)": [],
+    "name": "Great Tusk",
+    "Great Tusk": {
+        "pokedex_data": {
+            "National No.": "0984",
+            "Type": [
+                "Ground",
+                "Fighting"
+            ],
+            "Species": "Paradox Poke\u0301mon",
+            "Height": "2.2 m (7\u203203\u2032\u2032)",
+            "Weight": "320.0 kg (705.5 lbs)",
+            "Abilities": {
+                "Protosynthesis": {
+                    "href": "/ability/protosynthesis",
+                    "effect": "Raises highest stat in harsh sunlight, or if holding Booster Energy.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Attack",
+            "Catch rate": "30",
+            "BaseFriendship": "0",
+            "Base Exp.": "285",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "115",
+                "Min": "340",
+                "Max": "434"
+            },
+            "Attack": {
+                "Base": "131",
+                "Min": "240",
+                "Max": "397"
+            },
+            "Defense": {
+                "Base": "131",
+                "Min": "240",
+                "Max": "397"
+            },
+            "Sp. Atk": {
+                "Base": "53",
+                "Min": "99",
+                "Max": "225"
+            },
+            "Sp. Def": {
+                "Base": "53",
+                "Min": "99",
+                "Max": "225"
+            },
+            "Speed": {
+                "Base": "87",
+                "Min": "161",
+                "Max": "300"
+            },
+            "Total": "570"
+        },
+        "defense_stats": {
+            "default": {
+                "Water": "super-effective",
+                "Electric": "no effect",
+                "Grass": "super-effective",
+                "Ice": "super-effective",
+                "Poison": "not very effective",
+                "Flying": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Dark": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Defense Curl": "1",
+            "Horn Attack": "1",
+            "Rollout": "1",
+            "Sunny Day": "1",
+            "Bulldoze": "7",
+            "Taunt": "14",
+            "Rapid Spin": "21",
+            "Brick Break": "28",
+            "Stomping Tantrum": "35",
+            "Knock Off": "42",
+            "Earthquake": "49",
+            "Giga Impact": "56",
+            "Close Combat": "63",
+            "Endeavor": "70",
+            "Megahorn": "77",
+            "Head Smash": "84",
+            "Headlong Rush": "91"
+        },
+        "egg": null,
+        "tm": {
+            "Take Down": "01",
+            "Mud-Slap": "05",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Fire Fang": "08",
+            "Thunder Fang": "09",
+            "Ice Fang": "10",
+            "Facade": "25",
+            "Bulldoze": "28",
+            "Mud Shot": "35",
+            "Rock Tomb": "36",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Sandstorm": "51",
+            "Smart Strike": "53",
+            "Psyshock": "54",
+            "Dig": "55",
+            "Brick Break": "58",
+            "Zen Headbutt": "59",
+            "Bulk Up": "64",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Taunt": "87",
+            "Body Press": "89",
+            "Flash Cannon": "93",
+            "Iron Head": "99",
+            "Substitute": "103",
+            "Stealth Rock": "116",
+            "Heavy Slam": "121",
+            "Ice Spinner": "124",
+            "Play Rough": "127",
+            "Earth Power": "133",
+            "Reversal": "134",
+            "Earthquake": "149",
+            "Stone Edge": "150",
+            "Giga Impact": "152",
+            "Hyper Beam": "163",
+            "Close Combat": "167",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Great Tusk": [
+            "Sightings of this Pok\u00e9mon have occurred in recent years. The name Great Tusk was taken from a creature listed in a certain book.",
+            "This creature resembles a mysterious Pok\u00e9mon that, according to a paranormal magazine, has lived since ancient times."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131794273872904302/984.png",
+    "discord_sprite": "<:P984:1132156089891295322>"
+}

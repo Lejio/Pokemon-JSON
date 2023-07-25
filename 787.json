@@ -1,0 +1,175 @@
+{
+    "alt-version(s)": [],
+    "name": "Tapu Bulu",
+    "Tapu Bulu": {
+        "pokedex_data": {
+            "National No.": "0787",
+            "Type": [
+                "Grass",
+                "Fairy"
+            ],
+            "Species": "Land Spirit Poke\u0301mon",
+            "Height": "1.9 m (6\u203203\u2032\u2032)",
+            "Weight": "45.5 kg (100.3 lbs)",
+            "Abilities": {
+                "Grassy Surge": {
+                    "href": "/ability/grassy-surge",
+                    "effect": "The Pok\u00e9mon creates a Grassy Terrain when it enters a battle.",
+                    "hidden": false
+                },
+                "Telepathy": {
+                    "href": "/ability/telepathy",
+                    "effect": "Anticipates an ally's attack and dodges it.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Attack",
+            "Catch rate": "3",
+            "BaseFriendship": "50",
+            "Base Exp.": "257",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "70",
+                "Min": "250",
+                "Max": "344"
+            },
+            "Attack": {
+                "Base": "130",
+                "Min": "238",
+                "Max": "394"
+            },
+            "Defense": {
+                "Base": "115",
+                "Min": "211",
+                "Max": "361"
+            },
+            "Sp. Atk": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Sp. Def": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Speed": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Total": "570"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Poison": "super-effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Dragon": "no effect",
+                "Dark": "not very effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Leafage": "1",
+            "Rock Smash": "1",
+            "Withdraw": "5",
+            "Disable": "10",
+            "Leech Seed": "15",
+            "Mega Drain": "20",
+            "Whirlwind": "25",
+            "Horn Attack": "30",
+            "Scary Face": "35",
+            "Horn Leech": "40",
+            "Zen Headbutt": "45",
+            "Mean Look": "50",
+            "Nature's Madness": "55",
+            "Wood Hammer": "60",
+            "Megahorn": "65",
+            "Skull Bash": "70",
+            "Grassy Terrain": "75"
+        },
+        "egg": null,
+        "tm": {
+            "Mega Punch": "00",
+            "Hyper Beam": "08",
+            "Giga Impact": "09",
+            "Solar Beam": "11",
+            "Light Screen": "17",
+            "Reflect": "18",
+            "Safeguard": "19",
+            "Rest": "21",
+            "Rock Slide": "22",
+            "Snore": "24",
+            "Protect": "25",
+            "Scary Face": "26",
+            "Giga Drain": "28",
+            "Sunny Day": "34",
+            "Facade": "39",
+            "Revenge": "42",
+            "Brick Break": "43",
+            "Rock Tomb": "48",
+            "Bullet Seed": "50",
+            "Payback": "57",
+            "Fling": "59",
+            "Power Swap": "60",
+            "Guard Swap": "61",
+            "Round": "76",
+            "Snarl": "85",
+            "Grassy Terrain": "88",
+            "False Swipe": "94",
+            "Smart Strike": "96",
+            "Brutal Swing": "97"
+        },
+        "null": {
+            "Swords Dance": "00",
+            "Substitute": "20",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Megahorn": "28",
+            "Taunt": "37",
+            "Superpower": "39",
+            "Iron Defense": "46",
+            "Bulk Up": "48",
+            "Calm Mind": "49",
+            "Close Combat": "53",
+            "Seed Bomb": "59",
+            "Focus Blast": "64",
+            "Energy Ball": "65",
+            "Zen Headbutt": "69",
+            "Stone Edge": "75",
+            "Grass Knot": "77",
+            "Stored Power": "82",
+            "Work Up": "85",
+            "Dazzling Gleam": "92",
+            "Darkest Lariat": "93",
+            "High Horsepower": "94"
+        }
+    },
+    "entries": {
+        "Tapu Bulu": [
+            "It pulls large trees up by the roots and swings them around. It causes vegetation to grow, and then it absorbs energy from the growth.",
+            "The guardian deity of Ula\u2019ula is a lazy Pok\u00e9mon. It commands plants to immobilize its foes and then deals them a savage blow with its horns.",
+            "Although it\u2019s called a guardian deity, it\u2019s violent enough to crush anyone it sees as an enemy.",
+            "It makes ringing sounds with its tail to let others know where it is, avoiding unneeded conflicts. This guardian deity of Ula\u2019ula controls plants."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792742746431498/787.png",
+    "discord_sprite": "<:P787:1132147432390656052>"
+}

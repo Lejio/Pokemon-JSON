@@ -1,0 +1,220 @@
+{
+    "alt-version(s)": [],
+    "name": "Charmeleon",
+    "Charmeleon": {
+        "pokedex_data": {
+            "National No.": "0005",
+            "Type": [
+                "Fire"
+            ],
+            "Species": "Flame Poke\u0301mon",
+            "Height": "1.1 m (3\u203207\u2032\u2032)",
+            "Weight": "19.0 kg (41.9 lbs)",
+            "Abilities": {
+                "Blaze": {
+                    "href": "/ability/blaze",
+                    "effect": "Powers up Fire-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Solar Power": {
+                    "href": "/ability/solar-power",
+                    "effect": "In sunshine, Sp. Atk is boosted but HP decreases.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Sp. Atk, 1 Speed",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "142",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "58",
+                "Min": "226",
+                "Max": "320"
+            },
+            "Attack": {
+                "Base": "64",
+                "Min": "119",
+                "Max": "249"
+            },
+            "Defense": {
+                "Base": "58",
+                "Min": "108",
+                "Max": "236"
+            },
+            "Sp. Atk": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Sp. Def": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Speed": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Total": "405"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Ground": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Charmander",
+                    "nationalNo": "#0004",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Charmeleon",
+                    "nationalNo": "#0005",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 16)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Charmeleon",
+                    "nationalNo": "#0005",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Charizard",
+                    "nationalNo": "#0006",
+                    "type": [
+                        "Fire",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 36)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Ember": "1",
+            "Growl": "1",
+            "Scratch": "1",
+            "Smokescreen": "1",
+            "Dragon Breath": "12",
+            "Fire Fang": "19",
+            "Slash": "24",
+            "Flamethrower": "30",
+            "Scary Face": "37",
+            "Inferno": "48",
+            "Flare Blitz": "54"
+        },
+        "egg": {
+            "Ancient Power": null,
+            "Belly Drum": null,
+            "Bite": null,
+            "Counter": null,
+            "Dragon Rush": null,
+            "Dragon Tail": null,
+            "Iron Tail": null,
+            "Metal Claw": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Fire Fang": "08",
+            "Fire Spin": "24",
+            "Facade": "25",
+            "Swift": "32",
+            "Rock Tomb": "36",
+            "Flame Charge": "38",
+            "Fling": "43",
+            "Dragon Tail": "44",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Dig": "55",
+            "False Swipe": "57",
+            "Brick Break": "58",
+            "Shadow Claw": "61",
+            "Body Slam": "66",
+            "Fire Punch": "67",
+            "Thunder Punch": "68",
+            "Sleep Talk": "70",
+            "Dragon Claw": "78",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Swords Dance": "88",
+            "Dragon Dance": "100",
+            "Substitute": "103",
+            "Will-O-Wisp": "107",
+            "Crunch": "108",
+            "Dragon Pulse": "115",
+            "Heat Wave": "118",
+            "Flamethrower": "125",
+            "Helping Hand": "130",
+            "Fire Blast": "141",
+            "Fire Pledge": "144",
+            "Outrage": "156",
+            "Overheat": "157",
+            "Flare Blitz": "165",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Charmeleon": [
+            "When it swings its burning tail, it elevates the temperature to unbearably high levels.",
+            "Tough fights could excite this pok\u00e9mon. When excited, it may blow out bluish-white flames.",
+            "It is very hotheaded by nature, so it constantly seeks opponents. It calms down only when it wins.",
+            "It has a barbaric nature. In battle, it whips its fiery tail around and slashes away with sharp claws.",
+            "If it becomes agitated during battle, it spouts intense flames, incinerating its surroundings.",
+            "CHARMELEON mercilessly destroys its foes using its sharp claws. If it encounters a strong foe, it turns aggressive. In this excited state, the flame at the tip of its tail flares with a bluish white color.",
+            "It lashes about with its tail to knock down its foe. It then tears up the fallen opponent with sharp claws.",
+            "When it swings its burning tail, it elevates the air temperature to unbearably high levels.",
+            "Without pity, its sharp claws destroy foes. If it encounters a strong enemy, it becomes agitated, and the flame on its tail flares with a bluish white color.",
+            "In the rocky mountains where CHARMELEON live, their fiery tails shine at night like stars.",
+            "It is very hotheaded by nature, so it constantly seeks opponents. It calms down only when it wins.",
+            "It has a barbaric nature. In battle, it whips its fiery tail around and slashes away with sharp claws.",
+            "In the rocky mountains where Charmeleon live, their fiery tails shine at night like stars.",
+            "It lashes about with its tail to knock down its foe. It then tears up the fallen opponent with sharp claws.",
+            "When it swings its burning tail, it elevates the air temperature to unbearably high levels.",
+            "Charmeleon mercilessly destroys its foes using its sharp claws. If it encounters a strong foe, it turns aggressive. In this excited state, the flame at the tip of its tail flares with a bluish white color.",
+            "Tough fights could excite this Pok\u00e9mon. When excited, it may breathe out bluish-white flames.",
+            "It has a barbaric nature. In battle, it whips its fiery tail around and slashes away with sharp claws.",
+            "If it becomes agitated during battle, it spouts intense flames, incinerating its surroundings.",
+            "In the rocky mountains where Charmeleon live, their fiery tails shine at night like stars."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131786627627372595/5.png",
+    "discord_sprite": "<:P5:1131972112593207387>"
+}

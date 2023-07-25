@@ -1,0 +1,158 @@
+{
+    "alt-version(s)": [],
+    "name": "Blacephalon",
+    "Blacephalon": {
+        "pokedex_data": {
+            "National No.": "0806",
+            "Type": [
+                "Fire",
+                "Ghost"
+            ],
+            "Species": "Fireworks Poke\u0301mon",
+            "Height": "1.8 m (5\u203211\u2032\u2032)",
+            "Weight": "13.0 kg (28.7 lbs)",
+            "Abilities": {
+                "Beast Boost": {
+                    "href": "/ability/beast-boost",
+                    "effect": "The Pok\u00e9mon boosts its most proficient stat each time it knocks out a Pok\u00e9mon.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Sp. Atk",
+            "Catch rate": "30",
+            "BaseFriendship": "0",
+            "Base Exp.": "257",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "53",
+                "Min": "216",
+                "Max": "310"
+            },
+            "Attack": {
+                "Base": "127",
+                "Min": "233",
+                "Max": "388"
+            },
+            "Defense": {
+                "Base": "53",
+                "Min": "99",
+                "Max": "225"
+            },
+            "Sp. Atk": {
+                "Base": "151",
+                "Min": "276",
+                "Max": "441"
+            },
+            "Sp. Def": {
+                "Base": "79",
+                "Min": "146",
+                "Max": "282"
+            },
+            "Speed": {
+                "Base": "107",
+                "Min": "197",
+                "Max": "344"
+            },
+            "Total": "570"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "no effect",
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Fighting": "no effect",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Astonish": "1",
+            "Fire Spin": "1",
+            "Light Screen": "5",
+            "Ember": "10",
+            "Night Shade": "15",
+            "Confuse Ray": "20",
+            "Magic Coat": "25",
+            "Incinerate": "30",
+            "Hypnosis": "35",
+            "Mystical Fire": "40",
+            "Shadow Ball": "45",
+            "Calm Mind": "50",
+            "Will-O-Wisp": "55",
+            "Trick": "60",
+            "Fire Blast": "65",
+            "Mind Blown": "70"
+        },
+        "egg": {
+            "Expanding Force": null
+        },
+        "null": {
+            "Flamethrower": "02",
+            "Psychic": "11",
+            "Fire Blast": "15",
+            "Substitute": "20",
+            "Psyshock": "25",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Encore": "30",
+            "Shadow Ball": "33",
+            "Uproar": "35",
+            "Heat Wave": "36",
+            "Taunt": "37",
+            "Trick": "38",
+            "Overheat": "43",
+            "Calm Mind": "49",
+            "Dark Pulse": "58",
+            "Zen Headbutt": "69",
+            "Foul Play": "81",
+            "Stored Power": "82"
+        },
+        "tm": {
+            "Fire Punch": "03",
+            "Hyper Beam": "08",
+            "Solar Beam": "11",
+            "Fire Spin": "13",
+            "Light Screen": "17",
+            "Self-Destruct": "20",
+            "Rest": "21",
+            "Thief": "23",
+            "Snore": "24",
+            "Protect": "25",
+            "Sunny Day": "34",
+            "Will-O-Wisp": "38",
+            "Facade": "39",
+            "Rock Blast": "54",
+            "Payback": "57",
+            "Fling": "59",
+            "Shadow Claw": "65",
+            "Round": "76",
+            "Mystical Fire": "92"
+        }
+    },
+    "entries": {
+        "Blacephalon": [
+            "It slithers toward people. Then, without warning, it triggers the explosion of its own head. It\u2019s apparently one kind of Ultra Beast.",
+            "A UB that appeared from an Ultra Wormhole, it causes explosions, then takes advantage of opponents\u2019 surprise to rob them of their vitality."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792890369155194/806.png",
+    "discord_sprite": "<:P806:1132148267690496070>"
+}

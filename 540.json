@@ -1,0 +1,213 @@
+{
+    "alt-version(s)": [],
+    "name": "Sewaddle",
+    "Sewaddle": {
+        "pokedex_data": {
+            "National No.": "0540",
+            "Type": [
+                "Bug",
+                "Grass"
+            ],
+            "Species": "Sewing Poke\u0301mon",
+            "Height": "0.3 m (1\u203200\u2032\u2032)",
+            "Weight": "2.5 kg (5.5 lbs)",
+            "Abilities": {
+                "Swarm": {
+                    "href": "/ability/swarm",
+                    "effect": "Powers up Bug-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Chlorophyll": {
+                    "href": "/ability/chlorophyll",
+                    "effect": "Boosts the Pok\u00e9mon's Speed in sunshine.",
+                    "hidden": false
+                },
+                "Overcoat": {
+                    "href": "/ability/overcoat",
+                    "effect": "Protects the Pok\u00e9mon from weather damage.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Defense",
+            "Catch rate": "255",
+            "BaseFriendship": "50",
+            "Base Exp.": "62",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "45",
+                "Min": "200",
+                "Max": "294"
+            },
+            "Attack": {
+                "Base": "53",
+                "Min": "99",
+                "Max": "225"
+            },
+            "Defense": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Atk": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Def": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Speed": {
+                "Base": "42",
+                "Min": "80",
+                "Max": "201"
+            },
+            "Total": "310"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Poison": "super-effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Bug": "super-effective",
+                "Rock": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Sewaddle",
+                    "nationalNo": "#0540",
+                    "type": [
+                        "Bug",
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Swadloon",
+                    "nationalNo": "#0541",
+                    "type": [
+                        "Bug",
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 20)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Swadloon",
+                    "nationalNo": "#0541",
+                    "type": [
+                        "Bug",
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Leavanny",
+                    "nationalNo": "#0542",
+                    "type": [
+                        "Bug",
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(high Friendship)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "String Shot": "1",
+            "Tackle": "1",
+            "Bug Bite": "8",
+            "Razor Leaf": "15",
+            "Struggle Bug": "22",
+            "Endure": "29",
+            "Sticky Web": "31",
+            "Bug Buzz": "36",
+            "Flail": "43"
+        },
+        "egg": {
+            "Agility": null,
+            "Air Slash": null,
+            "Baton Pass": null,
+            "Camouflage": null,
+            "Grassy Terrain": null,
+            "Me First": null,
+            "Mind Reader": null,
+            "Razor Wind": null,
+            "Screech": null,
+            "Silver Wind": null
+        },
+        "null": {
+            "Bug Bite": "60",
+            "Electroweb": "55",
+            "Giga Drain": "75",
+            "Iron Defense": "\u2014",
+            "Magic Coat": "\u2014",
+            "Seed Bomb": "80",
+            "Signal Beam": "75",
+            "Snore": "50",
+            "Synthesis": "\u2014",
+            "Worry Seed": "\u2014"
+        },
+        "tm": {
+            "Calm Mind": "04",
+            "Toxic": "06",
+            "Hidden Power": "10",
+            "Sunny Day": "11",
+            "Light Screen": "16",
+            "Protect": "17",
+            "Safeguard": "20",
+            "Frustration": "21",
+            "Solar Beam": "22",
+            "Return": "27",
+            "Double Team": "32",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Round": "48",
+            "Energy Ball": "53",
+            "Payback": "66",
+            "Dream Eater": "85",
+            "Grass Knot": "86",
+            "Swagger": "87",
+            "Sleep Talk": "88",
+            "Substitute": "90",
+            "Nature Power": "96",
+            "Confide": "100"
+        }
+    },
+    "entries": {
+        "Sewaddle": [
+            "Leavanny dress it in clothes they made for it when it hatched. It hides its head in its hood while it is sleeping.",
+            "This Pok\u00e9mon makes clothes for itself. It chews up leaves and sews them with sticky thread extruded from its mouth.",
+            "Since this Pok\u00e9mon makes its own clothes out of leaves, it is a popular mascot for fashion designers.",
+            "This Pok\u00e9mon makes clothes for itself. It chews up leaves and sews them with sticky thread extruded from its mouth.",
+            "Since this Pok\u00e9mon makes its own clothes out of leaves, it is a popular mascot for fashion designers."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790810271199262/540.png",
+    "discord_sprite": "<:P540:1132136497663967284>"
+}

@@ -1,0 +1,233 @@
+{
+    "alt-version(s)": [],
+    "name": "Carkol",
+    "Carkol": {
+        "pokedex_data": {
+            "National No.": "0838",
+            "Type": [
+                "Rock",
+                "Fire"
+            ],
+            "Species": "Coal Poke\u0301mon",
+            "Height": "1.1 m (3\u203207\u2032\u2032)",
+            "Weight": "78.0 kg (172.0 lbs)",
+            "Abilities": {
+                "Steam Engine": {
+                    "href": "/ability/steam-engine",
+                    "effect": "Drastically raises Speed when hit by a Fire- or Water-type move.",
+                    "hidden": false
+                },
+                "Flame Body": {
+                    "href": "/ability/flame-body",
+                    "effect": "Contact with the Pok\u00e9mon may burn the attacker.",
+                    "hidden": false
+                },
+                "Flash Fire": {
+                    "href": "/ability/flash-fire",
+                    "effect": "It powers up Fire-type moves if it's hit by one.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Defense",
+            "Catch rate": "120",
+            "BaseFriendship": "50",
+            "Base Exp.": "144",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "80",
+                "Min": "270",
+                "Max": "364"
+            },
+            "Attack": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Defense": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Sp. Atk": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Def": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Speed": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Total": "410"
+        },
+        "defense_stats": {
+            "Steam Engine ability": {
+                "Normal": "not very effective",
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Fairy": "not very effective"
+            },
+            "Flame Body ability": {
+                "Normal": "not very effective",
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Fairy": "not very effective"
+            },
+            "Flash Fire ability": {
+                "Normal": "not very effective",
+                "Fire": "no effect",
+                "Water": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Rolycoly",
+                    "nationalNo": "#0837",
+                    "type": [
+                        "Rock"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Carkol",
+                    "nationalNo": "#0838",
+                    "type": [
+                        "Rock",
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 18)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Carkol",
+                    "nationalNo": "#0838",
+                    "type": [
+                        "Rock",
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Coalossal",
+                    "nationalNo": "#0839",
+                    "type": [
+                        "Rock",
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 34)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Rapid Spin": "1",
+            "Smack Down": "1",
+            "Smokescreen": "1",
+            "Tackle": "1",
+            "Rock Polish": "15",
+            "Ancient Power": "20",
+            "Incinerate": "27",
+            "Stealth Rock": "35",
+            "Heat Crash": "41",
+            "Rock Blast": "48",
+            "Stone Edge": "55"
+        },
+        "evolution": {
+            "Flame Charge": "50"
+        },
+        "egg": {
+            "Block": null,
+            "Explosion": null,
+            "Mud-Slap": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Mud-Slap": "05",
+            "Protect": "07",
+            "Fire Spin": "24",
+            "Facade": "25",
+            "Bulldoze": "28",
+            "Rock Tomb": "36",
+            "Flame Charge": "38",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Sandstorm": "51",
+            "Dig": "55",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Reflect": "74",
+            "Rock Blast": "76",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Body Press": "89",
+            "Spikes": "90",
+            "Iron Head": "99",
+            "Power Gem": "101",
+            "Substitute": "103",
+            "Iron Defense": "104",
+            "Will-O-Wisp": "107",
+            "Stealth Rock": "116",
+            "Heat Wave": "118",
+            "Heavy Slam": "121",
+            "Flamethrower": "125",
+            "Fire Blast": "141",
+            "Stone Edge": "150",
+            "Overheat": "157",
+            "Flare Blitz": "165",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Carkol": [
+            "It forms coal inside its body. Coal dropped by this Pok\u00e9mon once helped fuel the lives of people in the Galar region.",
+            "By rapidly rolling its legs, it can travel at over 18 mph. The temperature of the flames it breathes exceeds 1,800 degrees Fahrenheit.",
+            "The temperature inside its body increases when it experiences strong emotions. It rolls around frantically while spewing flames.",
+            "Due to the coal tar created inside it, the heap of coal on Carkol\u2019s back never falls apart, even when the Pok\u00e9mon rolls around at high speeds."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793136327348286/838.png",
+    "discord_sprite": "<:P838:1132149668692897813>"
+}

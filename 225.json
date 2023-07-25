@@ -1,0 +1,181 @@
+{
+    "alt-version(s)": [],
+    "name": "Delibird",
+    "Delibird": {
+        "pokedex_data": {
+            "National No.": "0225",
+            "Type": [
+                "Ice",
+                "Flying"
+            ],
+            "Species": "Delivery Poke\u0301mon",
+            "Height": "0.9 m (2\u203211\u2032\u2032)",
+            "Weight": "16.0 kg (35.3 lbs)",
+            "Abilities": {
+                "Vital Spirit": {
+                    "href": "/ability/vital-spirit",
+                    "effect": "Prevents the Pok\u00e9mon from falling asleep.",
+                    "hidden": false
+                },
+                "Hustle": {
+                    "href": "/ability/hustle",
+                    "effect": "Boosts the Attack stat, but lowers accuracy.",
+                    "hidden": false
+                },
+                "Insomnia": {
+                    "href": "/ability/insomnia",
+                    "effect": "Prevents the Pok\u00e9mon from falling asleep.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Speed",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "116",
+            "Growth Rate": "Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "45",
+                "Min": "200",
+                "Max": "294"
+            },
+            "Attack": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Defense": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Sp. Atk": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Def": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Speed": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Total": "330"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Electric": "super-effective",
+                "Grass": "not very effective",
+                "Ground": "no effect",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Present": "1",
+            "Drill Peck": "25"
+        },
+        "egg": {
+            "Aurora Beam": null,
+            "Aurora Veil": null,
+            "Counter": null,
+            "Destiny Bond": null,
+            "Fake Out": null,
+            "Freeze-Dry": null,
+            "Ice Shard": null,
+            "Memento": null,
+            "Quick Attack": null,
+            "Rapid Spin": null,
+            "Splash": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Agility": "04",
+            "Protect": "07",
+            "Water Pulse": "11",
+            "Acrobatics": "14",
+            "Thief": "18",
+            "Trailblaze": "20",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Swift": "32",
+            "Icy Wind": "34",
+            "Air Cutter": "40",
+            "Fling": "43",
+            "Avalanche": "46",
+            "Endure": "47",
+            "Rain Dance": "50",
+            "Snowscape": "52",
+            "Brick Break": "58",
+            "Foul Play": "62",
+            "Air Slash": "65",
+            "Body Slam": "66",
+            "Ice Punch": "69",
+            "Sleep Talk": "70",
+            "Seed Bomb": "71",
+            "Rest": "85",
+            "Spikes": "90",
+            "Fly": "97",
+            "Gunk Shot": "102",
+            "Substitute": "103",
+            "Drill Run": "106",
+            "Tailwind": "113",
+            "Ice Spinner": "124",
+            "Helping Hand": "130",
+            "Baton Pass": "132",
+            "Reversal": "134",
+            "Ice Beam": "135",
+            "Blizzard": "143",
+            "Giga Impact": "152",
+            "Hyper Beam": "163",
+            "Brave Bird": "164",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Delibird": [
+            "It carries food all day long. There are tales about lost people who were saved by the food it had.",
+            "It nests at the edge of sharp cliffs. It spends all day carrying food to its awaiting chicks.",
+            "It always carries its food with it, wherever it goes. If attacked, it throws its food at the opponent.",
+            "DELIBIRD carries its food bundled up in its tail. There once was a famous explorer who managed to reach the peak of Mt. Everest thanks to one of these pok\u00e9mon sharing its food.",
+            "It nests at the edge of sharp cliffs. It spends all day carrying food to its awaiting chicks.",
+            "It carries food all day long. There are tales about lost people who were saved by the food it had.",
+            "It carries food bundled up in its tail. There was a famous explorer who managed to scale Mt. Everest thanks to a DELIBIRD sharing its food.",
+            "It carries food rolled up in its tail. It has the habit of sharing food with people lost in mountains.",
+            "It carries food all day long. There are tales about lost people who were saved by its stored food.",
+            "It nests at the edge of sharp cliffs. It spends all day carrying food to its awaiting chicks.",
+            "It carries food rolled up in its tail. It has the habit of sharing food with people lost in mountains.",
+            "It carries food all day long. When someone is lost in the mountains, it shares that food.",
+            "It carries food rolled up in its tail. It has the habit of sharing food with people lost in mountains.",
+            "It carries food all day long. When someone is lost in the mountains, it shares that food.",
+            "Delibird carries its food bundled up in its tail. There once was a famous explorer who managed to reach the peak of the world\u2019s highest mountain, thanks to one of these Pok\u00e9mon sharing its food.",
+            "Although it naturally prefers colder locales, Delibird in Alola seem able to withstand the heat to a certain extent.",
+            "It has a generous habit of sharing its food with people and Pok\u00e9mon, so it\u2019s always scrounging around for more food.",
+            "It shares its food with people who are stranded. Because Delibird is omnivorous, sometimes it gives those people bug Pok\u00e9mon.",
+            "It wraps food in its tail to carry it around. The Delibird with the biggest tail is the boss of the flock!",
+            "It carries food all day long. There are tales about lost people who were saved by the food it had.",
+            "It has a generous habit of sharing its food with people and Pok\u00e9mon, so it\u2019s always scrounging around for more food.",
+            "It carries food rolled up in its tail. It has a habit of sharing food with people lost in the mountains.",
+            "It carries food all day long. There are tales about lost people who were saved by the food it had.",
+            "It always carries its food with it, wherever it goes. If attacked, it throws its food at the opponent."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788352518099015/225.png",
+    "discord_sprite": "<:P225:1132122637133426859>"
+}

@@ -1,0 +1,145 @@
+{
+    "alt-version(s)": [],
+    "name": "Regigigas",
+    "Regigigas": {
+        "pokedex_data": {
+            "National No.": "0486",
+            "Type": [
+                "Normal"
+            ],
+            "Species": "Colossal Poke\u0301mon",
+            "Height": "3.7 m (12\u203202\u2032\u2032)",
+            "Weight": "420.0 kg (925.9 lbs)",
+            "Abilities": {
+                "Slow Start": {
+                    "href": "/ability/slow-start",
+                    "effect": "Temporarily halves Attack and Speed.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Attack",
+            "Catch rate": "3",
+            "BaseFriendship": "0",
+            "Base Exp.": "302",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "110",
+                "Min": "330",
+                "Max": "424"
+            },
+            "Attack": {
+                "Base": "160",
+                "Min": "292",
+                "Max": "460"
+            },
+            "Defense": {
+                "Base": "110",
+                "Min": "202",
+                "Max": "350"
+            },
+            "Sp. Atk": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Sp. Def": {
+                "Base": "110",
+                "Min": "202",
+                "Max": "350"
+            },
+            "Speed": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Total": "670"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Confuse Ray": "1",
+            "Pound": "1",
+            "Payback": "6",
+            "Revenge": "12",
+            "Stomp": "18",
+            "Protect": "24",
+            "Knock Off": "30",
+            "Mega Punch": "36",
+            "Body Press": "42",
+            "Wide Guard": "48",
+            "Zen Headbutt": "54",
+            "Heavy Slam": "60",
+            "Hammer Arm": "66",
+            "Giga Impact": "72",
+            "Crush Grip": "78"
+        },
+        "egg": null,
+        "tm": {
+            "Focus Punch": "01",
+            "Sunny Day": "11",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Safeguard": "20",
+            "Thunderbolt": "24",
+            "Thunder": "25",
+            "Earthquake": "26",
+            "Brick Break": "31",
+            "Double Team": "32",
+            "Shock Wave": "34",
+            "Rock Tomb": "39",
+            "Aerial Ace": "40",
+            "Facade": "42",
+            "Rest": "44",
+            "Focus Blast": "52",
+            "Fling": "56",
+            "Endure": "58",
+            "Drain Punch": "60",
+            "Payback": "66",
+            "Giga Impact": "68",
+            "Rock Polish": "69",
+            "Stone Edge": "71",
+            "Avalanche": "72",
+            "Thunder Wave": "73",
+            "Psych Up": "77",
+            "Rock Slide": "80",
+            "Sleep Talk": "82",
+            "Bulldoze": "83",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Strength": "96",
+            "Rock Smash": "98",
+            "Rock Climb": "100"
+        }
+    },
+    "entries": {
+        "Regigigas": [
+            "There is an enduring legend that states this Pok\u00e9mon towed continents with ropes.",
+            "It is said to have made Pok\u00e9mon that look like itself from a special ice mountain, rocks, and magma.",
+            "It is believed to have shaped REGIROCK, REGICE, and REGISTEEL out of clay, ice, and magma.",
+            "It is said to have made Pok\u00e9mon that look like itself from a special ice mountain, rocks, and magma.",
+            "It is said to have made Pok\u00e9mon that look like itself from a special ice mountain, rocks, and magma.",
+            "There is an enduring legend that states this Pok\u00e9mon towed continents with ropes.",
+            "All over the world, there are legends that tell of Regigigas creating other Pok\u00e9mon in its own image.",
+            "It\u2019s said that Regigigas created other Pok\u00e9mon from many different materials before it moved the continents to where they are today.",
+            "There is an enduring legend that states this Pok\u00e9mon towed continents with ropes.",
+            "According to legend, Regigigas pulled landmasses together and bound them with rope to create the continent of Hisui. Though I have my doubts, the story could well contain a shred of truth."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790388991107173/486.png",
+    "discord_sprite": "<:P486:1132134119984345128>"
+}

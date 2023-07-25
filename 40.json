@@ -1,0 +1,274 @@
+{
+    "alt-version(s)": [],
+    "name": "Wigglytuff",
+    "Wigglytuff": {
+        "pokedex_data": {
+            "National No.": "0040",
+            "Type": [
+                "Normal",
+                "Fairy"
+            ],
+            "Species": "Balloon Poke\u0301mon",
+            "Height": "1.0 m (3\u203203\u2032\u2032)",
+            "Weight": "12.0 kg (26.5 lbs)",
+            "Abilities": {
+                "Cute Charm": {
+                    "href": "/ability/cute-charm",
+                    "effect": "Contact with the Pok\u00e9mon may cause infatuation.",
+                    "hidden": false
+                },
+                "Competitive": {
+                    "href": "/ability/competitive",
+                    "effect": "Sharply raises Special Attack when the Pok\u00e9mon's stats are lowered.",
+                    "hidden": false
+                },
+                "Frisk": {
+                    "href": "/ability/frisk",
+                    "effect": "The Pok\u00e9mon can check a foe's held item.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 HP",
+            "Catch rate": "50",
+            "BaseFriendship": "50",
+            "Base Exp.": "218",
+            "Growth Rate": "Fast"
+        },
+        "breeding_data": {
+            "Gender": "25% male,75% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "140",
+                "Min": "390",
+                "Max": "484"
+            },
+            "Attack": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Defense": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Sp. Atk": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Sp. Def": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Speed": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Total": "435"
+        },
+        "defense_stats": {
+            "default": {
+                "Poison": "super-effective",
+                "Bug": "not very effective",
+                "Ghost": "no effect",
+                "Dragon": "no effect",
+                "Dark": "not very effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Igglybuff",
+                    "nationalNo": "#0174",
+                    "type": [
+                        "Normal",
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Jigglypuff",
+                    "nationalNo": "#0039",
+                    "type": [
+                        "Normal",
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(high Friendship)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Jigglypuff",
+                    "nationalNo": "#0039",
+                    "type": [
+                        "Normal",
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Wigglytuff",
+                    "nationalNo": "#0040",
+                    "type": [
+                        "Normal",
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Moon Stone)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Body Slam": "1",
+            "Charm": "1",
+            "Copycat": "1",
+            "Covet": "1",
+            "Defense Curl": "1",
+            "Disable": "1",
+            "Disarming Voice": "1",
+            "Double-Edge": "1",
+            "Echoed Voice": "1",
+            "Gyro Ball": "1",
+            "Hyper Voice": "1",
+            "Mimic": "1",
+            "Pound": "1",
+            "Rest": "1",
+            "Round": "1",
+            "Sing": "1",
+            "Spit Up": "1",
+            "Stockpile": "1",
+            "Swallow": "1",
+            "Sweet Kiss": "1",
+            "Play Rough": "5"
+        },
+        "egg": {
+            "Covet": null,
+            "Gravity": null,
+            "Heal Pulse": null,
+            "Last Resort": null,
+            "Perish Song": null,
+            "Present": null,
+            "Rollout": null,
+            "Wish": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Charm": "02",
+            "Fake Tears": "03",
+            "Protect": "07",
+            "Water Pulse": "11",
+            "Thief": "18",
+            "Disarming Voice": "19",
+            "Trailblaze": "20",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Swift": "32",
+            "Magical Leaf": "33",
+            "Icy Wind": "34",
+            "Draining Kiss": "37",
+            "Stored Power": "41",
+            "Fling": "43",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Sandstorm": "51",
+            "Psyshock": "54",
+            "Dig": "55",
+            "Brick Break": "58",
+            "Zen Headbutt": "59",
+            "Body Slam": "66",
+            "Fire Punch": "67",
+            "Thunder Punch": "68",
+            "Ice Punch": "69",
+            "Sleep Talk": "70",
+            "Drain Punch": "73",
+            "Reflect": "74",
+            "Light Screen": "75",
+            "Dazzling Gleam": "79",
+            "Metronome": "80",
+            "Grass Knot": "81",
+            "Thunder Wave": "82",
+            "Rest": "85",
+            "Taunt": "87",
+            "Body Press": "89",
+            "Dark Pulse": "94",
+            "Skill Swap": "98",
+            "Substitute": "103",
+            "Shadow Ball": "114",
+            "Stealth Rock": "116",
+            "Hyper Voice": "117",
+            "Energy Ball": "119",
+            "Psychic": "120",
+            "Encore": "122",
+            "Ice Spinner": "124",
+            "Flamethrower": "125",
+            "Thunderbolt": "126",
+            "Play Rough": "127",
+            "Amnesia": "128",
+            "Calm Mind": "129",
+            "Helping Hand": "130",
+            "Baton Pass": "132",
+            "Ice Beam": "135",
+            "Misty Terrain": "139",
+            "Nasty Plot": "140",
+            "Fire Blast": "141",
+            "Blizzard": "143",
+            "Wild Charge": "147",
+            "Giga Impact": "152",
+            "Focus Blast": "158",
+            "Hyper Beam": "163",
+            "Thunder": "166",
+            "Solar Beam": "168",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Wigglytuff": [
+            "The body is soft and rubbery. When angered, it will suck in air and inflate itself to an enormous size.",
+            "Its body is full of elasticity. By inhaling deeply, it can continue to inflate itself without limit.",
+            "Their fur feels so good that if two of them snuggle together, they won\u2019t want to be separated.",
+            "It has a very fine fur. Take care not to make it angry, or it may inflate steadily and hit with a BODY SLAM.",
+            "The rich, fluffy fur that covers its body feels so good that anyone who feels it can\u2019t stop touching it.",
+            "WIGGLYTUFF has large, saucerlike eyes. The surfaces of its eyes are always covered with a thin layer of tears. If any dust gets in this pok\u00e9mon\u2019s eyes, it is quickly washed away.",
+            "WIGGLYTUFF\u2019s body is very flexible. By inhaling deeply, this pok\u00e9mon can inflate itself seemingly without end. Once inflated, WIGGLYTUFF bounces along lightly like a balloon.",
+            "Its fur is extremely fine, dense, and supple. The exquisitely pleasant fur conveys an image of luxury.",
+            "The body is soft and rubbery. When angered, it will suck in air and inflate itself to an enormous size.",
+            "Its fur is the ultimate in luxuriousness. Sleeping alongside a WIGGLYTUFF is simply divine. Its body expands seemingly without end when it inhales.",
+            "Its fine fur feels sublime to the touch. It can expand its body by inhaling air.",
+            "Their fur feels so good that if two of them snuggle together, they won\u2019t want to be separated.",
+            "It has a very fine fur. Take care not to make it angry, or it may inflate steadily and hit with a body slam.",
+            "Its fine fur feels sublime to the touch. It can expand its body by inhaling air.",
+            "Its fine fur feels so pleasant, those who accidentally touch it cannot take their hands away.",
+            "Their fur feels so good that if two of them snuggle together, they won\u2019t want to be separated.",
+            "The body is soft and rubbery. When angered, it will suck in air and inflate itself to an enormous size.",
+            "Wigglytuff has large, saucerlike eyes. The surfaces of its eyes are always covered with a thin layer of tears. If any dust gets in this Pok\u00e9mon\u2019s eyes, it is quickly washed away.",
+            "Wigglytuff\u2019s body is very flexible. By inhaling deeply, this Pok\u00e9mon can inflate itself seemingly without end. Once inflated, Wigglytuff bounces along lightly like a balloon.",
+            "It sheds its fine fur when the seasons change. The fur is gathered and spun into a luxurious yarn.",
+            "As it inhales, it expands...and expands...and expands. Wigglytuff compete to see which one can inflate itself the most.",
+            "Thanks to its bouncy body and fine fur, this Pok\u00e9mon is sought after. Holding one in your arms while you sleep feels great.",
+            "When it gets angry, it inhales with all its might, and its body gradually inflates. Sometimes they can grow 20 times larger!",
+            "Its body is very elastic. By inhaling deeply, it can continue to inflate itself without limit.",
+            "The more air it takes in, the more it inflates. If opponents catch it in a bad mood, it will inflate itself to an enormous size to intimidate them.",
+            "It\u2019s proud of its fur, which is fine and delicate. In particular, the curl on its forehead has a texture that\u2019s perfectly heavenly.",
+            "Its fine fur feels sublime to the touch. It can expand its body by inhaling air.",
+            "It has a very fine fur. Take care not to make it angry, or it may inflate steadily and hit with a body slam.",
+            "The rich, fluffy fur that covers its body feels so good that anyone who feels it can\u2019t stop touching it."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131786901729321081/40.png",
+    "discord_sprite": "<:P40:1131973652359958548>"
+}

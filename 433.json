@@ -1,0 +1,169 @@
+{
+    "alt-version(s)": [],
+    "name": "Chingling",
+    "Chingling": {
+        "pokedex_data": {
+            "National No.": "0433",
+            "Type": [
+                "Psychic"
+            ],
+            "Species": "Bell Poke\u0301mon",
+            "Height": "0.2 m (0\u203208\u2032\u2032)",
+            "Weight": "0.6 kg (1.3 lbs)",
+            "Abilities": {
+                "Levitate": {
+                    "href": "/ability/levitate",
+                    "effect": "Gives immunity to Ground type moves.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Sp. Atk",
+            "Catch rate": "120",
+            "BaseFriendship": "50",
+            "Base Exp.": "57",
+            "Growth Rate": "Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "45",
+                "Min": "200",
+                "Max": "294"
+            },
+            "Attack": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Defense": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Atk": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Def": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Speed": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Total": "285"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "not very effective",
+                "Ground": "no effect",
+                "Psychic": "not very effective",
+                "Bug": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Chingling",
+                    "nationalNo": "#0433",
+                    "type": [
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Chimecho",
+                    "nationalNo": "#0358",
+                    "type": [
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(high Friendship, Nighttime)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Wrap": "1",
+            "Growl": "4",
+            "Astonish": "7",
+            "Confusion": "10",
+            "Yawn": "13",
+            "Last Resort": "16",
+            "Entrainment": "19",
+            "Uproar": "32"
+        },
+        "egg": {
+            "Cosmic Power": null,
+            "Curse": null,
+            "Disable": null,
+            "Future Sight": null,
+            "Hypnosis": null,
+            "Recover": null,
+            "Stored Power": null,
+            "Wish": null
+        },
+        "tm": {
+            "Calm Mind": "04",
+            "Sunny Day": "11",
+            "Taunt": "12",
+            "Light Screen": "16",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Safeguard": "20",
+            "Dazzling Gleam": "21",
+            "Psychic": "29",
+            "Shadow Ball": "30",
+            "Double Team": "32",
+            "Reflect": "33",
+            "Shock Wave": "34",
+            "Torment": "41",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Skill Swap": "48",
+            "Charge Beam": "57",
+            "Endure": "58",
+            "Recycle": "67",
+            "Flash": "70",
+            "Thunder Wave": "73",
+            "Psych Up": "77",
+            "Sleep Talk": "82",
+            "Dream Eater": "85",
+            "Grass Knot": "86",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Trick Room": "92"
+        }
+    },
+    "entries": {
+        "Chingling": [
+            "It emits cries by agitating an orb at the back of its throat. It moves with flouncing hops.",
+            "Each time it hops, it makes a ringing sound. It deafens foes by emitting high-frequency cries.",
+            "There is an orb inside its mouth. When it hops, the orb bounces all over and makes a ringing sound.",
+            "It emits high-frequency cries that \u00a0people can\u2019t hear. Once it starts, it can cry for an awfully long time.",
+            "There is an orb inside its mouth. When it hops, the orb bounces all over and makes a ringing sound.",
+            "Each time it hops, it makes a ringing sound. It deafens foes by emitting high-frequency cries.",
+            "There is an orb inside its mouth. When it hops, the orb bounces all over and makes a ringing sound.",
+            "It emits cries by agitating an orb at the back of its throat. It moves with flouncing hops.",
+            "Each time it hops, it makes a ringing sound. It deafens foes by emitting high-frequency cries.",
+            "This Pok\u00e9mon gave me an excruciating headache when it seemingly cried out without making a sound. Perhaps there are some sounds that the human ear is simply incapable of hearing."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789978414891029/433.png",
+    "discord_sprite": "<:P433:1132131785296334888>"
+}

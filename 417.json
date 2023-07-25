@@ -1,0 +1,190 @@
+{
+    "alt-version(s)": [],
+    "name": "Pachirisu",
+    "Pachirisu": {
+        "pokedex_data": {
+            "National No.": "0417",
+            "Type": [
+                "Electric"
+            ],
+            "Species": "EleSquirrel Poke\u0301mon",
+            "Height": "0.4 m (1\u203204\u2032\u2032)",
+            "Weight": "3.9 kg (8.6 lbs)",
+            "Abilities": {
+                "Run Away": {
+                    "href": "/ability/run-away",
+                    "effect": "Enables a sure getaway from wild Pok\u00e9mon.",
+                    "hidden": false
+                },
+                "Pickup": {
+                    "href": "/ability/pickup",
+                    "effect": "The Pok\u00e9mon may pick up items.",
+                    "hidden": false
+                },
+                "Volt Absorb": {
+                    "href": "/ability/volt-absorb",
+                    "effect": "Restores HP if hit by an Electric-type move.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Speed",
+            "Catch rate": "200",
+            "BaseFriendship": "100",
+            "Base Exp.": "142",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "60",
+                "Min": "230",
+                "Max": "324"
+            },
+            "Attack": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Defense": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Atk": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Sp. Def": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Speed": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Total": "405"
+        },
+        "defense_stats": {
+            "Run Away ability": {
+                "Electric": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Steel": "not very effective"
+            },
+            "Pickup ability": {
+                "Electric": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Steel": "not very effective"
+            },
+            "Volt Absorb ability": {
+                "Electric": "no effect",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Growl": "1",
+            "Thunder Shock": "1",
+            "Quick Attack": "5",
+            "Charm": "9",
+            "Spark": "13",
+            "Endure": "17",
+            "Nuzzle": "19",
+            "Swift": "21",
+            "Electro Ball": "25",
+            "Sweet Kiss": "29",
+            "Thunder Wave": "33",
+            "Super Fang": "37",
+            "Discharge": "41",
+            "Last Resort": "45",
+            "Thunder": "49"
+        },
+        "egg": {
+            "Baby-Doll Eyes": null,
+            "Bite": null,
+            "Charge": null,
+            "Covet": null,
+            "Defense Curl": null,
+            "Fake Tears": null,
+            "Flail": null,
+            "Flatter": null,
+            "Follow Me": null,
+            "Rollout": null,
+            "Tail Whip": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Charm": "02",
+            "Fake Tears": "03",
+            "Agility": "04",
+            "Mud-Slap": "05",
+            "Protect": "07",
+            "Thunder Fang": "09",
+            "Thief": "18",
+            "Trailblaze": "20",
+            "Charge Beam": "23",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Swift": "32",
+            "Mud Shot": "35",
+            "Fling": "43",
+            "Endure": "47",
+            "Volt Switch": "48",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Dig": "55",
+            "U-turn": "60",
+            "Thunder Punch": "68",
+            "Sleep Talk": "70",
+            "Seed Bomb": "71",
+            "Electro Ball": "72",
+            "Light Screen": "75",
+            "Grass Knot": "81",
+            "Thunder Wave": "82",
+            "Rest": "85",
+            "Eerie Impulse": "96",
+            "Gunk Shot": "102",
+            "Substitute": "103",
+            "Encore": "122",
+            "Thunderbolt": "126",
+            "Play Rough": "127",
+            "Helping Hand": "130",
+            "Electric Terrain": "136",
+            "Wild Charge": "147",
+            "Giga Impact": "152",
+            "Hyper Beam": "163",
+            "Thunder": "166",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Pachirisu": [
+            "It makes fur balls that crackle with static electricity. It stores them with berries in tree holes.",
+            "It makes electricity with pouches in its cheeks and shoots charges from its tail. It lives atop trees.",
+            "A pair may be seen rubbing their cheek pouches together in an effort to share stored electricity.",
+            "It\u2019s one of the kinds of Pok\u00e9mon with electric cheek pouches. It shoots charges from its tail.",
+            "A pair may be seen rubbing their cheek pouches together in an effort to share stored electricity.",
+            "It makes fur balls that crackle with static electricity. It stores them with berries in tree holes.",
+            "A pair may be seen rubbing their cheek pouches together in an effort to share stored electricity.",
+            "It stores its own fur balls that crackle with static electricity together with its favorite berries in tree hollows.",
+            "It makes electricity with pouches in its cheeks and shoots charges from its tail. It lives atop trees.",
+            "A species related to the Pikachu line. Though Pachirisu is a calm Pok\u00e9mon, it still presents a danger should one touch its electrified tail or cheeks.",
+            "It\u2019s one of the kinds of Pok\u00e9mon with electric cheek pouches. It shoots charges from its tail.",
+            "A pair may be seen rubbing their cheek pouches together in an effort to share stored electricity."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789853743398973/417.png",
+    "discord_sprite": "<:P417:1132131081198506085>"
+}

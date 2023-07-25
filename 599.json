@@ -1,0 +1,196 @@
+{
+    "alt-version(s)": [],
+    "name": "Klink",
+    "Klink": {
+        "pokedex_data": {
+            "National No.": "0599",
+            "Type": [
+                "Steel"
+            ],
+            "Species": "Gear Poke\u0301mon",
+            "Height": "0.3 m (1\u203200\u2032\u2032)",
+            "Weight": "21.0 kg (46.3 lbs)",
+            "Abilities": {
+                "Plus": {
+                    "href": "/ability/plus",
+                    "effect": "Ups Sp. Atk if another Pok\u00e9mon has Plus or Minus.",
+                    "hidden": false
+                },
+                "Minus": {
+                    "href": "/ability/minus",
+                    "effect": "Ups Sp. Atk if another Pok\u00e9mon has Plus or Minus.",
+                    "hidden": false
+                },
+                "Clear Body": {
+                    "href": "/ability/clear-body",
+                    "effect": "Prevents other Pok\u00e9mon from lowering its stats.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Defense",
+            "Catch rate": "130",
+            "BaseFriendship": "50",
+            "Base Exp.": "60",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "40",
+                "Min": "190",
+                "Max": "284"
+            },
+            "Attack": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Defense": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Atk": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Sp. Def": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Speed": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Total": "300"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Fire": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Poison": "no effect",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Dragon": "not very effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Klink",
+                    "nationalNo": "#0599",
+                    "type": [
+                        "Steel"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Klang",
+                    "nationalNo": "#0600",
+                    "type": [
+                        "Steel"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 38)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Klang",
+                    "nationalNo": "#0600",
+                    "type": [
+                        "Steel"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Klinklang",
+                    "nationalNo": "#0601",
+                    "type": [
+                        "Steel"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 49)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Thunder Shock": "1",
+            "Vise Grip": "1",
+            "Bind": "4",
+            "Charge": "8",
+            "Charge Beam": "12",
+            "Metal Sound": "16",
+            "Autotomize": "20",
+            "Discharge": "24",
+            "Screech": "28",
+            "Gear Grind": "32",
+            "Lock-On": "36",
+            "Shift Gear": "40",
+            "Zap Cannon": "44",
+            "Hyper Beam": "48"
+        },
+        "egg": {
+            "Rising Voltage": null,
+            "Steel Roller": null
+        },
+        "null": {
+            "Thunderbolt": "08",
+            "Substitute": "20",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Uproar": "35",
+            "Iron Defense": "46",
+            "Power Gem": "63",
+            "Flash Cannon": "70",
+            "Wild Charge": "86"
+        },
+        "tm": {
+            "Hyper Beam": "08",
+            "Thunder Wave": "14",
+            "Screech": "16",
+            "Rest": "21",
+            "Snore": "24",
+            "Protect": "25",
+            "Sandstorm": "32",
+            "Facade": "39",
+            "Assurance": "58",
+            "Round": "76",
+            "Volt Switch": "80"
+        }
+    },
+    "entries": {
+        "Klink": [
+            "The two minigears that mesh together are predetermined. Each will rebound from other minigears without meshing.",
+            "Interlocking two bodies and spinning around generates the energy they need to live.",
+            "Two bodies comprise a fixed pair. They spin around each other to generate energy.",
+            "Interlocking two bodies and spinning around generates the energy they need to live.",
+            "The two minigears that mesh together are predetermined. Each will rebound from other minigears without meshing.",
+            "The two minigears that compose this Pok\u00e9mon are closer than twins. They mesh well only with each other.",
+            "It\u2019s suspected that Klink were the inspiration behind ancient people\u2019s invention of the first gears."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791269597810688/599.png",
+    "discord_sprite": "<:P599:1132139096647671888>"
+}

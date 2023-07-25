@@ -1,0 +1,216 @@
+{
+    "alt-version(s)": [],
+    "name": "Crawdaunt",
+    "Crawdaunt": {
+        "pokedex_data": {
+            "National No.": "0342",
+            "Type": [
+                "Water",
+                "Dark"
+            ],
+            "Species": "Rogue Poke\u0301mon",
+            "Height": "1.1 m (3\u203207\u2032\u2032)",
+            "Weight": "32.8 kg (72.3 lbs)",
+            "Abilities": {
+                "Hyper Cutter": {
+                    "href": "/ability/hyper-cutter",
+                    "effect": "Prevents other Pok\u00e9mon from lowering Attack stat.",
+                    "hidden": false
+                },
+                "Shell Armor": {
+                    "href": "/ability/shell-armor",
+                    "effect": "The Pok\u00e9mon is protected against critical hits.",
+                    "hidden": false
+                },
+                "Adaptability": {
+                    "href": "/ability/adaptability",
+                    "effect": "Powers up moves of the same type.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "155",
+            "BaseFriendship": "50",
+            "Base Exp.": "164",
+            "Growth Rate": "Fluctuating"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "63",
+                "Min": "236",
+                "Max": "330"
+            },
+            "Attack": {
+                "Base": "120",
+                "Min": "220",
+                "Max": "372"
+            },
+            "Defense": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Sp. Atk": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Sp. Def": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Speed": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Total": "468"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Psychic": "no effect",
+                "Bug": "super-effective",
+                "Ghost": "not very effective",
+                "Dark": "not very effective",
+                "Steel": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Corphish",
+                    "nationalNo": "#0341",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Crawdaunt",
+                    "nationalNo": "#0342",
+                    "type": [
+                        "Water",
+                        "Dark"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 30)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Harden": "1",
+            "Leer": "1",
+            "Swift": "1",
+            "Taunt": "1",
+            "Water Gun": "1",
+            "Bubble Beam": "12",
+            "Knock Off": "16",
+            "Double Hit": "20",
+            "Protect": "24",
+            "Night Slash": "28",
+            "Razor Shell": "34",
+            "Swords Dance": "40",
+            "Crunch": "46",
+            "Crabhammer": "52",
+            "Endeavor": "58",
+            "Guillotine": "64"
+        },
+        "evolution": {
+            "Swift": "60"
+        },
+        "egg": {
+            "Ancient Power": null,
+            "Aqua Jet": null,
+            "Body Slam": null,
+            "Double-Edge": null,
+            "Dragon Dance": null,
+            "Endeavor": null,
+            "Knock Off": null,
+            "Metal Claw": null,
+            "Slash": null,
+            "Superpower": null,
+            "Switcheroo": null
+        },
+        "tm": {
+            "Water Pulse": "03",
+            "Hail": "07",
+            "Taunt": "12",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Dig": "28",
+            "Brick Break": "31",
+            "Double Team": "32",
+            "Sludge Bomb": "36",
+            "Rock Tomb": "39",
+            "Aerial Ace": "40",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Scald": "49",
+            "False Swipe": "54",
+            "Fling": "56",
+            "Endure": "58",
+            "Nasty Plot": "63",
+            "Payback": "66",
+            "Giga Impact": "68",
+            "Avalanche": "72",
+            "Swords Dance": "75",
+            "Snarl": "78",
+            "Dark Pulse": "79",
+            "Rock Slide": "80",
+            "X-Scissor": "81",
+            "Sleep Talk": "82",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Cut": "93",
+            "Surf": "95",
+            "Strength": "96",
+            "Rock Smash": "98",
+            "Waterfall": "99"
+        }
+    },
+    "entries": {
+        "Crawdaunt": [
+            "CRAWDAUNT has an extremely violent nature that compels it to challenge other living things to battle. Other life-forms refuse to live in ponds inhabited by this pok\u00e9mon, making them desolate places.",
+            "CRAWDAUNT molts (sheds) its shell regularly. Immediately after molting, its shell is soft and tender. Until the shell hardens, this pok\u00e9mon hides in its streambed burrow to avoid attack from its foes.",
+            "A rough customer that wildly flails its giant claws. It is said to be extremely hard to raise.",
+            "A brutish pok\u00e9mon that loves to battle. A veteran CRAWDAUNT that has prevailed in hundreds of battles has giant pincers marked with countless scars.",
+            "It is a ruffian that uses its pincers to pick up and toss out other Pok\u00e9mon from its pond.",
+            "A brutish Pok\u00e9mon that loves to battle. It will crash itself into any foe that approaches its nest.",
+            "It is a ruffian that uses its pincers to pick up and toss out other Pok\u00e9mon from its pond.",
+            "Loving to battle, this Pok\u00e9mon pinches all Pok\u00e9mon that enter its territory with its pincers and throws them out.",
+            "It is a ruffian that uses its pincers to pick up and toss out other Pok\u00e9mon from its pond.",
+            "Loving to battle, this Pok\u00e9mon pinches all Pok\u00e9mon that enter its territory with its pincers and throws them out.",
+            "Crawdaunt has an extremely violent nature that compels it to challenge other living things to battle. Other life-forms refuse to live in ponds inhabited by this Pok\u00e9mon, making them desolate places.",
+            "Crawdaunt molts (sheds) its shell regularly. Immediately after molting, its shell is soft and tender. Until the shell hardens, this Pok\u00e9mon hides in its streambed burrow to avoid attack from its foes.",
+            "Its temperament is rough and it loves to fight, but as soon as its pincers break off, it turns cowardly. It stays timid until they grow back.",
+            "Its pincers often fall off. Unlike with Crabrawler or Clauncher, the meat in its claws is utterly nasty and stinking.",
+            "A rough customer that wildly flails its giant claws. It is said to be extremely hard to raise.",
+            "A brutish Pok\u00e9mon that loves to battle. It will crash itself into any foe that approaches its nest.",
+            "It is a ruffian that uses its pincers to pick up and toss out other Pok\u00e9mon from its pond."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789273528541287/342.png",
+    "discord_sprite": "<:P342:1132127786543349830>"
+}

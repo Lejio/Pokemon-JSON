@@ -1,0 +1,162 @@
+{
+    "alt-version(s)": [],
+    "name": "Klawf",
+    "Klawf": {
+        "pokedex_data": {
+            "National No.": "0950",
+            "Type": [
+                "Rock"
+            ],
+            "Species": "Ambush Poke\u0301mon",
+            "Height": "1.3 m (4\u203203\u2032\u2032)",
+            "Weight": "79.0 kg (174.2 lbs)",
+            "Abilities": {
+                "Anger Shell": {
+                    "href": "/ability/anger-shell",
+                    "effect": "Lowers Defense/Sp. Def and raises Attack/Sp. Atk/Speed when HP drops below half.",
+                    "hidden": false
+                },
+                "Shell Armor": {
+                    "href": "/ability/shell-armor",
+                    "effect": "The Pok\u00e9mon is protected against critical hits.",
+                    "hidden": false
+                },
+                "Regenerator": {
+                    "href": "/ability/regenerator",
+                    "effect": "Restores a little HP when withdrawn from battle.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Defense",
+            "Catch rate": "120",
+            "BaseFriendship": "50",
+            "Base Exp.": "158",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "70",
+                "Min": "250",
+                "Max": "344"
+            },
+            "Attack": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Defense": {
+                "Base": "115",
+                "Min": "211",
+                "Max": "361"
+            },
+            "Sp. Atk": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Sp. Def": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Speed": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Total": "450"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Grass": "super-effective",
+                "Fighting": "super-effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Rock Throw": "1",
+            "Vise Grip": "1",
+            "Harden": "6",
+            "Rock Smash": "9",
+            "Rock Tomb": "13",
+            "Metal Claw": "17",
+            "Protect": "21",
+            "Rock Blast": "24",
+            "X-Scissor": "29",
+            "Swords Dance": "33",
+            "Flail": "37",
+            "Rock Slide": "42",
+            "High Horsepower": "47",
+            "Iron Defense": "51",
+            "Guillotine": "56"
+        },
+        "egg": {
+            "Ancient Power": null,
+            "Crabhammer": null,
+            "Endeavor": null,
+            "Knock Off": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Mud-Slap": "05",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Thief": "18",
+            "Trailblaze": "20",
+            "Facade": "25",
+            "Bulldoze": "28",
+            "Metal Claw": "31",
+            "Mud Shot": "35",
+            "Rock Tomb": "36",
+            "Fling": "43",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Sandstorm": "51",
+            "Dig": "55",
+            "Brick Break": "58",
+            "Shadow Claw": "61",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Rock Blast": "76",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Swords Dance": "88",
+            "Power Gem": "101",
+            "Substitute": "103",
+            "Iron Defense": "104",
+            "X-Scissor": "105",
+            "Stealth Rock": "116",
+            "Helping Hand": "130",
+            "Earth Power": "133",
+            "Reversal": "134",
+            "Stone Edge": "150",
+            "Giga Impact": "152",
+            "Hyper Beam": "163",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Klawf": [
+            "Klawf hangs upside-down from cliffs, waiting for prey. But Klawf can\u2019t remain in this position for long because its blood rushes to its head.",
+            "This Pok\u00e9mon lives on sheer cliffs. It sidesteps opponents\u2019 attacks, then lunges for their weak spots with its claws."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131794009770176573/950.png",
+    "discord_sprite": "<:P950:1132154595603394712>"
+}

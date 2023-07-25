@@ -1,0 +1,241 @@
+{
+    "alt-version(s)": [],
+    "name": "Bellossom",
+    "Bellossom": {
+        "pokedex_data": {
+            "National No.": "0182",
+            "Type": [
+                "Grass"
+            ],
+            "Species": "Flower Poke\u0301mon",
+            "Height": "0.4 m (1\u203204\u2032\u2032)",
+            "Weight": "5.8 kg (12.8 lbs)",
+            "Abilities": {
+                "Chlorophyll": {
+                    "href": "/ability/chlorophyll",
+                    "effect": "Boosts the Pok\u00e9mon's Speed in sunshine.",
+                    "hidden": false
+                },
+                "Healer": {
+                    "href": "/ability/healer",
+                    "effect": "May heal an ally's status conditions.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Sp. Def",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "221",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "75",
+                "Min": "260",
+                "Max": "354"
+            },
+            "Attack": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Defense": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Sp. Atk": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Sp. Def": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Speed": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Total": "490"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Poison": "super-effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Bug": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Oddish",
+                    "nationalNo": "#0043",
+                    "type": [
+                        "Grass",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Gloom",
+                    "nationalNo": "#0044",
+                    "type": [
+                        "Grass",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 21)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Gloom",
+                    "nationalNo": "#0044",
+                    "type": [
+                        "Grass",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Vileplume",
+                    "nationalNo": "#0045",
+                    "type": [
+                        "Grass",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Leaf Stone)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Gloom",
+                    "nationalNo": "#0044",
+                    "type": [
+                        "Grass",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Bellossom",
+                    "nationalNo": "#0182",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Sun Stone)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Absorb": "1",
+            "Acid": "1",
+            "Giga Drain": "1",
+            "Grassy Terrain": "1",
+            "Growth": "1",
+            "Mega Drain": "1",
+            "Moonblast": "1",
+            "Moonlight": "1",
+            "Petal Blizzard": "1",
+            "Petal Dance": "1",
+            "Poison Powder": "1",
+            "Quiver Dance": "1",
+            "Sleep Powder": "1",
+            "Stun Spore": "1",
+            "Sweet Scent": "1",
+            "Toxic": "1"
+        },
+        "evolution": {
+            "Petal Blizzard": "90"
+        },
+        "egg": {
+            "After You": null,
+            "Charm": null,
+            "Flail": null,
+            "Ingrain": null,
+            "Leech Seed": null,
+            "Nature Power": null,
+            "Razor Leaf": null,
+            "Strength Sap": null,
+            "Synthesis": null,
+            "Teeter Dance": null,
+            "Tickle": null
+        },
+        "tm": {
+            "Toxic": "06",
+            "Bullet Seed": "09",
+            "Sunny Day": "11",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Giga Drain": "19",
+            "Safeguard": "20",
+            "Dazzling Gleam": "21",
+            "Solar Beam": "22",
+            "Double Team": "32",
+            "Sludge Bomb": "36",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Energy Ball": "53",
+            "Fling": "56",
+            "Endure": "58",
+            "Drain Punch": "60",
+            "Giga Impact": "68",
+            "Flash": "70",
+            "Swords Dance": "75",
+            "Sleep Talk": "82",
+            "Grass Knot": "86",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Cut": "93"
+        }
+    },
+    "entries": {
+        "Bellossom": [
+            "BELLOSSOM gather at times and appear to dance. They say that the dance is a ritual to summon the sun.",
+            "Plentiful in the tropics. When it dances, its petals rub together and make a pleasant ringing sound.",
+            "When these dance together, their petals rub against each other, making pretty, relaxing sounds.",
+            "When BELLOSSOM gets exposed to plenty of sunlight, the leaves ringing its body begin to spin around. This pok\u00e9mon\u2019s dancing is renowned in the southern lands.",
+            "A BELLOSSOM grows flowers more beautifully if it has evolved from a smelly GLOOM - the stinkier the better. At night, this pok\u00e9mon closes its petals and goes to sleep.",
+            "Plentiful in the tropics. When it dances, its petals rub together and make a pleasant ringing sound.",
+            "BELLOSSOM gather at times and appear to dance. They say that the dance is a ritual to summon the sun.",
+            "Its flower petals deepen in color through exposure to sunlight. When cloudy weather persists, it does a dance that is thought to be a ritual for summoning the sun.",
+            "When the heavy rainfall season ends, it is drawn out by warm sunlight to dance in the open.",
+            "BELLOSSOM gather at times and seem to dance. They say that the dance is a ritual to summon the sun.",
+            "Plentiful in the tropics. When it dances, its petals rub together and make a pleasant ringing sound.",
+            "When the heavy rainfall season ends, it is drawn out by warm sunlight to dance in the open.",
+            "Bellossom gather at times and seem to dance. They say that the dance is a ritual to summon the sun.",
+            "When the heavy rainfall season ends, it is drawn out by warm sunlight to dance in the open.",
+            "When Bellossom gets exposed to plenty of sunlight, the leaves ringing its body begin to spin around. This Pok\u00e9mon\u2019s dancing is renowned in the southern lands.",
+            "A Bellossom grows flowers more beautifully if it has evolved from a smelly Gloom\u2014the more stinky the better. At night, this Pok\u00e9mon closes its petals and goes to sleep.",
+            "Plentiful in the tropics. When it dances, its petals rub together and make a pleasant ringing sound.",
+            "Bellossom gather at times and appear to dance. They say that the dance is a ritual to summon the sun.",
+            "When the heavy rainfall season ends, it is drawn out by warm sunlight to dance in the open."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788011965779988/182.png",
+    "discord_sprite": "<:P182:1132120744210481263>"
+}

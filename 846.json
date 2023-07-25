@@ -1,0 +1,159 @@
+{
+    "alt-version(s)": [],
+    "name": "Arrokuda",
+    "Arrokuda": {
+        "pokedex_data": {
+            "National No.": "0846",
+            "Type": [
+                "Water"
+            ],
+            "Species": "Rush Poke\u0301mon",
+            "Height": "0.5 m (1\u203208\u2032\u2032)",
+            "Weight": "1.0 kg (2.2 lbs)",
+            "Abilities": {
+                "Swift Swim": {
+                    "href": "/ability/swift-swim",
+                    "effect": "Boosts the Pok\u00e9mon's Speed in rain.",
+                    "hidden": false
+                },
+                "Propeller Tail": {
+                    "href": "/ability/propeller-tail",
+                    "effect": "Ignores moves and abilities that draw in moves.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Speed",
+            "Catch rate": "255",
+            "BaseFriendship": "50",
+            "Base Exp.": "56",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "41",
+                "Min": "192",
+                "Max": "286"
+            },
+            "Attack": {
+                "Base": "63",
+                "Min": "117",
+                "Max": "247"
+            },
+            "Defense": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Atk": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Def": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Speed": {
+                "Base": "66",
+                "Min": "123",
+                "Max": "254"
+            },
+            "Total": "280"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Arrokuda",
+                    "nationalNo": "#0846",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Barraskewda",
+                    "nationalNo": "#0847",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 26)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Aqua Jet": "1",
+            "Peck": "1",
+            "Fury Attack": "6",
+            "Bite": "12",
+            "Agility": "18",
+            "Dive": "24",
+            "Focus Energy": "30",
+            "Crunch": "36",
+            "Liquidation": "42",
+            "Double-Edge": "48"
+        },
+        "egg": {
+            "Acupressure": null,
+            "Night Slash": null,
+            "Slash": null,
+            "Thrash": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Agility": "04",
+            "Protect": "07",
+            "Ice Fang": "10",
+            "Water Pulse": "11",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Swift": "32",
+            "Endure": "47",
+            "Rain Dance": "50",
+            "Brick Break": "58",
+            "Psychic Fangs": "63",
+            "Sleep Talk": "70",
+            "Waterfall": "77",
+            "Rest": "85",
+            "Substitute": "103",
+            "Drill Run": "106",
+            "Crunch": "108",
+            "Liquidation": "110",
+            "Surf": "123",
+            "Hydro Pump": "142",
+            "Close Combat": "167",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Arrokuda": [
+            "If it sees any movement around it, this Pok\u00e9mon charges for it straightaway, leading with its sharply pointed jaw. It\u2019s very proud of that jaw.",
+            "After it\u2019s eaten its fill, its movements become extremely sluggish. That\u2019s when Cramorant swallows it up.",
+            "Arrokuda can swim quickly only in a straight line. The ones that become sluggish from overeating are the first to be targeted by flocks of Wattrel.",
+            "It takes down prey by charging into them with its hard, pointed jaw. But Arrokuda\u2019s eyesight is poor, so this tactic has a low success rate."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793198096859247/846.png",
+    "discord_sprite": "<:P846:1132150020574027776>"
+}

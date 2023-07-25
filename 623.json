@@ -1,0 +1,221 @@
+{
+    "alt-version(s)": [],
+    "name": "Golurk",
+    "Golurk": {
+        "pokedex_data": {
+            "National No.": "0623",
+            "Type": [
+                "Ground",
+                "Ghost"
+            ],
+            "Species": "Automaton Poke\u0301mon",
+            "Height": "2.8 m (9\u203202\u2032\u2032)",
+            "Weight": "330.0 kg (727.5 lbs)",
+            "Abilities": {
+                "Iron Fist": {
+                    "href": "/ability/iron-fist",
+                    "effect": "Boosts the power of punching moves.",
+                    "hidden": false
+                },
+                "Klutz": {
+                    "href": "/ability/klutz",
+                    "effect": "The Pok\u00e9mon can't use any held items.",
+                    "hidden": false
+                },
+                "No Guard": {
+                    "href": "/ability/no-guard",
+                    "effect": "Ensures attacks by or against the Pok\u00e9mon land.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "90",
+            "BaseFriendship": "50",
+            "Base Exp.": "169",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "89",
+                "Min": "288",
+                "Max": "382"
+            },
+            "Attack": {
+                "Base": "124",
+                "Min": "227",
+                "Max": "381"
+            },
+            "Defense": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Sp. Atk": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Sp. Def": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Speed": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Total": "483"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "no effect",
+                "Water": "super-effective",
+                "Electric": "no effect",
+                "Grass": "super-effective",
+                "Ice": "super-effective",
+                "Fighting": "no effect",
+                "Poison": "not very effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Golett",
+                    "nationalNo": "#0622",
+                    "type": [
+                        "Ground",
+                        "Ghost"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Golurk",
+                    "nationalNo": "#0623",
+                    "type": [
+                        "Ground",
+                        "Ghost"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 43)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Astonish": "1",
+            "Defense Curl": "1",
+            "Focus Punch": "1",
+            "High Horsepower": "1",
+            "Mud-Slap": "1",
+            "Pound": "1",
+            "Shadow Punch": "12",
+            "Curse": "16",
+            "Night Shade": "20",
+            "Stomping Tantrum": "24",
+            "Iron Defense": "28",
+            "Mega Punch": "32",
+            "Shadow Ball": "36",
+            "Heavy Slam": "40",
+            "Phantom Force": "46",
+            "Hammer Arm": "52",
+            "Earthquake": "58",
+            "Dynamic Punch": "64"
+        },
+        "egg": {
+            "Poltergeist": null,
+            "Scorching Sands": null
+        },
+        "null": {
+            "Body Slam": "01",
+            "Ice Beam": "05",
+            "Low Kick": "07",
+            "Thunderbolt": "08",
+            "Earthquake": "10",
+            "Psychic": "11",
+            "Substitute": "20",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Shadow Ball": "33",
+            "Trick": "38",
+            "Superpower": "39",
+            "Iron Defense": "46",
+            "Gyro Ball": "52",
+            "Close Combat": "53",
+            "Focus Blast": "64",
+            "Earth Power": "67",
+            "Zen Headbutt": "69",
+            "Flash Cannon": "70",
+            "Stone Edge": "75",
+            "Stealth Rock": "76",
+            "Grass Knot": "77",
+            "Heavy Slam": "79",
+            "Ally Switch": "83",
+            "Heat Crash": "88",
+            "Darkest Lariat": "93",
+            "High Horsepower": "94",
+            "Body Press": "99"
+        },
+        "tm": {
+            "Mega Punch": "00",
+            "Mega Kick": "01",
+            "Fire Punch": "03",
+            "Ice Punch": "04",
+            "Thunder Punch": "05",
+            "Fly": "06",
+            "Hyper Beam": "08",
+            "Giga Impact": "09",
+            "Solar Beam": "11",
+            "Dig": "15",
+            "Safeguard": "19",
+            "Self-Destruct": "20",
+            "Rest": "21",
+            "Rock Slide": "22",
+            "Thief": "23",
+            "Snore": "24",
+            "Protect": "25",
+            "Icy Wind": "27",
+            "Rain Dance": "33",
+            "Facade": "39",
+            "Helping Hand": "41",
+            "Brick Break": "43",
+            "Imprison": "44",
+            "Rock Tomb": "48",
+            "Fling": "59",
+            "Drain Punch": "63",
+            "Low Sweep": "75",
+            "Round": "76",
+            "Bulldoze": "81",
+            "Phantom Force": "86",
+            "Stomping Tantrum": "98"
+        }
+    },
+    "entries": {
+        "Golurk": [
+            "It flies across the sky at Mach speeds. Removing the seal on its chest makes its internal energy go out of control.",
+            "It is said that Golurk were ordered to protect people and Pok\u00e9mon by the ancient people who made them.",
+            "Golurk were created to protect people and Pok\u00e9mon. They run on a mysterious energy.",
+            "It is said that Golurk were ordered to protect people and Pok\u00e9mon by the ancient people who made them.",
+            "It flies across the sky at Mach speeds. Removing the seal on its chest makes its internal energy go out of control.",
+            "Some say that ancient people invented Golurk to serve as a laborer. It follows its master\u2019s orders faithfully.",
+            "When the seal on its chest is removed, it rages indiscriminately, turning the whole town around it into a mountain of rubble.",
+            "Artillery platforms built into the walls of ancient castles served as perches from which Golurk could fire energy beams.",
+            "There\u2019s a theory that inside Golurk is a perpetual motion machine that produces limitless energy, but this belief hasn\u2019t been proven."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791461675974766/623.png",
+    "discord_sprite": "<:P623:1132140159308156948>"
+}

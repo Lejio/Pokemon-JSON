@@ -1,0 +1,190 @@
+{
+    "alt-version(s)": [],
+    "name": "Elgyem",
+    "Elgyem": {
+        "pokedex_data": {
+            "National No.": "0605",
+            "Type": [
+                "Psychic"
+            ],
+            "Species": "Cerebral Poke\u0301mon",
+            "Height": "0.5 m (1\u203208\u2032\u2032)",
+            "Weight": "9.0 kg (19.8 lbs)",
+            "Abilities": {
+                "Telepathy": {
+                    "href": "/ability/telepathy",
+                    "effect": "Anticipates an ally's attack and dodges it.",
+                    "hidden": false
+                },
+                "Synchronize": {
+                    "href": "/ability/synchronize",
+                    "effect": "Passes a burn, poison, or paralysis to the foe.",
+                    "hidden": false
+                },
+                "Analytic": {
+                    "href": "/ability/analytic",
+                    "effect": "Boosts move power when the Pok\u00e9mon moves last.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Sp. Atk",
+            "Catch rate": "255",
+            "BaseFriendship": "50",
+            "Base Exp.": "67",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "55",
+                "Min": "220",
+                "Max": "314"
+            },
+            "Attack": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Defense": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Sp. Atk": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Sp. Def": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Speed": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Total": "335"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Elgyem",
+                    "nationalNo": "#0605",
+                    "type": [
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Beheeyem",
+                    "nationalNo": "#0606",
+                    "type": [
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 42)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Confusion": "1",
+            "Growl": "1",
+            "Imprison": "6",
+            "Teleport": "12",
+            "Psybeam": "18",
+            "Guard Split": "24",
+            "Power Split": "24",
+            "Headbutt": "30",
+            "Zen Headbutt": "36",
+            "Recover": "43",
+            "Calm Mind": "48",
+            "Wonder Room": "54",
+            "Psychic": "60"
+        },
+        "egg": {
+            "Astonish": null,
+            "Destiny Bond": null,
+            "Disable": null,
+            "Psych Up": null
+        },
+        "null": {
+            "Thunderbolt": "08",
+            "Psychic": "11",
+            "Agility": "12",
+            "Substitute": "20",
+            "Psyshock": "25",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Shadow Ball": "33",
+            "Uproar": "35",
+            "Trick": "38",
+            "Skill Swap": "40",
+            "Cosmic Power": "44",
+            "Calm Mind": "49",
+            "Dark Pulse": "58",
+            "Energy Ball": "65",
+            "Nasty Plot": "68",
+            "Zen Headbutt": "69",
+            "Stored Power": "82",
+            "Ally Switch": "83"
+        },
+        "tm": {
+            "Thunder Wave": "14",
+            "Screech": "16",
+            "Light Screen": "17",
+            "Reflect": "18",
+            "Safeguard": "19",
+            "Rest": "21",
+            "Rock Slide": "22",
+            "Thief": "23",
+            "Snore": "24",
+            "Protect": "25",
+            "Steel Wing": "30",
+            "Attract": "31",
+            "Rain Dance": "33",
+            "Facade": "39",
+            "Imprison": "44",
+            "Rock Tomb": "48",
+            "Power Swap": "60",
+            "Guard Swap": "61",
+            "Trick Room": "70",
+            "Wonder Room": "71",
+            "Round": "76"
+        }
+    },
+    "entries": {
+        "Elgyem": [
+            "It uses its strong psychic power to squeeze its opponent\u2019s brain, causing unendurable headaches.",
+            "This Pok\u00e9mon had never been seen until it appeared from far in the desert 50 years ago.",
+            "Rumors of its origin are linked to a UFO crash site in the desert 50 years ago.",
+            "It uses its strong psychic power to squeeze its opponent\u2019s brain, causing unendurable headaches.",
+            "Rumors of its origin are linked to a UFO crash site in the desert 50 years ago.",
+            "It controls tremendous psychic power. Most reports of alien sightings are actually just people mistaking Elgyem for an alien.",
+            "This Pok\u00e9mon is shrouded in mystery. It\u2019s said to have appeared from a UFO that fell from the sky about 50 years ago.",
+            "If this Pok\u00e9mon stands near a TV, strange scenery will appear on the screen. That scenery is said to be from its home.",
+            "This Pok\u00e9mon was discovered about 50 years ago. Its highly developed brain enables it to exert its psychic powers."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791320701206590/605.png",
+    "discord_sprite": "<:P605:1132139360742031440>"
+}

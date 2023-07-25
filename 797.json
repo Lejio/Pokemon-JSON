@@ -1,0 +1,158 @@
+{
+    "alt-version(s)": [],
+    "name": "Celesteela",
+    "Celesteela": {
+        "pokedex_data": {
+            "National No.": "0797",
+            "Type": [
+                "Steel",
+                "Flying"
+            ],
+            "Species": "Launch Poke\u0301mon",
+            "Height": "9.2 m (30\u203202\u2032\u2032)",
+            "Weight": "999.9 kg (2204.4 lbs)",
+            "Abilities": {
+                "Beast Boost": {
+                    "href": "/ability/beast-boost",
+                    "effect": "The Pok\u00e9mon boosts its most proficient stat each time it knocks out a Pok\u00e9mon.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack, 1 Defense, 1 Sp. Atk",
+            "Catch rate": "45",
+            "BaseFriendship": "0",
+            "Base Exp.": "257",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "97",
+                "Min": "304",
+                "Max": "398"
+            },
+            "Attack": {
+                "Base": "101",
+                "Min": "186",
+                "Max": "331"
+            },
+            "Defense": {
+                "Base": "103",
+                "Min": "189",
+                "Max": "335"
+            },
+            "Sp. Atk": {
+                "Base": "107",
+                "Min": "197",
+                "Max": "344"
+            },
+            "Sp. Def": {
+                "Base": "101",
+                "Min": "186",
+                "Max": "331"
+            },
+            "Speed": {
+                "Base": "61",
+                "Min": "114",
+                "Max": "243"
+            },
+            "Total": "570"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Fire": "super-effective",
+                "Electric": "super-effective",
+                "Grass": "not very effective",
+                "Poison": "no effect",
+                "Ground": "no effect",
+                "Flying": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "not very effective",
+                "Dragon": "not very effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Absorb": "1",
+            "Tackle": "1",
+            "Harden": "5",
+            "Wide Guard": "10",
+            "Mega Drain": "15",
+            "Smack Down": "20",
+            "Ingrain": "25",
+            "Autotomize": "30",
+            "Giga Drain": "35",
+            "Flash Cannon": "40",
+            "Metal Sound": "45",
+            "Iron Defense": "50",
+            "Leech Seed": "55",
+            "Heavy Slam": "60",
+            "Double-Edge": "65",
+            "Skull Bash": "70"
+        },
+        "egg": {
+            "Meteor Beam": null,
+            "Steel Roller": null
+        },
+        "null": {
+            "Body Slam": "01",
+            "Flamethrower": "02",
+            "Earthquake": "10",
+            "Fire Blast": "15",
+            "Substitute": "20",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Megahorn": "28",
+            "Superpower": "39",
+            "Iron Defense": "46",
+            "Gyro Ball": "52",
+            "Seed Bomb": "59",
+            "Energy Ball": "65",
+            "Zen Headbutt": "69",
+            "Flash Cannon": "70",
+            "Iron Head": "74",
+            "Stone Edge": "75",
+            "Grass Knot": "77",
+            "Heavy Slam": "79"
+        },
+        "tm": {
+            "Fly": "06",
+            "Hyper Beam": "08",
+            "Giga Impact": "09",
+            "Solar Beam": "11",
+            "Self-Destruct": "20",
+            "Rest": "21",
+            "Rock Slide": "22",
+            "Snore": "24",
+            "Protect": "25",
+            "Giga Drain": "28",
+            "Facade": "39",
+            "Round": "76",
+            "Acrobatics": "78",
+            "Bulldoze": "81",
+            "Air Slash": "95",
+            "Smart Strike": "96",
+            "Brutal Swing": "97",
+            "Stomping Tantrum": "98"
+        }
+    },
+    "entries": {
+        "Celesteela": [
+            "It appeared from the Ultra Wormhole. Witnesses observed it flying across the sky at high speed.",
+            "One kind of Ultra Beast. Witnesses have seen it burn down a forest by expelling gas from its two arms.",
+            "One of the dangerous UBs, high energy readings can be detected coming from both of its huge arms.",
+            "Although it\u2019s alien to this world and a danger here, it\u2019s apparently a common organism in the world where it normally lives."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792819737079888/797.png",
+    "discord_sprite": "<:P797:1132147872155041822>"
+}

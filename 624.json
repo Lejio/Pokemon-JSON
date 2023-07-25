@@ -1,0 +1,224 @@
+{
+    "alt-version(s)": [],
+    "name": "Pawniard",
+    "Pawniard": {
+        "pokedex_data": {
+            "National No.": "0624",
+            "Type": [
+                "Dark",
+                "Steel"
+            ],
+            "Species": "Sharp Blade Poke\u0301mon",
+            "Height": "0.5 m (1\u203208\u2032\u2032)",
+            "Weight": "10.2 kg (22.5 lbs)",
+            "Abilities": {
+                "Defiant": {
+                    "href": "/ability/defiant",
+                    "effect": "Sharply raises Attack when the Pok\u00e9mon's stats are lowered.",
+                    "hidden": false
+                },
+                "Inner Focus": {
+                    "href": "/ability/inner-focus",
+                    "effect": "The Pok\u00e9mon is protected from flinching.",
+                    "hidden": false
+                },
+                "Pressure": {
+                    "href": "/ability/pressure",
+                    "effect": "The Pok\u00e9mon raises the foe's PP usage.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack",
+            "Catch rate": "120",
+            "BaseFriendship": "35",
+            "Base Exp.": "68",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "45",
+                "Min": "200",
+                "Max": "294"
+            },
+            "Attack": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Defense": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Atk": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Def": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Speed": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Total": "340"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Fire": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Poison": "no effect",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Psychic": "no effect",
+                "Rock": "not very effective",
+                "Ghost": "not very effective",
+                "Dragon": "not very effective",
+                "Dark": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Pawniard",
+                    "nationalNo": "#0624",
+                    "type": [
+                        "Dark",
+                        "Steel"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Bisharp",
+                    "nationalNo": "#0625",
+                    "type": [
+                        "Dark",
+                        "Steel"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 52)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Bisharp",
+                    "nationalNo": "#0625",
+                    "type": [
+                        "Dark",
+                        "Steel"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Kingambit",
+                    "nationalNo": "#0983",
+                    "type": [
+                        "Dark",
+                        "Steel"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(defeat 3 Bisharp that are holding Leader's Crest)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Leer": "1",
+            "Scratch": "1",
+            "Fury Cutter": "5",
+            "Metal Claw": "10",
+            "Torment": "15",
+            "Scary Face": "20",
+            "Assurance": "25",
+            "Metal Sound": "30",
+            "Slash": "35",
+            "Night Slash": "40",
+            "Iron Defense": "45",
+            "Retaliate": "50",
+            "Iron Head": "55",
+            "Swords Dance": "60",
+            "Guillotine": "65"
+        },
+        "egg": {
+            "Headbutt": null,
+            "Mean Look": null,
+            "Quick Guard": null,
+            "Sucker Punch": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Low Kick": "12",
+            "Thief": "18",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Snarl": "30",
+            "Metal Claw": "31",
+            "Rock Tomb": "36",
+            "Low Sweep": "39",
+            "Fling": "43",
+            "Endure": "47",
+            "Rain Dance": "50",
+            "Sandstorm": "51",
+            "Dig": "55",
+            "False Swipe": "57",
+            "Brick Break": "58",
+            "Shadow Claw": "61",
+            "Foul Play": "62",
+            "Air Slash": "65",
+            "Sleep Talk": "70",
+            "Grass Knot": "81",
+            "Thunder Wave": "82",
+            "Poison Jab": "83",
+            "Rest": "85",
+            "Taunt": "87",
+            "Swords Dance": "88",
+            "Flash Cannon": "93",
+            "Dark Pulse": "94",
+            "Iron Head": "99",
+            "Substitute": "103",
+            "Iron Defense": "104",
+            "X-Scissor": "105",
+            "Stealth Rock": "116",
+            "Stone Edge": "150",
+            "Steel Beam": "170",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Pawniard": [
+            "Blades comprise this Pok\u00e9mon\u2019s entire body. If battling dulls the blades, it sharpens them on stones by the river.",
+            "They fight at Bisharp\u2019s command. They cling to their prey and inflict damage by sinking their blades into it.",
+            "Ignoring their injuries, groups attack by sinking the blades that cover their bodies into their prey.",
+            "Blades comprise this Pok\u00e9mon\u2019s entire body. If battling dulls the blades, it sharpens them on stones by the river.",
+            "Ignoring their injuries, groups attack by sinking the blades that cover their bodies into their prey.",
+            "After shredding its prey, it sharpens its blades on a stone by the river. Each Pawniard has its own favorite sharpening stone.",
+            "It follows Bisharp\u2019s orders to a tee when it attacks enemies. After slashing an opponent, Pawniard clangs both of its blades together.",
+            "It uses river stones to maintain the cutting edges of the blades covering its body. These sharpened blades allow it to bring down opponents.",
+            "A pack of these Pok\u00e9mon forms to serve a Bisharp boss. Each Pawniard trains diligently, dreaming of one day taking the lead.",
+            "Pawniard will fearlessly challenge even powerful foes. In a pinch, it will cling to opponents and pierce them with the blades all over its body.",
+            "Any chips in its blades would prove fatal for it. After each battle, it diligently maintains its blades using its favorite sharpening stone."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791469720637470/624.png",
+    "discord_sprite": "<:P624:1132140202861805588>"
+}

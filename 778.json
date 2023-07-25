@@ -1,0 +1,169 @@
+{
+    "alt-version(s)": [],
+    "name": "Mimikyu",
+    "Mimikyu": {
+        "pokedex_data": {
+            "National No.": "0778",
+            "Type": [
+                "Ghost",
+                "Fairy"
+            ],
+            "Species": "Disguise Poke\u0301mon",
+            "Height": "0.2 m (0\u203208\u2032\u2032)",
+            "Weight": "0.7 kg (1.5 lbs)",
+            "Abilities": {
+                "Disguise": {
+                    "href": "/ability/disguise",
+                    "effect": "Avoids damage for one turn.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Sp. Def",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "167",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "55",
+                "Min": "220",
+                "Max": "314"
+            },
+            "Attack": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Defense": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Sp. Atk": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Def": {
+                "Base": "105",
+                "Min": "193",
+                "Max": "339"
+            },
+            "Speed": {
+                "Base": "96",
+                "Min": "177",
+                "Max": "320"
+            },
+            "Total": "476"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "no effect",
+                "Fighting": "no effect",
+                "Bug": "not very effective",
+                "Ghost": "super-effective",
+                "Dragon": "no effect",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Astonish": "1",
+            "Copycat": "1",
+            "Scratch": "1",
+            "Splash": "1",
+            "Wood Hammer": "1",
+            "Shadow Sneak": "6",
+            "Double Team": "12",
+            "Baby-Doll Eyes": "18",
+            "Mimic": "24",
+            "Hone Claws": "30",
+            "Slash": "36",
+            "Shadow Claw": "42",
+            "Charm": "48",
+            "Play Rough": "54",
+            "Pain Split": "60"
+        },
+        "egg": {
+            "Curse": null,
+            "Destiny Bond": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Charm": "02",
+            "Protect": "07",
+            "Confuse Ray": "17",
+            "Thief": "18",
+            "Trailblaze": "20",
+            "Pounce": "21",
+            "Facade": "25",
+            "Hex": "29",
+            "Draining Kiss": "37",
+            "Night Shade": "42",
+            "Fling": "43",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Shadow Claw": "61",
+            "Bulk Up": "64",
+            "Sleep Talk": "70",
+            "Drain Punch": "73",
+            "Light Screen": "75",
+            "Dazzling Gleam": "79",
+            "Thunder Wave": "82",
+            "Rest": "85",
+            "Taunt": "87",
+            "Swords Dance": "88",
+            "Dark Pulse": "94",
+            "Leech Life": "95",
+            "Substitute": "103",
+            "X-Scissor": "105",
+            "Will-O-Wisp": "107",
+            "Trick": "109",
+            "Giga Drain": "111",
+            "Shadow Ball": "114",
+            "Psychic": "120",
+            "Thunderbolt": "126",
+            "Play Rough": "127",
+            "Misty Terrain": "139",
+            "Phantom Force": "151",
+            "Giga Impact": "152",
+            "Trick Room": "161",
+            "Hyper Beam": "163",
+            "Thunder": "166",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Busted Form": [
+            "After going to all the effort of disguising itself, its neck was broken. Whatever is inside is probably unharmed, but it\u2019s still feeling sad.",
+            "If its neck is broken or its rag torn during an attack, it works through the night to patch it.",
+            "It stands in front of a mirror, trying to fix its broken neck as if its life depended on it. It has a hard time getting it right, so it\u2019s crying inside.",
+            "Sad that its true identity may be exposed, Mimikyu will mercilessly seek revenge on any opponent that breaks its neck.",
+            "There will be no forgiveness for any who reveal that it was pretending to be Pikachu. It will bring the culprit down, even at the cost of its own life.",
+            "Its disguise made from an old rag allowed it to avoid an attack, but the impact broke the neck of the disguise. Now everyone knows it\u2019s a Mimikyu.",
+            "Even as it struggles beneath the cloth to repair the broken neck of its disguise, Mimikyu keeps up its impersonation of Pikachu.",
+            "It has taken damage and can no longer hold the head of its cloth disguise upright. For as long as it lives, Mimikyu will never forget its attacker."
+        ],
+        "Disguised Form": [
+            "Its actual appearance is unknown. A scholar who saw what was under its rag was overwhelmed by terror and died from the shock.",
+            "A lonely Pok\u00e9mon, it conceals its terrifying appearance beneath an old rag so it can get closer to people and other Pok\u00e9mon.",
+            "Although it\u2019s a quiet, lonely Pok\u00e9mon, if you try to look at what\u2019s under its rag, it will become agitated and resist violently.",
+            "A gust of wind revealed what hides under this Pok\u00e9mon\u2019s rag to a passing Trainer, who went home and died painfully that very night.",
+            "It wears a rag fashioned into a Pikachu costume in an effort to look less scary. Unfortunately, the costume only makes it creepier.",
+            "There was a scientist who peeked under Mimikyu\u2019s old rag in the name of research. The scientist died of a mysterious disease.",
+            "This Pok\u00e9mon lives in dark places untouched by sunlight. When it appears before humans, it hides itself under a cloth that resembles a Pikachu.",
+            "Mimikyu was only recently identified as a Pok\u00e9mon. Previously, people thought it was just a ghost wearing a cloth."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792674136002560/778.png",
+    "discord_sprite": "<:P778:1132147034409939075>"
+}

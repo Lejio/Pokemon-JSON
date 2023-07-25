@@ -1,0 +1,346 @@
+{
+    "alt-version(s)": [],
+    "name": "Glaceon",
+    "Glaceon": {
+        "pokedex_data": {
+            "National No.": "0471",
+            "Type": [
+                "Ice"
+            ],
+            "Species": "Fresh Snow Poke\u0301mon",
+            "Height": "0.8 m (2\u203207\u2032\u2032)",
+            "Weight": "25.9 kg (57.1 lbs)",
+            "Abilities": {
+                "Snow Cloak": {
+                    "href": "/ability/snow-cloak",
+                    "effect": "Raises evasion in a hailstorm.",
+                    "hidden": false
+                },
+                "Ice Body": {
+                    "href": "/ability/ice-body",
+                    "effect": "The Pok\u00e9mon gradually regains HP in a hailstorm.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Sp. Atk",
+            "Catch rate": "45",
+            "BaseFriendship": "35",
+            "Base Exp.": "184",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "65",
+                "Min": "240",
+                "Max": "334"
+            },
+            "Attack": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Defense": {
+                "Base": "110",
+                "Min": "202",
+                "Max": "350"
+            },
+            "Sp. Atk": {
+                "Base": "130",
+                "Min": "238",
+                "Max": "394"
+            },
+            "Sp. Def": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Speed": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Total": "525"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Rock": "super-effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Eevee",
+                    "nationalNo": "#0133",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Vaporeon",
+                    "nationalNo": "#0134",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Water Stone)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Eevee",
+                    "nationalNo": "#0133",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Jolteon",
+                    "nationalNo": "#0135",
+                    "type": [
+                        "Electric"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Thunder Stone)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Eevee",
+                    "nationalNo": "#0133",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Flareon",
+                    "nationalNo": "#0136",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Fire Stone)",
+                "shed": null
+            }
+        ],
+        [
+            {
+                "from": {
+                    "name": "Eevee",
+                    "nationalNo": "#0133",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Espeon",
+                    "nationalNo": "#0196",
+                    "type": [
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(high Friendship, Daytime)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Eevee",
+                    "nationalNo": "#0133",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Umbreon",
+                    "nationalNo": "#0197",
+                    "type": [
+                        "Dark"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(high Friendship, Nighttime)",
+                "shed": null
+            }
+        ],
+        [
+            {
+                "from": {
+                    "name": "Eevee",
+                    "nationalNo": "#0133",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Leafeon",
+                    "nationalNo": "#0470",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Leaf Stone, or level up near a Mossy Rock)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Eevee",
+                    "nationalNo": "#0133",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Glaceon",
+                    "nationalNo": "#0471",
+                    "type": [
+                        "Ice"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Ice Stone, or level up near an Icy Rock)",
+                "shed": null
+            }
+        ],
+        [
+            {
+                "from": {
+                    "name": "Eevee",
+                    "nationalNo": "#0133",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Sylveon",
+                    "nationalNo": "#0700",
+                    "type": [
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(after Fairy-type move learned, and either \u2665\u2665 Affection in Gen 6-7 or high friendship in Gen 8+)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Baton Pass": "1",
+            "Charm": "1",
+            "Copycat": "1",
+            "Covet": "1",
+            "Double-Edge": "1",
+            "Growl": "1",
+            "Helping Hand": "1",
+            "Swift": "1",
+            "Tackle": "1",
+            "Tail Whip": "1",
+            "Take Down": "1",
+            "Sand Attack": "5",
+            "Quick Attack": "10",
+            "Baby-Doll Eyes": "15",
+            "Ice Shard": "20",
+            "Bite": "25",
+            "Ice Fang": "30",
+            "Snowscape": "35",
+            "Freeze-Dry": "40",
+            "Mirror Coat": "45",
+            "Blizzard": "50",
+            "Last Resort": "55"
+        },
+        "evolution": {
+            "Icy Wind": "55"
+        },
+        "egg": {
+            "Curse": null,
+            "Detect": null,
+            "Double Kick": null,
+            "Flail": null,
+            "Mud-Slap": null,
+            "Tickle": null,
+            "Wish": null,
+            "Yawn": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Charm": "02",
+            "Fake Tears": "03",
+            "Mud-Slap": "05",
+            "Protect": "07",
+            "Ice Fang": "10",
+            "Water Pulse": "11",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Swift": "32",
+            "Icy Wind": "34",
+            "Mud Shot": "35",
+            "Stored Power": "41",
+            "Avalanche": "46",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Snowscape": "52",
+            "Dig": "55",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Rest": "85",
+            "Substitute": "103",
+            "Shadow Ball": "114",
+            "Hyper Voice": "117",
+            "Calm Mind": "129",
+            "Helping Hand": "130",
+            "Baton Pass": "132",
+            "Ice Beam": "135",
+            "Blizzard": "143",
+            "Giga Impact": "152",
+            "Hyper Beam": "163",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Glaceon": [
+            "As a protective technique, it can completely freeze its fur to make its hairs stand like needles.",
+            "By controlling its body heat, it can freeze the atmosphere around it to make a diamond-dust flurry.",
+            "It causes small ice crystals to form by lowering the temperature of the surrounding atmosphere.",
+            "By controlling its body heat, it can freeze the atmosphere around it to make a diamond-dust flurry.",
+            "It lowers its body heat to freeze its fur. The hairs then become like needles it can fire.",
+            "By controlling its body heat, it can freeze the atmosphere around it to make a diamond-dust flurry.",
+            "It lowers its body heat to freeze its fur. The hairs then become like needles it can fire.",
+            "It can control its body temperature at will. This enables it to freeze the moisture in the atmosphere, creating flurries of diamond dust.",
+            "It freezes its fur into icicles, spiky and sharp, and tackles its prey.",
+            "It protects itself by freezing its fur into sharp needles. It can drop its body temperature below \u201375 degrees Fahrenheit.",
+            "It can instantaneously freeze any moisture that\u2019s around it, creating ice pellets to shoot at its prey.",
+            "Any who become captivated by the beauty of the snowfall that Glaceon creates will be frozen before they know it.",
+            "The coldness emanating from Glaceon causes powdery snow to form, making it quite a popular Pok\u00e9mon at ski resorts.",
+            "As a defense mechanism, it can completely freeze its fur to make its hairs stand out like needles.",
+            "Glaceon is able to lower its body temperature very quickly. It freezes the atmosphere, creating diamond dust that glitters like gems while it flutters and dances around.",
+            "It can control its body temperature at will. This enables it to freeze the moisture in the atmosphere, creating flurries of diamond dust.",
+            "It lowers its body heat to freeze its fur. The hairs then become like needles it can fire."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790273182187520/471.png",
+    "discord_sprite": "<:P471:1132133456508358686>"
+}

@@ -1,0 +1,166 @@
+{
+    "alt-version(s)": [],
+    "name": "Lunatone",
+    "Lunatone": {
+        "pokedex_data": {
+            "National No.": "0337",
+            "Type": [
+                "Rock",
+                "Psychic"
+            ],
+            "Species": "Meteorite Poke\u0301mon",
+            "Height": "1.0 m (3\u203203\u2032\u2032)",
+            "Weight": "168.0 kg (370.4 lbs)",
+            "Abilities": {
+                "Levitate": {
+                    "href": "/ability/levitate",
+                    "effect": "Gives immunity to Ground type moves.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Sp. Atk",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "161",
+            "Growth Rate": "Fast"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "90",
+                "Min": "290",
+                "Max": "384"
+            },
+            "Attack": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Defense": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Atk": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Sp. Def": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Speed": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Total": "460"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Grass": "super-effective",
+                "Poison": "not very effective",
+                "Ground": "no effect",
+                "Flying": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Confusion": "1",
+            "Harden": "1",
+            "Moonblast": "1",
+            "Moonlight": "1",
+            "Rock Throw": "1",
+            "Tackle": "1",
+            "Hypnosis": "5",
+            "Rock Polish": "10",
+            "Rock Slide": "15",
+            "Psyshock": "20",
+            "Cosmic Power": "25",
+            "Psychic": "30",
+            "Stone Edge": "35",
+            "Future Sight": "40",
+            "Magic Room": "45",
+            "Explosion": "50"
+        },
+        "egg": null,
+        "tm": {
+            "Calm Mind": "04",
+            "Hail": "07",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Hyper Beam": "15",
+            "Light Screen": "16",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Safeguard": "20",
+            "Earthquake": "26",
+            "Psychic": "29",
+            "Shadow Ball": "30",
+            "Double Team": "32",
+            "Reflect": "33",
+            "Sandstorm": "37",
+            "Rock Tomb": "39",
+            "Facade": "42",
+            "Rest": "44",
+            "Skill Swap": "48",
+            "Charge Beam": "57",
+            "Endure": "58",
+            "Nasty Plot": "63",
+            "Explosion": "64",
+            "Recycle": "67",
+            "Giga Impact": "68",
+            "Rock Polish": "69",
+            "Flash": "70",
+            "Stone Edge": "71",
+            "Gyro Ball": "74",
+            "Stealth Rock": "76",
+            "Psych Up": "77",
+            "Rock Slide": "80",
+            "Sleep Talk": "82",
+            "Bulldoze": "83",
+            "Dream Eater": "85",
+            "Grass Knot": "86",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Trick Room": "92"
+        }
+    },
+    "entries": {
+        "Lunatone": [
+            "LUNATONE was discovered at a location where a meteorite fell. As a result, some people theorize that this pok\u00e9mon came from space. However, no one has been able to prove this theory so far.",
+            "LUNATONE becomes active around the time of the full moon. Instead of walking, it moves by floating in midair. The pok\u00e9mon\u2019s intimidating red eyes cause all those who see it to become transfixed with fear.",
+            "Its health ebbs and flows with the lunar cycle. It brims with power when exposed to the light of the full moon.",
+            "It becomes very active on the night of a full moon. This pok\u00e9mon was first discovered 40 years ago at the site of a meteor strike.",
+            "Because it turns active on nights of the full moon, it is said to have some link to the lunar phases.",
+            "It was discovered at the site of a meteor strike 40 years ago. Its stare can lull its foes to sleep.",
+            "Because it turns active on nights of the full moon, it is said to have some link to the lunar phases.",
+            "The phase of the moon apparently has some effect on its power. It\u2019s active on the night of a full moon.",
+            "Because it turns active on nights of the full moon, it is said to have some link to the lunar phases.",
+            "It was discovered at the site of a meteor strike 40 years ago. Its stare can lull its foes to sleep.",
+            "Lunatone was discovered at a location where a meteoroid fell. As a result, some people theorize that this Pok\u00e9mon came from space. However, no one has been able to prove this theory so far.",
+            "Lunatone becomes active around the time of the full moon. Instead of walking, it moves by floating in midair. The Pok\u00e9mon\u2019s intimidating red eyes cause all those who see it to become transfixed with fear.",
+            "The phase of the moon apparently has some effect on its power. It\u2019s active on the night of a full moon.",
+            "It was discovered at the site of a meteor strike 40 years ago. Its stare can lull its foes to sleep.",
+            "It becomes active on nights with a full moon, so it is said to have some link to the lunar phases."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789233934319746/337.png",
+    "discord_sprite": "<:P337:1132127567789441076>"
+}

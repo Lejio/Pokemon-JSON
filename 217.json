@@ -1,0 +1,234 @@
+{
+    "alt-version(s)": [],
+    "name": "Ursaring",
+    "Ursaring": {
+        "pokedex_data": {
+            "National No.": "0217",
+            "Type": [
+                "Normal"
+            ],
+            "Species": "Hibernator Poke\u0301mon",
+            "Height": "1.8 m (5\u203211\u2032\u2032)",
+            "Weight": "125.8 kg (277.3 lbs)",
+            "Abilities": {
+                "Guts": {
+                    "href": "/ability/guts",
+                    "effect": "Boosts Attack if there is a status problem.",
+                    "hidden": false
+                },
+                "Quick Feet": {
+                    "href": "/ability/quick-feet",
+                    "effect": "Boosts Speed if there is a status problem.",
+                    "hidden": false
+                },
+                "Unnerve": {
+                    "href": "/ability/unnerve",
+                    "effect": "Makes the foe nervous and unable to eat Berries.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "60",
+            "BaseFriendship": "50",
+            "Base Exp.": "175",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "90",
+                "Min": "290",
+                "Max": "384"
+            },
+            "Attack": {
+                "Base": "130",
+                "Min": "238",
+                "Max": "394"
+            },
+            "Defense": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Sp. Atk": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Sp. Def": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Speed": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Total": "500"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Teddiursa",
+                    "nationalNo": "#0216",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Ursaring",
+                    "nationalNo": "#0217",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 30)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Ursaring",
+                    "nationalNo": "#0217",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Ursaluna",
+                    "nationalNo": "#0901",
+                    "type": [
+                        "Ground",
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Peat Block, under a full moon, in Legends: Arceus)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Covet": "1",
+            "Fake Tears": "1",
+            "Leer": "1",
+            "Lick": "1",
+            "Scratch": "1",
+            "Fury Swipes": "8",
+            "Payback": "13",
+            "Sweet Scent": "17",
+            "Slash": "22",
+            "Play Nice": "25",
+            "Play Rough": "29",
+            "Scary Face": "35",
+            "Rest": "41",
+            "Snore": "41",
+            "High Horsepower": "48",
+            "Thrash": "56",
+            "Hammer Arm": "64"
+        },
+        "egg": {
+            "Belly Drum": null,
+            "Close Combat": null,
+            "Counter": null,
+            "Cross Chop": null,
+            "Crunch": null,
+            "Double-Edge": null,
+            "Fake Tears": null,
+            "Fury Cutter": null,
+            "Metal Claw": null,
+            "Night Slash": null,
+            "Seismic Toss": null,
+            "Yawn": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Charm": "02",
+            "Fake Tears": "03",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Low Kick": "12",
+            "Thief": "18",
+            "Trailblaze": "20",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Bulldoze": "28",
+            "Metal Claw": "31",
+            "Swift": "32",
+            "Rock Tomb": "36",
+            "Fling": "43",
+            "Avalanche": "46",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Dig": "55",
+            "Brick Break": "58",
+            "Shadow Claw": "61",
+            "Bulk Up": "64",
+            "Body Slam": "66",
+            "Fire Punch": "67",
+            "Thunder Punch": "68",
+            "Ice Punch": "69",
+            "Sleep Talk": "70",
+            "Seed Bomb": "71",
+            "Metronome": "80",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Taunt": "87",
+            "Swords Dance": "88",
+            "Gunk Shot": "102",
+            "Substitute": "103",
+            "Crunch": "108",
+            "Hyper Voice": "117",
+            "Play Rough": "127",
+            "Helping Hand": "130",
+            "Earthquake": "149",
+            "Stone Edge": "150",
+            "Giga Impact": "152",
+            "Hyper Beam": "163",
+            "Close Combat": "167",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Ursaring": [
+            "Although it is a good climber, it prefers to snap trees with its forelegs and eat fallen BERRIES.",
+            "With its ability to distinguish any aroma, it unfailingly finds all food buried deep underground.",
+            "Although it has a large body, it is quite skilled at climbing trees. It eats and sleeps in the treetops.",
+            "In the forests inhabited by URSARING, it is said that there are many streams and towering trees where they gather food. This pok\u00e9mon walks through its forest gathering food every day.",
+            "With its ability to distinguish any smell, it unfailingly finds all food buried deep underground.",
+            "Although it is a good climber, it prefers to snap stout trees with its forelegs and eat fallen BERRIES.",
+            "In forests, it is said that there are many streams and towering trees where an URSARING gathers food. It walks through its forest collecting food every day.",
+            "In its territory, it leaves scratches on trees that bear delicious berries or fruits.",
+            "Although it is a good climber, it prefers to snap trees with its forelegs and eat fallen berries.",
+            "With its ability to distinguish any aroma, it unfailingly finds all food buried deep underground.",
+            "In its territory, it leaves scratches on trees that bear delicious berries or fruits.",
+            "With its ability to distinguish any aroma, it unfailingly finds all food buried deep underground.",
+            "Although it has a large body, it is quite skilled at climbing trees. It eats and sleeps in the treetops.",
+            "In the forests inhabited by Ursaring, it is said that there are many streams and towering trees where they gather food. This Pok\u00e9mon walks through its forest gathering food every day.",
+            "In its territory, it leaves scratches on trees that bear delicious berries or fruits.",
+            "When the cold season arrives in Hisui, this Pok\u00e9mon will wander fields and mountains alike in search of its favorite berries. Ursaring\u2019s hunger during this time makes it a ferocious danger.",
+            "It usually wears a hardened expression, but when it\u2019s licking up honey\u2014which it loves\u2014the joy it feels will cause it to break into a wide grin.",
+            "It is quite skilled at climbing trees. If it comes across a Primeape while searching for berries in the treetops, trouble will surely ensue."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788289062469773/217.png",
+    "discord_sprite": "<:P217:1132122286594461807>"
+}

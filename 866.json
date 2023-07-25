@@ -1,0 +1,279 @@
+{
+    "alt-version(s)": [],
+    "name": "Mr. Rime",
+    "Mr. Rime": {
+        "pokedex_data": {
+            "National No.": "0866",
+            "Type": [
+                "Ice",
+                "Psychic"
+            ],
+            "Species": "Comedian Poke\u0301mon",
+            "Height": "1.5 m (4\u203211\u2032\u2032)",
+            "Weight": "58.2 kg (128.3 lbs)",
+            "Abilities": {
+                "Tangled Feet": {
+                    "href": "/ability/tangled-feet",
+                    "effect": "Raises evasion if the Pok\u00e9mon is confused.",
+                    "hidden": false
+                },
+                "Screen Cleaner": {
+                    "href": "/ability/screen-cleaner",
+                    "effect": "Nullifies effects of Light Screen, Reflect, and Aurora Veil.",
+                    "hidden": false
+                },
+                "Ice Body": {
+                    "href": "/ability/ice-body",
+                    "effect": "The Pok\u00e9mon gradually regains HP in a hailstorm.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Sp. Atk",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "182",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "80",
+                "Min": "270",
+                "Max": "364"
+            },
+            "Attack": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Defense": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Sp. Atk": {
+                "Base": "110",
+                "Min": "202",
+                "Max": "350"
+            },
+            "Sp. Def": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Speed": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Total": "520"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Ice": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "super-effective",
+                "Rock": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Mime",
+                    "nationalNo": "#0439",
+                    "type": [
+                        "Psychic",
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Mr.",
+                    "nationalNo": "#0122",
+                    "type": [
+                        "Psychic",
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(after Mimic learned, outside Galar)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Mime",
+                    "nationalNo": "#0439",
+                    "type": [
+                        "Psychic",
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Mr.",
+                    "nationalNo": "#0122",
+                    "type": [
+                        "Ice",
+                        "Psychic"
+                    ],
+                    "nickname": "Galarian Mr. Mime"
+                },
+                "requirement": "(after Mimic learned, in Galar)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Mr.",
+                    "nationalNo": "#0122",
+                    "type": [
+                        "Ice",
+                        "Psychic"
+                    ],
+                    "nickname": "Galarian Mr. Mime"
+                },
+                "to": {
+                    "name": "Mr.",
+                    "nationalNo": "#0866",
+                    "type": [
+                        "Ice",
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 42)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "After You": "1",
+            "Baton Pass": "1",
+            "Block": "1",
+            "Copycat": "1",
+            "Dazzling Gleam": "1",
+            "Encore": "1",
+            "Fake Tears": "1",
+            "Ice Shard": "1",
+            "Light Screen": "1",
+            "Mimic": "1",
+            "Misty Terrain": "1",
+            "Pound": "1",
+            "Protect": "1",
+            "Rapid Spin": "1",
+            "Recycle": "1",
+            "Reflect": "1",
+            "Role Play": "1",
+            "Safeguard": "1",
+            "Slack Off": "1",
+            "Confusion": "12",
+            "Ally Switch": "16",
+            "Icy Wind": "20",
+            "Double Kick": "24",
+            "Psybeam": "28",
+            "Hypnosis": "32",
+            "Mirror Coat": "36",
+            "Sucker Punch": "40",
+            "Freeze-Dry": "44",
+            "Psychic": "48",
+            "Teeter Dance": "52"
+        },
+        "egg": {
+            "Confuse Ray": null,
+            "Fake Out": null,
+            "Power Split": null,
+            "Tickle": null
+        },
+        "null": {
+            "Body Slam": "01",
+            "Ice Beam": "05",
+            "Blizzard": "06",
+            "Thunderbolt": "08",
+            "Thunder": "09",
+            "Psychic": "11",
+            "Metronome": "14",
+            "Substitute": "20",
+            "Psyshock": "25",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Baton Pass": "29",
+            "Encore": "30",
+            "Shadow Ball": "33",
+            "Future Sight": "34",
+            "Uproar": "35",
+            "Taunt": "37",
+            "Trick": "38",
+            "Skill Swap": "40",
+            "Iron Defense": "46",
+            "Calm Mind": "49",
+            "Focus Blast": "64",
+            "Energy Ball": "65",
+            "Nasty Plot": "68",
+            "Zen Headbutt": "69",
+            "Grass Knot": "77",
+            "Foul Play": "81",
+            "Stored Power": "82",
+            "Ally Switch": "83",
+            "Dazzling Gleam": "92"
+        },
+        "tm": {
+            "Mega Punch": "00",
+            "Mega Kick": "01",
+            "Ice Punch": "04",
+            "Hyper Beam": "08",
+            "Giga Impact": "09",
+            "Solar Beam": "11",
+            "Thunder Wave": "14",
+            "Screech": "16",
+            "Light Screen": "17",
+            "Reflect": "18",
+            "Safeguard": "19",
+            "Rest": "21",
+            "Thief": "23",
+            "Snore": "24",
+            "Protect": "25",
+            "Icy Wind": "27",
+            "Charm": "29",
+            "Attract": "31",
+            "Rain Dance": "33",
+            "Sunny Day": "34",
+            "Hail": "35",
+            "Facade": "39",
+            "Helping Hand": "41",
+            "Brick Break": "43",
+            "Fake Tears": "47",
+            "Icicle Spear": "51",
+            "Payback": "57",
+            "Fling": "59",
+            "Power Swap": "60",
+            "Guard Swap": "61",
+            "Drain Punch": "63",
+            "Avalanche": "64",
+            "Trick Room": "70",
+            "Wonder Room": "71",
+            "Magic Room": "72",
+            "Round": "76",
+            "Misty Terrain": "89",
+            "Psychic Terrain": "91",
+            "Stomping Tantrum": "98"
+        }
+    },
+    "entries": {
+        "Mr. Rime": [
+            "It\u2019s highly skilled at tap-dancing. It waves its cane of ice in time with its graceful movements.",
+            "Its amusing movements make it very popular. It releases its psychic power from the pattern on its belly."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793353034448966/866.png",
+    "discord_sprite": "<:P866:1132150908013252669>"
+}

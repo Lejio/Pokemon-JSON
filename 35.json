@@ -1,0 +1,252 @@
+{
+    "alt-version(s)": [],
+    "name": "Clefairy",
+    "Clefairy": {
+        "pokedex_data": {
+            "National No.": "0035",
+            "Type": [
+                "Fairy"
+            ],
+            "Species": "Fairy Poke\u0301mon",
+            "Height": "0.6 m (2\u203200\u2032\u2032)",
+            "Weight": "7.5 kg (16.5 lbs)",
+            "Abilities": {
+                "Cute Charm": {
+                    "href": "/ability/cute-charm",
+                    "effect": "Contact with the Pok\u00e9mon may cause infatuation.",
+                    "hidden": false
+                },
+                "Magic Guard": {
+                    "href": "/ability/magic-guard",
+                    "effect": "Protects the Pok\u00e9mon from indirect damage.",
+                    "hidden": false
+                },
+                "Friend Guard": {
+                    "href": "/ability/friend-guard",
+                    "effect": "Reduces damage done to allies.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 HP",
+            "Catch rate": "150",
+            "BaseFriendship": "140",
+            "Base Exp.": "113",
+            "Growth Rate": "Fast"
+        },
+        "breeding_data": {
+            "Gender": "25% male,75% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "70",
+                "Min": "250",
+                "Max": "344"
+            },
+            "Attack": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Defense": {
+                "Base": "48",
+                "Min": "90",
+                "Max": "214"
+            },
+            "Sp. Atk": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Def": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Speed": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Total": "323"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "not very effective",
+                "Poison": "super-effective",
+                "Bug": "not very effective",
+                "Dragon": "no effect",
+                "Dark": "not very effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Cleffa",
+                    "nationalNo": "#0173",
+                    "type": [
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Clefairy",
+                    "nationalNo": "#0035",
+                    "type": [
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(high Friendship)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Clefairy",
+                    "nationalNo": "#0035",
+                    "type": [
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Clefable",
+                    "nationalNo": "#0036",
+                    "type": [
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Moon Stone)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Charm": "1",
+            "Copycat": "1",
+            "Defense Curl": "1",
+            "Disarming Voice": "1",
+            "Encore": "1",
+            "Growl": "1",
+            "Pound": "1",
+            "Sing": "1",
+            "Splash": "1",
+            "Sweet Kiss": "1",
+            "Stored Power": "4",
+            "Minimize": "8",
+            "After You": "12",
+            "Life Dew": "16",
+            "Metronome": "20",
+            "Moonlight": "24",
+            "Gravity": "28",
+            "Meteor Mash": "32",
+            "Follow Me": "36",
+            "Cosmic Power": "40",
+            "Moonblast": "44",
+            "Healing Wish": "48"
+        },
+        "egg": {
+            "Amnesia": null,
+            "Aromatherapy": null,
+            "Belly Drum": null,
+            "Covet": null,
+            "Fake Tears": null,
+            "Heal Pulse": null,
+            "Metronome": null,
+            "Mimic": null,
+            "Misty Terrain": null,
+            "Present": null,
+            "Splash": null,
+            "Stored Power": null,
+            "Tickle": null,
+            "Wish": null
+        },
+        "tm": {
+            "Focus Punch": "01",
+            "Water Pulse": "03",
+            "Calm Mind": "04",
+            "Work Up": "10",
+            "Sunny Day": "11",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Light Screen": "16",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Safeguard": "20",
+            "Dazzling Gleam": "21",
+            "Solar Beam": "22",
+            "Iron Tail": "23",
+            "Thunderbolt": "24",
+            "Thunder": "25",
+            "Dig": "28",
+            "Psychic": "29",
+            "Shadow Ball": "30",
+            "Brick Break": "31",
+            "Double Team": "32",
+            "Reflect": "33",
+            "Shock Wave": "34",
+            "Flamethrower": "35",
+            "Fire Blast": "38",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Fling": "56",
+            "Charge Beam": "57",
+            "Endure": "58",
+            "Drain Punch": "60",
+            "Recycle": "67",
+            "Flash": "70",
+            "Thunder Wave": "73",
+            "Stealth Rock": "76",
+            "Psych Up": "77",
+            "Sleep Talk": "82",
+            "Dream Eater": "85",
+            "Grass Knot": "86",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Strength": "96",
+            "Rock Smash": "98"
+        }
+    },
+    "entries": {
+        "Clefairy": [
+            "Its magical and cute appeal has many admirers. It is rare and found only in certain areas.",
+            "Adored for their cute looks and playfulness. They are thought to be rare, as they do not appear often.",
+            "The moonlight that it stores in the wings on its back apparently gives it the ability to float in midair.",
+            "Its adorable behavior and cry make it highly popular. However, this cute pok\u00e9mon is rarely found.",
+            "Though rarely seen, it becomes easier to spot, for some reason, on the night of a full moon.",
+            "On every night of a full moon, groups of this pok\u00e9mon come out to play. When dawn arrives, the tired CLEFAIRY return to their quiet mountain retreats and go to sleep nestled up against each other.",
+            "Its adorable appearance makes it popular as a pet. However, it is rare and difficult to find.",
+            "With its magical and cute appeal, it has many admirers. It is rare and found only in certain areas.",
+            "On every night of a full moon, they come out to play. When dawn arrives, the tired CLEFAIRY go to sleep nestled up against each other in deep and quiet mountains.",
+            "Thought to live with others on quiet mountains, it is popular for its adorable nature.",
+            "It flies using the wings on its back to collect moonlight. This Pok\u00e9mon is difficult to find.",
+            "It is said that happiness will come to those who see a gathering of CLEFAIRY dancing under a full moon.",
+            "The moonlight that it stores in the wings on its back apparently gives it the ability to float in midair.",
+            "Its adorable behavior and cry make it highly popular. However, this cute Pok\u00e9mon is rarely found.",
+            "It is said that happiness will come to those who see a gathering of Clefairy dancing under a full moon.",
+            "On nights with a full moon, Clefairy gather from all over and dance. Bathing in moonlight makes them float.",
+            "It is said that happiness will come to those who see a gathering of Clefairy dancing under a full moon.",
+            "The moonlight that it stores in the wings on its back apparently gives it the ability to float in midair.",
+            "On every night of a full moon, groups of this Pok\u00e9mon come out to play. When dawn arrives, the tired Clefairy return to their quiet mountain retreats and go to sleep nestled up against each other.",
+            "Its adorable behavior and appearance make it popular with men and women, young and old. Its numbers are few, however.",
+            "On nights with a full moon, they gather together and dance. The surrounding area is enveloped in an abnormal magnetic field.",
+            "They\u2019re popular, but they\u2019re rare. Trainers who show them off recklessly may be targeted by thieves.",
+            "Bathed in moonlight, its wings glow faintly. Without even flapping, Clefairy rises into the air, where it dances around.",
+            "Adored for their cute looks and playfulness. They are thought to be rare, as they do not appear often.",
+            "It is said that happiness will come to those who see a gathering of Clefairy dancing under a full moon.",
+            "Its adorable behavior and cry make it highly popular. However, this cute Pok\u00e9mon is rarely found.",
+            "Thought to live with others on quiet mountains, it is popular for its adorable nature.",
+            "Moonlight gathers on the wings on Clefairy\u2019s back, allowing Clefairy to fly. This Pok\u00e9mon is difficult to find.",
+            "It can be found in quiet mountain areas on a full moon\u2019s night. Its dancing and its tiny, faintly glowing wings confer upon it a lovely fairylike quality."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131786862105727096/35.png",
+    "discord_sprite": "<:P35:1131973431752146965>"
+}

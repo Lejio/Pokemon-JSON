@@ -1,0 +1,223 @@
+{
+    "alt-version(s)": [],
+    "name": "Dewott",
+    "Dewott": {
+        "pokedex_data": {
+            "National No.": "0502",
+            "Type": [
+                "Water"
+            ],
+            "Species": "Discipline Poke\u0301mon",
+            "Height": "0.8 m (2\u203207\u2032\u2032)",
+            "Weight": "24.5 kg (54.0 lbs)",
+            "Abilities": {
+                "Torrent": {
+                    "href": "/ability/torrent",
+                    "effect": "Powers up Water-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Shell Armor": {
+                    "href": "/ability/shell-armor",
+                    "effect": "The Pok\u00e9mon is protected against critical hits.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Sp. Atk",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "145",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "75",
+                "Min": "260",
+                "Max": "354"
+            },
+            "Attack": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Defense": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Atk": {
+                "Base": "83",
+                "Min": "153",
+                "Max": "291"
+            },
+            "Sp. Def": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Speed": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Total": "413"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Oshawott",
+                    "nationalNo": "#0501",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Dewott",
+                    "nationalNo": "#0502",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 17)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Dewott",
+                    "nationalNo": "#0502",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Samurott",
+                    "nationalNo": "#0503",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 36)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Dewott",
+                    "nationalNo": "#0502",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Samurott",
+                    "nationalNo": "#0503",
+                    "type": [
+                        "Water",
+                        "Dark"
+                    ],
+                    "nickname": "Hisuian Samurott"
+                },
+                "requirement": "(Level 36, in Legends: Arceus)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Soak": "1",
+            "Tackle": "1",
+            "Tail Whip": "1",
+            "Water Gun": "1",
+            "Focus Energy": "13",
+            "Razor Shell": "18",
+            "Fury Cutter": "21",
+            "Water Pulse": "26",
+            "Aerial Ace": "29",
+            "Aqua Jet": "34",
+            "Encore": "37",
+            "Aqua Tail": "42",
+            "Retaliate": "45",
+            "Swords Dance": "50",
+            "Hydro Pump": "53"
+        },
+        "egg": {
+            "Air Slash": null,
+            "Aqua Cutter": null,
+            "Copycat": null,
+            "Detect": null,
+            "Knock Off": null,
+            "Night Slash": null,
+            "Sacred Sword": null,
+            "Screech": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Protect": "07",
+            "Water Pulse": "11",
+            "Thief": "18",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Swift": "32",
+            "Icy Wind": "34",
+            "Fling": "43",
+            "Avalanche": "46",
+            "Endure": "47",
+            "Rain Dance": "50",
+            "Snowscape": "52",
+            "Dig": "55",
+            "False Swipe": "57",
+            "Brick Break": "58",
+            "Air Slash": "65",
+            "Sleep Talk": "70",
+            "Waterfall": "77",
+            "Grass Knot": "81",
+            "Rest": "85",
+            "Taunt": "87",
+            "Swords Dance": "88",
+            "Substitute": "103",
+            "X-Scissor": "105",
+            "Liquidation": "110",
+            "Encore": "122",
+            "Surf": "123",
+            "Helping Hand": "130",
+            "Ice Beam": "135",
+            "Hydro Pump": "142",
+            "Blizzard": "143",
+            "Water Pledge": "145",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Dewott": [
+            "Strict training is how it learns its flowing double-scalchop technique.",
+            "Scalchop techniques differ from one Dewott to another. It never neglects maintaining its scalchops.",
+            "As a result of strict training, each Dewott learns different forms for using the scalchops.",
+            "Strict training is how it learns its flowing double-scalchop technique.",
+            "As a result of strict training, each Dewott learns different forms for using the scalchops.",
+            "Its exquisite double-scalchop technique is likely the result of daily training, and it can send even masters of the blade fleeing in defeat."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790514128175184/502.png",
+    "discord_sprite": "<:P502:1132134819816550460>"
+}

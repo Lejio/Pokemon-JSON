@@ -1,0 +1,223 @@
+{
+    "alt-version(s)": [
+        "Primal Kyogre"
+    ],
+    "name": "Kyogre",
+    "Kyogre": {
+        "pokedex_data": {
+            "National No.": "0382",
+            "Type": [
+                "Water"
+            ],
+            "Species": "Sea Basin Poke\u0301mon",
+            "Height": "4.5 m (14\u203209\u2032\u2032)",
+            "Weight": "352.0 kg (776.0 lbs)",
+            "Abilities": {
+                "Drizzle": {
+                    "href": "/ability/drizzle",
+                    "effect": "The Pok\u00e9mon makes it rain when it enters a battle.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Sp. Atk",
+            "Catch rate": "3",
+            "BaseFriendship": "0",
+            "Base Exp.": "335",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "100",
+                "Min": "310",
+                "Max": "404"
+            },
+            "Attack": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Defense": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Sp. Atk": {
+                "Base": "150",
+                "Min": "274",
+                "Max": "438"
+            },
+            "Sp. Def": {
+                "Base": "140",
+                "Min": "256",
+                "Max": "416"
+            },
+            "Speed": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Total": "670"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "Primal Kyogre": {
+        "pokedex_data": {
+            "National No.": "0382",
+            "Type": [
+                "Water"
+            ],
+            "Species": "Sea Basin Poke\u0301mon",
+            "Height": "9.8 m (32\u203202\u2032\u2032)",
+            "Weight": "430.0 kg (948.0 lbs)",
+            "Abilities": {
+                "Primordial Sea": {
+                    "href": "/ability/primordial-sea",
+                    "effect": "Makes it rain heavily when the ability activates.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Sp. Atk",
+            "Catch rate": "5",
+            "BaseFriendship": "0",
+            "Base Exp.": "347",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "100",
+                "Min": "310",
+                "Max": "404"
+            },
+            "Attack": {
+                "Base": "150",
+                "Min": "274",
+                "Max": "438"
+            },
+            "Defense": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Sp. Atk": {
+                "Base": "180",
+                "Min": "328",
+                "Max": "504"
+            },
+            "Sp. Def": {
+                "Base": "160",
+                "Min": "292",
+                "Max": "460"
+            },
+            "Speed": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Total": "770"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "no effect",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Ancient Power": "1",
+            "Body Slam": "1",
+            "Origin Pulse": "1",
+            "Scary Face": "1",
+            "Water Pulse": "1",
+            "Aqua Tail": "9",
+            "Calm Mind": "18",
+            "Muddy Water": "27",
+            "Ice Beam": "36",
+            "Sheer Cold": "45",
+            "Aqua Ring": "54",
+            "Hydro Pump": "72",
+            "Double-Edge": "81",
+            "Water Spout": "90"
+        },
+        "egg": null,
+        "tm": {
+            "Take Down": "01",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Water Pulse": "11",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Bulldoze": "28",
+            "Icy Wind": "34",
+            "Rock Tomb": "36",
+            "Avalanche": "46",
+            "Endure": "47",
+            "Rain Dance": "50",
+            "Brick Break": "58",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Waterfall": "77",
+            "Thunder Wave": "82",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Iron Head": "99",
+            "Substitute": "103",
+            "Liquidation": "110",
+            "Heavy Slam": "121",
+            "Surf": "123",
+            "Thunderbolt": "126",
+            "Calm Mind": "129",
+            "Helping Hand": "130",
+            "Ice Beam": "135",
+            "Hydro Pump": "142",
+            "Blizzard": "143",
+            "Earthquake": "149",
+            "Giga Impact": "152",
+            "Hyper Beam": "163",
+            "Thunder": "166",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Kyogre": [
+            "KYOGRE has the power to create massive rain clouds that cover the entire sky and bring about torrential downpours. This pok\u00e9mon saved people who were suffering from droughts.",
+            "KYOGRE is named in mythology as the pok\u00e9mon that expanded the sea by covering the land with torrential rains and towering tidal waves. It took to sleep after a cataclysmic battle with GROUDON.",
+            "This pok\u00e9mon is said to have expanded the sea by bringing heavy rains. It has the power to control water.",
+            "KYOGRE has appeared in mythology as the creator of the sea. After long years of feuding with GROUDON, it took to sleep at the bottom of the sea.",
+            "It is said to have widened the seas by causing downpours. It had been asleep in a marine trench.",
+            "A mythical Pok\u00e9mon said to have swelled the seas with rain and tidal waves. It battled with GROUDON.",
+            "It is said to have widened the seas by causing downpours. It had been asleep in a marine trench.",
+            "A mythical Pok\u00e9mon said to have swelled the seas with rain and tidal waves. It battled with Groudon.",
+            "It is said to have widened the seas by causing downpours. It had been asleep in a marine trench.",
+            "Through Primal Reversion and with nature\u2019s full power, it will take back its true form. It can summon storms that cause the sea levels to rise.",
+            "Kyogre is said to be the personification of the sea itself. Legends tell of its many clashes against Groudon, as each sought to gain the power of nature.",
+            "It is said to have widened the seas by causing downpours. It had been asleep in a marine trench."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789585404416000/382.png",
+    "discord_sprite": "<:P382:1132129542186750003>"
+}

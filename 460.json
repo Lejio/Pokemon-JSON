@@ -1,0 +1,286 @@
+{
+    "alt-version(s)": [
+        "Mega Abomasnow"
+    ],
+    "name": "Abomasnow",
+    "Abomasnow": {
+        "pokedex_data": {
+            "National No.": "0460",
+            "Type": [
+                "Grass",
+                "Ice"
+            ],
+            "Species": "Frost Tree Poke\u0301mon",
+            "Height": "2.2 m (7\u203203\u2032\u2032)",
+            "Weight": "135.5 kg (298.7 lbs)",
+            "Abilities": {
+                "Snow Warning": {
+                    "href": "/ability/snow-warning",
+                    "effect": "The Pok\u00e9mon summons a hailstorm in battle.",
+                    "hidden": false
+                },
+                "Soundproof": {
+                    "href": "/ability/soundproof",
+                    "effect": "Gives immunity to <q>sound-based</q> moves.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack, 1 Sp. Atk",
+            "Catch rate": "60",
+            "BaseFriendship": "50",
+            "Base Exp.": "173",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "90",
+                "Min": "290",
+                "Max": "384"
+            },
+            "Attack": {
+                "Base": "92",
+                "Min": "170",
+                "Max": "311"
+            },
+            "Defense": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Sp. Atk": {
+                "Base": "92",
+                "Min": "170",
+                "Max": "311"
+            },
+            "Sp. Def": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Speed": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Total": "494"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Fighting": "super-effective",
+                "Poison": "super-effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Bug": "super-effective",
+                "Rock": "super-effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "Mega Abomasnow": {
+        "pokedex_data": {
+            "National No.": "0460",
+            "Type": [
+                "Grass",
+                "Ice"
+            ],
+            "Species": "Frost Tree Poke\u0301mon",
+            "Height": "2.7 m (8\u203210\u2032\u2032)",
+            "Weight": "185.0 kg (407.9 lbs)",
+            "Abilities": {
+                "Snow Warning": {
+                    "href": "/ability/snow-warning",
+                    "effect": "The Pok\u00e9mon summons a hailstorm in battle.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack, 1 Sp. Atk",
+            "Catch rate": "60",
+            "BaseFriendship": "50",
+            "Base Exp.": "208",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "90",
+                "Min": "290",
+                "Max": "384"
+            },
+            "Attack": {
+                "Base": "132",
+                "Min": "242",
+                "Max": "399"
+            },
+            "Defense": {
+                "Base": "105",
+                "Min": "193",
+                "Max": "339"
+            },
+            "Sp. Atk": {
+                "Base": "132",
+                "Min": "242",
+                "Max": "399"
+            },
+            "Sp. Def": {
+                "Base": "105",
+                "Min": "193",
+                "Max": "339"
+            },
+            "Speed": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Total": "594"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Fighting": "super-effective",
+                "Poison": "super-effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Bug": "super-effective",
+                "Rock": "super-effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Snover",
+                    "nationalNo": "#0459",
+                    "type": [
+                        "Grass",
+                        "Ice"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Abomasnow",
+                    "nationalNo": "#0460",
+                    "type": [
+                        "Grass",
+                        "Ice"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 40)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Aurora Veil": "1",
+            "Leafage": "1",
+            "Leer": "1",
+            "Mist": "1",
+            "Powder Snow": "1",
+            "Ice Shard": "15",
+            "Razor Leaf": "20",
+            "Icy Wind": "25",
+            "Swagger": "30",
+            "Ingrain": "35",
+            "Wood Hammer": "43",
+            "Blizzard": "49",
+            "Sheer Cold": "56"
+        },
+        "evolution": {
+            "Ice Punch": "75"
+        },
+        "egg": {
+            "Double-Edge": null,
+            "Growth": null,
+            "Leech Seed": null,
+            "Stomp": null,
+            "Weather Ball": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Mud-Slap": "05",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Water Pulse": "11",
+            "Low Kick": "12",
+            "Trailblaze": "20",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Bulldoze": "28",
+            "Magical Leaf": "33",
+            "Icy Wind": "34",
+            "Rock Tomb": "36",
+            "Fling": "43",
+            "Avalanche": "46",
+            "Endure": "47",
+            "Rain Dance": "50",
+            "Snowscape": "52",
+            "Bullet Seed": "56",
+            "Brick Break": "58",
+            "Body Slam": "66",
+            "Ice Punch": "69",
+            "Sleep Talk": "70",
+            "Seed Bomb": "71",
+            "Grass Knot": "81",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Swords Dance": "88",
+            "Body Press": "89",
+            "Substitute": "103",
+            "Giga Drain": "111",
+            "Energy Ball": "119",
+            "Ice Spinner": "124",
+            "Helping Hand": "130",
+            "Earth Power": "133",
+            "Ice Beam": "135",
+            "Blizzard": "143",
+            "Earthquake": "149",
+            "Giga Impact": "152",
+            "Outrage": "156",
+            "Focus Blast": "158",
+            "Leaf Storm": "159",
+            "Hyper Beam": "163",
+            "Solar Beam": "168",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Abomasnow": [
+            "It whips up blizzards in mountains that are always buried in snow. It is the abominable snowman.",
+            "It blankets wide areas in snow by whipping up blizzards. It is also known as \u201cThe Ice Monster.\u201d",
+            "They appear when the snow flowers bloom. When the petals fall, they retreat to places unknown again.",
+            "It lives a quiet life on mountains that are perpetually covered in snow. It hides itself by whipping up blizzards.",
+            "They appear when the snow flowers bloom. When the petals fall, they retreat to places unknown again.",
+            "It blankets wide areas in snow by whipping up blizzards. It is also known as \u201cThe Ice Monster.\u201d",
+            "It lives a quiet life on mountains that are perpetually covered in snow. It hides itself by whipping up blizzards.",
+            "If it sees any packs of Darumaka going after Snover, it chases them off, swinging its sizable arms like hammers.",
+            "This Pok\u00e9mon is known to bring blizzards. A shake of its massive body is enough to cause whiteout conditions.",
+            "It whips up blizzards in mountains that are always buried in snow. It is the abominable snowman.",
+            "It blankets wide areas in snow by whipping up blizzards. It is also known as the Ice Monster.",
+            "A powerful Pok\u00e9mon that can split huge boulders with ease. Dislikes associating with others and chooses to live quietly deep within the mountains, playing with the snow.",
+            "It lives a quiet life on mountains that are perpetually covered in snow. It hides itself by whipping up blizzards.",
+            "They appear when the snow flowers bloom. When the petals fall, they retreat to places unknown again."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790189757485177/460.png",
+    "discord_sprite": "<:P460:1132132972041085009>"
+}

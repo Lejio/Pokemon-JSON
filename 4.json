@@ -1,0 +1,223 @@
+{
+    "alt-version(s)": [],
+    "name": "Charmander",
+    "Charmander": {
+        "pokedex_data": {
+            "National No.": "0004",
+            "Type": [
+                "Fire"
+            ],
+            "Species": "Lizard Poke\u0301mon",
+            "Height": "0.6 m (2\u203200\u2032\u2032)",
+            "Weight": "8.5 kg (18.7 lbs)",
+            "Abilities": {
+                "Blaze": {
+                    "href": "/ability/blaze",
+                    "effect": "Powers up Fire-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Solar Power": {
+                    "href": "/ability/solar-power",
+                    "effect": "In sunshine, Sp. Atk is boosted but HP decreases.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Speed",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "62",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "39",
+                "Min": "188",
+                "Max": "282"
+            },
+            "Attack": {
+                "Base": "52",
+                "Min": "98",
+                "Max": "223"
+            },
+            "Defense": {
+                "Base": "43",
+                "Min": "81",
+                "Max": "203"
+            },
+            "Sp. Atk": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Def": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Speed": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Total": "309"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Ground": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Charmander",
+                    "nationalNo": "#0004",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Charmeleon",
+                    "nationalNo": "#0005",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 16)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Charmeleon",
+                    "nationalNo": "#0005",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Charizard",
+                    "nationalNo": "#0006",
+                    "type": [
+                        "Fire",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 36)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Growl": "1",
+            "Scratch": "1",
+            "Ember": "4",
+            "Smokescreen": "8",
+            "Dragon Breath": "12",
+            "Fire Fang": "17",
+            "Slash": "20",
+            "Flamethrower": "24",
+            "Scary Face": "28",
+            "Fire Spin": "32",
+            "Inferno": "36",
+            "Flare Blitz": "40"
+        },
+        "egg": {
+            "Ancient Power": null,
+            "Belly Drum": null,
+            "Bite": null,
+            "Counter": null,
+            "Dragon Rush": null,
+            "Dragon Tail": null,
+            "Iron Tail": null,
+            "Metal Claw": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Fire Fang": "08",
+            "Fire Spin": "24",
+            "Facade": "25",
+            "Metal Claw": "31",
+            "Swift": "32",
+            "Rock Tomb": "36",
+            "Flame Charge": "38",
+            "Fling": "43",
+            "Dragon Tail": "44",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Dig": "55",
+            "False Swipe": "57",
+            "Brick Break": "58",
+            "Shadow Claw": "61",
+            "Body Slam": "66",
+            "Fire Punch": "67",
+            "Thunder Punch": "68",
+            "Sleep Talk": "70",
+            "Dragon Claw": "78",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Swords Dance": "88",
+            "Dragon Dance": "100",
+            "Substitute": "103",
+            "Will-O-Wisp": "107",
+            "Crunch": "108",
+            "Dragon Pulse": "115",
+            "Heat Wave": "118",
+            "Flamethrower": "125",
+            "Helping Hand": "130",
+            "Fire Blast": "141",
+            "Fire Pledge": "144",
+            "Outrage": "156",
+            "Overheat": "157",
+            "Focus Blast": "158",
+            "Flare Blitz": "165",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Charmander": [
+            "Obviously prefers hot places. When it rains, steam is said to spout from the tip of its tail.",
+            "The flame at the tip of its tail makes a sound as it burns. You can only hear it in quiet places.",
+            "The flame on its tail shows the strength of its life force. If it is weak, the flame also burns weakly.",
+            "The flame on its tail indicates CHARMANDER\u2019s life force. If it is healthy, the flame burns brightly.",
+            "If it\u2019s healthy, the flame on the tip of its tail will burn vigorously, even if it gets a bit wet.",
+            "The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when CHARMANDER is enjoying itself. If the pok\u00e9mon becomes enraged, the flame burns fiercely.",
+            "From the time it is born, a flame burns at the tip of its tail. Its life would end if the flame were to go out.",
+            "It has a preference for hot things. When it rains, steam is said to spout from the tip of its tail.",
+            "The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when CHARMANDER is happy, and blazes when it is enraged.",
+            "The fire on the tip of its tail is a measure of its life. If healthy, its tail burns intensely.",
+            "The flame on its tail shows the strength of its life force. If it is weak, the flame also burns weakly.",
+            "The flame on its tail indicates CHARMANDER\u2019s life force. If it is healthy, the flame burns brightly.",
+            "The fire on the tip of its tail is a measure of its life. If healthy, its tail burns intensely.",
+            "The flame on its tail indicates Charmander\u2019s life force. If it is healthy, the flame burns brightly.",
+            "From the time it is born, a flame burns at the tip of its tail. Its life would end if the flame were to go out.",
+            "The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when Charmander is enjoying itself. If the Pok\u00e9mon becomes enraged, the flame burns fiercely.",
+            "The flame at the tip of its tail makes a sound as it burns. You can only hear it in quiet places.",
+            "It has a preference for hot things. When it rains, steam is said to spout from the tip of its tail.",
+            "From the time it is born, a flame burns at the tip of its tail. Its life would end if the flame were to go out.",
+            "The fire on the tip of its tail is a measure of its life. If the Pok\u00e9mon is healthy, its tail burns intensely."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131786620165705788/4.png",
+    "discord_sprite": "<:P4:1131972068729180170>"
+}

@@ -1,0 +1,165 @@
+{
+    "alt-version(s)": [],
+    "name": "Spiritomb",
+    "Spiritomb": {
+        "pokedex_data": {
+            "National No.": "0442",
+            "Type": [
+                "Ghost",
+                "Dark"
+            ],
+            "Species": "Forbidden Poke\u0301mon",
+            "Height": "1.0 m (3\u203203\u2032\u2032)",
+            "Weight": "108.0 kg (238.1 lbs)",
+            "Abilities": {
+                "Pressure": {
+                    "href": "/ability/pressure",
+                    "effect": "The Pok\u00e9mon raises the foe's PP usage.",
+                    "hidden": false
+                },
+                "Infiltrator": {
+                    "href": "/ability/infiltrator",
+                    "effect": "Passes through the foe's barrier and strikes.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Defense, 1 Sp. Def",
+            "Catch rate": "100",
+            "BaseFriendship": "50",
+            "Base Exp.": "170",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "50",
+                "Min": "210",
+                "Max": "304"
+            },
+            "Attack": {
+                "Base": "92",
+                "Min": "170",
+                "Max": "311"
+            },
+            "Defense": {
+                "Base": "108",
+                "Min": "198",
+                "Max": "346"
+            },
+            "Sp. Atk": {
+                "Base": "92",
+                "Min": "170",
+                "Max": "311"
+            },
+            "Sp. Def": {
+                "Base": "108",
+                "Min": "198",
+                "Max": "346"
+            },
+            "Speed": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Total": "485"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "no effect",
+                "Fighting": "no effect",
+                "Poison": "not very effective",
+                "Psychic": "no effect",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Confuse Ray": "1",
+            "Night Shade": "1",
+            "Shadow Sneak": "5",
+            "Spite": "10",
+            "Payback": "15",
+            "Nasty Plot": "20",
+            "Hex": "25",
+            "Memento": "30",
+            "Sucker Punch": "35",
+            "Curse": "40",
+            "Shadow Ball": "45",
+            "Dark Pulse": "50",
+            "Hypnosis": "55",
+            "Dream Eater": "60"
+        },
+        "egg": {
+            "Ally Switch": null,
+            "Destiny Bond": null,
+            "Disable": null,
+            "Pain Split": null,
+            "Smokescreen": null
+        },
+        "tm": {
+            "Scary Face": "06",
+            "Protect": "07",
+            "Psybeam": "16",
+            "Confuse Ray": "17",
+            "Thief": "18",
+            "Facade": "25",
+            "Hex": "29",
+            "Snarl": "30",
+            "Icy Wind": "34",
+            "Rock Tomb": "36",
+            "Stored Power": "41",
+            "Night Shade": "42",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Psyshock": "54",
+            "Foul Play": "62",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Rest": "85",
+            "Taunt": "87",
+            "Imprison": "92",
+            "Dark Pulse": "94",
+            "Skill Swap": "98",
+            "Substitute": "103",
+            "Will-O-Wisp": "107",
+            "Trick": "109",
+            "Shadow Ball": "114",
+            "Psychic": "120",
+            "Calm Mind": "129",
+            "Helping Hand": "130",
+            "Nasty Plot": "140",
+            "Phantom Force": "151",
+            "Giga Impact": "152",
+            "Trick Room": "161",
+            "Hyper Beam": "163",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Spiritomb": [
+            "A Pok\u00e9mon that was formed by 108 spirits. It is bound to a fissure in an odd keystone.",
+            "It was bound to a fissure in an odd keystone as punishment for misdeeds 500 years ago.",
+            "Its constant mischief and misdeeds resulted in it being bound to an Odd Keystone by a mysterious spell.",
+            "It was formed by uniting 108 spirits. It has been bound to the Odd Keystone to keep it from doing any mischief.",
+            "Its constant mischief and misdeeds resulted in it being bound to an Odd Keystone by a mysterious spell.",
+            "A Pok\u00e9mon that was formed by 108 spirits. It is bound to a fissure in an odd keystone.",
+            "It was bound to a fissure in an odd keystone as punishment for misdeeds 500 years ago.",
+            "Exactly 108 spirits gathered to become this Pok\u00e9mon. Apparently there are some ill-natured spirits in the mix.",
+            "All Spiritomb\u2019s mischief and misdeeds compelled a traveler to use a mysterious spell to bind Spiritomb to an odd keystone.",
+            "It is a Pok\u00e9mon that was formed by 108 spirits. It is bound to a fissure in an odd keystone.",
+            "It was bound to a fissure in an odd keystone as punishment for misdeeds 500 years ago.",
+            "It lays curses by thinking wicked thoughts. Writings tell that this Pok\u00e9mon was born out of the assembly of five score and eight malevolent spirits.",
+            "Its constant mischief and misdeeds resulted in it being bound to an Odd Keystone by a mysterious spell.",
+            "It was formed by uniting 108 spirits. It has been bound to the Odd Keystone to keep it from doing any mischief."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790049617391646/442.png",
+    "discord_sprite": "<:P442:1132132180806602782>"
+}

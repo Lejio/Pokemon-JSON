@@ -1,0 +1,213 @@
+{
+    "alt-version(s)": [],
+    "name": "Alcremie",
+    "Alcremie": {
+        "pokedex_data": {
+            "National No.": "0869",
+            "Type": [
+                "Fairy"
+            ],
+            "Species": "Cream Poke\u0301mon",
+            "Height": "0.3 m (1\u203200\u2032\u2032)",
+            "Weight": "0.5 kg (1.1 lbs)",
+            "Abilities": {
+                "Sweet Veil": {
+                    "href": "/ability/sweet-veil",
+                    "effect": "Prevents the Pok\u00e9mon and allies from falling asleep.",
+                    "hidden": false
+                },
+                "Aroma Veil": {
+                    "href": "/ability/aroma-veil",
+                    "effect": "Protects allies from attacks that limit their move choices.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Sp. Def",
+            "Catch rate": "100",
+            "BaseFriendship": "50",
+            "Base Exp.": "173",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "0% male,100% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "65",
+                "Min": "240",
+                "Max": "334"
+            },
+            "Attack": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Defense": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Sp. Atk": {
+                "Base": "110",
+                "Min": "202",
+                "Max": "350"
+            },
+            "Sp. Def": {
+                "Base": "121",
+                "Min": "222",
+                "Max": "375"
+            },
+            "Speed": {
+                "Base": "64",
+                "Min": "119",
+                "Max": "249"
+            },
+            "Total": "495"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "not very effective",
+                "Poison": "super-effective",
+                "Bug": "not very effective",
+                "Dragon": "no effect",
+                "Dark": "not very effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Milcery",
+                    "nationalNo": "#0868",
+                    "type": [
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Alcremie",
+                    "nationalNo": "#0869",
+                    "type": [
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(spin around holding Sweet)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Aromatic Mist": "1",
+            "Decorate": "1",
+            "Sweet Kiss": "1",
+            "Sweet Scent": "1",
+            "Tackle": "1",
+            "Draining Kiss": "15",
+            "Aromatherapy": "20",
+            "Attract": "25",
+            "Acid Armor": "30",
+            "Dazzling Gleam": "35",
+            "Recover": "40",
+            "Misty Terrain": "45",
+            "Entrainment": "50"
+        },
+        "evolution": {
+            "Decorate": "\u2014"
+        },
+        "egg": {
+            "Baby-Doll Eyes": null,
+            "Last Resort": null
+        },
+        "null": {
+            "Psychic": "11",
+            "Metronome": "14",
+            "Tri Attack": "19",
+            "Substitute": "20",
+            "Psyshock": "25",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Encore": "30",
+            "Calm Mind": "49",
+            "Energy Ball": "65",
+            "Stored Power": "82",
+            "Play Rough": "90",
+            "Dazzling Gleam": "92"
+        },
+        "tm": {
+            "Hyper Beam": "08",
+            "Giga Impact": "09",
+            "Magical Leaf": "10",
+            "Solar Beam": "11",
+            "Light Screen": "17",
+            "Safeguard": "19",
+            "Rest": "21",
+            "Snore": "24",
+            "Protect": "25",
+            "Giga Drain": "28",
+            "Charm": "29",
+            "Attract": "31",
+            "Facade": "39",
+            "Helping Hand": "41",
+            "Imprison": "44",
+            "Fake Tears": "47",
+            "Fling": "59",
+            "Drain Punch": "63",
+            "Wonder Room": "71",
+            "Magic Room": "72",
+            "Round": "76",
+            "Draining Kiss": "87",
+            "Misty Terrain": "89",
+            "Mystical Fire": "92"
+        }
+    },
+    "entries": {
+        "Caramel Swirl Flavor": [
+            "The moment it evolved, it took on a bitter flavor. This is because of the way its cells spontaneously shifted during evolution.",
+            "The cells that compose its cream fluctuated suddenly during evolution, giving the cream a bitter flavor."
+        ],
+        "Gigantamax": [
+            "Cream pours endlessly from this Pok\u00e9mon\u2019s body. The cream stiffens when compressed by an impact. A harder impact results in harder cream.",
+            "It launches swarms of missiles, each made of cream and loaded with 100,000 kilocalories. Get hit by one of these, and your head will swim."
+        ],
+        "Vanilla Cream Flavor": [
+            "When it trusts a Trainer, it will treat them to berries it\u2019s decorated with cream.",
+            "When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer."
+        ],
+        "Lemon Cream Flavor": [
+            "The moment it evolved, it took on a sour flavor. This is because of the way its cells spontaneously shifted during evolution.",
+            "The cells that compose its cream fluctuated suddenly during evolution, giving the cream a sour flavor."
+        ],
+        "Matcha Cream Flavor": [
+            "The moment it evolved, it took on an aromatic flavor. This is because of the way its cells spontaneously shifted during evolution.",
+            "The cells that compose its cream fluctuated suddenly during evolution, giving the cream an aromatic flavor."
+        ],
+        "Salted Cream Flavor": [
+            "The moment it evolved, it took on a salty flavor. This is because of the way its cells spontaneously shifted during evolution.",
+            "The cells that compose its cream fluctuated suddenly during evolution, giving the cream a salty flavor."
+        ],
+        "Mint Cream Flavor": [
+            "The moment it evolved, it took on a refreshing flavor. This is because of the way its cells spontaneously shifted during evolution.",
+            "The cells that compose its cream fluctuated suddenly during evolution, giving the cream a refreshing flavor."
+        ],
+        "Rainbow Swirl Flavor": [
+            "The moment it evolved, it took on a complex flavor. This is because of the way its cells spontaneously shifted during evolution.",
+            "The cells that compose its cream fluctuated suddenly during evolution, giving the cream a complex flavor."
+        ],
+        "Ruby Swirl Flavor": [
+            "The moment it evolved, it took on a mixed flavor. This is because of the way its cells spontaneously shifted during evolution.",
+            "The cells that compose its cream fluctuated suddenly during evolution, giving the cream a mixed flavor."
+        ],
+        "Ruby Cream Flavor": [
+            "The moment it evolved, it took on a sweet and tart flavor. This is because of the way its cells spontaneously shifted during evolution.",
+            "The cells that compose its cream fluctuated suddenly during evolution, giving the cream a sweet and tart flavor."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793380242886817/869.png",
+    "discord_sprite": "<:P869:1132151039123005540>"
+}

@@ -1,0 +1,169 @@
+{
+    "alt-version(s)": [],
+    "name": "Beldum",
+    "Beldum": {
+        "pokedex_data": {
+            "National No.": "0374",
+            "Type": [
+                "Steel",
+                "Psychic"
+            ],
+            "Species": "Iron Ball Poke\u0301mon",
+            "Height": "0.6 m (2\u203200\u2032\u2032)",
+            "Weight": "95.2 kg (209.9 lbs)",
+            "Abilities": {
+                "Clear Body": {
+                    "href": "/ability/clear-body",
+                    "effect": "Prevents other Pok\u00e9mon from lowering its stats.",
+                    "hidden": false
+                },
+                "Light Metal": {
+                    "href": "/ability/light-metal",
+                    "effect": "Halves the Pok\u00e9mon's weight.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Defense",
+            "Catch rate": "3",
+            "BaseFriendship": "35",
+            "Base Exp.": "60",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "40",
+                "Min": "190",
+                "Max": "284"
+            },
+            "Attack": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Defense": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Sp. Atk": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Sp. Def": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Speed": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Total": "300"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Fire": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Poison": "no effect",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Psychic": "not very effective",
+                "Rock": "not very effective",
+                "Ghost": "super-effective",
+                "Dragon": "not very effective",
+                "Dark": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Beldum",
+                    "nationalNo": "#0374",
+                    "type": [
+                        "Steel",
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Metang",
+                    "nationalNo": "#0375",
+                    "type": [
+                        "Steel",
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 20)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Metang",
+                    "nationalNo": "#0375",
+                    "type": [
+                        "Steel",
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Metagross",
+                    "nationalNo": "#0376",
+                    "type": [
+                        "Steel",
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 45)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Tackle": "1"
+        },
+        "egg": null,
+        "tm": null
+    },
+    "entries": {
+        "Beldum": [
+            "Instead of blood, a powerful magnetic force courses throughout BELDUM\u2019s body. This pok\u00e9mon communicates with others by sending controlled pulses of magnetism.",
+            "BELDUM keeps itself floating by generating a magnetic force that repels earth\u2019s natural magnetism. When it sleeps, this pok\u00e9mon anchors itself to a cliff using the hooks on its rear.",
+            "It uses magnetic waves to converse with its kind. All the cells in its body are magnetic.",
+            "When BELDUM gather in a swarm, they move in perfect unison as if they were but one pok\u00e9mon. They communicate with each other using brain waves.",
+            "It converses with others by using magnetic pulses. In a swarm, they move in perfect unison.",
+            "The magnetic force generated by its body repels the ground\u2019s natural magnetism, letting it float.",
+            "It converses with others by using magnetic pulses. In a swarm, they move in perfect unison.",
+            "Its cells are all magnetic, and it communicates with others by using magnetic pulses.",
+            "The magnetic force generated by its body repels the ground\u2019s natural magnetism, letting it float.",
+            "It converses with others by using magnetic pulses. In a swarm, they move in perfect unison.",
+            "Instead of blood, a powerful magnetic force courses throughout Beldum\u2019s body. This Pok\u00e9mon communicates with others by sending controlled pulses of magnetism.",
+            "Beldum keeps itself floating by generating a magnetic force that repels earth\u2019s natural magnetism. When it sleeps, this Pok\u00e9mon anchors itself to a cliff using the hooks on its rear.",
+            "Its cells are all magnets. It uses magnetism to communicate with others of its kind.",
+            "With magnetic traction, it pulls its opponents in close. When they\u2019re in range, it slashes them with its rear claws.",
+            "Instead of blood, magnetism flows through its body. When it\u2019s feeling bad, try giving it a magnet.",
+            "If you anger it, it will do more than rampage. It will also burst out strong magnetism, causing nearby machines to break.",
+            "From its rear, Beldum emits a magnetic force that rapidly pulls opponents in. They get skewered on Beldum\u2019s sharp claws.",
+            "The cells in this Pok\u00e9mon\u2019s body are composed of magnetic material. Instead of blood, magnetic forces flow through Beldum\u2019s body.",
+            "They converse with one another by using magnetic pulses. In a swarm, they move in perfect unison."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789522032660591/374.png",
+    "discord_sprite": "<:P374:1132129191073173624>"
+}

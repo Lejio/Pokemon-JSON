@@ -1,0 +1,259 @@
+{
+    "alt-version(s)": [
+        "Mega Audino"
+    ],
+    "name": "Audino",
+    "Audino": {
+        "pokedex_data": {
+            "National No.": "0531",
+            "Type": [
+                "Normal"
+            ],
+            "Species": "Hearing Poke\u0301mon",
+            "Height": "1.1 m (3\u203207\u2032\u2032)",
+            "Weight": "31.0 kg (68.3 lbs)",
+            "Abilities": {
+                "Healer": {
+                    "href": "/ability/healer",
+                    "effect": "May heal an ally's status conditions.",
+                    "hidden": false
+                },
+                "Regenerator": {
+                    "href": "/ability/regenerator",
+                    "effect": "Restores a little HP when withdrawn from battle.",
+                    "hidden": false
+                },
+                "Klutz": {
+                    "href": "/ability/klutz",
+                    "effect": "The Pok\u00e9mon can't use any held items.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 HP",
+            "Catch rate": "255",
+            "BaseFriendship": "50",
+            "Base Exp.": "390",
+            "Growth Rate": "Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "103",
+                "Min": "316",
+                "Max": "410"
+            },
+            "Attack": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Defense": {
+                "Base": "86",
+                "Min": "159",
+                "Max": "298"
+            },
+            "Sp. Atk": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Def": {
+                "Base": "86",
+                "Min": "159",
+                "Max": "298"
+            },
+            "Speed": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Total": "445"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "Mega Audino": {
+        "pokedex_data": {
+            "National No.": "0531",
+            "Type": [
+                "Normal",
+                "Fairy"
+            ],
+            "Species": "Hearing Poke\u0301mon",
+            "Height": "1.5 m (4\u203211\u2032\u2032)",
+            "Weight": "32.0 kg (70.5 lbs)",
+            "Abilities": {
+                "Healer": {
+                    "href": "/ability/healer",
+                    "effect": "May heal an ally's status conditions.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 HP",
+            "Catch rate": "255",
+            "BaseFriendship": "50",
+            "Base Exp.": "425",
+            "Growth Rate": "Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "103",
+                "Min": "316",
+                "Max": "410"
+            },
+            "Attack": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Defense": {
+                "Base": "126",
+                "Min": "231",
+                "Max": "386"
+            },
+            "Sp. Atk": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Sp. Def": {
+                "Base": "126",
+                "Min": "231",
+                "Max": "386"
+            },
+            "Speed": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Total": "545"
+        },
+        "defense_stats": {
+            "default": {
+                "Poison": "super-effective",
+                "Bug": "not very effective",
+                "Ghost": "no effect",
+                "Dragon": "no effect",
+                "Dark": "not very effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Play Nice": "1",
+            "Pound": "1",
+            "Disarming Voice": "4",
+            "Baby-Doll Eyes": "9",
+            "Helping Hand": "12",
+            "Growl": "16",
+            "Zen Headbutt": "20",
+            "Life Dew": "24",
+            "After You": "28",
+            "Take Down": "32",
+            "Simple Beam": "36",
+            "Hyper Voice": "40",
+            "Heal Pulse": "44",
+            "Double-Edge": "48",
+            "Entrainment": "52",
+            "Misty Terrain": "56",
+            "Last Resort": "60"
+        },
+        "egg": {
+            "Healing Wish": null,
+            "Sweet Kiss": null,
+            "Wish": null,
+            "Yawn": null
+        },
+        "tm": {
+            "Mega Punch": "00",
+            "Mega Kick": "01",
+            "Fire Punch": "03",
+            "Ice Punch": "04",
+            "Thunder Punch": "05",
+            "Hyper Beam": "08",
+            "Giga Impact": "09",
+            "Solar Beam": "11",
+            "Thunder Wave": "14",
+            "Dig": "15",
+            "Light Screen": "17",
+            "Reflect": "18",
+            "Safeguard": "19",
+            "Rest": "21",
+            "Snore": "24",
+            "Protect": "25",
+            "Icy Wind": "27",
+            "Attract": "31",
+            "Rain Dance": "33",
+            "Sunny Day": "34",
+            "Facade": "39",
+            "Helping Hand": "41",
+            "Fling": "59",
+            "Drain Punch": "63",
+            "Trick Room": "70",
+            "Round": "76",
+            "Retaliate": "79",
+            "Draining Kiss": "87",
+            "Misty Terrain": "89",
+            "Stomping Tantrum": "98"
+        },
+        "null": {
+            "Body Slam": "01",
+            "Flamethrower": "02",
+            "Surf": "04",
+            "Ice Beam": "05",
+            "Blizzard": "06",
+            "Low Kick": "07",
+            "Thunderbolt": "08",
+            "Thunder": "09",
+            "Psychic": "11",
+            "Fire Blast": "15",
+            "Amnesia": "17",
+            "Substitute": "20",
+            "Psyshock": "25",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Encore": "30",
+            "Iron Tail": "31",
+            "Shadow Ball": "33",
+            "Uproar": "35",
+            "Skill Swap": "40",
+            "Hyper Voice": "42",
+            "Calm Mind": "49",
+            "Zen Headbutt": "69",
+            "Grass Knot": "77",
+            "Ally Switch": "83",
+            "Work Up": "85",
+            "Wild Charge": "86",
+            "Dazzling Gleam": "92",
+            "Throat Chop": "95"
+        }
+    },
+    "entries": {
+        "Audino": [
+            "It touches others with the feelers on its ears, using the sound of their heartbeats to tell how they are feeling.",
+            "Its auditory sense is astounding. It has a radarlike ability to understand its surroundings through slight sounds.",
+            "Using the feelers on its ears, it can tell how someone is feeling or when an egg might hatch.",
+            "Using the feelers on its ears, it can tell how someone is feeling or when an egg might hatch.",
+            "It touches others with the feelers on its ears, using the sound of their heartbeats to tell how they are feeling.",
+            "Audino\u2019s sense of hearing is superb. Not even a pebble rolling along over a mile away will escape Audino\u2019s ears.",
+            "This Pok\u00e9mon has a kind heart. By touching with its feelers, Audino can gauge other creatures\u2019 feelings and physical conditions."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790741316849724/531.png",
+    "discord_sprite": "<:P531:1132136099205103616>"
+}

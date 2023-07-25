@@ -1,0 +1,198 @@
+{
+    "alt-version(s)": [],
+    "name": "Ferrothorn",
+    "Ferrothorn": {
+        "pokedex_data": {
+            "National No.": "0598",
+            "Type": [
+                "Grass",
+                "Steel"
+            ],
+            "Species": "Thorn Pod Poke\u0301mon",
+            "Height": "1.0 m (3\u203203\u2032\u2032)",
+            "Weight": "110.0 kg (242.5 lbs)",
+            "Abilities": {
+                "Iron Barbs": {
+                    "href": "/ability/iron-barbs",
+                    "effect": "Inflicts damage to the Pok\u00e9mon on contact.",
+                    "hidden": false
+                },
+                "Anticipation": {
+                    "href": "/ability/anticipation",
+                    "effect": "Senses a foe's dangerous moves.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Defense",
+            "Catch rate": "90",
+            "BaseFriendship": "50",
+            "Base Exp.": "171",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "74",
+                "Min": "258",
+                "Max": "352"
+            },
+            "Attack": {
+                "Base": "94",
+                "Min": "173",
+                "Max": "315"
+            },
+            "Defense": {
+                "Base": "131",
+                "Min": "240",
+                "Max": "397"
+            },
+            "Sp. Atk": {
+                "Base": "54",
+                "Min": "101",
+                "Max": "227"
+            },
+            "Sp. Def": {
+                "Base": "116",
+                "Min": "213",
+                "Max": "364"
+            },
+            "Speed": {
+                "Base": "20",
+                "Min": "40",
+                "Max": "152"
+            },
+            "Total": "489"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Fighting": "super-effective",
+                "Poison": "no effect",
+                "Psychic": "not very effective",
+                "Rock": "not very effective",
+                "Dragon": "not very effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Ferroseed",
+                    "nationalNo": "#0597",
+                    "type": [
+                        "Grass",
+                        "Steel"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Ferrothorn",
+                    "nationalNo": "#0598",
+                    "type": [
+                        "Grass",
+                        "Steel"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 40)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Harden": "1",
+            "Metal Claw": "1",
+            "Pin Missile": "1",
+            "Power Whip": "1",
+            "Tackle": "1",
+            "Ingrain": "15",
+            "Flash Cannon": "20",
+            "Iron Head": "25",
+            "Self-Destruct": "30",
+            "Iron Defense": "35",
+            "Curse": "43",
+            "Gyro Ball": "49",
+            "Explosion": "56"
+        },
+        "evolution": {
+            "Power Whip": "120"
+        },
+        "egg": {
+            "Acid Spray": null,
+            "Gravity": null,
+            "Knock Off": null,
+            "Leech Seed": null,
+            "Toxic": null
+        },
+        "null": {
+            "Swords Dance": "00",
+            "Thunderbolt": "08",
+            "Thunder": "09",
+            "Substitute": "20",
+            "Spikes": "23",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Iron Defense": "46",
+            "Gyro Ball": "52",
+            "Poison Jab": "57",
+            "Seed Bomb": "59",
+            "Energy Ball": "65",
+            "Flash Cannon": "70",
+            "Power Whip": "72",
+            "Iron Head": "74",
+            "Stealth Rock": "76",
+            "Grass Knot": "77",
+            "Heavy Slam": "79",
+            "Body Press": "99"
+        },
+        "tm": {
+            "Pin Missile": "07",
+            "Hyper Beam": "08",
+            "Giga Impact": "09",
+            "Solar Beam": "11",
+            "Thunder Wave": "14",
+            "Self-Destruct": "20",
+            "Rest": "21",
+            "Snore": "24",
+            "Protect": "25",
+            "Giga Drain": "28",
+            "Attract": "31",
+            "Sandstorm": "32",
+            "Sunny Day": "34",
+            "Facade": "39",
+            "Revenge": "42",
+            "Bullet Seed": "50",
+            "Payback": "57",
+            "Assurance": "58",
+            "Shadow Claw": "65",
+            "Round": "76",
+            "Bulldoze": "81",
+            "Brutal Swing": "97"
+        }
+    },
+    "entries": {
+        "Ferrothorn": [
+            "It fights by swinging around its three spiky feelers. A hit from these steel spikes can reduce a boulder to rubble.",
+            "They attach themselves to cave ceilings, firing steel spikes at targets passing beneath them.",
+            "By swinging around its three spiky feelers and shooting spikes, it can obliterate an opponent.",
+            "By swinging around its three spiky feelers and shooting spikes, it can obliterate an opponent.",
+            "They attach themselves to cave ceilings, firing steel spikes at targets passing beneath them.",
+            "This Pok\u00e9mon scrapes its spikes across rocks, and then uses the tips of its feelers to absorb the nutrients it finds within the stone.",
+            "Its spikes are harder than steel. This Pok\u00e9mon crawls across rock walls by stabbing the spikes on its feelers into the stone."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791261603463229/598.png",
+    "discord_sprite": "<:P598:1132139052703957122>"
+}

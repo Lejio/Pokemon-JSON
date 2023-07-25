@@ -1,0 +1,250 @@
+{
+    "alt-version(s)": [],
+    "name": "Nidoking",
+    "Nidoking": {
+        "pokedex_data": {
+            "National No.": "0034",
+            "Type": [
+                "Poison",
+                "Ground"
+            ],
+            "Species": "Drill Poke\u0301mon",
+            "Height": "1.4 m (4\u203207\u2032\u2032)",
+            "Weight": "62.0 kg (136.7 lbs)",
+            "Abilities": {
+                "Poison Point": {
+                    "href": "/ability/poison-point",
+                    "effect": "Contact with the Pok\u00e9mon may poison the attacker.",
+                    "hidden": false
+                },
+                "Rivalry": {
+                    "href": "/ability/rivalry",
+                    "effect": "Deals more damage to a Pok\u00e9mon of same gender.",
+                    "hidden": false
+                },
+                "Sheer Force": {
+                    "href": "/ability/sheer-force",
+                    "effect": "Removes added effects to increase move damage.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Attack",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "227",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "100% male,0% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "81",
+                "Min": "272",
+                "Max": "366"
+            },
+            "Attack": {
+                "Base": "102",
+                "Min": "188",
+                "Max": "333"
+            },
+            "Defense": {
+                "Base": "77",
+                "Min": "143",
+                "Max": "278"
+            },
+            "Sp. Atk": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Sp. Def": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Speed": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Total": "505"
+        },
+        "defense_stats": {
+            "default": {
+                "Water": "super-effective",
+                "Electric": "no effect",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Nidoran\u2642",
+                    "nationalNo": "#0032",
+                    "type": [
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Nidorino",
+                    "nationalNo": "#0033",
+                    "type": [
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 16)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Nidorino",
+                    "nationalNo": "#0033",
+                    "type": [
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Nidoking",
+                    "nationalNo": "#0034",
+                    "type": [
+                        "Poison",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Moon Stone)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Double Kick": "1",
+            "Earth Power": "1",
+            "Flatter": "1",
+            "Focus Energy": "1",
+            "Fury Attack": "1",
+            "Helping Hand": "1",
+            "Horn Attack": "1",
+            "Leer": "1",
+            "Megahorn": "1",
+            "Peck": "1",
+            "Poison Jab": "1",
+            "Poison Sting": "1",
+            "Sludge Wave": "1",
+            "Toxic": "1",
+            "Toxic Spikes": "1"
+        },
+        "evolution": {
+            "Megahorn": "120"
+        },
+        "egg": {
+            "Amnesia": null,
+            "Beat Up": null,
+            "Confusion": null,
+            "Counter": null,
+            "Disable": null,
+            "Head Smash": null,
+            "Horn Drill": null,
+            "Poison Tail": null,
+            "Sucker Punch": null,
+            "Supersonic": null,
+            "Take Down": null,
+            "Thrash": null,
+            "Venom Drench": null
+        },
+        "tm": {
+            "Focus Punch": "01",
+            "Water Pulse": "03",
+            "Roar": "05",
+            "Toxic": "06",
+            "Sunny Day": "11",
+            "Taunt": "12",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Iron Tail": "23",
+            "Thunderbolt": "24",
+            "Thunder": "25",
+            "Earthquake": "26",
+            "Dig": "28",
+            "Shadow Ball": "30",
+            "Brick Break": "31",
+            "Double Team": "32",
+            "Shock Wave": "34",
+            "Flamethrower": "35",
+            "Sludge Bomb": "36",
+            "Sandstorm": "37",
+            "Fire Blast": "38",
+            "Rock Tomb": "39",
+            "Torment": "41",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Focus Blast": "52",
+            "Fling": "56",
+            "Endure": "58",
+            "Dragon Pulse": "59",
+            "Shadow Claw": "65",
+            "Giga Impact": "68",
+            "Stone Edge": "71",
+            "Avalanche": "72",
+            "Stealth Rock": "76",
+            "Rock Slide": "80",
+            "Sleep Talk": "82",
+            "Bulldoze": "83",
+            "Poison Jab": "84",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Cut": "93",
+            "Surf": "95",
+            "Strength": "96",
+            "Rock Smash": "98",
+            "Rock Climb": "100"
+        }
+    },
+    "entries": {
+        "Nidoking": [
+            "It uses its powerful tail in battle to smash, constrict, then break the prey\u2019s bones.",
+            "Its steel-like hide adds to its powerful tackle. Its horns are so hard, they can pierce a diamond.",
+            "It swings its big tail around during battle. If its foe flinches, it will charge with its sturdy body.",
+            "Its tail is thick and powerful. If it binds an enemy, it can snap the victim\u2019s spine quite easily.",
+            "It uses its thick arms, legs and tail to attack forcefully. Melee combat is its specialty.",
+            "NIDOKING\u2019s thick tail packs enormously destructive power. With one swing, it can topple a metal transmission tower. Once this pok\u00e9mon goes on a rampage, there is no stopping it.",
+            "It is recognized by its rock-hard hide and its extended horn. Be careful with the horn as it contains venom.",
+            "It uses its powerful tail in battle to smash, constrict, then break the prey\u2019s bones.",
+            "A NIDOKING\u2019s thick tail packs enormously destructive power capable of toppling a metal transmission tower. Once it goes on a rampage, there is no stopping it.",
+            "One swing of its mighty tail can snap a telephone pole as if it were a matchstick.",
+            "It swings its big tail around during battle. If its foe flinches, it will charge with its sturdy body.",
+            "Its tail is thick and powerful. If it binds an enemy, it can render the victim helpless quite easily.",
+            "One swing of its mighty tail can snap a telephone pole as if it were a matchstick.",
+            "It is recognized by its rock-hard hide and its extended horn. Be careful with the horn, as it contains venom.",
+            "One swing of its mighty tail can snap a telephone pole as if it were a matchstick.",
+            "Nidoking\u2019s thick tail packs enormously destructive power. With one swing, it can topple a metal transmission tower. Once this Pok\u00e9mon goes on a rampage, there is no stopping it.",
+            "Its steel-like hide adds to its powerful tackle. Its horns are so hard, they can pierce a diamond.",
+            "When it goes on a rampage, it\u2019s impossible to control. But in the presence of a Nidoqueen it\u2019s lived with for a long time, Nidoking calms down.",
+            "Nidoking prides itself on its strength. It\u2019s forceful and spirited in battle, making use of its thick tail and diamond-crushing horn.",
+            "One swing of its mighty tail can snap a telephone pole as if it were a matchstick."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131786854371430430/34.png",
+    "discord_sprite": "<:P34:1131973387623862375>"
+}

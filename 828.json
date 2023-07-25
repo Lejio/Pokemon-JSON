@@ -1,0 +1,185 @@
+{
+    "alt-version(s)": [],
+    "name": "Thievul",
+    "Thievul": {
+        "pokedex_data": {
+            "National No.": "0828",
+            "Type": [
+                "Dark"
+            ],
+            "Species": "Fox Poke\u0301mon",
+            "Height": "1.2 m (3\u203211\u2032\u2032)",
+            "Weight": "19.9 kg (43.9 lbs)",
+            "Abilities": {
+                "Run Away": {
+                    "href": "/ability/run-away",
+                    "effect": "Enables a sure getaway from wild Pok\u00e9mon.",
+                    "hidden": false
+                },
+                "Unburden": {
+                    "href": "/ability/unburden",
+                    "effect": "Raises Speed if a held item is used.",
+                    "hidden": false
+                },
+                "Stakeout": {
+                    "href": "/ability/stakeout",
+                    "effect": "Deals double damage to Pok\u00e9mon switching in.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Sp. Def",
+            "Catch rate": "127",
+            "BaseFriendship": "50",
+            "Base Exp.": "159",
+            "Growth Rate": "Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "70",
+                "Min": "250",
+                "Max": "344"
+            },
+            "Attack": {
+                "Base": "58",
+                "Min": "108",
+                "Max": "236"
+            },
+            "Defense": {
+                "Base": "58",
+                "Min": "108",
+                "Max": "236"
+            },
+            "Sp. Atk": {
+                "Base": "87",
+                "Min": "161",
+                "Max": "300"
+            },
+            "Sp. Def": {
+                "Base": "92",
+                "Min": "170",
+                "Max": "311"
+            },
+            "Speed": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Total": "455"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "super-effective",
+                "Psychic": "no effect",
+                "Bug": "super-effective",
+                "Ghost": "not very effective",
+                "Dark": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Nickit",
+                    "nationalNo": "#0827",
+                    "type": [
+                        "Dark"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Thievul",
+                    "nationalNo": "#0828",
+                    "type": [
+                        "Dark"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 18)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Beat Up": "1",
+            "Hone Claws": "1",
+            "Quick Attack": "1",
+            "Tail Whip": "1",
+            "Thief": "1",
+            "Snarl": "12",
+            "Assurance": "16",
+            "Nasty Plot": "22",
+            "Sucker Punch": "28",
+            "Night Slash": "34",
+            "Tail Slap": "40",
+            "Foul Play": "46",
+            "Parting Shot": "52"
+        },
+        "evolution": {
+            "Thief": "60"
+        },
+        "egg": {
+            "Howl": null,
+            "Knock Off": null,
+            "Quick Guard": null,
+            "Torment": null
+        },
+        "null": {
+            "Psychic": "11",
+            "Agility": "12",
+            "Substitute": "20",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Baton Pass": "29",
+            "Crunch": "32",
+            "Shadow Ball": "33",
+            "Taunt": "37",
+            "Dark Pulse": "58",
+            "Nasty Plot": "68",
+            "Grass Knot": "77",
+            "Foul Play": "81",
+            "Play Rough": "90"
+        },
+        "tm": {
+            "Hyper Beam": "08",
+            "Giga Impact": "09",
+            "Dig": "15",
+            "Screech": "16",
+            "Rest": "21",
+            "Thief": "23",
+            "Snore": "24",
+            "Protect": "25",
+            "Attract": "31",
+            "Beat Up": "37",
+            "Facade": "39",
+            "Swift": "40",
+            "Fake Tears": "47",
+            "Mud Shot": "53",
+            "U-turn": "56",
+            "Assurance": "58",
+            "Shadow Claw": "65",
+            "Thunder Fang": "66",
+            "Ice Fang": "67",
+            "Fire Fang": "68",
+            "Round": "76",
+            "Acrobatics": "78",
+            "Tail Slap": "84",
+            "Snarl": "85"
+        }
+    },
+    "entries": {
+        "Thievul": [
+            "It secretly marks potential targets with a scent. By following the scent, it stalks its targets and steals from them when they least expect it.",
+            "With a lithe body and sharp claws, it goes around stealing food and eggs. Boltund is its natural enemy."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793060116844545/828.png",
+    "discord_sprite": "<:P828:1132149232929886208>"
+}

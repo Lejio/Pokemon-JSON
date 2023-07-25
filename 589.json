@@ -1,0 +1,199 @@
+{
+    "alt-version(s)": [],
+    "name": "Escavalier",
+    "Escavalier": {
+        "pokedex_data": {
+            "National No.": "0589",
+            "Type": [
+                "Bug",
+                "Steel"
+            ],
+            "Species": "Cavalry Poke\u0301mon",
+            "Height": "1.0 m (3\u203203\u2032\u2032)",
+            "Weight": "33.0 kg (72.8 lbs)",
+            "Abilities": {
+                "Swarm": {
+                    "href": "/ability/swarm",
+                    "effect": "Powers up Bug-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Shell Armor": {
+                    "href": "/ability/shell-armor",
+                    "effect": "The Pok\u00e9mon is protected against critical hits.",
+                    "hidden": false
+                },
+                "Overcoat": {
+                    "href": "/ability/overcoat",
+                    "effect": "Protects the Pok\u00e9mon from weather damage.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "75",
+            "BaseFriendship": "50",
+            "Base Exp.": "173",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "70",
+                "Min": "250",
+                "Max": "344"
+            },
+            "Attack": {
+                "Base": "135",
+                "Min": "247",
+                "Max": "405"
+            },
+            "Defense": {
+                "Base": "105",
+                "Min": "193",
+                "Max": "339"
+            },
+            "Sp. Atk": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Def": {
+                "Base": "105",
+                "Min": "193",
+                "Max": "339"
+            },
+            "Speed": {
+                "Base": "20",
+                "Min": "40",
+                "Max": "152"
+            },
+            "Total": "495"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Fire": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Poison": "no effect",
+                "Psychic": "not very effective",
+                "Bug": "not very effective",
+                "Dragon": "not very effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Karrablast",
+                    "nationalNo": "#0588",
+                    "type": [
+                        "Bug"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Escavalier",
+                    "nationalNo": "#0589",
+                    "type": [
+                        "Bug",
+                        "Steel"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Trade with Shelmet)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Double-Edge": "1",
+            "Endure": "1",
+            "Fell Stinger": "1",
+            "Flail": "1",
+            "Fury Cutter": "1",
+            "Leer": "1",
+            "Peck": "1",
+            "Quick Guard": "1",
+            "Scary Face": "1",
+            "Take Down": "1",
+            "False Swipe": "12",
+            "Acid Spray": "16",
+            "Headbutt": "20",
+            "Reversal": "24",
+            "Iron Defense": "28",
+            "X-Scissor": "32",
+            "Swords Dance": "36",
+            "Iron Head": "40",
+            "Bug Buzz": "44",
+            "Giga Impact": "48",
+            "Metal Burst": "52"
+        },
+        "egg": {
+            "Bug Bite": null,
+            "Counter": null,
+            "Knock Off": null,
+            "Night Slash": null,
+            "Slash": null
+        },
+        "tm": {
+            "Hyper Beam": "08",
+            "Giga Impact": "09",
+            "Screech": "16",
+            "Rest": "21",
+            "Snore": "24",
+            "Protect": "25",
+            "Scary Face": "26",
+            "Giga Drain": "28",
+            "Attract": "31",
+            "Rain Dance": "33",
+            "Facade": "39",
+            "Revenge": "42",
+            "Round": "76",
+            "Razor Shell": "83",
+            "False Swipe": "94",
+            "Smart Strike": "96",
+            "Brutal Swing": "97"
+        },
+        "null": {
+            "Swords Dance": "00",
+            "Agility": "12",
+            "Substitute": "20",
+            "Reversal": "21",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Megahorn": "28",
+            "Encore": "30",
+            "Taunt": "37",
+            "Iron Defense": "46",
+            "Close Combat": "53",
+            "Poison Jab": "57",
+            "X-Scissor": "60",
+            "Bug Buzz": "61",
+            "Focus Blast": "64",
+            "Energy Ball": "65",
+            "Iron Head": "74",
+            "Drill Run": "87"
+        }
+    },
+    "entries": {
+        "Escavalier": [
+            "They fly around at high speed, striking with their pointed spears. Even when in trouble, they face opponents bravely.",
+            "These Pok\u00e9mon evolve by wearing the shell covering of a Shelmet. The steel armor protects their whole body.",
+            "Wearing the shell covering they stole from Shelmet, they defend themselves and attack with two lances.",
+            "Wearing the shell covering they stole from Shelmet, they defend themselves and attack with two lances.",
+            "These Pok\u00e9mon evolve by wearing the shell covering of a Shelmet. The steel armor protects their whole body.",
+            "They use shells they\u2019ve stolen from Shelmet to arm and protect themselves. They\u2019re very popular Pok\u00e9mon in the Galar region.",
+            "It charges its enemies, lances at the ready. An image of one of its duels is captured in a famous painting of Escavalier clashing with Sirfetch\u2019d."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791192229683350/589.png",
+    "discord_sprite": "<:P589:1132138657185288282>"
+}

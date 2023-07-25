@@ -1,0 +1,235 @@
+{
+    "alt-version(s)": [],
+    "name": "Togekiss",
+    "Togekiss": {
+        "pokedex_data": {
+            "National No.": "0468",
+            "Type": [
+                "Fairy",
+                "Flying"
+            ],
+            "Species": "Jubilee Poke\u0301mon",
+            "Height": "1.5 m (4\u203211\u2032\u2032)",
+            "Weight": "38.0 kg (83.8 lbs)",
+            "Abilities": {
+                "Hustle": {
+                    "href": "/ability/hustle",
+                    "effect": "Boosts the Attack stat, but lowers accuracy.",
+                    "hidden": false
+                },
+                "Serene Grace": {
+                    "href": "/ability/serene-grace",
+                    "effect": "Boosts the likelihood of added effects appearing.",
+                    "hidden": false
+                },
+                "Super Luck": {
+                    "href": "/ability/super-luck",
+                    "effect": "Heightens the critical-hit ratios of moves.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Sp. Atk, 1 Sp. Def",
+            "Catch rate": "30",
+            "BaseFriendship": "50",
+            "Base Exp.": "245",
+            "Growth Rate": "Fast"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "85",
+                "Min": "280",
+                "Max": "374"
+            },
+            "Attack": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Defense": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Sp. Atk": {
+                "Base": "120",
+                "Min": "220",
+                "Max": "372"
+            },
+            "Sp. Def": {
+                "Base": "115",
+                "Min": "211",
+                "Max": "361"
+            },
+            "Speed": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Total": "545"
+        },
+        "defense_stats": {
+            "default": {
+                "Electric": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Poison": "super-effective",
+                "Ground": "no effect",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Dragon": "no effect",
+                "Dark": "not very effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Togepi",
+                    "nationalNo": "#0175",
+                    "type": [
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Togetic",
+                    "nationalNo": "#0176",
+                    "type": [
+                        "Fairy",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(high Friendship)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Togetic",
+                    "nationalNo": "#0176",
+                    "type": [
+                        "Fairy",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Togekiss",
+                    "nationalNo": "#0468",
+                    "type": [
+                        "Fairy",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Shiny Stone)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "After You": "1",
+            "Air Slash": "1",
+            "Ancient Power": "1",
+            "Aura Sphere": "1",
+            "Baton Pass": "1",
+            "Charm": "1",
+            "Double-Edge": "1",
+            "Extreme Speed": "1",
+            "Fairy Wind": "1",
+            "Follow Me": "1",
+            "Growl": "1",
+            "Last Resort": "1",
+            "Life Dew": "1",
+            "Metronome": "1",
+            "Pound": "1",
+            "Safeguard": "1",
+            "Sky Attack": "1",
+            "Sweet Kiss": "1",
+            "Tri Attack": "1",
+            "Wish": "1",
+            "Yawn": "1"
+        },
+        "evolution": {
+            "Air Slash": "75"
+        },
+        "egg": {
+            "Extrasensory": null,
+            "Future Sight": null,
+            "Morning Sun": null,
+            "Peck": null,
+            "Present": null,
+            "Psycho Shift": null,
+            "Stored Power": null
+        },
+        "tm": {
+            "Focus Punch": "01",
+            "Water Pulse": "03",
+            "Work Up": "10",
+            "Sunny Day": "11",
+            "Hyper Beam": "15",
+            "Light Screen": "16",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Safeguard": "20",
+            "Dazzling Gleam": "21",
+            "Solar Beam": "22",
+            "Psychic": "29",
+            "Shadow Ball": "30",
+            "Brick Break": "31",
+            "Double Team": "32",
+            "Reflect": "33",
+            "Shock Wave": "34",
+            "Flamethrower": "35",
+            "Fire Blast": "38",
+            "Aerial Ace": "40",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Steel Wing": "47",
+            "Roost": "51",
+            "Fling": "56",
+            "Endure": "58",
+            "Drain Punch": "60",
+            "Nasty Plot": "63",
+            "Giga Impact": "68",
+            "Flash": "70",
+            "Thunder Wave": "73",
+            "Psych Up": "77",
+            "Sleep Talk": "82",
+            "Dream Eater": "85",
+            "Grass Knot": "86",
+            "Swagger": "87",
+            "Pluck": "88",
+            "Substitute": "90",
+            "Fly": "94",
+            "Defog": "97",
+            "Rock Smash": "98"
+        }
+    },
+    "entries": {
+        "Togekiss": [
+            "It will never appear where there is strife. Its sightings have become rare recently.",
+            "It shares many blessings with people who respect one another\u2019s rights and avoid needless strife.",
+            "As everyone knows, it visits peaceful regions, bringing them gifts of kindness and sweet blessings.",
+            "It shares many blessings with people who respect one another\u2019s rights and avoid needless strife.",
+            "As everyone knows, it visits peaceful regions, bringing them gifts of kindness and sweet blessings.",
+            "It shares many blessings with people who respect one another\u2019s rights and avoid needless strife.",
+            "These Pok\u00e9mon are never seen anywhere near conflict or turmoil. In recent times, they\u2019ve hardly been seen at all.",
+            "Known as a bringer of blessings, it\u2019s been depicted on good-luck charms since ancient times.",
+            "It will never appear where there is strife. Sightings of this Pok\u00e9mon have recently become rare.",
+            "Scant few have ever sighted this Pok\u00e9mon. After studying what literature remains, I am certain Togekiss will reveal itself when peace reigns in the land."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790250319036616/468.png",
+    "discord_sprite": "<:P468:1132133325000163448>"
+}

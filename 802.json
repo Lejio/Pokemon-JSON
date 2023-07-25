@@ -1,0 +1,176 @@
+{
+    "alt-version(s)": [],
+    "name": "Marshadow",
+    "Marshadow": {
+        "pokedex_data": {
+            "National No.": "0802",
+            "Type": [
+                "Fighting",
+                "Ghost"
+            ],
+            "Species": "Gloomdweller Poke\u0301mon",
+            "Height": "0.7 m (2\u203204\u2032\u2032)",
+            "Weight": "22.2 kg (48.9 lbs)",
+            "Abilities": {
+                "Technician": {
+                    "href": "/ability/technician",
+                    "effect": "Powers up the Pok\u00e9mon's weaker moves.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack, 1 Speed",
+            "Catch rate": "3",
+            "BaseFriendship": "0",
+            "Base Exp.": "270",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "90",
+                "Min": "290",
+                "Max": "384"
+            },
+            "Attack": {
+                "Base": "125",
+                "Min": "229",
+                "Max": "383"
+            },
+            "Defense": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Sp. Atk": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Sp. Def": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Speed": {
+                "Base": "125",
+                "Min": "229",
+                "Max": "383"
+            },
+            "Total": "600"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "no effect",
+                "Fighting": "no effect",
+                "Poison": "not very effective",
+                "Flying": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Ghost": "super-effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Copycat": "1",
+            "Counter": "1",
+            "Feint": "1",
+            "Fire Punch": "1",
+            "Ice Punch": "1",
+            "Shadow Sneak": "1",
+            "Thunder Punch": "1",
+            "Role Play": "9",
+            "Shadow Punch": "18",
+            "Force Palm": "27",
+            "Assurance": "36",
+            "Sucker Punch": "45",
+            "Drain Punch": "54",
+            "Psych Up": "63",
+            "Spectral Thief": "72",
+            "Laser Focus": "81",
+            "Endeavor": "90",
+            "Close Combat": "99"
+        },
+        "egg": {
+            "Coaching": null,
+            "Poltergeist": null,
+            "Skitter Smack": null
+        },
+        "null": {
+            "Low Kick": "07",
+            "Agility": "12",
+            "Substitute": "20",
+            "Reversal": "21",
+            "Outrage": "24",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Shadow Ball": "33",
+            "Superpower": "39",
+            "Blaze Kick": "41",
+            "Bulk Up": "48",
+            "Calm Mind": "49",
+            "Close Combat": "53",
+            "Aura Sphere": "56",
+            "Poison Jab": "57",
+            "Focus Blast": "64",
+            "Zen Headbutt": "69",
+            "Iron Head": "74",
+            "Stone Edge": "75",
+            "Grass Knot": "77",
+            "Foul Play": "81",
+            "Work Up": "85",
+            "Throat Chop": "95"
+        },
+        "tm": {
+            "Mega Punch": "00",
+            "Mega Kick": "01",
+            "Fire Punch": "03",
+            "Ice Punch": "04",
+            "Thunder Punch": "05",
+            "Hyper Beam": "08",
+            "Giga Impact": "09",
+            "Rest": "21",
+            "Rock Slide": "22",
+            "Thief": "23",
+            "Snore": "24",
+            "Protect": "25",
+            "Will-O-Wisp": "38",
+            "Facade": "39",
+            "Swift": "40",
+            "Revenge": "42",
+            "Brick Break": "43",
+            "Rock Tomb": "48",
+            "Bounce": "52",
+            "Payback": "57",
+            "Assurance": "58",
+            "Fling": "59",
+            "Drain Punch": "63",
+            "Shadow Claw": "65",
+            "Low Sweep": "75",
+            "Round": "76",
+            "Hex": "77",
+            "Acrobatics": "78",
+            "Phantom Force": "86",
+            "False Swipe": "94"
+        }
+    },
+    "entries": {
+        "Marshadow": [
+            "Able to conceal itself in shadows, it never appears before humans, so its very existence was the stuff of myth.",
+            "It lurks in the shadows of others, copying their movements and powers. This Pok\u00e9mon is craven and cowering.",
+            "It slips into the shadows of others and mimics their powers and movements. As it improves, it becomes stronger than those it\u2019s imitating.",
+            "It sinks into the shadows of people and Pok\u00e9mon, where it can understand their feelings and copy their capabilities.",
+            "By slipping into the shadow of a martial arts master and copying their movements, this Pok\u00e9mon learned the ultimate techniques.",
+            "This Pok\u00e9mon can conceal itself in any shadow, so it went undiscovered for a long time."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792858119163934/802.png",
+    "discord_sprite": "<:P802:1132148092762857472>"
+}

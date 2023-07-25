@@ -1,0 +1,201 @@
+{
+    "alt-version(s)": [],
+    "name": "Silvally",
+    "Silvally": {
+        "pokedex_data": {
+            "National No.": "0773",
+            "Type": [
+                "Normal"
+            ],
+            "Species": "Synthetic Poke\u0301mon",
+            "Height": "2.3 m (7\u203207\u2032\u2032)",
+            "Weight": "100.5 kg (221.6 lbs)",
+            "Abilities": {
+                "RKS System": {
+                    "href": "/ability/rks-system",
+                    "effect": "Changes type depending on held item.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 HP",
+            "Catch rate": "3",
+            "BaseFriendship": "0",
+            "Base Exp.": "257",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "95",
+                "Min": "300",
+                "Max": "394"
+            },
+            "Attack": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Defense": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Sp. Atk": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Sp. Def": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Speed": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Total": "570"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Type:",
+                    "nationalNo": "#0772",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Silvally",
+                    "nationalNo": "#0773",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(high Friendship)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Aerial Ace": "1",
+            "Bite": "1",
+            "Explosion": "1",
+            "Fire Fang": "1",
+            "Ice Fang": "1",
+            "Imprison": "1",
+            "Iron Head": "1",
+            "Multi-Attack": "1",
+            "Poison Fang": "1",
+            "Scary Face": "1",
+            "Tackle": "1",
+            "Thunder Fang": "1",
+            "Double Hit": "15",
+            "Metal Sound": "20",
+            "Crush Claw": "25",
+            "Air Slash": "30",
+            "Tri Attack": "35",
+            "X-Scissor": "40",
+            "Crunch": "45",
+            "Take Down": "50",
+            "Double-Edge": "55",
+            "Parting Shot": "60"
+        },
+        "evolution": {
+            "Multi-Attack": "120"
+        },
+        "egg": {
+            "Terrain Pulse": null
+        },
+        "null": {
+            "Swords Dance": "00",
+            "Flamethrower": "02",
+            "Surf": "04",
+            "Ice Beam": "05",
+            "Thunderbolt": "08",
+            "Tri Attack": "19",
+            "Substitute": "20",
+            "Reversal": "21",
+            "Outrage": "24",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Crunch": "32",
+            "Shadow Ball": "33",
+            "Heat Wave": "36",
+            "Hyper Voice": "42",
+            "Iron Defense": "46",
+            "Dragon Claw": "47",
+            "X-Scissor": "60",
+            "Zen Headbutt": "69",
+            "Flash Cannon": "70",
+            "Iron Head": "74",
+            "Work Up": "85",
+            "Psychic Fangs": "97"
+        },
+        "tm": {
+            "Hyper Beam": "08",
+            "Giga Impact": "09",
+            "Thunder Wave": "14",
+            "Self-Destruct": "20",
+            "Rest": "21",
+            "Rock Slide": "22",
+            "Snore": "24",
+            "Protect": "25",
+            "Scary Face": "26",
+            "Icy Wind": "27",
+            "Steel Wing": "30",
+            "Sandstorm": "32",
+            "Rain Dance": "33",
+            "Sunny Day": "34",
+            "Hail": "35",
+            "Facade": "39",
+            "Swift": "40",
+            "Imprison": "44",
+            "U-turn": "56",
+            "Payback": "57",
+            "Shadow Claw": "65",
+            "Thunder Fang": "66",
+            "Ice Fang": "67",
+            "Fire Fang": "68",
+            "Round": "76",
+            "Snarl": "85",
+            "Air Slash": "95"
+        }
+    },
+    "entries": {
+        "Silvally": [
+            "Its trust in its partner is what awakens it. This Pok\u00e9mon is capable of changing its type, a flexibility that is well displayed in battle.",
+            "Although its name was Type: Null at first, the boy who evolved it into this form gave it the name by which it is now known.",
+            "This is its form once it has awakened and evolved. Freed from its heavy mask, its speed is greatly increased.",
+            "Through the bond it formed with its Trainer, its will was strengthened, and it was able to destroy its control mask.",
+            "A solid bond of trust between this Pok\u00e9mon and its Trainer awakened the strength hidden within Silvally. It can change its type at will.",
+            "The final factor needed to release this Pok\u00e9mon\u2019s true power was a strong bond with a Trainer it trusts."
+        ],
+        "Memory Form": [
+            "It destroyed its own control mask. It has become capable of changing its type by equipping special memories.",
+            "Upon awakening, its RKS System is activated. By employing specific memories, this Pok\u00e9mon can adapt its type to confound its enemies.",
+            "Having been awakened successfully, it can change its type and battle\u2014just like a certain Pok\u00e9mon depicted in legends.",
+            "Its capacity to change types unleashed, it shines silver due to the energy springing forth from within.",
+            "Thanks to its awakened powers, it can change to the <Type> type to match the memory it has equipped.",
+            "It has the ability to change its type based on the memory it\u2019s holding. This is its <Type>-type form."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792635363860642/773.png",
+    "discord_sprite": "<:P773:1132146815576326204>"
+}

@@ -1,0 +1,157 @@
+{
+    "alt-version(s)": [],
+    "name": "Scatterbug",
+    "Scatterbug": {
+        "pokedex_data": {
+            "National No.": "0664",
+            "Type": [
+                "Bug"
+            ],
+            "Species": "Scatterdust Poke\u0301mon",
+            "Height": "0.3 m (1\u203200\u2032\u2032)",
+            "Weight": "2.5 kg (5.5 lbs)",
+            "Abilities": {
+                "Shield Dust": {
+                    "href": "/ability/shield-dust",
+                    "effect": "Blocks the added effects of attacks taken.",
+                    "hidden": false
+                },
+                "Compound Eyes": {
+                    "href": "/ability/compound-eyes",
+                    "effect": "The Pok\u00e9mon's accuracy is boosted.",
+                    "hidden": false
+                },
+                "Friend Guard": {
+                    "href": "/ability/friend-guard",
+                    "effect": "Reduces damage done to allies.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Defense",
+            "Catch rate": "255",
+            "BaseFriendship": "50",
+            "Base Exp.": "40",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "38",
+                "Min": "186",
+                "Max": "280"
+            },
+            "Attack": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Defense": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Atk": {
+                "Base": "27",
+                "Min": "53",
+                "Max": "168"
+            },
+            "Sp. Def": {
+                "Base": "25",
+                "Min": "49",
+                "Max": "163"
+            },
+            "Speed": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Total": "200"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Grass": "not very effective",
+                "Fighting": "not very effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Rock": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Scatterbug",
+                    "nationalNo": "#0664",
+                    "type": [
+                        "Bug"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Spewpa",
+                    "nationalNo": "#0665",
+                    "type": [
+                        "Bug"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 9)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Spewpa",
+                    "nationalNo": "#0665",
+                    "type": [
+                        "Bug"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Vivillon",
+                    "nationalNo": "#0666",
+                    "type": [
+                        "Bug",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 12)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "String Shot": "1",
+            "Tackle": "1",
+            "Stun Spore": "6",
+            "Bug Bite": "15"
+        },
+        "egg": {
+            "Poison Powder": null,
+            "Rage Powder": null
+        },
+        "tm": {
+            "Struggle Bug": "15",
+            "Pounce": "21",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Scatterbug": [
+            "When under attack from bird Pok\u00e9mon, it spews a poisonous black powder that causes paralysis on contact.",
+            "The powder that covers its body regulates its temperature, so it can live in any region or climate.",
+            "Any poison this Pok\u00e9mon takes in is converted into a black powder and secreted. That\u2019s why Scatterbug can eat poisonous leaves and roots.",
+            "This Pok\u00e9mon scatters poisonous powder to repel enemies. It will eat different plants depending on where it lives."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791778413027338/664.png",
+    "discord_sprite": "<:P664:1132141962619797524>"
+}

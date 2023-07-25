@@ -1,0 +1,202 @@
+{
+    "alt-version(s)": [],
+    "name": "Tyrantrum",
+    "Tyrantrum": {
+        "pokedex_data": {
+            "National No.": "0697",
+            "Type": [
+                "Rock",
+                "Dragon"
+            ],
+            "Species": "Despot Poke\u0301mon",
+            "Height": "2.5 m (8\u203202\u2032\u2032)",
+            "Weight": "270.0 kg (595.2 lbs)",
+            "Abilities": {
+                "Strong Jaw": {
+                    "href": "/ability/strong-jaw",
+                    "effect": "Boosts the power of biting moves.",
+                    "hidden": false
+                },
+                "Rock Head": {
+                    "href": "/ability/rock-head",
+                    "effect": "Protects the Pok\u00e9mon from recoil damage.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "182",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "82",
+                "Min": "274",
+                "Max": "368"
+            },
+            "Attack": {
+                "Base": "121",
+                "Min": "222",
+                "Max": "375"
+            },
+            "Defense": {
+                "Base": "119",
+                "Min": "218",
+                "Max": "370"
+            },
+            "Sp. Atk": {
+                "Base": "69",
+                "Min": "128",
+                "Max": "260"
+            },
+            "Sp. Def": {
+                "Base": "59",
+                "Min": "110",
+                "Max": "238"
+            },
+            "Speed": {
+                "Base": "71",
+                "Min": "132",
+                "Max": "265"
+            },
+            "Total": "521"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Fire": "not very effective",
+                "Electric": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "super-effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Dragon": "super-effective",
+                "Steel": "super-effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Tyrunt",
+                    "nationalNo": "#0696",
+                    "type": [
+                        "Rock",
+                        "Dragon"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Tyrantrum",
+                    "nationalNo": "#0697",
+                    "type": [
+                        "Rock",
+                        "Dragon"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 39, Daytime)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Ancient Power": "1",
+            "Roar": "1",
+            "Tackle": "1",
+            "Tail Whip": "1",
+            "Charm": "12",
+            "Bite": "16",
+            "Dragon Tail": "20",
+            "Stomp": "24",
+            "Rock Slide": "28",
+            "Crunch": "32",
+            "Dragon Claw": "36",
+            "Thrash": "42",
+            "Earthquake": "48",
+            "Horn Drill": "54",
+            "Giga Impact": "60",
+            "Head Smash": "66"
+        },
+        "egg": {
+            "Lash Out": null,
+            "Meteor Beam": null,
+            "Scale Shot": null
+        },
+        "null": {
+            "Body Slam": "01",
+            "Earthquake": "10",
+            "Substitute": "20",
+            "Outrage": "24",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Iron Tail": "31",
+            "Crunch": "32",
+            "Superpower": "39",
+            "Hyper Voice": "42",
+            "Iron Defense": "46",
+            "Dragon Claw": "47",
+            "Dragon Dance": "51",
+            "Close Combat": "53",
+            "Dark Pulse": "58",
+            "Dragon Pulse": "62",
+            "Earth Power": "67",
+            "Zen Headbutt": "69",
+            "Iron Head": "74",
+            "Stone Edge": "75",
+            "Stealth Rock": "76",
+            "Play Rough": "90",
+            "High Horsepower": "94",
+            "Psychic Fangs": "97"
+        },
+        "tm": {
+            "Hyper Beam": "08",
+            "Giga Impact": "09",
+            "Dig": "15",
+            "Rest": "21",
+            "Rock Slide": "22",
+            "Snore": "24",
+            "Protect": "25",
+            "Scary Face": "26",
+            "Charm": "29",
+            "Attract": "31",
+            "Sandstorm": "32",
+            "Sunny Day": "34",
+            "Facade": "39",
+            "Brick Break": "43",
+            "Rock Tomb": "48",
+            "Rock Blast": "54",
+            "Assurance": "58",
+            "Thunder Fang": "66",
+            "Ice Fang": "67",
+            "Fire Fang": "68",
+            "Round": "76",
+            "Bulldoze": "81",
+            "Brutal Swing": "97",
+            "Stomping Tantrum": "98",
+            "Breaking Swipe": "99"
+        }
+    },
+    "entries": {
+        "Tyrantrum": [
+            "Thanks to its gargantuan jaws, which could shred thick metal plates as if they were paper, it was invincible in the ancient world it once inhabited.",
+            "Nothing could stop this Pok\u00e9mon 100 million years ago, so it behaved like a king.",
+            "Complete restoration is impossible, allowing room for theories that its entire body was once covered in a feather-like coat.",
+            "The king of the ancient world, it can easily crunch a car with the devastating strength of its enormous jaws.",
+            "This Pok\u00e9mon is from about 100,000,000 years ago. It has the presence of a king, vicious but magnificent.",
+            "A single bite of Tyrantrum\u2019s massive jaws will demolish a car. This Pok\u00e9mon was the king of the ancient world."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792034806628473/697.png",
+    "discord_sprite": "<:P697:1132143412301275317>"
+}

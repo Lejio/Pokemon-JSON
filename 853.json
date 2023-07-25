@@ -1,0 +1,184 @@
+{
+    "alt-version(s)": [],
+    "name": "Grapploct",
+    "Grapploct": {
+        "pokedex_data": {
+            "National No.": "0853",
+            "Type": [
+                "Fighting"
+            ],
+            "Species": "Tantrum Poke\u0301mon",
+            "Height": "1.6 m (5\u203203\u2032\u2032)",
+            "Weight": "39.0 kg (86.0 lbs)",
+            "Abilities": {
+                "Limber": {
+                    "href": "/ability/limber",
+                    "effect": "The Pok\u00e9mon is protected from paralysis.",
+                    "hidden": false
+                },
+                "Technician": {
+                    "href": "/ability/technician",
+                    "effect": "Powers up the Pok\u00e9mon's weaker moves.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "168",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "80",
+                "Min": "270",
+                "Max": "364"
+            },
+            "Attack": {
+                "Base": "118",
+                "Min": "216",
+                "Max": "368"
+            },
+            "Defense": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Sp. Atk": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Def": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Speed": {
+                "Base": "42",
+                "Min": "80",
+                "Max": "201"
+            },
+            "Total": "480"
+        },
+        "defense_stats": {
+            "default": {
+                "Flying": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Dark": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Clobbopus",
+                    "nationalNo": "#0852",
+                    "type": [
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Grapploct",
+                    "nationalNo": "#0853",
+                    "type": [
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(after Taunt learned)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Bind": "1",
+            "Feint": "1",
+            "Leer": "1",
+            "Octazooka": "1",
+            "Octolock": "1",
+            "Rock Smash": "1",
+            "Detect": "15",
+            "Brick Break": "20",
+            "Bulk Up": "25",
+            "Submission": "30",
+            "Taunt": "35",
+            "Reversal": "40",
+            "Superpower": "45",
+            "Topsy-Turvy": "50"
+        },
+        "evolution": {
+            "Octolock": "\u2014"
+        },
+        "egg": {
+            "Circle Throw": null,
+            "Pain Split": null,
+            "Power-Up Punch": null,
+            "Seismic Toss": null,
+            "Soak": null,
+            "Sucker Punch": null
+        },
+        "null": {
+            "Body Slam": "01",
+            "Hydro Pump": "03",
+            "Surf": "04",
+            "Waterfall": "16",
+            "Substitute": "20",
+            "Reversal": "21",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Taunt": "37",
+            "Superpower": "39",
+            "Muddy Water": "45",
+            "Bulk Up": "48",
+            "Close Combat": "53",
+            "Focus Blast": "64",
+            "Work Up": "85",
+            "Liquidation": "98"
+        },
+        "tm": {
+            "Mega Punch": "00",
+            "Ice Punch": "04",
+            "Hyper Beam": "08",
+            "Giga Impact": "09",
+            "Dig": "15",
+            "Rest": "21",
+            "Snore": "24",
+            "Protect": "25",
+            "Scary Face": "26",
+            "Attract": "31",
+            "Whirlpool": "36",
+            "Facade": "39",
+            "Revenge": "42",
+            "Brick Break": "43",
+            "Dive": "45",
+            "Mud Shot": "53",
+            "Brine": "55",
+            "Payback": "57",
+            "Drain Punch": "63",
+            "Round": "76",
+            "Retaliate": "79",
+            "Brutal Swing": "97",
+            "Stomping Tantrum": "98"
+        }
+    },
+    "entries": {
+        "Grapploct": [
+            "A body made up of nothing but muscle makes the grappling moves this Pok\u00e9mon performs with its tentacles tremendously powerful.",
+            "Searching for an opponent to test its skills against, it emerges onto land. Once the battle is over, it returns to the sea."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793250513076355/853.png",
+    "discord_sprite": "<:P853:1132150332332441621>"
+}

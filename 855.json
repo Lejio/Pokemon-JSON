@@ -1,0 +1,179 @@
+{
+    "alt-version(s)": [],
+    "name": "Polteageist",
+    "Polteageist": {
+        "pokedex_data": {
+            "National No.": "0855",
+            "Type": [
+                "Ghost"
+            ],
+            "Species": "Black Tea Poke\u0301mon",
+            "Height": "0.2 m (0\u203208\u2032\u2032)",
+            "Weight": "0.4 kg (0.9 lbs)",
+            "Abilities": {
+                "Weak Armor": {
+                    "href": "/ability/weak-armor",
+                    "effect": "Physical attacks lower Defense and raise Speed.",
+                    "hidden": false
+                },
+                "Cursed Body": {
+                    "href": "/ability/cursed-body",
+                    "effect": "May disable a move used on the Pok\u00e9mon.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Sp. Atk",
+            "Catch rate": "60",
+            "BaseFriendship": "50",
+            "Base Exp.": "178",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "60",
+                "Min": "230",
+                "Max": "324"
+            },
+            "Attack": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Defense": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Atk": {
+                "Base": "134",
+                "Min": "245",
+                "Max": "403"
+            },
+            "Sp. Def": {
+                "Base": "114",
+                "Min": "209",
+                "Max": "359"
+            },
+            "Speed": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Total": "508"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "no effect",
+                "Fighting": "no effect",
+                "Poison": "not very effective",
+                "Bug": "not very effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Sinistea",
+                    "nationalNo": "#0854",
+                    "type": [
+                        "Ghost"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Polteageist",
+                    "nationalNo": "#0855",
+                    "type": [
+                        "Ghost"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Cracked Pot)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Aromatic Mist": "1",
+            "Astonish": "1",
+            "Mega Drain": "1",
+            "Strength Sap": "1",
+            "Withdraw": "1",
+            "Protect": "18",
+            "Sucker Punch": "24",
+            "Sweet Scent": "30",
+            "Giga Drain": "36",
+            "Nasty Plot": "42",
+            "Shadow Ball": "48",
+            "Memento": "54",
+            "Shell Smash": "60",
+            "Curse": "66"
+        },
+        "evolution": {
+            "Teatime": "\u2014"
+        },
+        "egg": {
+            "Ally Switch": null
+        },
+        "tm": {
+            "Protect": "07",
+            "Psybeam": "16",
+            "Confuse Ray": "17",
+            "Facade": "25",
+            "Hex": "29",
+            "Magical Leaf": "33",
+            "Stored Power": "41",
+            "Night Shade": "42",
+            "Endure": "47",
+            "Psyshock": "54",
+            "Foul Play": "62",
+            "Sleep Talk": "70",
+            "Reflect": "74",
+            "Light Screen": "75",
+            "Metronome": "80",
+            "Rest": "85",
+            "Imprison": "92",
+            "Dark Pulse": "94",
+            "Skill Swap": "98",
+            "Substitute": "103",
+            "Will-O-Wisp": "107",
+            "Trick": "109",
+            "Giga Drain": "111",
+            "Shadow Ball": "114",
+            "Psychic": "120",
+            "Calm Mind": "129",
+            "Baton Pass": "132",
+            "Nasty Plot": "140",
+            "Phantom Force": "151",
+            "Giga Impact": "152",
+            "Trick Room": "161",
+            "Hyper Beam": "163",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Antique Form": [
+            "Trainers Polteageist trusts will be allowed to experience its distinctive flavor and aroma firsthand by sampling just a tiny bit of its tea.",
+            "When angered, it launches tea from its body at the offender\u2019s mouth. The tea causes strong chills if swallowed.",
+            "Apparently a Polteageist\u2019s disposition is affected by the type of tea the Pok\u00e9mon came from. What teapot it inhabits makes no difference.",
+            "Though risky to drink, this Pok\u00e9mon\u2019s tea tastes delicious. Gourmets who have no fear of danger drink Polteageist tea day after day."
+        ],
+        "Phony Form": [
+            "This species lives in antique teapots. Most pots are forgeries, but on rare occasions, an authentic work is found.",
+            "Leaving leftover black tea unattended is asking for this Pok\u00e9mon to come along and pour itself into it, turning the tea into a new Polteageist.",
+            "The tea that composes Polteageist\u2019s body has a distinct and enjoyable flavor. Drinking too much, however, can be fatal.",
+            "These Pok\u00e9mon multiply by creeping into teapots and pouring themselves into leftover tea."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793265880989856/855.png",
+    "discord_sprite": "<:P855:1132150419125194752>"
+}

@@ -1,0 +1,227 @@
+{
+    "alt-version(s)": [],
+    "name": "Krokorok",
+    "Krokorok": {
+        "pokedex_data": {
+            "National No.": "0552",
+            "Type": [
+                "Ground",
+                "Dark"
+            ],
+            "Species": "Desert Croc Poke\u0301mon",
+            "Height": "1.0 m (3\u203203\u2032\u2032)",
+            "Weight": "33.4 kg (73.6 lbs)",
+            "Abilities": {
+                "Intimidate": {
+                    "href": "/ability/intimidate",
+                    "effect": "Lowers the foe's Attack stat.",
+                    "hidden": false
+                },
+                "Moxie": {
+                    "href": "/ability/moxie",
+                    "effect": "Boosts Attack after knocking out any Pok\u00e9mon.",
+                    "hidden": false
+                },
+                "Anger Point": {
+                    "href": "/ability/anger-point",
+                    "effect": "Maxes Attack after taking a critical hit.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "90",
+            "BaseFriendship": "50",
+            "Base Exp.": "123",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "60",
+                "Min": "230",
+                "Max": "324"
+            },
+            "Attack": {
+                "Base": "82",
+                "Min": "152",
+                "Max": "289"
+            },
+            "Defense": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Sp. Atk": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Sp. Def": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Speed": {
+                "Base": "74",
+                "Min": "137",
+                "Max": "271"
+            },
+            "Total": "351"
+        },
+        "defense_stats": {
+            "default": {
+                "Water": "super-effective",
+                "Electric": "no effect",
+                "Grass": "super-effective",
+                "Ice": "super-effective",
+                "Fighting": "super-effective",
+                "Poison": "not very effective",
+                "Psychic": "no effect",
+                "Bug": "super-effective",
+                "Rock": "not very effective",
+                "Ghost": "not very effective",
+                "Dark": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Sandile",
+                    "nationalNo": "#0551",
+                    "type": [
+                        "Ground",
+                        "Dark"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Krokorok",
+                    "nationalNo": "#0552",
+                    "type": [
+                        "Ground",
+                        "Dark"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 29)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Krokorok",
+                    "nationalNo": "#0552",
+                    "type": [
+                        "Ground",
+                        "Dark"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Krookodile",
+                    "nationalNo": "#0553",
+                    "type": [
+                        "Ground",
+                        "Dark"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 40)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Hone Claws": "1",
+            "Leer": "1",
+            "Power Trip": "1",
+            "Sand Attack": "1",
+            "Sand Tomb": "9",
+            "Scary Face": "12",
+            "Bite": "15",
+            "Torment": "18",
+            "Dig": "21",
+            "Swagger": "24",
+            "Crunch": "27",
+            "Sandstorm": "32",
+            "Foul Play": "35",
+            "Earthquake": "42",
+            "Thrash": "47"
+        },
+        "egg": {
+            "Aqua Tail": null,
+            "Counter": null,
+            "Double-Edge": null,
+            "Spite": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Mud-Slap": "05",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Fire Fang": "08",
+            "Thunder Fang": "09",
+            "Low Kick": "12",
+            "Thief": "18",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Bulldoze": "28",
+            "Snarl": "30",
+            "Mud Shot": "35",
+            "Rock Tomb": "36",
+            "Low Sweep": "39",
+            "Fling": "43",
+            "Dragon Tail": "44",
+            "Endure": "47",
+            "Sandstorm": "51",
+            "Dig": "55",
+            "Brick Break": "58",
+            "Shadow Claw": "61",
+            "Foul Play": "62",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Dragon Claw": "78",
+            "Grass Knot": "81",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Taunt": "87",
+            "Dark Pulse": "94",
+            "Substitute": "103",
+            "Crunch": "108",
+            "Stealth Rock": "116",
+            "Helping Hand": "130",
+            "Earth Power": "133",
+            "Sludge Bomb": "148",
+            "Earthquake": "149",
+            "Stone Edge": "150",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Krokorok": [
+            "They live in groups of a few individuals. Protective membranes shield their eyes from sandstorms.",
+            "The special membrane covering its eyes can sense the heat of objects, so it can see its surroundings even in darkness.",
+            "Protected by thin membranes, their eyes can see even in the dead of night. They live in groups of a few individuals.",
+            "They live in groups of a few individuals. Protective membranes shield their eyes from sandstorms.",
+            "The special membrane covering its eyes can sense the heat of objects, so it can see its surroundings even in darkness.",
+            "They move in groups of a few individuals. A female is often the leader of the group, and the males will gather food.",
+            "Thanks to the special membrane covering its eyes, it can see its surroundings clearly, even in the middle of the night.",
+            "Krokorok really hates it when its body gets cold. On nights when the temperature drops, it digs deep into the desert sands.",
+            "It buries some of its prey in the sand to use as emergency meals when its hunts are unsuccessful.",
+            "Krokorok has specialized eyes that enable it to see in the dark. This ability lets Krokorok hunt in the dead of night without getting lost.",
+            "Although this Pok\u00e9mon has specialized eyes that allow it to see in the dark, Krokorok won\u2019t move much at night\u2014the desert gets cold after sunset.",
+            "Protected by thin membranes, their eyes can see even in the dead of night. They live in groups of a few individuals.",
+            "Thanks to the special membrane covering its eyes, it can see its surroundings clearly, even in the middle of the night."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790902537498714/552.png",
+    "discord_sprite": "<:P552:1132137027584921642>"
+}

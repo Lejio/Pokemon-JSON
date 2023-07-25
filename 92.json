@@ -1,0 +1,233 @@
+{
+    "alt-version(s)": [],
+    "name": "Gastly",
+    "Gastly": {
+        "pokedex_data": {
+            "National No.": "0092",
+            "Type": [
+                "Ghost",
+                "Poison"
+            ],
+            "Species": "Gas Poke\u0301mon",
+            "Height": "1.3 m (4\u203203\u2032\u2032)",
+            "Weight": "0.1 kg (0.2 lbs)",
+            "Abilities": {
+                "Levitate": {
+                    "href": "/ability/levitate",
+                    "effect": "Gives immunity to Ground type moves.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Sp. Atk",
+            "Catch rate": "190",
+            "BaseFriendship": "50",
+            "Base Exp.": "62",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "30",
+                "Min": "170",
+                "Max": "264"
+            },
+            "Attack": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Defense": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Sp. Atk": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Sp. Def": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Speed": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Total": "310"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "no effect",
+                "Grass": "not very effective",
+                "Fighting": "no effect",
+                "Poison": "not very effective",
+                "Ground": "no effect",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Gastly",
+                    "nationalNo": "#0092",
+                    "type": [
+                        "Ghost",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Haunter",
+                    "nationalNo": "#0093",
+                    "type": [
+                        "Ghost",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 25)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Haunter",
+                    "nationalNo": "#0093",
+                    "type": [
+                        "Ghost",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Gengar",
+                    "nationalNo": "#0094",
+                    "type": [
+                        "Ghost",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Trade)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Confuse Ray": "1",
+            "Lick": "1",
+            "Hypnosis": "4",
+            "Mean Look": "8",
+            "Payback": "12",
+            "Spite": "16",
+            "Curse": "20",
+            "Hex": "24",
+            "Night Shade": "28",
+            "Sucker Punch": "32",
+            "Dark Pulse": "36",
+            "Shadow Ball": "40",
+            "Destiny Bond": "44",
+            "Dream Eater": "48"
+        },
+        "egg": {
+            "Astonish": null,
+            "Clear Smog": null,
+            "Disable": null,
+            "Haze": null,
+            "Perish Song": null,
+            "Reflect Type": null,
+            "Smog": null,
+            "Toxic": null
+        },
+        "tm": {
+            "Scary Face": "06",
+            "Protect": "07",
+            "Acid Spray": "13",
+            "Confuse Ray": "17",
+            "Thief": "18",
+            "Facade": "25",
+            "Hex": "29",
+            "Icy Wind": "34",
+            "Night Shade": "42",
+            "Venoshock": "45",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Foul Play": "62",
+            "Fire Punch": "67",
+            "Thunder Punch": "68",
+            "Ice Punch": "69",
+            "Sleep Talk": "70",
+            "Dazzling Gleam": "79",
+            "Poison Jab": "83",
+            "Rest": "85",
+            "Taunt": "87",
+            "Imprison": "92",
+            "Dark Pulse": "94",
+            "Skill Swap": "98",
+            "Gunk Shot": "102",
+            "Substitute": "103",
+            "Will-O-Wisp": "107",
+            "Trick": "109",
+            "Giga Drain": "111",
+            "Shadow Ball": "114",
+            "Energy Ball": "119",
+            "Psychic": "120",
+            "Thunderbolt": "126",
+            "Nasty Plot": "140",
+            "Sludge Bomb": "148",
+            "Trick Room": "161",
+            "Thunder": "166",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Gastly": [
+            "Almost invisible, this gaseous pok\u00e9mon cloaks the target and puts it to sleep without notice.",
+            "Said to appear in decrepit, deserted buildings. It has no real shape as it appears to be made of a gas.",
+            "With its gas-like body, it can sneak into any place it desires. However, it can be blown away by wind.",
+            "Its thin body is made of gas. It can envelop an opponent of any size and cause suffocation.",
+            "It wraps its opponent in its gas-like body, slowly weakening its prey by poisoning it through the skin.",
+            "GASTLY is largely composed of gaseous matter. When exposed to a strong wind, the gaseous body quickly dwindles away. Groups of this pok\u00e9mon cluster under the eaves of houses to escape the ravages of wind.",
+            "A being that exists as a thin gas. It can topple an Indian elephant by enveloping the prey in two seconds.",
+            "Almost invisible, this gaseous pok\u00e9mon cloaks the target and puts it to sleep without notice.",
+            "When exposed to a strong wind, a GASTLY\u2019s gaseous body quickly dwindles away. They cluster under the eaves of houses to escape the ravages of wind.",
+            "This Pok\u00e9mon\u2019s body is 95% made up of gases, which are blown away by strong gusts of wind.",
+            "A Pok\u00e9mon born from poison gases. It defeats even the largest foes by enveloping them in gas.",
+            "Born from gases, anyone would faint if engulfed by its gaseous body, which contains poison.",
+            "With its gas-like body, it can sneak into any place it desires. However, it can be blown away by wind.",
+            "Its body is made of gas. Despite lacking substance, it can envelop an opponent of any size and cause suffocation.",
+            "Born from gases, anyone would faint if engulfed by its gaseous body, which contains poison.",
+            "Its body is made of gas. Despite lacking substance, it can envelop an opponent of any size and cause suffocation.",
+            "Born from gases, anyone would faint if engulfed by its gaseous body, which contains poison.",
+            "Gastly is largely composed of gaseous matter. When exposed to a strong wind, the gaseous body quickly dwindles away. Groups of this Pok\u00e9mon cluster under the eaves of houses to escape the ravages of wind.",
+            "Should a strange light be seen flickering in an abandoned building, Gastly is lurking there.",
+            "Although Gastly is barely visible, when it\u2019s near, a faint sweet smell lingers.",
+            "It\u2019s said that gas emanating from a graveyard was possessed by the grievances of the deceased and thus became a Pok\u00e9mon.",
+            "Poisonous gas comprises 95% of its body. It\u2019s said that the remaining 5% is made up of the souls of those who died from the gas.",
+            "Said to appear in decrepit, deserted buildings. It has no real shape, as it appears to be made of a gas.",
+            "Born from gases, anyone would faint if engulfed by its gaseous body, which contains poison.",
+            "With its gas-like body, it can sneak into any place it desires. However, it can be blown away by wind.",
+            "This Pok\u00e9mon\u2019s body is 95 percent made up of gases. The Pok\u00e9mon can be blown away by strong gusts of wind.",
+            "It\u2019s a Pok\u00e9mon born from poison gases. It defeats even the largest foes by enveloping them in gas.",
+            "Gaseous and completely impalpable. Also highly dangerous\u2014 inhaling part of its poisonous body will cause one to faint instantly.",
+            "It wraps its opponent in its gas-like body, slowly weakening its prey by poisoning it through the skin.",
+            "Its body is made of gas. Despite lacking substance, it can envelop an opponent of any size and cause suffocation."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787309860261950/92.png",
+    "discord_sprite": "<:P92:1132116771445411990>"
+}

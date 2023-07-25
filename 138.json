@@ -1,0 +1,204 @@
+{
+    "alt-version(s)": [],
+    "name": "Omanyte",
+    "Omanyte": {
+        "pokedex_data": {
+            "National No.": "0138",
+            "Type": [
+                "Rock",
+                "Water"
+            ],
+            "Species": "Spiral Poke\u0301mon",
+            "Height": "0.4 m (1\u203204\u2032\u2032)",
+            "Weight": "7.5 kg (16.5 lbs)",
+            "Abilities": {
+                "Swift Swim": {
+                    "href": "/ability/swift-swim",
+                    "effect": "Boosts the Pok\u00e9mon's Speed in rain.",
+                    "hidden": false
+                },
+                "Shell Armor": {
+                    "href": "/ability/shell-armor",
+                    "effect": "The Pok\u00e9mon is protected against critical hits.",
+                    "hidden": false
+                },
+                "Weak Armor": {
+                    "href": "/ability/weak-armor",
+                    "effect": "Physical attacks lower Defense and raise Speed.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Defense",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "71",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "35",
+                "Min": "180",
+                "Max": "274"
+            },
+            "Attack": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Defense": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Sp. Atk": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Sp. Def": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Speed": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Total": "355"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Fire": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Omanyte",
+                    "nationalNo": "#0138",
+                    "type": [
+                        "Rock",
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Omastar",
+                    "nationalNo": "#0139",
+                    "type": [
+                        "Rock",
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 40)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Bind": "1",
+            "Withdraw": "1",
+            "Rollout": "5",
+            "Sand Attack": "10",
+            "Water Gun": "15",
+            "Leer": "20",
+            "Mud Shot": "25",
+            "Ancient Power": "30",
+            "Brine": "35",
+            "Protect": "41",
+            "Rock Blast": "45",
+            "Surf": "50",
+            "Shell Smash": "55",
+            "Hydro Pump": "60"
+        },
+        "egg": {
+            "Aurora Beam": null,
+            "Bite": null,
+            "Bubble Beam": null,
+            "Haze": null,
+            "Knock Off": null,
+            "Muddy Water": null,
+            "Reflect Type": null,
+            "Slam": null,
+            "Spikes": null,
+            "Supersonic": null,
+            "Tickle": null,
+            "Toxic Spikes": null,
+            "Whirlpool": null
+        },
+        "tm": {
+            "Water Pulse": "03",
+            "Hail": "07",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Double Team": "32",
+            "Sandstorm": "37",
+            "Rock Tomb": "39",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Scald": "49",
+            "Brine": "55",
+            "Endure": "58",
+            "Rock Polish": "69",
+            "Gyro Ball": "74",
+            "Stealth Rock": "76",
+            "Rock Slide": "80",
+            "Sleep Talk": "82",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Surf": "95",
+            "Rock Smash": "98",
+            "Waterfall": "99"
+        }
+    },
+    "entries": {
+        "Omanyte": [
+            "Although long extinct, in rare cases, it can be genetically resurrected from fossils.",
+            "An ancient pok\u00e9mon that was recovered from a fossil. It swims by cleverly twisting its 10 tentacles about.",
+            "Revived from an ancient fossil, this pok\u00e9mon uses air stored in its shell to sink and rise in water.",
+            "This pok\u00e9mon from ancient times is said to have navigated the sea by adeptly twisting its 10 tentacles.",
+            "In prehistoric times, it swam on the sea floor, eating plankton. Its fossils are sometimes found.",
+            "OMANYTE is one of the ancient and long-since-extinct pok\u00e9mon that have been regenerated from fossils by people. If attacked by an enemy, it withdraws itself inside its hard shell.",
+            "A prehistoric pok\u00e9mon that lived in the primordial sea, it swims by twisting its 10 tentacles about.",
+            "Although long extinct, in rare cases, it can be genetically regenerated from fossils.",
+            "One of the ancient and long-since-extinct pok\u00e9mon that have been regenerated from fossils by humans. If attacked, it withdraws into its hard shell.",
+            "A Pok\u00e9mon that was resurrected from a fossil using modern science. It swam in ancient seas.",
+            "Revived from an ancient fossil, this Pok\u00e9mon uses air stored in its shell to sink and rise in water.",
+            "This Pok\u00e9mon from ancient times is said to have navigated the sea by adeptly twisting its 10 tentacles.",
+            "A Pok\u00e9mon that was resurrected from a fossil using modern science. It swam in ancient seas.",
+            "A prehistoric Pok\u00e9mon that lived in the primordial sea, it swims by twisting its 10 tentacles about.",
+            "Revived from an ancient fossil, this Pok\u00e9mon uses air stored in its shell to sink and rise in water.",
+            "Omanyte is one of the ancient and long-since-extinct Pok\u00e9mon that have been regenerated from fossils by people. If attacked by an enemy, it withdraws itself inside its hard shell.",
+            "Omanyte lived in the seas of antiquity. Its fossils have been found bearing bite marks from Archeops, so apparently Archeops preyed on it.",
+            "It was restored from an ancient fossil. Those Helix Fossils are excavated from areas that were once oceans long, long ago.",
+            "An ancient Pok\u00e9mon that was recovered from a fossil. It swam by cleverly twisting its 10 tentacles about.",
+            "Because some Omanyte manage to escape after being restored or are released into the wild by people, this species is becoming a problem.",
+            "This Pok\u00e9mon is a member of an ancient, extinct species. Omanyte paddles through water with its 10 tentacles, looking like it\u2019s just drifting along.",
+            "It\u2019s a Pok\u00e9mon that was resurrected from a fossil using modern science. It swam in ancient seas."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787667479216229/138.png",
+    "discord_sprite": "<:P138:1132118805900972062>"
+}

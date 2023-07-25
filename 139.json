@@ -1,0 +1,212 @@
+{
+    "alt-version(s)": [],
+    "name": "Omastar",
+    "Omastar": {
+        "pokedex_data": {
+            "National No.": "0139",
+            "Type": [
+                "Rock",
+                "Water"
+            ],
+            "Species": "Spiral Poke\u0301mon",
+            "Height": "1.0 m (3\u203203\u2032\u2032)",
+            "Weight": "35.0 kg (77.2 lbs)",
+            "Abilities": {
+                "Swift Swim": {
+                    "href": "/ability/swift-swim",
+                    "effect": "Boosts the Pok\u00e9mon's Speed in rain.",
+                    "hidden": false
+                },
+                "Shell Armor": {
+                    "href": "/ability/shell-armor",
+                    "effect": "The Pok\u00e9mon is protected against critical hits.",
+                    "hidden": false
+                },
+                "Weak Armor": {
+                    "href": "/ability/weak-armor",
+                    "effect": "Physical attacks lower Defense and raise Speed.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Defense",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "173",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "70",
+                "Min": "250",
+                "Max": "344"
+            },
+            "Attack": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Defense": {
+                "Base": "125",
+                "Min": "229",
+                "Max": "383"
+            },
+            "Sp. Atk": {
+                "Base": "115",
+                "Min": "211",
+                "Max": "361"
+            },
+            "Sp. Def": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Speed": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Total": "495"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Fire": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Omanyte",
+                    "nationalNo": "#0138",
+                    "type": [
+                        "Rock",
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Omastar",
+                    "nationalNo": "#0139",
+                    "type": [
+                        "Rock",
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 40)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Bind": "1",
+            "Crunch": "1",
+            "Rollout": "1",
+            "Sand Attack": "1",
+            "Withdraw": "1",
+            "Water Gun": "15",
+            "Leer": "20",
+            "Mud Shot": "25",
+            "Ancient Power": "30",
+            "Brine": "35",
+            "Protect": "43",
+            "Rock Blast": "49",
+            "Surf": "56",
+            "Shell Smash": "63",
+            "Hydro Pump": "70"
+        },
+        "evolution": {
+            "Crunch": "80"
+        },
+        "egg": {
+            "Aurora Beam": null,
+            "Bite": null,
+            "Bubble Beam": null,
+            "Haze": null,
+            "Knock Off": null,
+            "Muddy Water": null,
+            "Reflect Type": null,
+            "Slam": null,
+            "Spikes": null,
+            "Supersonic": null,
+            "Tickle": null,
+            "Toxic Spikes": null,
+            "Whirlpool": null
+        },
+        "tm": {
+            "Water Pulse": "03",
+            "Hail": "07",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Double Team": "32",
+            "Sandstorm": "37",
+            "Rock Tomb": "39",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Scald": "49",
+            "Brine": "55",
+            "Endure": "58",
+            "Giga Impact": "68",
+            "Rock Polish": "69",
+            "Stone Edge": "71",
+            "Gyro Ball": "74",
+            "Stealth Rock": "76",
+            "Rock Slide": "80",
+            "Sleep Talk": "82",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Surf": "95",
+            "Rock Smash": "98",
+            "Waterfall": "99",
+            "Rock Climb": "100"
+        }
+    },
+    "entries": {
+        "Omastar": [
+            "A prehistoric pok\u00e9mon that died out when its heavy shell made it impossible to catch prey.",
+            "Sharp beaks ring its mouth. Its shell was too big for it to move freely, so it became extinct.",
+            "Apparently, it cracked SHELLDER\u2019s shell with its sharp fangs and sucked out the insides.",
+            "Once wrapped around its prey, it never lets go. It eats the prey by tearing at it with sharp fangs.",
+            "Its heavy shell allowed it to reach only nearby food. This could be the reason it is extinct.",
+            "OMASTAR uses its tentacles to capture its prey. It is believed to have become extinct because its shell grew too large and heavy, causing its movements to become too slow and ponderous.",
+            "Its tentacles are highly developed as if they are hands and feet. As soon as it ensnares prey, it bites.",
+            "Despite having strong fangs and tentacles, it went extinct when its heavy shell made it unable to catch prey.",
+            "An OMASTAR uses its tentacles to capture its prey. It is believed to have become extinct because its shell grew too large, making its movements slow and ponderous.",
+            "It is thought that this Pok\u00e9mon became extinct because its spiral shell grew too large.",
+            "Apparently, it cracked SHELLDER\u2019s shell with its sharp fangs and sucked out the insides.",
+            "Once wrapped around its prey, it never lets go. It eats the prey by tearing at it with sharp fangs.",
+            "It is thought that this Pok\u00e9mon became extinct because its spiral shell grew too large.",
+            "Its tentacles are highly developed as if they are hands and feet. As soon as it ensnares prey, it bites.",
+            "Once wrapped around its prey, it never lets go. It eats the prey by tearing at it with sharp fangs.",
+            "Omastar uses its tentacles to capture its prey. It is believed to have become extinct because its shell grew too large and heavy, causing its movements to become too slow and ponderous.",
+            "Its heavy shell is thought to be the reason this ancient Pok\u00e9mon died out. It\u2019s apparently a distant ancestor of Octillery.",
+            "It wraps its prey in its tentacles to immobilize them and then finishes them off with its sharp fangs.",
+            "Its sharp beak rings its mouth. Its shell was too big for it to move freely, so it became extinct.",
+            "Weighed down by a large and heavy shell, Omastar couldn\u2019t move very fast. Some say it went extinct because it was unable to catch food.",
+            "Omastar\u2019s sharp fangs could crush rock, but the Pok\u00e9mon can attack only the prey that come within reach of its tentacles.",
+            "It is thought that this Pok\u00e9mon became extinct because its spiral shell grew too large."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787675876204694/139.png",
+    "discord_sprite": "<:P139:1132118850998112407>"
+}

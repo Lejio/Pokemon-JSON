@@ -1,0 +1,227 @@
+{
+    "alt-version(s)": [],
+    "name": "Lanturn",
+    "Lanturn": {
+        "pokedex_data": {
+            "National No.": "0171",
+            "Type": [
+                "Water",
+                "Electric"
+            ],
+            "Species": "Light Poke\u0301mon",
+            "Height": "1.2 m (3\u203211\u2032\u2032)",
+            "Weight": "22.5 kg (49.6 lbs)",
+            "Abilities": {
+                "Volt Absorb": {
+                    "href": "/ability/volt-absorb",
+                    "effect": "Restores HP if hit by an Electric-type move.",
+                    "hidden": false
+                },
+                "Illuminate": {
+                    "href": "/ability/illuminate",
+                    "effect": "Raises the likelihood of meeting wild Pok\u00e9mon.",
+                    "hidden": false
+                },
+                "Water Absorb": {
+                    "href": "/ability/water-absorb",
+                    "effect": "Restores HP if hit by a Water-type move.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 HP",
+            "Catch rate": "75",
+            "BaseFriendship": "50",
+            "Base Exp.": "161",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "125",
+                "Min": "360",
+                "Max": "454"
+            },
+            "Attack": {
+                "Base": "58",
+                "Min": "108",
+                "Max": "236"
+            },
+            "Defense": {
+                "Base": "58",
+                "Min": "108",
+                "Max": "236"
+            },
+            "Sp. Atk": {
+                "Base": "76",
+                "Min": "141",
+                "Max": "276"
+            },
+            "Sp. Def": {
+                "Base": "76",
+                "Min": "141",
+                "Max": "276"
+            },
+            "Speed": {
+                "Base": "67",
+                "Min": "125",
+                "Max": "256"
+            },
+            "Total": "460"
+        },
+        "defense_stats": {
+            "Volt Absorb ability": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "no effect",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Steel": "not very effective"
+            },
+            "Illuminate ability": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Steel": "not very effective"
+            },
+            "Water Absorb ability": {
+                "Fire": "not very effective",
+                "Water": "no effect",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Chinchou",
+                    "nationalNo": "#0170",
+                    "type": [
+                        "Water",
+                        "Electric"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Lanturn",
+                    "nationalNo": "#0171",
+                    "type": [
+                        "Water",
+                        "Electric"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 27)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Eerie Impulse": "1",
+            "Electro Ball": "1",
+            "Spit Up": "1",
+            "Stockpile": "1",
+            "Supersonic": "1",
+            "Swallow": "1",
+            "Thunder Wave": "1",
+            "Water Gun": "1",
+            "Bubble Beam": "12",
+            "Confuse Ray": "16",
+            "Spark": "20",
+            "Charge": "24",
+            "Discharge": "30",
+            "Aqua Ring": "36",
+            "Flail": "42",
+            "Take Down": "48",
+            "Hydro Pump": "54"
+        },
+        "evolution": {
+            "Spit Up": "\u2014",
+            "Stockpile": "\u2014",
+            "Swallow": "\u2014"
+        },
+        "egg": {
+            "Agility": null,
+            "Amnesia": null,
+            "Flail": null,
+            "Mist": null,
+            "Psybeam": null,
+            "Screech": null,
+            "Soak": null,
+            "Whirlpool": null
+        },
+        "tm": {
+            "Water Pulse": "03",
+            "Hail": "07",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Dazzling Gleam": "21",
+            "Thunderbolt": "24",
+            "Thunder": "25",
+            "Double Team": "32",
+            "Shock Wave": "34",
+            "Facade": "42",
+            "Volt Switch": "43",
+            "Rest": "44",
+            "Attract": "45",
+            "Scald": "49",
+            "Brine": "55",
+            "Charge Beam": "57",
+            "Endure": "58",
+            "Giga Impact": "68",
+            "Flash": "70",
+            "Thunder Wave": "73",
+            "Sleep Talk": "82",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Surf": "95",
+            "Waterfall": "99"
+        }
+    },
+    "entries": {
+        "Lanturn": [
+            "The light it emits is so bright that it can illuminate the sea\u2019s surface from a depth of over three miles.",
+            "It blinds prey with an intense burst of light, then swallows the immobilized prey in a single gulp.",
+            "This pok\u00e9mon uses the bright part of its body, which changed from a dorsal fin, to lure prey.",
+            "LANTURN is nicknamed \u201cthe deep-sea star\u201d for its illuminated antenna. This pok\u00e9mon produces light by causing a chemical reaction between bacteria and its bodily fluids inside the antenna.",
+            "LANTURN is known to emit light. If you peer down into the dark sea from a ship at night, you can sometimes see this pok\u00e9mon\u2019s light rising from the depths where it swims. It gives the sea an appearance of a starlit night.",
+            "It blinds prey with an intense burst of light, then swallows the immobilized prey in a single gulp.",
+            "The light it emits is so bright that it can illuminate the sea\u2019s surface from a depth of over three miles.",
+            "The light-emitting orbs on its back are very bright. They are formed from a part of its dorsal fin. This pok\u00e9mon illuminates the inky darkness of deep seas.",
+            "LANTURN\u2019s light can shine up from great depths. It is nicknamed \u201cThe Deep-Sea Star.\u201d",
+            "The light it emits is so bright that it can illuminate the sea\u2019s surface from a depth of over three miles.",
+            "It blinds prey with an intense burst of light. With the prey incapacitated, the Pok\u00e9mon swallows it in a single gulp.",
+            "Lanturn\u2019s light can shine up from great depths. It is nicknamed \u201cThe Deep-Sea Star.\u201d",
+            "Lanturn\u2019s light can shine up from great depths. It is nicknamed \u201cThe Deep-Sea Star.\u201d",
+            "It blinds prey with an intense burst of light. With the prey incapacitated, the Pok\u00e9mon swallows it in a single gulp.",
+            "Lanturn is nicknamed \u201cthe deep-sea star\u201d for its illuminated antenna. This Pok\u00e9mon produces light by causing a chemical reaction between bacteria and its bodily fluids inside the antenna.",
+            "Lanturn is known to emit light. If you peer down into the dark sea from a ship at night, you can sometimes see this Pok\u00e9mon\u2019s light rising from the depths where it swims. It gives the sea an appearance of a starlit night.",
+            "Should you peer into the ocean at night and see a light shining like the stars, that is Lanturn.",
+            "This Pok\u00e9mon flashes a bright light that blinds its prey. This creates an opening for it to deliver an electrical attack.",
+            "When the bacteria living inside its antennae absorb Lanturn\u2019s bodily fluids, a strong luminescent effect is produced.",
+            "It lives far down in the depths of the ocean. It blinds its prey with light, using the moment they\u2019re dazzled to swallow them whole.",
+            "The light it emits is so bright that it can illuminate the sea\u2019s surface from a depth of over three miles.",
+            "This Pok\u00e9mon flashes a bright light that blinds its prey. This creates an opening for it to deliver an electrical attack.",
+            "Lanturn\u2019s light can shine up from great depths. It is nicknamed the Deep-Sea Star."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787925894463599/171.png",
+    "discord_sprite": "<:P171:1132120259948720208>"
+}

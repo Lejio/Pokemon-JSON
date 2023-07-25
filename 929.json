@@ -1,0 +1,189 @@
+{
+    "alt-version(s)": [],
+    "name": "Dolliv",
+    "Dolliv": {
+        "pokedex_data": {
+            "National No.": "0929",
+            "Type": [
+                "Grass",
+                "Normal"
+            ],
+            "Species": "Olive Poke\u0301mon",
+            "Height": "0.6 m (2\u203200\u2032\u2032)",
+            "Weight": "11.9 kg (26.2 lbs)",
+            "Abilities": {
+                "Early Bird": {
+                    "href": "/ability/early-bird",
+                    "effect": "The Pok\u00e9mon awakens quickly from sleep.",
+                    "hidden": false
+                },
+                "Harvest": {
+                    "href": "/ability/harvest",
+                    "effect": "May create another Berry after one is used.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Sp. Atk",
+            "Catch rate": "120",
+            "BaseFriendship": "50",
+            "Base Exp.": "124",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "52",
+                "Min": "214",
+                "Max": "308"
+            },
+            "Attack": {
+                "Base": "53",
+                "Min": "99",
+                "Max": "225"
+            },
+            "Defense": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Atk": {
+                "Base": "78",
+                "Min": "144",
+                "Max": "280"
+            },
+            "Sp. Def": {
+                "Base": "78",
+                "Min": "144",
+                "Max": "280"
+            },
+            "Speed": {
+                "Base": "33",
+                "Min": "63",
+                "Max": "181"
+            },
+            "Total": "354"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "super-effective",
+                "Poison": "super-effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Bug": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Smoliv",
+                    "nationalNo": "#0928",
+                    "type": [
+                        "Grass",
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Dolliv",
+                    "nationalNo": "#0929",
+                    "type": [
+                        "Grass",
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 25)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Dolliv",
+                    "nationalNo": "#0929",
+                    "type": [
+                        "Grass",
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Arboliva",
+                    "nationalNo": "#0930",
+                    "type": [
+                        "Grass",
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 35)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Sweet Scent": "1",
+            "Tackle": "1",
+            "Absorb": "5",
+            "Growth": "7",
+            "Razor Leaf": "10",
+            "Helping Hand": "13",
+            "Flail": "16",
+            "Mega Drain": "20",
+            "Grassy Terrain": "23",
+            "Seed Bomb": "29",
+            "Energy Ball": "34",
+            "Leech Seed": "37",
+            "Terrain Pulse": "42"
+        },
+        "egg": {
+            "Memento": null,
+            "Strength Sap": null,
+            "Synthesis": null,
+            "Weather Ball": null
+        },
+        "tm": {
+            "Charm": "02",
+            "Protect": "07",
+            "Trailblaze": "20",
+            "Facade": "25",
+            "Swift": "32",
+            "Magical Leaf": "33",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Bullet Seed": "56",
+            "Sleep Talk": "70",
+            "Seed Bomb": "71",
+            "Grass Knot": "81",
+            "Rest": "85",
+            "Substitute": "103",
+            "Giga Drain": "111",
+            "Energy Ball": "119",
+            "Helping Hand": "130",
+            "Earth Power": "133",
+            "Grassy Terrain": "137",
+            "Leaf Storm": "159",
+            "Solar Beam": "168",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Dolliv": [
+            "Dolliv shares its tasty, fresh-scented oil with others. This species has coexisted with humans since times long gone.",
+            "It basks in the sun to its heart\u2019s content until the fruits on its head ripen. After that, Dolliv departs from human settlements and goes on a journey."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793847773560882/929.png",
+    "discord_sprite": "<:P929:1132153671128457366>"
+}

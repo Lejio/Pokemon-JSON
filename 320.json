@@ -1,0 +1,196 @@
+{
+    "alt-version(s)": [],
+    "name": "Wailmer",
+    "Wailmer": {
+        "pokedex_data": {
+            "National No.": "0320",
+            "Type": [
+                "Water"
+            ],
+            "Species": "Ball Whale Poke\u0301mon",
+            "Height": "2.0 m (6\u203207\u2032\u2032)",
+            "Weight": "130.0 kg (286.6 lbs)",
+            "Abilities": {
+                "Water Veil": {
+                    "href": "/ability/water-veil",
+                    "effect": "Prevents the Pok\u00e9mon from getting a burn.",
+                    "hidden": false
+                },
+                "Oblivious": {
+                    "href": "/ability/oblivious",
+                    "effect": "Prevents it from becoming infatuated.",
+                    "hidden": false
+                },
+                "Pressure": {
+                    "href": "/ability/pressure",
+                    "effect": "The Pok\u00e9mon raises the foe's PP usage.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 HP",
+            "Catch rate": "125",
+            "BaseFriendship": "50",
+            "Base Exp.": "80",
+            "Growth Rate": "Fluctuating"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "130",
+                "Min": "370",
+                "Max": "464"
+            },
+            "Attack": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Defense": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Sp. Atk": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Def": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Speed": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Total": "400"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Wailmer",
+                    "nationalNo": "#0320",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Wailord",
+                    "nationalNo": "#0321",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 40)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Splash": "1",
+            "Growl": "3",
+            "Astonish": "6",
+            "Water Gun": "12",
+            "Mist": "15",
+            "Water Pulse": "18",
+            "Heavy Slam": "21",
+            "Brine": "24",
+            "Whirlpool": "27",
+            "Dive": "30",
+            "Bounce": "33",
+            "Body Slam": "36",
+            "Rest": "39",
+            "Amnesia": "42",
+            "Hydro Pump": "45",
+            "Water Spout": "48"
+        },
+        "egg": {
+            "Aqua Ring": null,
+            "Body Slam": null,
+            "Clear Smog": null,
+            "Curse": null,
+            "Defense Curl": null,
+            "Double-Edge": null,
+            "Fissure": null,
+            "Rollout": null,
+            "Snore": null,
+            "Soak": null,
+            "Thrash": null,
+            "Tickle": null,
+            "Zen Headbutt": null
+        },
+        "tm": {
+            "Water Pulse": "03",
+            "Roar": "05",
+            "Hail": "07",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Earthquake": "26",
+            "Double Team": "32",
+            "Rock Tomb": "39",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Scald": "49",
+            "Brine": "55",
+            "Endure": "58",
+            "Avalanche": "72",
+            "Sleep Talk": "82",
+            "Bulldoze": "83",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Surf": "95",
+            "Strength": "96",
+            "Rock Smash": "98",
+            "Waterfall": "99"
+        }
+    },
+    "entries": {
+        "Wailmer": [
+            "WAILMER\u2019s nostrils are located above its eyes. This playful pok\u00e9mon loves to startle people by forcefully snorting out seawater it stores inside its body out of its nostrils.",
+            "WAILMER can store water inside its body to transform itself into a ball for bouncing around on the ground. By filling itself up with more water, this pok\u00e9mon can elevate the height of its bounces.",
+            "When it sucks in a large volume of seawater, it becomes like a big, bouncy ball. It eats a ton of food daily.",
+            "While this pok\u00e9mon usually lives in the sea, it can survive on land, although not too long. It loses vitality if its body becomes dried out.",
+            "On sunny days, it lands on beaches to bounce like a ball and play. It spouts water from its nose.",
+            "It bounces playfully like a ball. The more seawater it swallows, the higher it bounces.",
+            "On sunny days, it lands on beaches to bounce like a ball and play. It spouts water from its nose.",
+            "It eats one ton of food every day. It plays by shooting stored seawater out its blowholes with great force.",
+            "It bounces playfully like a ball. The more seawater it swallows, the higher it bounces.",
+            "It eats one ton of food every day. It plays by shooting stored seawater out its blowholes with great force.",
+            "Wailmer\u2019s nostrils are located above its eyes. This playful Pok\u00e9mon loves to startle people by forcefully snorting out seawater it stores inside its body out of its nostrils.",
+            "Wailmer can store water inside its body to transform itself into a ball for bouncing around on the ground. By filling itself up with more water, this Pok\u00e9mon can elevate the height of its bounces.",
+            "It loves to startle people. It fills itself up with seawater and plays by bouncing around like a ball.",
+            "It shows off by spraying jets of seawater from the nostrils above its eyes. It eats a solid ton of Wishiwashi every day.",
+            "It swims along with its mouth open and swallows down seawater along with its food. It sprays excess water out of its nostrils.",
+            "Due to their memories of when they once lived on land, pods of them will, very rarely, wash up on shore.",
+            "It shows off by spraying jets of seawater from the nostrils above its eyes. It eats a solid ton of Wishiwashi every day.",
+            "When it sucks in a large volume of seawater, it becomes like a big, bouncy ball. It eats a ton of food daily.",
+            "On sunny days, it lands on beaches to bounce like a ball and play. It spouts water from its nostrils."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789101935382580/320.png",
+    "discord_sprite": "<:P320:1132126818061783180>"
+}

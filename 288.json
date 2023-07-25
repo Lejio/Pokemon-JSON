@@ -1,0 +1,225 @@
+{
+    "alt-version(s)": [],
+    "name": "Vigoroth",
+    "Vigoroth": {
+        "pokedex_data": {
+            "National No.": "0288",
+            "Type": [
+                "Normal"
+            ],
+            "Species": "Wild Monkey Poke\u0301mon",
+            "Height": "1.4 m (4\u203207\u2032\u2032)",
+            "Weight": "46.5 kg (102.5 lbs)",
+            "Abilities": {
+                "Vital Spirit": {
+                    "href": "/ability/vital-spirit",
+                    "effect": "Prevents the Pok\u00e9mon from falling asleep.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Speed",
+            "Catch rate": "120",
+            "BaseFriendship": "50",
+            "Base Exp.": "154",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "80",
+                "Min": "270",
+                "Max": "364"
+            },
+            "Attack": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Defense": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Sp. Atk": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Sp. Def": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Speed": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Total": "440"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Slakoth",
+                    "nationalNo": "#0287",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Vigoroth",
+                    "nationalNo": "#0288",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 18)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Vigoroth",
+                    "nationalNo": "#0288",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Slaking",
+                    "nationalNo": "#0289",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 36)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Encore": "1",
+            "Focus Energy": "1",
+            "Scratch": "1",
+            "Uproar": "1",
+            "Fury Swipes": "14",
+            "Endure": "17",
+            "Slash": "23",
+            "Throat Chop": "27",
+            "Counter": "33",
+            "Focus Punch": "37",
+            "Reversal": "43"
+        },
+        "egg": {
+            "After You": null,
+            "Body Slam": null,
+            "Crush Claw": null,
+            "Curse": null,
+            "Hammer Arm": null,
+            "Night Slash": null,
+            "Slash": null,
+            "Snore": null,
+            "Tickle": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Mud-Slap": "05",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Low Kick": "12",
+            "Thief": "18",
+            "Trailblaze": "20",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Bulldoze": "28",
+            "Metal Claw": "31",
+            "Icy Wind": "34",
+            "Mud Shot": "35",
+            "Rock Tomb": "36",
+            "Low Sweep": "39",
+            "Fling": "43",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Dig": "55",
+            "False Swipe": "57",
+            "Brick Break": "58",
+            "Zen Headbutt": "59",
+            "Shadow Claw": "61",
+            "Bulk Up": "64",
+            "Body Slam": "66",
+            "Fire Punch": "67",
+            "Thunder Punch": "68",
+            "Ice Punch": "69",
+            "Sleep Talk": "70",
+            "Seed Bomb": "71",
+            "Drain Punch": "73",
+            "Metronome": "80",
+            "Thunder Wave": "82",
+            "Poison Jab": "83",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Taunt": "87",
+            "Gunk Shot": "102",
+            "Substitute": "103",
+            "X-Scissor": "105",
+            "Shadow Ball": "114",
+            "Hyper Voice": "117",
+            "Encore": "122",
+            "Flamethrower": "125",
+            "Thunderbolt": "126",
+            "Play Rough": "127",
+            "Amnesia": "128",
+            "Helping Hand": "130",
+            "Reversal": "134",
+            "Ice Beam": "135",
+            "Fire Blast": "141",
+            "Blizzard": "143",
+            "Earthquake": "149",
+            "Outrage": "156",
+            "Focus Blast": "158",
+            "Thunder": "166",
+            "Solar Beam": "168",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Vigoroth": [
+            "VIGOROTH is always itching and agitated to go on a wild rampage. It simply can\u2019t tolerate sitting still for even a minute. This pok\u00e9mon\u2019s stress level rises if it can\u2019t be moving constantly.",
+            "VIGOROTH is simply incapable of remaining still. Even when it tries to sleep, the blood in its veins grows agitated, compelling this pok\u00e9mon to run wild throughout the jungle before it can settle down.",
+            "It is always hungry because it won\u2019t stop rampaging. Even while it is eating, it can\u2019t keep still.",
+            "It can\u2019t keep still because its blood boils with energy. It runs through the fields and mountains all day to calm itself. If it doesn\u2019t, it can\u2019t sleep at night.",
+            "Its heart beats at a tenfold tempo, so it cannot sit still for even a moment.",
+            "Its stress level rises if it cannot keep moving constantly. Too much stress makes it feel sick.",
+            "Its heart beats at a tenfold tempo, so it cannot sit still for even a moment.",
+            "Its heartbeat is fast and its blood so agitated that it can\u2019t sit still for one second.",
+            "Its heartbeat is fast and its blood so agitated that it can\u2019t sit still for one second.",
+            "Its stress level rises if it cannot keep moving constantly. Too much stress makes it feel sick.",
+            "Vigoroth is always itching and agitated to go on a wild rampage. It simply can\u2019t tolerate sitting still for even a minute. This Pok\u00e9mon\u2019s stress level rises if it can\u2019t be moving constantly.",
+            "Vigoroth is simply incapable of remaining still. Even when it tries to sleep, the blood in its veins grows agitated, compelling this Pok\u00e9mon to run wild throughout the jungle before it can settle down.",
+            "Its heart beats at 10 times its previous rate, so it cannot sit still for even a moment.",
+            "Its stress level rises if it cannot keep moving constantly. Too much stress makes it feel sick.",
+            "It is always hungry because it won\u2019t stop rampaging. Even while it is eating, it can\u2019t keep still."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788847890567298/288.png",
+    "discord_sprite": "<:P288:1132125415377481829>"
+}

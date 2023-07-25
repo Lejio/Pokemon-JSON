@@ -1,0 +1,155 @@
+{
+    "alt-version(s)": [],
+    "name": "Wo-Chien",
+    "Wo-Chien": {
+        "pokedex_data": {
+            "National No.": "1001",
+            "Type": [
+                "Dark",
+                "Grass"
+            ],
+            "Species": "Ruinous Poke\u0301mon",
+            "Height": "1.5 m (4\u203211\u2032\u2032)",
+            "Weight": "74.2 kg (163.6 lbs)",
+            "Abilities": {
+                "Tablets of Ruin": {
+                    "href": "/ability/tablets-of-ruin",
+                    "effect": "Lowers Attack of all Pok\u00e9mon except itself.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Sp. Def",
+            "Catch rate": "6",
+            "BaseFriendship": "0",
+            "Base Exp.": "285",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "85",
+                "Min": "280",
+                "Max": "374"
+            },
+            "Attack": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Defense": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Sp. Atk": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Sp. Def": {
+                "Base": "135",
+                "Min": "247",
+                "Max": "405"
+            },
+            "Speed": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Total": "570"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "super-effective",
+                "Poison": "super-effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Psychic": "no effect",
+                "Bug": "super-effective",
+                "Ghost": "not very effective",
+                "Dark": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Absorb": "1",
+            "Mean Look": "1",
+            "Spite": "1",
+            "Tickle": "5",
+            "Payback": "10",
+            "Poison Powder": "15",
+            "Stun Spore": "15",
+            "Mega Drain": "20",
+            "Leech Seed": "25",
+            "Growth": "30",
+            "Ingrain": "35",
+            "Dark Pulse": "40",
+            "Giga Drain": "45",
+            "Ruination": "50",
+            "Foul Play": "55",
+            "Power Whip": "60",
+            "Grassy Terrain": "65",
+            "Knock Off": "70",
+            "Leaf Storm": "75"
+        },
+        "egg": null,
+        "tm": {
+            "Take Down": "01",
+            "Mud-Slap": "05",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Trailblaze": "20",
+            "Facade": "25",
+            "Hex": "29",
+            "Snarl": "30",
+            "Magical Leaf": "33",
+            "Mud Shot": "35",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Bullet Seed": "56",
+            "Zen Headbutt": "59",
+            "Foul Play": "62",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Seed Bomb": "71",
+            "Reflect": "74",
+            "Light Screen": "75",
+            "Grass Knot": "81",
+            "Rest": "85",
+            "Taunt": "87",
+            "Body Press": "89",
+            "Dark Pulse": "94",
+            "Substitute": "103",
+            "Giga Drain": "111",
+            "Energy Ball": "119",
+            "Pollen Puff": "131",
+            "Grassy Terrain": "137",
+            "Giga Impact": "152",
+            "Leaf Storm": "159",
+            "Hyper Beam": "163",
+            "Solar Beam": "168",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Wo-Chien": [
+            "The grudge of a person punished for writing the king\u2019s evil deeds upon wooden tablets has clad itself in dead leaves to become a Pok\u00e9mon.",
+            "It drains the life-force from vegetation, causing nearby forests to instantly wither and fields to turn barren."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131794407910297792/1001.png",
+    "discord_sprite": "<:P1001:1132156839556030576>"
+}

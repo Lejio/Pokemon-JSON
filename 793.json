@@ -1,0 +1,159 @@
+{
+    "alt-version(s)": [],
+    "name": "Nihilego",
+    "Nihilego": {
+        "pokedex_data": {
+            "National No.": "0793",
+            "Type": [
+                "Rock",
+                "Poison"
+            ],
+            "Species": "Parasite Poke\u0301mon",
+            "Height": "1.2 m (3\u203211\u2032\u2032)",
+            "Weight": "55.5 kg (122.4 lbs)",
+            "Abilities": {
+                "Beast Boost": {
+                    "href": "/ability/beast-boost",
+                    "effect": "The Pok\u00e9mon boosts its most proficient stat each time it knocks out a Pok\u00e9mon.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Sp. Def",
+            "Catch rate": "45",
+            "BaseFriendship": "0",
+            "Base Exp.": "257",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "109",
+                "Min": "328",
+                "Max": "422"
+            },
+            "Attack": {
+                "Base": "53",
+                "Min": "99",
+                "Max": "225"
+            },
+            "Defense": {
+                "Base": "47",
+                "Min": "89",
+                "Max": "212"
+            },
+            "Sp. Atk": {
+                "Base": "127",
+                "Min": "233",
+                "Max": "388"
+            },
+            "Sp. Def": {
+                "Base": "131",
+                "Min": "240",
+                "Max": "397"
+            },
+            "Speed": {
+                "Base": "103",
+                "Min": "189",
+                "Max": "335"
+            },
+            "Total": "570"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Steel": "super-effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Pound": "1",
+            "Wrap": "1",
+            "Acid": "5",
+            "Tickle": "10",
+            "Acid Spray": "15",
+            "Clear Smog": "20",
+            "Guard Split": "25",
+            "Power Split": "25",
+            "Venoshock": "30",
+            "Headbutt": "35",
+            "Toxic Spikes": "40",
+            "Venom Drench": "45",
+            "Power Gem": "50",
+            "Stealth Rock": "55",
+            "Mirror Coat": "60",
+            "Wonder Room": "65",
+            "Head Smash": "70"
+        },
+        "egg": {
+            "Corrosive Gas": null,
+            "Meteor Beam": null
+        },
+        "null": {
+            "Body Slam": "01",
+            "Thunderbolt": "08",
+            "Thunder": "09",
+            "Psychic": "11",
+            "Substitute": "20",
+            "Sludge Bomb": "22",
+            "Psyshock": "25",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Toxic Spikes": "54",
+            "Poison Jab": "57",
+            "Power Gem": "63",
+            "Zen Headbutt": "69",
+            "Gunk Shot": "73",
+            "Iron Head": "74",
+            "Stealth Rock": "76",
+            "Grass Knot": "77",
+            "Sludge Wave": "78",
+            "Foul Play": "81",
+            "Ally Switch": "83",
+            "Venom Drench": "91",
+            "Dazzling Gleam": "92"
+        },
+        "tm": {
+            "Thunder Wave": "14",
+            "Light Screen": "17",
+            "Safeguard": "19",
+            "Rest": "21",
+            "Rock Slide": "22",
+            "Snore": "24",
+            "Protect": "25",
+            "Sandstorm": "32",
+            "Facade": "39",
+            "Rock Tomb": "48",
+            "Trick Room": "70",
+            "Wonder Room": "71",
+            "Cross Poison": "73",
+            "Venoshock": "74",
+            "Round": "76",
+            "Hex": "77",
+            "Brutal Swing": "97"
+        }
+    },
+    "entries": {
+        "Nihilego": [
+            "One of several mysterious Ultra Beasts. People on the street report observing those infested by it suddenly becoming violent.",
+            "One of the Ultra Beasts. It\u2019s unclear whether or not this Pok\u00e9mon is sentient, but sometimes it can be observed behaving like a young girl.",
+            "A life-form from another world, it was dubbed a UB and is thought to produce a strong neurotoxin.",
+            "It appeared in this world from an Ultra Wormhole. Nihilego appears to be a parasite that lives by feeding on people and Pok\u00e9mon."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792789139628152/793.png",
+    "discord_sprite": "<:P793:1132147696443084872>"
+}

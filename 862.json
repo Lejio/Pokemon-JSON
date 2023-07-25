@@ -1,0 +1,265 @@
+{
+    "alt-version(s)": [],
+    "name": "Obstagoon",
+    "Obstagoon": {
+        "pokedex_data": {
+            "National No.": "0862",
+            "Type": [
+                "Dark",
+                "Normal"
+            ],
+            "Species": "Blocking Poke\u0301mon",
+            "Height": "1.6 m (5\u203203\u2032\u2032)",
+            "Weight": "46.0 kg (101.4 lbs)",
+            "Abilities": {
+                "Reckless": {
+                    "href": "/ability/reckless",
+                    "effect": "Powers up moves that have recoil damage.",
+                    "hidden": false
+                },
+                "Guts": {
+                    "href": "/ability/guts",
+                    "effect": "Boosts Attack if there is a status problem.",
+                    "hidden": false
+                },
+                "Defiant": {
+                    "href": "/ability/defiant",
+                    "effect": "Sharply raises Attack when the Pok\u00e9mon's stats are lowered.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Defense",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "260",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "93",
+                "Min": "296",
+                "Max": "390"
+            },
+            "Attack": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Defense": {
+                "Base": "101",
+                "Min": "186",
+                "Max": "331"
+            },
+            "Sp. Atk": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Def": {
+                "Base": "81",
+                "Min": "150",
+                "Max": "287"
+            },
+            "Speed": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Total": "520"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "super-effective",
+                "Psychic": "no effect",
+                "Bug": "super-effective",
+                "Ghost": "no effect",
+                "Dark": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Zigzagoon",
+                    "nationalNo": "#0263",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Linoone",
+                    "nationalNo": "#0264",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 20)",
+                "shed": null
+            }
+        ],
+        [
+            {
+                "from": {
+                    "name": "Zigzagoon",
+                    "nationalNo": "#0263",
+                    "type": [
+                        "Dark",
+                        "Normal"
+                    ],
+                    "nickname": "Galarian Zigzagoon"
+                },
+                "to": {
+                    "name": "Linoone",
+                    "nationalNo": "#0264",
+                    "type": [
+                        "Dark",
+                        "Normal"
+                    ],
+                    "nickname": "Galarian Linoone"
+                },
+                "requirement": "(Level 20)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Linoone",
+                    "nationalNo": "#0264",
+                    "type": [
+                        "Dark",
+                        "Normal"
+                    ],
+                    "nickname": "Galarian Linoone"
+                },
+                "to": {
+                    "name": "Obstagoon",
+                    "nationalNo": "#0862",
+                    "type": [
+                        "Dark",
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 35, Nighttime)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Baby-Doll Eyes": "1",
+            "Cross Chop": "1",
+            "Leer": "1",
+            "Lick": "1",
+            "Night Slash": "1",
+            "Obstruct": "1",
+            "Pin Missile": "1",
+            "Sand Attack": "1",
+            "Submission": "1",
+            "Switcheroo": "1",
+            "Tackle": "1",
+            "Snarl": "9",
+            "Headbutt": "12",
+            "Hone Claws": "15",
+            "Fury Swipes": "18",
+            "Rest": "23",
+            "Take Down": "28",
+            "Scary Face": "35",
+            "Counter": "42",
+            "Taunt": "49",
+            "Double-Edge": "56"
+        },
+        "evolution": {
+            "Obstruct": "\u2014"
+        },
+        "egg": {
+            "Knock Off": null,
+            "Parting Shot": null,
+            "Quick Guard": null
+        },
+        "null": {
+            "Body Slam": "01",
+            "Surf": "04",
+            "Ice Beam": "05",
+            "Blizzard": "06",
+            "Low Kick": "07",
+            "Thunderbolt": "08",
+            "Thunder": "09",
+            "Focus Energy": "13",
+            "Substitute": "20",
+            "Reversal": "21",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Iron Tail": "31",
+            "Shadow Ball": "33",
+            "Taunt": "37",
+            "Trick": "38",
+            "Hyper Voice": "42",
+            "Iron Defense": "46",
+            "Bulk Up": "48",
+            "Close Combat": "53",
+            "Seed Bomb": "59",
+            "X-Scissor": "60",
+            "Gunk Shot": "73",
+            "Grass Knot": "77",
+            "Work Up": "85",
+            "Throat Chop": "95",
+            "Body Press": "99"
+        },
+        "tm": {
+            "Mega Punch": "00",
+            "Mega Kick": "01",
+            "Fire Punch": "03",
+            "Ice Punch": "04",
+            "Thunder Punch": "05",
+            "Pin Missile": "07",
+            "Hyper Beam": "08",
+            "Giga Impact": "09",
+            "Thunder Wave": "14",
+            "Dig": "15",
+            "Screech": "16",
+            "Rest": "21",
+            "Thief": "23",
+            "Snore": "24",
+            "Protect": "25",
+            "Scary Face": "26",
+            "Icy Wind": "27",
+            "Attract": "31",
+            "Rain Dance": "33",
+            "Sunny Day": "34",
+            "Whirlpool": "36",
+            "Facade": "39",
+            "Swift": "40",
+            "Helping Hand": "41",
+            "Revenge": "42",
+            "Brick Break": "43",
+            "Fake Tears": "47",
+            "Mud Shot": "53",
+            "Payback": "57",
+            "Assurance": "58",
+            "Fling": "59",
+            "Shadow Claw": "65",
+            "Cross Poison": "73",
+            "Round": "76",
+            "Retaliate": "79",
+            "Snarl": "85",
+            "Stomping Tantrum": "98"
+        }
+    },
+    "entries": {
+        "Obstagoon": [
+            "Its voice is staggering in volume. Obstagoon has a tendency to take on a threatening posture and shout\u2014this move is known as Obstruct.",
+            "It evolved after experiencing numerous fights. While crossing its arms, it lets out a shout that would make any opponent flinch."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793321870753822/862.png",
+    "discord_sprite": "<:P862:1132150732406149190>"
+}

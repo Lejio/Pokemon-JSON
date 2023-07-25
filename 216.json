@@ -1,0 +1,227 @@
+{
+    "alt-version(s)": [],
+    "name": "Teddiursa",
+    "Teddiursa": {
+        "pokedex_data": {
+            "National No.": "0216",
+            "Type": [
+                "Normal"
+            ],
+            "Species": "Little Bear Poke\u0301mon",
+            "Height": "0.6 m (2\u203200\u2032\u2032)",
+            "Weight": "8.8 kg (19.4 lbs)",
+            "Abilities": {
+                "Pickup": {
+                    "href": "/ability/pickup",
+                    "effect": "The Pok\u00e9mon may pick up items.",
+                    "hidden": false
+                },
+                "Quick Feet": {
+                    "href": "/ability/quick-feet",
+                    "effect": "Boosts Speed if there is a status problem.",
+                    "hidden": false
+                },
+                "Honey Gather": {
+                    "href": "/ability/honey-gather",
+                    "effect": "The Pok\u00e9mon may gather Honey from somewhere.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack",
+            "Catch rate": "120",
+            "BaseFriendship": "50",
+            "Base Exp.": "66",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "60",
+                "Min": "230",
+                "Max": "324"
+            },
+            "Attack": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Defense": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Atk": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Def": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Speed": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Total": "330"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Teddiursa",
+                    "nationalNo": "#0216",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Ursaring",
+                    "nationalNo": "#0217",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 30)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Ursaring",
+                    "nationalNo": "#0217",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Ursaluna",
+                    "nationalNo": "#0901",
+                    "type": [
+                        "Ground",
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Peat Block, under a full moon, in Legends: Arceus)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Baby-Doll Eyes": "1",
+            "Covet": "1",
+            "Fling": "1",
+            "Lick": "1",
+            "Scratch": "1",
+            "Fury Swipes": "8",
+            "Payback": "13",
+            "Sweet Scent": "17",
+            "Slash": "22",
+            "Play Nice": "25",
+            "Play Rough": "29",
+            "Charm": "33",
+            "Rest": "37",
+            "Snore": "37",
+            "Thrash": "41"
+        },
+        "egg": {
+            "Belly Drum": null,
+            "Close Combat": null,
+            "Counter": null,
+            "Cross Chop": null,
+            "Crunch": null,
+            "Double-Edge": null,
+            "Fake Tears": null,
+            "Fury Cutter": null,
+            "Metal Claw": null,
+            "Night Slash": null,
+            "Seismic Toss": null,
+            "Yawn": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Charm": "02",
+            "Fake Tears": "03",
+            "Protect": "07",
+            "Low Kick": "12",
+            "Thief": "18",
+            "Trailblaze": "20",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Bulldoze": "28",
+            "Metal Claw": "31",
+            "Swift": "32",
+            "Rock Tomb": "36",
+            "Fling": "43",
+            "Avalanche": "46",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Dig": "55",
+            "Brick Break": "58",
+            "Shadow Claw": "61",
+            "Bulk Up": "64",
+            "Body Slam": "66",
+            "Fire Punch": "67",
+            "Thunder Punch": "68",
+            "Ice Punch": "69",
+            "Sleep Talk": "70",
+            "Seed Bomb": "71",
+            "Metronome": "80",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Taunt": "87",
+            "Swords Dance": "88",
+            "Gunk Shot": "102",
+            "Substitute": "103",
+            "Crunch": "108",
+            "Hyper Voice": "117",
+            "Play Rough": "127",
+            "Helping Hand": "130",
+            "Earthquake": "149",
+            "Close Combat": "167",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Teddiursa": [
+            "If it finds honey, its crescent mark glows. It always licks its paws because they are soaked with honey.",
+            "Before food becomes scarce in wintertime, its habit is to hoard food in many hidden locations.",
+            "It always licks honey. Its palm tastes sweet because of all the honey it has absorbed.",
+            "This pok\u00e9mon likes to lick its palms that are sweetened by being soaked in honey. TEDDIURSA concocts its own honey by blending fruits and pollen collected by BEEDRILL.",
+            "Before food becomes scarce in wintertime, its habit is to hoard food in many hidden locations.",
+            "If it finds honey, its crescent mark glows. It always licks its paws because they are soaked with honey.",
+            "It licks its palms that are sweetened by being soaked in honey. A TEDDIURSA makes its own honey by blending fruits and pollen collected by BEEDRILL.",
+            "It lets honey soak into its paws so it can lick them all the time. Every set of paws tastes unique.",
+            "If it finds honey, its crescent mark glows. It always licks its paws because they\u2019re soaked with honey.",
+            "Before food becomes scarce in wintertime, its habit is to hoard food in many hidden locations.",
+            "It lets honey soak into its paws so it can lick them all the time. Every set of paws tastes unique.",
+            "If it finds honey, its crescent mark glows. It always licks its paws because they\u2019re soaked with honey.",
+            "Before food becomes scarce in wintertime, its habit is to hoard food in many hidden locations.",
+            "This Pok\u00e9mon likes to lick its palms that are sweetened by being soaked in honey. Teddiursa concocts its own honey by blending fruits and pollen collected by Beedrill.",
+            "It lets honey soak into its paws so it can lick them all the time. Every set of paws tastes unique.",
+            "It licks its paws because of the sweet honey that has soaked into them. It is cunning, stealing into the nests of Combee and taking for itself the honey that the Combee have amassed.",
+            "This Pok\u00e9mon discreetly follows Combee to find their hive. It scoops up big dollops of honey in its palms to eat.",
+            "Its paws are soaked in oodles of honey. When nervous, Teddiursa will lick its paws and soon have a smile back on its face."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788281462390926/216.png",
+    "discord_sprite": "<:P216:1132122242340356146>"
+}

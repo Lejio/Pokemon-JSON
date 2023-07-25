@@ -1,0 +1,227 @@
+{
+    "alt-version(s)": [],
+    "name": "Dartrix",
+    "Dartrix": {
+        "pokedex_data": {
+            "National No.": "0723",
+            "Type": [
+                "Grass",
+                "Flying"
+            ],
+            "Species": "Blade Quill Poke\u0301mon",
+            "Height": "0.7 m (2\u203204\u2032\u2032)",
+            "Weight": "16.0 kg (35.3 lbs)",
+            "Abilities": {
+                "Overgrow": {
+                    "href": "/ability/overgrow",
+                    "effect": "Powers up Grass-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Long Reach": {
+                    "href": "/ability/long-reach",
+                    "effect": "The Pok\u00e9mon uses its moves without making contact with the target.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 HP",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "147",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "78",
+                "Min": "266",
+                "Max": "360"
+            },
+            "Attack": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Defense": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Sp. Atk": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Def": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Speed": {
+                "Base": "52",
+                "Min": "98",
+                "Max": "223"
+            },
+            "Total": "420"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Poison": "super-effective",
+                "Ground": "no effect",
+                "Flying": "super-effective",
+                "Rock": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Rowlet",
+                    "nationalNo": "#0722",
+                    "type": [
+                        "Grass",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Dartrix",
+                    "nationalNo": "#0723",
+                    "type": [
+                        "Grass",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 17)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Dartrix",
+                    "nationalNo": "#0723",
+                    "type": [
+                        "Grass",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Decidueye",
+                    "nationalNo": "#0724",
+                    "type": [
+                        "Grass",
+                        "Ghost"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 34)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Dartrix",
+                    "nationalNo": "#0723",
+                    "type": [
+                        "Grass",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Decidueye",
+                    "nationalNo": "#0724",
+                    "type": [
+                        "Grass",
+                        "Fighting"
+                    ],
+                    "nickname": "Hisuian Decidueye"
+                },
+                "requirement": "(Level 36, in Legends: Arceus)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Astonish": "1",
+            "Growl": "1",
+            "Leafage": "1",
+            "Tackle": "1",
+            "Peck": "9",
+            "Shadow Sneak": "12",
+            "Razor Leaf": "15",
+            "Synthesis": "20",
+            "Pluck": "25",
+            "Nasty Plot": "30",
+            "Sucker Punch": "35",
+            "Leaf Blade": "40",
+            "Feather Dance": "45",
+            "Brave Bird": "50"
+        },
+        "egg": {
+            "Confuse Ray": null,
+            "Defog": null,
+            "Double Team": null,
+            "Knock Off": null,
+            "Roost": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Protect": "07",
+            "Trailblaze": "20",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Swift": "32",
+            "Magical Leaf": "33",
+            "Air Cutter": "40",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Bullet Seed": "56",
+            "False Swipe": "57",
+            "Shadow Claw": "61",
+            "Air Slash": "65",
+            "Sleep Talk": "70",
+            "Seed Bomb": "71",
+            "Grass Knot": "81",
+            "Rest": "85",
+            "Swords Dance": "88",
+            "Substitute": "103",
+            "Giga Drain": "111",
+            "Tailwind": "113",
+            "Energy Ball": "119",
+            "Helping Hand": "130",
+            "Baton Pass": "132",
+            "Grassy Terrain": "137",
+            "Nasty Plot": "140",
+            "Grass Pledge": "146",
+            "Leaf Storm": "159",
+            "Brave Bird": "164",
+            "Solar Beam": "168",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Dartrix": [
+            "A bit of a dandy, it spends its free time preening its wings. Its preoccupation with any dirt on its plumage can leave it unable to battle.",
+            "It throws sharp feathers called blade quills at enemies or prey. It seldom misses.",
+            "This narcissistic Pok\u00e9mon is a clean freak. If you don\u2019t groom it diligently, it will stop listening to you.",
+            "Supremely sensitive to the presence of others, it can detect opponents standing behind it, flinging its sharp feathers to take them out.",
+            "It throws one knifelike feather after another at its enemies, and each one precisely strikes a weak point. These feathers are known as blade quills.",
+            "It never slacks when it comes to the task of cleaning its feathers. Thorough preening keeps it looking spiffy and its blade quills nice and sharp.",
+            "Regularly basks in sunlight to gather power\u2014presumably due to the frigid climate. Nonetheless, the edges of the blade quills set into its wings are keen as ever."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792245847244800/723.png",
+    "discord_sprite": "<:P723:1132144548609523772>"
+}

@@ -1,0 +1,218 @@
+{
+    "alt-version(s)": [],
+    "name": "Togepi",
+    "Togepi": {
+        "pokedex_data": {
+            "National No.": "0175",
+            "Type": [
+                "Fairy"
+            ],
+            "Species": "Spike Ball Poke\u0301mon",
+            "Height": "0.3 m (1\u203200\u2032\u2032)",
+            "Weight": "1.5 kg (3.3 lbs)",
+            "Abilities": {
+                "Hustle": {
+                    "href": "/ability/hustle",
+                    "effect": "Boosts the Attack stat, but lowers accuracy.",
+                    "hidden": false
+                },
+                "Serene Grace": {
+                    "href": "/ability/serene-grace",
+                    "effect": "Boosts the likelihood of added effects appearing.",
+                    "hidden": false
+                },
+                "Super Luck": {
+                    "href": "/ability/super-luck",
+                    "effect": "Heightens the critical-hit ratios of moves.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Sp. Def",
+            "Catch rate": "190",
+            "BaseFriendship": "50",
+            "Base Exp.": "49",
+            "Growth Rate": "Fast"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "35",
+                "Min": "180",
+                "Max": "274"
+            },
+            "Attack": {
+                "Base": "20",
+                "Min": "40",
+                "Max": "152"
+            },
+            "Defense": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Atk": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Def": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Speed": {
+                "Base": "20",
+                "Min": "40",
+                "Max": "152"
+            },
+            "Total": "245"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "not very effective",
+                "Poison": "super-effective",
+                "Bug": "not very effective",
+                "Dragon": "no effect",
+                "Dark": "not very effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Togepi",
+                    "nationalNo": "#0175",
+                    "type": [
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Togetic",
+                    "nationalNo": "#0176",
+                    "type": [
+                        "Fairy",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(high Friendship)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Togetic",
+                    "nationalNo": "#0176",
+                    "type": [
+                        "Fairy",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Togekiss",
+                    "nationalNo": "#0468",
+                    "type": [
+                        "Fairy",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Shiny Stone)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Growl": "1",
+            "Pound": "1",
+            "Sweet Kiss": "4",
+            "Life Dew": "8",
+            "Charm": "12",
+            "Ancient Power": "16",
+            "Yawn": "20",
+            "Metronome": "24",
+            "After You": "28",
+            "Double-Edge": "32",
+            "Safeguard": "36",
+            "Follow Me": "40",
+            "Baton Pass": "44",
+            "Last Resort": "48",
+            "Wish": "52"
+        },
+        "egg": {
+            "Extrasensory": null,
+            "Future Sight": null,
+            "Morning Sun": null,
+            "Peck": null,
+            "Present": null,
+            "Psycho Shift": null,
+            "Stored Power": null
+        },
+        "tm": {
+            "Water Pulse": "03",
+            "Work Up": "10",
+            "Sunny Day": "11",
+            "Light Screen": "16",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Safeguard": "20",
+            "Dazzling Gleam": "21",
+            "Solar Beam": "22",
+            "Psychic": "29",
+            "Shadow Ball": "30",
+            "Double Team": "32",
+            "Reflect": "33",
+            "Shock Wave": "34",
+            "Flamethrower": "35",
+            "Fire Blast": "38",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Fling": "56",
+            "Endure": "58",
+            "Nasty Plot": "63",
+            "Flash": "70",
+            "Thunder Wave": "73",
+            "Psych Up": "77",
+            "Sleep Talk": "82",
+            "Dream Eater": "85",
+            "Grass Knot": "86",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Rock Smash": "98"
+        }
+    },
+    "entries": {
+        "Togepi": [
+            "The shell seems to be filled with joy. It is said that it will share good luck when treated kindly.",
+            "A proverb claims that happiness will come to anyone who can make a sleeping TOGEPI stand up.",
+            "It is considered to be a symbol of good luck. Its shell is said to be filled with happiness.",
+            "As its energy, TOGEPI uses the positive emotions of compassion and pleasure exuded by people and pok\u00e9mon. This pok\u00e9mon stores up feelings of happiness inside its shell, then shares them with others.",
+            "A proverb claims that happiness will come to anyone who can make a sleeping TOGEPI stand up.",
+            "The shell seems to be filled with joy. It is said that it will share good luck when treated kindly.",
+            "As its energy, it uses the feelings of compassion and pleasure exuded by people and pok\u00e9mon. It stores up happy feelings in its shell, then shares them out.",
+            "Its shell is said to be stuffed with happiness that it shares with kindhearted people.",
+            "It transforms the kindness and joy of others into happiness, which it stores in its shell.",
+            "The shell seems to be filled with joy. It is said that it will share good luck when treated kindly.",
+            "A proverb claims that happiness will come to anyone who can make a sleeping TOGEPI stand up.",
+            "It transforms the kindness and joy of others into happiness, which it stores in its shell.",
+            "The shell seems to be filled with joy. It is said that it will share good luck when treated kindly.",
+            "A proverb claims that happiness will come to anyone who can make a sleeping Togepi stand up.",
+            "As its energy, Togepi uses the positive emotions of compassion and pleasure exuded by people and Pok\u00e9mon. This Pok\u00e9mon stores up feelings of happiness inside its shell, then shares them with others.",
+            "The shell seems to be filled with joy. It is said that it will share good luck when treated kindly.",
+            "It is considered to be a symbol of good luck. Its shell is said to be filled with happiness.",
+            "Its shell is said to be stuffed with happiness that it shares with kindhearted people.",
+            "This ovate creature is frequently mistaken for a moving egg when encountered out in the fields or in the mountains. Its guileless smile soothes the soul."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787958102536192/175.png",
+    "discord_sprite": "<:P175:1132120435618758778>"
+}

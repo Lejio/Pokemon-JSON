@@ -1,0 +1,209 @@
+{
+    "alt-version(s)": [],
+    "name": "Misdreavus",
+    "Misdreavus": {
+        "pokedex_data": {
+            "National No.": "0200",
+            "Type": [
+                "Ghost"
+            ],
+            "Species": "Screech Poke\u0301mon",
+            "Height": "0.7 m (2\u203204\u2032\u2032)",
+            "Weight": "1.0 kg (2.2 lbs)",
+            "Abilities": {
+                "Levitate": {
+                    "href": "/ability/levitate",
+                    "effect": "Gives immunity to Ground type moves.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Sp. Def",
+            "Catch rate": "45",
+            "BaseFriendship": "35",
+            "Base Exp.": "87",
+            "Growth Rate": "Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "60",
+                "Min": "230",
+                "Max": "324"
+            },
+            "Attack": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Defense": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Atk": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Sp. Def": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Speed": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Total": "435"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "no effect",
+                "Fighting": "no effect",
+                "Poison": "not very effective",
+                "Ground": "no effect",
+                "Bug": "not very effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Misdreavus",
+                    "nationalNo": "#0200",
+                    "type": [
+                        "Ghost"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Mismagius",
+                    "nationalNo": "#0429",
+                    "type": [
+                        "Ghost"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Dusk Stone)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Confusion": "1",
+            "Growl": "1",
+            "Astonish": "10",
+            "Confuse Ray": "14",
+            "Mean Look": "19",
+            "Hex": "23",
+            "Psybeam": "28",
+            "Pain Split": "32",
+            "Payback": "37",
+            "Shadow Ball": "41",
+            "Perish Song": "46",
+            "Power Gem": "50"
+        },
+        "egg": {
+            "Curse": null,
+            "Destiny Bond": null,
+            "Imprison": null,
+            "Memento": null,
+            "Screech": null,
+            "Shadow Sneak": null,
+            "Spite": null,
+            "Sucker Punch": null,
+            "Wonder Room": null
+        },
+        "tm": {
+            "Charm": "02",
+            "Fake Tears": "03",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Psybeam": "16",
+            "Confuse Ray": "17",
+            "Thief": "18",
+            "Charge Beam": "23",
+            "Facade": "25",
+            "Hex": "29",
+            "Swift": "32",
+            "Magical Leaf": "33",
+            "Icy Wind": "34",
+            "Draining Kiss": "37",
+            "Stored Power": "41",
+            "Night Shade": "42",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Snowscape": "52",
+            "Psyshock": "54",
+            "Foul Play": "62",
+            "Sleep Talk": "70",
+            "Dazzling Gleam": "79",
+            "Grass Knot": "81",
+            "Thunder Wave": "82",
+            "Rest": "85",
+            "Taunt": "87",
+            "Imprison": "92",
+            "Dark Pulse": "94",
+            "Skill Swap": "98",
+            "Power Gem": "101",
+            "Substitute": "103",
+            "Will-O-Wisp": "107",
+            "Trick": "109",
+            "Shadow Ball": "114",
+            "Hyper Voice": "117",
+            "Energy Ball": "119",
+            "Psychic": "120",
+            "Thunderbolt": "126",
+            "Calm Mind": "129",
+            "Helping Hand": "130",
+            "Nasty Plot": "140",
+            "Phantom Force": "151",
+            "Giga Impact": "152",
+            "Trick Room": "161",
+            "Hyper Beam": "163",
+            "Thunder": "166",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Misdreavus": [
+            "It likes playing mischievous tricks such as screaming and wailing to startle people at night.",
+            "It loves to bite and yank people\u2019s hair from behind without warning, just to see their shocked reactions.",
+            "It loves to watch people it\u2019s scared. It frightens them by screaming loudly or appearing suddenly.",
+            "MISDREAVUS frightens people with a creepy, sobbing cry. The pok\u00e9mon apparently uses its red spheres to absorb the fearful feelings of foes and turn them into nutrition.",
+            "It loves to bite and yank people\u2019s hair from behind without warning, just to see their shocked reactions.",
+            "It likes playing mischievous tricks such as screaming and wailing to startle people at night.",
+            "A MISDREAVUS frightens people with a creepy, sobbing cry. It apparently uses its red spheres to absorb the fear of foes as its nutrition.",
+            "It loves to sneak up on people late at night, then startle them with its shrieklike cry.",
+            "It gets nourishment from fear that it absorbs into its red orbs. In daytime, it sleeps in darkness.",
+            "A Pok\u00e9mon that startles people in the middle of the night. It gathers fear as its energy.",
+            "It likes playing mischievous tricks, such as screaming and wailing to startle people at night.",
+            "It loves to bite and yank people\u2019s hair from behind without warning, just to see their shocked reactions.",
+            "A Pok\u00e9mon that startles people in the middle of the night. It gathers fear as its energy.",
+            "It gets nourishment from fear that it absorbs into its red orbs. In daytime, it sleeps in darkness.",
+            "It likes playing mischievous tricks, such as screaming and wailing to startle people at night.",
+            "Misdreavus frightens people with a creepy, sobbing cry. The Pok\u00e9mon apparently uses its red spheres to absorb the fearful feelings of foes and turn them into nutrition.",
+            "It will use any means necessary to frighten people and absorb their life energy. It practices constantly to hone its skill in causing fear.",
+            "If you hear a sobbing sound emanating from a vacant room, it\u2019s undoubtedly a bit of mischief from Misdreavus.",
+            "What gives meaning to its life is surprising others. If you set your ear against the red orbs around its neck, you can hear shrieking.",
+            "What makes it happy is imitating the voices of weeping people and scaring everyone. It doesn\u2019t deal well with folks who aren\u2019t easily frightened.",
+            "It loves to sneak up on people late at night and startle them with its shrieking cry.",
+            "It gets nourishment from fear that it absorbs into its red orbs. During the daytime, it sleeps in the shadows.",
+            "It conceals itself in darkness, sending chills up travelers\u2019 spines with its childlike weeping. As it observes the frightened travelers with glee, the red orbs upon its chest let off an eerie light.",
+            "This Pok\u00e9mon startles people in the middle of the night. It gathers fear as its energy.",
+            "It loves to bite and yank people\u2019s hair from behind without warning, just to see their shocked reactions."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788156765745183/200.png",
+    "discord_sprite": "<:P200:1132121533196816427>"
+}

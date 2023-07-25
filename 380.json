@@ -1,0 +1,259 @@
+{
+    "alt-version(s)": [
+        "Mega Latias"
+    ],
+    "name": "Latias",
+    "Latias": {
+        "pokedex_data": {
+            "National No.": "0380",
+            "Type": [
+                "Dragon",
+                "Psychic"
+            ],
+            "Species": "Eon Poke\u0301mon",
+            "Height": "1.4 m (4\u203207\u2032\u2032)",
+            "Weight": "40.0 kg (88.2 lbs)",
+            "Abilities": {
+                "Levitate": {
+                    "href": "/ability/levitate",
+                    "effect": "Gives immunity to Ground type moves.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Sp. Def",
+            "Catch rate": "3",
+            "BaseFriendship": "90",
+            "Base Exp.": "270",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "0% male,100% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "80",
+                "Min": "270",
+                "Max": "364"
+            },
+            "Attack": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Defense": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Sp. Atk": {
+                "Base": "110",
+                "Min": "202",
+                "Max": "350"
+            },
+            "Sp. Def": {
+                "Base": "130",
+                "Min": "238",
+                "Max": "394"
+            },
+            "Speed": {
+                "Base": "110",
+                "Min": "202",
+                "Max": "350"
+            },
+            "Total": "600"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Ground": "no effect",
+                "Psychic": "not very effective",
+                "Bug": "super-effective",
+                "Ghost": "super-effective",
+                "Dragon": "super-effective",
+                "Dark": "super-effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "Mega Latias": {
+        "pokedex_data": {
+            "National No.": "0380",
+            "Type": [
+                "Dragon",
+                "Psychic"
+            ],
+            "Species": "Eon Poke\u0301mon",
+            "Height": "1.8 m (5\u203211\u2032\u2032)",
+            "Weight": "52.0 kg (114.6 lbs)",
+            "Abilities": {
+                "Levitate": {
+                    "href": "/ability/levitate",
+                    "effect": "Gives immunity to Ground type moves.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Sp. Def",
+            "Catch rate": "3",
+            "BaseFriendship": "90",
+            "Base Exp.": "315",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "0% male,100% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "80",
+                "Min": "270",
+                "Max": "364"
+            },
+            "Attack": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Defense": {
+                "Base": "120",
+                "Min": "220",
+                "Max": "372"
+            },
+            "Sp. Atk": {
+                "Base": "140",
+                "Min": "256",
+                "Max": "416"
+            },
+            "Sp. Def": {
+                "Base": "150",
+                "Min": "274",
+                "Max": "438"
+            },
+            "Speed": {
+                "Base": "110",
+                "Min": "202",
+                "Max": "350"
+            },
+            "Total": "700"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Ground": "no effect",
+                "Psychic": "not very effective",
+                "Bug": "super-effective",
+                "Ghost": "super-effective",
+                "Dragon": "super-effective",
+                "Dark": "super-effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Charm": "1",
+            "Stored Power": "1",
+            "Helping Hand": "5",
+            "Recover": "10",
+            "Confusion": "15",
+            "Tailwind": "20",
+            "Dragon Breath": "25",
+            "Wish": "30",
+            "Mist Ball": "35",
+            "Zen Headbutt": "40",
+            "Dragon Pulse": "45",
+            "Heal Pulse": "50",
+            "Reflect Type": "55",
+            "Psychic": "60",
+            "Guard Split": "65",
+            "Healing Wish": "70",
+            "Psycho Shift": "75"
+        },
+        "egg": {
+            "Draco Meteor": null
+        },
+        "null": {
+            "Draco Meteor": "130"
+        },
+        "tm": {
+            "Dragon Claw": "02",
+            "Water Pulse": "03",
+            "Calm Mind": "04",
+            "Roar": "05",
+            "Sunny Day": "11",
+            "Ice Beam": "13",
+            "Hyper Beam": "15",
+            "Light Screen": "16",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Safeguard": "20",
+            "Solar Beam": "22",
+            "Thunderbolt": "24",
+            "Thunder": "25",
+            "Earthquake": "26",
+            "Psychic": "29",
+            "Shadow Ball": "30",
+            "Double Team": "32",
+            "Reflect": "33",
+            "Shock Wave": "34",
+            "Sandstorm": "37",
+            "Aerial Ace": "40",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Steel Wing": "47",
+            "Roost": "51",
+            "Energy Ball": "53",
+            "Charge Beam": "57",
+            "Endure": "58",
+            "Dragon Pulse": "59",
+            "Shadow Claw": "65",
+            "Giga Impact": "68",
+            "Flash": "70",
+            "Thunder Wave": "73",
+            "Psych Up": "77",
+            "Sleep Talk": "82",
+            "Bulldoze": "83",
+            "Dream Eater": "85",
+            "Grass Knot": "86",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Cut": "93",
+            "Fly": "94",
+            "Surf": "95",
+            "Defog": "97",
+            "Waterfall": "99"
+        }
+    },
+    "entries": {
+        "Latias": [
+            "LATIAS is highly sensitive to the emotions of people. If it senses any hostility, this pok\u00e9mon ruffles the feathers all over its body and cries shrilly to intimidate the foe.",
+            "LATIAS is highly intelligent and capable of understanding human speech. It is covered with a glass-like down. The pok\u00e9mon enfolds its body with its down and refracts light to alter its appearance.",
+            "It can telepathically communicate with people. It changes its appearance using its down that refracts light.",
+            "They make a small herd of only several members. They rarely make contact with people or other pok\u00e9mon. They disappear if they sense enemies.",
+            "Its body is covered with a down that can refract light in such a way that it becomes invisible.",
+            "It communicates using telepathy. Its body is covered in down that refracts light to make it invisible.",
+            "Its body is covered with a down that can refract light in such a way that it becomes invisible.",
+            "It communicates using telepathy. Its body is covered in down that refracts light to make it invisible.",
+            "It can telepathically communicate with people. It changes its appearance using its down that refracts light.",
+            "Latias is highly sensitive to the emotions of people. If it senses any hostility, this Pok\u00e9mon ruffles the feathers all over its body and cries shrilly to intimidate the foe.",
+            "Latias is highly intelligent and capable of understanding human speech. It is covered with a glass-like down. The Pok\u00e9mon enfolds its body with its down and refracts light to alter its appearance.",
+            "Its body is covered with a down that can refract light in such a way that it becomes invisible."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789569713520721/380.png",
+    "discord_sprite": "<:P380:1132129453946966046>"
+}

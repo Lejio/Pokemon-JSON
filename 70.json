@@ -1,0 +1,212 @@
+{
+    "alt-version(s)": [],
+    "name": "Weepinbell",
+    "Weepinbell": {
+        "pokedex_data": {
+            "National No.": "0070",
+            "Type": [
+                "Grass",
+                "Poison"
+            ],
+            "Species": "Flycatcher Poke\u0301mon",
+            "Height": "1.0 m (3\u203203\u2032\u2032)",
+            "Weight": "6.4 kg (14.1 lbs)",
+            "Abilities": {
+                "Chlorophyll": {
+                    "href": "/ability/chlorophyll",
+                    "effect": "Boosts the Pok\u00e9mon's Speed in sunshine.",
+                    "hidden": false
+                },
+                "Gluttony": {
+                    "href": "/ability/gluttony",
+                    "effect": "Encourages the early use of a held Berry.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "120",
+            "BaseFriendship": "50",
+            "Base Exp.": "137",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "65",
+                "Min": "240",
+                "Max": "334"
+            },
+            "Attack": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Defense": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Atk": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Sp. Def": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Speed": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Total": "390"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Flying": "super-effective",
+                "Psychic": "super-effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Bellsprout",
+                    "nationalNo": "#0069",
+                    "type": [
+                        "Grass",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Weepinbell",
+                    "nationalNo": "#0070",
+                    "type": [
+                        "Grass",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 21)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Weepinbell",
+                    "nationalNo": "#0070",
+                    "type": [
+                        "Grass",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Victreebel",
+                    "nationalNo": "#0071",
+                    "type": [
+                        "Grass",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Leaf Stone)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Growth": "7",
+            "Vine Whip": "1",
+            "Wrap": "11",
+            "Sleep Powder": "13",
+            "Poison Powder": "15",
+            "Stun Spore": "17",
+            "Acid": "24",
+            "Knock Off": "29",
+            "Sweet Scent": "32",
+            "Gastro Acid": "39",
+            "Razor Leaf": "44",
+            "Poison Jab": "47",
+            "Slam": "54"
+        },
+        "egg": {
+            "Acid Spray": null,
+            "Belch": null,
+            "Clear Smog": null,
+            "Encore": null,
+            "Ingrain": null,
+            "Leech Life": null,
+            "Magical Leaf": null,
+            "Power Whip": null,
+            "Strength Sap": null,
+            "Synthesis": null,
+            "Tickle": null,
+            "Weather Ball": null,
+            "Worry Seed": null
+        },
+        "tm": {
+            "Bullet Seed": "09",
+            "Sunny Day": "11",
+            "Protect": "17",
+            "Giga Drain": "19",
+            "Solar Beam": "22",
+            "Double Team": "32",
+            "Reflect": "33",
+            "Sludge Bomb": "36",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Energy Ball": "53",
+            "Endure": "58",
+            "Flash": "70",
+            "Swords Dance": "75",
+            "Sleep Talk": "82",
+            "Poison Jab": "84",
+            "Grass Knot": "86",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Cut": "93"
+        }
+    },
+    "entries": {
+        "Weepinbell": [
+            "It spits out POISONPOWDER to immobilize the enemy and then finishes it with a spray of ACID.",
+            "When hungry, it swallows anything that moves. Its hapless prey is melted inside by strong acids.",
+            "Even though it is filled with ACID, it does not melt because it also oozes a neutralizing fluid.",
+            "If its prey is bigger than its mouth, it slices up the victim with sharp leaves, then eats every morsel.",
+            "When it\u2019s hungry, it swings its razor-sharp leaves, slicing up any unlucky object nearby for food.",
+            "WEEPINBELL has a large hook on its rear end. At night, the pok\u00e9mon hooks on to a tree branch and goes to sleep. If it moves around in its sleep, it may wake up to find itself on the ground.",
+            "The leafy parts act as cutters for slashing foes. It spits a fluid that dissolves everything.",
+            "It spits out POISONPOWDER to immobilize the enemy and then finishes it with a spray of ACID.",
+            "At night, a WEEPINBELL hangs on to a tree branch with its hooked rear and sleeps. If it moves around in its sleep, it may wake up to find itself on the ground.",
+            "A Pok\u00e9mon that appears to be a plant. It captures unwary prey by dousing them with a toxic powder.",
+            "Even though it is filled with acid, it does not melt because it also oozes a protective fluid.",
+            "If its prey is bigger than its mouth, it slices up the victim with sharp leaves, then eats every morsel.",
+            "A Pok\u00e9mon that appears to be a plant. It captures unwary prey by dousing them with a toxic powder.",
+            "The leafy parts act as cutters for slashing foes. It spits a fluid that dissolves everything.",
+            "It spits out Poison Powder to immobilize the enemy and then finishes it with a spray of Acid.",
+            "Weepinbell has a large hook on its rear end. At night, the Pok\u00e9mon hooks on to a tree branch and goes to sleep. If it moves around in its sleep, it may wake up to find itself on the ground.",
+            "When hungry, it swallows anything that moves. Its hapless prey is dissolved by strong acids.",
+            "This Pok\u00e9mon has the appearance of a plant. It captures unwary prey by dousing them with a toxic powder."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787137235296346/70.png",
+    "discord_sprite": "<:P70:1132115805195210834>"
+}

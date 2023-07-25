@@ -1,0 +1,198 @@
+{
+    "alt-version(s)": [],
+    "name": "Gogoat",
+    "Gogoat": {
+        "pokedex_data": {
+            "National No.": "0673",
+            "Type": [
+                "Grass"
+            ],
+            "Species": "Mount Poke\u0301mon",
+            "Height": "1.7 m (5\u203207\u2032\u2032)",
+            "Weight": "91.0 kg (200.6 lbs)",
+            "Abilities": {
+                "Sap Sipper": {
+                    "href": "/ability/sap-sipper",
+                    "effect": "Boosts Attack when hit by a Grass-type move.",
+                    "hidden": false
+                },
+                "Grass Pelt": {
+                    "href": "/ability/grass-pelt",
+                    "effect": "Boosts the Defense stat in Grassy Terrain.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 HP",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "186",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "123",
+                "Min": "356",
+                "Max": "450"
+            },
+            "Attack": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Defense": {
+                "Base": "62",
+                "Min": "116",
+                "Max": "245"
+            },
+            "Sp. Atk": {
+                "Base": "97",
+                "Min": "179",
+                "Max": "322"
+            },
+            "Sp. Def": {
+                "Base": "81",
+                "Min": "150",
+                "Max": "287"
+            },
+            "Speed": {
+                "Base": "68",
+                "Min": "126",
+                "Max": "258"
+            },
+            "Total": "531"
+        },
+        "defense_stats": {
+            "Sap Sipper ability": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "no effect",
+                "Ice": "super-effective",
+                "Poison": "super-effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Bug": "super-effective"
+            },
+            "Grass Pelt ability": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Poison": "super-effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Bug": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Skiddo",
+                    "nationalNo": "#0672",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Gogoat",
+                    "nationalNo": "#0673",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 32)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Earthquake": "1",
+            "Growth": "1",
+            "Tackle": "1",
+            "Tail Whip": "1",
+            "Vine Whip": "1",
+            "Leech Seed": "12",
+            "Razor Leaf": "13",
+            "Worry Seed": "16",
+            "Synthesis": "20",
+            "Take Down": "22",
+            "Bulldoze": "26",
+            "Seed Bomb": "30",
+            "Bulk Up": "34",
+            "Double-Edge": "40",
+            "Horn Leech": "47",
+            "Leaf Blade": "55",
+            "Milk Drink": "58"
+        },
+        "evolution": {
+            "Aerial Ace": "60"
+        },
+        "egg": {
+            "Defense Curl": null,
+            "Grassy Terrain": null,
+            "Milk Drink": null,
+            "Rollout": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Mud-Slap": "05",
+            "Protect": "07",
+            "Trailblaze": "20",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Bulldoze": "28",
+            "Magical Leaf": "33",
+            "Mud Shot": "35",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Dig": "55",
+            "Bullet Seed": "56",
+            "Brick Break": "58",
+            "Zen Headbutt": "59",
+            "Bulk Up": "64",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Seed Bomb": "71",
+            "Grass Knot": "81",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Substitute": "103",
+            "Giga Drain": "111",
+            "Energy Ball": "119",
+            "Surf": "123",
+            "Play Rough": "127",
+            "Helping Hand": "130",
+            "Grassy Terrain": "137",
+            "Wild Charge": "147",
+            "Earthquake": "149",
+            "Giga Impact": "152",
+            "Leaf Storm": "159",
+            "Hyper Beam": "163",
+            "Solar Beam": "168",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Gogoat": [
+            "It can tell how its Trainer is feeling by subtle shifts in the grip on its horns. This empathic sense lets them run as if one being.",
+            "They inhabit mountainous regions. The leader of the herd is decided by a battle of clashing horns.",
+            "It can sense the feelings of others by touching them with its horns. This species has assisted people with their work since 5,000 years ago.",
+            "These Pok\u00e9mon live in herds in mountainous places. The victor in their contests of clashing horns will become the leader of the herd."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791849460346920/673.png",
+    "discord_sprite": "<:P673:1132142357115060324>"
+}

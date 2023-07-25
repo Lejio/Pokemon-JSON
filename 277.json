@@ -1,0 +1,176 @@
+{
+    "alt-version(s)": [],
+    "name": "Swellow",
+    "Swellow": {
+        "pokedex_data": {
+            "National No.": "0277",
+            "Type": [
+                "Normal",
+                "Flying"
+            ],
+            "Species": "Swallow Poke\u0301mon",
+            "Height": "0.7 m (2\u203204\u2032\u2032)",
+            "Weight": "19.8 kg (43.7 lbs)",
+            "Abilities": {
+                "Guts": {
+                    "href": "/ability/guts",
+                    "effect": "Boosts Attack if there is a status problem.",
+                    "hidden": false
+                },
+                "Scrappy": {
+                    "href": "/ability/scrappy",
+                    "effect": "Enables moves to hit Ghost-type Pok\u00e9mon.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Speed",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "159",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "60",
+                "Min": "230",
+                "Max": "324"
+            },
+            "Attack": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Defense": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Atk": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Sp. Def": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Speed": {
+                "Base": "125",
+                "Min": "229",
+                "Max": "383"
+            },
+            "Total": "455"
+        },
+        "defense_stats": {
+            "default": {
+                "Electric": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Ground": "no effect",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Taillow",
+                    "nationalNo": "#0276",
+                    "type": [
+                        "Normal",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Swellow",
+                    "nationalNo": "#0277",
+                    "type": [
+                        "Normal",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 22)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Air Slash": "39",
+            "Brave Bird": "51",
+            "Focus Energy": "5",
+            "Growl": "1",
+            "Peck": "1",
+            "Pluck": "1",
+            "Quick Attack": "9",
+            "Wing Attack": "13",
+            "Double Team": "17",
+            "Aerial Ace": "21",
+            "Quick Guard": "27",
+            "Agility": "33",
+            "Endeavor": "45",
+            "Reversal": "57"
+        },
+        "egg": {
+            "Boomburst": null,
+            "Brave Bird": null,
+            "Hurricane": null,
+            "Sky Attack": null,
+            "Supersonic": null,
+            "Whirlwind": null
+        },
+        "tm": {
+            "Work Up": "10",
+            "Sunny Day": "11",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Double Team": "32",
+            "Aerial Ace": "40",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Steel Wing": "47",
+            "Roost": "51",
+            "Endure": "58",
+            "Giga Impact": "68",
+            "Sleep Talk": "82",
+            "Swagger": "87",
+            "Pluck": "88",
+            "U-turn": "89",
+            "Substitute": "90",
+            "Fly": "94",
+            "Defog": "97"
+        }
+    },
+    "entries": {
+        "Swellow": [
+            "SWELLOW flies high above our heads, making graceful arcs in the sky. This pok\u00e9mon dives at a steep angle as soon as it spots its prey. The hapless prey is tightly grasped by SWELLOW\u2019s clawed feet, preventing escape.",
+            "SWELLOW is very conscientious about the upkeep of its glossy wings. Once two SWELLOW are gathered, they diligently take care of cleaning each other\u2019s wings.",
+            "If its two tail feathers are standing at attention, it is proof of good health. It soars elegantly in the sky.",
+            "A SWELLOW dives upon prey from far above. It never misses its targets. It takes to the skies in search of lands with a warm climate.",
+            "It circles the sky in search of prey. When it spots one, it dives steeply to catch the prey.",
+            "It dives at a steep angle as soon as it spots its prey. It catches its prey with sharp claws.",
+            "It circles the sky in search of prey. When it spots one, it dives steeply to catch the prey.",
+            "If its two tail feathers are standing at attention, it is proof of good health. It soars elegantly in the sky.",
+            "It dives at a steep angle as soon as it spots its prey. It catches its prey with sharp claws.",
+            "Swellow flies high above our heads, making graceful arcs in the sky. This Pok\u00e9mon dives at a steep angle as soon as it spots its prey. The hapless prey is tightly grasped by Swellow\u2019s clawed feet, preventing escape.",
+            "Swellow is very conscientious about the upkeep of its glossy wings. Once two Swellow are gathered, they diligently take care of cleaning each other\u2019s wings.",
+            "It circles the sky in search of prey and dives sharply to catch its target."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788761701814372/277.png",
+    "discord_sprite": "<:P277:1132124933162545252>"
+}

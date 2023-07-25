@@ -1,0 +1,152 @@
+{
+    "alt-version(s)": [],
+    "name": "Magikarp",
+    "Magikarp": {
+        "pokedex_data": {
+            "National No.": "0129",
+            "Type": [
+                "Water"
+            ],
+            "Species": "Fish Poke\u0301mon",
+            "Height": "0.9 m (2\u203211\u2032\u2032)",
+            "Weight": "10.0 kg (22.0 lbs)",
+            "Abilities": {
+                "Swift Swim": {
+                    "href": "/ability/swift-swim",
+                    "effect": "Boosts the Pok\u00e9mon's Speed in rain.",
+                    "hidden": false
+                },
+                "Rattled": {
+                    "href": "/ability/rattled",
+                    "effect": "Bug, Ghost or Dark type moves scare it and boost its Speed.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Speed",
+            "Catch rate": "255",
+            "BaseFriendship": "50",
+            "Base Exp.": "40",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "20",
+                "Min": "150",
+                "Max": "244"
+            },
+            "Attack": {
+                "Base": "10",
+                "Min": "22",
+                "Max": "130"
+            },
+            "Defense": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Sp. Atk": {
+                "Base": "15",
+                "Min": "31",
+                "Max": "141"
+            },
+            "Sp. Def": {
+                "Base": "20",
+                "Min": "40",
+                "Max": "152"
+            },
+            "Speed": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Total": "200"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Magikarp",
+                    "nationalNo": "#0129",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Gyarados",
+                    "nationalNo": "#0130",
+                    "type": [
+                        "Water",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 20)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Splash": "1",
+            "Tackle": "15",
+            "Flail": "25"
+        },
+        "egg": null,
+        "tm": null
+    },
+    "entries": {
+        "Magikarp": [
+            "In the distant past, it was somewhat stronger than the horribly weak descendants that exist today.",
+            "Famous for being very unreliable. It can be found swimming in seas, lakes, rivers and shallow puddles.",
+            "An underpowered, pathetic pok\u00e9mon. It may jump high on rare occasions, but never more than seven feet.",
+            "For no reason, it jumps and splashes about, making it easy for predators like PIDGEOTTO to catch it mid-jump.",
+            "This weak and pathetic pok\u00e9mon gets easily pushed along rivers when there are strong currents.",
+            "MAGIKARP is a pathetic excuse for a pok\u00e9mon that is only capable of flopping and splashing. This behavior prompted scientists to undertake research into it.",
+            "MAGIKARP is virtually useless in battle as it can only splash around. As a result, it is considered to be weak. However, it is actually a very hardy pok\u00e9mon that can survive in any body of water no matter how polluted it is.",
+            "It is virtually worthless in terms of both power and speed. It is the most weak and pathetic pok\u00e9mon in the world.",
+            "In the distant past, it was somewhat stronger than the horribly weak descendants that exist today.",
+            "Its swimming muscles are weak, so it is easily washed away by currents. In places where water pools, you can see many MAGIKARP deposited there by the flow.",
+            "It is said to be the world\u2019s weakest Pok\u00e9mon. No one knows why it has managed to survive.",
+            "It is unable to swim against even slow-moving currents. It always splashes about for some reason.",
+            "A MAGIKARP living for many years can leap a mountain using Splash. The move remains useless, though.",
+            "An underpowered, pathetic Pok\u00e9mon. It may jump high on rare occasions, but usually not more than seven feet.",
+            "For no reason, it jumps and splashes about, making it easy for predators like PIDGEOTTO to catch it mid-jump.",
+            "A Magikarp living for many years can leap a mountain using Splash. The move remains useless, though.",
+            "It is virtually worthless in terms of both power and speed. It is the most weak and pathetic Pok\u00e9mon in the world.",
+            "In the distant past, it was somewhat stronger than the horribly weak descendants that exist today.",
+            "Magikarp is a pathetic excuse for a Pok\u00e9mon that is only capable of flopping and splashing. This behavior prompted scientists to undertake research into it.",
+            "Magikarp is virtually useless in battle as it can only splash around. As a result, it is considered to be weak. However, it is actually a very hardy Pok\u00e9mon that can survive in any body of water no matter how polluted it is.",
+            "Although weak and helpless, this Pok\u00e9mon is incredibly fertile. They exist in such multitudes, you\u2019ll soon grow tired of seeing them.",
+            "Its reckless leaps make it easy pickings for predators. On the bright side, many Pok\u00e9mon enjoy longer life spans, thanks to Magikarp.",
+            "In the distant past, they were fairly strong, but they have become gradually weaker over time.",
+            "Thanks to their strong hold on life, dirty water doesn\u2019t bother them at all. They live in waters all over the world!",
+            "Famous for being very unreliable. It can be found swimming in seas, lakes, rivers and shallow puddles.",
+            "It is virtually worthless in terms of both power and speed. It is the most weak and pathetic Pok\u00e9mon in the world.",
+            "This weak and pathetic Pok\u00e9mon gets easily pushed along rivers when there are strong currents.",
+            "It is said to be the world\u2019s weakest Pok\u00e9mon. No one knows why it has managed to survive.",
+            "It is unable to swim against even slow-moving currents. It always splashes about for some reason.",
+            "A feeble, pitiful imbecile of a Pok\u00e9mon that is nonetheless very hardy. Unperturbed by turbid water, it can be found living in all sorts of places.",
+            "An underpowered, pathetic Pok\u00e9mon. It may jump high on rare occasions but never more than seven feet.",
+            "In the distant past, it was somewhat stronger than the horribly weak descendants that exist today."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787597816021092/129.png",
+    "discord_sprite": "<:P129:1132118410206134416>"
+}

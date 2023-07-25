@@ -1,0 +1,245 @@
+{
+    "alt-version(s)": [],
+    "name": "Weavile",
+    "Weavile": {
+        "pokedex_data": {
+            "National No.": "0461",
+            "Type": [
+                "Dark",
+                "Ice"
+            ],
+            "Species": "Sharp Claw Poke\u0301mon",
+            "Height": "1.1 m (3\u203207\u2032\u2032)",
+            "Weight": "34.0 kg (75.0 lbs)",
+            "Abilities": {
+                "Pressure": {
+                    "href": "/ability/pressure",
+                    "effect": "The Pok\u00e9mon raises the foe's PP usage.",
+                    "hidden": false
+                },
+                "Pickpocket": {
+                    "href": "/ability/pickpocket",
+                    "effect": "Steals an item when hit by another Pok\u00e9mon.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack, 1 Speed",
+            "Catch rate": "45",
+            "BaseFriendship": "35",
+            "Base Exp.": "179",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "70",
+                "Min": "250",
+                "Max": "344"
+            },
+            "Attack": {
+                "Base": "120",
+                "Min": "220",
+                "Max": "372"
+            },
+            "Defense": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Atk": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Sp. Def": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Speed": {
+                "Base": "125",
+                "Min": "229",
+                "Max": "383"
+            },
+            "Total": "510"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Psychic": "no effect",
+                "Bug": "super-effective",
+                "Rock": "super-effective",
+                "Ghost": "not very effective",
+                "Dark": "not very effective",
+                "Steel": "super-effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Sneasel",
+                    "nationalNo": "#0215",
+                    "type": [
+                        "Dark",
+                        "Ice"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Weavile",
+                    "nationalNo": "#0461",
+                    "type": [
+                        "Dark",
+                        "Ice"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(hold Razor Claw, Nighttime)",
+                "shed": null
+            }
+        ],
+        [
+            {
+                "from": {
+                    "name": "Sneasel",
+                    "nationalNo": "#0215",
+                    "type": [
+                        "Fighting",
+                        "Poison"
+                    ],
+                    "nickname": "Hisuian Sneasel"
+                },
+                "to": {
+                    "name": "Sneasler",
+                    "nationalNo": "#0903",
+                    "type": [
+                        "Fighting",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Razor Claw, Daytime)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Agility": "1",
+            "Assurance": "1",
+            "Beat Up": "1",
+            "Ice Shard": "1",
+            "Leer": "1",
+            "Quick Attack": "1",
+            "Scratch": "1",
+            "Slash": "1",
+            "Taunt": "1",
+            "Metal Claw": "18",
+            "Icy Wind": "24",
+            "Fury Swipes": "30",
+            "Hone Claws": "36",
+            "Fling": "42",
+            "Nasty Plot": "48",
+            "Screech": "54",
+            "Night Slash": "60",
+            "Dark Pulse": "66"
+        },
+        "egg": {
+            "Bite": null,
+            "Counter": null,
+            "Double Hit": null,
+            "Fake Out": null,
+            "Feint": null,
+            "Ice Shard": null,
+            "Icicle Crash": null,
+            "Spite": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Fake Tears": "03",
+            "Agility": "04",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Water Pulse": "11",
+            "Low Kick": "12",
+            "Thief": "18",
+            "Trailblaze": "20",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Snarl": "30",
+            "Metal Claw": "31",
+            "Swift": "32",
+            "Icy Wind": "34",
+            "Low Sweep": "39",
+            "Fling": "43",
+            "Avalanche": "46",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Snowscape": "52",
+            "Dig": "55",
+            "False Swipe": "57",
+            "Brick Break": "58",
+            "Shadow Claw": "61",
+            "Foul Play": "62",
+            "Ice Punch": "69",
+            "Sleep Talk": "70",
+            "Metronome": "80",
+            "Poison Jab": "83",
+            "Rest": "85",
+            "Taunt": "87",
+            "Swords Dance": "88",
+            "Dark Pulse": "94",
+            "Substitute": "103",
+            "X-Scissor": "105",
+            "Shadow Ball": "114",
+            "Surf": "123",
+            "Ice Spinner": "124",
+            "Calm Mind": "129",
+            "Helping Hand": "130",
+            "Baton Pass": "132",
+            "Ice Beam": "135",
+            "Nasty Plot": "140",
+            "Blizzard": "143",
+            "Giga Impact": "152",
+            "Focus Blast": "158",
+            "Hyper Beam": "163",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Weavile": [
+            "They live in cold regions, forming groups of four or five that hunt prey with impressive coordination.",
+            "It sends signals to others by carving odd patterns in frost-covered trees and ice.",
+            "Evolution made it even more devious. It communicates by clawing signs in boulders.",
+            "It lives in snowy regions. It carves patterns in trees with its claws as a signal to others.",
+            "Evolution made it even more devious. It communicates by clawing signs in boulders.",
+            "They communicate by clawing signs in boulders and work together to surround enemies.",
+            "It lives in snowy regions. It carves patterns in trees with its claws as a signal to others.",
+            "They live in cold regions, forming groups of four or five that hunt prey with impressive coordination.",
+            "They travel in groups of four or five, leaving signs for one another on trees and rocks. They bring down their prey with coordinated attacks.",
+            "They dwell in cold places. This Pok\u00e9mon\u2019s main food source in Alola is Vulpix and Sandshrew, which they carefully divide among their group.",
+            "One Weavile will trip a Sandshrew and flip it over, and then another Weavile will deal the finishing blow with its sharp claws.",
+            "Thanks to its increased intelligence, scrapping over food is a thing of the past. A scratch from its claws will give you a case of frostbite!",
+            "They attack their quarry in packs. Prey as large as Mamoswine easily fall to the teamwork of a group of Weavile.",
+            "With its claws, it leaves behind signs for its friends to find. The number of distinct signs is said to be over 500.",
+            "They live in cold regions, forming groups of four or five that hunt prey with impressive coordination.",
+            "It sends signals to others of its kind by carving odd patterns on trees and ice.",
+            "This species corners prey as a pack, under the guidance of a leader. Weavile displays increased cunning, leading me to speculate that its evolution caused further brain development.",
+            "Evolution made it even more devious. It communicates by clawing signs in boulders.",
+            "They travel in groups of four or five, leaving signs for one another on trees and rocks. They bring down their prey with coordinated attacks."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790197328203887/461.png",
+    "discord_sprite": "<:P461:1132133015942873140>"
+}

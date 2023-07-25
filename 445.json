@@ -1,0 +1,312 @@
+{
+    "alt-version(s)": [
+        "Mega Garchomp"
+    ],
+    "name": "Garchomp",
+    "Garchomp": {
+        "pokedex_data": {
+            "National No.": "0445",
+            "Type": [
+                "Dragon",
+                "Ground"
+            ],
+            "Species": "Mach Poke\u0301mon",
+            "Height": "1.9 m (6\u203203\u2032\u2032)",
+            "Weight": "95.0 kg (209.4 lbs)",
+            "Abilities": {
+                "Sand Veil": {
+                    "href": "/ability/sand-veil",
+                    "effect": "Boosts the Pok\u00e9mon's evasion in a sandstorm.",
+                    "hidden": false
+                },
+                "Rough Skin": {
+                    "href": "/ability/rough-skin",
+                    "effect": "Inflicts damage to the attacker on contact.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Attack",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "300",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "108",
+                "Min": "326",
+                "Max": "420"
+            },
+            "Attack": {
+                "Base": "130",
+                "Min": "238",
+                "Max": "394"
+            },
+            "Defense": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Sp. Atk": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Sp. Def": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Speed": {
+                "Base": "102",
+                "Min": "188",
+                "Max": "333"
+            },
+            "Total": "600"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Electric": "no effect",
+                "Ice": "super-effective",
+                "Poison": "not very effective",
+                "Rock": "not very effective",
+                "Dragon": "super-effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "Mega Garchomp": {
+        "pokedex_data": {
+            "National No.": "0445",
+            "Type": [
+                "Dragon",
+                "Ground"
+            ],
+            "Species": "Mach Poke\u0301mon",
+            "Height": "1.9 m (6\u203203\u2032\u2032)",
+            "Weight": "95.0 kg (209.4 lbs)",
+            "Abilities": {
+                "Sand Force": {
+                    "href": "/ability/sand-force",
+                    "effect": "Boosts certain moves' power in a sandstorm.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Attack",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "315",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "108",
+                "Min": "326",
+                "Max": "420"
+            },
+            "Attack": {
+                "Base": "170",
+                "Min": "310",
+                "Max": "482"
+            },
+            "Defense": {
+                "Base": "115",
+                "Min": "211",
+                "Max": "361"
+            },
+            "Sp. Atk": {
+                "Base": "120",
+                "Min": "220",
+                "Max": "372"
+            },
+            "Sp. Def": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Speed": {
+                "Base": "92",
+                "Min": "170",
+                "Max": "311"
+            },
+            "Total": "700"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Electric": "no effect",
+                "Ice": "super-effective",
+                "Poison": "not very effective",
+                "Rock": "not very effective",
+                "Dragon": "super-effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Gible",
+                    "nationalNo": "#0443",
+                    "type": [
+                        "Dragon",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Gabite",
+                    "nationalNo": "#0444",
+                    "type": [
+                        "Dragon",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 24)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Gabite",
+                    "nationalNo": "#0444",
+                    "type": [
+                        "Dragon",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Garchomp",
+                    "nationalNo": "#0445",
+                    "type": [
+                        "Dragon",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 48)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Dragon Breath": "1",
+            "Sand Attack": "1",
+            "Sand Tomb": "1",
+            "Tackle": "1",
+            "Bulldoze": "18",
+            "Bite": "27",
+            "Slash": "34",
+            "Dragon Claw": "42",
+            "Dig": "52",
+            "Sandstorm": "62",
+            "Take Down": "72",
+            "Dragon Rush": "82"
+        },
+        "evolution": {
+            "Crunch": "80"
+        },
+        "egg": {
+            "Double-Edge": null,
+            "Metal Claw": null,
+            "Thrash": null,
+            "Twister": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Fire Fang": "08",
+            "Thunder Fang": "09",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Bulldoze": "28",
+            "Metal Claw": "31",
+            "Swift": "32",
+            "Mud Shot": "35",
+            "Rock Tomb": "36",
+            "Fling": "43",
+            "Dragon Tail": "44",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Sandstorm": "51",
+            "Dig": "55",
+            "False Swipe": "57",
+            "Brick Break": "58",
+            "Shadow Claw": "61",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Dragon Claw": "78",
+            "Poison Jab": "83",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Swords Dance": "88",
+            "Spikes": "90",
+            "Iron Head": "99",
+            "Power Gem": "101",
+            "Substitute": "103",
+            "Crunch": "108",
+            "Liquidation": "110",
+            "Dragon Pulse": "115",
+            "Stealth Rock": "116",
+            "Surf": "123",
+            "Flamethrower": "125",
+            "Helping Hand": "130",
+            "Earth Power": "133",
+            "Fire Blast": "141",
+            "Earthquake": "149",
+            "Stone Edge": "150",
+            "Giga Impact": "152",
+            "Outrage": "156",
+            "Hyper Beam": "163",
+            "Draco Meteor": "169",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Garchomp": [
+            "When it folds up its body and extends its wings, it looks like a jet plane. It flies at sonic speed.",
+            "It flies at speeds equal to a jet fighter plane. It never allows its prey to escape.",
+            "It is said that when one runs at high speed, its wings create blades of wind that can fell nearby trees.",
+            "Its body is covered in fine scales that reduce drag, enabling it to fly at high speeds.",
+            "It is said that when one runs at high speed, its wings create blades of wind that can fell nearby trees.",
+            "When it folds up its body and extends its wings, it looks like a jet plane. It flies at sonic speed.",
+            "It flies at speeds equal to a jet fighter plane. It never allows its prey to escape.",
+            "It can fly at speeds rivaling jet planes. It dives into flocks of bird Pok\u00e9mon and gulps the entire flock down whole.",
+            "The protuberances on its head serve as sensors. It can even detect distant prey.",
+            "It flies at the speed of sound while searching for prey, and it has midair battles with Salamence as the two compete for food.",
+            "Its fine scales don\u2019t just reduce wind resistance\u2014their sharp edges also cause injury to any opponent who attacks it.",
+            "Garchomp makes its home in volcanic mountains. It flies through the sky as fast as a jet airplane, hunting down as much prey as it can.",
+            "Garchomp is fast both underground and above. It can bring down prey and return to its den before its body has chilled from being outside.",
+            "When it folds up its body and extends its wings, it looks like a jet plane. It flies at sonic speed.",
+            "It flies at speeds equal to a jet fighter plane. It never allows its prey to escape.",
+            "Soars across the heavens at blinding speed\u2014a magnificent sight! It has a feral disposition. Utmost caution is required if one meets a Garchomp out in the wilds.",
+            "It is said that when one runs at high speed, its wings create blades of wind that can fell nearby trees.",
+            "The protuberances on its head serve as sensors. It can even detect distant prey."
+        ],
+        "Mega Garchomp": [
+            "Excess energy melted its arms and wings, transforming them into giant scythes.",
+            "Its vaunted wings become scythes, sending it mad with rage. It swings its scythes wildly and slices the ground to pieces.",
+            "Its arms and wings melted into something like scythes. Mad with rage, it rampages on and on.",
+            "Its disposition is more vicious than before its Mega Evolution. Garchomp carves its opponents up with the scythes on both arms."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790072723808376/445.png",
+    "discord_sprite": "<:P445:1132132311832469504>"
+}

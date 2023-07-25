@@ -1,0 +1,212 @@
+{
+    "alt-version(s)": [],
+    "name": "Kingdra",
+    "Kingdra": {
+        "pokedex_data": {
+            "National No.": "0230",
+            "Type": [
+                "Water",
+                "Dragon"
+            ],
+            "Species": "Dragon Poke\u0301mon",
+            "Height": "1.8 m (5\u203211\u2032\u2032)",
+            "Weight": "152.0 kg (335.1 lbs)",
+            "Abilities": {
+                "Swift Swim": {
+                    "href": "/ability/swift-swim",
+                    "effect": "Boosts the Pok\u00e9mon's Speed in rain.",
+                    "hidden": false
+                },
+                "Sniper": {
+                    "href": "/ability/sniper",
+                    "effect": "Powers up moves if they become critical hits.",
+                    "hidden": false
+                },
+                "Damp": {
+                    "href": "/ability/damp",
+                    "effect": "Prevents the use of self-destructing moves.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack, 1 Sp. Atk, 1 Sp. Def",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "243",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "75",
+                "Min": "260",
+                "Max": "354"
+            },
+            "Attack": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Defense": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Sp. Atk": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Sp. Def": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Speed": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Total": "540"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Dragon": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Horsea",
+                    "nationalNo": "#0116",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Seadra",
+                    "nationalNo": "#0117",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 32)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Seadra",
+                    "nationalNo": "#0117",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Kingdra",
+                    "nationalNo": "#0230",
+                    "type": [
+                        "Water",
+                        "Dragon"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(trade holding Dragon Scale)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Leer": "1",
+            "Smokescreen": "1",
+            "Twister": "1",
+            "Water Gun": "1",
+            "Whirlpool": "1",
+            "Yawn": "1",
+            "Focus Energy": "15",
+            "Dragon Breath": "20",
+            "Bubble Beam": "25",
+            "Agility": "30",
+            "Laser Focus": "37",
+            "Dragon Pulse": "44",
+            "Hydro Pump": "51",
+            "Dragon Dance": "58",
+            "Rain Dance": "65"
+        },
+        "egg": {
+            "Aurora Beam": null,
+            "Clear Smog": null,
+            "Disable": null,
+            "Dragon Breath": null,
+            "Flail": null,
+            "Muddy Water": null,
+            "Octazooka": null,
+            "Outrage": null,
+            "Splash": null
+        },
+        "null": {
+            "Draco Meteor": "130"
+        },
+        "tm": {
+            "Water Pulse": "03",
+            "Hail": "07",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Double Team": "32",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Scald": "49",
+            "Brine": "55",
+            "Endure": "58",
+            "Dragon Pulse": "59",
+            "Giga Impact": "68",
+            "Sleep Talk": "82",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Flash Cannon": "91",
+            "Surf": "95",
+            "Waterfall": "99"
+        }
+    },
+    "entries": {
+        "Kingdra": [
+            "It is said that it usually hides in underwater caves. It can create whirlpools by yawning.",
+            "It sleeps deep on the ocean floor to build its energy. It is said to cause tornadoes as it wakes.",
+            "It stores energy by sleeping at underwater depths at which no other life forms can survive.",
+            "KINGDRA lives at extreme ocean depths that are otherwise uninhabited. It has long been believed that the yawning of this pok\u00e9mon creates spiraling ocean currents.",
+            "KINGDRA sleeps on the seafloor where it is otherwise devoid of life. When a storm arrives, the pok\u00e9mon is said to awaken and wander about in search of prey.",
+            "It sleeps deep on the ocean floor to build its energy. It is said to cause tornadoes as it wakes.",
+            "It is said that it usually hides in underwater caves. It can create whirlpools by yawning.",
+            "It sleeps quietly, deep on the seafloor. When it comes up to the surface, it creates a huge whirlpool that can swallow even ships.",
+            "It lives in caves on the seafloor and creates giant whirlpools every time it moves.",
+            "It is said that it usually hides in underwater caves. It can create whirlpools by yawning.",
+            "It sleeps deep on the ocean floor to build its energy. It is said to cause tornadoes as it wakes.",
+            "It lives in caves on the seafloor and creates giant whirlpools every time it moves.",
+            "It is said that it usually hides in underwater caves. It can create whirlpools by yawning.",
+            "It stores energy by sleeping at underwater depths at which no other life-forms can survive.",
+            "Kingdra lives at extreme ocean depths that are otherwise uninhabited. It has long been believed that the yawning of this Pok\u00e9mon creates spiraling ocean currents.",
+            "Kingdra sleeps on the seafloor where it is otherwise devoid of life. When a storm arrives, the Pok\u00e9mon is said to awaken and wander about in search of prey.",
+            "With the arrival of a storm at sea, this Pok\u00e9mon will show itself on the surface. When a Kingdra and a Dragonite meet, a fierce battle ensues.",
+            "Scales shed by this Pok\u00e9mon have such a splendorous gleam to them that they\u2019ve been given to royalty as gifts.",
+            "It lives in caves on the seafloor and creates giant whirlpools every time it moves."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788391554498591/230.png",
+    "discord_sprite": "<:P230:1132122856327762032>"
+}

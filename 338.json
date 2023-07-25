@@ -1,0 +1,169 @@
+{
+    "alt-version(s)": [],
+    "name": "Solrock",
+    "Solrock": {
+        "pokedex_data": {
+            "National No.": "0338",
+            "Type": [
+                "Rock",
+                "Psychic"
+            ],
+            "Species": "Meteorite Poke\u0301mon",
+            "Height": "1.2 m (3\u203211\u2032\u2032)",
+            "Weight": "154.0 kg (339.5 lbs)",
+            "Abilities": {
+                "Levitate": {
+                    "href": "/ability/levitate",
+                    "effect": "Gives immunity to Ground type moves.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "161",
+            "Growth Rate": "Fast"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "90",
+                "Min": "290",
+                "Max": "384"
+            },
+            "Attack": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Defense": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Sp. Atk": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Sp. Def": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Speed": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Total": "460"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Grass": "super-effective",
+                "Poison": "not very effective",
+                "Ground": "no effect",
+                "Flying": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Confusion": "1",
+            "Flare Blitz": "1",
+            "Harden": "1",
+            "Morning Sun": "1",
+            "Rock Throw": "1",
+            "Tackle": "1",
+            "Hypnosis": "5",
+            "Rock Polish": "10",
+            "Rock Slide": "15",
+            "Zen Headbutt": "20",
+            "Cosmic Power": "25",
+            "Psychic": "30",
+            "Stone Edge": "35",
+            "Solar Beam": "40",
+            "Wonder Room": "45",
+            "Explosion": "50"
+        },
+        "egg": null,
+        "tm": {
+            "Calm Mind": "04",
+            "Sunny Day": "11",
+            "Hyper Beam": "15",
+            "Light Screen": "16",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Safeguard": "20",
+            "Solar Beam": "22",
+            "Earthquake": "26",
+            "Psychic": "29",
+            "Shadow Ball": "30",
+            "Double Team": "32",
+            "Reflect": "33",
+            "Flamethrower": "35",
+            "Sandstorm": "37",
+            "Fire Blast": "38",
+            "Rock Tomb": "39",
+            "Facade": "42",
+            "Rest": "44",
+            "Skill Swap": "48",
+            "Overheat": "50",
+            "Charge Beam": "57",
+            "Endure": "58",
+            "Will-O-Wisp": "61",
+            "Explosion": "64",
+            "Recycle": "67",
+            "Giga Impact": "68",
+            "Rock Polish": "69",
+            "Flash": "70",
+            "Stone Edge": "71",
+            "Gyro Ball": "74",
+            "Swords Dance": "75",
+            "Stealth Rock": "76",
+            "Psych Up": "77",
+            "Rock Slide": "80",
+            "Sleep Talk": "82",
+            "Bulldoze": "83",
+            "Dream Eater": "85",
+            "Grass Knot": "86",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Trick Room": "92"
+        }
+    },
+    "entries": {
+        "Solrock": [
+            "SOLROCK is a new species of pok\u00e9mon that is said to have fallen from space. It floats in air and moves silently. In battle, this pok\u00e9mon releases intensely bright light.",
+            "Sunlight is the source of SOLROCK\u2019s power. It is said to possess the ability to read the emotions of others. This pok\u00e9mon gives off intense heat while rotating its body.",
+            "It absorbs solar energy during the day. Always expressionless, it can sense what its foe is thinking.",
+            "Solar energy is the source of this pok\u00e9mon\u2019s power. On sunny days, groups of SOLROCK line up facing the sun and absorb its light.",
+            "A new Pok\u00e9mon species, rumored to be from the sun. It gives off light while spinning.",
+            "When it rotates itself, it gives off light similar to the sun, thus blinding its foes.",
+            "A new Pok\u00e9mon species, rumored to be from the sun. It gives off light while spinning.",
+            "Solar energy is the source of its power, so it is strong during the daytime. When it spins, its body shines.",
+            "Solar energy is the source of its power, so it is strong during the daytime. When it spins, its body shines.",
+            "It absorbs solar energy during the day. Always expressionless, it can sense what its foe is thinking.",
+            "Solrock is a new species of Pok\u00e9mon that is said to have fallen from space. It floats in air and moves silently. In battle, this Pok\u00e9mon releases intensely bright light.",
+            "Sunlight is the source of Solrock\u2019s power. It is said to possess the ability to read the emotions of others. This Pok\u00e9mon gives off intense heat while rotating its body.",
+            "When it rotates itself, it gives off light similar to the sun, thus blinding its foes.",
+            "Solar energy is the source of its power, so it is strong during the daytime. When it spins, its body shines.",
+            "This new Pok\u00e9mon species is rumored to be an avatar of the sun. The Pok\u00e9mon gives off light while spinning."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789241857363989/338.png",
+    "discord_sprite": "<:P338:1132127611645067325>"
+}

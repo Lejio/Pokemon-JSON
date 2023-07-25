@@ -1,0 +1,369 @@
+{
+    "alt-version(s)": [],
+    "name": "Vaporeon",
+    "Vaporeon": {
+        "pokedex_data": {
+            "National No.": "0134",
+            "Type": [
+                "Water"
+            ],
+            "Species": "Bubble Jet Poke\u0301mon",
+            "Height": "1.0 m (3\u203203\u2032\u2032)",
+            "Weight": "29.0 kg (63.9 lbs)",
+            "Abilities": {
+                "Water Absorb": {
+                    "href": "/ability/water-absorb",
+                    "effect": "Restores HP if hit by a Water-type move.",
+                    "hidden": false
+                },
+                "Hydration": {
+                    "href": "/ability/hydration",
+                    "effect": "Heals status problems if it is raining.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 HP",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "184",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "130",
+                "Min": "370",
+                "Max": "464"
+            },
+            "Attack": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Defense": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Atk": {
+                "Base": "110",
+                "Min": "202",
+                "Max": "350"
+            },
+            "Sp. Def": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Speed": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Total": "525"
+        },
+        "defense_stats": {
+            "Water Absorb ability": {
+                "Fire": "not very effective",
+                "Water": "no effect",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Steel": "not very effective"
+            },
+            "Hydration ability": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Eevee",
+                    "nationalNo": "#0133",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Vaporeon",
+                    "nationalNo": "#0134",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Water Stone)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Eevee",
+                    "nationalNo": "#0133",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Jolteon",
+                    "nationalNo": "#0135",
+                    "type": [
+                        "Electric"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Thunder Stone)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Eevee",
+                    "nationalNo": "#0133",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Flareon",
+                    "nationalNo": "#0136",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Fire Stone)",
+                "shed": null
+            }
+        ],
+        [
+            {
+                "from": {
+                    "name": "Eevee",
+                    "nationalNo": "#0133",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Espeon",
+                    "nationalNo": "#0196",
+                    "type": [
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(high Friendship, Daytime)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Eevee",
+                    "nationalNo": "#0133",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Umbreon",
+                    "nationalNo": "#0197",
+                    "type": [
+                        "Dark"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(high Friendship, Nighttime)",
+                "shed": null
+            }
+        ],
+        [
+            {
+                "from": {
+                    "name": "Eevee",
+                    "nationalNo": "#0133",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Leafeon",
+                    "nationalNo": "#0470",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Leaf Stone, or level up near a Mossy Rock)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Eevee",
+                    "nationalNo": "#0133",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Glaceon",
+                    "nationalNo": "#0471",
+                    "type": [
+                        "Ice"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Ice Stone, or level up near an Icy Rock)",
+                "shed": null
+            }
+        ],
+        [
+            {
+                "from": {
+                    "name": "Eevee",
+                    "nationalNo": "#0133",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Sylveon",
+                    "nationalNo": "#0700",
+                    "type": [
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(after Fairy-type move learned, and either \u2665\u2665 Affection in Gen 6-7 or high friendship in Gen 8+)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Baton Pass": "1",
+            "Bite": "1",
+            "Charm": "1",
+            "Copycat": "1",
+            "Covet": "1",
+            "Double-Edge": "1",
+            "Growl": "1",
+            "Helping Hand": "1",
+            "Swift": "1",
+            "Tackle": "1",
+            "Tail Whip": "1",
+            "Take Down": "1",
+            "Sand Attack": "5",
+            "Quick Attack": "10",
+            "Baby-Doll Eyes": "15",
+            "Haze": "20",
+            "Water Pulse": "25",
+            "Aurora Beam": "30",
+            "Aqua Ring": "35",
+            "Muddy Water": "40",
+            "Acid Armor": "45",
+            "Hydro Pump": "50",
+            "Last Resort": "55"
+        },
+        "evolution": {
+            "Water Gun": "40"
+        },
+        "egg": {
+            "Curse": null,
+            "Detect": null,
+            "Double Kick": null,
+            "Flail": null,
+            "Mud-Slap": null,
+            "Tickle": null,
+            "Wish": null,
+            "Yawn": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Charm": "02",
+            "Fake Tears": "03",
+            "Mud-Slap": "05",
+            "Protect": "07",
+            "Water Pulse": "11",
+            "Trailblaze": "20",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Swift": "32",
+            "Icy Wind": "34",
+            "Stored Power": "41",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Dig": "55",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Waterfall": "77",
+            "Rest": "85",
+            "Substitute": "103",
+            "Liquidation": "110",
+            "Shadow Ball": "114",
+            "Hyper Voice": "117",
+            "Surf": "123",
+            "Calm Mind": "129",
+            "Helping Hand": "130",
+            "Baton Pass": "132",
+            "Ice Beam": "135",
+            "Hydro Pump": "142",
+            "Blizzard": "143",
+            "Giga Impact": "152",
+            "Hyper Beam": "163",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Vaporeon": [
+            "Lives close to water. Its long tail is ridged with a fin which is often mistaken for a mermaid\u2019s.",
+            "Its cell structure is similar to water molecules. It will melt away and become invisible in water.",
+            "When VAPOREON\u2019s fins begin to vibrate, it is a sign that rain will come within a few hours.",
+            "It prefers beautiful shores. With cells similar to water molecules, it could melt in water.",
+            "As it uses the fins on the tip of its tail to swim, it blends with the water perfectly.",
+            "VAPOREON underwent a spontaneous mutation and grew fins and gills that allow it to live underwater. This pok\u00e9mon has the ability to freely control water.",
+            "Its body\u2019s cellular structure is similar to the molecular composition of water. It can melt invisibly in water.",
+            "Lives close to water. Its long tail is ridged with a fin which is often mistaken for a mermaid\u2019s.",
+            "VAPOREON underwent a spontaneous mutation and grew fins and gills that allow them to live underwater. They have the ability to freely control water.",
+            "It has evolved to be suitable for an aquatic life. It can invisibly melt away into water.",
+            "Its cell composition is similar to water molecules. As a result, it can melt away into water.",
+            "When VAPOREON\u2019s fins begin to vibrate, it is a sign that rain will come within a few hours.",
+            "It prefers beautiful shores. With cells similar to water molecules, it could melt in water.",
+            "Its cell composition is similar to water molecules. As a result, it can melt away into water.",
+            "Its cell composition is similar to water molecules. As a result, it can\u2019t be seen when it melts away into water.",
+            "It prefers beautiful shores. With cells similar to water molecules, it could melt in water.",
+            "It has evolved to be suitable for an aquatic life. It can invisibly melt away into water.",
+            "Vaporeon underwent a spontaneous mutation and grew fins and gills that allow it to live underwater. This Pok\u00e9mon has the ability to freely control water.",
+            "Its cells are composed of units much like water molecules. It lives close to water and is often mistaken for a mermaid.",
+            "Blending in with the water and erasing all signs of its presence, it patiently waits for its prey, fish Pok\u00e9mon.",
+            "Clean, clear waters are its usual habitat. When it\u2019s about to be attacked by an invading enemy, it dives into the water to hide.",
+            "It detects nearby moisture with its fin. When its fin begins trembling rapidly, that means rain will fall in a few hours.",
+            "Its cell structure is similar to water molecules. It melts into the water and becomes invisible.",
+            "When Vaporeon\u2019s fins begin to vibrate, it is a sign that rain will come within a few hours.",
+            "Its body\u2019s cellular structure is similar to the molecular composition of water. It can melt invisibly in water.",
+            "It has evolved to be suited for an aquatic life. It can become invisible when it melts away into water.",
+            "Tests show that its cells closely resemble water molecules, which perhaps explains its ability to conceal its form while submerged. I believe the origins of mermaid folklore lie with this Pok\u00e9mon.",
+            "It lives close to water. Its long tail is ridged with a fin, which is often mistaken for a mermaid\u2019s.",
+            "Its cell composition is similar to water molecules. As a result, it can\u2019t be seen when it melts away into water."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787636588150874/134.png",
+    "discord_sprite": "<:P134:1132118630969135165>"
+}

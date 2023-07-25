@@ -1,0 +1,195 @@
+{
+    "alt-version(s)": [],
+    "name": "Mightyena",
+    "Mightyena": {
+        "pokedex_data": {
+            "National No.": "0262",
+            "Type": [
+                "Dark"
+            ],
+            "Species": "Bite Poke\u0301mon",
+            "Height": "1.0 m (3\u203203\u2032\u2032)",
+            "Weight": "37.0 kg (81.6 lbs)",
+            "Abilities": {
+                "Intimidate": {
+                    "href": "/ability/intimidate",
+                    "effect": "Lowers the foe's Attack stat.",
+                    "hidden": false
+                },
+                "Quick Feet": {
+                    "href": "/ability/quick-feet",
+                    "effect": "Boosts Speed if there is a status problem.",
+                    "hidden": false
+                },
+                "Moxie": {
+                    "href": "/ability/moxie",
+                    "effect": "Boosts Attack after knocking out any Pok\u00e9mon.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "127",
+            "BaseFriendship": "50",
+            "Base Exp.": "147",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "70",
+                "Min": "250",
+                "Max": "344"
+            },
+            "Attack": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Defense": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Atk": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Def": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Speed": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Total": "420"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "super-effective",
+                "Psychic": "no effect",
+                "Bug": "super-effective",
+                "Ghost": "not very effective",
+                "Dark": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Poochyena",
+                    "nationalNo": "#0261",
+                    "type": [
+                        "Dark"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Mightyena",
+                    "nationalNo": "#0262",
+                    "type": [
+                        "Dark"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 18)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Bite": "10",
+            "Crunch": "40",
+            "Fire Fang": "1",
+            "Howl": "4",
+            "Ice Fang": "1",
+            "Sand Attack": "7",
+            "Snarl": "1",
+            "Tackle": "1",
+            "Thief": "1",
+            "Thunder Fang": "1",
+            "Mud-Slap": "13",
+            "Roar": "16",
+            "Swagger": "20",
+            "Assurance": "24",
+            "Scary Face": "28",
+            "Headbutt": "32",
+            "Taunt": "36",
+            "Yawn": "44",
+            "Take Down": "48",
+            "Sucker Punch": "52",
+            "Play Rough": "56"
+        },
+        "evolution": {
+            "Snarl": "55"
+        },
+        "egg": {
+            "Astonish": null,
+            "Covet": null,
+            "Fire Fang": null,
+            "Ice Fang": null,
+            "Leer": null,
+            "Play Rough": null,
+            "Poison Fang": null,
+            "Sucker Punch": null,
+            "Thunder Fang": null,
+            "Yawn": null
+        },
+        "tm": {
+            "Roar": "05",
+            "Sunny Day": "11",
+            "Taunt": "12",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Iron Tail": "23",
+            "Dig": "28",
+            "Shadow Ball": "30",
+            "Double Team": "32",
+            "Torment": "41",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Endure": "58",
+            "Nasty Plot": "63",
+            "Payback": "66",
+            "Giga Impact": "68",
+            "Snarl": "78",
+            "Dark Pulse": "79",
+            "Sleep Talk": "82",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Strength": "96",
+            "Rock Smash": "98"
+        }
+    },
+    "entries": {
+        "Mightyena": [
+            "MIGHTYENA gives obvious signals when it is preparing to attack. It starts to growl deeply and then flattens its body. This pok\u00e9mon will bite savagely with its sharply pointed fangs.",
+            "MIGHTYENA travel and act as a pack in the wild. The memory of its life in the wild compels the pok\u00e9mon to obey only those TRAINERS that it recognizes to possess superior skill.",
+            "It will always obey the commands of a skilled TRAINER. Its behavior arises from its living in packs in ancient times.",
+            "In the wild, MIGHTYENA live in a pack. They never defy their leader\u2019s orders. They defeat foes with perfectly coordinated teamwork.",
+            "It chases down prey in a pack. It will never disobey the commands of a skilled Trainer.",
+            "It chases down prey in a pack of around ten. They defeat foes with perfectly coordinated teamwork.",
+            "It chases down prey in a pack. It will never disobey the commands of a skilled Trainer.",
+            "It will always obey the commands of a skilled Trainer. Its behavior arises from its living in packs in ancient times.",
+            "It chases down prey in a pack of around ten. They defeat foes with perfectly coordinated teamwork.",
+            "Mightyena gives obvious signals when it is preparing to attack. It starts to growl deeply and then flattens its body. This Pok\u00e9mon will bite savagely with its sharply pointed fangs.",
+            "Mightyena travel and act as a pack in the wild. The memory of its life in the wild compels the Pok\u00e9mon to obey only those Trainers that it recognizes to possess superior skill.",
+            "It chases down prey in a pack. It will never disobey the commands of a skilled Trainer."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788644538130493/262.png",
+    "discord_sprite": "<:P262:1132124275676024882>"
+}

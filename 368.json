@@ -1,0 +1,199 @@
+{
+    "alt-version(s)": [],
+    "name": "Gorebyss",
+    "Gorebyss": {
+        "pokedex_data": {
+            "National No.": "0368",
+            "Type": [
+                "Water"
+            ],
+            "Species": "South Sea Poke\u0301mon",
+            "Height": "1.8 m (5\u203211\u2032\u2032)",
+            "Weight": "22.6 kg (49.8 lbs)",
+            "Abilities": {
+                "Swift Swim": {
+                    "href": "/ability/swift-swim",
+                    "effect": "Boosts the Pok\u00e9mon's Speed in rain.",
+                    "hidden": false
+                },
+                "Hydration": {
+                    "href": "/ability/hydration",
+                    "effect": "Heals status problems if it is raining.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Sp. Atk",
+            "Catch rate": "60",
+            "BaseFriendship": "50",
+            "Base Exp.": "170",
+            "Growth Rate": "Erratic"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "55",
+                "Min": "220",
+                "Max": "314"
+            },
+            "Attack": {
+                "Base": "84",
+                "Min": "155",
+                "Max": "293"
+            },
+            "Defense": {
+                "Base": "105",
+                "Min": "193",
+                "Max": "339"
+            },
+            "Sp. Atk": {
+                "Base": "114",
+                "Min": "209",
+                "Max": "359"
+            },
+            "Sp. Def": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Speed": {
+                "Base": "52",
+                "Min": "98",
+                "Max": "223"
+            },
+            "Total": "485"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Clamperl",
+                    "nationalNo": "#0366",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Huntail",
+                    "nationalNo": "#0367",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(trade holding Deep Sea Tooth)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Clamperl",
+                    "nationalNo": "#0366",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Gorebyss",
+                    "nationalNo": "#0368",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(trade holding Deep Sea Scale)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Confusion": "1",
+            "Iron Defense": "1",
+            "Shell Smash": "1",
+            "Water Gun": "1",
+            "Whirlpool": "1",
+            "Rain Dance": "5",
+            "Agility": "9",
+            "Draining Kiss": "11",
+            "Water Pulse": "14",
+            "Amnesia": "16",
+            "Aqua Ring": "19",
+            "Safeguard": "23",
+            "Dive": "26",
+            "Baton Pass": "29",
+            "Psychic": "34",
+            "Aqua Tail": "39",
+            "Coil": "45",
+            "Hydro Pump": "50"
+        },
+        "egg": {
+            "Aqua Ring": null,
+            "Body Slam": null,
+            "Confuse Ray": null,
+            "Muddy Water": null,
+            "Supersonic": null
+        },
+        "tm": {
+            "Water Pulse": "03",
+            "Hail": "07",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Safeguard": "20",
+            "Psychic": "29",
+            "Shadow Ball": "30",
+            "Double Team": "32",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Scald": "49",
+            "Brine": "55",
+            "Endure": "58",
+            "Giga Impact": "68",
+            "Psych Up": "77",
+            "Sleep Talk": "82",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Surf": "95",
+            "Waterfall": "99"
+        }
+    },
+    "entries": {
+        "Gorebyss": [
+            "GOREBYSS lives in the southern seas at extreme depths. Its body is built to withstand the enormous pressure of water at incredible depths. Because of this, this pok\u00e9mon\u2019s body is unharmed by ordinary attacks.",
+            "Although GOREBYSS is the very picture of elegance and beauty while swimming, it is also cruel. When it spots prey, this pok\u00e9mon inserts its thin mouth into the prey\u2019s body and drains the prey of its body fluids.",
+            "Its swimming form is exquisitely elegant. With its thin mouth, it feeds on seaweed that grows between rocks.",
+            "A GOREBYSS siphons the body fluids of prey through its thin, tubular mouth. Its light pink body color turns vivid when it finishes feeding.",
+            "It lives at the bottom of the sea. In the springtime, its pink body turns more vivid for some reason.",
+            "Its pink body becomes more vivid with the rise of water temperatures in the springtime.",
+            "It lives at the bottom of the sea. In the springtime, its pink body turns more vivid for some reason.",
+            "It lives at the bottom of the sea. In the springtime, its pink body turns more vivid for some reason.",
+            "Its swimming form is exquisitely elegant. With its thin mouth, it feeds on seaweed that grows between rocks.",
+            "Gorebyss lives in the southern seas at extreme depths. Its body is built to withstand the enormous pressure of water at incredible depths. Because of this, this Pok\u00e9mon\u2019s body is unharmed by ordinary attacks.",
+            "Although Gorebyss is the very picture of elegance and beauty while swimming, it is also cruel. When it spots prey, this Pok\u00e9mon inserts its thin mouth into the prey\u2019s body and drains the prey of its body fluids.",
+            "The color of its body changes with the water temperature. The coloration of Gorebyss in Alola is almost blindingly vivid.",
+            "It sucks bodily fluids out of its prey. The leftover meat sinks to the seafloor, where it becomes food for other Pok\u00e9mon.",
+            "It lives at the bottom of the sea. In the springtime, its pink body turns more vivid for some reason."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789475631071312/368.png",
+    "discord_sprite": "<:P368:1132128927628939304>"
+}

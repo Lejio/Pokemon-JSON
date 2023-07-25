@@ -1,0 +1,202 @@
+{
+    "alt-version(s)": [],
+    "name": "Panpour",
+    "Panpour": {
+        "pokedex_data": {
+            "National No.": "0515",
+            "Type": [
+                "Water"
+            ],
+            "Species": "Spray Poke\u0301mon",
+            "Height": "0.6 m (2\u203200\u2032\u2032)",
+            "Weight": "13.5 kg (29.8 lbs)",
+            "Abilities": {
+                "Gluttony": {
+                    "href": "/ability/gluttony",
+                    "effect": "Encourages the early use of a held Berry.",
+                    "hidden": false
+                },
+                "Torrent": {
+                    "href": "/ability/torrent",
+                    "effect": "Powers up Water-type moves in a pinch.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Speed",
+            "Catch rate": "190",
+            "BaseFriendship": "50",
+            "Base Exp.": "63",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "50",
+                "Min": "210",
+                "Max": "304"
+            },
+            "Attack": {
+                "Base": "53",
+                "Min": "99",
+                "Max": "225"
+            },
+            "Defense": {
+                "Base": "48",
+                "Min": "90",
+                "Max": "214"
+            },
+            "Sp. Atk": {
+                "Base": "53",
+                "Min": "99",
+                "Max": "225"
+            },
+            "Sp. Def": {
+                "Base": "48",
+                "Min": "90",
+                "Max": "214"
+            },
+            "Speed": {
+                "Base": "64",
+                "Min": "119",
+                "Max": "249"
+            },
+            "Total": "316"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Panpour",
+                    "nationalNo": "#0515",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Simipour",
+                    "nationalNo": "#0516",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Water Stone)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Play Nice": "1",
+            "Scratch": "1",
+            "Leer": "4",
+            "Lick": "7",
+            "Water Gun": "10",
+            "Fury Swipes": "13",
+            "Water Sport": "16",
+            "Bite": "19",
+            "Scald": "22",
+            "Taunt": "25",
+            "Fling": "28",
+            "Acrobatics": "31",
+            "Brine": "34",
+            "Recycle": "37",
+            "Natural Gift": "40",
+            "Crunch": "43"
+        },
+        "egg": {
+            "Aqua Ring": null,
+            "Aqua Tail": null,
+            "Astonish": null,
+            "Covet": null,
+            "Disarming Voice": null,
+            "Hydro Pump": null,
+            "Low Kick": null,
+            "Mud Sport": null,
+            "Nasty Plot": null,
+            "Role Play": null,
+            "Tickle": null
+        },
+        "null": {
+            "Aqua Tail": "90",
+            "Covet": "60",
+            "Endeavor": "\u2014",
+            "Focus Punch": "150",
+            "Gastro Acid": "\u2014",
+            "Gunk Shot": "120",
+            "Helping Hand": "\u2014",
+            "Ice Punch": "75",
+            "Icy Wind": "55",
+            "Iron Tail": "100",
+            "Knock Off": "65",
+            "Low Kick": "\u2014",
+            "Recycle": "\u2014",
+            "Role Play": "\u2014",
+            "Snore": "50",
+            "Uproar": "90",
+            "Water Pledge": "80",
+            "Water Pulse": "60"
+        },
+        "tm": {
+            "Work Up": "01",
+            "Toxic": "06",
+            "Hail": "07",
+            "Hidden Power": "10",
+            "Taunt": "12",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Frustration": "21",
+            "Return": "27",
+            "Double Team": "32",
+            "Rock Tomb": "39",
+            "Torment": "41",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Low Sweep": "47",
+            "Round": "48",
+            "Scald": "55",
+            "Fling": "56",
+            "Acrobatics": "62",
+            "Shadow Claw": "65",
+            "Payback": "66",
+            "Grass Knot": "86",
+            "Swagger": "87",
+            "Sleep Talk": "88",
+            "Substitute": "90",
+            "Surf": "94",
+            "Waterfall": "98",
+            "Confide": "100"
+        }
+    },
+    "entries": {
+        "Panpour": [
+            "The water stored inside the tuft on its head is full of nutrients. Plants that receive its water grow large.",
+            "It does not thrive in dry environments. It keeps itself damp by shooting water stored in its head tuft from its tail.",
+            "The water stored inside the tuft on its head is full of nutrients. It waters plants with it using its tail.",
+            "The water stored inside the tuft on its head is full of nutrients. It waters plants with it using its tail.",
+            "The water stored inside the tuft on its head is full of nutrients. Plants that receive its water grow large."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790616020385873/515.png",
+    "discord_sprite": "<:P515:1132135392485838868>"
+}

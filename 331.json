@@ -1,0 +1,205 @@
+{
+    "alt-version(s)": [],
+    "name": "Cacnea",
+    "Cacnea": {
+        "pokedex_data": {
+            "National No.": "0331",
+            "Type": [
+                "Grass"
+            ],
+            "Species": "Cactus Poke\u0301mon",
+            "Height": "0.4 m (1\u203204\u2032\u2032)",
+            "Weight": "51.3 kg (113.1 lbs)",
+            "Abilities": {
+                "Sand Veil": {
+                    "href": "/ability/sand-veil",
+                    "effect": "Boosts the Pok\u00e9mon's evasion in a sandstorm.",
+                    "hidden": false
+                },
+                "Water Absorb": {
+                    "href": "/ability/water-absorb",
+                    "effect": "Restores HP if hit by a Water-type move.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Sp. Atk",
+            "Catch rate": "190",
+            "BaseFriendship": "35",
+            "Base Exp.": "67",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "50",
+                "Min": "210",
+                "Max": "304"
+            },
+            "Attack": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Defense": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Atk": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Sp. Def": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Speed": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Total": "335"
+        },
+        "defense_stats": {
+            "Sand Veil ability": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Poison": "super-effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Bug": "super-effective"
+            },
+            "Water Absorb ability": {
+                "Fire": "super-effective",
+                "Water": "no effect",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Poison": "super-effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Bug": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Cacnea",
+                    "nationalNo": "#0331",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Cacturne",
+                    "nationalNo": "#0332",
+                    "type": [
+                        "Grass",
+                        "Dark"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 32)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Leer": "1",
+            "Poison Sting": "1",
+            "Absorb": "4",
+            "Growth": "7",
+            "Leech Seed": "10",
+            "Sand Attack": "13",
+            "Bullet Seed": "16",
+            "Power Trip": "19",
+            "Ingrain": "22",
+            "Payback": "26",
+            "Spikes": "30",
+            "Sucker Punch": "34",
+            "Pin Missile": "38",
+            "Energy Ball": "42",
+            "Cotton Spore": "46",
+            "Sandstorm": "50",
+            "Destiny Bond": "54"
+        },
+        "egg": null,
+        "tm": {
+            "Take Down": "01",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Low Kick": "12",
+            "Thief": "18",
+            "Trailblaze": "20",
+            "Facade": "25",
+            "Bulldoze": "28",
+            "Swift": "32",
+            "Magical Leaf": "33",
+            "Fling": "43",
+            "Venoshock": "45",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Sandstorm": "51",
+            "Dig": "55",
+            "Bullet Seed": "56",
+            "Brick Break": "58",
+            "Foul Play": "62",
+            "Body Slam": "66",
+            "Thunder Punch": "68",
+            "Sleep Talk": "70",
+            "Seed Bomb": "71",
+            "Drain Punch": "73",
+            "Grass Knot": "81",
+            "Poison Jab": "83",
+            "Rest": "85",
+            "Swords Dance": "88",
+            "Spikes": "90",
+            "Toxic Spikes": "91",
+            "Dark Pulse": "94",
+            "Substitute": "103",
+            "Giga Drain": "111",
+            "Energy Ball": "119",
+            "Encore": "122",
+            "Helping Hand": "130",
+            "Grassy Terrain": "137",
+            "Nasty Plot": "140",
+            "Leaf Storm": "159",
+            "Solar Beam": "168",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Cacnea": [
+            "CACNEA lives in arid locations such as deserts. It releases a strong aroma from its flower to attract prey. When prey comes near, this pok\u00e9mon shoots sharp thorns from its body to bring the victim down.",
+            "The more arid and harsh the environment, the more pretty and fragrant a flower CACNEA grows. This pok\u00e9mon battles by wildly swinging its thorny arms.",
+            "It prefers harsh environments such as deserts. It can survive for 30 days on water stored in its body.",
+            "CACNEA live in deserts with virtually no rainfall. It battles by swinging its thick, spiked arms. Once a year, a yellow flower blooms.",
+            "By storing water in its body, this desert dweller can survive for 30 days without water.",
+            "It lives in arid locations. Its yellow flowers bloom once a year.",
+            "By storing water in its body, this desert dweller can survive for 30 days without water.",
+            "It lives in arid locations. Its yellow flowers bloom once a year.",
+            "It prefers harsh environments such as deserts. It can survive for 30 days on water stored in its body.",
+            "Cacnea lives in arid locations such as deserts. It releases a strong aroma from its flower to attract prey. When prey comes near, this Pok\u00e9mon shoots sharp thorns from its body to bring the victim down.",
+            "The more arid and harsh the environment, the more pretty and fragrant a flower Cacnea grows. This Pok\u00e9mon battles by wildly swinging its thorny arms.",
+            "By storing water in its body, this desert dweller can survive for 30 days without water.",
+            "It prefers harsh environments, such as deserts. It can survive for 30 days on water stored in its body.",
+            "It lives in arid locations. Its yellow flowers bloom once a year."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789187557900368/331.png",
+    "discord_sprite": "<:P331:1132127302696841217>"
+}

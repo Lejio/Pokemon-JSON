@@ -1,0 +1,319 @@
+{
+    "alt-version(s)": [
+        "Mega Salamence"
+    ],
+    "name": "Salamence",
+    "Salamence": {
+        "pokedex_data": {
+            "National No.": "0373",
+            "Type": [
+                "Dragon",
+                "Flying"
+            ],
+            "Species": "Dragon Poke\u0301mon",
+            "Height": "1.5 m (4\u203211\u2032\u2032)",
+            "Weight": "102.6 kg (226.2 lbs)",
+            "Abilities": {
+                "Intimidate": {
+                    "href": "/ability/intimidate",
+                    "effect": "Lowers the foe's Attack stat.",
+                    "hidden": false
+                },
+                "Moxie": {
+                    "href": "/ability/moxie",
+                    "effect": "Boosts Attack after knocking out any Pok\u00e9mon.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Attack",
+            "Catch rate": "45",
+            "BaseFriendship": "35",
+            "Base Exp.": "300",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "95",
+                "Min": "300",
+                "Max": "394"
+            },
+            "Attack": {
+                "Base": "135",
+                "Min": "247",
+                "Max": "405"
+            },
+            "Defense": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Sp. Atk": {
+                "Base": "110",
+                "Min": "202",
+                "Max": "350"
+            },
+            "Sp. Def": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Speed": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Total": "600"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Ground": "no effect",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Dragon": "super-effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "Mega Salamence": {
+        "pokedex_data": {
+            "National No.": "0373",
+            "Type": [
+                "Dragon",
+                "Flying"
+            ],
+            "Species": "Dragon Poke\u0301mon",
+            "Height": "1.8 m (5\u203211\u2032\u2032)",
+            "Weight": "112.6 kg (248.2 lbs)",
+            "Abilities": {
+                "Aerilate": {
+                    "href": "/ability/aerilate",
+                    "effect": "Turns Normal-type moves into Flying-type moves.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Attack",
+            "Catch rate": "45",
+            "BaseFriendship": "35",
+            "Base Exp.": "315",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "95",
+                "Min": "300",
+                "Max": "394"
+            },
+            "Attack": {
+                "Base": "145",
+                "Min": "265",
+                "Max": "427"
+            },
+            "Defense": {
+                "Base": "130",
+                "Min": "238",
+                "Max": "394"
+            },
+            "Sp. Atk": {
+                "Base": "120",
+                "Min": "220",
+                "Max": "372"
+            },
+            "Sp. Def": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Speed": {
+                "Base": "120",
+                "Min": "220",
+                "Max": "372"
+            },
+            "Total": "700"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Ground": "no effect",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Dragon": "super-effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Bagon",
+                    "nationalNo": "#0371",
+                    "type": [
+                        "Dragon"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Shelgon",
+                    "nationalNo": "#0372",
+                    "type": [
+                        "Dragon"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 30)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Shelgon",
+                    "nationalNo": "#0372",
+                    "type": [
+                        "Dragon"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Salamence",
+                    "nationalNo": "#0373",
+                    "type": [
+                        "Dragon",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 50)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Bite": "1",
+            "Dragon Breath": "1",
+            "Dragon Tail": "1",
+            "Dual Wingbeat": "1",
+            "Ember": "1",
+            "Leer": "1",
+            "Protect": "1",
+            "Roost": "1",
+            "Headbutt": "15",
+            "Scary Face": "20",
+            "Crunch": "25",
+            "Dragon Claw": "33",
+            "Zen Headbutt": "39",
+            "Focus Energy": "46",
+            "Flamethrower": "55",
+            "Double-Edge": "73"
+        },
+        "evolution": {
+            "Fly": "90"
+        },
+        "egg": {
+            "Defense Curl": null,
+            "Dragon Rush": null,
+            "Thrash": null,
+            "Twister": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Mud-Slap": "05",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Fire Fang": "08",
+            "Thunder Fang": "09",
+            "Fire Spin": "24",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Bulldoze": "28",
+            "Swift": "32",
+            "Rock Tomb": "36",
+            "Dragon Tail": "44",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Brick Break": "58",
+            "Zen Headbutt": "59",
+            "Shadow Claw": "61",
+            "Psychic Fangs": "63",
+            "Air Slash": "65",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Dragon Claw": "78",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Fly": "97",
+            "Iron Head": "99",
+            "Dragon Dance": "100",
+            "Substitute": "103",
+            "Iron Defense": "104",
+            "Crunch": "108",
+            "Tailwind": "113",
+            "Dragon Pulse": "115",
+            "Hyper Voice": "117",
+            "Heat Wave": "118",
+            "Flamethrower": "125",
+            "Helping Hand": "130",
+            "Fire Blast": "141",
+            "Hydro Pump": "142",
+            "Earthquake": "149",
+            "Stone Edge": "150",
+            "Giga Impact": "152",
+            "Outrage": "156",
+            "Hurricane": "160",
+            "Hyper Beam": "163",
+            "Draco Meteor": "169",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Salamence": [
+            "SALAMENCE came about as a result of a strong, long-held dream of growing wings. It is said that this powerful desire triggered a sudden mutation in this pok\u00e9mon\u2019s cells, causing it to sprout its magnificent wings.",
+            "By evolving into SALAMENCE, this pok\u00e9mon finally realizes its long-held dream of growing wings. To express its joy, it flies and wheels all over the sky while spouting flames from its mouth.",
+            "It becomes uncontrollable if it is enraged. It destroys everything with shredding claws and fire.",
+            "After many long years, its cellular structure underwent a sudden mutation to grow wings. When angered, it loses all thought and rampages out of control.",
+            "As a result of its long-held dream of flying, its cellular structure changed, and wings grew out.",
+            "It\u2019s uncontrollable if enraged. It flies around spouting flames and scorching fields and mountains.",
+            "As a result of its long-held dream of flying, its cellular structure changed, and wings grew out.",
+            "It becomes uncontrollable if it is enraged. It destroys everything with shredding claws and fire.",
+            "It\u2019s uncontrollable if enraged. It flies around spouting flames and scorching fields and mountains.",
+            "Salamence came about as a result of a strong, long-held dream of growing wings. It is said that this powerful desire triggered a sudden mutation in this Pok\u00e9mon\u2019s cells, causing it to sprout its magnificent wings.",
+            "By evolving into Salamence, this Pok\u00e9mon finally realizes its long-held dream of growing wings. To express its joy, it flies and wheels all over the sky while spouting flames from its mouth.",
+            "When angered, it loses all sense of itself and destroys everything around it. The destruction will continue until Salamence has tired itself out.",
+            "It flies around on its wings, which have grown in at last. In its happiness, it gushes hot flames, burning up the fields it passes over.",
+            "Overjoyed at finally being able to fly, it flies all over the place and usually doesn\u2019t land until it\u2019s completely exhausted and needs to sleep.",
+            "Thanks to its fervent wishes, the cells in its body finally mutated, and at last it has its heart\u2019s desire\u2014wings.",
+            "Salamence is an unusual Pok\u00e9mon in that it was able to evolve a body with wings just by constantly wishing to be able to fly.",
+            "While basking in the joy of flight generally keeps this Pok\u00e9mon in high spirits, Salamence turns into an uncontrollable menace if something angers it.",
+            "As a result of its long-held dream of flying, its cellular structure changed, and wings grew out.",
+            "It flies around on its wings, which have grown in at last. In its happiness, it gushes hot flames, burning up everything it passes over.",
+            "It becomes uncontrollable if it is enraged. It destroys everything with shredding claws and fire."
+        ],
+        "Mega Salamence": [
+            "Anyone standing in its path gets sliced right in two, while this Pok\u00e9mon continues its flight without interruption.",
+            "Mega Evolution fuels its brutality, and it may even turn on the Trainer who raised it. It\u2019s been dubbed \u201cthe blood-soaked crescent.\u201d",
+            "The stress of its two proud wings becoming misshapen and stuck together because of strong energy makes it go on a rampage.",
+            "It puts its forelegs inside its shell to streamline itself for flight. Salamence flies at high speeds over all kinds of topographical features."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789514424197200/373.png",
+    "discord_sprite": "<:P373:1132129146332512418>"
+}

@@ -1,0 +1,158 @@
+{
+    "alt-version(s)": [],
+    "name": "Regice",
+    "Regice": {
+        "pokedex_data": {
+            "National No.": "0378",
+            "Type": [
+                "Ice"
+            ],
+            "Species": "Iceberg Poke\u0301mon",
+            "Height": "1.8 m (5\u203211\u2032\u2032)",
+            "Weight": "175.0 kg (385.8 lbs)",
+            "Abilities": {
+                "Clear Body": {
+                    "href": "/ability/clear-body",
+                    "effect": "Prevents other Pok\u00e9mon from lowering its stats.",
+                    "hidden": false
+                },
+                "Ice Body": {
+                    "href": "/ability/ice-body",
+                    "effect": "The Pok\u00e9mon gradually regains HP in a hailstorm.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Sp. Def",
+            "Catch rate": "3",
+            "BaseFriendship": "35",
+            "Base Exp.": "261",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "80",
+                "Min": "270",
+                "Max": "364"
+            },
+            "Attack": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Defense": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Sp. Atk": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Sp. Def": {
+                "Base": "200",
+                "Min": "364",
+                "Max": "548"
+            },
+            "Speed": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Total": "580"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Rock": "super-effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Charge Beam": "1",
+            "Icy Wind": "1",
+            "Bulldoze": "6",
+            "Ancient Power": "12",
+            "Stomp": "18",
+            "Ice Beam": "24",
+            "Curse": "30",
+            "Amnesia": "36",
+            "Hammer Arm": "42",
+            "Blizzard": "48",
+            "Superpower": "54",
+            "Lock-On": "60",
+            "Zap Cannon": "66",
+            "Hyper Beam": "72",
+            "Explosion": "78"
+        },
+        "egg": null,
+        "tm": {
+            "Focus Punch": "01",
+            "Hail": "07",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Safeguard": "20",
+            "Thunderbolt": "24",
+            "Thunder": "25",
+            "Earthquake": "26",
+            "Brick Break": "31",
+            "Double Team": "32",
+            "Shock Wave": "34",
+            "Rock Tomb": "39",
+            "Facade": "42",
+            "Rest": "44",
+            "Focus Blast": "52",
+            "Fling": "56",
+            "Charge Beam": "57",
+            "Endure": "58",
+            "Explosion": "64",
+            "Giga Impact": "68",
+            "Rock Polish": "69",
+            "Avalanche": "72",
+            "Thunder Wave": "73",
+            "Psych Up": "77",
+            "Rock Slide": "80",
+            "Sleep Talk": "82",
+            "Bulldoze": "83",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Flash Cannon": "91",
+            "Strength": "96",
+            "Rock Smash": "98",
+            "Rock Climb": "100"
+        }
+    },
+    "entries": {
+        "Regice": [
+            "REGICE\u2019s body was made during an ice age. The deep-frozen body can\u2019t be melted, even by fire. This pok\u00e9mon controls frigid air of minus 328 degrees F.",
+            "REGICE cloaks itself with frigid air of negative 328 degrees F. Things will freeze solid just by going near this pok\u00e9mon. Its icy body is so cold, it will not melt even if it is immersed in magma.",
+            "Research revealed that its body is made of the same kind of ice that is found at the South Pole.",
+            "Its entire body is made of Antarctic ice. After extensive studies, researchers believe the ice was formed during an ice age.",
+            "Its body is made of ice from the ice age. It controls frigid air of -328 degrees Fahrenheit.",
+            "It is said to have slept in a glacier for thousands of years. Its body can\u2019t be melted, even by magma.",
+            "Its body is made of ice from the ice age. It controls frigid air of -328 degrees Fahrenheit.",
+            "It is said to have slept in a glacier for thousands of years. Its body can\u2019t be melted, even by magma.",
+            "Its body is made of ice from the ice age. It controls frigid air of -328 degrees Fahrenheit.",
+            "Regice\u2019s body was made during an ice age. The deep-frozen body can\u2019t be melted, even by fire. This Pok\u00e9mon controls frigid air of -328 degrees Fahrenheit.",
+            "Regice cloaks itself with frigid air of -328 degrees Fahrenheit. Things will freeze solid just by going near this Pok\u00e9mon. Its icy body is so cold, it will not melt even if it is immersed in magma.",
+            "With cold air that can reach temperatures as low as \u2212328 degrees Fahrenheit, Regice instantly freezes any creature that approaches it.",
+            "This Pok\u00e9mon\u2019s body is made of solid ice. It\u2019s said that Regice was born beneath thick ice in the ice age.",
+            "Its body is made of ice from the ice age. It controls frigid air of \u2212328 degrees Fahrenheit."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789554756624421/378.png",
+    "discord_sprite": "<:P378:1132129366806114414>"
+}

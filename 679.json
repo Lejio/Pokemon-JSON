@@ -1,0 +1,198 @@
+{
+    "alt-version(s)": [],
+    "name": "Honedge",
+    "Honedge": {
+        "pokedex_data": {
+            "National No.": "0679",
+            "Type": [
+                "Steel",
+                "Ghost"
+            ],
+            "Species": "Sword Poke\u0301mon",
+            "Height": "0.8 m (2\u203207\u2032\u2032)",
+            "Weight": "2.0 kg (4.4 lbs)",
+            "Abilities": {
+                "No Guard": {
+                    "href": "/ability/no-guard",
+                    "effect": "Ensures attacks by or against the Pok\u00e9mon land.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Defense",
+            "Catch rate": "180",
+            "BaseFriendship": "50",
+            "Base Exp.": "65",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "45",
+                "Min": "200",
+                "Max": "294"
+            },
+            "Attack": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Defense": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Sp. Atk": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Sp. Def": {
+                "Base": "37",
+                "Min": "71",
+                "Max": "190"
+            },
+            "Speed": {
+                "Base": "28",
+                "Min": "54",
+                "Max": "170"
+            },
+            "Total": "325"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "no effect",
+                "Fire": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Fighting": "no effect",
+                "Poison": "no effect",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Ghost": "super-effective",
+                "Dragon": "not very effective",
+                "Dark": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Honedge",
+                    "nationalNo": "#0679",
+                    "type": [
+                        "Steel",
+                        "Ghost"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Doublade",
+                    "nationalNo": "#0680",
+                    "type": [
+                        "Steel",
+                        "Ghost"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 35)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Doublade",
+                    "nationalNo": "#0680",
+                    "type": [
+                        "Steel",
+                        "Ghost"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Aegislash",
+                    "nationalNo": "#0681",
+                    "type": [
+                        "Steel",
+                        "Ghost"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Dusk Stone)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Fury Cutter": "1",
+            "Tackle": "1",
+            "Shadow Sneak": "4",
+            "Autotomize": "8",
+            "Aerial Ace": "12",
+            "Metal Sound": "16",
+            "Slash": "20",
+            "Night Slash": "24",
+            "Retaliate": "28",
+            "Iron Defense": "32",
+            "Iron Head": "36",
+            "Power Trick": "40",
+            "Swords Dance": "44",
+            "Sacred Sword": "48"
+        },
+        "egg": {
+            "Block": null,
+            "Destiny Bond": null,
+            "Wide Guard": null
+        },
+        "tm": {
+            "Solar Blade": "12",
+            "Screech": "16",
+            "Reflect": "18",
+            "Rest": "21",
+            "Rock Slide": "22",
+            "Snore": "24",
+            "Protect": "25",
+            "Attract": "31",
+            "Rain Dance": "33",
+            "Facade": "39",
+            "Brick Break": "43",
+            "Shadow Claw": "65",
+            "Psycho Cut": "69",
+            "Round": "76",
+            "Retaliate": "79",
+            "False Swipe": "94",
+            "Brutal Swing": "97"
+        },
+        "null": {
+            "Swords Dance": "00",
+            "Substitute": "20",
+            "Reversal": "21",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Iron Defense": "46",
+            "Gyro Ball": "52",
+            "Close Combat": "53",
+            "Flash Cannon": "70",
+            "Iron Head": "74"
+        }
+    },
+    "entries": {
+        "Honedge": [
+            "Apparently this Pok\u00e9mon is born when a departed spirit inhabits a sword. It attaches itself to people and drinks their life force.",
+            "If anyone dares to grab its hilt, it wraps a blue cloth around that person\u2019s arm and drains that person\u2019s life energy completely.",
+            "Honedge\u2019s soul once belonged to a person who was killed a long time ago by the sword that makes up Honedge\u2019s body.",
+            "The blue eye on the sword\u2019s handguard is the true body of Honedge. With its old cloth, it drains people\u2019s lives away."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791896730152990/679.png",
+    "discord_sprite": "<:P679:1132142619233898606>"
+}

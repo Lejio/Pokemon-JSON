@@ -1,0 +1,221 @@
+{
+    "alt-version(s)": [],
+    "name": "Psyduck",
+    "Psyduck": {
+        "pokedex_data": {
+            "National No.": "0054",
+            "Type": [
+                "Water"
+            ],
+            "Species": "Duck Poke\u0301mon",
+            "Height": "0.8 m (2\u203207\u2032\u2032)",
+            "Weight": "19.6 kg (43.2 lbs)",
+            "Abilities": {
+                "Damp": {
+                    "href": "/ability/damp",
+                    "effect": "Prevents the use of self-destructing moves.",
+                    "hidden": false
+                },
+                "Cloud Nine": {
+                    "href": "/ability/cloud-nine",
+                    "effect": "Eliminates the effects of weather.",
+                    "hidden": false
+                },
+                "Swift Swim": {
+                    "href": "/ability/swift-swim",
+                    "effect": "Boosts the Pok\u00e9mon's Speed in rain.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Sp. Atk",
+            "Catch rate": "190",
+            "BaseFriendship": "50",
+            "Base Exp.": "64",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "50",
+                "Min": "210",
+                "Max": "304"
+            },
+            "Attack": {
+                "Base": "52",
+                "Min": "98",
+                "Max": "223"
+            },
+            "Defense": {
+                "Base": "48",
+                "Min": "90",
+                "Max": "214"
+            },
+            "Sp. Atk": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Def": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Speed": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Total": "320"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Psyduck",
+                    "nationalNo": "#0054",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Golduck",
+                    "nationalNo": "#0055",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 33)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Scratch": "1",
+            "Tail Whip": "1",
+            "Water Gun": "3",
+            "Confusion": "6",
+            "Fury Swipes": "9",
+            "Water Pulse": "12",
+            "Disable": "15",
+            "Zen Headbutt": "18",
+            "Screech": "21",
+            "Aqua Tail": "24",
+            "Soak": "27",
+            "Psych Up": "30",
+            "Amnesia": "34",
+            "Wonder Room": "39"
+        },
+        "egg": {
+            "Clear Smog": null,
+            "Confuse Ray": null,
+            "Cross Chop": null,
+            "Hypnosis": null,
+            "Psybeam": null,
+            "Simple Beam": null,
+            "Yawn": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Protect": "07",
+            "Water Pulse": "11",
+            "Low Kick": "12",
+            "Psybeam": "16",
+            "Confuse Ray": "17",
+            "Thief": "18",
+            "Trailblaze": "20",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Swift": "32",
+            "Icy Wind": "34",
+            "Mud Shot": "35",
+            "Low Sweep": "39",
+            "Fling": "43",
+            "Endure": "47",
+            "Rain Dance": "50",
+            "Psyshock": "54",
+            "Dig": "55",
+            "Brick Break": "58",
+            "Zen Headbutt": "59",
+            "Shadow Claw": "61",
+            "Body Slam": "66",
+            "Ice Punch": "69",
+            "Sleep Talk": "70",
+            "Light Screen": "75",
+            "Waterfall": "77",
+            "Metronome": "80",
+            "Rest": "85",
+            "Taunt": "87",
+            "Skill Swap": "98",
+            "Substitute": "103",
+            "Liquidation": "110",
+            "Psychic": "120",
+            "Encore": "122",
+            "Surf": "123",
+            "Amnesia": "128",
+            "Calm Mind": "129",
+            "Helping Hand": "130",
+            "Ice Beam": "135",
+            "Nasty Plot": "140",
+            "Hydro Pump": "142",
+            "Blizzard": "143",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Psyduck": [
+            "While lulling its enemies with its vacant look, this wily pok\u00e9mon will use psychokinetic powers.",
+            "Always tormented by headaches. It uses psychic powers, but it is not known if it intends to do so.",
+            "It has mystical powers but doesn\u2019t recall that it has used them. That is why it always looks puzzled.",
+            "If its chronic headache peaks, it may exhibit odd powers. It seems unable to recall such an episode.",
+            "The only time it can use its psychic power is when its sleeping brain cells happen to wake.",
+            "PSYDUCK uses a mysterious power. When it does so, this pok\u00e9mon generates brain waves that are supposedly only seen in sleepers. This discovery spurred controversy among scholars.",
+            "If it uses its mysterious power, PSYDUCK can\u2019t remember having done so. It apparently can\u2019t form a memory of such an event because it goes into an altered state that is much like deep sleep.",
+            "It is constantly wracked by a headache. When the headache turns intense, it begins using mysterious powers.",
+            "While lulling its enemies with its vacant look, this wily pok\u00e9mon will use psychokinetic powers.",
+            "When its headache intensifies, it starts using strange powers. However, it has no recollection of its powers, so it always looks befuddled and bewildered.",
+            "If its usual headache worsens, it starts exhibiting odd powers. It can\u2019t remember doing so, however.",
+            "It never remembers using its odd powers, so it always tilts its head in puzzlement.",
+            "Overwhelmed by enigmatic abilities, it suffers a constant headache. It sometimes uses mysterious powers.",
+            "It has mystical powers but doesn\u2019t recall that it has used them. That is why it always looks puzzled.",
+            "If its chronic headache peaks, it may exhibit odd powers. It seems unable to recall such an episode.",
+            "Overwhelmed by enigmatic abilities, it suffers a constant headache. It sometimes uses mysterious powers.",
+            "When headaches stimulate its brain cells, which are usually inactive, it can use a mysterious power.",
+            "It is constantly wracked by a headache. When the headache turns intense, it begins using mysterious powers.",
+            "It has mystical powers but doesn\u2019t recall that it has used them. That is why it always looks puzzled.",
+            "Psyduck uses a mysterious power. When it does so, this Pok\u00e9mon generates brain waves that are supposedly only seen in sleepers. This discovery spurred controversy among scholars.",
+            "If it uses its mysterious power, Psyduck can\u2019t remember having done so. It apparently can\u2019t form a memory of such an event because it goes into an altered state that is much like deep sleep.",
+            "As a result of headaches so fierce they cause it to cry, it sometimes uses psychokinesis without meaning to.",
+            "This Pok\u00e9mon is troubled by constant headaches. The more pain it\u2019s in, the more powerful its psychokinesis becomes.",
+            "Using psychokinesis gives it a headache, so it normally passes the time spacing out and doing as little as possible.",
+            "It has been found that its brain cells are 10 times more active when Psyduck is experiencing a headache.",
+            "Always tormented by headaches. It uses psychic powers, but whether it intends to do so is not known.",
+            "Psyduck is constantly beset by headaches. If the Pok\u00e9mon lets its strange power erupt, apparently the pain subsides for a while.",
+            "As Psyduck gets stressed out, its headache gets progressively worse. It uses intense psychic energy to overwhelm those around it.",
+            "If its usual headache worsens, it starts exhibiting odd powers. It can\u2019t remember doing so, however.",
+            "It never remembers using its odd powers, so it always tilts its head in puzzlement.",
+            "Suffers perpetual headaches. If the agony grows too great, Psyduck\u2019s latent power erupts, contrary to Psyduck\u2019s intent. Ergo, I am exploring ways to ease the pain.",
+            "It is constantly wracked by a headache. When the headache turns intense, it begins using mysterious powers.",
+            "If its chronic headache peaks, it may exhibit odd powers. It seems unable to recall such an episode."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787012656074823/54.png",
+    "discord_sprite": "<:P54:1132115094180987012>"
+}

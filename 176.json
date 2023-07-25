@@ -1,0 +1,238 @@
+{
+    "alt-version(s)": [],
+    "name": "Togetic",
+    "Togetic": {
+        "pokedex_data": {
+            "National No.": "0176",
+            "Type": [
+                "Fairy",
+                "Flying"
+            ],
+            "Species": "Happiness Poke\u0301mon",
+            "Height": "0.6 m (2\u203200\u2032\u2032)",
+            "Weight": "3.2 kg (7.1 lbs)",
+            "Abilities": {
+                "Hustle": {
+                    "href": "/ability/hustle",
+                    "effect": "Boosts the Attack stat, but lowers accuracy.",
+                    "hidden": false
+                },
+                "Serene Grace": {
+                    "href": "/ability/serene-grace",
+                    "effect": "Boosts the likelihood of added effects appearing.",
+                    "hidden": false
+                },
+                "Super Luck": {
+                    "href": "/ability/super-luck",
+                    "effect": "Heightens the critical-hit ratios of moves.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Sp. Def",
+            "Catch rate": "75",
+            "BaseFriendship": "50",
+            "Base Exp.": "142",
+            "Growth Rate": "Fast"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "55",
+                "Min": "220",
+                "Max": "314"
+            },
+            "Attack": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Defense": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Sp. Atk": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Sp. Def": {
+                "Base": "105",
+                "Min": "193",
+                "Max": "339"
+            },
+            "Speed": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Total": "405"
+        },
+        "defense_stats": {
+            "default": {
+                "Electric": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Poison": "super-effective",
+                "Ground": "no effect",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Dragon": "no effect",
+                "Dark": "not very effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Togepi",
+                    "nationalNo": "#0175",
+                    "type": [
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Togetic",
+                    "nationalNo": "#0176",
+                    "type": [
+                        "Fairy",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(high Friendship)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Togetic",
+                    "nationalNo": "#0176",
+                    "type": [
+                        "Fairy",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Togekiss",
+                    "nationalNo": "#0468",
+                    "type": [
+                        "Fairy",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Shiny Stone)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Fairy Wind": "1",
+            "Growl": "1",
+            "Life Dew": "1",
+            "Pound": "1",
+            "Sweet Kiss": "1",
+            "Charm": "12",
+            "Ancient Power": "16",
+            "Yawn": "20",
+            "Metronome": "24",
+            "After You": "28",
+            "Double-Edge": "32",
+            "Safeguard": "36",
+            "Follow Me": "40",
+            "Baton Pass": "44",
+            "Last Resort": "48",
+            "Wish": "52"
+        },
+        "evolution": {
+            "Fairy Wind": "40"
+        },
+        "egg": {
+            "Extrasensory": null,
+            "Future Sight": null,
+            "Morning Sun": null,
+            "Peck": null,
+            "Present": null,
+            "Psycho Shift": null,
+            "Stored Power": null
+        },
+        "tm": {
+            "Focus Punch": "01",
+            "Water Pulse": "03",
+            "Work Up": "10",
+            "Sunny Day": "11",
+            "Hyper Beam": "15",
+            "Light Screen": "16",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Safeguard": "20",
+            "Dazzling Gleam": "21",
+            "Solar Beam": "22",
+            "Psychic": "29",
+            "Shadow Ball": "30",
+            "Brick Break": "31",
+            "Double Team": "32",
+            "Reflect": "33",
+            "Shock Wave": "34",
+            "Flamethrower": "35",
+            "Fire Blast": "38",
+            "Aerial Ace": "40",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Steel Wing": "47",
+            "Roost": "51",
+            "Fling": "56",
+            "Endure": "58",
+            "Drain Punch": "60",
+            "Nasty Plot": "63",
+            "Giga Impact": "68",
+            "Flash": "70",
+            "Thunder Wave": "73",
+            "Psych Up": "77",
+            "Sleep Talk": "82",
+            "Dream Eater": "85",
+            "Grass Knot": "86",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Fly": "94",
+            "Defog": "97",
+            "Rock Smash": "98"
+        }
+    },
+    "entries": {
+        "Togetic": [
+            "They say that it will appear before kindhearted, caring people and shower them with happiness.",
+            "It grows dispirited if it is not with kind people. It can float in midair without moving its wings.",
+            "Although it does not flap its wings very much, it can stay up in the air as it tags along after its trainer.",
+            "TOGETIC is said to be a pok\u00e9mon that brings good fortune. When the pok\u00e9mon spots someone who is pure of heart, it is said to appear and share its happiness with that person.",
+            "It grows dispirited if it is not with kind people. It can float in midair without moving its wings.",
+            "They say that it will appear before kindhearted, caring people and shower them with happiness.",
+            "It is said to be a pok\u00e9mon that brings good fortune. When it spots someone who is pure of heart, a TOGETIC appears and shares its happiness with that person.",
+            "It is said to appear in front of kindly people to scatter a glowing down called \u201cjoy dust.\u201d",
+            "To share its happiness, it flies around the world seeking kindhearted people.",
+            "They say that it will appear before kindhearted, caring people and shower them with happiness.",
+            "It grows dispirited if it is not with kind people. It can float in midair without moving its wings.",
+            "To share its happiness, it flies around the world seeking kind-hearted people.",
+            "It grows dispirited if it is not with kind people. It can float in midair without moving its wings.",
+            "They say that it will appear before kindhearted, caring people and shower them with happiness.",
+            "Togetic is said to be a Pok\u00e9mon that brings good fortune. When the Pok\u00e9mon spots someone who is pure of heart, it is said to appear and share its happiness with that person.",
+            "They say that it will appear before kindhearted, caring people and shower them with happiness.",
+            "It grows dispirited if it is not with kind people. It can float in midair without moving its wings.",
+            "It is said to appear in front of kindly people to scatter a glowing down called joy dust.",
+            "No records exist of Togetic being seen in the wilds. Rumors abound that it evolves under the loving care of a trusted human companion, upon whom the Pok\u00e9mon then bestows great joy."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787966222700634/176.png",
+    "discord_sprite": "<:P176:1132120479466004550>"
+}

@@ -1,0 +1,233 @@
+{
+    "alt-version(s)": [],
+    "name": "Frillish",
+    "Frillish": {
+        "pokedex_data": {
+            "National No.": "0592",
+            "Type": [
+                "Water",
+                "Ghost"
+            ],
+            "Species": "Floating Poke\u0301mon",
+            "Height": "1.2 m (3\u203211\u2032\u2032)",
+            "Weight": "33.0 kg (72.8 lbs)",
+            "Abilities": {
+                "Water Absorb": {
+                    "href": "/ability/water-absorb",
+                    "effect": "Restores HP if hit by a Water-type move.",
+                    "hidden": false
+                },
+                "Cursed Body": {
+                    "href": "/ability/cursed-body",
+                    "effect": "May disable a move used on the Pok\u00e9mon.",
+                    "hidden": false
+                },
+                "Damp": {
+                    "href": "/ability/damp",
+                    "effect": "Prevents the use of self-destructing moves.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Sp. Def",
+            "Catch rate": "190",
+            "BaseFriendship": "50",
+            "Base Exp.": "67",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "55",
+                "Min": "220",
+                "Max": "314"
+            },
+            "Attack": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Defense": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Atk": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Def": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Speed": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Total": "335"
+        },
+        "defense_stats": {
+            "Water Absorb ability": {
+                "Normal": "no effect",
+                "Fire": "not very effective",
+                "Water": "no effect",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "no effect",
+                "Poison": "not very effective",
+                "Bug": "not very effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective",
+                "Steel": "not very effective"
+            },
+            "Cursed Body ability": {
+                "Normal": "no effect",
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "no effect",
+                "Poison": "not very effective",
+                "Bug": "not very effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective",
+                "Steel": "not very effective"
+            },
+            "Damp ability": {
+                "Normal": "no effect",
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "no effect",
+                "Poison": "not very effective",
+                "Bug": "not very effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Frillish",
+                    "nationalNo": "#0592",
+                    "type": [
+                        "Water",
+                        "Ghost"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Jellicent",
+                    "nationalNo": "#0593",
+                    "type": [
+                        "Water",
+                        "Ghost"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 40)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Absorb": "1",
+            "Water Gun": "1",
+            "Poison Sting": "4",
+            "Night Shade": "8",
+            "Water Pulse": "12",
+            "Rain Dance": "16",
+            "Hex": "20",
+            "Brine": "24",
+            "Recover": "28",
+            "Shadow Ball": "32",
+            "Whirlpool": "36",
+            "Hydro Pump": "41",
+            "Destiny Bond": "44",
+            "Water Spout": "48"
+        },
+        "egg": {
+            "Acid Armor": null,
+            "Bubble Beam": null,
+            "Confuse Ray": null,
+            "Mist": null,
+            "Pain Split": null,
+            "Strength Sap": null
+        },
+        "null": {
+            "Hydro Pump": "03",
+            "Surf": "04",
+            "Ice Beam": "05",
+            "Blizzard": "06",
+            "Psychic": "11",
+            "Waterfall": "16",
+            "Substitute": "20",
+            "Sludge Bomb": "22",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Shadow Ball": "33",
+            "Taunt": "37",
+            "Trick": "38",
+            "Dark Pulse": "58",
+            "Energy Ball": "65",
+            "Sludge Wave": "78",
+            "Scald": "84",
+            "Dazzling Gleam": "92"
+        },
+        "tm": {
+            "Safeguard": "19",
+            "Rest": "21",
+            "Snore": "24",
+            "Protect": "25",
+            "Icy Wind": "27",
+            "Giga Drain": "28",
+            "Attract": "31",
+            "Rain Dance": "33",
+            "Hail": "35",
+            "Whirlpool": "36",
+            "Will-O-Wisp": "38",
+            "Facade": "39",
+            "Imprison": "44",
+            "Dive": "45",
+            "Brine": "55",
+            "Trick Room": "70",
+            "Round": "76",
+            "Hex": "77"
+        }
+    },
+    "entries": {
+        "Frillish": [
+            "With its thin, veil-like arms wrapped around the body of its opponent, it sinks to the ocean floor.",
+            "They paralyze prey with poison, then drag them down to their lairs, five miles below the surface.",
+            "If its veil-like arms stun and wrap a foe, that foe will be dragged miles below the surface, never to return.",
+            "They paralyze prey with poison, then drag them down to their lairs, five miles below the surface.",
+            "If its veil-like arms stun and wrap a foe, that foe will be dragged miles below the surface, never to return.",
+            "It wraps its veillike arms and legs around prey swimming by and drags them down to the depths of the ocean.",
+            "Using the invisible poison spikes on its veillike arms and legs, it paralyzes its enemies and causes them to drown."
+        ],
+        "Female Frillish": [
+            "It envelops its prey in its veillike arms and draws it down to the deeps, five miles below the ocean\u2019s surface.",
+            "Its thin, veillike arms have tens of thousands of poisonous stingers. Females have slightly longer stingers."
+        ],
+        "Male Frillish": [
+            "It envelops its prey in its veillike arms and draws it down to the deeps, five miles below the ocean\u2019s surface.",
+            "Legend has it that the residents of a sunken ancient city changed into these Pok\u00e9mon."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791215008948335/592.png",
+    "discord_sprite": "<:P592:1132138788248895568>"
+}

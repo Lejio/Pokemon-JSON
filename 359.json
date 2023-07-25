@@ -1,0 +1,275 @@
+{
+    "alt-version(s)": [
+        "Mega Absol"
+    ],
+    "name": "Absol",
+    "Absol": {
+        "pokedex_data": {
+            "National No.": "0359",
+            "Type": [
+                "Dark"
+            ],
+            "Species": "Disaster Poke\u0301mon",
+            "Height": "1.2 m (3\u203211\u2032\u2032)",
+            "Weight": "47.0 kg (103.6 lbs)",
+            "Abilities": {
+                "Pressure": {
+                    "href": "/ability/pressure",
+                    "effect": "The Pok\u00e9mon raises the foe's PP usage.",
+                    "hidden": false
+                },
+                "Super Luck": {
+                    "href": "/ability/super-luck",
+                    "effect": "Heightens the critical-hit ratios of moves.",
+                    "hidden": false
+                },
+                "Justified": {
+                    "href": "/ability/justified",
+                    "effect": "Raises Attack when hit by a Dark-type move.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "30",
+            "BaseFriendship": "35",
+            "Base Exp.": "163",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "65",
+                "Min": "240",
+                "Max": "334"
+            },
+            "Attack": {
+                "Base": "130",
+                "Min": "238",
+                "Max": "394"
+            },
+            "Defense": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Atk": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Sp. Def": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Speed": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Total": "465"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "super-effective",
+                "Psychic": "no effect",
+                "Bug": "super-effective",
+                "Ghost": "not very effective",
+                "Dark": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "Mega Absol": {
+        "pokedex_data": {
+            "National No.": "0359",
+            "Type": [
+                "Dark"
+            ],
+            "Species": "Disaster Poke\u0301mon",
+            "Height": "1.2 m (3\u203211\u2032\u2032)",
+            "Weight": "49.0 kg (108.0 lbs)",
+            "Abilities": {
+                "Magic Bounce": {
+                    "href": "/ability/magic-bounce",
+                    "effect": "Reflects status- changing moves.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "30",
+            "BaseFriendship": "35",
+            "Base Exp.": "198",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "65",
+                "Min": "240",
+                "Max": "334"
+            },
+            "Attack": {
+                "Base": "150",
+                "Min": "274",
+                "Max": "438"
+            },
+            "Defense": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Atk": {
+                "Base": "115",
+                "Min": "211",
+                "Max": "361"
+            },
+            "Sp. Def": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Speed": {
+                "Base": "115",
+                "Min": "211",
+                "Max": "361"
+            },
+            "Total": "565"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "super-effective",
+                "Psychic": "no effect",
+                "Bug": "super-effective",
+                "Ghost": "not very effective",
+                "Dark": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Leer": "1",
+            "Quick Attack": "1",
+            "Double Team": "5",
+            "Knock Off": "10",
+            "Detect": "15",
+            "Taunt": "20",
+            "Slash": "25",
+            "Night Slash": "30",
+            "Focus Energy": "35",
+            "Sucker Punch": "40",
+            "Swords Dance": "45",
+            "Future Sight": "50",
+            "Perish Song": "55"
+        },
+        "egg": {
+            "Assurance": null,
+            "Baton Pass": null,
+            "Bite": null,
+            "Curse": null,
+            "Double-Edge": null,
+            "Feint": null,
+            "Hex": null,
+            "Magic Coat": null,
+            "Mean Look": null,
+            "Megahorn": null,
+            "Perish Song": null,
+            "Play Rough": null,
+            "Sucker Punch": null,
+            "Zen Headbutt": null
+        },
+        "tm": {
+            "Water Pulse": "03",
+            "Calm Mind": "04",
+            "Hail": "07",
+            "Sunny Day": "11",
+            "Taunt": "12",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Iron Tail": "23",
+            "Thunderbolt": "24",
+            "Thunder": "25",
+            "Shadow Ball": "30",
+            "Double Team": "32",
+            "Shock Wave": "34",
+            "Flamethrower": "35",
+            "Sandstorm": "37",
+            "Fire Blast": "38",
+            "Rock Tomb": "39",
+            "Aerial Ace": "40",
+            "Torment": "41",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "False Swipe": "54",
+            "Charge Beam": "57",
+            "Endure": "58",
+            "Will-O-Wisp": "61",
+            "Shadow Claw": "65",
+            "Payback": "66",
+            "Giga Impact": "68",
+            "Flash": "70",
+            "Stone Edge": "71",
+            "Thunder Wave": "73",
+            "Swords Dance": "75",
+            "Psych Up": "77",
+            "Snarl": "78",
+            "Dark Pulse": "79",
+            "Rock Slide": "80",
+            "X-Scissor": "81",
+            "Sleep Talk": "82",
+            "Dream Eater": "85",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Cut": "93",
+            "Strength": "96",
+            "Rock Smash": "98"
+        }
+    },
+    "entries": {
+        "Absol": [
+            "Every time ABSOL appears before people, it is followed by a disaster such as an earthquake or a tidal wave. As a result, it came to be known as the disaster pok\u00e9mon.",
+            "ABSOL has the ability to foretell the coming of natural disasters. It lives in a harsh, rugged mountain environment. This pok\u00e9mon very rarely ventures down from the mountains.",
+            "It appears when it senses an impending natural disaster. As a result, it was mistaken as a doom-bringer.",
+            "It sharply senses even subtle changes in the sky and the land to predict natural disasters. It is a long-lived pok\u00e9mon that has a life-span of 100 years.",
+            "It senses coming disasters and appears before people only to warn them of impending danger.",
+            "Rumored to sense disasters with its horn, it became a target. It fled deep into the mountains.",
+            "It has the ability to foretell natural disasters. Its life span is over a hundred years.",
+            "Rumored to sense disasters with its horn, it became a target. It fled deep into the mountains.",
+            "It appears from deep in the mountains to warn people about upcoming disasters it has sensed with its horn.",
+            "It senses coming disasters and appears before people only to warn them of impending danger.",
+            "It appears when it senses an impending natural disaster. As a result, it was mistaken as a doom bringer.",
+            "Every time Absol appears before people, it is followed by a disaster such as an earthquake or a tidal wave. As a result, it came to be known as the disaster Pok\u00e9mon.",
+            "Absol has the ability to foretell the coming of natural disasters. It lives in a harsh, rugged mountain environment. This Pok\u00e9mon very rarely ventures down from the mountains.",
+            "Long ago, superstitions were spread about it, saying it brought disaster. This fed a hatred of it, and it was driven deep into the mountains.",
+            "Although it\u2019s said to bring disaster, in actuality, this Pok\u00e9mon possesses a calm disposition and warns people of any crises that loom.",
+            "The only thing unlucky about Absol is its appearance. It protects fields and warns people of disaster, so one ought to be grateful for it.",
+            "The elderly call it the disaster Pok\u00e9mon and detest it, but interest in its power to predict disasters is on the rise.",
+            "Swift as the wind, Absol races through fields and mountains. Its curved, bow-like horn is acutely sensitive to the warning signs of natural disasters.",
+            "Because of this Pok\u00e9mon\u2019s ability to detect danger, people mistook Absol as a bringer of doom.",
+            "It senses coming disasters and appears before people only to warn them of impending danger."
+        ],
+        "Mega Absol": [
+            "When this Pok\u00e9mon whips the winglike fur on its back as though beating its wings, it sends an intimidating aura flying at its opponents.",
+            "As the energy of Mega Evolution fills it, its fur bristles. What you see on its back are not true wings, and this Pok\u00e9mon isn\u2019t able to fly.",
+            "Normally, it dislikes fighting, so it really hates changing to this form for battles.",
+            "It converts the energy from Mega Evolution into an intimidating aura. Fainthearted people expire from shock at the sight of it."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789405611368528/359.png",
+    "discord_sprite": "<:P359:1132128534211596328>"
+}

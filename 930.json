@@ -1,0 +1,203 @@
+{
+    "alt-version(s)": [],
+    "name": "Arboliva",
+    "Arboliva": {
+        "pokedex_data": {
+            "National No.": "0930",
+            "Type": [
+                "Grass",
+                "Normal"
+            ],
+            "Species": "Olive Poke\u0301mon",
+            "Height": "1.4 m (4\u203207\u2032\u2032)",
+            "Weight": "48.2 kg (106.3 lbs)",
+            "Abilities": {
+                "Seed Sower": {
+                    "href": "/ability/seed-sower",
+                    "effect": "Turns the ground into Grassy Terrain when the Pok\u00e9mon is hit by an attack.",
+                    "hidden": false
+                },
+                "Harvest": {
+                    "href": "/ability/harvest",
+                    "effect": "May create another Berry after one is used.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Sp. Atk",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "255",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "78",
+                "Min": "266",
+                "Max": "360"
+            },
+            "Attack": {
+                "Base": "69",
+                "Min": "128",
+                "Max": "260"
+            },
+            "Defense": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Sp. Atk": {
+                "Base": "125",
+                "Min": "229",
+                "Max": "383"
+            },
+            "Sp. Def": {
+                "Base": "109",
+                "Min": "200",
+                "Max": "348"
+            },
+            "Speed": {
+                "Base": "39",
+                "Min": "74",
+                "Max": "194"
+            },
+            "Total": "510"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "super-effective",
+                "Poison": "super-effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Bug": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Smoliv",
+                    "nationalNo": "#0928",
+                    "type": [
+                        "Grass",
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Dolliv",
+                    "nationalNo": "#0929",
+                    "type": [
+                        "Grass",
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 25)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Dolliv",
+                    "nationalNo": "#0929",
+                    "type": [
+                        "Grass",
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Arboliva",
+                    "nationalNo": "#0930",
+                    "type": [
+                        "Grass",
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 35)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Mirror Coat": "1",
+            "Safeguard": "1",
+            "Sweet Scent": "1",
+            "Tackle": "1",
+            "Absorb": "5",
+            "Growth": "7",
+            "Razor Leaf": "10",
+            "Helping Hand": "13",
+            "Flail": "16",
+            "Mega Drain": "20",
+            "Grassy Terrain": "23",
+            "Seed Bomb": "29",
+            "Energy Ball": "34",
+            "Leech Seed": "39",
+            "Terrain Pulse": "46",
+            "Petal Blizzard": "52",
+            "Petal Dance": "58"
+        },
+        "egg": {
+            "Memento": null,
+            "Strength Sap": null,
+            "Synthesis": null,
+            "Weather Ball": null
+        },
+        "tm": {
+            "Charm": "02",
+            "Protect": "07",
+            "Trailblaze": "20",
+            "Facade": "25",
+            "Swift": "32",
+            "Magical Leaf": "33",
+            "Fling": "43",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Bullet Seed": "56",
+            "Sleep Talk": "70",
+            "Seed Bomb": "71",
+            "Reflect": "74",
+            "Light Screen": "75",
+            "Dazzling Gleam": "79",
+            "Metronome": "80",
+            "Grass Knot": "81",
+            "Rest": "85",
+            "Substitute": "103",
+            "Giga Drain": "111",
+            "Hyper Voice": "117",
+            "Energy Ball": "119",
+            "Encore": "122",
+            "Helping Hand": "130",
+            "Pollen Puff": "131",
+            "Earth Power": "133",
+            "Grassy Terrain": "137",
+            "Giga Impact": "152",
+            "Leaf Storm": "159",
+            "Hyper Beam": "163",
+            "Solar Beam": "168",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Arboliva": [
+            "This calm Pok\u00e9mon is very compassionate. It will share its delicious, nutrient-rich oil with weakened Pok\u00e9mon.",
+            "This Pok\u00e9mon drives back enemies by launching its rich, aromatic oil at them with enough force to smash a boulder."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793856640331816/930.png",
+    "discord_sprite": "<:P930:1132153714732453978>"
+}

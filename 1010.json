@@ -1,0 +1,154 @@
+{
+    "alt-version(s)": [],
+    "name": "Iron Leaves",
+    "Iron Leaves": {
+        "pokedex_data": {
+            "National No.": "1010",
+            "Type": [
+                "Grass",
+                "Psychic"
+            ],
+            "Species": "Paradox Poke\u0301mon",
+            "Height": "1.5 m (4\u203211\u2032\u2032)",
+            "Weight": "125.0 kg (275.6 lbs)",
+            "Abilities": {
+                "Quark Drive": {
+                    "href": "/ability/quark-drive",
+                    "effect": "Raises highest stat on Electric Terrain, or if holding Booster Energy.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "\u2014",
+            "Catch rate": "\u2014",
+            "BaseFriendship": "\u2014",
+            "Base Exp.": "\u2014",
+            "Growth Rate": "\u2014"
+        },
+        "breeding_data": {
+            "Gender": "\u2014"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "90",
+                "Min": "290",
+                "Max": "384"
+            },
+            "Attack": {
+                "Base": "130",
+                "Min": "238",
+                "Max": "394"
+            },
+            "Defense": {
+                "Base": "88",
+                "Min": "162",
+                "Max": "302"
+            },
+            "Sp. Atk": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Def": {
+                "Base": "108",
+                "Min": "198",
+                "Max": "346"
+            },
+            "Speed": {
+                "Base": "104",
+                "Min": "191",
+                "Max": "337"
+            },
+            "Total": "590"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Poison": "super-effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Psychic": "not very effective",
+                "Bug": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Helping Hand": "1",
+            "Leer": "1",
+            "Quick Attack": "1",
+            "Work Up": "1",
+            "Magical Leaf": "7",
+            "Retaliate": "14",
+            "Quick Guard": "21",
+            "Night Slash": "28",
+            "Swords Dance": "35",
+            "Sacred Sword": "42",
+            "Leaf Blade": "49",
+            "Psyblade": "56",
+            "Close Combat": "63",
+            "Imprison": "70",
+            "Megahorn": "77",
+            "Ally Switch": "84",
+            "Solar Blade": "91"
+        },
+        "reminder": {
+            "Electric Terrain": "\u2014",
+            "Quash": "\u2014"
+        },
+        "egg": null,
+        "tm": {
+            "Take Down": "01",
+            "Agility": "04",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Trailblaze": "20",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Swift": "32",
+            "Magical Leaf": "33",
+            "Endure": "47",
+            "Smart Strike": "53",
+            "False Swipe": "57",
+            "Brick Break": "58",
+            "Air Slash": "65",
+            "Sleep Talk": "70",
+            "Grass Knot": "81",
+            "Rest": "85",
+            "Taunt": "87",
+            "Swords Dance": "88",
+            "Imprison": "92",
+            "Substitute": "103",
+            "Iron Defense": "104",
+            "X-Scissor": "105",
+            "Giga Drain": "111",
+            "Energy Ball": "119",
+            "Calm Mind": "129",
+            "Helping Hand": "130",
+            "Reversal": "134",
+            "Electric Terrain": "136",
+            "Grassy Terrain": "137",
+            "Psychic Terrain": "138",
+            "Wild Charge": "147",
+            "Giga Impact": "152",
+            "Focus Blast": "158",
+            "Leaf Storm": "159",
+            "Hyper Beam": "163",
+            "Close Combat": "167",
+            "Solar Beam": "168",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {},
+    "discord_image": "https://cdn.discordapp.com/attachments/1125937900421398552/1131794715151454319/1010.png",
+    "discord_sprite": "<:P1010:1132157233984184320>"
+}

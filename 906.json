@@ -1,0 +1,194 @@
+{
+    "alt-version(s)": [],
+    "name": "Sprigatito",
+    "Sprigatito": {
+        "pokedex_data": {
+            "National No.": "0906",
+            "Type": [
+                "Grass"
+            ],
+            "Species": "Grass Cat Poke\u0301mon",
+            "Height": "0.4 m (1\u203204\u2032\u2032)",
+            "Weight": "4.1 kg (9.0 lbs)",
+            "Abilities": {
+                "Overgrow": {
+                    "href": "/ability/overgrow",
+                    "effect": "Powers up Grass-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Protean": {
+                    "href": "/ability/protean",
+                    "effect": "Changes the Pok\u00e9mon's type to its last used move.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Speed",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "62",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "40",
+                "Min": "190",
+                "Max": "284"
+            },
+            "Attack": {
+                "Base": "61",
+                "Min": "114",
+                "Max": "243"
+            },
+            "Defense": {
+                "Base": "54",
+                "Min": "101",
+                "Max": "227"
+            },
+            "Sp. Atk": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Sp. Def": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Speed": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Total": "310"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Poison": "super-effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Bug": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Sprigatito",
+                    "nationalNo": "#0906",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Floragato",
+                    "nationalNo": "#0907",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 16)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Floragato",
+                    "nationalNo": "#0907",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Meowscarada",
+                    "nationalNo": "#0908",
+                    "type": [
+                        "Grass",
+                        "Dark"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 36)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Leafage": "1",
+            "Scratch": "1",
+            "Tail Whip": "1",
+            "Bite": "7",
+            "Hone Claws": "10",
+            "Magical Leaf": "13",
+            "Quick Attack": "15",
+            "Seed Bomb": "17",
+            "U-turn": "21",
+            "Worry Seed": "25",
+            "Slash": "28",
+            "Energy Ball": "32",
+            "Play Rough": "36"
+        },
+        "egg": {
+            "Ally Switch": null,
+            "Copycat": null,
+            "Leech Seed": null,
+            "Petal Blizzard": null,
+            "Sucker Punch": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Charm": "02",
+            "Fake Tears": "03",
+            "Agility": "04",
+            "Mud-Slap": "05",
+            "Protect": "07",
+            "Acrobatics": "14",
+            "Disarming Voice": "19",
+            "Trailblaze": "20",
+            "Facade": "25",
+            "Swift": "32",
+            "Magical Leaf": "33",
+            "Endure": "47",
+            "Bullet Seed": "56",
+            "U-turn": "60",
+            "Shadow Claw": "61",
+            "Sleep Talk": "70",
+            "Seed Bomb": "71",
+            "Grass Knot": "81",
+            "Rest": "85",
+            "Taunt": "87",
+            "Substitute": "103",
+            "Giga Drain": "111",
+            "Energy Ball": "119",
+            "Play Rough": "127",
+            "Helping Hand": "130",
+            "Grassy Terrain": "137",
+            "Nasty Plot": "140",
+            "Grass Pledge": "146",
+            "Leaf Storm": "159",
+            "Solar Beam": "168",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Sprigatito": [
+            "Its fluffy fur is similar in composition to plants. This Pok\u00e9mon frequently washes its face to keep it from drying out.",
+            "The sweet scent its body gives off mesmerizes those around it. The scent grows stronger when this Pok\u00e9mon is in the sun."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793664688017408/906.png",
+    "discord_sprite": "<:P906:1132152665162399744>"
+}

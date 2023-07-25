@@ -1,0 +1,218 @@
+{
+    "alt-version(s)": [],
+    "name": "Nidoran\u2642 (male)",
+    "Nidoran\u2642 (male)": {
+        "pokedex_data": {
+            "National No.": "0032",
+            "Type": [
+                "Poison"
+            ],
+            "Species": "Poison Pin Poke\u0301mon",
+            "Height": "0.5 m (1\u203208\u2032\u2032)",
+            "Weight": "9.0 kg (19.8 lbs)",
+            "Abilities": {
+                "Poison Point": {
+                    "href": "/ability/poison-point",
+                    "effect": "Contact with the Pok\u00e9mon may poison the attacker.",
+                    "hidden": false
+                },
+                "Rivalry": {
+                    "href": "/ability/rivalry",
+                    "effect": "Deals more damage to a Pok\u00e9mon of same gender.",
+                    "hidden": false
+                },
+                "Hustle": {
+                    "href": "/ability/hustle",
+                    "effect": "Boosts the Attack stat, but lowers accuracy.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack",
+            "Catch rate": "235",
+            "BaseFriendship": "50",
+            "Base Exp.": "55",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "100% male,0% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "46",
+                "Min": "202",
+                "Max": "296"
+            },
+            "Attack": {
+                "Base": "57",
+                "Min": "107",
+                "Max": "234"
+            },
+            "Defense": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Atk": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Def": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Speed": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Total": "273"
+        },
+        "defense_stats": {
+            "default": {
+                "Grass": "not very effective",
+                "Fighting": "not very effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Nidoran\u2642",
+                    "nationalNo": "#0032",
+                    "type": [
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Nidorino",
+                    "nationalNo": "#0033",
+                    "type": [
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 16)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Nidorino",
+                    "nationalNo": "#0033",
+                    "type": [
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Nidoking",
+                    "nationalNo": "#0034",
+                    "type": [
+                        "Poison",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Moon Stone)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Leer": "1",
+            "Poison Sting": "1",
+            "Peck": "5",
+            "Focus Energy": "10",
+            "Fury Attack": "15",
+            "Toxic Spikes": "20",
+            "Double Kick": "25",
+            "Horn Attack": "30",
+            "Helping Hand": "35",
+            "Toxic": "40",
+            "Flatter": "45",
+            "Poison Jab": "50",
+            "Earth Power": "55"
+        },
+        "egg": {
+            "Amnesia": null,
+            "Beat Up": null,
+            "Confusion": null,
+            "Counter": null,
+            "Disable": null,
+            "Head Smash": null,
+            "Horn Drill": null,
+            "Poison Tail": null,
+            "Sucker Punch": null,
+            "Supersonic": null,
+            "Take Down": null,
+            "Thrash": null,
+            "Venom Drench": null
+        },
+        "tm": {
+            "Water Pulse": "03",
+            "Toxic": "06",
+            "Sunny Day": "11",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Iron Tail": "23",
+            "Thunderbolt": "24",
+            "Thunder": "25",
+            "Dig": "28",
+            "Double Team": "32",
+            "Shock Wave": "34",
+            "Sludge Bomb": "36",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Endure": "58",
+            "Shadow Claw": "65",
+            "Sleep Talk": "82",
+            "Poison Jab": "84",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Cut": "93",
+            "Strength": "96",
+            "Rock Smash": "98"
+        }
+    },
+    "entries": {
+        "Nidoran\u2642 (male)": [
+            "Stiffens its ears to sense danger. The larger its horns, the more powerful its secreted venom.",
+            "Its large ears are always kept upright. If it senses danger, it will attack with a poisonous sting.",
+            "It is small, but its horn is filled with poison. It charges then stabs with the horn to inject poison.",
+            "It raises its big ears to check its surroundings. It will strike first if it senses any danger.",
+            "It constantly moves its large ears in many directions in order to detect danger right away.",
+            "The male NIDORAN has developed muscles for moving its ears. Thanks to them, the ears can be freely moved in any direction. Even the slightest sound does not escape this pok\u00e9mon\u2019s notice.",
+            "Its large ears are flapped like wings when it is listening to distant sounds. It extends toxic barbs when angered.",
+            "It stiffens its ears to sense danger. The larger its horns, the more powerful its secreted venom.",
+            "The male NIDORAN has developed muscles that freely move its ears in any direction. Even the slightest sound does not escape this pok\u00e9mon\u2019s notice.",
+            "It scans its surroundings by raising its ears out of the grass. Its toxic horn is for protection.",
+            "It is small, but its horn is filled with poison. It charges then stabs with the horn to inject poison.",
+            "It raises its big ears to check its surroundings. It will strike first if it senses any danger.",
+            "It scans its surroundings by raising its ears out of the grass. Its toxic horn is for protection.",
+            "It scans its surroundings by raising its ears out of the grass. Its toxic horn is for protection.",
+            "Its large ears are flapped like wings when it is listening to distant sounds. It extends toxic barbs when angered.",
+            "Nidoran\u2642 has developed muscles for moving its ears. Thanks to them, the ears can be freely moved in any direction. Even the slightest sound does not escape this Pok\u00e9mon\u2019s notice.",
+            "Its large ears are always kept upright. If it senses danger, it will attack with a poisonous sting.",
+            "The horn on a male Nidoran\u2019s forehead contains a powerful poison. This is a very cautious Pok\u00e9mon, always straining its large ears.",
+            "Small but brave, this Pok\u00e9mon will hold its ground and even risk its life in battle to protect the female it\u2019s friendly with.",
+            "It scans its surroundings by raising its ears out of the grass. Its toxic horn is for protection."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131786839058026496/32.png",
+    "discord_sprite": "<:P32:1131973299459608636>"
+}

@@ -1,0 +1,177 @@
+{
+    "alt-version(s)": [],
+    "name": "Spidops",
+    "Spidops": {
+        "pokedex_data": {
+            "National No.": "0918",
+            "Type": [
+                "Bug"
+            ],
+            "Species": "Trap Poke\u0301mon",
+            "Height": "1.0 m (3\u203203\u2032\u2032)",
+            "Weight": "16.5 kg (36.4 lbs)",
+            "Abilities": {
+                "Insomnia": {
+                    "href": "/ability/insomnia",
+                    "effect": "Prevents the Pok\u00e9mon from falling asleep.",
+                    "hidden": false
+                },
+                "Stakeout": {
+                    "href": "/ability/stakeout",
+                    "effect": "Deals double damage to Pok\u00e9mon switching in.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Defense",
+            "Catch rate": "120",
+            "BaseFriendship": "50",
+            "Base Exp.": "141",
+            "Growth Rate": "Erratic"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "60",
+                "Min": "230",
+                "Max": "324"
+            },
+            "Attack": {
+                "Base": "79",
+                "Min": "146",
+                "Max": "282"
+            },
+            "Defense": {
+                "Base": "92",
+                "Min": "170",
+                "Max": "311"
+            },
+            "Sp. Atk": {
+                "Base": "52",
+                "Min": "98",
+                "Max": "223"
+            },
+            "Sp. Def": {
+                "Base": "86",
+                "Min": "159",
+                "Max": "298"
+            },
+            "Speed": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Total": "404"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Grass": "not very effective",
+                "Fighting": "not very effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Rock": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Tarountula",
+                    "nationalNo": "#0917",
+                    "type": [
+                        "Bug"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Spidops",
+                    "nationalNo": "#0918",
+                    "type": [
+                        "Bug"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 15)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "String Shot": "1",
+            "Tackle": "1",
+            "Struggle Bug": "5",
+            "Assurance": "8",
+            "Feint": "11",
+            "Bug Bite": "14",
+            "Block": "19",
+            "Counter": "24",
+            "Headbutt": "28",
+            "Sticky Web": "33",
+            "Gastro Acid": "37",
+            "Circle Throw": "41",
+            "Throat Chop": "45",
+            "Skitter Smack": "49"
+        },
+        "evolution": {
+            "Silk Trap": "\u2014"
+        },
+        "egg": {
+            "First Impression": null,
+            "Lunge": null,
+            "Memento": null,
+            "Sucker Punch": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Low Kick": "12",
+            "Struggle Bug": "15",
+            "Thief": "18",
+            "Trailblaze": "20",
+            "Pounce": "21",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Rock Tomb": "36",
+            "Fling": "43",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Bullet Seed": "56",
+            "False Swipe": "57",
+            "Brick Break": "58",
+            "U-turn": "60",
+            "Shadow Claw": "61",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Grass Knot": "81",
+            "Poison Jab": "83",
+            "Rest": "85",
+            "Taunt": "87",
+            "Spikes": "90",
+            "Toxic Spikes": "91",
+            "Leech Life": "95",
+            "Substitute": "103",
+            "X-Scissor": "105",
+            "Giga Drain": "111",
+            "Reversal": "134",
+            "Giga Impact": "152",
+            "Bug Buzz": "162",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Spidops": [
+            "It clings to branches and ceilings using its threads and moves without a sound. It takes out its prey before the prey even notices it.",
+            "Spidops covers its territory in tough, sticky threads to set up traps for intruders."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793761131843604/918.png",
+    "discord_sprite": "<:P918:1132153190599626762>"
+}

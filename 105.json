@@ -1,0 +1,362 @@
+{
+    "alt-version(s)": [
+        "Alolan Marowak"
+    ],
+    "name": "Marowak",
+    "Marowak": {
+        "pokedex_data": {
+            "National No.": "0105",
+            "Type": [
+                "Ground"
+            ],
+            "Species": "Bone Keeper Poke\u0301mon",
+            "Height": "1.0 m (3\u203203\u2032\u2032)",
+            "Weight": "45.0 kg (99.2 lbs)",
+            "Abilities": {
+                "Rock Head": {
+                    "href": "/ability/rock-head",
+                    "effect": "Protects the Pok\u00e9mon from recoil damage.",
+                    "hidden": false
+                },
+                "Lightning Rod": {
+                    "href": "/ability/lightning-rod",
+                    "effect": "Draws in all Electric-type moves to up Sp. Attack.",
+                    "hidden": false
+                },
+                "Battle Armor": {
+                    "href": "/ability/battle-armor",
+                    "effect": "The Pok\u00e9mon is protected against critical hits.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Defense",
+            "Catch rate": "75",
+            "BaseFriendship": "50",
+            "Base Exp.": "149",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "60",
+                "Min": "230",
+                "Max": "324"
+            },
+            "Attack": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Defense": {
+                "Base": "110",
+                "Min": "202",
+                "Max": "350"
+            },
+            "Sp. Atk": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Def": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Speed": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Total": "425"
+        },
+        "defense_stats": {
+            "default": {
+                "Water": "super-effective",
+                "Electric": "no effect",
+                "Grass": "super-effective",
+                "Ice": "super-effective",
+                "Poison": "not very effective",
+                "Rock": "not very effective"
+            }
+        }
+    },
+    "Alolan Marowak": {
+        "pokedex_data": {
+            "National No.": "0105",
+            "Type": [
+                "Fire",
+                "Ghost"
+            ],
+            "Species": "Bone Keeper Poke\u0301mon",
+            "Height": "1.0 m (3\u203203\u2032\u2032)",
+            "Weight": "34.0 kg (75.0 lbs)",
+            "Abilities": {
+                "Cursed Body": {
+                    "href": "/ability/cursed-body",
+                    "effect": "May disable a move used on the Pok\u00e9mon.",
+                    "hidden": false
+                },
+                "Lightning Rod": {
+                    "href": "/ability/lightning-rod",
+                    "effect": "Draws in all Electric-type moves to up Sp. Attack.",
+                    "hidden": false
+                },
+                "Rock Head": {
+                    "href": "/ability/rock-head",
+                    "effect": "Protects the Pok\u00e9mon from recoil damage.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Defense",
+            "Catch rate": "75",
+            "BaseFriendship": "50",
+            "Base Exp.": "149",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "60",
+                "Min": "230",
+                "Max": "324"
+            },
+            "Attack": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Defense": {
+                "Base": "110",
+                "Min": "202",
+                "Max": "350"
+            },
+            "Sp. Atk": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Def": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Speed": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Total": "425"
+        },
+        "defense_stats": {
+            "Cursed Body ability": {
+                "Normal": "no effect",
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Fighting": "no effect",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            },
+            "Lightning Rod ability": {
+                "Normal": "no effect",
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Electric": "no effect",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Fighting": "no effect",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            },
+            "Rock Head ability": {
+                "Normal": "no effect",
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Fighting": "no effect",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Cubone",
+                    "nationalNo": "#0104",
+                    "type": [
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Marowak",
+                    "nationalNo": "#0105",
+                    "type": [
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 28, outside Alola)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Cubone",
+                    "nationalNo": "#0104",
+                    "type": [
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Marowak",
+                    "nationalNo": "#0105",
+                    "type": [
+                        "Fire",
+                        "Ghost"
+                    ],
+                    "nickname": "Alolan Marowak"
+                },
+                "requirement": "(Level 28, Nighttime, in Alola)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "False Swipe": "1",
+            "Growl": "1",
+            "Mud-Slap": "1",
+            "Tail Whip": "1",
+            "Headbutt": "12",
+            "Retaliate": "16",
+            "Fling": "20",
+            "Stomping Tantrum": "24",
+            "Bone Rush": "31",
+            "Focus Energy": "36",
+            "Endeavor": "42",
+            "Bonemerang": "48",
+            "Thrash": "54",
+            "Double-Edge": "60"
+        },
+        "egg": {
+            "Ancient Power": null,
+            "Belly Drum": null,
+            "Curse": null,
+            "Detect": null,
+            "Double Kick": null,
+            "Iron Head": null,
+            "Leer": null,
+            "Perish Song": null,
+            "Screech": null,
+            "Skull Bash": null
+        },
+        "tm": {
+            "Focus Punch": "01",
+            "Sunny Day": "11",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Iron Tail": "23",
+            "Earthquake": "26",
+            "Dig": "28",
+            "Brick Break": "31",
+            "Double Team": "32",
+            "Flamethrower": "35",
+            "Sandstorm": "37",
+            "Fire Blast": "38",
+            "Rock Tomb": "39",
+            "Aerial Ace": "40",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Focus Blast": "52",
+            "False Swipe": "54",
+            "Fling": "56",
+            "Endure": "58",
+            "Giga Impact": "68",
+            "Stone Edge": "71",
+            "Swords Dance": "75",
+            "Stealth Rock": "76",
+            "Rock Slide": "80",
+            "Sleep Talk": "82",
+            "Bulldoze": "83",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Strength": "96",
+            "Rock Smash": "98",
+            "Rock Climb": "100"
+        }
+    },
+    "entries": {
+        "Marowak": [
+            "The bone it holds is its key weapon. It throws the bone skillfully like a boomerang to KO targets.",
+            "Small and weak, this pok\u00e9mon is adept with its bone club. It has grown more vicious over the ages.",
+            "It has been seen pounding boulders with the bone it carries in order to tap out messages to others.",
+            "It collects bones from an unknown place. A MAROWAK graveyard exists somewhere in the world, rumors say.",
+            "Somewhere in the world is a cemetery just for MAROWAK. It gets its bones from those graves.",
+            "MAROWAK is the evolved form of a CUBONE that has overcome its sadness at the loss of its mother and grown tough. This pok\u00e9mon\u2019s tempered and hardened spirit is not easily broken.",
+            "It is small and was originally very weak. Its temperament turned ferocious when it began using bones.",
+            "The bone it holds is its key weapon. It throws the bone skillfully like a boomerang to KO targets.",
+            "A MAROWAK is the evolved form of a CUBONE that has grown tough by overcoming the grief of losing its mother. Its tempered and hardened spirit is not easily broken.",
+            "From its birth, this savage Pok\u00e9mon constantly holds bones. It is skilled in using them as weapons.",
+            "It has been seen pounding boulders with the bone it carries in order to tap out messages to others.",
+            "It collects bones from an unknown place. Some whisper that a MAROWAK graveyard exists somewhere in the world.",
+            "From its birth, this savage Pok\u00e9mon constantly holds bones. It is skilled in using them as weapons.",
+            "It is small and was originally very weak. Its temperament turned ferocious when it began using bones.",
+            "The bone it holds is its key weapon. It throws the bone skillfully like a boomerang to KO targets.",
+            "Marowak is the evolved form of a Cubone that has overcome its sadness at the loss of its mother and grown tough. This Pok\u00e9mon\u2019s tempered and hardened spirit is not easily broken.",
+            "Originally, it was weak and timid. After evolution, its temperament becomes violent, and it begins to wield bones as weapons.",
+            "This Pok\u00e9mon is out for vengeance on its natural enemy, Mandibuzz. It throws bones like boomerangs to try to take it down.",
+            "It throws bones at Mandibuzz to knock it down. It\u2019s thought that Marowak is trying to avenge its parent.",
+            "They thump their bones rhythmically to communicate among themselves. There are nearly 50 different rhythmic patterns.",
+            "Small and weak, this Pok\u00e9mon is adept with its bone club. It has grown more vicious over the ages.",
+            "This Pok\u00e9mon overcame its sorrow to evolve a sturdy new body. Marowak faces its opponents bravely, using a bone as a weapon.",
+            "When this Pok\u00e9mon evolved, the skull of its mother fused to it. Marowak\u2019s temperament also turned vicious at the same time.",
+            "The bones it uses have been in its possession since it was born. It has a ferocious nature."
+        ],
+        "Alolan Marowak": [
+            "The bones it possesses were once its mother\u2019s. Its mother\u2019s regrets have become like a vengeful spirit protecting this Pok\u00e9mon.",
+            "Its custom is to mourn its lost companions. Mounds of dirt by the side of the road mark the graves of the Marowak.",
+            "The rich greenery of the Alola region is hard on Marowak. It controls fire to stay alive.",
+            "When it beats opponents with its bone, the cursed flames spread to them. No amount of water will stop those flames from burning.",
+            "It has transformed the spirit of its dear departed mother into flames, and tonight it will once again dance in mourning of others of its kind.",
+            "This Pok\u00e9mon sets the bone it holds on fire and dances through the night as a way to mourn its fallen allies.",
+            "The cursed flames that light up the bone carried by this Pok\u00e9mon are said to cause both mental and physical pain that will never fade."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787411765084201/105.png",
+    "discord_sprite": "<:P105:1132117342818680842>"
+}

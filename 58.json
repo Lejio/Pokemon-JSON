@@ -1,0 +1,442 @@
+{
+    "alt-version(s)": [
+        "Hisuian Growlithe"
+    ],
+    "name": "Growlithe",
+    "Growlithe": {
+        "pokedex_data": {
+            "National No.": "0058",
+            "Type": [
+                "Fire"
+            ],
+            "Species": "Puppy Poke\u0301mon",
+            "Height": "0.7 m (2\u203204\u2032\u2032)",
+            "Weight": "19.0 kg (41.9 lbs)",
+            "Abilities": {
+                "Intimidate": {
+                    "href": "/ability/intimidate",
+                    "effect": "Lowers the foe's Attack stat.",
+                    "hidden": false
+                },
+                "Flash Fire": {
+                    "href": "/ability/flash-fire",
+                    "effect": "It powers up Fire-type moves if it's hit by one.",
+                    "hidden": false
+                },
+                "Justified": {
+                    "href": "/ability/justified",
+                    "effect": "Raises Attack when hit by a Dark-type move.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack",
+            "Catch rate": "190",
+            "BaseFriendship": "50",
+            "Base Exp.": "70",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "75% male,25% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "55",
+                "Min": "220",
+                "Max": "314"
+            },
+            "Attack": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Defense": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Sp. Atk": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Def": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Speed": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Total": "350"
+        },
+        "defense_stats": {
+            "Intimidate ability": {
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Ground": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            },
+            "Flash Fire ability": {
+                "Fire": "no effect",
+                "Water": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Ground": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            },
+            "Justified ability": {
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Ground": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "Hisuian Growlithe": {
+        "pokedex_data": {
+            "National No.": "0058",
+            "Type": [
+                "Fire",
+                "Rock"
+            ],
+            "Species": "Scout Poke\u0301mon",
+            "Height": "0.8 m (2\u203207\u2032\u2032)",
+            "Weight": "22.7 kg (50.0 lbs)",
+            "Abilities": {
+                "Intimidate": {
+                    "href": "/ability/intimidate",
+                    "effect": "Lowers the foe's Attack stat.",
+                    "hidden": false
+                },
+                "Flash Fire": {
+                    "href": "/ability/flash-fire",
+                    "effect": "It powers up Fire-type moves if it's hit by one.",
+                    "hidden": false
+                },
+                "Rock Head": {
+                    "href": "/ability/rock-head",
+                    "effect": "Protects the Pok\u00e9mon from recoil damage.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack",
+            "Catch rate": "190",
+            "BaseFriendship": "50",
+            "Base Exp.": "70",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "75% male,25% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "60",
+                "Min": "230",
+                "Max": "324"
+            },
+            "Attack": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Defense": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Sp. Atk": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Def": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Speed": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Total": "350"
+        },
+        "defense_stats": {
+            "Intimidate ability": {
+                "Normal": "not very effective",
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Fairy": "not very effective"
+            },
+            "Flash Fire ability": {
+                "Normal": "not very effective",
+                "Fire": "no effect",
+                "Water": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Fairy": "not very effective"
+            },
+            "Rock Head ability": {
+                "Normal": "not very effective",
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Growlithe",
+                    "nationalNo": "#0058",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Arcanine",
+                    "nationalNo": "#0059",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Fire Stone)",
+                "shed": null
+            }
+        ],
+        [
+            {
+                "from": {
+                    "name": "Growlithe",
+                    "nationalNo": "#0058",
+                    "type": [
+                        "Fire",
+                        "Rock"
+                    ],
+                    "nickname": "Hisuian Growlithe"
+                },
+                "to": {
+                    "name": "Arcanine",
+                    "nationalNo": "#0059",
+                    "type": [
+                        "Fire",
+                        "Rock"
+                    ],
+                    "nickname": "Hisuian Arcanine"
+                },
+                "requirement": "(use Fire Stone)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "Growlithe": {
+            "moves": {
+                "Ember": "1",
+                "Leer": "1",
+                "Howl": "4",
+                "Bite": "8",
+                "Flame Wheel": "12",
+                "Helping Hand": "16",
+                "Agility": "20",
+                "Fire Fang": "24",
+                "Retaliate": "28",
+                "Crunch": "32",
+                "Take Down": "36",
+                "Flamethrower": "40",
+                "Roar": "44",
+                "Play Rough": "48",
+                "Reversal": "52",
+                "Flare Blitz": "56"
+            },
+            "egg": {
+                "Covet": null,
+                "Double-Edge": null,
+                "Double Kick": null,
+                "Morning Sun": null,
+                "Raging Fury": null,
+                "Thrash": null
+            },
+            "tm": {
+                "Take Down": "01",
+                "Charm": "02",
+                "Agility": "04",
+                "Scary Face": "06",
+                "Protect": "07",
+                "Fire Fang": "08",
+                "Thunder Fang": "09",
+                "Thief": "18",
+                "Fire Spin": "24",
+                "Facade": "25",
+                "Snarl": "30",
+                "Swift": "32",
+                "Flame Charge": "38",
+                "Endure": "47",
+                "Sunny Day": "49",
+                "Dig": "55",
+                "Psychic Fangs": "63",
+                "Body Slam": "66",
+                "Sleep Talk": "70",
+                "Rest": "85",
+                "Substitute": "103",
+                "Will-O-Wisp": "107",
+                "Crunch": "108",
+                "Heat Wave": "118",
+                "Flamethrower": "125",
+                "Play Rough": "127",
+                "Helping Hand": "130",
+                "Reversal": "134",
+                "Fire Blast": "141",
+                "Wild Charge": "147",
+                "Outrage": "156",
+                "Overheat": "157",
+                "Flare Blitz": "165",
+                "Close Combat": "167",
+                "Tera Blast": "171"
+            }
+        },
+        "Hisuian Growlithe": {
+            "moves": {
+                "Ember": "1",
+                "Leer": "1",
+                "Howl": "4",
+                "Bite": "8",
+                "Flame Wheel": "12",
+                "Helping Hand": "16",
+                "Fire Fang": "24",
+                "Retaliate": "28",
+                "Crunch": "32",
+                "Take Down": "36",
+                "Flamethrower": "40",
+                "Roar": "44",
+                "Rock Slide": "48",
+                "Reversal": "52",
+                "Flare Blitz": "56"
+            },
+            "egg": {
+                "Covet": null,
+                "Double-Edge": null,
+                "Double Kick": null,
+                "Head Smash": null,
+                "Morning Sun": null,
+                "Thrash": null
+            },
+            "tm": {
+                "Take Down": "01",
+                "Agility": "04",
+                "Scary Face": "06",
+                "Protect": "07",
+                "Fire Fang": "08",
+                "Thunder Fang": "09",
+                "Fire Spin": "24",
+                "Facade": "25",
+                "Rock Tomb": "36",
+                "Flame Charge": "38",
+                "Endure": "47",
+                "Sunny Day": "49",
+                "Sandstorm": "51",
+                "Smart Strike": "53",
+                "Dig": "55",
+                "Psychic Fangs": "63",
+                "Body Slam": "66",
+                "Sleep Talk": "70",
+                "Rock Blast": "76",
+                "Rest": "85",
+                "Rock Slide": "86",
+                "Power Gem": "101",
+                "Substitute": "103",
+                "Will-O-Wisp": "107",
+                "Crunch": "108",
+                "Stealth Rock": "116",
+                "Heat Wave": "118",
+                "Flamethrower": "125",
+                "Helping Hand": "130",
+                "Reversal": "134",
+                "Fire Blast": "141",
+                "Stone Edge": "150",
+                "Outrage": "156",
+                "Overheat": "157",
+                "Flare Blitz": "165",
+                "Close Combat": "167",
+                "Tera Blast": "171"
+            }
+        }
+    },
+    "entries": {
+        "Growlithe": [
+            "Very protective of its territory. It will bark and bite to repel intruders from its space.",
+            "A pok\u00e9mon with a friendly nature. However, it will bark fiercely at anything invading its territory.",
+            "It has a brave and trustworthy nature. It fearlessly stands up to bigger and stronger foes.",
+            "Extremely loyal, it will fearlessly bark at any opponent to protect its own trainer from harm.",
+            "It controls a big territory. If it detects an unknown smell, it roars loudly to force out the intruder.",
+            "GROWLITHE has a superb sense of smell. Once it smells anything, this pok\u00e9mon won\u2019t forget the scent, no matter what. It uses its advanced olfactory sense to determine the emotions of other living things.",
+            "Very friendly and faithful to people. It will try to repel enemies by barking and biting.",
+            "It is very protective of its territory. It will bark and bite to repel intruders from its space.",
+            "Its superb sense of smell ensures that this pok\u00e9mon won\u2019t forget any scent, no matter what. It uses its sense of smell to detect the emotions of others.",
+            "A Pok\u00e9mon with a loyal nature. It will remain motionless until it is given an order by its Trainer.",
+            "It has a brave and trustworthy nature. It fearlessly stands up to bigger and stronger foes.",
+            "Extremely loyal, it will fearlessly bark at any opponent to protect its own Trainer from harm.",
+            "A Pok\u00e9mon with a loyal nature. It will remain motionless until it is given an order by its Trainer.",
+            "Extremely loyal to its Trainer, it will bark at those who approach the Trainer unexpectedly and run them out of town.",
+            "Very friendly and faithful to people. It will try to repel enemies by barking and biting.",
+            "It has a brave and trustworthy nature. It fearlessly stands up to bigger and stronger foes.",
+            "Growlithe has a superb sense of smell. Once it smells anything, this Pok\u00e9mon won\u2019t forget the scent, no matter what. It uses its advanced olfactory sense to determine the emotions of other living things.",
+            "It\u2019s both clever and loyal, but if a stranger tries to invade its territory, it barks threateningly.",
+            "It looks cute, but when you approach another Trainer\u2019s Growlithe, it will bark at you and bite.",
+            "While it\u2019s quite friendly toward humans once it\u2019s grown used to them, in the wild it must be quite fierce to defend its territory from Rockruff.",
+            "It has lived alongside humans since ages ago. Its bones have been found in excavations of ruins from the Stone Age.",
+            "A Pok\u00e9mon with a friendly nature. However, it will bark fiercely at anything invading its territory.",
+            "It has a brave and trustworthy nature. It fearlessly stands up to bigger and stronger foes.",
+            "Extremely loyal, it will fearlessly bark at any opponent to protect its own Trainer from harm.",
+            "It is a Pok\u00e9mon with a loyal nature. It will remain motionless until it is given an order by its Trainer.",
+            "It has a brave and trustworthy nature. It fearlessly stands up to bigger and stronger foes.",
+            "It\u2019s very friendly and faithful to people. It will try to repel enemies by barking and biting."
+        ],
+        "Hisuian Growlithe": [
+            "They patrol their territory in pairs. I believe the igneous rock components in the fur of this species are the result of volcanic activity in its habitat."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787043987542026/58.png",
+    "discord_sprite": "<:P58:1132115271444865084>"
+}

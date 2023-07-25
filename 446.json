@@ -1,0 +1,208 @@
+{
+    "alt-version(s)": [],
+    "name": "Munchlax",
+    "Munchlax": {
+        "pokedex_data": {
+            "National No.": "0446",
+            "Type": [
+                "Normal"
+            ],
+            "Species": "Big Eater Poke\u0301mon",
+            "Height": "0.6 m (2\u203200\u2032\u2032)",
+            "Weight": "105.0 kg (231.5 lbs)",
+            "Abilities": {
+                "Pickup": {
+                    "href": "/ability/pickup",
+                    "effect": "The Pok\u00e9mon may pick up items.",
+                    "hidden": false
+                },
+                "Thick Fat": {
+                    "href": "/ability/thick-fat",
+                    "effect": "Ups resistance to Fire- and Ice-type moves.",
+                    "hidden": false
+                },
+                "Gluttony": {
+                    "href": "/ability/gluttony",
+                    "effect": "Encourages the early use of a held Berry.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 HP",
+            "Catch rate": "50",
+            "BaseFriendship": "50",
+            "Base Exp.": "78",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "135",
+                "Min": "380",
+                "Max": "474"
+            },
+            "Attack": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Defense": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Atk": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Def": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Speed": {
+                "Base": "5",
+                "Min": "13",
+                "Max": "119"
+            },
+            "Total": "390"
+        },
+        "defense_stats": {
+            "Pickup ability": {
+                "Fighting": "super-effective",
+                "Ghost": "no effect"
+            },
+            "Thick Fat ability": {
+                "Fire": "not very effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Ghost": "no effect"
+            },
+            "Gluttony ability": {
+                "Fighting": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Munchlax",
+                    "nationalNo": "#0446",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Snorlax",
+                    "nationalNo": "#0143",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(high Friendship)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Lick": "1",
+            "Tackle": "1",
+            "Defense Curl": "4",
+            "Recycle": "8",
+            "Covet": "12",
+            "Bite": "16",
+            "Stockpile": "20",
+            "Swallow": "20",
+            "Screech": "24",
+            "Body Slam": "28",
+            "Fling": "32",
+            "Amnesia": "36",
+            "Metronome": "40",
+            "Flail": "44",
+            "Belly Drum": "48",
+            "Last Resort": "52"
+        },
+        "egg": {
+            "After You": null,
+            "Belch": null,
+            "Charm": null,
+            "Counter": null,
+            "Curse": null,
+            "Double-Edge": null,
+            "Fissure": null,
+            "Lick": null,
+            "Self-Destruct": null,
+            "Whirlwind": null,
+            "Zen Headbutt": null
+        },
+        "tm": {
+            "Focus Punch": "01",
+            "Water Pulse": "03",
+            "Work Up": "10",
+            "Sunny Day": "11",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Solar Beam": "22",
+            "Thunderbolt": "24",
+            "Thunder": "25",
+            "Earthquake": "26",
+            "Psychic": "29",
+            "Shadow Ball": "30",
+            "Brick Break": "31",
+            "Double Team": "32",
+            "Shock Wave": "34",
+            "Flamethrower": "35",
+            "Sandstorm": "37",
+            "Fire Blast": "38",
+            "Rock Tomb": "39",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Fling": "56",
+            "Endure": "58",
+            "Recycle": "67",
+            "Rock Slide": "80",
+            "Sleep Talk": "82",
+            "Bulldoze": "83",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Surf": "95",
+            "Strength": "96",
+            "Rock Smash": "98",
+            "Rock Climb": "100"
+        }
+    },
+    "entries": {
+        "Munchlax": [
+            "It wolfs down its weight in food once a day, swallowing food whole with almost no chewing.",
+            "It hides food under its long body hair. However, it forgets it has hidden the food.",
+            "In its desperation to gulp down food, it forgets about the food it has hidden under its fur.",
+            "It conceals food under the long fur on its body. It carts around this food stash and swallows it without chewing.",
+            "In its desperation to gulp down food, it forgets about the food it has hidden under its fur.",
+            "It hides food under its long body hair. However, it forgets it has hidden the food.",
+            "It conceals food under the long fur on its body. It carts around this food stash and swallows it without chewing.",
+            "It needs to consume its own weight in food every day. As far as flavor is concerned, it\u2019s indifferent.",
+            "When it finds something that looks like it might be edible, it goes right ahead and swallows it whole. That\u2019s why it gets fatter day by day.",
+            "It hides food under its long fur, but it sometimes forgets about it and causes a stinky disturbance.",
+            "Anything that looks edible, Munchlax will go on and swallow whole. Its stomach is tough enough to handle it even if the food has gone rotten.",
+            "Stuffing itself with vast amounts of food is its only concern. Whether the food is rotten or fresh, yummy or tasteless\u2014it does not care.",
+            "It stores food beneath its fur. It might share just one bite, but only if it really trusts you.",
+            "It wolfs down its weight in food once a day, swallowing it whole with almost no chewing.",
+            "It hides food under its long body hair. However, it forgets it has hidden the food.",
+            "Its robust stomach allows it to nonchalantly devour even rotted matter. It pays frequent visits to villages, seeking out food scraps intended for compost."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790080181280878/446.png",
+    "discord_sprite": "<:P446:1132132355558097007>"
+}

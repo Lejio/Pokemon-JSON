@@ -1,0 +1,169 @@
+{
+    "alt-version(s)": [],
+    "name": "Fidough",
+    "Fidough": {
+        "pokedex_data": {
+            "National No.": "0926",
+            "Type": [
+                "Fairy"
+            ],
+            "Species": "Puppy Poke\u0301mon",
+            "Height": "0.3 m (1\u203200\u2032\u2032)",
+            "Weight": "10.9 kg (24.0 lbs)",
+            "Abilities": {
+                "Own Tempo": {
+                    "href": "/ability/own-tempo",
+                    "effect": "Prevents the Pok\u00e9mon from becoming confused.",
+                    "hidden": false
+                },
+                "Klutz": {
+                    "href": "/ability/klutz",
+                    "effect": "The Pok\u00e9mon can't use any held items.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Speed",
+            "Catch rate": "190",
+            "BaseFriendship": "50",
+            "Base Exp.": "62",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "37",
+                "Min": "184",
+                "Max": "278"
+            },
+            "Attack": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Defense": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Atk": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Sp. Def": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Speed": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Total": "312"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "not very effective",
+                "Poison": "super-effective",
+                "Bug": "not very effective",
+                "Dragon": "no effect",
+                "Dark": "not very effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Fidough",
+                    "nationalNo": "#0926",
+                    "type": [
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Dachsbun",
+                    "nationalNo": "#0927",
+                    "type": [
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 26)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Growl": "1",
+            "Tackle": "1",
+            "Lick": "3",
+            "Tail Whip": "6",
+            "Covet": "8",
+            "Bite": "11",
+            "Baby-Doll Eyes": "15",
+            "Play Rough": "18",
+            "Work Up": "22",
+            "Baton Pass": "26",
+            "Roar": "30",
+            "Double-Edge": "33",
+            "Charm": "36",
+            "Crunch": "40",
+            "Last Resort": "45"
+        },
+        "egg": {
+            "Copycat": null,
+            "Howl": null,
+            "Sweet Scent": null,
+            "Wish": null,
+            "Yawn": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Charm": "02",
+            "Agility": "04",
+            "Mud-Slap": "05",
+            "Protect": "07",
+            "Fire Fang": "08",
+            "Thunder Fang": "09",
+            "Ice Fang": "10",
+            "Trailblaze": "20",
+            "Facade": "25",
+            "Snarl": "30",
+            "Mud Shot": "35",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Dig": "55",
+            "Psychic Fangs": "63",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Dazzling Gleam": "79",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Substitute": "103",
+            "Crunch": "108",
+            "Play Rough": "127",
+            "Helping Hand": "130",
+            "Baton Pass": "132",
+            "Misty Terrain": "139",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Fidough": [
+            "This Pok\u00e9mon is smooth and moist to the touch. Yeast in Fidough\u2019s breath induces fermentation in the Pok\u00e9mon\u2019s vicinity.",
+            "The yeast in Fidough\u2019s breath is useful for cooking, so this Pok\u00e9mon has been protected by people since long ago."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793824323223603/926.png",
+    "discord_sprite": "<:P926:1132153540375220345>"
+}

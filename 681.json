@@ -1,0 +1,298 @@
+{
+    "alt-version(s)": [
+        "Shield Forme",
+        "Blade Forme"
+    ],
+    "Shield Forme": {
+        "pokedex_data": {
+            "National No.": "0681",
+            "Type": [
+                "Steel",
+                "Ghost"
+            ],
+            "Species": "Royal Sword Poke\u0301mon",
+            "Height": "1.7 m (5\u203207\u2032\u2032)",
+            "Weight": "53.0 kg (116.8 lbs)",
+            "Abilities": {
+                "Stance Change": {
+                    "href": "/ability/stance-change",
+                    "effect": "Changes form depending on moves used.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Defense, 1 Sp. Def",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "234",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "60",
+                "Min": "230",
+                "Max": "324"
+            },
+            "Attack": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Defense": {
+                "Base": "140",
+                "Min": "256",
+                "Max": "416"
+            },
+            "Sp. Atk": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Def": {
+                "Base": "140",
+                "Min": "256",
+                "Max": "416"
+            },
+            "Speed": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Total": "500"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "no effect",
+                "Fire": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Fighting": "no effect",
+                "Poison": "no effect",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Ghost": "super-effective",
+                "Dragon": "not very effective",
+                "Dark": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "Blade Forme": {
+        "pokedex_data": {
+            "National No.": "0681",
+            "Type": [
+                "Steel",
+                "Ghost"
+            ],
+            "Species": "Royal Sword Poke\u0301mon",
+            "Height": "1.7 m (5\u203207\u2032\u2032)",
+            "Weight": "53.0 kg (116.8 lbs)",
+            "Abilities": {
+                "Stance Change": {
+                    "href": "/ability/stance-change",
+                    "effect": "Changes form depending on moves used.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack, 1 Sp. Atk",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "234",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "60",
+                "Min": "230",
+                "Max": "324"
+            },
+            "Attack": {
+                "Base": "140",
+                "Min": "256",
+                "Max": "416"
+            },
+            "Defense": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Atk": {
+                "Base": "140",
+                "Min": "256",
+                "Max": "416"
+            },
+            "Sp. Def": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Speed": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Total": "500"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "no effect",
+                "Fire": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Fighting": "no effect",
+                "Poison": "no effect",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Ghost": "super-effective",
+                "Dragon": "not very effective",
+                "Dark": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Honedge",
+                    "nationalNo": "#0679",
+                    "type": [
+                        "Steel",
+                        "Ghost"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Doublade",
+                    "nationalNo": "#0680",
+                    "type": [
+                        "Steel",
+                        "Ghost"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 35)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Doublade",
+                    "nationalNo": "#0680",
+                    "type": [
+                        "Steel",
+                        "Ghost"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Aegislash",
+                    "nationalNo": "#0681",
+                    "type": [
+                        "Steel",
+                        "Ghost"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Dusk Stone)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Aerial Ace": "1",
+            "Autotomize": "1",
+            "Fury Cutter": "1",
+            "Head Smash": "1",
+            "Iron Defense": "1",
+            "Iron Head": "1",
+            "King's Shield": "1",
+            "Metal Sound": "1",
+            "Night Slash": "1",
+            "Power Trick": "1",
+            "Retaliate": "1",
+            "Sacred Sword": "1",
+            "Shadow Sneak": "1",
+            "Slash": "1",
+            "Swords Dance": "1",
+            "Tackle": "1"
+        },
+        "evolution": {
+            "King's Shield": "\u2014"
+        },
+        "egg": {
+            "Block": null,
+            "Destiny Bond": null,
+            "Wide Guard": null
+        },
+        "tm": {
+            "Hyper Beam": "08",
+            "Giga Impact": "09",
+            "Solar Blade": "12",
+            "Screech": "16",
+            "Reflect": "18",
+            "Rest": "21",
+            "Rock Slide": "22",
+            "Snore": "24",
+            "Protect": "25",
+            "Attract": "31",
+            "Rain Dance": "33",
+            "Sunny Day": "34",
+            "Facade": "39",
+            "Brick Break": "43",
+            "Shadow Claw": "65",
+            "Psycho Cut": "69",
+            "Round": "76",
+            "Retaliate": "79",
+            "False Swipe": "94",
+            "Air Slash": "95",
+            "Brutal Swing": "97"
+        },
+        "null": {
+            "Swords Dance": "00",
+            "Substitute": "20",
+            "Reversal": "21",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Shadow Ball": "33",
+            "Iron Defense": "46",
+            "Gyro Ball": "52",
+            "Close Combat": "53",
+            "Flash Cannon": "70",
+            "Iron Head": "74"
+        }
+    },
+    "entries": {
+        "Aegislash": [
+            "Generations of kings were attended by these Pok\u00e9mon, which used their spectral power to manipulate and control people and Pok\u00e9mon.",
+            "Apparently, it can detect the innate qualities of leadership. According to legend, whoever it recognizes is destined to become king."
+        ],
+        "Shield Forme": [
+            "In this defensive stance, Aegislash uses its steel body and a force field of spectral power to reduce the damage of any attack.",
+            "Its potent spectral powers allow it to manipulate others. It once used its powers to force people and Pok\u00e9mon to build a kingdom to its liking."
+        ],
+        "Blade Forme": [
+            "This stance is dedicated to offense. It can cleave any opponent with the strength and weight of its steel blade.",
+            "Once upon a time, a king with an Aegislash reigned over the land. His Pok\u00e9mon eventually drained him of life, and his kingdom fell with him."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791911787712614/681.png",
+    "discord_sprite": "<:P681:1132142706055983106>"
+}

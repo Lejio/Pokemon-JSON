@@ -1,0 +1,196 @@
+{
+    "alt-version(s)": [],
+    "name": "Shellder",
+    "Shellder": {
+        "pokedex_data": {
+            "National No.": "0090",
+            "Type": [
+                "Water"
+            ],
+            "Species": "Bivalve Poke\u0301mon",
+            "Height": "0.3 m (1\u203200\u2032\u2032)",
+            "Weight": "4.0 kg (8.8 lbs)",
+            "Abilities": {
+                "Shell Armor": {
+                    "href": "/ability/shell-armor",
+                    "effect": "The Pok\u00e9mon is protected against critical hits.",
+                    "hidden": false
+                },
+                "Skill Link": {
+                    "href": "/ability/skill-link",
+                    "effect": "Increases the frequency of multi-strike moves.",
+                    "hidden": false
+                },
+                "Overcoat": {
+                    "href": "/ability/overcoat",
+                    "effect": "Protects the Pok\u00e9mon from weather damage.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Defense",
+            "Catch rate": "190",
+            "BaseFriendship": "50",
+            "Base Exp.": "61",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "30",
+                "Min": "170",
+                "Max": "264"
+            },
+            "Attack": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Defense": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Sp. Atk": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Sp. Def": {
+                "Base": "25",
+                "Min": "49",
+                "Max": "163"
+            },
+            "Speed": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Total": "305"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Shellder",
+                    "nationalNo": "#0090",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Cloyster",
+                    "nationalNo": "#0091",
+                    "type": [
+                        "Water",
+                        "Ice"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Water Stone)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Tackle": "1",
+            "Water Gun": "1",
+            "Withdraw": "4",
+            "Ice Shard": "8",
+            "Leer": "12",
+            "Whirlpool": "16",
+            "Supersonic": "20",
+            "Aurora Beam": "24",
+            "Protect": "28",
+            "Razor Shell": "32",
+            "Iron Defense": "36",
+            "Ice Beam": "40",
+            "Shell Smash": "44",
+            "Hydro Pump": "48"
+        },
+        "egg": {
+            "Aqua Ring": null,
+            "Bubble Beam": null,
+            "Life Dew": null,
+            "Water Pulse": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Protect": "07",
+            "Water Pulse": "11",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Swift": "32",
+            "Icy Wind": "34",
+            "Mud Shot": "35",
+            "Avalanche": "46",
+            "Endure": "47",
+            "Rain Dance": "50",
+            "Snowscape": "52",
+            "Sleep Talk": "70",
+            "Rock Blast": "76",
+            "Waterfall": "77",
+            "Rest": "85",
+            "Spikes": "90",
+            "Toxic Spikes": "91",
+            "Substitute": "103",
+            "Iron Defense": "104",
+            "Liquidation": "110",
+            "Surf": "123",
+            "Ice Spinner": "124",
+            "Helping Hand": "130",
+            "Ice Beam": "135",
+            "Hydro Pump": "142",
+            "Blizzard": "143",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Shellder": [
+            "Its hard shell repels any kind of attack. It is vulnerable only when its shell is open.",
+            "The shell can withstand any attack. However, when it is open, the tender body is exposed.",
+            "It swims facing backward by opening and closing its two-piece shell. It is surprisingly fast.",
+            "Grains of sand trapped in its shells mix with its body fluids to form beautiful pearls.",
+            "Clamping on to an opponent reveals its vulnerable parts, so it uses this move only as a last resort.",
+            "At night, this pok\u00e9mon uses its broad tongue to burrow a hole in the seafloor sand and then sleep in it. While it is sleeping, SHELLDER closes its shell, but leaves its tongue hanging out.",
+            "It is encased in a shell that is harder than diamond. Inside, however, it is surprisingly tender.",
+            "Its hard shell repels any kind of attack. It is vulnerable only when its shell is open.",
+            "At night, it burrows a hole in the seafloor with its broad tongue to make a place to sleep. While asleep, it closes its shell, but leaves its tongue hanging out.",
+            "It swims backward by opening and closing its two shells. Its large tongue is always kept hanging out.",
+            "It swims facing backward by opening and closing its two-piece shell. It is surprisingly fast.",
+            "Grains of sand trapped in its shells mix with its body fluids to form beautiful pearls.",
+            "It swims backward by opening and closing its two shells. Its large tongue is always kept hanging out.",
+            "Its hard shell repels any kind of attack. It is vulnerable only when its shell is open.",
+            "Clamping on to an opponent reveals its vulnerable parts, so it uses this move only as a last resort.",
+            "At night, this Pok\u00e9mon uses its broad tongue to burrow a hole in the seafloor sand and then sleep in it. While it is sleeping, Shellder closes its shell, but leaves its tongue hanging out.",
+            "The hardness of its shell surpasses the hardness of a diamond. In days gone by, people used the shells to make shields.",
+            "This Pok\u00e9mon\u2019s tongue is always hanging out. It uses its tongue with great dexterity to dig up sand from the seabed in its search for food.",
+            "The sand that accumulates inside its shell eventually becomes a pearl. But the pearl gets in the way, so it spits it out and discards it.",
+            "Even when its shell is closed, its tongue still hangs out. If you give its tongue a good yank, the shock will cause Shellder to open its shell.",
+            "The shell can withstand any attack. However, when it is open, the tender body is exposed.",
+            "It swims facing backward by opening and closing its two-piece shell. It is surprisingly fast.",
+            "Its hard shell repels any kind of attack. It is vulnerable only when its shell is open.",
+            "It swims backward by opening and closing its two shells. Its large tongue is always kept hanging out.",
+            "It is encased in a shell that is harder than diamond. Inside, however, it is surprisingly tender.",
+            "Clamping on to an opponent reveals its vulnerable parts, so it uses this move only as a last resort."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787293909336134/90.png",
+    "discord_sprite": "<:P90:1132116684036124762>"
+}

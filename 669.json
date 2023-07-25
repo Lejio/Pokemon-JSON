@@ -1,0 +1,210 @@
+{
+    "alt-version(s)": [],
+    "name": "Flab\u00e9b\u00e9",
+    "Flab\u00e9b\u00e9": {
+        "pokedex_data": {
+            "National No.": "0669",
+            "Type": [
+                "Fairy"
+            ],
+            "Species": "Single Bloom Poke\u0301mon",
+            "Height": "0.1 m (0\u203204\u2032\u2032)",
+            "Weight": "0.1 kg (0.2 lbs)",
+            "Abilities": {
+                "Flower Veil": {
+                    "href": "/ability/flower-veil",
+                    "effect": "Prevents lowering of ally Grass-type Pok\u00e9mon's stats.",
+                    "hidden": false
+                },
+                "Symbiosis": {
+                    "href": "/ability/symbiosis",
+                    "effect": "The Pok\u00e9mon can pass an item to an ally.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Sp. Def",
+            "Catch rate": "225",
+            "BaseFriendship": "50",
+            "Base Exp.": "61",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "0% male,100% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "44",
+                "Min": "198",
+                "Max": "292"
+            },
+            "Attack": {
+                "Base": "38",
+                "Min": "72",
+                "Max": "192"
+            },
+            "Defense": {
+                "Base": "39",
+                "Min": "74",
+                "Max": "194"
+            },
+            "Sp. Atk": {
+                "Base": "61",
+                "Min": "114",
+                "Max": "243"
+            },
+            "Sp. Def": {
+                "Base": "79",
+                "Min": "146",
+                "Max": "282"
+            },
+            "Speed": {
+                "Base": "42",
+                "Min": "80",
+                "Max": "201"
+            },
+            "Total": "303"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "not very effective",
+                "Poison": "super-effective",
+                "Bug": "not very effective",
+                "Dragon": "no effect",
+                "Dark": "not very effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Flab\u00e9b\u00e9",
+                    "nationalNo": "#0669",
+                    "type": [
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Floette",
+                    "nationalNo": "#0670",
+                    "type": [
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 19)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Floette",
+                    "nationalNo": "#0670",
+                    "type": [
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Florges",
+                    "nationalNo": "#0671",
+                    "type": [
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Shiny Stone)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Tackle": "1",
+            "Vine Whip": "1",
+            "Fairy Wind": "6",
+            "Safeguard": "10",
+            "Razor Leaf": "15",
+            "Wish": "20",
+            "Magical Leaf": "22",
+            "Grassy Terrain": "24",
+            "Petal Blizzard": "28",
+            "Synthesis": "33",
+            "Misty Terrain": "37",
+            "Moonblast": "41",
+            "Petal Dance": "45",
+            "Solar Beam": "48"
+        },
+        "egg": {
+            "Copycat": null,
+            "Endeavor": null,
+            "Tearful Look": null
+        },
+        "tm": {
+            "Charm": "02",
+            "Protect": "07",
+            "Disarming Voice": "19",
+            "Trailblaze": "20",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Swift": "32",
+            "Magical Leaf": "33",
+            "Draining Kiss": "37",
+            "Stored Power": "41",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Sleep Talk": "70",
+            "Seed Bomb": "71",
+            "Light Screen": "75",
+            "Dazzling Gleam": "79",
+            "Grass Knot": "81",
+            "Rest": "85",
+            "Substitute": "103",
+            "Giga Drain": "111",
+            "Energy Ball": "119",
+            "Psychic": "120",
+            "Calm Mind": "129",
+            "Helping Hand": "130",
+            "Pollen Puff": "131",
+            "Baton Pass": "132",
+            "Grassy Terrain": "137",
+            "Misty Terrain": "139",
+            "Solar Beam": "168",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Flab\u00e9b\u00e9": [
+            "It draws out and controls the hidden power of flowers. The flower Flab\u00e9b\u00e9 holds is most likely part of its body.",
+            "When it finds a flower it likes, it dwells on that flower its whole life long. It floats in the wind\u2019s embrace with an untroubled heart.",
+            "It\u2019s not safe without the power of a flower, but it will keep traveling around until it finds one with the color and shape it wants.",
+            "Flab\u00e9b\u00e9 wears a crown made from pollen it\u2019s collected from its flower. The crown has hidden healing properties."
+        ],
+        "Blue Flower": [
+            "Once it finds a flower it likes, this Pok\u00e9mon will spend the rest of its life taking care of its flower. This Flab\u00e9b\u00e9 rides a blue flower.",
+            "This Pok\u00e9mon likes blue flowers best of all. It floats upward using the power emanating from its flower and bobs along lightly through the air."
+        ],
+        "Orange Flower": [
+            "This Flab\u00e9b\u00e9 rides an orange flower. On its head, it wears a crown of pollen that has healing properties.",
+            "It receives strength from flowers and gives them some of its energy in return. This Pok\u00e9mon likes orange flowers best of all."
+        ],
+        "Red Flower": [
+            "This Pok\u00e9mon can draw forth the power hidden within blooming wild flowers. It is particularly fond of red flowers.",
+            "This Flab\u00e9b\u00e9 rides a red flower. Immediately after birth, this Pok\u00e9mon begins flying around in search of a flower it likes."
+        ],
+        "White Flower": [
+            "This Flab\u00e9b\u00e9 rides a white flower. The wind blows this Pok\u00e9mon around as it drifts in search of flower gardens.",
+            "When evening falls, it searches out a place blooming with flowers of the same white color as itself, and then it goes to sleep."
+        ],
+        "Yellow Flower": [
+            "This Flab\u00e9b\u00e9 rides a yellow flower. The Pok\u00e9mon is defenseless and vulnerable before it has found and received power from a flower.",
+            "It unleashes a variety of moves by drawing forth the power hidden within flowers. This Pok\u00e9mon is particularly fond of yellow flowers."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791818057584671/669.png",
+    "discord_sprite": "<:P669:1132142182166433852>"
+}

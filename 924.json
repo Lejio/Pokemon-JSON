@@ -1,0 +1,196 @@
+{
+    "alt-version(s)": [],
+    "name": "Tandemaus",
+    "Tandemaus": {
+        "pokedex_data": {
+            "National No.": "0924",
+            "Type": [
+                "Normal"
+            ],
+            "Species": "Couple Poke\u0301mon",
+            "Height": "0.3 m (1\u203200\u2032\u2032)",
+            "Weight": "1.8 kg (4.0 lbs)",
+            "Abilities": {
+                "Run Away": {
+                    "href": "/ability/run-away",
+                    "effect": "Enables a sure getaway from wild Pok\u00e9mon.",
+                    "hidden": false
+                },
+                "Pickup": {
+                    "href": "/ability/pickup",
+                    "effect": "The Pok\u00e9mon may pick up items.",
+                    "hidden": false
+                },
+                "Own Tempo": {
+                    "href": "/ability/own-tempo",
+                    "effect": "Prevents the Pok\u00e9mon from becoming confused.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Speed",
+            "Catch rate": "150",
+            "BaseFriendship": "50",
+            "Base Exp.": "61",
+            "Growth Rate": "Fast"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "50",
+                "Min": "210",
+                "Max": "304"
+            },
+            "Attack": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Defense": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Sp. Atk": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Def": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Speed": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Total": "305"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Tandemaus",
+                    "nationalNo": "#0924",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Maushold",
+                    "nationalNo": "#0925",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": "Family of Three"
+                },
+                "requirement": "(Level 25, rare)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Tandemaus",
+                    "nationalNo": "#0924",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Maushold",
+                    "nationalNo": "#0925",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": "Family of Four"
+                },
+                "requirement": "(Level 25)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Baby-Doll Eyes": "1",
+            "Pound": "1",
+            "Echoed Voice": "5",
+            "Helping Hand": "8",
+            "Super Fang": "11",
+            "Double Hit": "14",
+            "Bullet Seed": "18",
+            "Encore": "22",
+            "Play Rough": "26",
+            "Hyper Voice": "30",
+            "Charm": "33",
+            "Beat Up": "37",
+            "Copycat": "41",
+            "Population Bomb": "46"
+        },
+        "egg": {
+            "After You": null,
+            "Baton Pass": null,
+            "Bite": null,
+            "Feint": null,
+            "Switcheroo": null,
+            "Tickle": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Charm": "02",
+            "Fake Tears": "03",
+            "Agility": "04",
+            "Mud-Slap": "05",
+            "Protect": "07",
+            "Water Pulse": "11",
+            "Low Kick": "12",
+            "Thief": "18",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Swift": "32",
+            "Mud Shot": "35",
+            "Low Sweep": "39",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Dig": "55",
+            "Bullet Seed": "56",
+            "U-turn": "60",
+            "Shadow Claw": "61",
+            "Sleep Talk": "70",
+            "Seed Bomb": "71",
+            "Grass Knot": "81",
+            "Thunder Wave": "82",
+            "Rest": "85",
+            "Taunt": "87",
+            "Substitute": "103",
+            "Crunch": "108",
+            "Hyper Voice": "117",
+            "Encore": "122",
+            "Play Rough": "127",
+            "Helping Hand": "130",
+            "Baton Pass": "132",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Tandemaus": [
+            "Exhibiting great teamwork, they use their incisors to cut pieces out of any material that might be useful for a nest, then make off with them.",
+            "The pair sticks together no matter what. They split any food they find exactly in half and then eat it together."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793807827030026/924.png",
+    "discord_sprite": "<:P924:1132153452957540392>"
+}

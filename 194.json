@@ -1,0 +1,366 @@
+{
+    "alt-version(s)": [
+        "Paldean Wooper"
+    ],
+    "name": "Wooper",
+    "Wooper": {
+        "pokedex_data": {
+            "National No.": "0194",
+            "Type": [
+                "Water",
+                "Ground"
+            ],
+            "Species": "Water Fish Poke\u0301mon",
+            "Height": "0.4 m (1\u203204\u2032\u2032)",
+            "Weight": "8.5 kg (18.7 lbs)",
+            "Abilities": {
+                "Damp": {
+                    "href": "/ability/damp",
+                    "effect": "Prevents the use of self-destructing moves.",
+                    "hidden": false
+                },
+                "Water Absorb": {
+                    "href": "/ability/water-absorb",
+                    "effect": "Restores HP if hit by a Water-type move.",
+                    "hidden": false
+                },
+                "Unaware": {
+                    "href": "/ability/unaware",
+                    "effect": "Ignores any stat changes in the Pok\u00e9mon.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 HP",
+            "Catch rate": "255",
+            "BaseFriendship": "50",
+            "Base Exp.": "42",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "55",
+                "Min": "220",
+                "Max": "314"
+            },
+            "Attack": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Defense": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Sp. Atk": {
+                "Base": "25",
+                "Min": "49",
+                "Max": "163"
+            },
+            "Sp. Def": {
+                "Base": "25",
+                "Min": "49",
+                "Max": "163"
+            },
+            "Speed": {
+                "Base": "15",
+                "Min": "31",
+                "Max": "141"
+            },
+            "Total": "210"
+        },
+        "defense_stats": {
+            "Damp ability": {
+                "Fire": "not very effective",
+                "Electric": "no effect",
+                "Grass": "super-effective",
+                "Poison": "not very effective",
+                "Rock": "not very effective",
+                "Steel": "not very effective"
+            },
+            "Water Absorb ability": {
+                "Fire": "not very effective",
+                "Water": "no effect",
+                "Electric": "no effect",
+                "Grass": "super-effective",
+                "Poison": "not very effective",
+                "Rock": "not very effective",
+                "Steel": "not very effective"
+            },
+            "Unaware ability": {
+                "Fire": "not very effective",
+                "Electric": "no effect",
+                "Grass": "super-effective",
+                "Poison": "not very effective",
+                "Rock": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "Paldean Wooper": {
+        "pokedex_data": {
+            "National No.": "0194",
+            "Type": [
+                "Poison",
+                "Ground"
+            ],
+            "Species": "Poison Fish Poke\u0301mon",
+            "Height": "0.4 m (1\u203204\u2032\u2032)",
+            "Weight": "11.0 kg (24.3 lbs)",
+            "Abilities": {
+                "Poison Point": {
+                    "href": "/ability/poison-point",
+                    "effect": "Contact with the Pok\u00e9mon may poison the attacker.",
+                    "hidden": false
+                },
+                "Water Absorb": {
+                    "href": "/ability/water-absorb",
+                    "effect": "Restores HP if hit by a Water-type move.",
+                    "hidden": false
+                },
+                "Unaware": {
+                    "href": "/ability/unaware",
+                    "effect": "Ignores any stat changes in the Pok\u00e9mon.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 HP",
+            "Catch rate": "255",
+            "BaseFriendship": "50",
+            "Base Exp.": "42",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "55",
+                "Min": "220",
+                "Max": "314"
+            },
+            "Attack": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Defense": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Sp. Atk": {
+                "Base": "25",
+                "Min": "49",
+                "Max": "163"
+            },
+            "Sp. Def": {
+                "Base": "25",
+                "Min": "49",
+                "Max": "163"
+            },
+            "Speed": {
+                "Base": "15",
+                "Min": "31",
+                "Max": "141"
+            },
+            "Total": "210"
+        },
+        "defense_stats": {
+            "Poison Point ability": {
+                "Water": "super-effective",
+                "Electric": "no effect",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Fairy": "not very effective"
+            },
+            "Water Absorb ability": {
+                "Water": "no effect",
+                "Electric": "no effect",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Fairy": "not very effective"
+            },
+            "Unaware ability": {
+                "Water": "super-effective",
+                "Electric": "no effect",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Wooper",
+                    "nationalNo": "#0194",
+                    "type": [
+                        "Water",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Quagsire",
+                    "nationalNo": "#0195",
+                    "type": [
+                        "Water",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 20)",
+                "shed": null
+            }
+        ],
+        [
+            {
+                "from": {
+                    "name": "Wooper",
+                    "nationalNo": "#0194",
+                    "type": [
+                        "Poison",
+                        "Ground"
+                    ],
+                    "nickname": "Paldean Wooper"
+                },
+                "to": {
+                    "name": "Clodsire",
+                    "nationalNo": "#0980",
+                    "type": [
+                        "Poison",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 20)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Tail Whip": "1",
+            "Water Gun": "1",
+            "Rain Dance": "4",
+            "Mud Shot": "8",
+            "Haze": "12",
+            "Mist": "12",
+            "Slam": "16",
+            "Yawn": "21",
+            "Aqua Tail": "24",
+            "Muddy Water": "28",
+            "Amnesia": "32",
+            "Toxic": "36",
+            "Earthquake": "40"
+        },
+        "egg": {
+            "Acid Spray": null,
+            "After You": null,
+            "Ancient Power": null,
+            "Counter": null,
+            "Curse": null,
+            "Double Kick": null,
+            "Recover": null,
+            "Spit Up": null,
+            "Stockpile": null,
+            "Swallow": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Mud-Slap": "05",
+            "Protect": "07",
+            "Water Pulse": "11",
+            "Acid Spray": "13",
+            "Trailblaze": "20",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Bulldoze": "28",
+            "Icy Wind": "34",
+            "Mud Shot": "35",
+            "Rock Tomb": "36",
+            "Avalanche": "46",
+            "Endure": "47",
+            "Rain Dance": "50",
+            "Sandstorm": "51",
+            "Snowscape": "52",
+            "Dig": "55",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Waterfall": "77",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Spikes": "90",
+            "Substitute": "103",
+            "Liquidation": "110",
+            "Stealth Rock": "116",
+            "Encore": "122",
+            "Surf": "123",
+            "Amnesia": "128",
+            "Helping Hand": "130",
+            "Earth Power": "133",
+            "Ice Beam": "135",
+            "Hydro Pump": "142",
+            "Blizzard": "143",
+            "Sludge Bomb": "148",
+            "Earthquake": "149",
+            "Stone Edge": "150",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Wooper": [
+            "This pok\u00e9mon lives in cold water. It will leave the water to search for food when it gets cold outside.",
+            "When it walks around on the ground, it coats its body with a slimy, poisonous film.",
+            "A mucous membrane covers its body. Touching it barehanded will cause a shooting pain.",
+            "WOOPER usually lives in water. However, it occasionally comes out onto land in search of food. On land, it coats its body with a gooey, toxic film.",
+            "When it walks around on the ground, it coats its body with a slimy, poisonous film.",
+            "This pok\u00e9mon lives in cold water. It will leave the water to search for food when it gets cold outside.",
+            "WOOPER usually live in water but come out onto land seeking food occasionally. On land, they coat their bodies with a gooey, toxic film.",
+            "It lives in cold water, half burying itself in mud at the bottom to sleep.",
+            "When the temperature cools in the evening, they emerge from water to seek food along the shore.",
+            "When walking on land, it covers its body with a poisonous film that keeps its skin from dehydrating.",
+            "This Pok\u00e9mon lives in cold water. It will leave the water to search for food when it gets cold outside.",
+            "When it walks around on the ground, it coats its body with a slimy, poisonous film.",
+            "When walking on land, it covers its body with a poisonous film that keeps its skin from dehydrating.",
+            "This Pok\u00e9mon lives in cold water. It will leave the water to search for food when it gets cold outside.",
+            "When the temperature cools in the evening, they emerge from water to seek food along the shore.",
+            "Wooper usually lives in water. However, it occasionally comes out onto land in search of food. On land, it coats its body with a gooey, toxic film.",
+            "This Pok\u00e9mon lives in cold water. It will leave the water to search for food when it gets cold outside.",
+            "When walking on land, it covers its body with a poisonous film that keeps its skin from dehydrating.",
+            "It lives in cold water, half burying itself in mud at the bottom to sleep.",
+            "When the temperature cools in the evening, they emerge from water to seek food along the shore."
+        ],
+        "Paldean Wooper": [
+            "After losing a territorial struggle, Wooper began living on land. The Pok\u00e9mon changed over time, developing a poisonous film to protect its body.",
+            "It\u2019s dangerous for Wooper to travel alone. They line up in groups of three or four and help each other as they walk around the wetlands."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788106169864192/194.png",
+    "discord_sprite": "<:P194:1132121270566260796>"
+}

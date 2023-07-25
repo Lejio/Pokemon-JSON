@@ -1,0 +1,240 @@
+{
+    "alt-version(s)": [],
+    "name": "Quilava",
+    "Quilava": {
+        "pokedex_data": {
+            "National No.": "0156",
+            "Type": [
+                "Fire"
+            ],
+            "Species": "Volcano Poke\u0301mon",
+            "Height": "0.9 m (2\u203211\u2032\u2032)",
+            "Weight": "19.0 kg (41.9 lbs)",
+            "Abilities": {
+                "Blaze": {
+                    "href": "/ability/blaze",
+                    "effect": "Powers up Fire-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Flash Fire": {
+                    "href": "/ability/flash-fire",
+                    "effect": "It powers up Fire-type moves if it's hit by one.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Sp. Atk, 1 Speed",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "142",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "58",
+                "Min": "226",
+                "Max": "320"
+            },
+            "Attack": {
+                "Base": "64",
+                "Min": "119",
+                "Max": "249"
+            },
+            "Defense": {
+                "Base": "58",
+                "Min": "108",
+                "Max": "236"
+            },
+            "Sp. Atk": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Sp. Def": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Speed": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Total": "405"
+        },
+        "defense_stats": {
+            "Blaze ability": {
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Ground": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            },
+            "Flash Fire ability": {
+                "Fire": "no effect",
+                "Water": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Ground": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Cyndaquil",
+                    "nationalNo": "#0155",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Quilava",
+                    "nationalNo": "#0156",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 14, or Level 17 in Legends: Arceus)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Quilava",
+                    "nationalNo": "#0156",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Typhlosion",
+                    "nationalNo": "#0157",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 36)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Quilava",
+                    "nationalNo": "#0156",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Typhlosion",
+                    "nationalNo": "#0157",
+                    "type": [
+                        "Fire",
+                        "Ghost"
+                    ],
+                    "nickname": "Hisuian Typhlosion"
+                },
+                "requirement": "(Level 36, in Legends: Arceus)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Leer": "1",
+            "Smokescreen": "1",
+            "Tackle": "1",
+            "Ember": "10",
+            "Quick Attack": "13",
+            "Flame Wheel": "20",
+            "Defense Curl": "24",
+            "Swift": "31",
+            "Flame Charge": "35",
+            "Lava Plume": "42",
+            "Flamethrower": "46",
+            "Inferno": "53",
+            "Rollout": "57",
+            "Double-Edge": "64",
+            "Overheat": "68",
+            "Eruption": "75"
+        },
+        "egg": {
+            "Covet": null,
+            "Curse": null,
+            "Double Kick": null,
+            "Extrasensory": null,
+            "Howl": null,
+            "Reversal": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Protect": "07",
+            "Fire Fang": "08",
+            "Fire Spin": "24",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Swift": "32",
+            "Flame Charge": "38",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Dig": "55",
+            "Brick Break": "58",
+            "Zen Headbutt": "59",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Rest": "85",
+            "Iron Head": "99",
+            "Substitute": "103",
+            "Will-O-Wisp": "107",
+            "Heat Wave": "118",
+            "Flamethrower": "125",
+            "Play Rough": "127",
+            "Reversal": "134",
+            "Fire Blast": "141",
+            "Fire Pledge": "144",
+            "Wild Charge": "147",
+            "Overheat": "157",
+            "Flare Blitz": "165",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Quilava": [
+            "Be careful if it turns its back during battle. It means that it will attack with the fire on its back.",
+            "This pok\u00e9mon is fully covered by nonflammable fur. It can withstand any kind of fire attack.",
+            "Before battle, it turns its back on its opponent to demonstrate how ferociously its fire blazes.",
+            "QUILAVA keeps its foes at bay with the intensity of its flames and gusts of superheated air. This pok\u00e9mon applies its outstanding nimbleness to dodge attacks even while scorching the foe with flames.",
+            "This pok\u00e9mon is fully covered by nonflammable fur. It can withstand any kind of fire attack.",
+            "Be careful if it turns its back during battle. It means that it will attack with the fire on its back.",
+            "It intimidates foes with intense gusts of flames and superheated air. Its quick nimbleness lets it dodge attacks even while scorching an enemy.",
+            "It intimidates foes with the heat of its flames. The fire burns more strongly when it readies to fight.",
+            "Be careful if it turns its back during battle. It means that it will attack with the fire on its back.",
+            "This Pok\u00e9mon is fully covered by nonflammable fur. It can withstand any kind of fire attack.",
+            "It intimidates foes with the heat of its flames. The fire burns more strongly when it readies to fight.",
+            "Before battle, it turns its back on its opponent to demonstrate how ferociously its fire blazes.",
+            "Be careful if it turns its back during battle. It means that it will attack with the fire on its back.",
+            "Quilava keeps its foes at bay with the intensity of its flames and gusts of superheated air. This Pok\u00e9mon applies its outstanding nimbleness to dodge attacks even while scorching the foe with flames.",
+            "It intimidates foes with the heat of its flames. The fire burns stronger as it prepares to fight.",
+            "This creature\u2019s fur is most mysterious\u2014it is wholly impervious to the burning touch of flame. Should Quilava turn its back to you, take heed! Such a posture indicates a forthcoming attack."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787808185536614/156.png",
+    "discord_sprite": "<:P156:1132119599685582848>"
+}

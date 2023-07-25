@@ -1,0 +1,212 @@
+{
+    "alt-version(s)": [],
+    "name": "Togedemaru",
+    "Togedemaru": {
+        "pokedex_data": {
+            "National No.": "0777",
+            "Type": [
+                "Electric",
+                "Steel"
+            ],
+            "Species": "Roly-Poly Poke\u0301mon",
+            "Height": "0.3 m (1\u203200\u2032\u2032)",
+            "Weight": "3.3 kg (7.3 lbs)",
+            "Abilities": {
+                "Iron Barbs": {
+                    "href": "/ability/iron-barbs",
+                    "effect": "Inflicts damage to the Pok\u00e9mon on contact.",
+                    "hidden": false
+                },
+                "Lightning Rod": {
+                    "href": "/ability/lightning-rod",
+                    "effect": "Draws in all Electric-type moves to up Sp. Attack.",
+                    "hidden": false
+                },
+                "Sturdy": {
+                    "href": "/ability/sturdy",
+                    "effect": "It cannot be knocked out with one hit.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "180",
+            "BaseFriendship": "50",
+            "Base Exp.": "152",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "65",
+                "Min": "240",
+                "Max": "334"
+            },
+            "Attack": {
+                "Base": "98",
+                "Min": "180",
+                "Max": "324"
+            },
+            "Defense": {
+                "Base": "63",
+                "Min": "117",
+                "Max": "247"
+            },
+            "Sp. Atk": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Def": {
+                "Base": "73",
+                "Min": "135",
+                "Max": "269"
+            },
+            "Speed": {
+                "Base": "96",
+                "Min": "177",
+                "Max": "320"
+            },
+            "Total": "435"
+        },
+        "defense_stats": {
+            "Iron Barbs ability": {
+                "Normal": "not very effective",
+                "Fire": "super-effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Poison": "no effect",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Dragon": "not very effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            },
+            "Lightning Rod ability": {
+                "Normal": "not very effective",
+                "Fire": "super-effective",
+                "Electric": "no effect",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Poison": "no effect",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Dragon": "not very effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            },
+            "Sturdy ability": {
+                "Normal": "not very effective",
+                "Fire": "super-effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Poison": "no effect",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Dragon": "not very effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Nuzzle": "1",
+            "Tackle": "1",
+            "Defense Curl": "5",
+            "Charge": "10",
+            "Thunder Shock": "15",
+            "Fell Stinger": "20",
+            "Spark": "25",
+            "Pin Missile": "30",
+            "Magnet Rise": "35",
+            "Zing Zap": "40",
+            "Discharge": "45",
+            "Electric Terrain": "50",
+            "Wild Charge": "55",
+            "Spiky Shield": "60"
+        },
+        "egg": {
+            "Disarming Voice": null,
+            "Fake Out": null,
+            "Flail": null,
+            "Present": null,
+            "Tickle": null,
+            "Wish": null
+        },
+        "null": {
+            "Thunderbolt": "08",
+            "Thunder": "09",
+            "Agility": "12",
+            "Substitute": "20",
+            "Reversal": "21",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Encore": "30",
+            "Iron Tail": "31",
+            "Gyro Ball": "52",
+            "Poison Jab": "57",
+            "Zen Headbutt": "69",
+            "Iron Head": "74",
+            "Grass Knot": "77",
+            "Electro Ball": "80",
+            "Work Up": "85",
+            "Wild Charge": "86"
+        },
+        "tm": {
+            "Pin Missile": "07",
+            "Hyper Beam": "08",
+            "Giga Impact": "09",
+            "Thunder Wave": "14",
+            "Reflect": "18",
+            "Rest": "21",
+            "Thief": "23",
+            "Snore": "24",
+            "Protect": "25",
+            "Attract": "31",
+            "Facade": "39",
+            "Swift": "40",
+            "Helping Hand": "41",
+            "Bounce": "52",
+            "U-turn": "56",
+            "Payback": "57",
+            "Assurance": "58",
+            "Fling": "59",
+            "Round": "76",
+            "Volt Switch": "80",
+            "Electroweb": "82",
+            "Electric Terrain": "90",
+            "Eerie Impulse": "93"
+        }
+    },
+    "entries": {
+        "Togedemaru": [
+            "The spiny fur on its back is normally at rest. When this Pok\u00e9mon becomes agitated, its fur stands on end and stabs into its attackers.",
+            "The long hairs on its back act as lightning rods. The bolts of lightning it attracts are stored as energy in its electric sac.",
+            "When it\u2019s surprised or agitated, the 14 fur spikes on its back will stand up involuntarily.",
+            "Its capacity to produce electricity is somewhat limited, so it gets charged up by letting lightning strike it!",
+            "With the long hairs on its back, this Pok\u00e9mon takes in electricity from other electric Pok\u00e9mon. It stores what it absorbs in an electric sac.",
+            "When it\u2019s in trouble, it curls up into a ball, makes its fur spikes stand on end, and then discharges electricity indiscriminately."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792666422689924/777.png",
+    "discord_sprite": "<:P777:1132146990382329918>"
+}

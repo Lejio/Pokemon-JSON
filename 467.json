@@ -1,0 +1,217 @@
+{
+    "alt-version(s)": [],
+    "name": "Magmortar",
+    "Magmortar": {
+        "pokedex_data": {
+            "National No.": "0467",
+            "Type": [
+                "Fire"
+            ],
+            "Species": "Blast Poke\u0301mon",
+            "Height": "1.6 m (5\u203203\u2032\u2032)",
+            "Weight": "68.0 kg (149.9 lbs)",
+            "Abilities": {
+                "Flame Body": {
+                    "href": "/ability/flame-body",
+                    "effect": "Contact with the Pok\u00e9mon may burn the attacker.",
+                    "hidden": false
+                },
+                "Vital Spirit": {
+                    "href": "/ability/vital-spirit",
+                    "effect": "Prevents the Pok\u00e9mon from falling asleep.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Sp. Atk",
+            "Catch rate": "30",
+            "BaseFriendship": "50",
+            "Base Exp.": "243",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "75% male,25% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "75",
+                "Min": "260",
+                "Max": "354"
+            },
+            "Attack": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Defense": {
+                "Base": "67",
+                "Min": "125",
+                "Max": "256"
+            },
+            "Sp. Atk": {
+                "Base": "125",
+                "Min": "229",
+                "Max": "383"
+            },
+            "Sp. Def": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Speed": {
+                "Base": "83",
+                "Min": "153",
+                "Max": "291"
+            },
+            "Total": "540"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Ground": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Magby",
+                    "nationalNo": "#0240",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Magmar",
+                    "nationalNo": "#0126",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 30)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Magmar",
+                    "nationalNo": "#0126",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Magmortar",
+                    "nationalNo": "#0467",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(trade holding Magmarizer)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Ember": "1",
+            "Leer": "1",
+            "Smog": "1",
+            "Smokescreen": "1",
+            "Clear Smog": "12",
+            "Flame Wheel": "16",
+            "Confuse Ray": "20",
+            "Scary Face": "24",
+            "Fire Punch": "28",
+            "Lava Plume": "34",
+            "Low Kick": "40",
+            "Flamethrower": "46",
+            "Sunny Day": "52",
+            "Fire Blast": "58",
+            "Hyper Beam": "64"
+        },
+        "egg": {
+            "Belch": null,
+            "Belly Drum": null,
+            "Cross Chop": null,
+            "Dynamic Punch": null,
+            "Flare Blitz": null,
+            "Focus Energy": null,
+            "Mach Punch": null,
+            "Mega Punch": null,
+            "Power Swap": null,
+            "Screech": null,
+            "Thunder Punch": null
+        },
+        "tm": {
+            "Focus Punch": "01",
+            "Sunny Day": "11",
+            "Taunt": "12",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Solar Beam": "22",
+            "Iron Tail": "23",
+            "Thunderbolt": "24",
+            "Earthquake": "26",
+            "Low Sweep": "27",
+            "Psychic": "29",
+            "Brick Break": "31",
+            "Double Team": "32",
+            "Flamethrower": "35",
+            "Fire Blast": "38",
+            "Rock Tomb": "39",
+            "Torment": "41",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Overheat": "50",
+            "Focus Blast": "52",
+            "Fling": "56",
+            "Endure": "58",
+            "Will-O-Wisp": "61",
+            "Giga Impact": "68",
+            "Rock Slide": "80",
+            "Sleep Talk": "82",
+            "Bulldoze": "83",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Strength": "96",
+            "Rock Smash": "98",
+            "Rock Climb": "100"
+        }
+    },
+    "entries": {
+        "Magmortar": [
+            "It blasts fireballs of over 3,600 degrees F from the ends of its arms. It lives in volcanic craters.",
+            "When launching 3,600 degrees F fireballs, its body takes on a whitish hue from the intense heat.",
+            "It blasts fireballs of over 3,600 degrees Fahrenheit out of its arms. Its breath also sears and sizzles.",
+            "When launching 3,600 degrees F fireballs, its body takes on a whitish hue from the intense heat.",
+            "When shooting 3,600 degree F fireballs from its arms, its body takes on a whitish hue from the intense heat.",
+            "It blasts fireballs of over 3,600 degrees Fahrenheit from the ends of its arms. It lives in volcanic craters.",
+            "It blasts fireballs of over 3,600 degrees Fahrenheit out of its arms. Its breath also sears and sizzles.",
+            "They dwell in volcanic craters. According to what is known, a single pair of male and female Magmortar lives in one volcano.",
+            "From its arm, it launches fireballs hotter than 3,500 degrees Fahrenheit. Its arm starts to melt when it fires a whole barrage.",
+            "There are still quite a few factories that rely on the flames provided by Magmortar to process metals.",
+            "Magmortar takes down its enemies by shooting fireballs, which burn them to a blackened crisp. It avoids this method when hunting prey.",
+            "When Magmortar inhales deeply, the fire burning in its belly intensifies, rising in temperature to over 3,600 degrees Fahrenheit.",
+            "Living in the crater of a volcano has caused this Pok\u00e9mon\u2019s body to resemble its environment\u2014it has an organ similar to a magma chamber.",
+            "It blasts fireballs of over 3,600 degrees Fahrenheit from the ends of its arms. It lives in volcanic craters.",
+            "Use of a strange item caused this Pok\u00e9mon to evolve. Fireballs launched from the ends of its tubelike arms are hot enough to melt an iron pot in an instant."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790242777677854/467.png",
+    "discord_sprite": "<:P467:1132133281144520776>"
+}

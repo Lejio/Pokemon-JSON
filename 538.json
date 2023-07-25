@@ -1,0 +1,167 @@
+{
+    "alt-version(s)": [],
+    "name": "Throh",
+    "Throh": {
+        "pokedex_data": {
+            "National No.": "0538",
+            "Type": [
+                "Fighting"
+            ],
+            "Species": "Judo Poke\u0301mon",
+            "Height": "1.3 m (4\u203203\u2032\u2032)",
+            "Weight": "55.5 kg (122.4 lbs)",
+            "Abilities": {
+                "Guts": {
+                    "href": "/ability/guts",
+                    "effect": "Boosts Attack if there is a status problem.",
+                    "hidden": false
+                },
+                "Inner Focus": {
+                    "href": "/ability/inner-focus",
+                    "effect": "The Pok\u00e9mon is protected from flinching.",
+                    "hidden": false
+                },
+                "Mold Breaker": {
+                    "href": "/ability/mold-breaker",
+                    "effect": "Moves can be used regardless of Abilities.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 HP",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "163",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "100% male,0% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "120",
+                "Min": "350",
+                "Max": "444"
+            },
+            "Attack": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Defense": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Sp. Atk": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Sp. Def": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Speed": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Total": "465"
+        },
+        "defense_stats": {
+            "default": {
+                "Flying": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Dark": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Bind": "1",
+            "Leer": "1",
+            "Focus Energy": "5",
+            "Circle Throw": "10",
+            "Wide Guard": "15",
+            "Revenge": "20",
+            "Bulk Up": "25",
+            "Storm Throw": "30",
+            "Vital Throw": "35",
+            "Seismic Toss": "40",
+            "Endure": "45",
+            "Reversal": "50",
+            "Superpower": "55"
+        },
+        "egg": {
+            "Coaching": null
+        },
+        "null": {
+            "Body Slam": "01",
+            "Low Kick": "07",
+            "Earthquake": "10",
+            "Focus Energy": "13",
+            "Substitute": "20",
+            "Reversal": "21",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Taunt": "37",
+            "Superpower": "39",
+            "Bulk Up": "48",
+            "Poison Jab": "57",
+            "Focus Blast": "64",
+            "Zen Headbutt": "69",
+            "Stone Edge": "75",
+            "Grass Knot": "77",
+            "Work Up": "85"
+        },
+        "tm": {
+            "Mega Punch": "00",
+            "Mega Kick": "01",
+            "Fire Punch": "03",
+            "Ice Punch": "04",
+            "Thunder Punch": "05",
+            "Giga Impact": "09",
+            "Dig": "15",
+            "Rest": "21",
+            "Rock Slide": "22",
+            "Snore": "24",
+            "Protect": "25",
+            "Scary Face": "26",
+            "Attract": "31",
+            "Rain Dance": "33",
+            "Sunny Day": "34",
+            "Facade": "39",
+            "Helping Hand": "41",
+            "Revenge": "42",
+            "Brick Break": "43",
+            "Rock Tomb": "48",
+            "Payback": "57",
+            "Fling": "59",
+            "Low Sweep": "75",
+            "Round": "76",
+            "Retaliate": "79",
+            "Bulldoze": "81",
+            "Stomping Tantrum": "98"
+        }
+    },
+    "entries": {
+        "Throh": [
+            "When it tightens its belt, it becomes stronger. Wild Throh use vines to weave their own belts.",
+            "When they encounter foes bigger than themselves, they try to throw them. They always travel in packs of five.",
+            "When it encounters a foe bigger than itself, it wants to throw it. It changes belts as it gets stronger.",
+            "When it tightens its belt, it becomes stronger. Wild Throh use vines to weave their own belts.",
+            "When it encounters a foe bigger than itself, it wants to throw it. It changes belts as it gets stronger.",
+            "It performs throwing moves with first-rate skill. Over the course of many battles, Throh\u2019s belt grows darker as it absorbs its wearer\u2019s sweat.",
+            "They train in groups of five. Any member that can\u2019t keep up will discard its belt and leave the group."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790794769043456/538.png",
+    "discord_sprite": "<:P538:1132136409424203776>"
+}

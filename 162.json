@@ -1,0 +1,200 @@
+{
+    "alt-version(s)": [],
+    "name": "Furret",
+    "Furret": {
+        "pokedex_data": {
+            "National No.": "0162",
+            "Type": [
+                "Normal"
+            ],
+            "Species": "Long Body Poke\u0301mon",
+            "Height": "1.8 m (5\u203211\u2032\u2032)",
+            "Weight": "32.5 kg (71.7 lbs)",
+            "Abilities": {
+                "Run Away": {
+                    "href": "/ability/run-away",
+                    "effect": "Enables a sure getaway from wild Pok\u00e9mon.",
+                    "hidden": false
+                },
+                "Keen Eye": {
+                    "href": "/ability/keen-eye",
+                    "effect": "Prevents other Pok\u00e9mon from lowering accuracy.",
+                    "hidden": false
+                },
+                "Frisk": {
+                    "href": "/ability/frisk",
+                    "effect": "The Pok\u00e9mon can check a foe's held item.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Speed",
+            "Catch rate": "90",
+            "BaseFriendship": "50",
+            "Base Exp.": "145",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "85",
+                "Min": "280",
+                "Max": "374"
+            },
+            "Attack": {
+                "Base": "76",
+                "Min": "141",
+                "Max": "276"
+            },
+            "Defense": {
+                "Base": "64",
+                "Min": "119",
+                "Max": "249"
+            },
+            "Sp. Atk": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Sp. Def": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Speed": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Total": "415"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Sentret",
+                    "nationalNo": "#0161",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Furret",
+                    "nationalNo": "#0162",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 15)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Agility": "1",
+            "Coil": "1",
+            "Defense Curl": "4",
+            "Growl": "1",
+            "Quick Attack": "7",
+            "Scratch": "1",
+            "Fury Swipes": "13",
+            "Helping Hand": "17",
+            "Follow Me": "21",
+            "Slam": "28",
+            "Rest": "32",
+            "Sucker Punch": "36",
+            "Amnesia": "42",
+            "Baton Pass": "46",
+            "Reversal": "50",
+            "Hyper Voice": "56"
+        },
+        "evolution": {
+            "Agility": "\u2014"
+        },
+        "egg": {
+            "Baby-Doll Eyes": null,
+            "Charm": null,
+            "Covet": null,
+            "Double-Edge": null,
+            "Focus Energy": null,
+            "Last Resort": null,
+            "Reversal": null,
+            "Slash": null,
+            "Trick": null
+        },
+        "tm": {
+            "Focus Punch": "01",
+            "Water Pulse": "03",
+            "Work Up": "10",
+            "Sunny Day": "11",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Solar Beam": "22",
+            "Iron Tail": "23",
+            "Thunderbolt": "24",
+            "Thunder": "25",
+            "Dig": "28",
+            "Shadow Ball": "30",
+            "Brick Break": "31",
+            "Double Team": "32",
+            "Shock Wave": "34",
+            "Flamethrower": "35",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Focus Blast": "52",
+            "Fling": "56",
+            "Charge Beam": "57",
+            "Endure": "58",
+            "Shadow Claw": "65",
+            "Giga Impact": "68",
+            "Sleep Talk": "82",
+            "Grass Knot": "86",
+            "Swagger": "87",
+            "U-turn": "89",
+            "Substitute": "90",
+            "Cut": "93",
+            "Surf": "95",
+            "Strength": "96",
+            "Rock Smash": "98"
+        }
+    },
+    "entries": {
+        "Furret": [
+            "It makes a nest to suit its long and skinny body. The nest is impossible for other pok\u00e9mon to enter.",
+            "There is no telling where the tail begins. Despite its short legs, it is quick at hunting RATTATA.",
+            "It lives in narrow burrows that fit its slim body. The deeper the nests go, the more mazelike they become.",
+            "FURRET has a very slim build. When under attack, it can slickly squirm through narrow spaces and get away. In spite of its short limbs, this pok\u00e9mon is very nimble and fleet.",
+            "There is no telling where its tail begins. Despite its short legs, it is quick at hunting RATTATA.",
+            "It makes a nest to suit its long and skinny body. The nest is impossible for other pok\u00e9mon to enter.",
+            "A FURRET has a very slim build. When under attack, it can squirm through narrow spaces and get away. In spite of its short limbs, it is very nimble and fleet.",
+            "The mother puts its offspring to sleep by curling up around them. It corners foes with speed.",
+            "It makes a nest to suit its long and skinny body. The nest is impossible for other Pok\u00e9mon to enter.",
+            "There is no telling where the tail begins. Despite its short legs, it is quick and likes to chase RATTATA.",
+            "The mother puts its offspring to sleep by curling up around them. It corners foes with speed.",
+            "The mother puts its offspring to sleep by curling up around them. It corners foes with speed.",
+            "It makes a nest to suit its long and skinny body. The nest is impossible for other Pok\u00e9mon to enter.",
+            "Furret has a very slim build. When under attack, it can slickly squirm through narrow spaces and get away. In spite of its short limbs, this Pok\u00e9mon is very nimble and fleet.",
+            "The mother puts its offspring to sleep by curling up around them. It corners foes with speed."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787855967047800/162.png",
+    "discord_sprite": "<:P162:1132119864291639397>"
+}

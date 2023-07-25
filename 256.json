@@ -1,0 +1,222 @@
+{
+    "alt-version(s)": [],
+    "name": "Combusken",
+    "Combusken": {
+        "pokedex_data": {
+            "National No.": "0256",
+            "Type": [
+                "Fire",
+                "Fighting"
+            ],
+            "Species": "Young Fowl Poke\u0301mon",
+            "Height": "0.9 m (2\u203211\u2032\u2032)",
+            "Weight": "19.5 kg (43.0 lbs)",
+            "Abilities": {
+                "Blaze": {
+                    "href": "/ability/blaze",
+                    "effect": "Powers up Fire-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Speed Boost": {
+                    "href": "/ability/speed-boost",
+                    "effect": "Its Speed stat is gradually boosted.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack, 1 Sp. Atk",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "142",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "60",
+                "Min": "230",
+                "Max": "324"
+            },
+            "Attack": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Defense": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Atk": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Sp. Def": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Speed": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Total": "405"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Dark": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Torchic",
+                    "nationalNo": "#0255",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Combusken",
+                    "nationalNo": "#0256",
+                    "type": [
+                        "Fire",
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 16)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Combusken",
+                    "nationalNo": "#0256",
+                    "type": [
+                        "Fire",
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Blaziken",
+                    "nationalNo": "#0257",
+                    "type": [
+                        "Fire",
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 36)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Double Kick": "1",
+            "Ember": "1",
+            "Feather Dance": "1",
+            "Flamethrower": "1",
+            "Growl": "1",
+            "Quick Attack": "1",
+            "Scratch": "1",
+            "Flame Charge": "9",
+            "Detect": "12",
+            "Sand Attack": "15",
+            "Aerial Ace": "20",
+            "Slash": "25",
+            "Bounce": "30",
+            "Focus Energy": "35",
+            "Blaze Kick": "40",
+            "Bulk Up": "45",
+            "Reversal": "50",
+            "Flare Blitz": "55"
+        },
+        "evolution": {
+            "Double Kick": "30"
+        },
+        "egg": {
+            "Agility": null,
+            "Baton Pass": null,
+            "Counter": null,
+            "Crush Claw": null,
+            "Curse": null,
+            "Feather Dance": null,
+            "Feint": null,
+            "Last Resort": null,
+            "Low Kick": null,
+            "Night Slash": null,
+            "Peck": null,
+            "Reversal": null
+        },
+        "tm": {
+            "Focus Punch": "01",
+            "Bulk Up": "08",
+            "Work Up": "10",
+            "Sunny Day": "11",
+            "Protect": "17",
+            "Low Sweep": "27",
+            "Dig": "28",
+            "Brick Break": "31",
+            "Double Team": "32",
+            "Flamethrower": "35",
+            "Fire Blast": "38",
+            "Rock Tomb": "39",
+            "Aerial Ace": "40",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Overheat": "50",
+            "Focus Blast": "52",
+            "Fling": "56",
+            "Endure": "58",
+            "Will-O-Wisp": "61",
+            "Shadow Claw": "65",
+            "Swords Dance": "75",
+            "Rock Slide": "80",
+            "Sleep Talk": "82",
+            "Poison Jab": "84",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Cut": "93",
+            "Strength": "96",
+            "Rock Smash": "98"
+        }
+    },
+    "entries": {
+        "Combusken": [
+            "COMBUSKEN toughens up its legs and thighs by running through fields and mountains. This pok\u00e9mon\u2019s legs possess both speed and power, enabling it to dole out ten kicks in one second.",
+            "COMBUSKEN battles with the intensely hot flames it spews from its beak and with outstandingly destructive kicks. This pok\u00e9mon\u2019s cry is very loud and distracting.",
+            "It boosts its concentration by emitting harsh cries. Its kicks have outstanding destructive power.",
+            "It lashes out with 10 kicks per second. Its strong fighting instinct compels it to keep up its offensive until the opponent gives up.",
+            "Its kicking mastery lets it loose 10 kicks per second. It emits sharp cries to intimidate foes.",
+            "During a battle, the hot flame in its body increases. Its kicks have outstanding destructive power.",
+            "Its kicking mastery lets it loose 10 kicks per second. It emits sharp cries to intimidate foes.",
+            "Its kicking mastery lets it loose 10 kicks per second. It emits sharp cries to intimidate foes.",
+            "During a battle, the hot flame in its body increases. Its kicks have outstanding destructive power.",
+            "Combusken toughens up its legs and thighs by running through fields and mountains. This Pok\u00e9mon\u2019s legs possess both speed and power, enabling it to dole out 10 kicks in one second.",
+            "Combusken battles with the intensely hot flames it spews from its beak and with outstandingly destructive kicks. This Pok\u00e9mon\u2019s cry is very loud and distracting.",
+            "Its kicking mastery lets it loose 10 kicks per second. It emits sharp cries to intimidate foes."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788596861468672/256.png",
+    "discord_sprite": "<:P256:1132124006548521030>"
+}

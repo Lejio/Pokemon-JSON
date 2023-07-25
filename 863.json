@@ -1,0 +1,250 @@
+{
+    "alt-version(s)": [],
+    "name": "Perrserker",
+    "Perrserker": {
+        "pokedex_data": {
+            "National No.": "0863",
+            "Type": [
+                "Steel"
+            ],
+            "Species": "Viking Poke\u0301mon",
+            "Height": "0.8 m (2\u203207\u2032\u2032)",
+            "Weight": "28.0 kg (61.7 lbs)",
+            "Abilities": {
+                "Battle Armor": {
+                    "href": "/ability/battle-armor",
+                    "effect": "The Pok\u00e9mon is protected against critical hits.",
+                    "hidden": false
+                },
+                "Tough Claws": {
+                    "href": "/ability/tough-claws",
+                    "effect": "Boosts the power of contact moves.",
+                    "hidden": false
+                },
+                "Steely Spirit": {
+                    "href": "/ability/steely-spirit",
+                    "effect": "Powers up ally Pok\u00e9mon's Steel-type moves.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "90",
+            "BaseFriendship": "50",
+            "Base Exp.": "154",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "70",
+                "Min": "250",
+                "Max": "344"
+            },
+            "Attack": {
+                "Base": "110",
+                "Min": "202",
+                "Max": "350"
+            },
+            "Defense": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Sp. Atk": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Def": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Speed": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Total": "440"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Fire": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Poison": "no effect",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Dragon": "not very effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Meowth",
+                    "nationalNo": "#0052",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Persian",
+                    "nationalNo": "#0053",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 28)",
+                "shed": null
+            }
+        ],
+        [
+            {
+                "from": {
+                    "name": "Meowth",
+                    "nationalNo": "#0052",
+                    "type": [
+                        "Dark"
+                    ],
+                    "nickname": "Alolan Meowth"
+                },
+                "to": {
+                    "name": "Persian",
+                    "nationalNo": "#0053",
+                    "type": [
+                        "Dark"
+                    ],
+                    "nickname": "Alolan Persian"
+                },
+                "requirement": "(high Friendship)",
+                "shed": null
+            }
+        ],
+        [
+            {
+                "from": {
+                    "name": "Meowth",
+                    "nationalNo": "#0052",
+                    "type": [
+                        "Steel"
+                    ],
+                    "nickname": "Galarian Meowth"
+                },
+                "to": {
+                    "name": "Perrserker",
+                    "nationalNo": "#0863",
+                    "type": [
+                        "Steel"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 28)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Fake Out": "1",
+            "Growl": "1",
+            "Hone Claws": "1",
+            "Iron Defense": "1",
+            "Metal Burst": "1",
+            "Scratch": "1",
+            "Pay Day": "12",
+            "Metal Claw": "16",
+            "Taunt": "20",
+            "Swagger": "24",
+            "Fury Swipes": "31",
+            "Screech": "36",
+            "Slash": "42",
+            "Metal Sound": "48",
+            "Thrash": "54"
+        },
+        "evolution": {
+            "Iron Head": "80"
+        },
+        "egg": {
+            "Covet": null,
+            "Curse": null,
+            "Double-Edge": null,
+            "Flail": null,
+            "Night Slash": null,
+            "Spite": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Charm": "02",
+            "Fake Tears": "03",
+            "Protect": "07",
+            "Thief": "18",
+            "Trailblaze": "20",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Metal Claw": "31",
+            "Fling": "43",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Dig": "55",
+            "False Swipe": "57",
+            "Brick Break": "58",
+            "U-turn": "60",
+            "Shadow Claw": "61",
+            "Foul Play": "62",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Seed Bomb": "71",
+            "Metronome": "80",
+            "Rest": "85",
+            "Taunt": "87",
+            "Swords Dance": "88",
+            "Dark Pulse": "94",
+            "Iron Head": "99",
+            "Gunk Shot": "102",
+            "Substitute": "103",
+            "Iron Defense": "104",
+            "X-Scissor": "105",
+            "Crunch": "108",
+            "Shadow Ball": "114",
+            "Stealth Rock": "116",
+            "Hyper Voice": "117",
+            "Heavy Slam": "121",
+            "Thunderbolt": "126",
+            "Play Rough": "127",
+            "Amnesia": "128",
+            "Helping Hand": "130",
+            "Baton Pass": "132",
+            "Nasty Plot": "140",
+            "Giga Impact": "152",
+            "Hyper Beam": "163",
+            "Thunder": "166",
+            "Close Combat": "167",
+            "Steel Beam": "170",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Perrserker": [
+            "What appears to be an iron helmet is actually hardened hair. This Pok\u00e9mon lives for the thrill of battle.",
+            "After many battles, it evolved dangerous claws that come together to form daggers when extended."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793329663783022/863.png",
+    "discord_sprite": "<:P863:1132150775766859878>"
+}

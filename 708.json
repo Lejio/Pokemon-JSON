@@ -1,0 +1,196 @@
+{
+    "alt-version(s)": [],
+    "name": "Phantump",
+    "Phantump": {
+        "pokedex_data": {
+            "National No.": "0708",
+            "Type": [
+                "Ghost",
+                "Grass"
+            ],
+            "Species": "Stump Poke\u0301mon",
+            "Height": "0.4 m (1\u203204\u2032\u2032)",
+            "Weight": "7.0 kg (15.4 lbs)",
+            "Abilities": {
+                "Natural Cure": {
+                    "href": "/ability/natural-cure",
+                    "effect": "All status problems heal when it switches out.",
+                    "hidden": false
+                },
+                "Frisk": {
+                    "href": "/ability/frisk",
+                    "effect": "The Pok\u00e9mon can check a foe's held item.",
+                    "hidden": false
+                },
+                "Harvest": {
+                    "href": "/ability/harvest",
+                    "effect": "May create another Berry after one is used.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack",
+            "Catch rate": "120",
+            "BaseFriendship": "50",
+            "Base Exp.": "62",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "43",
+                "Min": "196",
+                "Max": "290"
+            },
+            "Attack": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Defense": {
+                "Base": "48",
+                "Min": "90",
+                "Max": "214"
+            },
+            "Sp. Atk": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Def": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Speed": {
+                "Base": "38",
+                "Min": "72",
+                "Max": "192"
+            },
+            "Total": "309"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "no effect",
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "no effect",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Phantump",
+                    "nationalNo": "#0708",
+                    "type": [
+                        "Ghost",
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Trevenant",
+                    "nationalNo": "#0709",
+                    "type": [
+                        "Ghost",
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Trade)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Astonish": "1",
+            "Tackle": "1",
+            "Branch Poke": "4",
+            "Leech Seed": "8",
+            "Confuse Ray": "12",
+            "Will-O-Wisp": "16",
+            "Hex": "20",
+            "Growth": "24",
+            "Horn Leech": "28",
+            "Curse": "32",
+            "Phantom Force": "36",
+            "Ingrain": "40",
+            "Wood Hammer": "44",
+            "Destiny Bond": "48",
+            "Forest's Curse": "52"
+        },
+        "egg": {
+            "Disable": null,
+            "Grudge": null,
+            "Sucker Punch": null
+        },
+        "null": {
+            "Psychic": "11",
+            "Substitute": "20",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Shadow Ball": "33",
+            "Trick": "38",
+            "Skill Swap": "40",
+            "Poison Jab": "57",
+            "Dark Pulse": "58",
+            "Seed Bomb": "59",
+            "Energy Ball": "65",
+            "Grass Knot": "77",
+            "Foul Play": "81",
+            "Ally Switch": "83",
+            "Venom Drench": "91"
+        },
+        "tm": {
+            "Magical Leaf": "10",
+            "Solar Beam": "11",
+            "Dig": "15",
+            "Reflect": "18",
+            "Safeguard": "19",
+            "Rest": "21",
+            "Rock Slide": "22",
+            "Thief": "23",
+            "Snore": "24",
+            "Protect": "25",
+            "Giga Drain": "28",
+            "Attract": "31",
+            "Sunny Day": "34",
+            "Will-O-Wisp": "38",
+            "Facade": "39",
+            "Imprison": "44",
+            "Shadow Claw": "65",
+            "Trick Room": "70",
+            "Round": "76",
+            "Hex": "77",
+            "Bulldoze": "81",
+            "Phantom Force": "86"
+        }
+    },
+    "entries": {
+        "Phantump": [
+            "These Pok\u00e9mon are created when spirits possess rotten tree stumps. They prefer to live in abandoned forests.",
+            "According to old tales, these Pok\u00e9mon are stumps possessed by the spirits of children who died while lost in the forest.",
+            "These Pok\u00e9mon are stumps possessed by the spirits of children who died in the forest. Their cries sound like eerie screams.",
+            "According to legend, medicine to cure any illness can be made by plucking the green leaves on its head, brewing them, and boiling down the liquid.",
+            "By imitating the voice of a child, it causes people to get hopelessly lost deep in the forest. It\u2019s trying to make friends with them.",
+            "An unknown spirit came to lodge in a tree stump, creating this Pok\u00e9mon. A cure-all can be made from an infusion of its green leaves.",
+            "After a lost child perished in the forest, their spirit possessed a tree stump, causing the spirit\u2019s rebirth as this Pok\u00e9mon.",
+            "With a voice like a human child\u2019s, it cries out to lure adults deep into the forest, getting them lost among the trees."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792120437547030/708.png",
+    "discord_sprite": "<:P708:1132143892469391460>"
+}

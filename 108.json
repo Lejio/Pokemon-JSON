@@ -1,0 +1,209 @@
+{
+    "alt-version(s)": [],
+    "name": "Lickitung",
+    "Lickitung": {
+        "pokedex_data": {
+            "National No.": "0108",
+            "Type": [
+                "Normal"
+            ],
+            "Species": "Licking Poke\u0301mon",
+            "Height": "1.2 m (3\u203211\u2032\u2032)",
+            "Weight": "65.5 kg (144.4 lbs)",
+            "Abilities": {
+                "Own Tempo": {
+                    "href": "/ability/own-tempo",
+                    "effect": "Prevents the Pok\u00e9mon from becoming confused.",
+                    "hidden": false
+                },
+                "Oblivious": {
+                    "href": "/ability/oblivious",
+                    "effect": "Prevents it from becoming infatuated.",
+                    "hidden": false
+                },
+                "Cloud Nine": {
+                    "href": "/ability/cloud-nine",
+                    "effect": "Eliminates the effects of weather.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 HP",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "77",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "90",
+                "Min": "290",
+                "Max": "384"
+            },
+            "Attack": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Defense": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Sp. Atk": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Def": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Speed": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Total": "385"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Lickitung",
+                    "nationalNo": "#0108",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Lickilicky",
+                    "nationalNo": "#0463",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(after Rollout learned)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Defense Curl": "1",
+            "Lick": "1",
+            "Rollout": "6",
+            "Supersonic": "12",
+            "Wrap": "18",
+            "Disable": "24",
+            "Stomp": "30",
+            "Knock Off": "36",
+            "Screech": "42",
+            "Slam": "48",
+            "Power Whip": "54",
+            "Belly Drum": "60"
+        },
+        "egg": {
+            "Amnesia": null,
+            "Belch": null,
+            "Belly Drum": null,
+            "Body Slam": null,
+            "Curse": null,
+            "Hammer Arm": null,
+            "Muddy Water": null,
+            "Snore": null,
+            "Thrash": null,
+            "Zen Headbutt": null
+        },
+        "tm": {
+            "Focus Punch": "01",
+            "Water Pulse": "03",
+            "Work Up": "10",
+            "Sunny Day": "11",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Solar Beam": "22",
+            "Iron Tail": "23",
+            "Thunderbolt": "24",
+            "Thunder": "25",
+            "Earthquake": "26",
+            "Dig": "28",
+            "Shadow Ball": "30",
+            "Brick Break": "31",
+            "Double Team": "32",
+            "Shock Wave": "34",
+            "Flamethrower": "35",
+            "Sandstorm": "37",
+            "Fire Blast": "38",
+            "Rock Tomb": "39",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Fling": "56",
+            "Endure": "58",
+            "Giga Impact": "68",
+            "Swords Dance": "75",
+            "Psych Up": "77",
+            "Rock Slide": "80",
+            "Sleep Talk": "82",
+            "Bulldoze": "83",
+            "Dream Eater": "85",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Cut": "93",
+            "Surf": "95",
+            "Strength": "96",
+            "Rock Smash": "98",
+            "Rock Climb": "100"
+        }
+    },
+    "entries": {
+        "Lickitung": [
+            "Its tongue can be extended like a chameleon\u2019s. It leaves a tingling sensation when it licks enemies.",
+            "Its tongue spans almost 7 feet and moves more freely than its forelegs. Its licks can cause paralysis.",
+            "Its tongue has well-developed nerves that run to the very tip, so it can be deftly manipulated.",
+            "Its long tongue, slathered with a gooey saliva, sticks to anything, so it is very useful.",
+            "It has a tongue that is over 6\u20196\u2019\u2019 long. It uses this long tongue to lick its body clean.",
+            "Whenever LICKITUNG comes across something new, it will unfailingly give it a lick. It does so because it memorizes things by texture and by taste. It is somewhat put off by sour things.",
+            "Its tongue is twice the length of its body. It can be moved like an arm for grabbing food and attacking.",
+            "Its tongue can be extended like a chameleon\u2019s. It leaves a tingling sensation when it licks enemies.",
+            "Whenever it sees something unfamiliar, it always licks the object because it memorizes things by texture and taste. It is somewhat put off by sour things.",
+            "Instead of hands, it uses its tongue, which is twice its height. Its sticky saliva grips anything.",
+            "When it extends its over-six-foot-long tongue, its tail quivers. There is a possibility they are connected.",
+            "Its tongue has well-developed nerves that run to the very tip, so it can be deftly manipulated.",
+            "Its long tongue, slathered with a gooey saliva, sticks to anything, so it is very useful.",
+            "When it extends its over-six-foot-long tongue, its tail quivers. There is a possibility they are connected.",
+            "Being licked by its long, saliva-covered tongue leaves a tingling sensation. Extending its tongue retracts its tail.",
+            "Its long tongue, slathered with a gooey saliva, sticks to anything, so it is very useful.",
+            "Its tongue is twice the length of its body. It can be moved like an arm for grabbing food and attacking.",
+            "Whenever Lickitung comes across something new, it will unfailingly give it a lick. It does so because it memorizes things by texture and by taste. It is somewhat put off by sour things.",
+            "It checks out whatever\u2019s around it by licking everything. If you don\u2019t clean off a spot where it\u2019s licked you, you\u2019ll break out in a rash!",
+            "It licks filth clean with its tongue. Whatever it licks always stinks afterward, so whether it\u2019s really clean is...questionable.",
+            "Its tongue spans almost seven feet and moves more freely than its forelegs. Its licks can cause paralysis.",
+            "If this Pok\u00e9mon\u2019s sticky saliva gets on you and you don\u2019t clean it off, an intense itch will set in. The itch won\u2019t go away, either.",
+            "Bug Pok\u00e9mon are Lickitung\u2019s main food source. This Pok\u00e9mon paralyzes its prey with a lick from its long tongue, then swallows the prey whole.",
+            "Instead of its hands, it uses its tongue, which can stretch to twice this Pok\u00e9mon\u2019s height. Lickitung\u2019s sticky saliva grips anything.",
+            "Wields its long tongue deftly, as though it were an arm. The Pok\u00e9mon\u2019s viscous saliva, once it has been collected and boiled down, yields a strong and highly useful adhesive."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787434288496781/108.png",
+    "discord_sprite": "<:P108:1132117476256268449>"
+}

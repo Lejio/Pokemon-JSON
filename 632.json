@@ -1,0 +1,167 @@
+{
+    "alt-version(s)": [],
+    "name": "Durant",
+    "Durant": {
+        "pokedex_data": {
+            "National No.": "0632",
+            "Type": [
+                "Bug",
+                "Steel"
+            ],
+            "Species": "Iron Ant Poke\u0301mon",
+            "Height": "0.3 m (1\u203200\u2032\u2032)",
+            "Weight": "33.0 kg (72.8 lbs)",
+            "Abilities": {
+                "Swarm": {
+                    "href": "/ability/swarm",
+                    "effect": "Powers up Bug-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Hustle": {
+                    "href": "/ability/hustle",
+                    "effect": "Boosts the Attack stat, but lowers accuracy.",
+                    "hidden": false
+                },
+                "Truant": {
+                    "href": "/ability/truant",
+                    "effect": "Pok\u00e9mon can't attack on consecutive turns.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Defense",
+            "Catch rate": "90",
+            "BaseFriendship": "50",
+            "Base Exp.": "169",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "58",
+                "Min": "226",
+                "Max": "320"
+            },
+            "Attack": {
+                "Base": "109",
+                "Min": "200",
+                "Max": "348"
+            },
+            "Defense": {
+                "Base": "112",
+                "Min": "206",
+                "Max": "355"
+            },
+            "Sp. Atk": {
+                "Base": "48",
+                "Min": "90",
+                "Max": "214"
+            },
+            "Sp. Def": {
+                "Base": "48",
+                "Min": "90",
+                "Max": "214"
+            },
+            "Speed": {
+                "Base": "109",
+                "Min": "200",
+                "Max": "348"
+            },
+            "Total": "484"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Fire": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Poison": "no effect",
+                "Psychic": "not very effective",
+                "Bug": "not very effective",
+                "Dragon": "not very effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Fury Cutter": "1",
+            "Sand Attack": "1",
+            "Vise Grip": "4",
+            "Metal Claw": "8",
+            "Beat Up": "12",
+            "Bug Bite": "16",
+            "Bite": "20",
+            "Agility": "24",
+            "Dig": "28",
+            "X-Scissor": "32",
+            "Crunch": "36",
+            "Metal Sound": "40",
+            "Iron Head": "44",
+            "Entrainment": "48",
+            "Iron Defense": "52",
+            "Guillotine": "56"
+        },
+        "egg": {
+            "First Impression": null,
+            "Flail": null,
+            "Infestation": null,
+            "Metal Burst": null,
+            "Struggle Bug": null
+        },
+        "null": {
+            "Agility": "12",
+            "Substitute": "20",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Baton Pass": "29",
+            "Crunch": "32",
+            "Superpower": "39",
+            "Iron Defense": "46",
+            "X-Scissor": "60",
+            "Energy Ball": "65",
+            "Flash Cannon": "70",
+            "Iron Head": "74",
+            "Stone Edge": "75"
+        },
+        "tm": {
+            "Giga Impact": "09",
+            "Thunder Wave": "14",
+            "Dig": "15",
+            "Screech": "16",
+            "Rest": "21",
+            "Rock Slide": "22",
+            "Snore": "24",
+            "Protect": "25",
+            "Attract": "31",
+            "Sandstorm": "32",
+            "Beat Up": "37",
+            "Facade": "39",
+            "Helping Hand": "41",
+            "Rock Tomb": "48",
+            "Shadow Claw": "65",
+            "Thunder Fang": "66",
+            "Round": "76",
+            "Retaliate": "79",
+            "Stomping Tantrum": "98"
+        }
+    },
+    "entries": {
+        "Durant": [
+            "They attack in groups, covering themselves in steel armor to protect themselves from Heatmor.",
+            "Durant dig nests in mountains. They build their complicated, interconnected tunnels into mazes.",
+            "Individuals each play different roles in driving Heatmor, their natural predator, away from their colony.",
+            "Individuals each play different roles in driving Heatmor, their natural predator, away from their colony.",
+            "They attack in groups, covering themselves in steel armor to protect themselves from Heatmor.",
+            "They lay their eggs deep inside their nests. When attacked by Heatmor, they retaliate using their massive mandibles.",
+            "With their large mandibles, these Pok\u00e9mon can crunch their way through rock. They work together to protect their eggs from Sandaconda."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791530676453416/632.png",
+    "discord_sprite": "<:P632:1132140552008237207>"
+}

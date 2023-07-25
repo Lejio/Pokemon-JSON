@@ -1,0 +1,182 @@
+{
+    "alt-version(s)": [],
+    "name": "Sandaconda",
+    "Sandaconda": {
+        "pokedex_data": {
+            "National No.": "0844",
+            "Type": [
+                "Ground"
+            ],
+            "Species": "Sand Snake Poke\u0301mon",
+            "Height": "3.8 m (12\u203206\u2032\u2032)",
+            "Weight": "65.5 kg (144.4 lbs)",
+            "Abilities": {
+                "Sand Spit": {
+                    "href": "/ability/sand-spit",
+                    "effect": "Creates a sandstorm when hit by an attack.",
+                    "hidden": false
+                },
+                "Shed Skin": {
+                    "href": "/ability/shed-skin",
+                    "effect": "The Pok\u00e9mon may heal its own status problems.",
+                    "hidden": false
+                },
+                "Sand Veil": {
+                    "href": "/ability/sand-veil",
+                    "effect": "Boosts the Pok\u00e9mon's evasion in a sandstorm.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Defense",
+            "Catch rate": "120",
+            "BaseFriendship": "50",
+            "Base Exp.": "179",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "72",
+                "Min": "254",
+                "Max": "348"
+            },
+            "Attack": {
+                "Base": "107",
+                "Min": "197",
+                "Max": "344"
+            },
+            "Defense": {
+                "Base": "125",
+                "Min": "229",
+                "Max": "383"
+            },
+            "Sp. Atk": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Def": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Speed": {
+                "Base": "71",
+                "Min": "132",
+                "Max": "265"
+            },
+            "Total": "510"
+        },
+        "defense_stats": {
+            "default": {
+                "Water": "super-effective",
+                "Electric": "no effect",
+                "Grass": "super-effective",
+                "Ice": "super-effective",
+                "Poison": "not very effective",
+                "Rock": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Silicobra",
+                    "nationalNo": "#0843",
+                    "type": [
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Sandaconda",
+                    "nationalNo": "#0844",
+                    "type": [
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 36)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Brutal Swing": "1",
+            "Minimize": "1",
+            "Sand Attack": "1",
+            "Wrap": "1",
+            "Bulldoze": "15",
+            "Headbutt": "20",
+            "Glare": "25",
+            "Dig": "30",
+            "Sandstorm": "35",
+            "Slam": "42",
+            "Coil": "49",
+            "Sand Tomb": "51"
+        },
+        "egg": {
+            "Belch": null,
+            "Dragon Rush": null,
+            "Last Resort": null,
+            "Mud-Slap": null,
+            "Poison Tail": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Mud-Slap": "05",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Fire Fang": "08",
+            "Thunder Fang": "09",
+            "Facade": "25",
+            "Poison Tail": "26",
+            "Bulldoze": "28",
+            "Mud Shot": "35",
+            "Rock Tomb": "36",
+            "Endure": "47",
+            "Sandstorm": "51",
+            "Dig": "55",
+            "Zen Headbutt": "59",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Rock Blast": "76",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Body Press": "89",
+            "Iron Head": "99",
+            "Substitute": "103",
+            "Iron Defense": "104",
+            "Drill Run": "106",
+            "Stealth Rock": "116",
+            "Earth Power": "133",
+            "Earthquake": "149",
+            "Stone Edge": "150",
+            "Giga Impact": "152",
+            "Outrage": "156",
+            "Hurricane": "160",
+            "Hyper Beam": "163",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Sandaconda": [
+            "When it contracts its body, over 220 pounds of sand sprays from its nose. If it ever runs out of sand, it becomes disheartened.",
+            "Its unique style of coiling allows it to blast sand out of its sand sac more efficiently.",
+            "It will expand its body as much as it can and then contract itself, blasting out sand with enough force to wash away a dump truck.",
+            "The sand it spews contains sharp, pointy gravel, which is actually just sand that Sandaconda\u2019s saliva has hardened into irregular shapes."
+        ],
+        "Gigantamax": [
+            "Its sand pouch has grown to tremendous proportions. More than 1,000,000 tons of sand now swirl around its body.",
+            "Sand swirls around its body with such speed and power that it could pulverize a skyscraper."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793182984777778/844.png",
+    "discord_sprite": "<:P844:1132149932795629618>"
+}

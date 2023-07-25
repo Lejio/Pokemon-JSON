@@ -1,0 +1,190 @@
+{
+    "alt-version(s)": [],
+    "name": "Sandygast",
+    "Sandygast": {
+        "pokedex_data": {
+            "National No.": "0769",
+            "Type": [
+                "Ghost",
+                "Ground"
+            ],
+            "Species": "Sand Heap Poke\u0301mon",
+            "Height": "0.5 m (1\u203208\u2032\u2032)",
+            "Weight": "70.0 kg (154.3 lbs)",
+            "Abilities": {
+                "Water Compaction": {
+                    "href": "/ability/water-compaction",
+                    "effect": "Sharply raises Defense when hit by a Water-type move.",
+                    "hidden": false
+                },
+                "Sand Veil": {
+                    "href": "/ability/sand-veil",
+                    "effect": "Boosts the Pok\u00e9mon's evasion in a sandstorm.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Defense",
+            "Catch rate": "140",
+            "BaseFriendship": "50",
+            "Base Exp.": "64",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "55",
+                "Min": "220",
+                "Max": "314"
+            },
+            "Attack": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Defense": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Sp. Atk": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Def": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Speed": {
+                "Base": "15",
+                "Min": "31",
+                "Max": "141"
+            },
+            "Total": "320"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "no effect",
+                "Water": "super-effective",
+                "Electric": "no effect",
+                "Grass": "super-effective",
+                "Ice": "super-effective",
+                "Fighting": "no effect",
+                "Poison": "not very effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Sandygast",
+                    "nationalNo": "#0769",
+                    "type": [
+                        "Ghost",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Palossand",
+                    "nationalNo": "#0770",
+                    "type": [
+                        "Ghost",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 42)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Absorb": "1",
+            "Harden": "1",
+            "Astonish": "5",
+            "Sand Tomb": "10",
+            "Mega Drain": "15",
+            "Sand Attack": "20",
+            "Bulldoze": "25",
+            "Hypnosis": "30",
+            "Giga Drain": "35",
+            "Iron Defense": "40",
+            "Shadow Ball": "45",
+            "Earth Power": "50",
+            "Shore Up": "55",
+            "Sandstorm": "60"
+        },
+        "egg": {
+            "Ancient Power": null,
+            "Curse": null,
+            "Destiny Bond": null,
+            "Spit Up": null,
+            "Stockpile": null,
+            "Swallow": null
+        },
+        "tm": {
+            "Mud-Slap": "05",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Confuse Ray": "17",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Bulldoze": "28",
+            "Hex": "29",
+            "Mud Shot": "35",
+            "Rock Tomb": "36",
+            "Night Shade": "42",
+            "Fling": "43",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Sandstorm": "51",
+            "Sleep Talk": "70",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Imprison": "92",
+            "Flash Cannon": "93",
+            "Skill Swap": "98",
+            "Substitute": "103",
+            "Iron Defense": "104",
+            "Trick": "109",
+            "Giga Drain": "111",
+            "Shadow Ball": "114",
+            "Stealth Rock": "116",
+            "Energy Ball": "119",
+            "Psychic": "120",
+            "Amnesia": "128",
+            "Earth Power": "133",
+            "Sludge Bomb": "148",
+            "Earthquake": "149",
+            "Stone Edge": "150",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Sandygast": [
+            "Born from a sand mound playfully built by a child, this Pok\u00e9mon embodies the grudges of the departed.",
+            "It takes control of anyone who puts a hand in its mouth. And so it adds to the accumulation of its sand-mound body.",
+            "It likes the shovel on its head, so Sandygast will get serious and fight any children who come to take it back.",
+            "If you build sand mounds when you\u2019re playing, destroy them before you go home, or they may get possessed and become Sandygast.",
+            "Grudges of the dead have possessed a mound of sand and become a Pok\u00e9mon. Sandygast is fond of the shovel on its head.",
+            "Sandygast mainly inhabits beaches. It takes control of anyone who puts their hand into its mouth, forcing them to make its body bigger.",
+            "If it loses its shovel, it will stick something else\u2014like a branch\u2014in its head to make do until it finds another shovel.",
+            "It flings sand into the eyes of its prey and tries to close in on them while they\u2019re blinded, but since Sandygast is so slow, the prey tends to escape."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792604778995762/769.png",
+    "discord_sprite": "<:P769:1132146638492795011>"
+}

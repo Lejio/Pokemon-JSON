@@ -1,0 +1,194 @@
+{
+    "alt-version(s)": [],
+    "name": "Crocalor",
+    "Crocalor": {
+        "pokedex_data": {
+            "National No.": "0910",
+            "Type": [
+                "Fire"
+            ],
+            "Species": "Fire Croc Poke\u0301mon",
+            "Height": "1.0 m (3\u203203\u2032\u2032)",
+            "Weight": "30.7 kg (67.7 lbs)",
+            "Abilities": {
+                "Blaze": {
+                    "href": "/ability/blaze",
+                    "effect": "Powers up Fire-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Unaware": {
+                    "href": "/ability/unaware",
+                    "effect": "Ignores any stat changes in the Pok\u00e9mon.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Sp. Atk",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "144",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "81",
+                "Min": "272",
+                "Max": "366"
+            },
+            "Attack": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Defense": {
+                "Base": "78",
+                "Min": "144",
+                "Max": "280"
+            },
+            "Sp. Atk": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Sp. Def": {
+                "Base": "58",
+                "Min": "108",
+                "Max": "236"
+            },
+            "Speed": {
+                "Base": "49",
+                "Min": "92",
+                "Max": "216"
+            },
+            "Total": "411"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Ground": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Fuecoco",
+                    "nationalNo": "#0909",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Crocalor",
+                    "nationalNo": "#0910",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 16)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Crocalor",
+                    "nationalNo": "#0910",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Skeledirge",
+                    "nationalNo": "#0911",
+                    "type": [
+                        "Fire",
+                        "Ghost"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 36)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Ember": "1",
+            "Leer": "1",
+            "Tackle": "1",
+            "Lick": "7",
+            "Round": "10",
+            "Bite": "12",
+            "Yawn": "15",
+            "Incinerate": "17",
+            "Snarl": "24",
+            "Roar": "28",
+            "Flamethrower": "32",
+            "Hyper Voice": "38",
+            "Will-O-Wisp": "42",
+            "Fire Blast": "47"
+        },
+        "egg": {
+            "Belch": null,
+            "Curse": null,
+            "Encore": null,
+            "Slack Off": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Mud-Slap": "05",
+            "Protect": "07",
+            "Fire Fang": "08",
+            "Thunder Fang": "09",
+            "Disarming Voice": "19",
+            "Fire Spin": "24",
+            "Facade": "25",
+            "Snarl": "30",
+            "Flame Charge": "38",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Dig": "55",
+            "Zen Headbutt": "59",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Seed Bomb": "71",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Substitute": "103",
+            "Will-O-Wisp": "107",
+            "Crunch": "108",
+            "Hyper Voice": "117",
+            "Heat Wave": "118",
+            "Flamethrower": "125",
+            "Helping Hand": "130",
+            "Fire Blast": "141",
+            "Fire Pledge": "144",
+            "Outrage": "156",
+            "Overheat": "157",
+            "Flare Blitz": "165",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Crocalor": [
+            "The combination of Crocalor\u2019s fire energy and overflowing vitality has caused an egg-shaped fireball to appear on the Pok\u00e9mon\u2019s head.",
+            "The valve in Crocalor\u2019s flame sac is closely connected to its vocal cords. This Pok\u00e9mon utters a guttural cry as it spews flames every which way."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793694513696908/910.png",
+    "discord_sprite": "<:P910:1132152840232644748>"
+}

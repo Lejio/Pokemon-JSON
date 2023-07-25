@@ -1,0 +1,209 @@
+{
+    "alt-version(s)": [],
+    "name": "Lotad",
+    "Lotad": {
+        "pokedex_data": {
+            "National No.": "0270",
+            "Type": [
+                "Water",
+                "Grass"
+            ],
+            "Species": "Water Weed Poke\u0301mon",
+            "Height": "0.5 m (1\u203208\u2032\u2032)",
+            "Weight": "2.6 kg (5.7 lbs)",
+            "Abilities": {
+                "Swift Swim": {
+                    "href": "/ability/swift-swim",
+                    "effect": "Boosts the Pok\u00e9mon's Speed in rain.",
+                    "hidden": false
+                },
+                "Rain Dish": {
+                    "href": "/ability/rain-dish",
+                    "effect": "The Pok\u00e9mon gradually regains HP in rain.",
+                    "hidden": false
+                },
+                "Own Tempo": {
+                    "href": "/ability/own-tempo",
+                    "effect": "Prevents the Pok\u00e9mon from becoming confused.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Sp. Def",
+            "Catch rate": "255",
+            "BaseFriendship": "50",
+            "Base Exp.": "44",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "40",
+                "Min": "190",
+                "Max": "284"
+            },
+            "Attack": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Defense": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Sp. Atk": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Def": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Speed": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Total": "220"
+        },
+        "defense_stats": {
+            "default": {
+                "Water": "not very effective",
+                "Poison": "super-effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Bug": "super-effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Lotad",
+                    "nationalNo": "#0270",
+                    "type": [
+                        "Water",
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Lombre",
+                    "nationalNo": "#0271",
+                    "type": [
+                        "Water",
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 14)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Lombre",
+                    "nationalNo": "#0271",
+                    "type": [
+                        "Water",
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Ludicolo",
+                    "nationalNo": "#0272",
+                    "type": [
+                        "Water",
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Water Stone)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Astonish": "1",
+            "Growl": "1",
+            "Absorb": "3",
+            "Water Gun": "6",
+            "Mist": "9",
+            "Mega Drain": "12",
+            "Flail": "16",
+            "Bubble Beam": "20",
+            "Nature Power": "24",
+            "Giga Drain": "28",
+            "Rain Dance": "33",
+            "Zen Headbutt": "38",
+            "Energy Ball": "43"
+        },
+        "egg": {
+            "Counter": null,
+            "Flail": null,
+            "Leech Seed": null,
+            "Razor Leaf": null,
+            "Sweet Scent": null,
+            "Synthesis": null,
+            "Teeter Dance": null,
+            "Tickle": null,
+            "Water Gun": null
+        },
+        "tm": {
+            "Water Pulse": "03",
+            "Hail": "07",
+            "Bullet Seed": "09",
+            "Sunny Day": "11",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Giga Drain": "19",
+            "Solar Beam": "22",
+            "Double Team": "32",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Scald": "49",
+            "Energy Ball": "53",
+            "Endure": "58",
+            "Flash": "70",
+            "Swords Dance": "75",
+            "Sleep Talk": "82",
+            "Grass Knot": "86",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Surf": "95"
+        }
+    },
+    "entries": {
+        "Lotad": [
+            "LOTAD live in ponds and lakes, where they float on the surface. It grows weak if its broad leaf dies. On rare occasions, this pok\u00e9mon travels on land in search of clean water.",
+            "LOTAD is said to have dwelled on land before. However, this pok\u00e9mon is thought to have returned to water because the leaf on its head grew large and heavy. It now lives by floating atop the water.",
+            "It searches about for clean water. If it does not drink water for too long, the leaf on its head wilts.",
+            "This pok\u00e9mon lives in ponds with clean water. It is known to ferry small pok\u00e9mon across ponds by carrying them on the broad leaf on its head.",
+            "It looks like an aquatic plant and serves as a ferry to Pok\u00e9mon that can\u2019t swim.",
+            "Its leaf grew too large for it to live on land. That is how it began to live floating in the water.",
+            "It looks like an aquatic plant and serves as a ferry to Pok\u00e9mon that can\u2019t swim.",
+            "It looks like an aquatic plant and serves as a ferry to Pok\u00e9mon that can\u2019t swim.",
+            "It searches about for clean water. If it does not drink water for too long, the leaf on its head wilts.",
+            "Lotad live in ponds and lakes, where they float on the surface. It grows weak if its broad leaf dies. On rare occasions, this Pok\u00e9mon travels on land in search of clean water.",
+            "Lotad is said to have dwelled on land before. However, this Pok\u00e9mon is thought to have returned to water because the leaf on its head grew large and heavy. It now lives by floating atop the water.",
+            "It searches about for clean water. If it does not drink water for too long, the leaf on its head wilts.",
+            "Its leaf grew too large for it to live on land. That is how it began to live floating in the water.",
+            "It looks like an aquatic plant and serves as a ferry for Pok\u00e9mon that can\u2019t swim."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788707058434129/270.png",
+    "discord_sprite": "<:P270:1132124625933979658>"
+}

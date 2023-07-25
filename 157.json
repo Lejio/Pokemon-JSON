@@ -1,0 +1,408 @@
+{
+    "alt-version(s)": [
+        "Hisuian Typhlosion"
+    ],
+    "name": "Typhlosion",
+    "Typhlosion": {
+        "pokedex_data": {
+            "National No.": "0157",
+            "Type": [
+                "Fire"
+            ],
+            "Species": "Volcano Poke\u0301mon",
+            "Height": "1.7 m (5\u203207\u2032\u2032)",
+            "Weight": "79.5 kg (175.3 lbs)",
+            "Abilities": {
+                "Blaze": {
+                    "href": "/ability/blaze",
+                    "effect": "Powers up Fire-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Flash Fire": {
+                    "href": "/ability/flash-fire",
+                    "effect": "It powers up Fire-type moves if it's hit by one.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Sp. Atk",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "267",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "78",
+                "Min": "266",
+                "Max": "360"
+            },
+            "Attack": {
+                "Base": "84",
+                "Min": "155",
+                "Max": "293"
+            },
+            "Defense": {
+                "Base": "78",
+                "Min": "144",
+                "Max": "280"
+            },
+            "Sp. Atk": {
+                "Base": "109",
+                "Min": "200",
+                "Max": "348"
+            },
+            "Sp. Def": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Speed": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Total": "534"
+        },
+        "defense_stats": {
+            "Blaze ability": {
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Ground": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            },
+            "Flash Fire ability": {
+                "Fire": "no effect",
+                "Water": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Ground": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "Hisuian Typhlosion": {
+        "pokedex_data": {
+            "National No.": "0157",
+            "Type": [
+                "Fire",
+                "Ghost"
+            ],
+            "Species": "Ghost Flame Poke\u0301mon",
+            "Height": "1.6 m (5\u203203\u2032\u2032)",
+            "Weight": "69.8 kg (153.9 lbs)",
+            "Abilities": {
+                "Blaze": {
+                    "href": "/ability/blaze",
+                    "effect": "Powers up Fire-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Frisk": {
+                    "href": "/ability/frisk",
+                    "effect": "The Pok\u00e9mon can check a foe's held item.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Sp. Atk",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "267",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "73",
+                "Min": "256",
+                "Max": "350"
+            },
+            "Attack": {
+                "Base": "84",
+                "Min": "155",
+                "Max": "293"
+            },
+            "Defense": {
+                "Base": "78",
+                "Min": "144",
+                "Max": "280"
+            },
+            "Sp. Atk": {
+                "Base": "119",
+                "Min": "218",
+                "Max": "370"
+            },
+            "Sp. Def": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Speed": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Total": "534"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "no effect",
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Fighting": "no effect",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Cyndaquil",
+                    "nationalNo": "#0155",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Quilava",
+                    "nationalNo": "#0156",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 14, or Level 17 in Legends: Arceus)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Quilava",
+                    "nationalNo": "#0156",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Typhlosion",
+                    "nationalNo": "#0157",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 36)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Quilava",
+                    "nationalNo": "#0156",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Typhlosion",
+                    "nationalNo": "#0157",
+                    "type": [
+                        "Fire",
+                        "Ghost"
+                    ],
+                    "nickname": "Hisuian Typhlosion"
+                },
+                "requirement": "(Level 36, in Legends: Arceus)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Double-Edge": "1",
+            "Ember": "1",
+            "Eruption": "1",
+            "Gyro Ball": "1",
+            "Leer": "1",
+            "Smokescreen": "1",
+            "Tackle": "1",
+            "Quick Attack": "13",
+            "Flame Wheel": "20",
+            "Defense Curl": "24",
+            "Swift": "31",
+            "Flame Charge": "35",
+            "Lava Plume": "43",
+            "Flamethrower": "48",
+            "Inferno": "56",
+            "Rollout": "61",
+            "Overheat": "74"
+        },
+        "evolution": {
+            "Covet": "60",
+            "Curse": "\u2014",
+            "Double Kick": "30",
+            "Extrasensory": "80",
+            "Howl": "\u2014",
+            "Reversal": "\u2014"
+        },
+        "egg": {
+            "Covet": null,
+            "Curse": null,
+            "Double Kick": null,
+            "Extrasensory": null,
+            "Howl": null,
+            "Reversal": null
+        },
+        "Typhlosion": {
+            "tm": {
+                "Take Down": "01",
+                "Protect": "07",
+                "Fire Fang": "08",
+                "Low Kick": "12",
+                "Fire Spin": "24",
+                "Facade": "25",
+                "Aerial Ace": "27",
+                "Bulldoze": "28",
+                "Swift": "32",
+                "Rock Tomb": "36",
+                "Flame Charge": "38",
+                "Fling": "43",
+                "Endure": "47",
+                "Sunny Day": "49",
+                "Dig": "55",
+                "Brick Break": "58",
+                "Zen Headbutt": "59",
+                "Shadow Claw": "61",
+                "Body Slam": "66",
+                "Fire Punch": "67",
+                "Thunder Punch": "68",
+                "Sleep Talk": "70",
+                "Stomping Tantrum": "84",
+                "Rest": "85",
+                "Rock Slide": "86",
+                "Iron Head": "99",
+                "Substitute": "103",
+                "Will-O-Wisp": "107",
+                "Shadow Ball": "114",
+                "Heat Wave": "118",
+                "Flamethrower": "125",
+                "Play Rough": "127",
+                "Helping Hand": "130",
+                "Reversal": "134",
+                "Fire Blast": "141",
+                "Fire Pledge": "144",
+                "Wild Charge": "147",
+                "Earthquake": "149",
+                "Giga Impact": "152",
+                "Blast Burn": "153",
+                "Overheat": "157",
+                "Focus Blast": "158",
+                "Hyper Beam": "163",
+                "Flare Blitz": "165",
+                "Solar Beam": "168",
+                "Tera Blast": "171"
+            }
+        },
+        "Hisuian Typhlosion": {
+            "tm": {
+                "Take Down": "01",
+                "Protect": "07",
+                "Fire Fang": "08",
+                "Low Kick": "12",
+                "Confuse Ray": "17",
+                "Fire Spin": "24",
+                "Facade": "25",
+                "Aerial Ace": "27",
+                "Bulldoze": "28",
+                "Hex": "29",
+                "Swift": "32",
+                "Flame Charge": "38",
+                "Night Shade": "42",
+                "Endure": "47",
+                "Sunny Day": "49",
+                "Dig": "55",
+                "Brick Break": "58",
+                "Zen Headbutt": "59",
+                "Shadow Claw": "61",
+                "Body Slam": "66",
+                "Fire Punch": "67",
+                "Thunder Punch": "68",
+                "Sleep Talk": "70",
+                "Stomping Tantrum": "84",
+                "Rest": "85",
+                "Rock Slide": "86",
+                "Iron Head": "99",
+                "Substitute": "103",
+                "Will-O-Wisp": "107",
+                "Shadow Ball": "114",
+                "Heat Wave": "118",
+                "Flamethrower": "125",
+                "Play Rough": "127",
+                "Calm Mind": "129",
+                "Reversal": "134",
+                "Fire Blast": "141",
+                "Fire Pledge": "144",
+                "Wild Charge": "147",
+                "Earthquake": "149",
+                "Giga Impact": "152",
+                "Blast Burn": "153",
+                "Overheat": "157",
+                "Focus Blast": "158",
+                "Hyper Beam": "163",
+                "Flare Blitz": "165",
+                "Solar Beam": "168",
+                "Tera Blast": "171"
+            }
+        }
+    },
+    "entries": {
+        "Typhlosion": [
+            "If its rage peaks, it becomes so hot that anything that touches it will instantly go up in flames.",
+            "It has a secret, devastating move. It rubs its blazing fur together to cause huge explosions.",
+            "When heat from its body causes the air around it to shimmer, this is a sign that it is ready to battle.",
+            "TYPHLOSION obscures itself behind a shimmering heat haze that it creates using its intensely hot flames. This pok\u00e9mon creates blazing explosive blasts that burn everything to cinders.",
+            "It has a secret, devastating move. It rubs its blazing fur together to cause huge explosions.",
+            "If its rage peaks, it becomes so hot that anything that touches it will instantly go up in flames.",
+            "It can hide behind a shimmering heat haze that it creates using its intense flames. TYPHLOSION create blazing explosive blasts that burn everything to cinders.",
+            "It attacks using blasts of fire. It creates heat shimmers with intense fire to hide itself.",
+            "If its rage peaks, it becomes so hot that anything that touches it will instantly go up in flames.",
+            "It has a secret, devastating move. It rubs its blazing fur together to cause huge explosions.",
+            "It attacks using blasts of fire. It creates heat shimmers with intense fire to hide itself.",
+            "If its rage peaks, it becomes so hot that anything that touches it will instantly go up in flames.",
+            "It has a secret, devastating move. It rubs its blazing fur together to cause huge explosions.",
+            "Typhlosion obscures itself behind a shimmering heat haze that it creates using its intensely hot flames. This Pok\u00e9mon creates blazing explosive blasts that burn everything to cinders.",
+            "It attacks using blasts of fire. It creates heat shimmers with intense fire to hide itself."
+        ],
+        "Hisuian Typhlosion": [
+            "Said to purify lost, forsaken souls with its flames and guide them to the afterlife. I believe its form has been influenced by the energy of the sacred mountain towering at Hisui\u2019s center."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787816683180083/157.png",
+    "discord_sprite": "<:P157:1132119644749185075>"
+}

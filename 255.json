@@ -1,0 +1,207 @@
+{
+    "alt-version(s)": [],
+    "name": "Torchic",
+    "Torchic": {
+        "pokedex_data": {
+            "National No.": "0255",
+            "Type": [
+                "Fire"
+            ],
+            "Species": "Chick Poke\u0301mon",
+            "Height": "0.4 m (1\u203204\u2032\u2032)",
+            "Weight": "2.5 kg (5.5 lbs)",
+            "Abilities": {
+                "Blaze": {
+                    "href": "/ability/blaze",
+                    "effect": "Powers up Fire-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Speed Boost": {
+                    "href": "/ability/speed-boost",
+                    "effect": "Its Speed stat is gradually boosted.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Sp. Atk",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "62",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "45",
+                "Min": "200",
+                "Max": "294"
+            },
+            "Attack": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Defense": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Atk": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Def": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Speed": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Total": "310"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Ground": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Torchic",
+                    "nationalNo": "#0255",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Combusken",
+                    "nationalNo": "#0256",
+                    "type": [
+                        "Fire",
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 16)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Combusken",
+                    "nationalNo": "#0256",
+                    "type": [
+                        "Fire",
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Blaziken",
+                    "nationalNo": "#0257",
+                    "type": [
+                        "Fire",
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 36)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Growl": "1",
+            "Scratch": "1",
+            "Ember": "3",
+            "Quick Attack": "6",
+            "Flame Charge": "9",
+            "Detect": "12",
+            "Sand Attack": "15",
+            "Aerial Ace": "18",
+            "Slash": "21",
+            "Bounce": "24",
+            "Focus Energy": "27",
+            "Flamethrower": "30",
+            "Feather Dance": "33",
+            "Reversal": "36",
+            "Flare Blitz": "39"
+        },
+        "egg": {
+            "Agility": null,
+            "Baton Pass": null,
+            "Counter": null,
+            "Crush Claw": null,
+            "Curse": null,
+            "Feather Dance": null,
+            "Feint": null,
+            "Last Resort": null,
+            "Low Kick": null,
+            "Night Slash": null,
+            "Peck": null,
+            "Reversal": null
+        },
+        "tm": {
+            "Work Up": "10",
+            "Sunny Day": "11",
+            "Protect": "17",
+            "Dig": "28",
+            "Double Team": "32",
+            "Flamethrower": "35",
+            "Fire Blast": "38",
+            "Rock Tomb": "39",
+            "Aerial Ace": "40",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Overheat": "50",
+            "Endure": "58",
+            "Will-O-Wisp": "61",
+            "Shadow Claw": "65",
+            "Swords Dance": "75",
+            "Rock Slide": "80",
+            "Sleep Talk": "82",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Cut": "93",
+            "Strength": "96",
+            "Rock Smash": "98"
+        }
+    },
+    "entries": {
+        "Torchic": [
+            "TORCHIC sticks with its TRAINER, following behind with unsteady steps. This pok\u00e9mon breathes fire of over 1,800 degrees F, including fireballs that leave the foe scorched black.",
+            "TORCHIC has a place inside its body where it keeps its flame. Give it a hug - it will be glowing with warmth. This pok\u00e9mon is covered all over by a fluffy coat of down.",
+            "It has a flame sac inside its belly that perpetually burns. It feels warm if it is hugged.",
+            "If attacked, it strikes back by spitting balls of fire it forms in its stomach. A TORCHIC dislikes darkness because it can\u2019t see its surroundings.",
+            "A fire burns inside, so it feels very warm to hug. It launches fireballs of 1,800 degrees F.",
+            "Inside its body is a place where it keeps a small flame. Hug it! It will be as warm as a hot-water bottle.",
+            "A fire burns inside, so it feels very warm to hug. It launches fireballs of 1,800 degrees F.",
+            "It has a flame sac inside its belly that perpetually burns. It feels warm if it is hugged.",
+            "A fire burns inside, so it feels very warm to hug. It launches fireballs of 1,800 degrees Fahrenheit.",
+            "Torchic sticks with its Trainer, following behind with unsteady steps. This Pok\u00e9mon breathes fire of over 1,800 degrees Fahrenheit, including fireballs that leave the foe scorched black.",
+            "Torchic has a place inside its body where it keeps its flame. Give it a hug\u2014it will be glowing with warmth. This Pok\u00e9mon is covered all over by a fluffy coat of down.",
+            "A fire burns inside it, so it feels very warm to hug. It launches fireballs of 1,800 degrees Fahrenheit."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788589198495765/255.png",
+    "discord_sprite": "<:P255:1132123962822905876>"
+}

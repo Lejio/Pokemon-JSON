@@ -1,0 +1,236 @@
+{
+    "alt-version(s)": [
+        "Aria Forme",
+        "Pirouette Forme"
+    ],
+    "Aria Forme": {
+        "pokedex_data": {
+            "National No.": "0648",
+            "Type": [
+                "Normal",
+                "Psychic"
+            ],
+            "Species": "Melody Poke\u0301mon",
+            "Height": "0.6 m (2\u203200\u2032\u2032)",
+            "Weight": "6.5 kg (14.3 lbs)",
+            "Abilities": {
+                "Serene Grace": {
+                    "href": "/ability/serene-grace",
+                    "effect": "Boosts the likelihood of added effects appearing.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Sp. Atk, 1 Sp. Def, 1 Speed",
+            "Catch rate": "3",
+            "BaseFriendship": "100",
+            "Base Exp.": "300",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "100",
+                "Min": "310",
+                "Max": "404"
+            },
+            "Attack": {
+                "Base": "77",
+                "Min": "143",
+                "Max": "278"
+            },
+            "Defense": {
+                "Base": "77",
+                "Min": "143",
+                "Max": "278"
+            },
+            "Sp. Atk": {
+                "Base": "128",
+                "Min": "234",
+                "Max": "390"
+            },
+            "Sp. Def": {
+                "Base": "128",
+                "Min": "234",
+                "Max": "390"
+            },
+            "Speed": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Total": "600"
+        },
+        "defense_stats": {
+            "default": {
+                "Psychic": "not very effective",
+                "Bug": "super-effective",
+                "Ghost": "no effect",
+                "Dark": "super-effective"
+            }
+        }
+    },
+    "Pirouette Forme": {
+        "pokedex_data": {
+            "National No.": "0648",
+            "Type": [
+                "Normal",
+                "Fighting"
+            ],
+            "Species": "Melody Poke\u0301mon",
+            "Height": "0.6 m (2\u203200\u2032\u2032)",
+            "Weight": "6.5 kg (14.3 lbs)",
+            "Abilities": {
+                "Serene Grace": {
+                    "href": "/ability/serene-grace",
+                    "effect": "Boosts the likelihood of added effects appearing.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack, 1 Defense, 1 Speed",
+            "Catch rate": "3",
+            "BaseFriendship": "100",
+            "Base Exp.": "300",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "100",
+                "Min": "310",
+                "Max": "404"
+            },
+            "Attack": {
+                "Base": "128",
+                "Min": "234",
+                "Max": "390"
+            },
+            "Defense": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Sp. Atk": {
+                "Base": "77",
+                "Min": "143",
+                "Max": "278"
+            },
+            "Sp. Def": {
+                "Base": "77",
+                "Min": "143",
+                "Max": "278"
+            },
+            "Speed": {
+                "Base": "128",
+                "Min": "234",
+                "Max": "390"
+            },
+            "Total": "600"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "super-effective",
+                "Flying": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Ghost": "no effect",
+                "Dark": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Confusion": "1",
+            "Quick Attack": "1",
+            "Round": "1",
+            "Sing": "1",
+            "Teeter Dance": "21",
+            "Acrobatics": "26",
+            "Psybeam": "31",
+            "Echoed Voice": "36",
+            "U-turn": "43",
+            "Relic Song": "50",
+            "Psychic": "57",
+            "Hyper Voice": "64",
+            "Role Play": "71",
+            "Close Combat": "78",
+            "Perish Song": "85"
+        },
+        "egg": null,
+        "tm": {
+            "Charm": "02",
+            "Fake Tears": "03",
+            "Protect": "07",
+            "Low Kick": "12",
+            "Acrobatics": "14",
+            "Psybeam": "16",
+            "Disarming Voice": "19",
+            "Facade": "25",
+            "Swift": "32",
+            "Low Sweep": "39",
+            "Fling": "43",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Psyshock": "54",
+            "Brick Break": "58",
+            "Zen Headbutt": "59",
+            "U-turn": "60",
+            "Shadow Claw": "61",
+            "Fire Punch": "67",
+            "Thunder Punch": "68",
+            "Ice Punch": "69",
+            "Sleep Talk": "70",
+            "Drain Punch": "73",
+            "Light Screen": "75",
+            "Dazzling Gleam": "79",
+            "Metronome": "80",
+            "Grass Knot": "81",
+            "Thunder Wave": "82",
+            "Rest": "85",
+            "Swords Dance": "88",
+            "Skill Swap": "98",
+            "Substitute": "103",
+            "Trick": "109",
+            "Shadow Ball": "114",
+            "Hyper Voice": "117",
+            "Energy Ball": "119",
+            "Psychic": "120",
+            "Thunderbolt": "126",
+            "Play Rough": "127",
+            "Calm Mind": "129",
+            "Helping Hand": "130",
+            "Baton Pass": "132",
+            "Reversal": "134",
+            "Stone Edge": "150",
+            "Giga Impact": "152",
+            "Focus Blast": "158",
+            "Trick Room": "161",
+            "Hyper Beam": "163",
+            "Thunder": "166",
+            "Close Combat": "167",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Meloetta": [
+            "Its melodies are sung with a special vocalization method that can control the feelings of those who hear it.",
+            "Many famous songs have been inspired by the melodies that Meloetta plays.",
+            "The melodies sung by Meloetta have the power to make Pok\u00e9mon that hear them happy or sad.",
+            "The melodies sung by Meloetta have the power to make Pok\u00e9mon that hear them happy or sad.",
+            "Its melodies are sung with a special vocalization method that can control the feelings of those who hear it."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791654081286257/648.png",
+    "discord_sprite": "<:P648:1132141254524801104>"
+}

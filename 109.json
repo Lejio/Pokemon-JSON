@@ -1,0 +1,241 @@
+{
+    "alt-version(s)": [],
+    "name": "Koffing",
+    "Koffing": {
+        "pokedex_data": {
+            "National No.": "0109",
+            "Type": [
+                "Poison"
+            ],
+            "Species": "Poison Gas Poke\u0301mon",
+            "Height": "0.6 m (2\u203200\u2032\u2032)",
+            "Weight": "1.0 kg (2.2 lbs)",
+            "Abilities": {
+                "Levitate": {
+                    "href": "/ability/levitate",
+                    "effect": "Gives immunity to Ground type moves.",
+                    "hidden": false
+                },
+                "Neutralizing Gas": {
+                    "href": "/ability/neutralizing-gas",
+                    "effect": "Neutralizes abilities of all Pok\u00e9mon in battle.",
+                    "hidden": false
+                },
+                "Stench": {
+                    "href": "/ability/stench",
+                    "effect": "The stench may cause the target to flinch.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Defense",
+            "Catch rate": "190",
+            "BaseFriendship": "50",
+            "Base Exp.": "68",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "40",
+                "Min": "190",
+                "Max": "284"
+            },
+            "Attack": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Defense": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Sp. Atk": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Def": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Speed": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Total": "340"
+        },
+        "defense_stats": {
+            "Levitate ability": {
+                "Grass": "not very effective",
+                "Fighting": "not very effective",
+                "Poison": "not very effective",
+                "Ground": "no effect",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Fairy": "not very effective"
+            },
+            "Neutralizing Gas ability": {
+                "Grass": "not very effective",
+                "Fighting": "not very effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Fairy": "not very effective"
+            },
+            "Stench ability": {
+                "Grass": "not very effective",
+                "Fighting": "not very effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Koffing",
+                    "nationalNo": "#0109",
+                    "type": [
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Weezing",
+                    "nationalNo": "#0110",
+                    "type": [
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 35, outside Galar)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Koffing",
+                    "nationalNo": "#0109",
+                    "type": [
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Weezing",
+                    "nationalNo": "#0110",
+                    "type": [
+                        "Poison",
+                        "Fairy"
+                    ],
+                    "nickname": "Galarian Weezing"
+                },
+                "requirement": "(Level 35, in Galar)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Poison Gas": "1",
+            "Tackle": "1",
+            "Smog": "4",
+            "Smokescreen": "8",
+            "Clear Smog": "12",
+            "Assurance": "16",
+            "Sludge": "20",
+            "Haze": "24",
+            "Self-Destruct": "28",
+            "Sludge Bomb": "32",
+            "Toxic": "36",
+            "Belch": "40",
+            "Explosion": "44",
+            "Memento": "48",
+            "Destiny Bond": "52"
+        },
+        "egg": {
+            "Curse": null,
+            "Destiny Bond": null,
+            "Grudge": null,
+            "Pain Split": null,
+            "Psybeam": null,
+            "Screech": null,
+            "Spit Up": null,
+            "Spite": null,
+            "Stockpile": null,
+            "Swallow": null,
+            "Toxic Spikes": null,
+            "Venom Drench": null
+        },
+        "tm": {
+            "Toxic": "06",
+            "Sunny Day": "11",
+            "Taunt": "12",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Thunderbolt": "24",
+            "Thunder": "25",
+            "Shadow Ball": "30",
+            "Double Team": "32",
+            "Shock Wave": "34",
+            "Flamethrower": "35",
+            "Sludge Bomb": "36",
+            "Fire Blast": "38",
+            "Torment": "41",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Endure": "58",
+            "Will-O-Wisp": "61",
+            "Explosion": "64",
+            "Payback": "66",
+            "Flash": "70",
+            "Gyro Ball": "74",
+            "Dark Pulse": "79",
+            "Sleep Talk": "82",
+            "Swagger": "87",
+            "Substitute": "90"
+        }
+    },
+    "entries": {
+        "Koffing": [
+            "Because it stores several kinds of toxic gases in its body, it is prone to exploding without warning.",
+            "In hot places, its internal gases could expand and explode without any warning. Be very careful!",
+            "Its thin, filmy body is filled with gases that cause constant sniffles, coughs and teary eyes.",
+            "The poisonous gases it contains are a little bit lighter than air, keeping it slightly airborne.",
+            "If one gets close enough to it when it expels poisonous gas, the gas swirling inside it can be seen.",
+            "If KOFFING becomes agitated, it raises the toxicity of its internal gases and jets them out from all over its body. This pok\u00e9mon may also overinflate its round body, then explode.",
+            "KOFFING embodies toxic substances. It mixes the toxins with raw garbage to set off a chemical reaction that results in a terribly powerful poison gas. The higher the temperature, the more gas is concocted by this pok\u00e9mon.",
+            "Its thin, balloon-like body is inflated by horribly toxic gases. It reeks when it is nearby.",
+            "Because it stores several kinds of toxic gases in its body, it is prone to exploding without warning.",
+            "Getting up close to a KOFFING will give you a chance to observe, through its thin skin, the toxic gases swirling inside. It blows up at the slightest stimulation.",
+            "Lighter-than-air gases in its body keep it aloft. The gases not only smell, they are also explosive.",
+            "Its thin, filmy body is filled with gases that cause constant sniffles, coughs and teary eyes.",
+            "The poisonous gases it contains are a little bit lighter than air, keeping it slightly airborne.",
+            "Lighter-than-air gases in its body keep it aloft. The gases not only smell, they are also explosive.",
+            "Toxic gas is held within its thin, balloon-shaped body, so it can cause massive explosions.",
+            "Its thin, balloon-like body is inflated by horribly toxic gases. It reeks when it is nearby.",
+            "Lighter-than-air gases in its body keep it aloft. The gases not only smell, they are also explosive.",
+            "If Koffing becomes agitated, it raises the toxicity of its internal gases and jets them out from all over its body. This Pok\u00e9mon may also overinflate its round body, then explode.",
+            "Koffing embodies toxic substances. It mixes the toxins with raw garbage to set off a chemical reaction that results in a terribly powerful poison gas. The higher the temperature, the more gas is concocted by this Pok\u00e9mon.",
+            "In hot places, its internal gases could expand and explode without any warning. Be very careful!",
+            "Its body is full of poisonous gas. It floats into garbage dumps, seeking out the fumes of raw, rotting trash.",
+            "It adores polluted air. Some claim that Koffing used to be more plentiful in the Galar region than they are now.",
+            "Lighter-than-air gases in its body keep it aloft. The gases not only smell; they are also explosive."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787441762746378/109.png",
+    "discord_sprite": "<:P109:1132117520191590440>"
+}

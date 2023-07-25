@@ -1,0 +1,201 @@
+{
+    "alt-version(s)": [],
+    "name": "Zebstrika",
+    "Zebstrika": {
+        "pokedex_data": {
+            "National No.": "0523",
+            "Type": [
+                "Electric"
+            ],
+            "Species": "Thunderbolt Poke\u0301mon",
+            "Height": "1.6 m (5\u203203\u2032\u2032)",
+            "Weight": "79.5 kg (175.3 lbs)",
+            "Abilities": {
+                "Lightning Rod": {
+                    "href": "/ability/lightning-rod",
+                    "effect": "Draws in all Electric-type moves to up Sp. Attack.",
+                    "hidden": false
+                },
+                "Motor Drive": {
+                    "href": "/ability/motor-drive",
+                    "effect": "Raises Speed if hit by an Electric-type move.",
+                    "hidden": false
+                },
+                "Sap Sipper": {
+                    "href": "/ability/sap-sipper",
+                    "effect": "Boosts Attack when hit by a Grass-type move.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Speed",
+            "Catch rate": "75",
+            "BaseFriendship": "50",
+            "Base Exp.": "174",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "75",
+                "Min": "260",
+                "Max": "354"
+            },
+            "Attack": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Defense": {
+                "Base": "63",
+                "Min": "117",
+                "Max": "247"
+            },
+            "Sp. Atk": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Sp. Def": {
+                "Base": "63",
+                "Min": "117",
+                "Max": "247"
+            },
+            "Speed": {
+                "Base": "116",
+                "Min": "213",
+                "Max": "364"
+            },
+            "Total": "497"
+        },
+        "defense_stats": {
+            "Lightning Rod ability": {
+                "Electric": "no effect",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Steel": "not very effective"
+            },
+            "Motor Drive ability": {
+                "Electric": "no effect",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Steel": "not very effective"
+            },
+            "Sap Sipper ability": {
+                "Electric": "not very effective",
+                "Grass": "no effect",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Blitzle",
+                    "nationalNo": "#0522",
+                    "type": [
+                        "Electric"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Zebstrika",
+                    "nationalNo": "#0523",
+                    "type": [
+                        "Electric"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 27)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Charge": "8",
+            "Ion Deluge": "58",
+            "Quick Attack": "1",
+            "Tail Whip": "4",
+            "Thunder Wave": "15",
+            "Shock Wave": "11",
+            "Flame Charge": "18",
+            "Pursuit": "22",
+            "Spark": "25",
+            "Stomp": "31",
+            "Discharge": "36",
+            "Agility": "42",
+            "Wild Charge": "47",
+            "Thrash": "53"
+        },
+        "egg": {
+            "Double-Edge": null,
+            "Double Kick": null,
+            "Endure": null,
+            "Feint": null,
+            "Me First": null,
+            "Rage": null,
+            "Sand Attack": null,
+            "Screech": null,
+            "Shock Wave": null,
+            "Snatch": null,
+            "Take Down": null
+        },
+        "null": {
+            "Ally Switch": "\u2014",
+            "Bounce": "85",
+            "Laser Focus": "\u2014",
+            "Low Kick": "\u2014",
+            "Magnet Rise": "\u2014",
+            "Shock Wave": "60",
+            "Signal Beam": "75",
+            "Snatch": "\u2014",
+            "Snore": "50"
+        },
+        "tm": {
+            "Toxic": "06",
+            "Hidden Power": "10",
+            "Hyper Beam": "15",
+            "Light Screen": "16",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Frustration": "21",
+            "Thunderbolt": "24",
+            "Thunder": "25",
+            "Return": "27",
+            "Double Team": "32",
+            "Facade": "42",
+            "Flame Charge": "43",
+            "Rest": "44",
+            "Attract": "45",
+            "Round": "48",
+            "Overheat": "50",
+            "Charge Beam": "57",
+            "Giga Impact": "68",
+            "Volt Switch": "72",
+            "Thunder Wave": "73",
+            "Swagger": "87",
+            "Sleep Talk": "88",
+            "Substitute": "90",
+            "Wild Charge": "93",
+            "Confide": "100"
+        }
+    },
+    "entries": {
+        "Zebstrika": [
+            "They have lightning-like movements. When Zebstrika run at full speed, the sound of thunder reverberates.",
+            "This ill-tempered Pok\u00e9mon is dangerous because when it\u2019s angry, it shoots lightning from its mane in all directions.",
+            "When this ill-tempered Pok\u00e9mon runs wild, it shoots lightning from its mane in all directions.",
+            "When this ill-tempered Pok\u00e9mon runs wild, it shoots lightning from its mane in all directions.",
+            "They have lightning-like movements. When Zebstrika run at full speed, the sound of thunder reverberates."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790678842691675/523.png",
+    "discord_sprite": "<:P523:1132135746552217682>"
+}

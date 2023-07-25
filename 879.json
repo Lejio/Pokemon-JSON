@@ -1,0 +1,194 @@
+{
+    "alt-version(s)": [],
+    "name": "Copperajah",
+    "Copperajah": {
+        "pokedex_data": {
+            "National No.": "0879",
+            "Type": [
+                "Steel"
+            ],
+            "Species": "Copperderm Poke\u0301mon",
+            "Height": "3.0 m (9\u203210\u2032\u2032)",
+            "Weight": "650.0 kg (1433.0 lbs)",
+            "Abilities": {
+                "Sheer Force": {
+                    "href": "/ability/sheer-force",
+                    "effect": "Removes added effects to increase move damage.",
+                    "hidden": false
+                },
+                "Heavy Metal": {
+                    "href": "/ability/heavy-metal",
+                    "effect": "Doubles the Pok\u00e9mon's weight.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "90",
+            "BaseFriendship": "50",
+            "Base Exp.": "175",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "122",
+                "Min": "354",
+                "Max": "448"
+            },
+            "Attack": {
+                "Base": "130",
+                "Min": "238",
+                "Max": "394"
+            },
+            "Defense": {
+                "Base": "69",
+                "Min": "128",
+                "Max": "260"
+            },
+            "Sp. Atk": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Sp. Def": {
+                "Base": "69",
+                "Min": "128",
+                "Max": "260"
+            },
+            "Speed": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Total": "500"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Fire": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Poison": "no effect",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Dragon": "not very effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Cufant",
+                    "nationalNo": "#0878",
+                    "type": [
+                        "Steel"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Copperajah",
+                    "nationalNo": "#0879",
+                    "type": [
+                        "Steel"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 34)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Growl": "1",
+            "Rock Smash": "1",
+            "Rollout": "1",
+            "Tackle": "1",
+            "Bulldoze": "15",
+            "Stomp": "20",
+            "Iron Defense": "25",
+            "Dig": "30",
+            "Strength": "37",
+            "Iron Head": "44",
+            "Play Rough": "51",
+            "High Horsepower": "58",
+            "Superpower": "65"
+        },
+        "evolution": {
+            "Heavy Slam": "\u2014"
+        },
+        "egg": {
+            "Belch": null,
+            "Curse": null,
+            "Defense Curl": null,
+            "Double-Edge": null,
+            "Fissure": null,
+            "Slam": null,
+            "Swagger": null,
+            "Whirlwind": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Protect": "07",
+            "Facade": "25",
+            "Bulldoze": "28",
+            "Snarl": "30",
+            "Mud Shot": "35",
+            "Rock Tomb": "36",
+            "Fling": "43",
+            "Endure": "47",
+            "Sandstorm": "51",
+            "Dig": "55",
+            "Brick Break": "58",
+            "Zen Headbutt": "59",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Rock Blast": "76",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Taunt": "87",
+            "Body Press": "89",
+            "Flash Cannon": "93",
+            "Iron Head": "99",
+            "Substitute": "103",
+            "Iron Defense": "104",
+            "Stealth Rock": "116",
+            "Heavy Slam": "121",
+            "Play Rough": "127",
+            "Earth Power": "133",
+            "Earthquake": "149",
+            "Stone Edge": "150",
+            "Giga Impact": "152",
+            "Outrage": "156",
+            "Hyper Beam": "163",
+            "Steel Beam": "170",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Copperajah": [
+            "They came over from another region long ago and worked together with humans. Their green skin is resistant to water.",
+            "These Pok\u00e9mon live in herds. Their trunks have incredible grip strength, strong enough to crush giant rocks into powder.",
+            "This Pok\u00e9mon was brought to Paldea long ago by people from a faraway land. It\u2019s so strong that it can easily pull an airplane.",
+            "Copperajah are prideful, cantankerous Pok\u00e9mon. Specimens with vibrant green skin command the respect of others of their kind."
+        ],
+        "Gigantamax": [
+            "So much power is packed within its trunk that if it were to unleash that power, the resulting blast could level mountains and change the landscape.",
+            "After this Pok\u00e9mon has Gigantamaxed, its massive nose can utterly demolish large structures with a single smashing blow."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793456168181760/879.png",
+    "discord_sprite": "<:P879:1132151478551846962>"
+}

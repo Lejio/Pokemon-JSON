@@ -1,0 +1,171 @@
+{
+    "alt-version(s)": [],
+    "name": "Greedent",
+    "Greedent": {
+        "pokedex_data": {
+            "National No.": "0820",
+            "Type": [
+                "Normal"
+            ],
+            "Species": "Greedy Poke\u0301mon",
+            "Height": "0.6 m (2\u203200\u2032\u2032)",
+            "Weight": "6.0 kg (13.2 lbs)",
+            "Abilities": {
+                "Cheek Pouch": {
+                    "href": "/ability/cheek-pouch",
+                    "effect": "Restores additional HP when a Berry is consumed.",
+                    "hidden": false
+                },
+                "Gluttony": {
+                    "href": "/ability/gluttony",
+                    "effect": "Encourages the early use of a held Berry.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 HP",
+            "Catch rate": "90",
+            "BaseFriendship": "50",
+            "Base Exp.": "161",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "120",
+                "Min": "350",
+                "Max": "444"
+            },
+            "Attack": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Defense": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Sp. Atk": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Sp. Def": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Speed": {
+                "Base": "20",
+                "Min": "40",
+                "Max": "152"
+            },
+            "Total": "460"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Skwovet",
+                    "nationalNo": "#0819",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Greedent",
+                    "nationalNo": "#0820",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 24)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Bite": "1",
+            "Stuff Cheeks": "1",
+            "Tackle": "1",
+            "Tail Whip": "1",
+            "Spit Up": "15",
+            "Stockpile": "15",
+            "Swallow": "15",
+            "Body Slam": "20",
+            "Rest": "27",
+            "Counter": "34",
+            "Bullet Seed": "41",
+            "Super Fang": "48",
+            "Belch": "55"
+        },
+        "evolution": {
+            "Covet": "60"
+        },
+        "egg": {
+            "Belly Drum": null,
+            "Defense Curl": null,
+            "Last Resort": null,
+            "Rollout": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Mud-Slap": "05",
+            "Protect": "07",
+            "Fire Fang": "08",
+            "Thunder Fang": "09",
+            "Ice Fang": "10",
+            "Thief": "18",
+            "Facade": "25",
+            "Bulldoze": "28",
+            "Mud Shot": "35",
+            "Fling": "43",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Dig": "55",
+            "Bullet Seed": "56",
+            "Psychic Fangs": "63",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Seed Bomb": "71",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Swords Dance": "88",
+            "Body Press": "89",
+            "Substitute": "103",
+            "Crunch": "108",
+            "Hyper Voice": "117",
+            "Amnesia": "128",
+            "Wild Charge": "147",
+            "Earthquake": "149",
+            "Giga Impact": "152",
+            "Hyper Beam": "163",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Greedent": [
+            "It stashes berries in its tail\u2014so many berries that they fall out constantly. But this Pok\u00e9mon is a bit slow-witted, so it doesn\u2019t notice the loss.",
+            "Common throughout the Galar region, this Pok\u00e9mon has strong teeth and can chew through the toughest of berry shells.",
+            "If it spots a berry tree, it will immediately go to gather berries without a sideways glance\u2014even if it\u2019s in the middle of a battle.",
+            "This Pok\u00e9mon makes off with heaps of fallen berries by wrapping them in its tail, which is roughly twice the length of its body."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792997667844176/820.png",
+    "discord_sprite": "<:P820:1132148879878520842>"
+}

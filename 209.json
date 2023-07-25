@@ -1,0 +1,209 @@
+{
+    "alt-version(s)": [],
+    "name": "Snubbull",
+    "Snubbull": {
+        "pokedex_data": {
+            "National No.": "0209",
+            "Type": [
+                "Fairy"
+            ],
+            "Species": "Fairy Poke\u0301mon",
+            "Height": "0.6 m (2\u203200\u2032\u2032)",
+            "Weight": "7.8 kg (17.2 lbs)",
+            "Abilities": {
+                "Intimidate": {
+                    "href": "/ability/intimidate",
+                    "effect": "Lowers the foe's Attack stat.",
+                    "hidden": false
+                },
+                "Run Away": {
+                    "href": "/ability/run-away",
+                    "effect": "Enables a sure getaway from wild Pok\u00e9mon.",
+                    "hidden": false
+                },
+                "Rattled": {
+                    "href": "/ability/rattled",
+                    "effect": "Bug, Ghost or Dark type moves scare it and boost its Speed.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack",
+            "Catch rate": "190",
+            "BaseFriendship": "50",
+            "Base Exp.": "60",
+            "Growth Rate": "Fast"
+        },
+        "breeding_data": {
+            "Gender": "25% male,75% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "60",
+                "Min": "230",
+                "Max": "324"
+            },
+            "Attack": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Defense": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Atk": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Def": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Speed": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Total": "300"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "not very effective",
+                "Poison": "super-effective",
+                "Bug": "not very effective",
+                "Dragon": "no effect",
+                "Dark": "not very effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Snubbull",
+                    "nationalNo": "#0209",
+                    "type": [
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Granbull",
+                    "nationalNo": "#0210",
+                    "type": [
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 23)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Charm": "1",
+            "Fire Fang": "1",
+            "Ice Fang": "1",
+            "Scary Face": "1",
+            "Tackle": "1",
+            "Tail Whip": "1",
+            "Thunder Fang": "1",
+            "Bite": "7",
+            "Lick": "13",
+            "Headbutt": "19",
+            "Roar": "25",
+            "Taunt": "31",
+            "Play Rough": "37",
+            "Payback": "43",
+            "Crunch": "49"
+        },
+        "egg": {
+            "Close Combat": null,
+            "Crunch": null,
+            "Double-Edge": null,
+            "Fake Tears": null,
+            "Fire Fang": null,
+            "Heal Bell": null,
+            "Ice Fang": null,
+            "Metronome": null,
+            "Mimic": null,
+            "Present": null,
+            "Snore": null,
+            "Thunder Fang": null
+        },
+        "tm": {
+            "Focus Punch": "01",
+            "Water Pulse": "03",
+            "Roar": "05",
+            "Bulk Up": "08",
+            "Work Up": "10",
+            "Sunny Day": "11",
+            "Taunt": "12",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Dazzling Gleam": "21",
+            "Solar Beam": "22",
+            "Thunderbolt": "24",
+            "Thunder": "25",
+            "Earthquake": "26",
+            "Dig": "28",
+            "Shadow Ball": "30",
+            "Brick Break": "31",
+            "Double Team": "32",
+            "Reflect": "33",
+            "Shock Wave": "34",
+            "Flamethrower": "35",
+            "Sludge Bomb": "36",
+            "Fire Blast": "38",
+            "Torment": "41",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Overheat": "50",
+            "Fling": "56",
+            "Endure": "58",
+            "Payback": "66",
+            "Thunder Wave": "73",
+            "Snarl": "78",
+            "Sleep Talk": "82",
+            "Bulldoze": "83",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Strength": "96",
+            "Rock Smash": "98"
+        }
+    },
+    "entries": {
+        "Snubbull": [
+            "Although it looks frightening, it is actually kind and affectionate. It is very popular among women.",
+            "It has an active, playful nature. Many women like to frolic with it because of its affectionate ways.",
+            "In truth, it is a cowardly pok\u00e9mon. It growls eagerly in order to hide its fear from its opponent.",
+            "By baring its fangs and making a scary face, SNUBBULL sends smaller pok\u00e9mon scurrying away in terror. However, this pok\u00e9mon seems a little sad at making its foes flee.",
+            "It has an active, playful nature. Many women like to frolic with it because of its affectionate ways.",
+            "Although it looks frightening, it is actually kind and affectionate. It is very popular among women.",
+            "By baring its fangs and making a scary face, it sends smaller pok\u00e9mon scurrying in terror. The SNUBBULL does seem a little sad at making its foes flee.",
+            "Small Pok\u00e9mon flee from its scary face. It is, however, considered by women to be cute.",
+            "Although it looks frightening, it is actually kind and affectionate. It is very popular among women.",
+            "It has an active, playful nature. Many women like to frolic with it because of its affectionate ways.",
+            "Small Pok\u00e9mon flee from its scary face. It is, however, considered by women to be cute.",
+            "It has an active, playful nature. Many women like to frolic with it because of its affectionate ways.",
+            "Small Pok\u00e9mon flee from its scary face. It is, however, considered by women to be cute.",
+            "By baring its fangs and making a scary face, Snubbull sends smaller Pok\u00e9mon scurrying away in terror. However, this Pok\u00e9mon seems a little sad at making its foes flee.",
+            "Despite its intimidating face, it\u2019s quite cowardly. Its desperate attempts to appear threatening make it popular with people.",
+            "Its growls make its opponents uneasy. This laid-back Pok\u00e9mon tends to sleep half the day.",
+            "It grows close to others easily and is also easily spoiled. The disparity between its face and its actions makes many young people wild about it.",
+            "In contrast to its appearance, it\u2019s quite timid. When playing with other puppy Pok\u00e9mon, it sometimes gets bullied.",
+            "Small Pok\u00e9mon flee from its scary face. It is, however, considered by many people to be cute."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788226911281232/209.png",
+    "discord_sprite": "<:P209:1132121927146811512>"
+}

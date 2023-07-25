@@ -1,0 +1,187 @@
+{
+    "alt-version(s)": [],
+    "name": "Shroomish",
+    "Shroomish": {
+        "pokedex_data": {
+            "National No.": "0285",
+            "Type": [
+                "Grass"
+            ],
+            "Species": "Mushroom Poke\u0301mon",
+            "Height": "0.4 m (1\u203204\u2032\u2032)",
+            "Weight": "4.5 kg (9.9 lbs)",
+            "Abilities": {
+                "Effect Spore": {
+                    "href": "/ability/effect-spore",
+                    "effect": "Contact may poison or cause paralysis or sleep.",
+                    "hidden": false
+                },
+                "Poison Heal": {
+                    "href": "/ability/poison-heal",
+                    "effect": "Restores HP if the Pok\u00e9mon is poisoned.",
+                    "hidden": false
+                },
+                "Quick Feet": {
+                    "href": "/ability/quick-feet",
+                    "effect": "Boosts Speed if there is a status problem.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 HP",
+            "Catch rate": "255",
+            "BaseFriendship": "50",
+            "Base Exp.": "59",
+            "Growth Rate": "Fluctuating"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "60",
+                "Min": "230",
+                "Max": "324"
+            },
+            "Attack": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Defense": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Atk": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Def": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Speed": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Total": "295"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Poison": "super-effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Bug": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Shroomish",
+                    "nationalNo": "#0285",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Breloom",
+                    "nationalNo": "#0286",
+                    "type": [
+                        "Grass",
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 23)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Absorb": "1",
+            "Tackle": "1",
+            "Stun Spore": "5",
+            "Leech Seed": "8",
+            "Mega Drain": "12",
+            "Headbutt": "15",
+            "Poison Powder": "19",
+            "Giga Drain": "26",
+            "Growth": "29",
+            "Toxic": "33",
+            "Seed Bomb": "36",
+            "Spore": "40"
+        },
+        "egg": {
+            "Charm": null,
+            "Fake Tears": null,
+            "Helping Hand": null,
+            "Worry Seed": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Charm": "02",
+            "Fake Tears": "03",
+            "Protect": "07",
+            "Pounce": "21",
+            "Facade": "25",
+            "Swift": "32",
+            "Magical Leaf": "33",
+            "Venoshock": "45",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Bullet Seed": "56",
+            "False Swipe": "57",
+            "Zen Headbutt": "59",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Seed Bomb": "71",
+            "Drain Punch": "73",
+            "Grass Knot": "81",
+            "Rest": "85",
+            "Gunk Shot": "102",
+            "Substitute": "103",
+            "Giga Drain": "111",
+            "Energy Ball": "119",
+            "Helping Hand": "130",
+            "Grassy Terrain": "137",
+            "Sludge Bomb": "148",
+            "Solar Beam": "168",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Shroomish": [
+            "SHROOMISH live in damp soil in the dark depths of forests. They are often found keeping still under fallen leaves. This pok\u00e9mon feeds on compost that is made up of fallen, rotted leaves.",
+            "If SHROOMISH senses danger, it shakes its body and scatters spores from the top of its head. This pok\u00e9mon\u2019s spores are so toxic, they make trees and weeds wilt.",
+            "It prefers damp places. By day it remains still in the forest shade. It releases toxic powder from its head.",
+            "It loves to eat damp, composted soil in forests. If you enter a forest after a long rain, you can see many SHROOMISH feasting on composted soil.",
+            "It spouts poison spores from the top of its head. These spores cause pain all over if inhaled.",
+            "If it senses danger, it scatters spores from the top of its head to protect itself.",
+            "It spouts poison spores from the top of its head. These spores cause pain all over if inhaled.",
+            "It prefers damp places. By day it remains still in the forest shade. It releases toxic powder from its head.",
+            "It spouts poison spores from the top of its head. These spores cause pain all over if inhaled.",
+            "Shroomish live in damp soil in the dark depths of forests. They are often found keeping still under fallen leaves. This Pok\u00e9mon feeds on compost that is made up of fallen, rotted leaves.",
+            "If Shroomish senses danger, it shakes its body and scatters spores from the top of its head. This Pok\u00e9mon\u2019s spores are so toxic, they make trees and weeds wilt.",
+            "It spouts poison spores from the top of its head. These spores cause pain all over the body if inhaled.",
+            "It prefers damp places. By day it remains still in the forest shade. It releases toxic powder from its head.",
+            "If it senses danger, it scatters spores from the top of its head to protect itself."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788822720565380/285.png",
+    "discord_sprite": "<:P285:1132125284238368828>"
+}

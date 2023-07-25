@@ -1,0 +1,177 @@
+{
+    "alt-version(s)": [],
+    "name": "Bunnelby",
+    "Bunnelby": {
+        "pokedex_data": {
+            "National No.": "0659",
+            "Type": [
+                "Normal"
+            ],
+            "Species": "Digging Poke\u0301mon",
+            "Height": "0.4 m (1\u203204\u2032\u2032)",
+            "Weight": "5.0 kg (11.0 lbs)",
+            "Abilities": {
+                "Pickup": {
+                    "href": "/ability/pickup",
+                    "effect": "The Pok\u00e9mon may pick up items.",
+                    "hidden": false
+                },
+                "Cheek Pouch": {
+                    "href": "/ability/cheek-pouch",
+                    "effect": "Restores additional HP when a Berry is consumed.",
+                    "hidden": false
+                },
+                "Huge Power": {
+                    "href": "/ability/huge-power",
+                    "effect": "Raises the Pok\u00e9mon's Attack stat.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Speed",
+            "Catch rate": "255",
+            "BaseFriendship": "50",
+            "Base Exp.": "47",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "38",
+                "Min": "186",
+                "Max": "280"
+            },
+            "Attack": {
+                "Base": "36",
+                "Min": "69",
+                "Max": "188"
+            },
+            "Defense": {
+                "Base": "38",
+                "Min": "72",
+                "Max": "192"
+            },
+            "Sp. Atk": {
+                "Base": "32",
+                "Min": "62",
+                "Max": "179"
+            },
+            "Sp. Def": {
+                "Base": "36",
+                "Min": "69",
+                "Max": "188"
+            },
+            "Speed": {
+                "Base": "57",
+                "Min": "107",
+                "Max": "234"
+            },
+            "Total": "237"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Bunnelby",
+                    "nationalNo": "#0659",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Diggersby",
+                    "nationalNo": "#0660",
+                    "type": [
+                        "Normal",
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 20)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Leer": "1",
+            "Mud-Slap": "1",
+            "Tackle": "3",
+            "Laser Focus": "6",
+            "Quick Attack": "9",
+            "Mud Shot": "12",
+            "Flail": "15",
+            "Double Kick": "18",
+            "Bulldoze": "21",
+            "Dig": "24",
+            "Bounce": "27",
+            "Take Down": "30",
+            "Swords Dance": "33",
+            "Earthquake": "36",
+            "Super Fang": "39"
+        },
+        "egg": {
+            "Defense Curl": null,
+            "Rollout": null
+        },
+        "tm": {
+            "Dig": "15",
+            "Rest": "21",
+            "Rock Slide": "22",
+            "Thief": "23",
+            "Snore": "24",
+            "Protect": "25",
+            "Attract": "31",
+            "Sandstorm": "32",
+            "Facade": "39",
+            "Brick Break": "43",
+            "Rock Tomb": "48",
+            "Bounce": "52",
+            "Mud Shot": "53",
+            "U-turn": "56",
+            "Payback": "57",
+            "Fling": "59",
+            "Round": "76",
+            "Bulldoze": "81"
+        },
+        "null": {
+            "Swords Dance": "00",
+            "Surf": "04",
+            "Earthquake": "10",
+            "Agility": "12",
+            "Substitute": "20",
+            "Sludge Bomb": "22",
+            "Spikes": "23",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Iron Tail": "31",
+            "Bulk Up": "48",
+            "Iron Head": "74",
+            "Stone Edge": "75",
+            "Grass Knot": "77",
+            "Work Up": "85",
+            "Wild Charge": "86"
+        }
+    },
+    "entries": {
+        "Bunnelby": [
+            "They use their large ears to dig burrows. They will dig the whole night through.",
+            "It has ears like shovels. Digging holes strengthens its ears so much that they can sever thick roots effortlessly.",
+            "It excels at digging holes. Using its ears, it can dig a nest 33 feet deep in one night.",
+            "It\u2019s very sensitive to danger. The sound of Corviknight\u2019s flapping will have Bunnelby digging a hole to hide underground in moments."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791739707998270/659.png",
+    "discord_sprite": "<:P659:1132141743370932295>"
+}

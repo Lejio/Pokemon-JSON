@@ -1,0 +1,196 @@
+{
+    "alt-version(s)": [],
+    "name": "Sunflora",
+    "Sunflora": {
+        "pokedex_data": {
+            "National No.": "0192",
+            "Type": [
+                "Grass"
+            ],
+            "Species": "Sun Poke\u0301mon",
+            "Height": "0.8 m (2\u203207\u2032\u2032)",
+            "Weight": "8.5 kg (18.7 lbs)",
+            "Abilities": {
+                "Chlorophyll": {
+                    "href": "/ability/chlorophyll",
+                    "effect": "Boosts the Pok\u00e9mon's Speed in sunshine.",
+                    "hidden": false
+                },
+                "Solar Power": {
+                    "href": "/ability/solar-power",
+                    "effect": "In sunshine, Sp. Atk is boosted but HP decreases.",
+                    "hidden": false
+                },
+                "Early Bird": {
+                    "href": "/ability/early-bird",
+                    "effect": "The Pok\u00e9mon awakens quickly from sleep.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Sp. Atk",
+            "Catch rate": "120",
+            "BaseFriendship": "50",
+            "Base Exp.": "149",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "75",
+                "Min": "260",
+                "Max": "354"
+            },
+            "Attack": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Defense": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Sp. Atk": {
+                "Base": "105",
+                "Min": "193",
+                "Max": "339"
+            },
+            "Sp. Def": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Speed": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Total": "425"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Poison": "super-effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Bug": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Sunkern",
+                    "nationalNo": "#0191",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Sunflora",
+                    "nationalNo": "#0192",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Sun Stone)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Growth": "1",
+            "Pound": "1",
+            "Tackle": "1",
+            "Ingrain": "4",
+            "Absorb": "7",
+            "Mega Drain": "10",
+            "Leech Seed": "13",
+            "Razor Leaf": "16",
+            "Worry Seed": "19",
+            "Giga Drain": "22",
+            "Bullet Seed": "25",
+            "Petal Dance": "28",
+            "Solar Beam": "31",
+            "Double-Edge": "34",
+            "Sunny Day": "39",
+            "Leaf Storm": "43",
+            "Petal Blizzard": "50"
+        },
+        "egg": {
+            "Curse": null,
+            "Encore": null,
+            "Grassy Terrain": null,
+            "Ingrain": null,
+            "Leech Seed": null,
+            "Morning Sun": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Protect": "07",
+            "Trailblaze": "20",
+            "Facade": "25",
+            "Magical Leaf": "33",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Bullet Seed": "56",
+            "Sleep Talk": "70",
+            "Seed Bomb": "71",
+            "Light Screen": "75",
+            "Dazzling Gleam": "79",
+            "Grass Knot": "81",
+            "Rest": "85",
+            "Swords Dance": "88",
+            "Substitute": "103",
+            "Giga Drain": "111",
+            "Energy Ball": "119",
+            "Encore": "122",
+            "Helping Hand": "130",
+            "Earth Power": "133",
+            "Grassy Terrain": "137",
+            "Sludge Bomb": "148",
+            "Giga Impact": "152",
+            "Leaf Storm": "159",
+            "Hyper Beam": "163",
+            "Solar Beam": "168",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Sunflora": [
+            "It converts sunlight into energy. In the darkness after sunset, it closes its petals and becomes still.",
+            "In the daytime, it rushes about in a hectic manner, but it comes to a complete stop when the sun sets.",
+            "As the hot season approaches, the petals on this pok\u00e9mon\u2019s face become more vivid and lively.",
+            "SUNFLORA converts solar energy into nutrition. It moves around actively in the daytime when it is warm. It stops moving as soon as the sun goes down for the night.",
+            "In the daytime, it rushes about in a hectic manner, but it comes to a complete stop when the sun sets.",
+            "It converts sunlight into energy. In the darkness after sunset, it closes its petals and becomes still.",
+            "SUNFLORA convert solar energy into nutrition. They are highly active in the warm daytime but suddenly stop moving as soon as the sun sets.",
+            "It gets energy from warm sunlight and is known for its habit of moving in pursuit of it.",
+            "It converts sunlight into energy. In the darkness after sunset, it closes its petals and becomes still.",
+            "In the daytime, it rushes about in a hectic manner, but it comes to a complete stop when the sun sets.",
+            "It gets energy from warm sunlight and is known for its habit of moving in pursuit of it.",
+            "Since it converts sunlight into energy, it is always looking in the direction of the sun.",
+            "As the hot season approaches, the petals on this Pok\u00e9mon\u2019s face become more vivid and lively.",
+            "It gets energy from warm sunlight and is known for its habit of moving in pursuit of it.",
+            "Sunflora converts solar energy into nutrition. It moves around actively in the daytime when it is warm. It stops moving as soon as the sun goes down for the night.",
+            "It gets energy from warm sunlight and is known for its habit of moving in pursuit of it.",
+            "In the daytime, it rushes about in a hectic manner, but it comes to a complete stop when the sun sets.",
+            "Since it converts sunlight into energy, it is always looking in the direction of the sun."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788090453799032/192.png",
+    "discord_sprite": "<:P192:1132121183266017331>"
+}

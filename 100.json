@@ -1,0 +1,362 @@
+{
+    "alt-version(s)": [
+        "Hisuian Voltorb"
+    ],
+    "name": "Voltorb",
+    "Voltorb": {
+        "pokedex_data": {
+            "National No.": "0100",
+            "Type": [
+                "Electric"
+            ],
+            "Species": "Ball Poke\u0301mon",
+            "Height": "0.5 m (1\u203208\u2032\u2032)",
+            "Weight": "10.4 kg (22.9 lbs)",
+            "Abilities": {
+                "Soundproof": {
+                    "href": "/ability/soundproof",
+                    "effect": "Gives immunity to <q>sound-based</q> moves.",
+                    "hidden": false
+                },
+                "Static": {
+                    "href": "/ability/static",
+                    "effect": "Contact with the Pok\u00e9mon may cause paralysis.",
+                    "hidden": false
+                },
+                "Aftermath": {
+                    "href": "/ability/aftermath",
+                    "effect": "Damages the attacker landing the finishing hit.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Speed",
+            "Catch rate": "190",
+            "BaseFriendship": "50",
+            "Base Exp.": "66",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "40",
+                "Min": "190",
+                "Max": "284"
+            },
+            "Attack": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Defense": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Atk": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Sp. Def": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Speed": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Total": "330"
+        },
+        "defense_stats": {
+            "default": {
+                "Electric": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "Hisuian Voltorb": {
+        "pokedex_data": {
+            "National No.": "0100",
+            "Type": [
+                "Electric",
+                "Grass"
+            ],
+            "Species": "Sphere Poke\u0301mon",
+            "Height": "0.5 m (1\u203208\u2032\u2032)",
+            "Weight": "13.0 kg (28.7 lbs)",
+            "Abilities": {
+                "Soundproof": {
+                    "href": "/ability/soundproof",
+                    "effect": "Gives immunity to <q>sound-based</q> moves.",
+                    "hidden": false
+                },
+                "Static": {
+                    "href": "/ability/static",
+                    "effect": "Contact with the Pok\u00e9mon may cause paralysis.",
+                    "hidden": false
+                },
+                "Aftermath": {
+                    "href": "/ability/aftermath",
+                    "effect": "Damages the attacker landing the finishing hit.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Speed",
+            "Catch rate": "190",
+            "BaseFriendship": "50",
+            "Base Exp.": "66",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "40",
+                "Min": "190",
+                "Max": "284"
+            },
+            "Attack": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Defense": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Atk": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Sp. Def": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Speed": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Total": "330"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Poison": "super-effective",
+                "Bug": "super-effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Voltorb",
+                    "nationalNo": "#0100",
+                    "type": [
+                        "Electric"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Electrode",
+                    "nationalNo": "#0101",
+                    "type": [
+                        "Electric"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 30)",
+                "shed": null
+            }
+        ],
+        [
+            {
+                "from": {
+                    "name": "Voltorb",
+                    "nationalNo": "#0100",
+                    "type": [
+                        "Electric",
+                        "Grass"
+                    ],
+                    "nickname": "Hisuian Voltorb"
+                },
+                "to": {
+                    "name": "Electrode",
+                    "nationalNo": "#0101",
+                    "type": [
+                        "Electric",
+                        "Grass"
+                    ],
+                    "nickname": "Hisuian Electrode"
+                },
+                "requirement": "(use Leaf Stone)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "Voltorb": {
+            "moves": {
+                "Charge": "1",
+                "Tackle": "1",
+                "Thunder Shock": "4",
+                "Eerie Impulse": "6",
+                "Spark": "9",
+                "Rollout": "11",
+                "Screech": "13",
+                "Charge Beam": "16",
+                "Swift": "20",
+                "Electro Ball": "22",
+                "Self-Destruct": "26",
+                "Light Screen": "29",
+                "Magnet Rise": "34",
+                "Discharge": "37",
+                "Explosion": "41",
+                "Gyro Ball": "46",
+                "Mirror Coat": "50"
+            },
+            "egg": {
+                "Metal Sound": null,
+                "Recycle": null
+            },
+            "tm": {
+                "Take Down": "01",
+                "Agility": "04",
+                "Protect": "07",
+                "Thief": "18",
+                "Charge Beam": "23",
+                "Facade": "25",
+                "Swift": "32",
+                "Endure": "47",
+                "Volt Switch": "48",
+                "Rain Dance": "50",
+                "Foul Play": "62",
+                "Sleep Talk": "70",
+                "Electro Ball": "72",
+                "Light Screen": "75",
+                "Thunder Wave": "82",
+                "Rest": "85",
+                "Taunt": "87",
+                "Eerie Impulse": "96",
+                "Substitute": "103",
+                "Thunderbolt": "126",
+                "Helping Hand": "130",
+                "Electric Terrain": "136",
+                "Wild Charge": "147",
+                "Thunder": "166",
+                "Tera Blast": "171"
+            }
+        },
+        "Hisuian Voltorb": {
+            "moves": {
+                "Charge": "1",
+                "Tackle": "1",
+                "Thunder Shock": "4",
+                "Stun Spore": "6",
+                "Bullet Seed": "9",
+                "Rollout": "11",
+                "Screech": "13",
+                "Charge Beam": "16",
+                "Swift": "20",
+                "Electro Ball": "22",
+                "Self-Destruct": "26",
+                "Energy Ball": "29",
+                "Discharge": "34",
+                "Seed Bomb": "34",
+                "Explosion": "41",
+                "Gyro Ball": "46",
+                "Grassy Terrain": "50"
+            },
+            "egg": {
+                "Leech Seed": null,
+                "Recycle": null,
+                "Worry Seed": null
+            },
+            "tm": {
+                "Take Down": "01",
+                "Agility": "04",
+                "Protect": "07",
+                "Thief": "18",
+                "Charge Beam": "23",
+                "Facade": "25",
+                "Swift": "32",
+                "Endure": "47",
+                "Volt Switch": "48",
+                "Rain Dance": "50",
+                "Bullet Seed": "56",
+                "Foul Play": "62",
+                "Sleep Talk": "70",
+                "Seed Bomb": "71",
+                "Electro Ball": "72",
+                "Reflect": "74",
+                "Grass Knot": "81",
+                "Thunder Wave": "82",
+                "Rest": "85",
+                "Taunt": "87",
+                "Substitute": "103",
+                "Giga Drain": "111",
+                "Energy Ball": "119",
+                "Thunderbolt": "126",
+                "Electric Terrain": "136",
+                "Grassy Terrain": "137",
+                "Wild Charge": "147",
+                "Leaf Storm": "159",
+                "Thunder": "166",
+                "Solar Beam": "168",
+                "Tera Blast": "171"
+            }
+        }
+    },
+    "entries": {
+        "Voltorb": [
+            "Usually found in power plants. Easily mistaken for a POK\u00e9 BALL, they have zapped many people.",
+            "It is said to camouflage itself as a POK\u00e9 BALL. It will self-destruct with very little stimulus.",
+            "It rolls to move. If the ground is uneven, a sudden jolt from hitting a bump can cause it to explode.",
+            "It was discovered when POK\u00e9 BALLS were introduced. It is said that there is some connection.",
+            "During the study of this pok\u00e9mon, it was discovered that its components are not found in nature.",
+            "VOLTORB was first sighted at a company that manufactures POK\u00e9 BALLS. The link between that sighting and the fact that this pok\u00e9mon looks very similar to a POK\u00e9 BALL remains a mystery.",
+            "VOLTORB is extremely sensitive - it explodes at the slightest of shocks. It is rumored that it was first created when a POK\u00e9 BALL was exposed to a powerful pulse of energy.",
+            "A life-form whose identity is unknown. It is said to SCREECH or suddenly SELFDESTRUCT.",
+            "Usually found in power plants. Easily mistaken for a POK\u00e9 BALL, it has zapped many people.",
+            "It bears an uncanny and unexplained resemblance to a POK\u00e9 BALL. Because it explodes at the slightest shock, even veteran TRAINERS treat it with caution.",
+            "It looks just like a Pok\u00e9 Ball. It is dangerous because it may electrocute or explode on touch.",
+            "It rolls to move. If the ground is uneven, a sudden jolt from hitting a bump can cause it to explode.",
+            "It was discovered when Pok\u00e9 Balls were introduced. It is said that there is some connection.",
+            "It looks just like a Pok\u00e9 Ball. It is dangerous because it may electrocute or explode on touch.",
+            "It looks just like a Pok\u00e9 Ball. It is dangerous because it may electrocute or explode on contact.",
+            "It was discovered when Pok\u00e9 Balls were introduced. It is said that there is some connection.",
+            "Usually found in power plants. Easily mistaken for a Pok\u00e9 Ball, it has zapped many people.",
+            "Voltorb was first sighted at a company that manufactures Pok\u00e9 Balls. The link between that sighting and the fact that this Pok\u00e9mon looks very similar to a Pok\u00e9 Ball remains a mystery.",
+            "Voltorb is extremely sensitive\u2014it explodes at the slightest of shocks. It is rumored that it was first created when a Pok\u00e9 Ball was exposed to a powerful pulse of energy.",
+            "It is said to camouflage itself as a Pok\u00e9 Ball. It will self-destruct with very little stimulus.",
+            "It looks just like a Pok\u00e9 Ball. It is dangerous because it may electrocute or explode on touch.",
+            "It rolls to move. If the ground is uneven, a sudden jolt from hitting a bump can cause it to explode.",
+            "It\u2019s usually found in power plants. Easily mistaken for a Pok\u00e9 Ball, it has zapped many people."
+        ],
+        "Hisuian Voltorb": [
+            "An enigmatic Pok\u00e9mon that happens to bear a resemblance to a Pok\u00e9 Ball. When excited, it discharges the electric current it has stored in its belly, then lets out a great, uproarious laugh."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787372338626641/100.png",
+    "discord_sprite": "<:P100:1132117123343331398>"
+}

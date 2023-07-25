@@ -1,0 +1,236 @@
+{
+    "alt-version(s)": [],
+    "name": "Slaking",
+    "Slaking": {
+        "pokedex_data": {
+            "National No.": "0289",
+            "Type": [
+                "Normal"
+            ],
+            "Species": "Lazy Poke\u0301mon",
+            "Height": "2.0 m (6\u203207\u2032\u2032)",
+            "Weight": "130.5 kg (287.7 lbs)",
+            "Abilities": {
+                "Truant": {
+                    "href": "/ability/truant",
+                    "effect": "Pok\u00e9mon can't attack on consecutive turns.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 HP",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "285",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "150",
+                "Min": "410",
+                "Max": "504"
+            },
+            "Attack": {
+                "Base": "160",
+                "Min": "292",
+                "Max": "460"
+            },
+            "Defense": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Sp. Atk": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Sp. Def": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Speed": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Total": "670"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Slakoth",
+                    "nationalNo": "#0287",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Vigoroth",
+                    "nationalNo": "#0288",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 18)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Vigoroth",
+                    "nationalNo": "#0288",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Slaking",
+                    "nationalNo": "#0289",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 36)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Encore": "1",
+            "Scratch": "1",
+            "Slack Off": "1",
+            "Sucker Punch": "1",
+            "Yawn": "1",
+            "Amnesia": "17",
+            "Covet": "23",
+            "Throat Chop": "27",
+            "Counter": "33",
+            "Flail": "39",
+            "Fling": "45",
+            "Mega Kick": "52",
+            "Hammer Arm": "63"
+        },
+        "evolution": {
+            "Swagger": "\u2014"
+        },
+        "egg": {
+            "After You": null,
+            "Body Slam": null,
+            "Crush Claw": null,
+            "Curse": null,
+            "Hammer Arm": null,
+            "Night Slash": null,
+            "Slash": null,
+            "Snore": null,
+            "Tickle": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Mud-Slap": "05",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Low Kick": "12",
+            "Thief": "18",
+            "Trailblaze": "20",
+            "Pounce": "21",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Bulldoze": "28",
+            "Metal Claw": "31",
+            "Icy Wind": "34",
+            "Mud Shot": "35",
+            "Rock Tomb": "36",
+            "Low Sweep": "39",
+            "Fling": "43",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Dig": "55",
+            "False Swipe": "57",
+            "Brick Break": "58",
+            "Zen Headbutt": "59",
+            "Shadow Claw": "61",
+            "Bulk Up": "64",
+            "Body Slam": "66",
+            "Fire Punch": "67",
+            "Thunder Punch": "68",
+            "Ice Punch": "69",
+            "Sleep Talk": "70",
+            "Seed Bomb": "71",
+            "Drain Punch": "73",
+            "Metronome": "80",
+            "Thunder Wave": "82",
+            "Poison Jab": "83",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Taunt": "87",
+            "Body Press": "89",
+            "Gunk Shot": "102",
+            "Substitute": "103",
+            "X-Scissor": "105",
+            "Shadow Ball": "114",
+            "Hyper Voice": "117",
+            "Heavy Slam": "121",
+            "Encore": "122",
+            "Flamethrower": "125",
+            "Thunderbolt": "126",
+            "Play Rough": "127",
+            "Amnesia": "128",
+            "Helping Hand": "130",
+            "Reversal": "134",
+            "Ice Beam": "135",
+            "Fire Blast": "141",
+            "Blizzard": "143",
+            "Wild Charge": "147",
+            "Earthquake": "149",
+            "Giga Impact": "152",
+            "Outrage": "156",
+            "Focus Blast": "158",
+            "Hyper Beam": "163",
+            "Thunder": "166",
+            "Solar Beam": "168",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Slaking": [
+            "SLAKING spends all day lying down and lolling about. It eats grass growing within its reach. If it eats all the grass it can reach, this pok\u00e9mon reluctantly moves to another spot.",
+            "Wherever SLAKING live, rings of over a yard in diameter appear in grassy fields. They are made by the pok\u00e9mon as it eats all the grass within reach while lying prone on the ground.",
+            "It is the world\u2019s most slothful pok\u00e9mon. However, it can exert horrifying power by releasing pent-up energy all at once.",
+            "Hordes of SLAKING gather around trees when fruits come into season. They wait around patiently for ripened fruits to fall out of the trees.",
+            "The world\u2019s laziest Pok\u00e9mon. When it is lounging, it is actually saving energy for striking back.",
+            "The world\u2019s laziest Pok\u00e9mon. It moves to another spot when there\u2019s no food left within its reach.",
+            "The world\u2019s laziest Pok\u00e9mon. When it is lounging, it is actually saving energy for striking back.",
+            "This Pok\u00e9mon lives lying on its side. It only rolls over and moves when there is no more grass to eat.",
+            "The world\u2019s laziest Pok\u00e9mon. It moves to another spot when there\u2019s no food left within its reach.",
+            "It is the world\u2019s most slothful Pok\u00e9mon. However, it can exert horrifying power by releasing pent-up energy all at once.",
+            "Slaking spends all day lying down and lolling about. It eats grass growing within its reach. If it eats all the grass it can reach, this Pok\u00e9mon reluctantly moves to another spot.",
+            "Wherever Slaking live, rings of over a yard in diameter appear in grassy fields. They are made by the Pok\u00e9mon as it eats all the grass within reach while lying prone on the ground.",
+            "It is the world\u2019s laziest Pok\u00e9mon. When it is lounging, it is actually saving energy for striking back.",
+            "It is the world\u2019s most slothful Pok\u00e9mon. However, it can exert horrifying power by releasing pent-up energy all at once.",
+            "This Pok\u00e9mon lives lying on its side. It only rolls over and moves when there is no more grass to eat."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788855528390776/289.png",
+    "discord_sprite": "<:P289:1132125459056963657>"
+}

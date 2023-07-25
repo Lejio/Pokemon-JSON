@@ -1,0 +1,313 @@
+{
+    "alt-version(s)": [
+        "White Kyurem",
+        "Black Kyurem"
+    ],
+    "name": "Kyurem",
+    "Kyurem": {
+        "pokedex_data": {
+            "National No.": "0646",
+            "Type": [
+                "Dragon",
+                "Ice"
+            ],
+            "Species": "Boundary Poke\u0301mon",
+            "Height": "3.0 m (9\u203210\u2032\u2032)",
+            "Weight": "325.0 kg (716.5 lbs)",
+            "Abilities": {
+                "Pressure": {
+                    "href": "/ability/pressure",
+                    "effect": "The Pok\u00e9mon raises the foe's PP usage.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 HP, 1 Attack, 1 Sp. Atk",
+            "Catch rate": "3",
+            "BaseFriendship": "0",
+            "Base Exp.": "297",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "125",
+                "Min": "360",
+                "Max": "454"
+            },
+            "Attack": {
+                "Base": "130",
+                "Min": "238",
+                "Max": "394"
+            },
+            "Defense": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Sp. Atk": {
+                "Base": "130",
+                "Min": "238",
+                "Max": "394"
+            },
+            "Sp. Def": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Speed": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Total": "660"
+        },
+        "defense_stats": {
+            "default": {
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Fighting": "super-effective",
+                "Rock": "super-effective",
+                "Dragon": "super-effective",
+                "Steel": "super-effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "White Kyurem": {
+        "pokedex_data": {
+            "National No.": "0646",
+            "Type": [
+                "Dragon",
+                "Ice"
+            ],
+            "Species": "Boundary Poke\u0301mon",
+            "Height": "3.6 m (11\u203210\u2032\u2032)",
+            "Weight": "325.0 kg (716.5 lbs)",
+            "Abilities": {
+                "Turboblaze": {
+                    "href": "/ability/turboblaze",
+                    "effect": "Moves can be used regardless of Abilities.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Sp. Atk",
+            "Catch rate": "3",
+            "BaseFriendship": "0",
+            "Base Exp.": "315",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "125",
+                "Min": "360",
+                "Max": "454"
+            },
+            "Attack": {
+                "Base": "120",
+                "Min": "220",
+                "Max": "372"
+            },
+            "Defense": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Sp. Atk": {
+                "Base": "170",
+                "Min": "310",
+                "Max": "482"
+            },
+            "Sp. Def": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Speed": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Total": "700"
+        },
+        "defense_stats": {
+            "default": {
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Fighting": "super-effective",
+                "Rock": "super-effective",
+                "Dragon": "super-effective",
+                "Steel": "super-effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "Black Kyurem": {
+        "pokedex_data": {
+            "National No.": "0646",
+            "Type": [
+                "Dragon",
+                "Ice"
+            ],
+            "Species": "Boundary Poke\u0301mon",
+            "Height": "3.3 m (10\u203210\u2032\u2032)",
+            "Weight": "325.0 kg (716.5 lbs)",
+            "Abilities": {
+                "Teravolt": {
+                    "href": "/ability/teravolt",
+                    "effect": "Moves can be used regardless of Abilities.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Attack",
+            "Catch rate": "3",
+            "BaseFriendship": "0",
+            "Base Exp.": "315",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "125",
+                "Min": "360",
+                "Max": "454"
+            },
+            "Attack": {
+                "Base": "170",
+                "Min": "310",
+                "Max": "482"
+            },
+            "Defense": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Sp. Atk": {
+                "Base": "120",
+                "Min": "220",
+                "Max": "372"
+            },
+            "Sp. Def": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Speed": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Total": "700"
+        },
+        "defense_stats": {
+            "default": {
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Fighting": "super-effective",
+                "Rock": "super-effective",
+                "Dragon": "super-effective",
+                "Steel": "super-effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Dual Wingbeat": "40",
+            "Scale Shot": "25"
+        },
+        "egg": {
+            "Dual Wingbeat": null,
+            "Scale Shot": null
+        },
+        "null": {
+            "Ice Beam": "05",
+            "Blizzard": "06",
+            "Psychic": "11",
+            "Substitute": "20",
+            "Outrage": "24",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Shadow Ball": "33",
+            "Hyper Voice": "42",
+            "Dragon Claw": "47",
+            "Dragon Dance": "51",
+            "Dragon Pulse": "62",
+            "Focus Blast": "64",
+            "Earth Power": "67",
+            "Zen Headbutt": "69",
+            "Flash Cannon": "70",
+            "Iron Head": "74",
+            "Stone Edge": "75",
+            "Body Press": "99"
+        },
+        "tm": {
+            "Fly": "06",
+            "Hyper Beam": "08",
+            "Giga Impact": "09",
+            "Light Screen": "17",
+            "Reflect": "18",
+            "Safeguard": "19",
+            "Rest": "21",
+            "Rock Slide": "22",
+            "Snore": "24",
+            "Protect": "25",
+            "Scary Face": "26",
+            "Icy Wind": "27",
+            "Steel Wing": "30",
+            "Rain Dance": "33",
+            "Sunny Day": "34",
+            "Hail": "35",
+            "Facade": "39",
+            "Swift": "40",
+            "Helping Hand": "41",
+            "Imprison": "44",
+            "Weather Ball": "46",
+            "Rock Tomb": "48",
+            "Icicle Spear": "51",
+            "Payback": "57",
+            "Fling": "59",
+            "Shadow Claw": "65",
+            "Round": "76",
+            "Brutal Swing": "97",
+            "Breaking Swipe": "99"
+        }
+    },
+    "entries": {
+        "Kyurem": [
+            "It generates a powerful, freezing energy inside itself, but its body became frozen when the energy leaked out.",
+            "It can produce ultracold air. Its body is frozen.",
+            "This legendary ice Pok\u00e9mon waits for a hero to fill in the missing parts of its body with truth or ideals.",
+            "This legendary ice Pok\u00e9mon waits for a hero to fill in the missing parts of its body with truth or ideals.",
+            "It generates a powerful, freezing energy inside itself, but its body became frozen when the energy leaked out.",
+            "Dwelling within it is a power even greater than that of Reshiram or Zekrom, but the extreme cold keeps that power bound.",
+            "It appears that this Pok\u00e9mon uses its powers over ice to freeze its own body in order to stabilize its cellular structure."
+        ],
+        "White Kyurem": [
+            "The sameness of Reshiram\u2019s and Kyurem\u2019s genes allowed Kyurem to absorb Reshiram. Kyurem can now use the power of both fire and ice.",
+            "It has foreseen that a world of truth will arrive for people and Pok\u00e9mon. It strives to protect that future."
+        ],
+        "Black Kyurem": [
+            "It\u2019s said that this Pok\u00e9mon battles in order to protect the ideal world that will exist in the future for people and Pok\u00e9mon.",
+            "The sameness of Zekrom\u2019s and Kyurem\u2019s genes allowed Kyurem to absorb Zekrom. Kyurem can now use the power of both electricity and ice."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791638591709254/646.png",
+    "discord_sprite": "<:P646:1132141166599606313>"
+}

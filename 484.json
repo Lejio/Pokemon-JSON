@@ -1,0 +1,254 @@
+{
+    "alt-version(s)": [
+        "Origin Forme"
+    ],
+    "name": "Palkia",
+    "Palkia": {
+        "pokedex_data": {
+            "National No.": "0484",
+            "Type": [
+                "Water",
+                "Dragon"
+            ],
+            "Species": "Spatial Poke\u0301mon",
+            "Height": "4.2 m (13\u203209\u2032\u2032)",
+            "Weight": "336.0 kg (740.8 lbs)",
+            "Abilities": {
+                "Pressure": {
+                    "href": "/ability/pressure",
+                    "effect": "The Pok\u00e9mon raises the foe's PP usage.",
+                    "hidden": false
+                },
+                "Telepathy": {
+                    "href": "/ability/telepathy",
+                    "effect": "Anticipates an ally's attack and dodges it.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Sp. Atk",
+            "Catch rate": "3",
+            "BaseFriendship": "0",
+            "Base Exp.": "340",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "90",
+                "Min": "290",
+                "Max": "384"
+            },
+            "Attack": {
+                "Base": "120",
+                "Min": "220",
+                "Max": "372"
+            },
+            "Defense": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Sp. Atk": {
+                "Base": "150",
+                "Min": "274",
+                "Max": "438"
+            },
+            "Sp. Def": {
+                "Base": "120",
+                "Min": "220",
+                "Max": "372"
+            },
+            "Speed": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Total": "680"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Dragon": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "Origin Forme": {
+        "pokedex_data": {
+            "National No.": "0484",
+            "Type": [
+                "Water",
+                "Dragon"
+            ],
+            "Species": "Spatial Poke\u0301mon",
+            "Height": "6.3 m (20\u203208\u2032\u2032)",
+            "Weight": "660.0 kg (1455.0 lbs)",
+            "Abilities": {
+                "Pressure": {
+                    "href": "/ability/pressure",
+                    "effect": "The Pok\u00e9mon raises the foe's PP usage.",
+                    "hidden": false
+                },
+                "Telepathy": {
+                    "href": "/ability/telepathy",
+                    "effect": "Anticipates an ally's attack and dodges it.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Sp. Atk",
+            "Catch rate": "3",
+            "BaseFriendship": "0",
+            "Base Exp.": "340",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "90",
+                "Min": "290",
+                "Max": "384"
+            },
+            "Attack": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Defense": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Sp. Atk": {
+                "Base": "150",
+                "Min": "274",
+                "Max": "438"
+            },
+            "Sp. Def": {
+                "Base": "120",
+                "Min": "220",
+                "Max": "372"
+            },
+            "Speed": {
+                "Base": "120",
+                "Min": "220",
+                "Max": "372"
+            },
+            "Total": "680"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Dragon": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Scary Face": "1",
+            "Water Pulse": "1",
+            "Dragon Breath": "8",
+            "Ancient Power": "16",
+            "Slash": "24",
+            "Aqua Ring": "32",
+            "Aura Sphere": "48",
+            "Power Gem": "56",
+            "Aqua Tail": "64",
+            "Earth Power": "72",
+            "Spacial Rend": "80",
+            "Hydro Pump": "88"
+        },
+        "egg": null,
+        "tm": {
+            "Take Down": "01",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Water Pulse": "11",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Bulldoze": "28",
+            "Swift": "32",
+            "Icy Wind": "34",
+            "Rock Tomb": "36",
+            "Fling": "43",
+            "Dragon Tail": "44",
+            "Avalanche": "46",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Sandstorm": "51",
+            "Snowscape": "52",
+            "Brick Break": "58",
+            "Shadow Claw": "61",
+            "Bulk Up": "64",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Waterfall": "77",
+            "Dragon Claw": "78",
+            "Thunder Wave": "82",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Body Press": "89",
+            "Power Gem": "101",
+            "Substitute": "103",
+            "Trick": "109",
+            "Liquidation": "110",
+            "Aura Sphere": "112",
+            "Dragon Pulse": "115",
+            "Hyper Voice": "117",
+            "Heavy Slam": "121",
+            "Surf": "123",
+            "Flamethrower": "125",
+            "Thunderbolt": "126",
+            "Earth Power": "133",
+            "Ice Beam": "135",
+            "Fire Blast": "141",
+            "Hydro Pump": "142",
+            "Blizzard": "143",
+            "Earthquake": "149",
+            "Stone Edge": "150",
+            "Giga Impact": "152",
+            "Outrage": "156",
+            "Focus Blast": "158",
+            "Trick Room": "161",
+            "Hyper Beam": "163",
+            "Thunder": "166",
+            "Draco Meteor": "169",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Palkia": [
+            "It has the ability to distort space. It is described as a deity in Sinnoh-region mythology.",
+            "It is said to live in a gap in the spatial dimension parallel to ours. It appears in mythology.",
+            "A legendary Pok\u00e9mon of Sinnoh. It is said that space becomes more stable with PALKIA\u2019s every breath.",
+            "Its total control over the boundaries of space enable it to transport itself to faraway places or even other dimensions.",
+            "A legendary Pok\u00e9mon of Sinnoh. It is said that space becomes more stable with Palkia\u2019s every breath.",
+            "It is said to live in a gap in the spatial dimension parallel to ours. It appears in mythology.",
+            "It has the ability to distort space. It is described as a deity in Sinnoh-region mythology.",
+            "It has the ability to distort space. It is described as a deity in Sinnoh-region mythology.",
+            "It is said to live in a gap in the spatial dimension parallel to ours. Palkia appears in mythology.",
+            "This Pok\u00e9mon is feared as a deity in Hisuian legend. The birth of Palkia was what caused the walls of our world to disappear, creating a sky that spans for infinity."
+        ],
+        "Origin Forme": [
+            "It soars across the sky in a form that greatly resembles the creator of all things. Perhaps this imitation of appearance is Palkia\u2019s strategy for gaining Arceus\u2019s powers."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790373241491516/484.png",
+    "discord_sprite": "<:P484:1132134030641471622>"
+}

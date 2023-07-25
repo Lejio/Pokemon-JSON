@@ -1,0 +1,472 @@
+{
+    "alt-version(s)": [
+        "Plant Cloak",
+        "Sandy Cloak",
+        "Trash Cloak"
+    ],
+    "Plant Cloak": {
+        "pokedex_data": {
+            "National No.": "0413",
+            "Type": [
+                "Bug",
+                "Grass"
+            ],
+            "Species": "Bagworm Poke\u0301mon",
+            "Height": "0.5 m (1\u203208\u2032\u2032)",
+            "Weight": "6.5 kg (14.3 lbs)",
+            "Abilities": {
+                "Anticipation": {
+                    "href": "/ability/anticipation",
+                    "effect": "Senses a foe's dangerous moves.",
+                    "hidden": false
+                },
+                "Overcoat": {
+                    "href": "/ability/overcoat",
+                    "effect": "Protects the Pok\u00e9mon from weather damage.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Sp. Def",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "148",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "0% male,100% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "60",
+                "Min": "230",
+                "Max": "324"
+            },
+            "Attack": {
+                "Base": "59",
+                "Min": "110",
+                "Max": "238"
+            },
+            "Defense": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Sp. Atk": {
+                "Base": "79",
+                "Min": "146",
+                "Max": "282"
+            },
+            "Sp. Def": {
+                "Base": "105",
+                "Min": "193",
+                "Max": "339"
+            },
+            "Speed": {
+                "Base": "36",
+                "Min": "69",
+                "Max": "188"
+            },
+            "Total": "424"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Poison": "super-effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Bug": "super-effective",
+                "Rock": "super-effective"
+            }
+        }
+    },
+    "Sandy Cloak": {
+        "pokedex_data": {
+            "National No.": "0413",
+            "Type": [
+                "Bug",
+                "Ground"
+            ],
+            "Species": "Bagworm Poke\u0301mon",
+            "Height": "0.5 m (1\u203208\u2032\u2032)",
+            "Weight": "6.5 kg (14.3 lbs)",
+            "Abilities": {
+                "Anticipation": {
+                    "href": "/ability/anticipation",
+                    "effect": "Senses a foe's dangerous moves.",
+                    "hidden": false
+                },
+                "Overcoat": {
+                    "href": "/ability/overcoat",
+                    "effect": "Protects the Pok\u00e9mon from weather damage.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Defense",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "148",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "0% male,100% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "60",
+                "Min": "230",
+                "Max": "324"
+            },
+            "Attack": {
+                "Base": "79",
+                "Min": "146",
+                "Max": "282"
+            },
+            "Defense": {
+                "Base": "105",
+                "Min": "193",
+                "Max": "339"
+            },
+            "Sp. Atk": {
+                "Base": "59",
+                "Min": "110",
+                "Max": "238"
+            },
+            "Sp. Def": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Speed": {
+                "Base": "36",
+                "Min": "69",
+                "Max": "188"
+            },
+            "Total": "424"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Water": "super-effective",
+                "Electric": "no effect",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Poison": "not very effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective"
+            }
+        }
+    },
+    "Trash Cloak": {
+        "pokedex_data": {
+            "National No.": "0413",
+            "Type": [
+                "Bug",
+                "Steel"
+            ],
+            "Species": "Bagworm Poke\u0301mon",
+            "Height": "0.5 m (1\u203208\u2032\u2032)",
+            "Weight": "6.5 kg (14.3 lbs)",
+            "Abilities": {
+                "Anticipation": {
+                    "href": "/ability/anticipation",
+                    "effect": "Senses a foe's dangerous moves.",
+                    "hidden": false
+                },
+                "Overcoat": {
+                    "href": "/ability/overcoat",
+                    "effect": "Protects the Pok\u00e9mon from weather damage.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Defense, 1 Sp. Def",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "148",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "0% male,100% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "60",
+                "Min": "230",
+                "Max": "324"
+            },
+            "Attack": {
+                "Base": "69",
+                "Min": "128",
+                "Max": "260"
+            },
+            "Defense": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Sp. Atk": {
+                "Base": "69",
+                "Min": "128",
+                "Max": "260"
+            },
+            "Sp. Def": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Speed": {
+                "Base": "36",
+                "Min": "69",
+                "Max": "188"
+            },
+            "Total": "424"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Fire": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Poison": "no effect",
+                "Psychic": "not very effective",
+                "Bug": "not very effective",
+                "Dragon": "not very effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Burmy",
+                    "nationalNo": "#0412",
+                    "type": [
+                        "Bug"
+                    ],
+                    "nickname": "All forms"
+                },
+                "to": {
+                    "name": "Mothim",
+                    "nationalNo": "#0414",
+                    "type": [
+                        "Bug",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 20, Male)",
+                "shed": null
+            }
+        ],
+        [
+            {
+                "from": {
+                    "name": "Burmy",
+                    "nationalNo": "#0412",
+                    "type": [
+                        "Bug"
+                    ],
+                    "nickname": "Plant Cloak"
+                },
+                "to": {
+                    "name": "Wormadam",
+                    "nationalNo": "#0413",
+                    "type": [
+                        "Bug",
+                        "Grass"
+                    ],
+                    "nickname": "Plant Cloak"
+                },
+                "requirement": "(Level 20, Female, in grass)",
+                "shed": null
+            }
+        ],
+        [
+            {
+                "from": {
+                    "name": "Burmy",
+                    "nationalNo": "#0412",
+                    "type": [
+                        "Bug"
+                    ],
+                    "nickname": "Sandy Cloak"
+                },
+                "to": {
+                    "name": "Wormadam",
+                    "nationalNo": "#0413",
+                    "type": [
+                        "Bug",
+                        "Ground"
+                    ],
+                    "nickname": "Sandy Cloak"
+                },
+                "requirement": "(Level 20, Female, in caves)",
+                "shed": null
+            }
+        ],
+        [
+            {
+                "from": {
+                    "name": "Burmy",
+                    "nationalNo": "#0412",
+                    "type": [
+                        "Bug"
+                    ],
+                    "nickname": "Trash Cloak"
+                },
+                "to": {
+                    "name": "Wormadam",
+                    "nationalNo": "#0413",
+                    "type": [
+                        "Bug",
+                        "Steel"
+                    ],
+                    "nickname": "Trash Cloak"
+                },
+                "requirement": "(Level 20, Female, in buildings)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Quiver Dance": "\u2014"
+        },
+        "evolution": {
+            "Quiver Dance": "\u2014"
+        },
+        "egg": null,
+        "Plant Cloak": {
+            "tm": {
+                "Bullet Seed": "09",
+                "Sunny Day": "11",
+                "Hyper Beam": "15",
+                "Protect": "17",
+                "Rain Dance": "18",
+                "Giga Drain": "19",
+                "Safeguard": "20",
+                "Solar Beam": "22",
+                "Dig": "28",
+                "Psychic": "29",
+                "Shadow Ball": "30",
+                "Double Team": "32",
+                "Facade": "42",
+                "Rest": "44",
+                "Attract": "45",
+                "Thief": "46",
+                "Skill Swap": "48",
+                "Energy Ball": "53",
+                "Endure": "58",
+                "Bug Buzz": "62",
+                "Giga Impact": "68",
+                "Flash": "70",
+                "Psych Up": "77",
+                "Sleep Talk": "82",
+                "Dream Eater": "85",
+                "Grass Knot": "86",
+                "Swagger": "87",
+                "Substitute": "90"
+            }
+        },
+        "Sandy Cloak": {
+            "tm": {
+                "Sunny Day": "11",
+                "Hyper Beam": "15",
+                "Protect": "17",
+                "Rain Dance": "18",
+                "Giga Drain": "19",
+                "Safeguard": "20",
+                "Solar Beam": "22",
+                "Earthquake": "26",
+                "Dig": "28",
+                "Psychic": "29",
+                "Shadow Ball": "30",
+                "Double Team": "32",
+                "Sandstorm": "37",
+                "Rock Tomb": "39",
+                "Facade": "42",
+                "Rest": "44",
+                "Attract": "45",
+                "Thief": "46",
+                "Skill Swap": "48",
+                "Endure": "58",
+                "Bug Buzz": "62",
+                "Giga Impact": "68",
+                "Flash": "70",
+                "Stealth Rock": "76",
+                "Psych Up": "77",
+                "Sleep Talk": "82",
+                "Bulldoze": "83",
+                "Dream Eater": "85",
+                "Swagger": "87",
+                "Substitute": "90"
+            }
+        },
+        "Trash Cloak": {
+            "tm": {
+                "Sunny Day": "11",
+                "Hyper Beam": "15",
+                "Protect": "17",
+                "Rain Dance": "18",
+                "Giga Drain": "19",
+                "Safeguard": "20",
+                "Solar Beam": "22",
+                "Dig": "28",
+                "Psychic": "29",
+                "Shadow Ball": "30",
+                "Double Team": "32",
+                "Facade": "42",
+                "Rest": "44",
+                "Attract": "45",
+                "Thief": "46",
+                "Skill Swap": "48",
+                "Endure": "58",
+                "Bug Buzz": "62",
+                "Giga Impact": "68",
+                "Flash": "70",
+                "Gyro Ball": "74",
+                "Stealth Rock": "76",
+                "Psych Up": "77",
+                "Sleep Talk": "82",
+                "Dream Eater": "85",
+                "Swagger": "87",
+                "Substitute": "90",
+                "Flash Cannon": "91"
+            }
+        }
+    },
+    "entries": {
+        "Plant Cloak": [
+            "When BURMY evolved, its cloak became a part of this Pok\u00e9mon\u2019s body. The cloak is never shed.",
+            "Its appearance changes depending on where it evolved. The materials on hand become a part of its body.",
+            "When evolving, its body takes in surrounding materials. As a result, there are many body variations.",
+            "It is said that a WORMADAM that evolves on a cold day will have a thicker cloak.",
+            "When evolving, its body takes in surrounding materials. As a result, there are many body variations.",
+            "Its appearance changes depending on where it evolved. The materials on hand become a part of its body.",
+            "When Burmy evolved, its cloak became a part of this Pok\u00e9mon\u2019s body. The cloak is never shed.",
+            "When Burmy evolves, its cloak becomes a part of its body. Wormadam\u2019s cloak is never shed.",
+            "Its appearance changes depending on where it evolved. The materials on hand become a part of its body.",
+            "The cloak\u2014fashioned from plant matter\u2014has merged with the Pok\u00e9mon and is now part of the body, like fur or skin. I suspect this fusion is an effect of the energy involved in evolution."
+        ],
+        "Sandy Cloak": [
+            "Its earthen skin is reasonably hard\u2014it has no problem repelling a Starly\u2019s pecking, at least."
+        ],
+        "Trash Cloak": [
+            "Its body, composed of refuse, blends in to the scenery so much as to be inconspicuous. This seems to be the perfect way for the Pok\u00e9mon to evade the detection of predators."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789822793625681/413.png",
+    "discord_sprite": "<:P413:1132130905352306699>"
+}

@@ -1,0 +1,195 @@
+{
+    "alt-version(s)": [],
+    "name": "Nosepass",
+    "Nosepass": {
+        "pokedex_data": {
+            "National No.": "0299",
+            "Type": [
+                "Rock"
+            ],
+            "Species": "Compass Poke\u0301mon",
+            "Height": "1.0 m (3\u203203\u2032\u2032)",
+            "Weight": "97.0 kg (213.8 lbs)",
+            "Abilities": {
+                "Sturdy": {
+                    "href": "/ability/sturdy",
+                    "effect": "It cannot be knocked out with one hit.",
+                    "hidden": false
+                },
+                "Magnet Pull": {
+                    "href": "/ability/magnet-pull",
+                    "effect": "Prevents Steel-type Pok\u00e9mon from escaping.",
+                    "hidden": false
+                },
+                "Sand Force": {
+                    "href": "/ability/sand-force",
+                    "effect": "Boosts certain moves' power in a sandstorm.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Defense",
+            "Catch rate": "255",
+            "BaseFriendship": "50",
+            "Base Exp.": "75",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "30",
+                "Min": "170",
+                "Max": "264"
+            },
+            "Attack": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Defense": {
+                "Base": "135",
+                "Min": "247",
+                "Max": "405"
+            },
+            "Sp. Atk": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Sp. Def": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Speed": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Total": "375"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Grass": "super-effective",
+                "Fighting": "super-effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Nosepass",
+                    "nationalNo": "#0299",
+                    "type": [
+                        "Rock"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Probopass",
+                    "nationalNo": "#0476",
+                    "type": [
+                        "Rock",
+                        "Steel"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(level up in a Magnetic Field area)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Tackle": "1",
+            "Harden": "4",
+            "Block": "7",
+            "Rock Throw": "10",
+            "Thunder Wave": "13",
+            "Rest": "16",
+            "Spark": "19",
+            "Rock Slide": "22",
+            "Power Gem": "25",
+            "Rock Blast": "28",
+            "Discharge": "31",
+            "Sandstorm": "34",
+            "Earth Power": "37",
+            "Stone Edge": "40",
+            "Lock-On": "43",
+            "Zap Cannon": "43"
+        },
+        "egg": {
+            "Block": null,
+            "Double-Edge": null,
+            "Rollout": null,
+            "Wide Guard": null
+        },
+        "tm": {
+            "Sunny Day": "11",
+            "Taunt": "12",
+            "Protect": "17",
+            "Dazzling Gleam": "21",
+            "Thunderbolt": "24",
+            "Thunder": "25",
+            "Earthquake": "26",
+            "Double Team": "32",
+            "Shock Wave": "34",
+            "Sandstorm": "37",
+            "Rock Tomb": "39",
+            "Torment": "41",
+            "Facade": "42",
+            "Volt Switch": "43",
+            "Rest": "44",
+            "Attract": "45",
+            "Endure": "58",
+            "Explosion": "64",
+            "Rock Polish": "69",
+            "Stone Edge": "71",
+            "Thunder Wave": "73",
+            "Stealth Rock": "76",
+            "Rock Slide": "80",
+            "Sleep Talk": "82",
+            "Bulldoze": "83",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Strength": "96",
+            "Rock Smash": "98"
+        }
+    },
+    "entries": {
+        "Nosepass": [
+            "NOSEPASS\u2019s magnetic nose is always pointed to the north. If two of these pok\u00e9mon meet, they cannot turn their faces to each other when they are close because their magnetic noses repel one another.",
+            "NOSEPASS had been said to be completely unmoving, with its magnetic nose pointed due north. However, close observation has revealed that the pok\u00e9mon actually moves by a little over 3/8 of an inch every year.",
+            "Its magnetic nose consistently faces north. Travelers check NOSEPASS to get their bearings.",
+            "Its body emits a powerful magnetism. It feeds on prey that is pulled in by the force. Its magnetism is stronger in cold seasons.",
+            "Its nose is a magnet. As a result, this Pok\u00e9mon always keeps its face pointing north.",
+            "When endangered, it may protect itself by raising its magnetism and drawing iron objects to its body.",
+            "If two of these meet, they cannot get too close because their noses repel each other.",
+            "When endangered, it may protect itself by raising its magnetism and drawing iron objects to its body.",
+            "Its magnetic nose always faces north and draws iron objects to its body to protect itself better.",
+            "Its magnetic nose always faces north and draws iron objects to its body to protect itself better.",
+            "Its magnetic nose consistently faces north. Travelers check Nosepass to get their bearings.",
+            "Nosepass\u2019s magnetic nose is always pointed to the north. If two of these Pok\u00e9mon meet, they cannot turn their faces to each other when they are close because their magnetic noses repel one another.",
+            "Nosepass had been said to be completely unmoving, with its magnetic nose pointed due north. However, close observation has revealed that the Pok\u00e9mon actually moves by a little over 3/8 of an inch every year.",
+            "The magnet in Nosepass\u2019s nose provides an unerring compass, making it an excellent partner for Trainers going on a journey.",
+            "It uses powerful magnetism to drag its prey toward it. It\u2019s also been known to pull in metal, which it collects and uses to protect itself.",
+            "It moves less than an inch a year, but when it\u2019s in a jam, it will spin and drill down into the ground in a split second.",
+            "It hunts without twitching a muscle by pulling in its prey with powerful magnetism. But sometimes it pulls natural enemies in close.",
+            "Its nose is a magnet. As a result, this Pok\u00e9mon always keeps its face pointing north.",
+            "Once the people of Hisui discovered that its red nose always points north, they grew to rely on it greatly when traveling afar. The nose seems to work in a similar way to ancient compasses."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788936868544643/299.png",
+    "discord_sprite": "<:P299:1132125897131049060>"
+}

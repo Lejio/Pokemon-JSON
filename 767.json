@@ -1,0 +1,156 @@
+{
+    "alt-version(s)": [],
+    "name": "Wimpod",
+    "Wimpod": {
+        "pokedex_data": {
+            "National No.": "0767",
+            "Type": [
+                "Bug",
+                "Water"
+            ],
+            "Species": "Turn Tail Poke\u0301mon",
+            "Height": "0.5 m (1\u203208\u2032\u2032)",
+            "Weight": "12.0 kg (26.5 lbs)",
+            "Abilities": {
+                "Wimp Out": {
+                    "href": "/ability/wimp-out",
+                    "effect": "Switches out when HP drops below half.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Speed",
+            "Catch rate": "90",
+            "BaseFriendship": "50",
+            "Base Exp.": "46",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "25",
+                "Min": "160",
+                "Max": "254"
+            },
+            "Attack": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Defense": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Atk": {
+                "Base": "20",
+                "Min": "40",
+                "Max": "152"
+            },
+            "Sp. Def": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Speed": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Total": "230"
+        },
+        "defense_stats": {
+            "default": {
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "not very effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Rock": "super-effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Wimpod",
+                    "nationalNo": "#0767",
+                    "type": [
+                        "Bug",
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Golisopod",
+                    "nationalNo": "#0768",
+                    "type": [
+                        "Bug",
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 30)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Defense Curl": "1",
+            "Sand Attack": "1",
+            "Struggle Bug": "1"
+        },
+        "egg": {
+            "Aqua Jet": null,
+            "Harden": null,
+            "Metal Claw": null,
+            "Rollout": null,
+            "Wide Guard": null
+        },
+        "null": {
+            "Surf": "04",
+            "Waterfall": "16",
+            "Leech Life": "18",
+            "Substitute": "20",
+            "Spikes": "23",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Taunt": "37",
+            "Bug Buzz": "61",
+            "Scald": "84"
+        },
+        "tm": {
+            "Screech": "16",
+            "Rest": "21",
+            "Snore": "24",
+            "Protect": "25",
+            "Attract": "31",
+            "Rain Dance": "33",
+            "Hail": "35",
+            "Facade": "39",
+            "Swift": "40",
+            "Mud Shot": "53",
+            "Assurance": "58",
+            "Round": "76"
+        }
+    },
+    "entries": {
+        "Wimpod": [
+            "This Pok\u00e9mon is a coward. As it desperately dashes off, the flailing of its many legs leaves a sparkling clean path in its wake.",
+            "Its habitat varies from beaches to seabeds. A natural scavenger, it will gleefully chow down on anything edible, no matter how rotten.",
+            "It will pick up anything it finds on the ground. Sometimes it finds coins, so Murkrow and Meowth will go after it.",
+            "An astonishingly cowardly Pok\u00e9mon, Wimpod will whir its legs at high speeds to run away if anything comes near it.",
+            "It\u2019s nature\u2019s cleaner\u2014it eats anything and everything, including garbage and rotten things. The ground near its nest is always clean.",
+            "Wimpod gather in swarms, constantly on the lookout for danger. They scatter the moment they detect an enemy\u2019s presence."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792588572217424/767.png",
+    "discord_sprite": "<:P767:1132146550332723391>"
+}

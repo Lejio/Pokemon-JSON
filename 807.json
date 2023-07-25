@@ -1,0 +1,168 @@
+{
+    "alt-version(s)": [],
+    "name": "Zeraora",
+    "Zeraora": {
+        "pokedex_data": {
+            "National No.": "0807",
+            "Type": [
+                "Electric"
+            ],
+            "Species": "Thunderclap Poke\u0301mon",
+            "Height": "1.5 m (4\u203211\u2032\u2032)",
+            "Weight": "44.5 kg (98.1 lbs)",
+            "Abilities": {
+                "Volt Absorb": {
+                    "href": "/ability/volt-absorb",
+                    "effect": "Restores HP if hit by an Electric-type move.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Speed",
+            "Catch rate": "3",
+            "BaseFriendship": "0",
+            "Base Exp.": "270",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "88",
+                "Min": "286",
+                "Max": "380"
+            },
+            "Attack": {
+                "Base": "112",
+                "Min": "206",
+                "Max": "355"
+            },
+            "Defense": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Sp. Atk": {
+                "Base": "102",
+                "Min": "188",
+                "Max": "333"
+            },
+            "Sp. Def": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Speed": {
+                "Base": "143",
+                "Min": "261",
+                "Max": "423"
+            },
+            "Total": "600"
+        },
+        "defense_stats": {
+            "default": {
+                "Electric": "no effect",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Fake Out": "1",
+            "Power-Up Punch": "1",
+            "Quick Attack": "1",
+            "Scratch": "1",
+            "Snarl": "1",
+            "Spark": "1",
+            "Fury Swipes": "8",
+            "Quick Guard": "16",
+            "Slash": "24",
+            "Volt Switch": "32",
+            "Charge": "40",
+            "Thunder Punch": "48",
+            "Hone Claws": "56",
+            "Discharge": "64",
+            "Wild Charge": "72",
+            "Agility": "80",
+            "Plasma Fists": "88",
+            "Close Combat": "96"
+        },
+        "egg": {
+            "Coaching": null,
+            "Rising Voltage": null
+        },
+        "null": {
+            "Low Kick": "07",
+            "Thunderbolt": "08",
+            "Thunder": "09",
+            "Agility": "12",
+            "Substitute": "20",
+            "Reversal": "21",
+            "Outrage": "24",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Iron Tail": "31",
+            "Taunt": "37",
+            "Superpower": "39",
+            "Blaze Kick": "41",
+            "Bulk Up": "48",
+            "Calm Mind": "49",
+            "Close Combat": "53",
+            "Aura Sphere": "56",
+            "Focus Blast": "64",
+            "Grass Knot": "77",
+            "Electro Ball": "80",
+            "Work Up": "85",
+            "Wild Charge": "86",
+            "Play Rough": "90",
+            "Throat Chop": "95"
+        },
+        "tm": {
+            "Mega Punch": "00",
+            "Mega Kick": "01",
+            "Pay Day": "02",
+            "Fire Punch": "03",
+            "Thunder Punch": "05",
+            "Hyper Beam": "08",
+            "Giga Impact": "09",
+            "Thunder Wave": "14",
+            "Rest": "21",
+            "Snore": "24",
+            "Protect": "25",
+            "Scary Face": "26",
+            "Facade": "39",
+            "Swift": "40",
+            "Helping Hand": "41",
+            "Revenge": "42",
+            "Brick Break": "43",
+            "Bounce": "52",
+            "Assurance": "58",
+            "Fling": "59",
+            "Drain Punch": "63",
+            "Low Sweep": "75",
+            "Round": "76",
+            "Acrobatics": "78",
+            "Volt Switch": "80",
+            "Electroweb": "82",
+            "Snarl": "85",
+            "Electric Terrain": "90",
+            "False Swipe": "94",
+            "Brutal Swing": "97"
+        }
+    },
+    "entries": {
+        "Zeraora": [
+            "It electrifies its claws and tears its opponents apart with them. Even if they dodge its attack, they\u2019ll be electrocuted by the flying sparks.",
+            "It approaches its enemies at the speed of lightning, then tears them limb from limb with its sharp claws.",
+            "It runs as fast as lightning strikes, shredding its opponents with its high-voltage claws.",
+            "Electricity sparks from the pads on its limbs. Wherever Zeraora runs, lightning flashes and thunder echoes."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792897918914631/807.png",
+    "discord_sprite": "<:P807:1132148311252553758>"
+}

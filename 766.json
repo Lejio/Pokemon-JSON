@@ -1,0 +1,163 @@
+{
+    "alt-version(s)": [],
+    "name": "Passimian",
+    "Passimian": {
+        "pokedex_data": {
+            "National No.": "0766",
+            "Type": [
+                "Fighting"
+            ],
+            "Species": "Teamwork Poke\u0301mon",
+            "Height": "2.0 m (6\u203207\u2032\u2032)",
+            "Weight": "82.8 kg (182.5 lbs)",
+            "Abilities": {
+                "Receiver": {
+                    "href": "/ability/receiver",
+                    "effect": "Inherits an ally's ability when it faints.",
+                    "hidden": false
+                },
+                "Defiant": {
+                    "href": "/ability/defiant",
+                    "effect": "Sharply raises Attack when the Pok\u00e9mon's stats are lowered.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "172",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "100",
+                "Min": "310",
+                "Max": "404"
+            },
+            "Attack": {
+                "Base": "120",
+                "Min": "220",
+                "Max": "372"
+            },
+            "Defense": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Sp. Atk": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Def": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Speed": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Total": "490"
+        },
+        "defense_stats": {
+            "default": {
+                "Flying": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Dark": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Leer": "1",
+            "Tackle": "1",
+            "Rock Smash": "5",
+            "Focus Energy": "10",
+            "Beat Up": "15",
+            "Scary Face": "20",
+            "Take Down": "25",
+            "Fling": "30",
+            "Bulk Up": "35",
+            "Thrash": "40",
+            "Double-Edge": "45",
+            "Close Combat": "50",
+            "Reversal": "55",
+            "Giga Impact": "60"
+        },
+        "egg": {
+            "Counter": null,
+            "Feint": null,
+            "Knock Off": null,
+            "Quick Attack": null,
+            "Quick Guard": null,
+            "Seismic Toss": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Low Kick": "12",
+            "Acrobatics": "14",
+            "Thief": "18",
+            "Trailblaze": "20",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Bulldoze": "28",
+            "Rock Tomb": "36",
+            "Low Sweep": "39",
+            "Fling": "43",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Brick Break": "58",
+            "U-turn": "60",
+            "Bulk Up": "64",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Seed Bomb": "71",
+            "Drain Punch": "73",
+            "Grass Knot": "81",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Taunt": "87",
+            "Iron Head": "99",
+            "Gunk Shot": "102",
+            "Substitute": "103",
+            "Shadow Ball": "114",
+            "Energy Ball": "119",
+            "Baton Pass": "132",
+            "Reversal": "134",
+            "Earthquake": "149",
+            "Giga Impact": "152",
+            "Focus Blast": "158",
+            "Hyper Beam": "163",
+            "Close Combat": "167",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Passimian": [
+            "They form groups of roughly 20 individuals. Their mutual bond is remarkable\u2014they will never let down a comrade.",
+            "They battle with hard berries for weapons. Their techniques are passed from the boss to the group, generation upon generation.",
+            "They use their saliva to stick leaves to their shoulders. You can tell what troop they belong to from the position of the leaves.",
+            "Berries are its weapons as well as the staple of its diet. The one that can throw a berry the farthest is the boss of the troop.",
+            "Displaying amazing teamwork, they follow the orders of their boss as they all help out in the search for their favorite berries.",
+            "Passimian live in groups of about 20, with each member performing an assigned role. Through cooperation, the group survives.",
+            "This Pok\u00e9mon battles by throwing hard berries. It won\u2019t obey a Trainer who throws Pok\u00e9 Balls without skill.",
+            "The boss chooses 10 members of the group to go out hunting. The hunting party will evenly split the food they find with the rest of the group."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792580691103945/766.png",
+    "discord_sprite": "<:P766:1132146506829402172>"
+}

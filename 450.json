@@ -1,0 +1,189 @@
+{
+    "alt-version(s)": [],
+    "name": "Hippowdon",
+    "Hippowdon": {
+        "pokedex_data": {
+            "National No.": "0450",
+            "Type": [
+                "Ground"
+            ],
+            "Species": "Heavyweight Poke\u0301mon",
+            "Height": "2.0 m (6\u203207\u2032\u2032)",
+            "Weight": "300.0 kg (661.4 lbs)",
+            "Abilities": {
+                "Sand Stream": {
+                    "href": "/ability/sand-stream",
+                    "effect": "The Pok\u00e9mon summons a sandstorm in battle.",
+                    "hidden": false
+                },
+                "Sand Force": {
+                    "href": "/ability/sand-force",
+                    "effect": "Boosts certain moves' power in a sandstorm.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Defense",
+            "Catch rate": "60",
+            "BaseFriendship": "50",
+            "Base Exp.": "184",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "108",
+                "Min": "326",
+                "Max": "420"
+            },
+            "Attack": {
+                "Base": "112",
+                "Min": "206",
+                "Max": "355"
+            },
+            "Defense": {
+                "Base": "118",
+                "Min": "216",
+                "Max": "368"
+            },
+            "Sp. Atk": {
+                "Base": "68",
+                "Min": "126",
+                "Max": "258"
+            },
+            "Sp. Def": {
+                "Base": "72",
+                "Min": "134",
+                "Max": "267"
+            },
+            "Speed": {
+                "Base": "47",
+                "Min": "89",
+                "Max": "212"
+            },
+            "Total": "525"
+        },
+        "defense_stats": {
+            "default": {
+                "Water": "super-effective",
+                "Electric": "no effect",
+                "Grass": "super-effective",
+                "Ice": "super-effective",
+                "Poison": "not very effective",
+                "Rock": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Hippopotas",
+                    "nationalNo": "#0449",
+                    "type": [
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Hippowdon",
+                    "nationalNo": "#0450",
+                    "type": [
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 34)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Bite": "1",
+            "Fire Fang": "1",
+            "Ice Fang": "1",
+            "Sand Attack": "1",
+            "Tackle": "1",
+            "Thunder Fang": "1",
+            "Yawn": "1",
+            "Sand Tomb": "12",
+            "Dig": "16",
+            "Crunch": "20",
+            "Sandstorm": "24",
+            "Take Down": "28",
+            "Roar": "32",
+            "Rest": "38",
+            "Earthquake": "44",
+            "Double-Edge": "50",
+            "Fissure": "56",
+            "Slack Off": "62"
+        },
+        "egg": {
+            "Curse": null,
+            "Spit Up": null,
+            "Stockpile": null,
+            "Swallow": null,
+            "Whirlwind": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Mud-Slap": "05",
+            "Protect": "07",
+            "Fire Fang": "08",
+            "Thunder Fang": "09",
+            "Ice Fang": "10",
+            "Facade": "25",
+            "Bulldoze": "28",
+            "Mud Shot": "35",
+            "Rock Tomb": "36",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Sandstorm": "51",
+            "Dig": "55",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Body Press": "89",
+            "Iron Head": "99",
+            "Substitute": "103",
+            "Crunch": "108",
+            "Stealth Rock": "116",
+            "Hyper Voice": "117",
+            "Heavy Slam": "121",
+            "Amnesia": "128",
+            "Helping Hand": "130",
+            "Earth Power": "133",
+            "Earthquake": "149",
+            "Stone Edge": "150",
+            "Giga Impact": "152",
+            "Hyper Beam": "163",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Hippowdon": [
+            "It blasts internally stored sand from ports on its body to create a towering twister for attack.",
+            "Its huge mouth is almost seven feet across. It has enough power to completely crush a car.",
+            "It is surprisingly quick to anger. It holds its mouth agape as a display of its strength.",
+            "It brandishes its gaping mouth in a display of fearsome strength. It raises vast quantities of sand while attacking.",
+            "It is surprisingly quick to anger. It holds its mouth agape as a display of its strength.",
+            "It brandishes its gaping mouth in a display of fearsome strength. It raises vast quantities of sand while attacking.",
+            "It blasts internally stored sand from ports on its body to create a towering twister for attack.",
+            "Stones can get stuck in the ports on their bodies. Dwebble help dislodge such stones, so Hippowdon look after these Pok\u00e9mon.",
+            "When roused to violence by its rage, it spews out the quantities of sand it has swallowed and whips up a sandstorm.",
+            "It blasts internally stored sand from ports on its body to create a towering twister for attack.",
+            "Its huge mouth opens almost seven feet wide. It has enough power to completely crush a car.",
+            "Short-tempered and easily moved to violence. It whips up whirlwinds of sand to crush its foes\u2019 spirits, then goes in for the attack.",
+            "It is surprisingly quick to anger. It holds its mouth agape as a display of its strength.",
+            "It brandishes its gaping mouth in a display of fearsome strength. It raises vast quantities of sand while attacking."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790110745165864/450.png",
+    "discord_sprite": "<:P450:1132132531043569725>"
+}

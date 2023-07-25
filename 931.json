@@ -1,0 +1,418 @@
+{
+    "alt-version(s)": [
+        "Green Plumage",
+        "Blue Plumage",
+        "Yellow Plumage",
+        "White Plumage"
+    ],
+    "Green Plumage": {
+        "pokedex_data": {
+            "National No.": "0931",
+            "Type": [
+                "Normal",
+                "Flying"
+            ],
+            "Species": "Parrot Poke\u0301mon",
+            "Height": "0.6 m (2\u203200\u2032\u2032)",
+            "Weight": "2.4 kg (5.3 lbs)",
+            "Abilities": {
+                "Intimidate": {
+                    "href": "/ability/intimidate",
+                    "effect": "Lowers the foe's Attack stat.",
+                    "hidden": false
+                },
+                "Hustle": {
+                    "href": "/ability/hustle",
+                    "effect": "Boosts the Attack stat, but lowers accuracy.",
+                    "hidden": false
+                },
+                "Guts": {
+                    "href": "/ability/guts",
+                    "effect": "Boosts Attack if there is a status problem.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack",
+            "Catch rate": "190",
+            "BaseFriendship": "50",
+            "Base Exp.": "146",
+            "Growth Rate": "Erratic"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "82",
+                "Min": "274",
+                "Max": "368"
+            },
+            "Attack": {
+                "Base": "96",
+                "Min": "177",
+                "Max": "320"
+            },
+            "Defense": {
+                "Base": "51",
+                "Min": "96",
+                "Max": "221"
+            },
+            "Sp. Atk": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Sp. Def": {
+                "Base": "51",
+                "Min": "96",
+                "Max": "221"
+            },
+            "Speed": {
+                "Base": "92",
+                "Min": "170",
+                "Max": "311"
+            },
+            "Total": "417"
+        },
+        "defense_stats": {
+            "default": {
+                "Electric": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Ground": "no effect",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "Blue Plumage": {
+        "pokedex_data": {
+            "National No.": "0931",
+            "Type": [
+                "Normal",
+                "Flying"
+            ],
+            "Species": "Parrot Poke\u0301mon",
+            "Height": "0.6 m (2\u203200\u2032\u2032)",
+            "Weight": "2.4 kg (5.3 lbs)",
+            "Abilities": {
+                "Intimidate": {
+                    "href": "/ability/intimidate",
+                    "effect": "Lowers the foe's Attack stat.",
+                    "hidden": false
+                },
+                "Hustle": {
+                    "href": "/ability/hustle",
+                    "effect": "Boosts the Attack stat, but lowers accuracy.",
+                    "hidden": false
+                },
+                "Guts": {
+                    "href": "/ability/guts",
+                    "effect": "Boosts Attack if there is a status problem.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack",
+            "Catch rate": "190",
+            "BaseFriendship": "50",
+            "Base Exp.": "146",
+            "Growth Rate": "Erratic"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "82",
+                "Min": "274",
+                "Max": "368"
+            },
+            "Attack": {
+                "Base": "96",
+                "Min": "177",
+                "Max": "320"
+            },
+            "Defense": {
+                "Base": "51",
+                "Min": "96",
+                "Max": "221"
+            },
+            "Sp. Atk": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Sp. Def": {
+                "Base": "51",
+                "Min": "96",
+                "Max": "221"
+            },
+            "Speed": {
+                "Base": "92",
+                "Min": "170",
+                "Max": "311"
+            },
+            "Total": "417"
+        },
+        "defense_stats": {
+            "default": {
+                "Electric": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Ground": "no effect",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "Yellow Plumage": {
+        "pokedex_data": {
+            "National No.": "0931",
+            "Type": [
+                "Normal",
+                "Flying"
+            ],
+            "Species": "Parrot Poke\u0301mon",
+            "Height": "0.6 m (2\u203200\u2032\u2032)",
+            "Weight": "2.4 kg (5.3 lbs)",
+            "Abilities": {
+                "Intimidate": {
+                    "href": "/ability/intimidate",
+                    "effect": "Lowers the foe's Attack stat.",
+                    "hidden": false
+                },
+                "Hustle": {
+                    "href": "/ability/hustle",
+                    "effect": "Boosts the Attack stat, but lowers accuracy.",
+                    "hidden": false
+                },
+                "Sheer Force": {
+                    "href": "/ability/sheer-force",
+                    "effect": "Removes added effects to increase move damage.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack",
+            "Catch rate": "190",
+            "BaseFriendship": "50",
+            "Base Exp.": "146",
+            "Growth Rate": "Erratic"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "82",
+                "Min": "274",
+                "Max": "368"
+            },
+            "Attack": {
+                "Base": "96",
+                "Min": "177",
+                "Max": "320"
+            },
+            "Defense": {
+                "Base": "51",
+                "Min": "96",
+                "Max": "221"
+            },
+            "Sp. Atk": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Sp. Def": {
+                "Base": "51",
+                "Min": "96",
+                "Max": "221"
+            },
+            "Speed": {
+                "Base": "92",
+                "Min": "170",
+                "Max": "311"
+            },
+            "Total": "417"
+        },
+        "defense_stats": {
+            "default": {
+                "Electric": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Ground": "no effect",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "White Plumage": {
+        "pokedex_data": {
+            "National No.": "0931",
+            "Type": [
+                "Normal",
+                "Flying"
+            ],
+            "Species": "Parrot Poke\u0301mon",
+            "Height": "0.6 m (2\u203200\u2032\u2032)",
+            "Weight": "2.4 kg (5.3 lbs)",
+            "Abilities": {
+                "Intimidate": {
+                    "href": "/ability/intimidate",
+                    "effect": "Lowers the foe's Attack stat.",
+                    "hidden": false
+                },
+                "Hustle": {
+                    "href": "/ability/hustle",
+                    "effect": "Boosts the Attack stat, but lowers accuracy.",
+                    "hidden": false
+                },
+                "Sheer Force": {
+                    "href": "/ability/sheer-force",
+                    "effect": "Removes added effects to increase move damage.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack",
+            "Catch rate": "190",
+            "BaseFriendship": "50",
+            "Base Exp.": "146",
+            "Growth Rate": "Erratic"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "82",
+                "Min": "274",
+                "Max": "368"
+            },
+            "Attack": {
+                "Base": "96",
+                "Min": "177",
+                "Max": "320"
+            },
+            "Defense": {
+                "Base": "51",
+                "Min": "96",
+                "Max": "221"
+            },
+            "Sp. Atk": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Sp. Def": {
+                "Base": "51",
+                "Min": "96",
+                "Max": "221"
+            },
+            "Speed": {
+                "Base": "92",
+                "Min": "170",
+                "Max": "311"
+            },
+            "Total": "417"
+        },
+        "defense_stats": {
+            "default": {
+                "Electric": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Ground": "no effect",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Growl": "1",
+            "Mimic": "1",
+            "Peck": "1",
+            "Quick Attack": "6",
+            "Torment": "10",
+            "Aerial Ace": "13",
+            "Fury Attack": "17",
+            "Taunt": "20",
+            "Uproar": "24",
+            "Copycat": "27",
+            "Fly": "30",
+            "Facade": "34",
+            "Swagger": "38",
+            "Brave Bird": "42",
+            "Roost": "47",
+            "Reversal": "52"
+        },
+        "egg": {
+            "Double-Edge": null,
+            "Final Gambit": null,
+            "Flatter": null,
+            "Parting Shot": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Fake Tears": "03",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Thief": "18",
+            "Pounce": "21",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Air Cutter": "40",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "U-turn": "60",
+            "Foul Play": "62",
+            "Air Slash": "65",
+            "Sleep Talk": "70",
+            "Rest": "85",
+            "Taunt": "87",
+            "Fly": "97",
+            "Substitute": "103",
+            "Tailwind": "113",
+            "Hyper Voice": "117",
+            "Heat Wave": "118",
+            "Helping Hand": "130",
+            "Reversal": "134",
+            "Giga Impact": "152",
+            "Hurricane": "160",
+            "Hyper Beam": "163",
+            "Brave Bird": "164",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Green Plumage": [
+            "These Pok\u00e9mon prefer to live in cities. They form flocks based on the color of their feathers, and they fight over territory.",
+            "Green-feathered flocks hold the most sway. When they\u2019re out searching for food in the mornings and evenings, it gets very noisy."
+        ],
+        "Blue Plumage": [
+            "The largest of their flocks can contain more than 50 individuals. They fly around towns and forests, searching for food and making a racket.",
+            "Blue-feathered Squawkabilly view their green-feathered counterparts as rivals, since the latter make up the largest, most powerful groups."
+        ],
+        "Yellow Plumage": [
+            "These Squawkabilly are hotheaded, and their fighting style is vicious. They\u2019ll leap within reach of their foes to engage in close combat.",
+            "The yellow Squawkabilly are especially fierce. They\u2019ve even been known to drive other bird Pok\u00e9mon out of town."
+        ],
+        "White Plumage": [
+            "This Pok\u00e9mon dislikes being alone. It has a strong sense of community and survives by cooperating with allies.",
+            "Though these Squawkabilly are the fewest in number, they have no trouble living in towns since they blend in with the white buildings."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793864580141086/931.png",
+    "discord_sprite": "<:P931:1132153760471318540>"
+}

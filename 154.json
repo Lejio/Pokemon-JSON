@@ -1,0 +1,220 @@
+{
+    "alt-version(s)": [],
+    "name": "Meganium",
+    "Meganium": {
+        "pokedex_data": {
+            "National No.": "0154",
+            "Type": [
+                "Grass"
+            ],
+            "Species": "Herb Poke\u0301mon",
+            "Height": "1.8 m (5\u203211\u2032\u2032)",
+            "Weight": "100.5 kg (221.6 lbs)",
+            "Abilities": {
+                "Overgrow": {
+                    "href": "/ability/overgrow",
+                    "effect": "Powers up Grass-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Leaf Guard": {
+                    "href": "/ability/leaf-guard",
+                    "effect": "Prevents problems with status in sunny weather.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Defense, 2 Sp. Def",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "236",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "80",
+                "Min": "270",
+                "Max": "364"
+            },
+            "Attack": {
+                "Base": "82",
+                "Min": "152",
+                "Max": "289"
+            },
+            "Defense": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Sp. Atk": {
+                "Base": "83",
+                "Min": "153",
+                "Max": "291"
+            },
+            "Sp. Def": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Speed": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Total": "525"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Poison": "super-effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Bug": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Chikorita",
+                    "nationalNo": "#0152",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Bayleef",
+                    "nationalNo": "#0153",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 16)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Bayleef",
+                    "nationalNo": "#0153",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Meganium",
+                    "nationalNo": "#0154",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 32)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Growl": "1",
+            "Petal Blizzard": "70",
+            "Petal Dance": "1",
+            "Poison Powder": "9",
+            "Razor Leaf": "6",
+            "Tackle": "1",
+            "Synthesis": "12",
+            "Reflect": "18",
+            "Magical Leaf": "22",
+            "Nature Power": "26",
+            "Sweet Scent": "34",
+            "Light Screen": "40",
+            "Body Slam": "46",
+            "Safeguard": "54",
+            "Aromatherapy": "60",
+            "Solar Beam": "66"
+        },
+        "evolution": {
+            "Petal Dance": "120"
+        },
+        "egg": {
+            "Ancient Power": null,
+            "Aromatherapy": null,
+            "Body Slam": null,
+            "Counter": null,
+            "Flail": null,
+            "Grassy Terrain": null,
+            "Heal Pulse": null,
+            "Ingrain": null,
+            "Leaf Storm": null,
+            "Leech Seed": null,
+            "Nature Power": null,
+            "Vine Whip": null
+        },
+        "null": {
+            "Frenzy Plant": "150"
+        },
+        "tm": {
+            "Bullet Seed": "09",
+            "Work Up": "10",
+            "Sunny Day": "11",
+            "Hyper Beam": "15",
+            "Light Screen": "16",
+            "Protect": "17",
+            "Giga Drain": "19",
+            "Safeguard": "20",
+            "Solar Beam": "22",
+            "Iron Tail": "23",
+            "Earthquake": "26",
+            "Double Team": "32",
+            "Reflect": "33",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Energy Ball": "53",
+            "Endure": "58",
+            "Giga Impact": "68",
+            "Flash": "70",
+            "Swords Dance": "75",
+            "Sleep Talk": "82",
+            "Bulldoze": "83",
+            "Grass Knot": "86",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Cut": "93",
+            "Strength": "96",
+            "Rock Smash": "98",
+            "Rock Climb": "100"
+        }
+    },
+    "entries": {
+        "Meganium": [
+            "The aroma that rises from its petals contains a substance that calms aggressive feelings.",
+            "MEGANIUM\u2019s breath has the power to revive dead grass and plants. It can make them healthy again.",
+            "Anyone who stands beside it becomes refreshed, just as if they were relaxing in a sunny forest.",
+            "The fragrance of MEGANIUM\u2019s flower soothes and calms emotions. In battle, this pok\u00e9mon gives off more of its becalming scent to blunt the foe\u2019s fighting spirit.",
+            "MEGANIUM\u2019s breath has the power to revive dead grass and plants. It can make them healthy again.",
+            "The aroma that rises from its petals contains a substance that calms aggressive feelings.",
+            "The fragrance of a MEGANIUM\u2019s flower soothes and calms emotions. In battle, it gives off more of its becalming scent to blunt the foe\u2019s fighting spirit.",
+            "Its breath has the fantastic ability to revive dead plants and flowers.",
+            "The aroma that rises from its petals contains a substance that calms aggressive feelings.",
+            "MEGANIUM\u2019s breath has the power to revive dead grass and plants. It can make them healthy again.",
+            "Its breath has the fantastic ability to revive dead plants and flowers.",
+            "The aroma that rises from its petals contains a substance that calms aggressive feelings.",
+            "Meganium\u2019s breath has the power to revive dead grass and plants. It can make them healthy again.",
+            "The fragrance of Meganium\u2019s flower soothes and calms emotions. In battle, this Pok\u00e9mon gives off more of its becalming scent to blunt the foe\u2019s fighting spirit.",
+            "Its breath has the fantastic ability to revive dead plants and flowers."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787792725319800/154.png",
+    "discord_sprite": "<:P154:1132119512037204008>"
+}

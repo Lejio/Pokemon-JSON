@@ -1,0 +1,213 @@
+{
+    "alt-version(s)": [],
+    "name": "Florges",
+    "Florges": {
+        "pokedex_data": {
+            "National No.": "0671",
+            "Type": [
+                "Fairy"
+            ],
+            "Species": "Garden Poke\u0301mon",
+            "Height": "1.1 m (3\u203207\u2032\u2032)",
+            "Weight": "10.0 kg (22.0 lbs)",
+            "Abilities": {
+                "Flower Veil": {
+                    "href": "/ability/flower-veil",
+                    "effect": "Prevents lowering of ally Grass-type Pok\u00e9mon's stats.",
+                    "hidden": false
+                },
+                "Symbiosis": {
+                    "href": "/ability/symbiosis",
+                    "effect": "The Pok\u00e9mon can pass an item to an ally.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Sp. Def",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "276",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "0% male,100% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "78",
+                "Min": "266",
+                "Max": "360"
+            },
+            "Attack": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Defense": {
+                "Base": "68",
+                "Min": "126",
+                "Max": "258"
+            },
+            "Sp. Atk": {
+                "Base": "112",
+                "Min": "206",
+                "Max": "355"
+            },
+            "Sp. Def": {
+                "Base": "154",
+                "Min": "281",
+                "Max": "447"
+            },
+            "Speed": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Total": "552"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "not very effective",
+                "Poison": "super-effective",
+                "Bug": "not very effective",
+                "Dragon": "no effect",
+                "Dark": "not very effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Flab\u00e9b\u00e9",
+                    "nationalNo": "#0669",
+                    "type": [
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Floette",
+                    "nationalNo": "#0670",
+                    "type": [
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 19)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Floette",
+                    "nationalNo": "#0670",
+                    "type": [
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Florges",
+                    "nationalNo": "#0671",
+                    "type": [
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Shiny Stone)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Disarming Voice": "1",
+            "Grass Knot": "1",
+            "Grassy Terrain": "1",
+            "Magical Leaf": "1",
+            "Misty Terrain": "1",
+            "Petal Blizzard": "1",
+            "Petal Dance": "1",
+            "Safeguard": "1",
+            "Solar Beam": "1",
+            "Synthesis": "1",
+            "Wish": "1",
+            "Moonblast": "5"
+        },
+        "egg": {
+            "Copycat": null,
+            "Endeavor": null,
+            "Tearful Look": null
+        },
+        "tm": {
+            "Charm": "02",
+            "Protect": "07",
+            "Disarming Voice": "19",
+            "Trailblaze": "20",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Swift": "32",
+            "Magical Leaf": "33",
+            "Draining Kiss": "37",
+            "Stored Power": "41",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Sleep Talk": "70",
+            "Seed Bomb": "71",
+            "Light Screen": "75",
+            "Dazzling Gleam": "79",
+            "Metronome": "80",
+            "Grass Knot": "81",
+            "Rest": "85",
+            "Skill Swap": "98",
+            "Substitute": "103",
+            "Trick": "109",
+            "Giga Drain": "111",
+            "Energy Ball": "119",
+            "Psychic": "120",
+            "Calm Mind": "129",
+            "Helping Hand": "130",
+            "Pollen Puff": "131",
+            "Baton Pass": "132",
+            "Grassy Terrain": "137",
+            "Misty Terrain": "139",
+            "Giga Impact": "152",
+            "Hyper Beam": "163",
+            "Solar Beam": "168",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Florges": [
+            "It claims exquisite flower gardens as its territory, and it obtains power from basking in the energy emitted by flowering plants.",
+            "In times long past, governors of castles would invite Florges to create flower gardens to embellish the castle domains.",
+            "It controls the flowers it grows. The petal blizzards that Florges triggers are overwhelming in their beauty and power.",
+            "Its life can span several hundred years. It\u2019s said to devote its entire life to protecting gardens."
+        ],
+        "Blue Flower": [
+            "Though usually compassionate, Florges will hunt down anyone who vandalizes its flower garden, showing no mercy even if they beg for their lives.",
+            "Blue pigments were tremendously expensive in the past, so paintings of blue Florges are highly valuable."
+        ],
+        "Orange Flower": [
+            "Its orange flowers fire off powerful beams, attacking as if they were a battery of artillery.",
+            "In times long past, castle governors would lovingly raise Florges to care for their castles\u2019 exquisite gardens."
+        ],
+        "Red Flower": [
+            "This Pok\u00e9mon creates an impressive flower garden in its territory. It draws forth the power of the red flowers around its neck.",
+            "They say that flower gardens created by Florges are constantly showered with a power that can heal both body and spirit."
+        ],
+        "White Flower": [
+            "A flower garden made by a white-flowered Florges will be beautifully decorated with flowering plants of many different colors.",
+            "A Florges adorned with white flowers can sync with the wavelengths of various colors to draw forth their power."
+        ],
+        "Yellow Flower": [
+            "It is said that there was once a Florges that protected the garden of a castle for over 300 years.",
+            "This Pok\u00e9mon battles by drawing forth the power of yellow flowers. It ruthlessly punishes anyone who tramples on flowering plants."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791833115152395/671.png",
+    "discord_sprite": "<:P671:1132142269626060931>"
+}

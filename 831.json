@@ -1,0 +1,163 @@
+{
+    "alt-version(s)": [],
+    "name": "Wooloo",
+    "Wooloo": {
+        "pokedex_data": {
+            "National No.": "0831",
+            "Type": [
+                "Normal"
+            ],
+            "Species": "Sheep Poke\u0301mon",
+            "Height": "0.6 m (2\u203200\u2032\u2032)",
+            "Weight": "6.0 kg (13.2 lbs)",
+            "Abilities": {
+                "Fluffy": {
+                    "href": "/ability/fluffy",
+                    "effect": "Halves damage from contact moves, but doubles damage from Fire-type moves.",
+                    "hidden": false
+                },
+                "Run Away": {
+                    "href": "/ability/run-away",
+                    "effect": "Enables a sure getaway from wild Pok\u00e9mon.",
+                    "hidden": false
+                },
+                "Bulletproof": {
+                    "href": "/ability/bulletproof",
+                    "effect": "Protects the Pok\u00e9mon from ball and bomb moves.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Defense",
+            "Catch rate": "255",
+            "BaseFriendship": "50",
+            "Base Exp.": "122",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "42",
+                "Min": "194",
+                "Max": "288"
+            },
+            "Attack": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Defense": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Sp. Atk": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Def": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Speed": {
+                "Base": "48",
+                "Min": "90",
+                "Max": "214"
+            },
+            "Total": "270"
+        },
+        "defense_stats": {
+            "Fluffy ability": {
+                "Fire": "super-effective",
+                "Fighting": "super-effective",
+                "Ghost": "no effect"
+            },
+            "Run Away ability": {
+                "Fighting": "super-effective",
+                "Ghost": "no effect"
+            },
+            "Bulletproof ability": {
+                "Fighting": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Wooloo",
+                    "nationalNo": "#0831",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Dubwool",
+                    "nationalNo": "#0832",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 24)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Growl": "1",
+            "Tackle": "1",
+            "Defense Curl": "4",
+            "Copycat": "8",
+            "Guard Split": "12",
+            "Double Kick": "16",
+            "Headbutt": "21",
+            "Take Down": "25",
+            "Guard Swap": "28",
+            "Reversal": "32",
+            "Cotton Guard": "36",
+            "Double-Edge": "40"
+        },
+        "egg": {
+            "Counter": null,
+            "Stomp": null,
+            "Swagger": null
+        },
+        "null": {
+            "Agility": "12",
+            "Substitute": "20",
+            "Reversal": "21",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Electro Ball": "80",
+            "Wild Charge": "86"
+        },
+        "tm": {
+            "Thunder Wave": "14",
+            "Rest": "21",
+            "Snore": "24",
+            "Protect": "25",
+            "Attract": "31",
+            "Facade": "39",
+            "Payback": "57",
+            "Guard Swap": "61",
+            "Round": "76"
+        }
+    },
+    "entries": {
+        "Wooloo": [
+            "Its curly fleece is such an effective cushion that this Pok\u00e9mon could fall off a cliff and stand right back up at the bottom, unharmed.",
+            "If its fleece grows too long, Wooloo won\u2019t be able to move. Cloth made with the wool of this Pok\u00e9mon is surprisingly strong."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793082665418793/831.png",
+    "discord_sprite": "<:P831:1132149363611795486>"
+}

@@ -1,0 +1,206 @@
+{
+    "alt-version(s)": [],
+    "name": "Herdier",
+    "Herdier": {
+        "pokedex_data": {
+            "National No.": "0507",
+            "Type": [
+                "Normal"
+            ],
+            "Species": "Loyal Dog Poke\u0301mon",
+            "Height": "0.9 m (2\u203211\u2032\u2032)",
+            "Weight": "14.7 kg (32.4 lbs)",
+            "Abilities": {
+                "Intimidate": {
+                    "href": "/ability/intimidate",
+                    "effect": "Lowers the foe's Attack stat.",
+                    "hidden": false
+                },
+                "Sand Rush": {
+                    "href": "/ability/sand-rush",
+                    "effect": "Boosts the Pok\u00e9mon's Speed in a sandstorm.",
+                    "hidden": false
+                },
+                "Scrappy": {
+                    "href": "/ability/scrappy",
+                    "effect": "Enables moves to hit Ghost-type Pok\u00e9mon.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "120",
+            "BaseFriendship": "50",
+            "Base Exp.": "130",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "65",
+                "Min": "240",
+                "Max": "334"
+            },
+            "Attack": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Defense": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Atk": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Sp. Def": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Speed": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Total": "370"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Lillipup",
+                    "nationalNo": "#0506",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Herdier",
+                    "nationalNo": "#0507",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 16)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Herdier",
+                    "nationalNo": "#0507",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Stoutland",
+                    "nationalNo": "#0508",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 32)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Bite": "1",
+            "Leer": "1",
+            "Tackle": "1",
+            "Work Up": "1",
+            "Retaliate": "12",
+            "Baby-Doll Eyes": "19",
+            "Play Rough": "24",
+            "Crunch": "30",
+            "Take Down": "36",
+            "Helping Hand": "42",
+            "Reversal": "48",
+            "Roar": "54",
+            "Last Resort": "60",
+            "Giga Impact": "66"
+        },
+        "egg": {
+            "After You": null,
+            "Covet": null,
+            "Howl": null,
+            "Lick": null,
+            "Mud-Slap": null,
+            "Yawn": null
+        },
+        "tm": {
+            "Giga Impact": "09",
+            "Thunder Wave": "14",
+            "Dig": "15",
+            "Rest": "21",
+            "Snore": "24",
+            "Protect": "25",
+            "Charm": "29",
+            "Attract": "31",
+            "Rain Dance": "33",
+            "Sunny Day": "34",
+            "Facade": "39",
+            "Helping Hand": "41",
+            "Rock Tomb": "48",
+            "Payback": "57",
+            "Thunder Fang": "66",
+            "Ice Fang": "67",
+            "Fire Fang": "68",
+            "Round": "76",
+            "Retaliate": "79",
+            "Snarl": "85"
+        },
+        "null": {
+            "Surf": "04",
+            "Thunderbolt": "08",
+            "Substitute": "20",
+            "Reversal": "21",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Crunch": "32",
+            "Shadow Ball": "33",
+            "Uproar": "35",
+            "Hyper Voice": "42",
+            "Work Up": "85",
+            "Wild Charge": "86",
+            "Play Rough": "90",
+            "Psychic Fangs": "97"
+        }
+    },
+    "entries": {
+        "Herdier": [
+            "It has black, cape-like fur that is very hard and decreases the amount of damage it receives.",
+            "It loyally follows its Trainer\u2019s orders. For ages, they have helped Trainers raise Pok\u00e9mon.",
+            "This very loyal Pok\u00e9mon helps Trainers, and it also takes care of other Pok\u00e9mon.",
+            "This very loyal Pok\u00e9mon helps Trainers, and it also takes care of other Pok\u00e9mon.",
+            "It has black, cape-like fur that is very hard and decreases the amount of damage it receives.",
+            "Its dense black fur grows continuously. The high cost of keeping its hard fur properly groomed makes this a troublesome Pok\u00e9mon to train.",
+            "This Pok\u00e9mon obeys its master\u2019s orders faithfully. However, it refuses to listen to anything said by a person it doesn\u2019t respect.",
+            "The longer its black fur grows, the harder and more impervious it gets. Claws and fangs can\u2019t easily penetrate it.",
+            "It has been living with people for so long that portrayals of it can be found on the walls of caves from long, long ago.",
+            "Herdier is a very smart and friendly Pok\u00e9mon. So much so that there\u2019s a theory that Herdier was the first Pok\u00e9mon to partner with people.",
+            "The black fur that covers this Pok\u00e9mon\u2019s body is dense and springy. Even sharp fangs bounce right off."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790553315561482/507.png",
+    "discord_sprite": "<:P507:1132135040583737434>"
+}

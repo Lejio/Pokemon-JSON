@@ -1,0 +1,209 @@
+{
+    "alt-version(s)": [],
+    "name": "Magcargo",
+    "Magcargo": {
+        "pokedex_data": {
+            "National No.": "0219",
+            "Type": [
+                "Fire",
+                "Rock"
+            ],
+            "Species": "Lava Poke\u0301mon",
+            "Height": "0.8 m (2\u203207\u2032\u2032)",
+            "Weight": "55.0 kg (121.3 lbs)",
+            "Abilities": {
+                "Magma Armor": {
+                    "href": "/ability/magma-armor",
+                    "effect": "Prevents the Pok\u00e9mon from becoming frozen.",
+                    "hidden": false
+                },
+                "Flame Body": {
+                    "href": "/ability/flame-body",
+                    "effect": "Contact with the Pok\u00e9mon may burn the attacker.",
+                    "hidden": false
+                },
+                "Weak Armor": {
+                    "href": "/ability/weak-armor",
+                    "effect": "Physical attacks lower Defense and raise Speed.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Defense",
+            "Catch rate": "75",
+            "BaseFriendship": "50",
+            "Base Exp.": "151",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "60",
+                "Min": "230",
+                "Max": "324"
+            },
+            "Attack": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Defense": {
+                "Base": "120",
+                "Min": "220",
+                "Max": "372"
+            },
+            "Sp. Atk": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Sp. Def": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Speed": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Total": "430"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Slugma",
+                    "nationalNo": "#0218",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Magcargo",
+                    "nationalNo": "#0219",
+                    "type": [
+                        "Fire",
+                        "Rock"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 38)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Earth Power": "58",
+            "Ember": "6",
+            "Rock Throw": "8",
+            "Shell Smash": "1",
+            "Smog": "1",
+            "Yawn": "1",
+            "Harden": "13",
+            "Incinerate": "15",
+            "Clear Smog": "20",
+            "Ancient Power": "22",
+            "Rock Slide": "29",
+            "Lava Plume": "34",
+            "Amnesia": "36",
+            "Body Slam": "43",
+            "Recover": "47",
+            "Flamethrower": "54"
+        },
+        "evolution": {
+            "Shell Smash": "\u2014"
+        },
+        "egg": {
+            "Acid Armor": null,
+            "Curse": null,
+            "Earth Power": null,
+            "Guard Swap": null,
+            "Heat Wave": null,
+            "Inferno": null,
+            "Memento": null,
+            "Rollout": null,
+            "Smokescreen": null,
+            "Spit Up": null,
+            "Stockpile": null,
+            "Swallow": null
+        },
+        "tm": {
+            "Sunny Day": "11",
+            "Hyper Beam": "15",
+            "Light Screen": "16",
+            "Protect": "17",
+            "Solar Beam": "22",
+            "Earthquake": "26",
+            "Double Team": "32",
+            "Reflect": "33",
+            "Flamethrower": "35",
+            "Sandstorm": "37",
+            "Fire Blast": "38",
+            "Rock Tomb": "39",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Overheat": "50",
+            "Endure": "58",
+            "Will-O-Wisp": "61",
+            "Explosion": "64",
+            "Giga Impact": "68",
+            "Rock Polish": "69",
+            "Stone Edge": "71",
+            "Gyro Ball": "74",
+            "Stealth Rock": "76",
+            "Rock Slide": "80",
+            "Sleep Talk": "82",
+            "Bulldoze": "83",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Strength": "96",
+            "Rock Smash": "98"
+        }
+    },
+    "entries": {
+        "Magcargo": [
+            "The shell on its back is just skin that has cooled and hardened. It breaks easily with a slight touch.",
+            "Its brittle shell occasionally spouts intense flames that circulate throughout its body.",
+            "Its body is as hot as lava and is always billowing. Flames will occasionally burst from its shell.",
+            "MAGCARGO\u2019s shell is actually its skin that hardened as a result of cooling. Its shell is very brittle and fragile - just touching it causes it to crumble apart. This pok\u00e9mon returns to its original size by dipping itself in magma.",
+            "MAGCARGO\u2019s body temperature is approximately 18,000 degrees F. Water is vaporized on contact. If this pok\u00e9mon is caught in the rain, the raindrops instantly turn into steam, cloaking the area in a thick fog.",
+            "Its brittle shell occasionally spouts intense flames that circulate throughout its body.",
+            "The shell on its back is just skin that has cooled and hardened. It breaks easily with a slight touch.",
+            "The shell on its back is made of hardened magma. Tens of thousands of years spent living in volcanic craters have turned MAGCARGO\u2019s bodies into magma.",
+            "Its body temperature is roughly 18,000 degrees F. Flames spout from gaps in its hardened shell.",
+            "The shell on its back is just skin that has cooled and hardened. It breaks easily with a slight touch.",
+            "Its brittle shell occasionally spouts intense flames that circulate throughout its body.",
+            "Its body temperature is roughly 18,000 degrees F. Flames spout from gaps in its hardened shell.",
+            "Its brittle shell occasionally spouts intense flames that circulate throughout its body.",
+            "Its body is as hot as lava and is always billowing. Flames will occasionally burst from its shell.",
+            "Magcargo\u2019s shell is actually its skin that hardened as a result of cooling. Its shell is very brittle and fragile\u2014just touching it causes it to crumble apart. This Pok\u00e9mon returns to its original size by dipping itself in magma.",
+            "Magcargo\u2019s body temperature is approximately 18,000 degrees Fahrenheit. Water is vaporized on contact. If this Pok\u00e9mon is caught in the rain, the raindrops instantly turn into steam, cloaking the area in a thick fog.",
+            "Its body temperature is roughly 18,000 degrees Fahrenheit. Flames burst from gaps in its shell made of hardened magma."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788304359100436/219.png",
+    "discord_sprite": "<:P219:1132122374704222289>"
+}

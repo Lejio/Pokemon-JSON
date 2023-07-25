@@ -1,0 +1,218 @@
+{
+    "alt-version(s)": [],
+    "name": "Rillaboom",
+    "Rillaboom": {
+        "pokedex_data": {
+            "National No.": "0812",
+            "Type": [
+                "Grass"
+            ],
+            "Species": "Drummer Poke\u0301mon",
+            "Height": "2.1 m (6\u203211\u2032\u2032)",
+            "Weight": "90.0 kg (198.4 lbs)",
+            "Abilities": {
+                "Overgrow": {
+                    "href": "/ability/overgrow",
+                    "effect": "Powers up Grass-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Grassy Surge": {
+                    "href": "/ability/grassy-surge",
+                    "effect": "The Pok\u00e9mon creates a Grassy Terrain when it enters a battle.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Attack",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "265",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "100",
+                "Min": "310",
+                "Max": "404"
+            },
+            "Attack": {
+                "Base": "125",
+                "Min": "229",
+                "Max": "383"
+            },
+            "Defense": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Sp. Atk": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Def": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Speed": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Total": "530"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Poison": "super-effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Bug": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Grookey",
+                    "nationalNo": "#0810",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Thwackey",
+                    "nationalNo": "#0811",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 16)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Thwackey",
+                    "nationalNo": "#0811",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Rillaboom",
+                    "nationalNo": "#0812",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 35)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Branch Poke": "1",
+            "Double Hit": "1",
+            "Grassy Terrain": "1",
+            "Growl": "1",
+            "Noble Roar": "1",
+            "Scratch": "1",
+            "Taunt": "1",
+            "Razor Leaf": "12",
+            "Screech": "19",
+            "Knock Off": "24",
+            "Slam": "30",
+            "Uproar": "38",
+            "Wood Hammer": "46",
+            "Endeavor": "54",
+            "Boomburst": "62"
+        },
+        "evolution": {
+            "Drum Beating": "80"
+        },
+        "egg": {
+            "Fake Out": null,
+            "Growth": null,
+            "Hammer Arm": null,
+            "Leech Seed": null,
+            "Strength": null,
+            "Worry Seed": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Low Kick": "12",
+            "Acrobatics": "14",
+            "Thief": "18",
+            "Trailblaze": "20",
+            "Facade": "25",
+            "Bulldoze": "28",
+            "Snarl": "30",
+            "Swift": "32",
+            "Magical Leaf": "33",
+            "Mud Shot": "35",
+            "Low Sweep": "39",
+            "Fling": "43",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Bullet Seed": "56",
+            "False Swipe": "57",
+            "Brick Break": "58",
+            "U-turn": "60",
+            "Bulk Up": "64",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Seed Bomb": "71",
+            "Drain Punch": "73",
+            "Grass Knot": "81",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Taunt": "87",
+            "Swords Dance": "88",
+            "Body Press": "89",
+            "Substitute": "103",
+            "Giga Drain": "111",
+            "Hyper Voice": "117",
+            "Energy Ball": "119",
+            "Earth Power": "133",
+            "Grassy Terrain": "137",
+            "Grass Pledge": "146",
+            "Earthquake": "149",
+            "Giga Impact": "152",
+            "Frenzy Plant": "155",
+            "Focus Blast": "158",
+            "Leaf Storm": "159",
+            "Hyper Beam": "163",
+            "Solar Beam": "168",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Rillaboom": [
+            "By drumming, it taps into the power of its special tree stump. The roots of the stump follow its direction in battle.",
+            "The one with the best drumming techniques becomes the boss of the troop. It has a gentle disposition and values harmony among its group."
+        ],
+        "Gigantamax": [
+            "Gigantamax energy has caused Rillaboom\u2019s stump to grow into a drum set that resembles a forest.",
+            "Rillaboom has become one with its forest of drums and continues to lay down beats that shake all of Galar."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792936196116520/812.png",
+    "discord_sprite": "<:P812:1132148528836247562>"
+}

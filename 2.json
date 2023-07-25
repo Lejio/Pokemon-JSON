@@ -1,0 +1,219 @@
+{
+    "alt-version(s)": [],
+    "name": "Ivysaur",
+    "Ivysaur": {
+        "pokedex_data": {
+            "National No.": "0002",
+            "Type": [
+                "Grass",
+                "Poison"
+            ],
+            "Species": "Seed Poke\u0301mon",
+            "Height": "1.0 m (3\u203203\u2032\u2032)",
+            "Weight": "13.0 kg (28.7 lbs)",
+            "Abilities": {
+                "Overgrow": {
+                    "href": "/ability/overgrow",
+                    "effect": "Powers up Grass-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Chlorophyll": {
+                    "href": "/ability/chlorophyll",
+                    "effect": "Boosts the Pok\u00e9mon's Speed in sunshine.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Sp. Atk, 1 Sp. Def",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "142",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "60",
+                "Min": "230",
+                "Max": "324"
+            },
+            "Attack": {
+                "Base": "62",
+                "Min": "116",
+                "Max": "245"
+            },
+            "Defense": {
+                "Base": "63",
+                "Min": "117",
+                "Max": "247"
+            },
+            "Sp. Atk": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Sp. Def": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Speed": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Total": "405"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Flying": "super-effective",
+                "Psychic": "super-effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Bulbasaur",
+                    "nationalNo": "#0001",
+                    "type": [
+                        "Grass",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Ivysaur",
+                    "nationalNo": "#0002",
+                    "type": [
+                        "Grass",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 16)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Ivysaur",
+                    "nationalNo": "#0002",
+                    "type": [
+                        "Grass",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Venusaur",
+                    "nationalNo": "#0003",
+                    "type": [
+                        "Grass",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 32)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Growl": "1",
+            "Growth": "1",
+            "Tackle": "1",
+            "Vine Whip": "1",
+            "Leech Seed": "9",
+            "Razor Leaf": "12",
+            "Poison Powder": "15",
+            "Sleep Powder": "15",
+            "Seed Bomb": "20",
+            "Take Down": "25",
+            "Sweet Scent": "30",
+            "Synthesis": "35",
+            "Worry Seed": "40",
+            "Double-Edge": "45",
+            "Solar Beam": "50"
+        },
+        "egg": {
+            "Amnesia": null,
+            "Charm": null,
+            "Curse": null,
+            "Grassy Terrain": null,
+            "Ingrain": null,
+            "Leaf Storm": null,
+            "Magical Leaf": null,
+            "Nature Power": null,
+            "Petal Dance": null,
+            "Power Whip": null,
+            "Skull Bash": null,
+            "Sludge": null
+        },
+        "tm": {
+            "Toxic": "06",
+            "Bullet Seed": "09",
+            "Work Up": "10",
+            "Sunny Day": "11",
+            "Light Screen": "16",
+            "Protect": "17",
+            "Giga Drain": "19",
+            "Safeguard": "20",
+            "Solar Beam": "22",
+            "Double Team": "32",
+            "Sludge Bomb": "36",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Energy Ball": "53",
+            "False Swipe": "54",
+            "Endure": "58",
+            "Flash": "70",
+            "Swords Dance": "75",
+            "Sleep Talk": "82",
+            "Grass Knot": "86",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Cut": "93",
+            "Strength": "96",
+            "Rock Smash": "98"
+        }
+    },
+    "entries": {
+        "Ivysaur": [
+            "When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs.",
+            "The bulb on its back grows by drawing energy. It gives off an aroma when it is ready to bloom.",
+            "Exposure to sunlight adds to its strength. Sunlight also makes the bud on its back grow larger.",
+            "If the bud on its back starts to smell sweet, it is evidence that the large flower will soon bloom.",
+            "The bulb on its back grows as it absorbs nutrients. The bulb gives off a pleasant aroma when it blooms.",
+            "There is a bud on this pok\u00e9mon\u2019s back. To support its weight, IVYSAUR\u2019s legs and trunk grow thick and strong. If it starts spending more time lying in the sunlight, it\u2019s a sign that the bud will bloom into a large flower soon.",
+            "There is a plant bulb on its back. When it absorbs nutrients, the bulb is said to blossom into a large flower.",
+            "When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs.",
+            "To support its bulb, IVYSAUR\u2019s legs grow sturdy. If it spends more time lying in the sunlight, the bud will soon bloom into a large flower.",
+            "When the bud on its back starts swelling, a sweet aroma wafts to indicate the flower\u2019s coming bloom.",
+            "Exposure to sunlight adds to its strength. Sunlight also makes the bud on its back grow larger.",
+            "If the bud on its back starts to smell sweet, it is evidence that the large flower will soon bloom.",
+            "When the bud on its back starts swelling, a sweet aroma wafts to indicate the flower\u2019s coming bloom.",
+            "There is a plant bulb on its back. When it absorbs nutrients, the bulb is said to blossom into a large flower.",
+            "When the bud on its back starts swelling, a sweet aroma wafts to indicate the flower\u2019s coming bloom.",
+            "There is a bud on this Pok\u00e9mon\u2019s back. To support its weight, Ivysaur\u2019s legs and trunk grow thick and strong. If it starts spending more time lying in the sunlight, it\u2019s a sign that the bud will bloom into a large flower soon.",
+            "The bud on its back grows by drawing energy. It gives off an aroma when it is ready to bloom.",
+            "When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs.",
+            "Exposure to sunlight adds to its strength. Sunlight also makes the bud on its back grow larger.",
+            "When the bud on its back starts swelling, a sweet aroma wafts to indicate the flower\u2019s coming bloom."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131786605225582612/2.png",
+    "discord_sprite": "<:P2:1131971981743501433>"
+}

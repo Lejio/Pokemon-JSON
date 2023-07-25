@@ -1,0 +1,153 @@
+{
+    "alt-version(s)": [],
+    "name": "Xerneas",
+    "Xerneas": {
+        "pokedex_data": {
+            "National No.": "0716",
+            "Type": [
+                "Fairy"
+            ],
+            "Species": "Life Poke\u0301mon",
+            "Height": "3.0 m (9\u203210\u2032\u2032)",
+            "Weight": "215.0 kg (474.0 lbs)",
+            "Abilities": {
+                "Fairy Aura": {
+                    "href": "/ability/fairy-aura",
+                    "effect": "Raises power of Fairy type moves for all Pok\u00e9mon in battle.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 HP",
+            "Catch rate": "45",
+            "BaseFriendship": "0",
+            "Base Exp.": "306",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "126",
+                "Min": "362",
+                "Max": "456"
+            },
+            "Attack": {
+                "Base": "131",
+                "Min": "240",
+                "Max": "397"
+            },
+            "Defense": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Sp. Atk": {
+                "Base": "131",
+                "Min": "240",
+                "Max": "397"
+            },
+            "Sp. Def": {
+                "Base": "98",
+                "Min": "180",
+                "Max": "324"
+            },
+            "Speed": {
+                "Base": "99",
+                "Min": "182",
+                "Max": "326"
+            },
+            "Total": "680"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "not very effective",
+                "Poison": "super-effective",
+                "Bug": "not very effective",
+                "Dragon": "no effect",
+                "Dark": "not very effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Gravity": "1",
+            "Tackle": "1",
+            "Light Screen": "5",
+            "Aurora Beam": "10",
+            "Nature Power": "15",
+            "Night Slash": "20",
+            "Aromatherapy": "25",
+            "Psych Up": "30",
+            "Horn Leech": "35",
+            "Misty Terrain": "40",
+            "Ingrain": "45",
+            "Take Down": "50",
+            "Geomancy": "55",
+            "Moonblast": "60",
+            "Heal Pulse": "65",
+            "Megahorn": "70",
+            "Close Combat": "75",
+            "Outrage": "80",
+            "Giga Impact": "85"
+        },
+        "egg": {
+            "Misty Explosion": null,
+            "Terrain Pulse": null
+        },
+        "null": {
+            "Body Slam": "01",
+            "Thunderbolt": "08",
+            "Thunder": "09",
+            "Psychic": "11",
+            "Substitute": "20",
+            "Outrage": "24",
+            "Psyshock": "25",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Megahorn": "28",
+            "Hyper Voice": "42",
+            "Calm Mind": "49",
+            "Close Combat": "53",
+            "Focus Blast": "64",
+            "Zen Headbutt": "69",
+            "Flash Cannon": "70",
+            "Grass Knot": "77",
+            "Play Rough": "90",
+            "Dazzling Gleam": "92"
+        },
+        "tm": {
+            "Hyper Beam": "08",
+            "Giga Impact": "09",
+            "Thunder Wave": "14",
+            "Light Screen": "17",
+            "Reflect": "18",
+            "Rest": "21",
+            "Rock Slide": "22",
+            "Snore": "24",
+            "Protect": "25",
+            "Rain Dance": "33",
+            "Sunny Day": "34",
+            "Hail": "35",
+            "Facade": "39",
+            "Swift": "40",
+            "Wonder Room": "71",
+            "Round": "76",
+            "Draining Kiss": "87",
+            "Misty Terrain": "89",
+            "Smart Strike": "96"
+        }
+    },
+    "entries": {
+        "Xerneas": [
+            "Legends say it can share eternal life. It slept for a thousand years in the form of a tree before its revival.",
+            "When the horns on its head shine in seven colors, it is said to be sharing everlasting life."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792190855716874/716.png",
+    "discord_sprite": "<:P716:1132144241892671659>"
+}

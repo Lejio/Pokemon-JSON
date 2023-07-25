@@ -1,0 +1,171 @@
+{
+    "alt-version(s)": [],
+    "name": "Spinda",
+    "Spinda": {
+        "pokedex_data": {
+            "National No.": "0327",
+            "Type": [
+                "Normal"
+            ],
+            "Species": "Spot Panda Poke\u0301mon",
+            "Height": "1.1 m (3\u203207\u2032\u2032)",
+            "Weight": "5.0 kg (11.0 lbs)",
+            "Abilities": {
+                "Own Tempo": {
+                    "href": "/ability/own-tempo",
+                    "effect": "Prevents the Pok\u00e9mon from becoming confused.",
+                    "hidden": false
+                },
+                "Tangled Feet": {
+                    "href": "/ability/tangled-feet",
+                    "effect": "Raises evasion if the Pok\u00e9mon is confused.",
+                    "hidden": false
+                },
+                "Contrary": {
+                    "href": "/ability/contrary",
+                    "effect": "Makes stat changes have an opposite effect.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Sp. Atk",
+            "Catch rate": "255",
+            "BaseFriendship": "50",
+            "Base Exp.": "126",
+            "Growth Rate": "Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "60",
+                "Min": "230",
+                "Max": "324"
+            },
+            "Attack": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Defense": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Atk": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Def": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Speed": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Total": "360"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Tackle": "1",
+            "Copycat": "5",
+            "Teeter Dance": "32",
+            "Psybeam": "14",
+            "Hypnosis": "19",
+            "Body Slam": "23",
+            "Sucker Punch": "28",
+            "Uproar": "37",
+            "Psych Up": "41",
+            "Double-Edge": "46",
+            "Flail": "50",
+            "Thrash": "55"
+        },
+        "egg": {
+            "Baton Pass": null,
+            "Disable": null,
+            "Encore": null,
+            "Fake Out": null,
+            "Fake Tears": null,
+            "Guard Split": null,
+            "Icy Wind": null,
+            "Psycho Cut": null,
+            "Psycho Shift": null,
+            "Rapid Spin": null,
+            "Role Play": null,
+            "Trick": null,
+            "Wish": null
+        },
+        "tm": {
+            "Focus Punch": "01",
+            "Water Pulse": "03",
+            "Calm Mind": "04",
+            "Work Up": "10",
+            "Sunny Day": "11",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Safeguard": "20",
+            "Dig": "28",
+            "Psychic": "29",
+            "Shadow Ball": "30",
+            "Brick Break": "31",
+            "Double Team": "32",
+            "Shock Wave": "34",
+            "Rock Tomb": "39",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Skill Swap": "48",
+            "Fling": "56",
+            "Endure": "58",
+            "Drain Punch": "60",
+            "Recycle": "67",
+            "Flash": "70",
+            "Psych Up": "77",
+            "Rock Slide": "80",
+            "Sleep Talk": "82",
+            "Dream Eater": "85",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Trick Room": "92",
+            "Strength": "96",
+            "Rock Smash": "98"
+        }
+    },
+    "entries": {
+        "Spinda": [
+            "All the SPINDA that exist in the world are said to have utterly unique spot patterns. The shaky, tottering steps of this pok\u00e9mon give it the appearance of dancing.",
+            "No two SPINDA are said to have identical spot patterns on their hides. This pok\u00e9mon moves in a curious manner as if it is stumbling in dizziness. Its lurching movements can cause the opponent to become confused.",
+            "No two SPINDA are said to have identical patterns. It confuses foes with its stumbling motions.",
+            "It is distinguished by a pattern of spots that is always different. Its unsteady, tottering walk has the effect of fouling its foe\u2019s aim.",
+            "No two SPINDA have the same pattern of spots. Its tottering step fouls the aim of foes.",
+            "The chances of two SPINDA having identical spot patterns is less than one in four billion.",
+            "No two Spinda have the same pattern of spots. Its tottering step fouls the aim of foes.",
+            "No two Spinda have the same pattern of spots. Its tottering step fouls the aim of foes.",
+            "The chances of two Spinda having identical spot patterns is less than one in four billion.",
+            "All the Spinda that exist in the world are said to have utterly unique spot patterns. The shaky, tottering steps of this Pok\u00e9mon give it the appearance of dancing.",
+            "No two Spinda are said to have identical spot patterns on their hides. This Pok\u00e9mon moves in a curious manner as if it is stumbling in dizziness. Its lurching movements can cause the opponent to become confused.",
+            "Its steps are staggering and unsteady, but Spinda thinks it\u2019s walking in a straight line.",
+            "Each and every Spinda has a slightly different configuration of spots. There are collectors who enjoy the tiny differences in their spot patterns.",
+            "Its steps are shaky and stumbling. Walking for a long time makes it feel sick.",
+            "Each Spinda\u2019s spot pattern is different. With its stumbling movements, it evades opponents\u2019 attacks brilliantly!",
+            "No two Spinda have the same pattern of spots. Their tottering steps hinder the aim of foes."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789156964638782/327.png",
+    "discord_sprite": "<:P327:1132127126485729300>"
+}

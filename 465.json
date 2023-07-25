@@ -1,0 +1,202 @@
+{
+    "alt-version(s)": [],
+    "name": "Tangrowth",
+    "Tangrowth": {
+        "pokedex_data": {
+            "National No.": "0465",
+            "Type": [
+                "Grass"
+            ],
+            "Species": "Vine Poke\u0301mon",
+            "Height": "2.0 m (6\u203207\u2032\u2032)",
+            "Weight": "128.6 kg (283.5 lbs)",
+            "Abilities": {
+                "Chlorophyll": {
+                    "href": "/ability/chlorophyll",
+                    "effect": "Boosts the Pok\u00e9mon's Speed in sunshine.",
+                    "hidden": false
+                },
+                "Leaf Guard": {
+                    "href": "/ability/leaf-guard",
+                    "effect": "Prevents problems with status in sunny weather.",
+                    "hidden": false
+                },
+                "Regenerator": {
+                    "href": "/ability/regenerator",
+                    "effect": "Restores a little HP when withdrawn from battle.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Defense",
+            "Catch rate": "30",
+            "BaseFriendship": "50",
+            "Base Exp.": "187",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "100",
+                "Min": "310",
+                "Max": "404"
+            },
+            "Attack": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Defense": {
+                "Base": "125",
+                "Min": "229",
+                "Max": "383"
+            },
+            "Sp. Atk": {
+                "Base": "110",
+                "Min": "202",
+                "Max": "350"
+            },
+            "Sp. Def": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Speed": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Total": "535"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Poison": "super-effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Bug": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Tangela",
+                    "nationalNo": "#0114",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Tangrowth",
+                    "nationalNo": "#0465",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(after Ancient Power learned)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Absorb": "1",
+            "Bind": "1",
+            "Block": "1",
+            "Growth": "1",
+            "Stun Spore": "1",
+            "Mega Drain": "12",
+            "Vine Whip": "16",
+            "Poison Powder": "20",
+            "Ancient Power": "24",
+            "Knock Off": "28",
+            "Giga Drain": "32",
+            "Sleep Powder": "36",
+            "Slam": "40",
+            "Tickle": "44",
+            "Power Whip": "48",
+            "Ingrain": "52",
+            "Grassy Terrain": "56"
+        },
+        "egg": {
+            "Amnesia": null,
+            "Confusion": null,
+            "Endeavor": null,
+            "Flail": null,
+            "Leaf Storm": null,
+            "Leech Seed": null,
+            "Mega Drain": null,
+            "Nature Power": null,
+            "Power Swap": null,
+            "Rage Powder": null
+        },
+        "tm": {
+            "Bullet Seed": "09",
+            "Sunny Day": "11",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Giga Drain": "19",
+            "Solar Beam": "22",
+            "Earthquake": "26",
+            "Brick Break": "31",
+            "Double Team": "32",
+            "Reflect": "33",
+            "Shock Wave": "34",
+            "Sludge Bomb": "36",
+            "Rock Tomb": "39",
+            "Aerial Ace": "40",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Focus Blast": "52",
+            "Energy Ball": "53",
+            "Fling": "56",
+            "Endure": "58",
+            "Payback": "66",
+            "Giga Impact": "68",
+            "Flash": "70",
+            "Swords Dance": "75",
+            "Psych Up": "77",
+            "Rock Slide": "80",
+            "Sleep Talk": "82",
+            "Bulldoze": "83",
+            "Poison Jab": "84",
+            "Grass Knot": "86",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Cut": "93",
+            "Strength": "96",
+            "Rock Smash": "98"
+        }
+    },
+    "entries": {
+        "Tangrowth": [
+            "It ensnares prey by extending arms made of vines. Losing arms to predators does not trouble it.",
+            "Its arms are made of plants that bind themselves to things. They grow back right away if cut.",
+            "When it remains still, it appears to be a large shrub. Unsuspecting prey that wander near get ensnared by its vines.",
+            "Its vines grow so profusely that, in the warm season, you can\u2019t even see its eyes.",
+            "Its arms are made of plants that bind themselves to things. They grow back right away if cut.",
+            "Even if one of its arms is eaten, it\u2019s fine. The Pok\u00e9mon regenerates quickly and will go right back to normal.",
+            "It ensnares prey by extending arms made of vines. Losing arms to predators does not trouble it.",
+            "Its vines grow so profusely that, in the warm season, you can\u2019t even see its eyes.",
+            "Tangrowth has two arms that it can extend as it pleases. Recent research has shown that these arms are, in fact, bundles of vines.",
+            "Vine growth is accelerated for Tangrowth living in warm climates. If the vines grow long, Tangrowth shortens them by tearing parts of them off.",
+            "It ensnares prey by extending arms made of vines. Losing arms to predators does not trouble it.",
+            "Draped with long vines, it resembles a shrub in appearance. It swings bundles of vines as though they were arms, wrapping them around prey to ensnare them."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790227845951498/465.png",
+    "discord_sprite": "<:P465:1132133192443379852>"
+}

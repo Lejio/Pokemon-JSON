@@ -1,0 +1,201 @@
+{
+    "alt-version(s)": [],
+    "name": "Tangela",
+    "Tangela": {
+        "pokedex_data": {
+            "National No.": "0114",
+            "Type": [
+                "Grass"
+            ],
+            "Species": "Vine Poke\u0301mon",
+            "Height": "1.0 m (3\u203203\u2032\u2032)",
+            "Weight": "35.0 kg (77.2 lbs)",
+            "Abilities": {
+                "Chlorophyll": {
+                    "href": "/ability/chlorophyll",
+                    "effect": "Boosts the Pok\u00e9mon's Speed in sunshine.",
+                    "hidden": false
+                },
+                "Leaf Guard": {
+                    "href": "/ability/leaf-guard",
+                    "effect": "Prevents problems with status in sunny weather.",
+                    "hidden": false
+                },
+                "Regenerator": {
+                    "href": "/ability/regenerator",
+                    "effect": "Restores a little HP when withdrawn from battle.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Defense",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "87",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "65",
+                "Min": "240",
+                "Max": "334"
+            },
+            "Attack": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Defense": {
+                "Base": "115",
+                "Min": "211",
+                "Max": "361"
+            },
+            "Sp. Atk": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Sp. Def": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Speed": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Total": "435"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Poison": "super-effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Bug": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Tangela",
+                    "nationalNo": "#0114",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Tangrowth",
+                    "nationalNo": "#0465",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(after Ancient Power learned)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Absorb": "1",
+            "Bind": "1",
+            "Stun Spore": "4",
+            "Growth": "8",
+            "Mega Drain": "12",
+            "Vine Whip": "16",
+            "Poison Powder": "20",
+            "Ancient Power": "24",
+            "Knock Off": "28",
+            "Giga Drain": "32",
+            "Sleep Powder": "36",
+            "Slam": "40",
+            "Tickle": "44",
+            "Power Whip": "48",
+            "Ingrain": "52",
+            "Grassy Terrain": "56"
+        },
+        "egg": {
+            "Amnesia": null,
+            "Confusion": null,
+            "Endeavor": null,
+            "Flail": null,
+            "Leaf Storm": null,
+            "Leech Seed": null,
+            "Mega Drain": null,
+            "Nature Power": null,
+            "Power Swap": null,
+            "Rage Powder": null
+        },
+        "tm": {
+            "Bullet Seed": "09",
+            "Sunny Day": "11",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Giga Drain": "19",
+            "Solar Beam": "22",
+            "Double Team": "32",
+            "Reflect": "33",
+            "Shock Wave": "34",
+            "Sludge Bomb": "36",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Energy Ball": "53",
+            "Endure": "58",
+            "Giga Impact": "68",
+            "Flash": "70",
+            "Swords Dance": "75",
+            "Psych Up": "77",
+            "Sleep Talk": "82",
+            "Grass Knot": "86",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Cut": "93",
+            "Rock Smash": "98"
+        }
+    },
+    "entries": {
+        "Tangela": [
+            "The whole body is swathed with wide vines that are similar to seaweed. Its vines shake as it walks.",
+            "Its identity is obscured by masses of thick, blue vines. The vines are said to never stop growing.",
+            "The vines that cloak its entire body are always jiggling. They effectively unnerve its foes.",
+            "It tangles any moving thing with its vines. Their subtle shaking is ticklish if you get ensnared.",
+            "During battle, it constantly moves the vines that cover its body in order to annoy its opponent.",
+            "TANGELA\u2019s vines snap off easily if they are grabbed. This happens without pain, allowing it to make a quick getaway. The lost vines are replaced by newly grown vines the very next day.",
+            "Blue plant vines cloak the pok\u00e9mon\u2019s identity in a tangled mass. It entangles anything that gets close.",
+            "The whole body is swathed with wide vines that are similar to seaweed. The vines sway as it walks.",
+            "Its vines snap off easily and painlessly if they are grabbed, allowing it to make a quick getaway. The lost vines are replaced by new growth the very next day.",
+            "It is shrouded by blue vines. No one has seen the face hidden behind this growth of vines.",
+            "The blue vines shrouding its body are covered in a growth of fine hair. It is known to be ticklish.",
+            "The vines that cloak its entire body are always jiggling. They effectively unnerve its foes.",
+            "It tangles any moving thing with its vines. Their subtle shaking is ticklish if you get ensnared.",
+            "The blue vines shrouding its body are covered in a growth of fine hair. It is known to be ticklish.",
+            "Many writhing vines cover it, so its true identity remains unknown. The blue vines grow its whole life long.",
+            "Many writhing vines cover it, so its true identity remains unknown. The blue vines grow its whole life long.",
+            "It tangles any moving thing with its vines. Their subtle shaking is ticklish if you get ensnared.",
+            "Tangela\u2019s vines snap off easily if they are grabbed. This happens without pain, allowing it to make a quick getaway. The lost vines are replaced by newly grown vines the very next day.",
+            "Its identity is obscured by masses of thick blue vines. The vines are said to never stop growing.",
+            "Hidden beneath a tangle of vines that grows nonstop even if the vines are torn off, this Pok\u00e9mon\u2019s true appearance remains a mystery.",
+            "The vines of a Tangela have a distinct scent. In some parts of Galar, Tangela vines are used as herbs.",
+            "It is shrouded by blue vines. No one has seen the face hidden behind this growth of vines.",
+            "It is cloaked entirely in blue vines, preventing any glimpse of its true identity. The vines impart a refreshing sensation when chewed\u2014they\u2019re useful as a spice."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787481088536618/114.png",
+    "discord_sprite": "<:P114:1132117745799012433>"
+}

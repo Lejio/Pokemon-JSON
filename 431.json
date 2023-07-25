@@ -1,0 +1,181 @@
+{
+    "alt-version(s)": [],
+    "name": "Glameow",
+    "Glameow": {
+        "pokedex_data": {
+            "National No.": "0431",
+            "Type": [
+                "Normal"
+            ],
+            "Species": "Catty Poke\u0301mon",
+            "Height": "0.5 m (1\u203208\u2032\u2032)",
+            "Weight": "3.9 kg (8.6 lbs)",
+            "Abilities": {
+                "Limber": {
+                    "href": "/ability/limber",
+                    "effect": "The Pok\u00e9mon is protected from paralysis.",
+                    "hidden": false
+                },
+                "Own Tempo": {
+                    "href": "/ability/own-tempo",
+                    "effect": "Prevents the Pok\u00e9mon from becoming confused.",
+                    "hidden": false
+                },
+                "Keen Eye": {
+                    "href": "/ability/keen-eye",
+                    "effect": "Prevents other Pok\u00e9mon from lowering accuracy.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Speed",
+            "Catch rate": "190",
+            "BaseFriendship": "50",
+            "Base Exp.": "62",
+            "Growth Rate": "Fast"
+        },
+        "breeding_data": {
+            "Gender": "25% male,75% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "49",
+                "Min": "208",
+                "Max": "302"
+            },
+            "Attack": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Defense": {
+                "Base": "42",
+                "Min": "80",
+                "Max": "201"
+            },
+            "Sp. Atk": {
+                "Base": "42",
+                "Min": "80",
+                "Max": "201"
+            },
+            "Sp. Def": {
+                "Base": "37",
+                "Min": "71",
+                "Max": "190"
+            },
+            "Speed": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Total": "310"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Glameow",
+                    "nationalNo": "#0431",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Purugly",
+                    "nationalNo": "#0432",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 38)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Fake Out": "1",
+            "Scratch": "5",
+            "Growl": "8",
+            "Hypnosis": "13",
+            "Aerial Ace": "17",
+            "Fury Swipes": "20",
+            "Charm": "25",
+            "Taunt": "29",
+            "Retaliate": "32",
+            "Slash": "37",
+            "Sucker Punch": "41",
+            "Attract": "44",
+            "Hone Claws": "48",
+            "Play Rough": "50"
+        },
+        "egg": {
+            "Assurance": null,
+            "Bite": null,
+            "Fake Tears": null,
+            "Flail": null,
+            "Last Resort": null,
+            "Quick Attack": null,
+            "Sand Attack": null,
+            "Tail Whip": null
+        },
+        "tm": {
+            "Water Pulse": "03",
+            "Work Up": "10",
+            "Sunny Day": "11",
+            "Taunt": "12",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Iron Tail": "23",
+            "Thunderbolt": "24",
+            "Thunder": "25",
+            "Dig": "28",
+            "Shadow Ball": "30",
+            "Double Team": "32",
+            "Shock Wave": "34",
+            "Aerial Ace": "40",
+            "Torment": "41",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Endure": "58",
+            "Shadow Claw": "65",
+            "Payback": "66",
+            "Flash": "70",
+            "Psych Up": "77",
+            "Sleep Talk": "82",
+            "Dream Eater": "85",
+            "Swagger": "87",
+            "U-turn": "89",
+            "Substitute": "90",
+            "Cut": "93"
+        }
+    },
+    "entries": {
+        "Glameow": [
+            "It claws if displeased and purrs when affectionate. Its fickleness is very popular among some.",
+            "With its sharp glare, it puts foes in a mild hypnotic state. It is a very fickle Pok\u00e9mon.",
+            "It hides its spiteful tendency of hooking its claws into the nose of its Trainer if it isn\u2019t fed.",
+            "When it\u2019s happy, GLAMEOW demonstrates beautiful movements of its tail, like a dancing ribbon.",
+            "It hides its spiteful tendency of hooking its claws into the nose of its Trainer if it isn\u2019t fed.",
+            "It claws if displeased and purrs when affectionate. Its fickleness is very popular among some.",
+            "When it\u2019s happy, Glameow demonstrates beautiful movements of its tail, like a dancing ribbon.",
+            "It claws if displeased and purrs when affectionate. Its fickleness is very popular among some.",
+            "With its sharp glare, it puts foes in a mild hypnotic state. It is a very fickle Pok\u00e9mon.",
+            "Bewitches humans with its helical tail and piercing gaze. Its hidden claws are quite sharp as well, making this Pok\u00e9mon an exceedingly tricky opponent if antagonized."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789963059540058/431.png",
+    "discord_sprite": "<:P431:1132131697014611988>"
+}

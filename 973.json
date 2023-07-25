@@ -1,0 +1,158 @@
+{
+    "alt-version(s)": [],
+    "name": "Flamigo",
+    "Flamigo": {
+        "pokedex_data": {
+            "National No.": "0973",
+            "Type": [
+                "Flying",
+                "Fighting"
+            ],
+            "Species": "Synchronize Poke\u0301mon",
+            "Height": "1.6 m (5\u203203\u2032\u2032)",
+            "Weight": "37.0 kg (81.6 lbs)",
+            "Abilities": {
+                "Scrappy": {
+                    "href": "/ability/scrappy",
+                    "effect": "Enables moves to hit Ghost-type Pok\u00e9mon.",
+                    "hidden": false
+                },
+                "Tangled Feet": {
+                    "href": "/ability/tangled-feet",
+                    "effect": "Raises evasion if the Pok\u00e9mon is confused.",
+                    "hidden": false
+                },
+                "Costar": {
+                    "href": "/ability/costar",
+                    "effect": "Copies ally's stat changes on entering battle.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "100",
+            "BaseFriendship": "50",
+            "Base Exp.": "175",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "82",
+                "Min": "274",
+                "Max": "368"
+            },
+            "Attack": {
+                "Base": "115",
+                "Min": "211",
+                "Max": "361"
+            },
+            "Defense": {
+                "Base": "74",
+                "Min": "137",
+                "Max": "271"
+            },
+            "Sp. Atk": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Sp. Def": {
+                "Base": "64",
+                "Min": "119",
+                "Max": "249"
+            },
+            "Speed": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Total": "500"
+        },
+        "defense_stats": {
+            "default": {
+                "Electric": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Ground": "no effect",
+                "Flying": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Dark": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Copycat": "1",
+            "Peck": "1",
+            "Double Kick": "5",
+            "Detect": "9",
+            "Wing Attack": "12",
+            "Focus Energy": "15",
+            "Low Kick": "18",
+            "Feint": "21",
+            "Payback": "27",
+            "Roost": "31",
+            "Air Slash": "35",
+            "Mega Kick": "39",
+            "Wide Guard": "44",
+            "Throat Chop": "48",
+            "Brave Bird": "54"
+        },
+        "egg": {
+            "Double Team": null,
+            "Quick Guard": null,
+            "Sky Attack": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Agility": "04",
+            "Protect": "07",
+            "Water Pulse": "11",
+            "Low Kick": "12",
+            "Acrobatics": "14",
+            "Thief": "18",
+            "Pounce": "21",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Low Sweep": "39",
+            "Air Cutter": "40",
+            "Fling": "43",
+            "Endure": "47",
+            "U-turn": "60",
+            "Bulk Up": "64",
+            "Air Slash": "65",
+            "Sleep Talk": "70",
+            "Rest": "85",
+            "Taunt": "87",
+            "Swords Dance": "88",
+            "Fly": "97",
+            "Substitute": "103",
+            "Liquidation": "110",
+            "Tailwind": "113",
+            "Reversal": "134",
+            "Giga Impact": "152",
+            "Hurricane": "160",
+            "Hyper Beam": "163",
+            "Brave Bird": "164",
+            "Close Combat": "167",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Flamigo": [
+            "This Pok\u00e9mon apparently ties the base of its neck into a knot so that energy stored in its belly does not escape from its beak.",
+            "Thanks to a behavior of theirs known as \u201csynchronizing,\u201d an entire flock of these Pok\u00e9mon can attack simultaneously in perfect harmony."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131794188246192229/973.png",
+    "discord_sprite": "<:P973:1132155605377896498>"
+}

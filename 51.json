@@ -1,0 +1,371 @@
+{
+    "alt-version(s)": [
+        "Alolan Dugtrio"
+    ],
+    "name": "Dugtrio",
+    "Dugtrio": {
+        "pokedex_data": {
+            "National No.": "0051",
+            "Type": [
+                "Ground"
+            ],
+            "Species": "Mole Poke\u0301mon",
+            "Height": "0.7 m (2\u203204\u2032\u2032)",
+            "Weight": "33.3 kg (73.4 lbs)",
+            "Abilities": {
+                "Sand Veil": {
+                    "href": "/ability/sand-veil",
+                    "effect": "Boosts the Pok\u00e9mon's evasion in a sandstorm.",
+                    "hidden": false
+                },
+                "Arena Trap": {
+                    "href": "/ability/arena-trap",
+                    "effect": "Prevents the foe from fleeing.",
+                    "hidden": false
+                },
+                "Sand Force": {
+                    "href": "/ability/sand-force",
+                    "effect": "Boosts certain moves' power in a sandstorm.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Speed",
+            "Catch rate": "50",
+            "BaseFriendship": "50",
+            "Base Exp.": "149",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "35",
+                "Min": "180",
+                "Max": "274"
+            },
+            "Attack": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Defense": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Atk": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Def": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Speed": {
+                "Base": "120",
+                "Min": "220",
+                "Max": "372"
+            },
+            "Total": "425"
+        },
+        "defense_stats": {
+            "default": {
+                "Water": "super-effective",
+                "Electric": "no effect",
+                "Grass": "super-effective",
+                "Ice": "super-effective",
+                "Poison": "not very effective",
+                "Rock": "not very effective"
+            }
+        }
+    },
+    "Alolan Dugtrio": {
+        "pokedex_data": {
+            "National No.": "0051",
+            "Type": [
+                "Ground",
+                "Steel"
+            ],
+            "Species": "Mole Poke\u0301mon",
+            "Height": "0.7 m (2\u203204\u2032\u2032)",
+            "Weight": "66.6 kg (146.8 lbs)",
+            "Abilities": {
+                "Sand Veil": {
+                    "href": "/ability/sand-veil",
+                    "effect": "Boosts the Pok\u00e9mon's evasion in a sandstorm.",
+                    "hidden": false
+                },
+                "Tangling Hair": {
+                    "href": "/ability/tangling-hair",
+                    "effect": "Contact with the Pok\u00e9mon lowers the attacker's Speed stat.",
+                    "hidden": false
+                },
+                "Sand Force": {
+                    "href": "/ability/sand-force",
+                    "effect": "Boosts certain moves' power in a sandstorm.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "50",
+            "BaseFriendship": "50",
+            "Base Exp.": "149",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "35",
+                "Min": "180",
+                "Max": "274"
+            },
+            "Attack": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Defense": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Atk": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Def": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Speed": {
+                "Base": "110",
+                "Min": "202",
+                "Max": "350"
+            },
+            "Total": "425"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Fire": "super-effective",
+                "Water": "super-effective",
+                "Electric": "no effect",
+                "Fighting": "super-effective",
+                "Poison": "no effect",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Dragon": "not very effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Diglett",
+                    "nationalNo": "#0050",
+                    "type": [
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Dugtrio",
+                    "nationalNo": "#0051",
+                    "type": [
+                        "Ground"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 26)",
+                "shed": null
+            }
+        ],
+        [
+            {
+                "from": {
+                    "name": "Diglett",
+                    "nationalNo": "#0050",
+                    "type": [
+                        "Ground",
+                        "Steel"
+                    ],
+                    "nickname": "Alolan Diglett"
+                },
+                "to": {
+                    "name": "Dugtrio",
+                    "nationalNo": "#0051",
+                    "type": [
+                        "Ground",
+                        "Steel"
+                    ],
+                    "nickname": "Alolan Dugtrio"
+                },
+                "requirement": "(Level 26)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Sand Tomb": "35"
+        },
+        "evolution": {
+            "Sand Tomb": "35"
+        },
+        "Dugtrio": {
+            "egg": {
+                "Ancient Power": null,
+                "Final Gambit": null,
+                "Headbutt": null,
+                "Hone Claws": null,
+                "Memento": null
+            },
+            "tm": {
+                "Take Down": "01",
+                "Charm": "02",
+                "Agility": "04",
+                "Mud-Slap": "05",
+                "Protect": "07",
+                "Thief": "18",
+                "Facade": "25",
+                "Bulldoze": "28",
+                "Mud Shot": "35",
+                "Rock Tomb": "36",
+                "Endure": "47",
+                "Sunny Day": "49",
+                "Sandstorm": "51",
+                "Dig": "55",
+                "Shadow Claw": "61",
+                "Foul Play": "62",
+                "Body Slam": "66",
+                "Sleep Talk": "70",
+                "Rock Blast": "76",
+                "Stomping Tantrum": "84",
+                "Rest": "85",
+                "Rock Slide": "86",
+                "Swords Dance": "88",
+                "Substitute": "103",
+                "Stealth Rock": "116",
+                "Earth Power": "133",
+                "Reversal": "134",
+                "Sludge Bomb": "148",
+                "Earthquake": "149",
+                "Stone Edge": "150",
+                "Giga Impact": "152",
+                "Hyper Beam": "163",
+                "Tera Blast": "171"
+            }
+        },
+        "Alolan Dugtrio": {
+            "egg": {
+                "Ancient Power": null,
+                "Final Gambit": null,
+                "Headbutt": null,
+                "Hone Claws": null,
+                "Memento": null,
+                "Metal Sound": null,
+                "Thrash": null
+            },
+            "tm": {
+                "Take Down": "01",
+                "Charm": "02",
+                "Agility": "04",
+                "Mud-Slap": "05",
+                "Scary Face": "06",
+                "Protect": "07",
+                "Thief": "18",
+                "Facade": "25",
+                "Bulldoze": "28",
+                "Metal Claw": "31",
+                "Mud Shot": "35",
+                "Rock Tomb": "36",
+                "Endure": "47",
+                "Sunny Day": "49",
+                "Sandstorm": "51",
+                "Dig": "55",
+                "Shadow Claw": "61",
+                "Foul Play": "62",
+                "Body Slam": "66",
+                "Sleep Talk": "70",
+                "Rock Blast": "76",
+                "Stomping Tantrum": "84",
+                "Rest": "85",
+                "Rock Slide": "86",
+                "Swords Dance": "88",
+                "Flash Cannon": "93",
+                "Iron Head": "99",
+                "Substitute": "103",
+                "Iron Defense": "104",
+                "Stealth Rock": "116",
+                "Helping Hand": "130",
+                "Earth Power": "133",
+                "Reversal": "134",
+                "Sludge Bomb": "148",
+                "Earthquake": "149",
+                "Stone Edge": "150",
+                "Giga Impact": "152",
+                "Hyper Beam": "163",
+                "Steel Beam": "170",
+                "Tera Blast": "171"
+            }
+        }
+    },
+    "entries": {
+        "Dugtrio": [
+            "A team of DIGLETT triplets. It triggers huge earthquakes by burrowing 60 miles underground.",
+            "A team of triplets that can burrow over 60 MPH. Due to this, some people think it\u2019s an earthquake.",
+            "Its three heads bob separately up and down to loosen the soil nearby, making it easier for it to burrow.",
+            "Extremely powerful, they can DIG through even the hardest ground to a depth of over 60 miles.",
+            "These DIGLETT triplets dig over 60 miles below sea level. No one knows what it\u2019s like underground.",
+            "DUGTRIO are actually triplets that emerged from one body. As a result, each triplet thinks exactly like the other two triplets. They work cooperatively to burrow endlessly.",
+            "In battle, it digs through the ground and strikes the unsuspecting foe from an unexpected direction.",
+            "A team of DIGLETT triplets. It triggers huge earthquakes by burrowing 60 miles underground.",
+            "Because the triplets originally split from one body, they think exactly alike. They work cooperatively to burrow endlessly through the ground.",
+            "Its three heads move alternately, driving it through tough soil to depths of over 60 miles.",
+            "Its three heads bob separately up and down to loosen the soil nearby, making it easier for it to burrow.",
+            "Extremely powerful, they can dig through even the hardest ground to a depth of over 60 miles.",
+            "Its three heads move alternately, driving it through tough soil to depths of over 60 miles.",
+            "In battle, it digs through the ground and strikes the unsuspecting foe from an unexpected direction.",
+            "Extremely powerful, they can dig through even the hardest ground to a depth of over 60 miles.",
+            "Dugtrio are actually triplets that emerged from one body. As a result, each triplet thinks exactly like the other two triplets. They work cooperatively to burrow endlessly.",
+            "This set of triplets moves cooperatively. It\u2019s the power of teamwork that enables this Pok\u00e9mon to dig to a depth of 60 miles.",
+            "Despite the closeness between this Pok\u00e9mon and farmers and other people, no one has ever seen the parts of it concealed underground.",
+            "While the three of them normally get along splendidly, on rare occasions a huge fight will break out over which head gets to eat first.",
+            "Dugtrio\u2019s heads are sleek and smooth and incredibly hard. It can dig through any soil with its headbutts.",
+            "A team of triplets that can burrow to a depth of 60 miles. It\u2019s reported that this triggers an earthquake.",
+            "A team of Diglett triplets. It triggers huge earthquakes by burrowing 60 miles underground.",
+            "These Diglett triplets dig over 60 miles below sea level. No one knows what it\u2019s like underground.",
+            "Its three heads move alternately, driving it through tough soil to depths of over 60 miles.",
+            "Its three heads bob separately up and down to loosen the soil nearby, making it easier for it to burrow.",
+            "In battle, it digs through the ground and strikes the unsuspecting foe from an unexpected direction."
+        ],
+        "Alolan Dugtrio": [
+            "Its shining gold hair provides it with protection. It\u2019s reputed that keeping any of its fallen hairs will bring bad luck.",
+            "These Pok\u00e9mon are cherished in the Alola region, where they are thought to be feminine deities of the land incarnate.",
+            "Its metallic whiskers are heavy, so it\u2019s not very fast, but it has the power to dig through bedrock.",
+            "Its shining gold whiskers are advanced sensors that can detect vibrations from sounds several miles away.",
+            "They\u2019re referred to as triplets, but they\u2019re not identical\u2014the metallic elements in their bodies differ slightly. The proof shows in their whiskers!",
+            "Their beautiful, metallic whiskers create a sort of protective helmet on their heads, and they also function as highly precise sensors.",
+            "The three of them get along very well. Through their formidable teamwork, they defeat powerful opponents."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131786989801316412/51.png",
+    "discord_sprite": "<:P51:1132114961150259220>"
+}

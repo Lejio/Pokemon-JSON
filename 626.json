@@ -1,0 +1,178 @@
+{
+    "alt-version(s)": [],
+    "name": "Bouffalant",
+    "Bouffalant": {
+        "pokedex_data": {
+            "National No.": "0626",
+            "Type": [
+                "Normal"
+            ],
+            "Species": "Bash Buffalo Poke\u0301mon",
+            "Height": "1.6 m (5\u203203\u2032\u2032)",
+            "Weight": "94.6 kg (208.6 lbs)",
+            "Abilities": {
+                "Reckless": {
+                    "href": "/ability/reckless",
+                    "effect": "Powers up moves that have recoil damage.",
+                    "hidden": false
+                },
+                "Sap Sipper": {
+                    "href": "/ability/sap-sipper",
+                    "effect": "Boosts Attack when hit by a Grass-type move.",
+                    "hidden": false
+                },
+                "Soundproof": {
+                    "href": "/ability/soundproof",
+                    "effect": "Gives immunity to <q>sound-based</q> moves.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "172",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "95",
+                "Min": "300",
+                "Max": "394"
+            },
+            "Attack": {
+                "Base": "110",
+                "Min": "202",
+                "Max": "350"
+            },
+            "Defense": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Sp. Atk": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Def": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Speed": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Total": "490"
+        },
+        "defense_stats": {
+            "Reckless ability": {
+                "Fighting": "super-effective",
+                "Ghost": "no effect"
+            },
+            "Sap Sipper ability": {
+                "Grass": "no effect",
+                "Fighting": "super-effective",
+                "Ghost": "no effect"
+            },
+            "Soundproof ability": {
+                "Fighting": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Leer": "1",
+            "Tackle": "1",
+            "Focus Energy": "5",
+            "Fury Attack": "10",
+            "Revenge": "15",
+            "Scary Face": "20",
+            "Horn Attack": "25",
+            "Reversal": "30",
+            "Throat Chop": "35",
+            "Head Charge": "40",
+            "Swords Dance": "45",
+            "Megahorn": "50",
+            "Giga Impact": "55"
+        },
+        "egg": {
+            "Belch": null,
+            "Cotton Guard": null,
+            "Endeavor": null,
+            "Headbutt": null,
+            "Mud-Slap": null,
+            "Skull Bash": null,
+            "Stomp": null
+        },
+        "null": {
+            "Swords Dance": "00",
+            "Body Slam": "01",
+            "Surf": "04",
+            "Earthquake": "10",
+            "Focus Energy": "13",
+            "Amnesia": "17",
+            "Substitute": "20",
+            "Reversal": "21",
+            "Outrage": "24",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Megahorn": "28",
+            "Uproar": "35",
+            "Taunt": "37",
+            "Superpower": "39",
+            "Close Combat": "53",
+            "Poison Jab": "57",
+            "Zen Headbutt": "69",
+            "Iron Head": "74",
+            "Stone Edge": "75",
+            "Work Up": "85",
+            "Wild Charge": "86",
+            "High Horsepower": "94",
+            "Throat Chop": "95"
+        },
+        "tm": {
+            "Giga Impact": "09",
+            "Rest": "21",
+            "Rock Slide": "22",
+            "Snore": "24",
+            "Protect": "25",
+            "Scary Face": "26",
+            "Attract": "31",
+            "Rain Dance": "33",
+            "Sunny Day": "34",
+            "Facade": "39",
+            "Revenge": "42",
+            "Rock Tomb": "48",
+            "Mud Shot": "53",
+            "Payback": "57",
+            "Assurance": "58",
+            "Round": "76",
+            "Retaliate": "79",
+            "Bulldoze": "81",
+            "Smart Strike": "96",
+            "Stomping Tantrum": "98"
+        }
+    },
+    "entries": {
+        "Bouffalant": [
+            "Their fluffy fur absorbs damage, even if they strike foes with a fierce headbutt.",
+            "They charge wildly and headbutt everything. Their headbutts have enough destructive force to derail a train.",
+            "They are known to charge so wildly that if a train were to enter their territory, they would send it flying.",
+            "They charge wildly and headbutt everything. Their headbutts have enough destructive force to derail a train.",
+            "Their fluffy fur absorbs damage, even if they strike foes with a fierce headbutt.",
+            "These Pok\u00e9mon can crush a car with no more than a headbutt. Bouffalant with more hair on their heads hold higher positions within the herd.",
+            "These Pok\u00e9mon live in herds of about 20 individuals. Bouffalant that betray the herd will lose the hair on their heads for some reason."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791484815945778/626.png",
+    "discord_sprite": "<:P626:1132140290401124352>"
+}

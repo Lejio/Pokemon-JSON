@@ -1,0 +1,224 @@
+{
+    "alt-version(s)": [],
+    "name": "Haxorus",
+    "Haxorus": {
+        "pokedex_data": {
+            "National No.": "0612",
+            "Type": [
+                "Dragon"
+            ],
+            "Species": "Axe Jaw Poke\u0301mon",
+            "Height": "1.8 m (5\u203211\u2032\u2032)",
+            "Weight": "105.5 kg (232.6 lbs)",
+            "Abilities": {
+                "Rivalry": {
+                    "href": "/ability/rivalry",
+                    "effect": "Deals more damage to a Pok\u00e9mon of same gender.",
+                    "hidden": false
+                },
+                "Mold Breaker": {
+                    "href": "/ability/mold-breaker",
+                    "effect": "Moves can be used regardless of Abilities.",
+                    "hidden": false
+                },
+                "Unnerve": {
+                    "href": "/ability/unnerve",
+                    "effect": "Makes the foe nervous and unable to eat Berries.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Attack",
+            "Catch rate": "45",
+            "BaseFriendship": "35",
+            "Base Exp.": "270",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "76",
+                "Min": "262",
+                "Max": "356"
+            },
+            "Attack": {
+                "Base": "147",
+                "Min": "269",
+                "Max": "432"
+            },
+            "Defense": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Sp. Atk": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Def": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Speed": {
+                "Base": "97",
+                "Min": "179",
+                "Max": "322"
+            },
+            "Total": "540"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Dragon": "super-effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Axew",
+                    "nationalNo": "#0610",
+                    "type": [
+                        "Dragon"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Fraxure",
+                    "nationalNo": "#0611",
+                    "type": [
+                        "Dragon"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 38)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Fraxure",
+                    "nationalNo": "#0611",
+                    "type": [
+                        "Dragon"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Haxorus",
+                    "nationalNo": "#0612",
+                    "type": [
+                        "Dragon"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 48)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Bite": "1",
+            "False Swipe": "1",
+            "Leer": "1",
+            "Scratch": "1",
+            "Assurance": "9",
+            "Taunt": "12",
+            "Slash": "15",
+            "Dragon Claw": "18",
+            "Scary Face": "21",
+            "Crunch": "24",
+            "Dragon Dance": "27",
+            "Breaking Swipe": "30",
+            "Focus Energy": "33",
+            "Dragon Pulse": "36",
+            "Swords Dance": "41",
+            "Outrage": "46",
+            "Guillotine": "53",
+            "Giga Impact": "60"
+        },
+        "egg": {
+            "Aqua Tail": null,
+            "Counter": null,
+            "Endeavor": null,
+            "First Impression": null,
+            "Iron Tail": null,
+            "Night Slash": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Low Kick": "12",
+            "Trailblaze": "20",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Bulldoze": "28",
+            "Snarl": "30",
+            "Swift": "32",
+            "Rock Tomb": "36",
+            "Low Sweep": "39",
+            "Fling": "43",
+            "Dragon Tail": "44",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Dig": "55",
+            "False Swipe": "57",
+            "Brick Break": "58",
+            "Shadow Claw": "61",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Dragon Claw": "78",
+            "Grass Knot": "81",
+            "Poison Jab": "83",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Taunt": "87",
+            "Swords Dance": "88",
+            "Iron Head": "99",
+            "Dragon Dance": "100",
+            "Substitute": "103",
+            "X-Scissor": "105",
+            "Crunch": "108",
+            "Dragon Pulse": "115",
+            "Surf": "123",
+            "Reversal": "134",
+            "Earthquake": "149",
+            "Giga Impact": "152",
+            "Outrage": "156",
+            "Focus Blast": "158",
+            "Hyper Beam": "163",
+            "Close Combat": "167",
+            "Draco Meteor": "169",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Haxorus": [
+            "They are kind but can be relentless when defending territory. They challenge foes with tusks that can cut steel.",
+            "Their sturdy tusks will stay sharp even if used to cut steel beams. These Pok\u00e9mon are covered in hard armor.",
+            "Its tusks are incredibly destructive. They can easily slice through a thick, sturdy steel column every time.",
+            "They are kind but can be relentless when defending territory. They challenge foes with tusks that can cut steel.",
+            "Their sturdy tusks will stay sharp even if used to cut steel beams. These Pok\u00e9mon are covered in hard armor.",
+            "Its resilient tusks are its pride and joy. It licks up dirt to take in the minerals it needs to keep its tusks in top condition.",
+            "While usually kindhearted, it can be terrifying if angered. Tusks that can slice through steel beams are how Haxorus deals with its adversaries.",
+            "This Pok\u00e9mon nests in caves and abandoned mines. It is docile, but it will become incredibly angry if its tusks are touched, so beware.",
+            "It overwhelms enemies with its prized tusks, which are sharp enough to cut through a metal transmission tower in one strike."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791373624946740/612.png",
+    "discord_sprite": "<:P612:1132139674727612456>"
+}

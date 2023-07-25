@@ -1,0 +1,407 @@
+{
+    "alt-version(s)": [
+        "Hisuian Sliggoo"
+    ],
+    "name": "Sliggoo",
+    "Sliggoo": {
+        "pokedex_data": {
+            "National No.": "0705",
+            "Type": [
+                "Dragon"
+            ],
+            "Species": "Soft Tissue Poke\u0301mon",
+            "Height": "0.8 m (2\u203207\u2032\u2032)",
+            "Weight": "17.5 kg (38.6 lbs)",
+            "Abilities": {
+                "Sap Sipper": {
+                    "href": "/ability/sap-sipper",
+                    "effect": "Boosts Attack when hit by a Grass-type move.",
+                    "hidden": false
+                },
+                "Hydration": {
+                    "href": "/ability/hydration",
+                    "effect": "Heals status problems if it is raining.",
+                    "hidden": false
+                },
+                "Gooey": {
+                    "href": "/ability/gooey",
+                    "effect": "Contact with the Pok\u00e9mon lowers the attacker's Speed stat.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Sp. Def",
+            "Catch rate": "45",
+            "BaseFriendship": "35",
+            "Base Exp.": "158",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "68",
+                "Min": "246",
+                "Max": "340"
+            },
+            "Attack": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Defense": {
+                "Base": "53",
+                "Min": "99",
+                "Max": "225"
+            },
+            "Sp. Atk": {
+                "Base": "83",
+                "Min": "153",
+                "Max": "291"
+            },
+            "Sp. Def": {
+                "Base": "113",
+                "Min": "207",
+                "Max": "357"
+            },
+            "Speed": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Total": "452"
+        },
+        "defense_stats": {
+            "Sap Sipper ability": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "no effect",
+                "Ice": "super-effective",
+                "Dragon": "super-effective",
+                "Fairy": "super-effective"
+            },
+            "Hydration ability": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Dragon": "super-effective",
+                "Fairy": "super-effective"
+            },
+            "Gooey ability": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Dragon": "super-effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "Hisuian Sliggoo": {
+        "pokedex_data": {
+            "National No.": "0705",
+            "Type": [
+                "Steel",
+                "Dragon"
+            ],
+            "Species": "Snail Poke\u0301mon",
+            "Height": "0.7 m (2\u203204\u2032\u2032)",
+            "Weight": "68.5 kg (151.0 lbs)",
+            "Abilities": {
+                "Sap Sipper": {
+                    "href": "/ability/sap-sipper",
+                    "effect": "Boosts Attack when hit by a Grass-type move.",
+                    "hidden": false
+                },
+                "Shell Armor": {
+                    "href": "/ability/shell-armor",
+                    "effect": "The Pok\u00e9mon is protected against critical hits.",
+                    "hidden": false
+                },
+                "Gooey": {
+                    "href": "/ability/gooey",
+                    "effect": "Contact with the Pok\u00e9mon lowers the attacker's Speed stat.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Sp. Def",
+            "Catch rate": "45",
+            "BaseFriendship": "35",
+            "Base Exp.": "158",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "58",
+                "Min": "226",
+                "Max": "320"
+            },
+            "Attack": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Defense": {
+                "Base": "83",
+                "Min": "153",
+                "Max": "291"
+            },
+            "Sp. Atk": {
+                "Base": "83",
+                "Min": "153",
+                "Max": "291"
+            },
+            "Sp. Def": {
+                "Base": "113",
+                "Min": "207",
+                "Max": "357"
+            },
+            "Speed": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Total": "452"
+        },
+        "defense_stats": {
+            "Sap Sipper ability": {
+                "Normal": "not very effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "no effect",
+                "Fighting": "super-effective",
+                "Poison": "no effect",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Steel": "not very effective"
+            },
+            "Shell Armor ability": {
+                "Normal": "not very effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Fighting": "super-effective",
+                "Poison": "no effect",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Steel": "not very effective"
+            },
+            "Gooey ability": {
+                "Normal": "not very effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Fighting": "super-effective",
+                "Poison": "no effect",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Goomy",
+                    "nationalNo": "#0704",
+                    "type": [
+                        "Dragon"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Sliggoo",
+                    "nationalNo": "#0705",
+                    "type": [
+                        "Dragon"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 40)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Sliggoo",
+                    "nationalNo": "#0705",
+                    "type": [
+                        "Dragon"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Goodra",
+                    "nationalNo": "#0706",
+                    "type": [
+                        "Dragon"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 50, during rain)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Goomy",
+                    "nationalNo": "#0704",
+                    "type": [
+                        "Dragon"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Sliggoo",
+                    "nationalNo": "#0705",
+                    "type": [
+                        "Steel",
+                        "Dragon"
+                    ],
+                    "nickname": "Hisuian Sliggoo"
+                },
+                "requirement": "(Level 40, in Legends: Arceus)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Sliggoo",
+                    "nationalNo": "#0705",
+                    "type": [
+                        "Steel",
+                        "Dragon"
+                    ],
+                    "nickname": "Hisuian Sliggoo"
+                },
+                "to": {
+                    "name": "Goodra",
+                    "nationalNo": "#0706",
+                    "type": [
+                        "Steel",
+                        "Dragon"
+                    ],
+                    "nickname": "Hisuian Goodra"
+                },
+                "requirement": "(Level 50, during rain, in Legends: Arceus)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Counter": "\u2014",
+            "Life Dew": "\u2014"
+        },
+        "evolution": {
+            "Counter": "\u2014",
+            "Life Dew": "\u2014"
+        },
+        "egg": {
+            "Counter": null,
+            "Life Dew": null
+        },
+        "Sliggoo": {
+            "tm": {
+                "Take Down": "01",
+                "Charm": "02",
+                "Protect": "07",
+                "Water Pulse": "11",
+                "Acid Spray": "13",
+                "Chilling Water": "22",
+                "Facade": "25",
+                "Mud Shot": "35",
+                "Endure": "47",
+                "Sunny Day": "49",
+                "Rain Dance": "50",
+                "Body Slam": "66",
+                "Sleep Talk": "70",
+                "Rest": "85",
+                "Rock Slide": "86",
+                "Substitute": "103",
+                "Dragon Pulse": "115",
+                "Thunderbolt": "126",
+                "Ice Beam": "135",
+                "Blizzard": "143",
+                "Sludge Bomb": "148",
+                "Outrage": "156",
+                "Thunder": "166",
+                "Draco Meteor": "169",
+                "Tera Blast": "171"
+            }
+        },
+        "Hisuian Sliggoo": {
+            "tm": {
+                "Take Down": "01",
+                "Charm": "02",
+                "Protect": "07",
+                "Water Pulse": "11",
+                "Acid Spray": "13",
+                "Chilling Water": "22",
+                "Facade": "25",
+                "Mud Shot": "35",
+                "Rock Tomb": "36",
+                "Endure": "47",
+                "Sunny Day": "49",
+                "Rain Dance": "50",
+                "Sandstorm": "51",
+                "Body Slam": "66",
+                "Sleep Talk": "70",
+                "Rest": "85",
+                "Rock Slide": "86",
+                "Flash Cannon": "93",
+                "Iron Head": "99",
+                "Substitute": "103",
+                "Dragon Pulse": "115",
+                "Heavy Slam": "121",
+                "Ice Spinner": "124",
+                "Thunderbolt": "126",
+                "Ice Beam": "135",
+                "Blizzard": "143",
+                "Sludge Bomb": "148",
+                "Outrage": "156",
+                "Thunder": "166",
+                "Draco Meteor": "169",
+                "Steel Beam": "170",
+                "Tera Blast": "171"
+            }
+        }
+    },
+    "entries": {
+        "Sliggoo": [
+            "It drives away opponents by excreting a sticky liquid that can dissolve anything. Its eyes devolved, so it can\u2019t see anything.",
+            "Its four horns are a high-performance radar system. It uses them to sense sounds and smells, rather than using ears or a nose.",
+            "It has trouble drawing a line between friends and food. It will calmly try to melt and eat even those it gets along well with.",
+            "This Pok\u00e9mon\u2019s mucous can dissolve anything. Toothless, it sprays mucous on its prey. Once they\u2019re nicely dissolved, it slurps them up.",
+            "It crawls along sluggishly. The swirly protrusion on its back is filled with its brain and other organs.",
+            "Its entire body is covered with gooey mucus that can dissolve anything. Be sure to put gloves on if you\u2019re going to touch it.",
+            "Although this Pok\u00e9mon isn\u2019t very strong, its body is coated in a caustic slime that can melt through anything, so predators steer clear of it.",
+            "The lump on its back contains its tiny brain. It thinks only of food and escaping its enemies.",
+            "The swirly protrusion on its back is filled with all its vital organs, such as its brain and heart.",
+            "When Sliggoo senses danger, the mucus coating its entire body becomes more concentrated\u2014it\u2019ll dissolve anything."
+        ],
+        "Hisuian Sliggoo": [
+            "A creature given to melancholy. I suspect its metallic shell developed as a result of the mucus on its skin reacting with the iron in Hisui\u2019s water."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792097482117160/705.png",
+    "discord_sprite": "<:P705:1132143761468698804>"
+}

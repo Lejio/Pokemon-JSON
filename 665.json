@@ -1,0 +1,154 @@
+{
+    "alt-version(s)": [],
+    "name": "Spewpa",
+    "Spewpa": {
+        "pokedex_data": {
+            "National No.": "0665",
+            "Type": [
+                "Bug"
+            ],
+            "Species": "Scatterdust Poke\u0301mon",
+            "Height": "0.3 m (1\u203200\u2032\u2032)",
+            "Weight": "8.4 kg (18.5 lbs)",
+            "Abilities": {
+                "Shed Skin": {
+                    "href": "/ability/shed-skin",
+                    "effect": "The Pok\u00e9mon may heal its own status problems.",
+                    "hidden": false
+                },
+                "Friend Guard": {
+                    "href": "/ability/friend-guard",
+                    "effect": "Reduces damage done to allies.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Defense",
+            "Catch rate": "120",
+            "BaseFriendship": "50",
+            "Base Exp.": "75",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "45",
+                "Min": "200",
+                "Max": "294"
+            },
+            "Attack": {
+                "Base": "22",
+                "Min": "44",
+                "Max": "157"
+            },
+            "Defense": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Atk": {
+                "Base": "27",
+                "Min": "53",
+                "Max": "168"
+            },
+            "Sp. Def": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Speed": {
+                "Base": "29",
+                "Min": "56",
+                "Max": "172"
+            },
+            "Total": "213"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Grass": "not very effective",
+                "Fighting": "not very effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Rock": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Scatterbug",
+                    "nationalNo": "#0664",
+                    "type": [
+                        "Bug"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Spewpa",
+                    "nationalNo": "#0665",
+                    "type": [
+                        "Bug"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 9)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Spewpa",
+                    "nationalNo": "#0665",
+                    "type": [
+                        "Bug"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Vivillon",
+                    "nationalNo": "#0666",
+                    "type": [
+                        "Bug",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 12)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Harden": "1"
+        },
+        "evolution": {
+            "Protect": "\u2014"
+        },
+        "egg": {
+            "Poison Powder": null,
+            "Rage Powder": null
+        },
+        "tm": {
+            "Protect": "07",
+            "Struggle Bug": "15",
+            "Pounce": "21",
+            "Iron Defense": "104",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Spewpa": [
+            "It lives hidden within thicket shadows. When predators attack, it quickly bristles the fur covering its body in an effort to threaten them.",
+            "The beaks of bird Pok\u00e9mon can\u2019t begin to scratch its stalwart body. To defend itself, it spews powder.",
+            "If Rufflet attacks this Pok\u00e9mon by pecking at it, it will retaliate with its sharp fur and poisonous black powder.",
+            "Spewpa doesn\u2019t live in a fixed location. It roams where it pleases across the fields and mountains, building up the energy it needs to evolve."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791786579341423/665.png",
+    "discord_sprite": "<:P665:1132142005955350558>"
+}

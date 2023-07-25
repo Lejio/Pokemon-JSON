@@ -1,0 +1,179 @@
+{
+    "alt-version(s)": [],
+    "name": "Sobble",
+    "Sobble": {
+        "pokedex_data": {
+            "National No.": "0816",
+            "Type": [
+                "Water"
+            ],
+            "Species": "Water Lizard Poke\u0301mon",
+            "Height": "0.3 m (1\u203200\u2032\u2032)",
+            "Weight": "4.0 kg (8.8 lbs)",
+            "Abilities": {
+                "Torrent": {
+                    "href": "/ability/torrent",
+                    "effect": "Powers up Water-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Sniper": {
+                    "href": "/ability/sniper",
+                    "effect": "Powers up moves if they become critical hits.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Sp. Def, 1 Speed",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "62",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "50",
+                "Min": "210",
+                "Max": "304"
+            },
+            "Attack": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Defense": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Atk": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Def": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Speed": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Total": "310"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Sobble",
+                    "nationalNo": "#0816",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Drizzile",
+                    "nationalNo": "#0817",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 16)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Drizzile",
+                    "nationalNo": "#0817",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Inteleon",
+                    "nationalNo": "#0818",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 35)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Growl": "1",
+            "Pound": "1",
+            "Water Gun": "6",
+            "Bind": "8",
+            "Water Pulse": "12",
+            "Tearful Look": "17",
+            "Sucker Punch": "20",
+            "U-turn": "24",
+            "Liquidation": "28",
+            "Soak": "32",
+            "Rain Dance": "36"
+        },
+        "egg": {
+            "Aqua Jet": null,
+            "Aqua Ring": null,
+            "Double Team": null,
+            "Fell Stinger": null,
+            "Haze": null,
+            "Ice Shard": null,
+            "Mist": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Protect": "07",
+            "Water Pulse": "11",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Swift": "32",
+            "Mud Shot": "35",
+            "Endure": "47",
+            "Rain Dance": "50",
+            "U-turn": "60",
+            "Sleep Talk": "70",
+            "Reflect": "74",
+            "Light Screen": "75",
+            "Waterfall": "77",
+            "Rest": "85",
+            "Substitute": "103",
+            "Liquidation": "110",
+            "Surf": "123",
+            "Hydro Pump": "142",
+            "Water Pledge": "145",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Sobble": [
+            "When scared, this Pok\u00e9mon cries. Its tears pack the chemical punch of 100 onions, and attackers won\u2019t be able to resist weeping.",
+            "When it gets wet, its skin changes color, and this Pok\u00e9mon becomes invisible as if it were camouflaged."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792966588055602/816.png",
+    "discord_sprite": "<:P816:1132148704057491506>"
+}

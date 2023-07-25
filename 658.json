@@ -1,0 +1,301 @@
+{
+    "alt-version(s)": [
+        "Ash-Greninja"
+    ],
+    "name": "Greninja",
+    "Greninja": {
+        "pokedex_data": {
+            "National No.": "0658",
+            "Type": [
+                "Water",
+                "Dark"
+            ],
+            "Species": "Ninja Poke\u0301mon",
+            "Height": "1.5 m (4\u203211\u2032\u2032)",
+            "Weight": "40.0 kg (88.2 lbs)",
+            "Abilities": {
+                "Torrent": {
+                    "href": "/ability/torrent",
+                    "effect": "Powers up Water-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Protean": {
+                    "href": "/ability/protean",
+                    "effect": "Changes the Pok\u00e9mon's type to its last used move.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Speed",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "265",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "72",
+                "Min": "254",
+                "Max": "348"
+            },
+            "Attack": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Defense": {
+                "Base": "67",
+                "Min": "125",
+                "Max": "256"
+            },
+            "Sp. Atk": {
+                "Base": "103",
+                "Min": "189",
+                "Max": "335"
+            },
+            "Sp. Def": {
+                "Base": "71",
+                "Min": "132",
+                "Max": "265"
+            },
+            "Speed": {
+                "Base": "122",
+                "Min": "224",
+                "Max": "377"
+            },
+            "Total": "530"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Psychic": "no effect",
+                "Bug": "super-effective",
+                "Ghost": "not very effective",
+                "Dark": "not very effective",
+                "Steel": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "Ash-Greninja": {
+        "pokedex_data": {
+            "National No.": "0658",
+            "Type": [
+                "Water",
+                "Dark"
+            ],
+            "Species": "Ninja Poke\u0301mon",
+            "Height": "1.5 m (4\u203211\u2032\u2032)",
+            "Weight": "40.0 kg (88.2 lbs)",
+            "Abilities": {
+                "Battle Bond": {
+                    "href": "/ability/battle-bond",
+                    "effect": "Transform into Ash-Greninja after causing opponent to faint.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Speed",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "265",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "100% male,0% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "72",
+                "Min": "254",
+                "Max": "348"
+            },
+            "Attack": {
+                "Base": "145",
+                "Min": "265",
+                "Max": "427"
+            },
+            "Defense": {
+                "Base": "67",
+                "Min": "125",
+                "Max": "256"
+            },
+            "Sp. Atk": {
+                "Base": "153",
+                "Min": "279",
+                "Max": "445"
+            },
+            "Sp. Def": {
+                "Base": "71",
+                "Min": "132",
+                "Max": "265"
+            },
+            "Speed": {
+                "Base": "132",
+                "Min": "242",
+                "Max": "399"
+            },
+            "Total": "640"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Psychic": "no effect",
+                "Bug": "super-effective",
+                "Ghost": "not very effective",
+                "Dark": "not very effective",
+                "Steel": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Froakie",
+                    "nationalNo": "#0656",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Frogadier",
+                    "nationalNo": "#0657",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 16)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Frogadier",
+                    "nationalNo": "#0657",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Greninja",
+                    "nationalNo": "#0658",
+                    "type": [
+                        "Water",
+                        "Dark"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 36)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Growl": "1",
+            "Haze": "1",
+            "Night Slash": "1",
+            "Pound": "1",
+            "Quick Attack": "1",
+            "Role Play": "1",
+            "Water Gun": "1",
+            "Lick": "10",
+            "Water Pulse": "14",
+            "Smokescreen": "19",
+            "Shadow Sneak": "23",
+            "Spikes": "28",
+            "Aerial Ace": "33",
+            "Substitute": "42",
+            "Extrasensory": "49",
+            "Double Team": "56",
+            "Hydro Pump": "68"
+        },
+        "evolution": {
+            "Water Shuriken": "15"
+        },
+        "egg": {
+            "Counter": null,
+            "Retaliate": null,
+            "Spikes": null,
+            "Switcheroo": null,
+            "Toxic Spikes": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Mud-Slap": "05",
+            "Protect": "07",
+            "Water Pulse": "11",
+            "Low Kick": "12",
+            "Acrobatics": "14",
+            "Thief": "18",
+            "Trailblaze": "20",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Swift": "32",
+            "Icy Wind": "34",
+            "Mud Shot": "35",
+            "Rock Tomb": "36",
+            "Low Sweep": "39",
+            "Fling": "43",
+            "Endure": "47",
+            "Rain Dance": "50",
+            "Snowscape": "52",
+            "Dig": "55",
+            "False Swipe": "57",
+            "Brick Break": "58",
+            "U-turn": "60",
+            "Ice Punch": "69",
+            "Sleep Talk": "70",
+            "Waterfall": "77",
+            "Grass Knot": "81",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Taunt": "87",
+            "Swords Dance": "88",
+            "Spikes": "90",
+            "Toxic Spikes": "91",
+            "Dark Pulse": "94",
+            "Gunk Shot": "102",
+            "Substitute": "103",
+            "Liquidation": "110",
+            "Surf": "123",
+            "Helping Hand": "130",
+            "Ice Beam": "135",
+            "Hydro Pump": "142",
+            "Blizzard": "143",
+            "Water Pledge": "145",
+            "Giga Impact": "152",
+            "Hydro Cannon": "154",
+            "Hyper Beam": "163",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Greninja": [
+            "It creates throwing stars out of compressed water. When it spins them and throws them at high speed, these stars can split metal in two.",
+            "It appears and vanishes with a ninja\u2019s grace. It toys with its enemies using swift movements, while slicing them with throwing stars of sharpest water."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791732154052718/658.png",
+    "discord_sprite": "<:P658:1132141699909550080>"
+}

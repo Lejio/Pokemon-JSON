@@ -1,0 +1,171 @@
+{
+    "alt-version(s)": [],
+    "name": "Dracovish",
+    "Dracovish": {
+        "pokedex_data": {
+            "National No.": "0882",
+            "Type": [
+                "Water",
+                "Dragon"
+            ],
+            "Species": "Fossil Poke\u0301mon",
+            "Height": "2.3 m (7\u203207\u2032\u2032)",
+            "Weight": "215.0 kg (474.0 lbs)",
+            "Abilities": {
+                "Water Absorb": {
+                    "href": "/ability/water-absorb",
+                    "effect": "Restores HP if hit by a Water-type move.",
+                    "hidden": false
+                },
+                "Strong Jaw": {
+                    "href": "/ability/strong-jaw",
+                    "effect": "Boosts the power of biting moves.",
+                    "hidden": false
+                },
+                "Sand Rush": {
+                    "href": "/ability/sand-rush",
+                    "effect": "Boosts the Pok\u00e9mon's Speed in a sandstorm.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Defense",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "177",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "90",
+                "Min": "290",
+                "Max": "384"
+            },
+            "Attack": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Defense": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Sp. Atk": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Def": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Speed": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Total": "505"
+        },
+        "defense_stats": {
+            "Water Absorb ability": {
+                "Fire": "not very effective",
+                "Water": "no effect",
+                "Dragon": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "super-effective"
+            },
+            "Strong Jaw ability": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Dragon": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "super-effective"
+            },
+            "Sand Rush ability": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Dragon": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Tackle": "1",
+            "Water Gun": "1",
+            "Protect": "7",
+            "Brutal Swing": "14",
+            "Ancient Power": "21",
+            "Bite": "28",
+            "Dragon Breath": "35",
+            "Stomp": "42",
+            "Super Fang": "49",
+            "Crunch": "56",
+            "Fishious Rend": "63",
+            "Dragon Pulse": "70",
+            "Dragon Rush": "77"
+        },
+        "egg": {
+            "Meteor Beam": null
+        },
+        "null": {
+            "Body Slam": "01",
+            "Hydro Pump": "03",
+            "Surf": "04",
+            "Low Kick": "07",
+            "Earthquake": "10",
+            "Waterfall": "16",
+            "Leech Life": "18",
+            "Substitute": "20",
+            "Outrage": "24",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Crunch": "32",
+            "Dragon Pulse": "62",
+            "Earth Power": "67",
+            "Zen Headbutt": "69",
+            "Iron Head": "74",
+            "Stone Edge": "75",
+            "Scald": "84",
+            "Psychic Fangs": "97",
+            "Liquidation": "98"
+        },
+        "tm": {
+            "Mega Kick": "01",
+            "Hyper Beam": "08",
+            "Giga Impact": "09",
+            "Rest": "21",
+            "Rock Slide": "22",
+            "Snore": "24",
+            "Protect": "25",
+            "Rain Dance": "33",
+            "Whirlpool": "36",
+            "Facade": "39",
+            "Dive": "45",
+            "Rock Tomb": "48",
+            "Rock Blast": "54",
+            "Brine": "55",
+            "Ice Fang": "67",
+            "Round": "76",
+            "Bulldoze": "81",
+            "Brutal Swing": "97",
+            "Stomping Tantrum": "98"
+        }
+    },
+    "entries": {
+        "Dracovish": [
+            "Powerful legs and jaws made it the apex predator of its time. Its own overhunting of its prey was what drove it to extinction.",
+            "Its mighty legs are capable of running at speeds exceeding 40 mph, but this Pok\u00e9mon can\u2019t breathe unless it\u2019s underwater."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793480390279248/882.png",
+    "discord_sprite": "<:P882:1132151610156515398>"
+}

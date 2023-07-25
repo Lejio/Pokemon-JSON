@@ -1,0 +1,235 @@
+{
+    "alt-version(s)": [],
+    "name": "Girafarig",
+    "Girafarig": {
+        "pokedex_data": {
+            "National No.": "0203",
+            "Type": [
+                "Normal",
+                "Psychic"
+            ],
+            "Species": "Long Neck Poke\u0301mon",
+            "Height": "1.5 m (4\u203211\u2032\u2032)",
+            "Weight": "41.5 kg (91.5 lbs)",
+            "Abilities": {
+                "Inner Focus": {
+                    "href": "/ability/inner-focus",
+                    "effect": "The Pok\u00e9mon is protected from flinching.",
+                    "hidden": false
+                },
+                "Early Bird": {
+                    "href": "/ability/early-bird",
+                    "effect": "The Pok\u00e9mon awakens quickly from sleep.",
+                    "hidden": false
+                },
+                "Sap Sipper": {
+                    "href": "/ability/sap-sipper",
+                    "effect": "Boosts Attack when hit by a Grass-type move.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Sp. Atk",
+            "Catch rate": "60",
+            "BaseFriendship": "50",
+            "Base Exp.": "159",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "70",
+                "Min": "250",
+                "Max": "344"
+            },
+            "Attack": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Defense": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Atk": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Sp. Def": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Speed": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Total": "455"
+        },
+        "defense_stats": {
+            "Inner Focus ability": {
+                "Psychic": "not very effective",
+                "Bug": "super-effective",
+                "Ghost": "no effect",
+                "Dark": "super-effective"
+            },
+            "Early Bird ability": {
+                "Psychic": "not very effective",
+                "Bug": "super-effective",
+                "Ghost": "no effect",
+                "Dark": "super-effective"
+            },
+            "Sap Sipper ability": {
+                "Grass": "no effect",
+                "Psychic": "not very effective",
+                "Bug": "super-effective",
+                "Ghost": "no effect",
+                "Dark": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Girafarig",
+                    "nationalNo": "#0203",
+                    "type": [
+                        "Normal",
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Farigiraf",
+                    "nationalNo": "#0981",
+                    "type": [
+                        "Normal",
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(after Twin Beam learned)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Astonish": "1",
+            "Growl": "1",
+            "Guard Swap": "1",
+            "Power Swap": "1",
+            "Tackle": "1",
+            "Confusion": "5",
+            "Assurance": "10",
+            "Stomp": "14",
+            "Psybeam": "19",
+            "Agility": "23",
+            "Double Hit": "28",
+            "Twin Beam": "32",
+            "Crunch": "37",
+            "Baton Pass": "41",
+            "Nasty Plot": "46",
+            "Psychic": "50"
+        },
+        "egg": {
+            "Ally Switch": null,
+            "Beat Up": null,
+            "Double Kick": null,
+            "Future Sight": null,
+            "Mean Look": null,
+            "Mirror Coat": null,
+            "Take Down": null,
+            "Uproar": null,
+            "Wish": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Agility": "04",
+            "Protect": "07",
+            "Low Kick": "12",
+            "Psybeam": "16",
+            "Confuse Ray": "17",
+            "Thief": "18",
+            "Trailblaze": "20",
+            "Charge Beam": "23",
+            "Facade": "25",
+            "Bulldoze": "28",
+            "Swift": "32",
+            "Stored Power": "41",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Psyshock": "54",
+            "Zen Headbutt": "59",
+            "Foul Play": "62",
+            "Psychic Fangs": "63",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Reflect": "74",
+            "Light Screen": "75",
+            "Dazzling Gleam": "79",
+            "Grass Knot": "81",
+            "Thunder Wave": "82",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Imprison": "92",
+            "Skill Swap": "98",
+            "Substitute": "103",
+            "Crunch": "108",
+            "Trick": "109",
+            "Shadow Ball": "114",
+            "Hyper Voice": "117",
+            "Energy Ball": "119",
+            "Psychic": "120",
+            "Thunderbolt": "126",
+            "Amnesia": "128",
+            "Calm Mind": "129",
+            "Helping Hand": "130",
+            "Baton Pass": "132",
+            "Psychic Terrain": "138",
+            "Nasty Plot": "140",
+            "Earthquake": "149",
+            "Giga Impact": "152",
+            "Trick Room": "161",
+            "Hyper Beam": "163",
+            "Thunder": "166",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Girafarig": [
+            "Its tail has a small brain of its own. Beware! If you get close, it may react to your scent and bite.",
+            "Its tail, which also contains a small brain, may bite on its own if it notices an alluring smell.",
+            "When it is in danger, its tail uses some sort of mysterious powers to drive away the enemy.",
+            "GIRAFARIG\u2019s rear head also has a brain, but it is small. The rear head attacks in response to smells and sounds. Approaching this pok\u00e9mon from behind can cause the rear head to suddenly lash out and bite.",
+            "GIRAFARIG\u2019s rear head contains a tiny brain that is too small for thinking. However, the rear head doesn\u2019t need to sleep, so it can keep watch over its surroundings 24 hours a day.",
+            "Its tail, which also contains a small brain, may bite on its own if it notices an alluring smell.",
+            "Its tail has a small brain of its own. Beware! If you get close, it may react to your scent and bite.",
+            "A GIRAFARIG is an herbivore--it eats grass and tree shoots. While it is eating, its tail makes chewing and swallowing motions as if it were also eating.",
+            "Its tail also has a small brain. It bites to repel any foe trying to sneak up on it from behind.",
+            "While it sleeps, the head on its tail keeps watch. The tail doesn\u2019t need to sleep.",
+            "The head on its tail contains a small brain. It can instinctively fight even while facing backward.",
+            "Its tail has a small brain of its own. Beware! If you get close, it may react to your scent by biting.",
+            "Its tail, which also contains a small brain, may bite on its own if it notices an alluring smell.",
+            "The head on its tail contains a small brain. It can instinctively fight even while facing backward.",
+            "While it sleeps, the head on its tail keeps watch. The tail doesn\u2019t need to sleep.",
+            "Its tail has a small brain of its own. Beware! If you get close, it may react to your scent by biting.",
+            "Girafarig\u2019s rear head also has a brain, but it is small. The rear head attacks in response to smells and sounds. Approaching this Pok\u00e9mon from behind can cause the rear head to suddenly lash out and bite.",
+            "Girafarig\u2019s rear head contains a tiny brain that is too small for thinking. However, the rear head doesn\u2019t need to sleep, so it can keep watch over its surroundings 24 hours a day.",
+            "Its tail has a separate small brain. The tail bites to repel any foe trying to sneak up on the Pok\u00e9mon from behind.",
+            "While it sleeps, the head on its tail keeps watch. The tail doesn\u2019t need to sleep.",
+            "Though very small, the brain in its tail is still considered an important organ because it emits powerful psychic energy.",
+            "Girafarig\u2019s tail has a small head. It instinctively bites at any foe that approaches the Pok\u00e9mon from behind."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788180652310598/203.png",
+    "discord_sprite": "<:P203:1132121665451597904>"
+}

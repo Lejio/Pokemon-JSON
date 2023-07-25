@@ -1,0 +1,205 @@
+{
+    "alt-version(s)": [],
+    "name": "Pidgeotto",
+    "Pidgeotto": {
+        "pokedex_data": {
+            "National No.": "0017",
+            "Type": [
+                "Normal",
+                "Flying"
+            ],
+            "Species": "Bird Poke\u0301mon",
+            "Height": "1.1 m (3\u203207\u2032\u2032)",
+            "Weight": "30.0 kg (66.1 lbs)",
+            "Abilities": {
+                "Keen Eye": {
+                    "href": "/ability/keen-eye",
+                    "effect": "Prevents other Pok\u00e9mon from lowering accuracy.",
+                    "hidden": false
+                },
+                "Tangled Feet": {
+                    "href": "/ability/tangled-feet",
+                    "effect": "Raises evasion if the Pok\u00e9mon is confused.",
+                    "hidden": false
+                },
+                "Big Pecks": {
+                    "href": "/ability/big-pecks",
+                    "effect": "Protects the Pok\u00e9mon from Defense-lowering attacks.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Speed",
+            "Catch rate": "120",
+            "BaseFriendship": "50",
+            "Base Exp.": "122",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "63",
+                "Min": "236",
+                "Max": "330"
+            },
+            "Attack": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Defense": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Sp. Atk": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Def": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Speed": {
+                "Base": "71",
+                "Min": "132",
+                "Max": "265"
+            },
+            "Total": "349"
+        },
+        "defense_stats": {
+            "default": {
+                "Electric": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Ground": "no effect",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Pidgey",
+                    "nationalNo": "#0016",
+                    "type": [
+                        "Normal",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Pidgeotto",
+                    "nationalNo": "#0017",
+                    "type": [
+                        "Normal",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 18)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Pidgeotto",
+                    "nationalNo": "#0017",
+                    "type": [
+                        "Normal",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Pidgeot",
+                    "nationalNo": "#0018",
+                    "type": [
+                        "Normal",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 36)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Gust": "9",
+            "Sand Attack": "5",
+            "Tackle": "1",
+            "Quick Attack": "13",
+            "Whirlwind": "17",
+            "Twister": "22",
+            "Feather Dance": "27",
+            "Agility": "32",
+            "Wing Attack": "37",
+            "Roost": "42",
+            "Tailwind": "47",
+            "Aerial Ace": "52",
+            "Air Slash": "57",
+            "Hurricane": "62"
+        },
+        "egg": {
+            "Air Cutter": null,
+            "Air Slash": null,
+            "Brave Bird": null,
+            "Uproar": null
+        },
+        "tm": {
+            "Work Up": "10",
+            "Sunny Day": "11",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Double Team": "32",
+            "Aerial Ace": "40",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Steel Wing": "47",
+            "Roost": "51",
+            "Endure": "58",
+            "Sleep Talk": "82",
+            "Swagger": "87",
+            "Pluck": "88",
+            "U-turn": "89",
+            "Substitute": "90",
+            "Fly": "94",
+            "Defog": "97"
+        }
+    },
+    "entries": {
+        "Pidgeotto": [
+            "Very protective of its sprawling territorial area, this pok\u00e9mon will fiercely peck at any intruder.",
+            "This pok\u00e9mon is full of vitality. It constantly flies around its large territory in search of prey.",
+            "It has outstanding vision. However high it flies, it is able to distinguish the movements of its prey.",
+            "It immobilizes its prey using well-developed claws, then carries the prey more than 60 miles to its nest.",
+            "It slowly flies in a circular pattern, all the while keeping a sharp lookout for prey.",
+            "PIDGEOTTO claims a large area as its own territory. This pok\u00e9mon flies around, patrolling its living space. If its territory is violated, it shows no mercy in thoroughly punishing the foe with its sharp claws.",
+            "The claws on its feet are well developed. It can carry prey such as an EXEGGCUTE to its nest over 60 miles away.",
+            "Very protective of its sprawling territorial area, this pok\u00e9mon will fiercely peck at any intruder.",
+            "This pok\u00e9mon flies around, patrolling its large territory. If its living space is violated, it shows no mercy in thoroughly punishing the foe with its sharp claws.",
+            "It flies over its wide territory in search of prey, downing it with its highly developed claws.",
+            "It has outstanding vision. However high it flies, it is able to distinguish the movements of its prey.",
+            "It renders its prey immobile using well-developed claws, then carries the prey more than 60 miles to its nest.",
+            "It flies over its wide territory in search of prey, downing it with its highly developed claws.",
+            "The claws on its feet are well developed. It can carry prey such as an Exeggcute to its nest over 60 miles away.",
+            "Very protective of its sprawling territorial area, this Pok\u00e9mon will fiercely peck at any intruder.",
+            "Pidgeotto claims a large area as its own territory. This Pok\u00e9mon flies around, patrolling its living space. If its territory is violated, it shows no mercy in thoroughly punishing the foe with its sharp claws.",
+            "This Pok\u00e9mon is full of vitality. It constantly flies around its large territory in search of prey.",
+            "It flies over its wide territory in search of prey, downing it with its highly developed claws."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131786721105809498/17.png",
+    "discord_sprite": "<:P17:1131972639716560987>"
+}

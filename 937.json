@@ -1,0 +1,233 @@
+{
+    "alt-version(s)": [],
+    "name": "Ceruledge",
+    "Ceruledge": {
+        "pokedex_data": {
+            "National No.": "0937",
+            "Type": [
+                "Fire",
+                "Ghost"
+            ],
+            "Species": "Fire Blades Poke\u0301mon",
+            "Height": "1.6 m (5\u203203\u2032\u2032)",
+            "Weight": "62.0 kg (136.7 lbs)",
+            "Abilities": {
+                "Flash Fire": {
+                    "href": "/ability/flash-fire",
+                    "effect": "It powers up Fire-type moves if it's hit by one.",
+                    "hidden": false
+                },
+                "Weak Armor": {
+                    "href": "/ability/weak-armor",
+                    "effect": "Physical attacks lower Defense and raise Speed.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "25",
+            "BaseFriendship": "20",
+            "Base Exp.": "263",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "75",
+                "Min": "260",
+                "Max": "354"
+            },
+            "Attack": {
+                "Base": "125",
+                "Min": "229",
+                "Max": "383"
+            },
+            "Defense": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Sp. Atk": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Def": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Speed": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Total": "525"
+        },
+        "defense_stats": {
+            "Flash Fire ability": {
+                "Normal": "no effect",
+                "Fire": "no effect",
+                "Water": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Fighting": "no effect",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            },
+            "Weak Armor ability": {
+                "Normal": "no effect",
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Fighting": "no effect",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Charcadet",
+                    "nationalNo": "#0935",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Armarouge",
+                    "nationalNo": "#0936",
+                    "type": [
+                        "Fire",
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Auspicious Armor)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Charcadet",
+                    "nationalNo": "#0935",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Ceruledge",
+                    "nationalNo": "#0937",
+                    "type": [
+                        "Fire",
+                        "Ghost"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Malicious Armor)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Astonish": "1",
+            "Ember": "1",
+            "Leer": "1",
+            "Clear Smog": "8",
+            "Fire Spin": "12",
+            "Will-O-Wisp": "16",
+            "Night Shade": "20",
+            "Flame Charge": "24",
+            "Incinerate": "28",
+            "Lava Plume": "32",
+            "Swords Dance": "37",
+            "Ally Switch": "42",
+            "Bitter Blade": "48",
+            "Psycho Cut": "56",
+            "Flare Blitz": "62"
+        },
+        "evolution": {
+            "Shadow Claw": "70"
+        },
+        "reminder": {
+            "Night Slash": "70",
+            "Quick Guard": "\u2014",
+            "Shadow Sneak": "40",
+            "Solar Blade": "125"
+        },
+        "egg": {
+            "Destiny Bond": null,
+            "Disable": null,
+            "Spite": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Protect": "07",
+            "Confuse Ray": "17",
+            "Fire Spin": "24",
+            "Facade": "25",
+            "Hex": "29",
+            "Flame Charge": "38",
+            "Stored Power": "41",
+            "Night Shade": "42",
+            "Fling": "43",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "False Swipe": "57",
+            "Brick Break": "58",
+            "Shadow Claw": "61",
+            "Bulk Up": "64",
+            "Sleep Talk": "70",
+            "Reflect": "74",
+            "Light Screen": "75",
+            "Dragon Claw": "78",
+            "Poison Jab": "83",
+            "Rest": "85",
+            "Taunt": "87",
+            "Swords Dance": "88",
+            "Iron Head": "99",
+            "Substitute": "103",
+            "Iron Defense": "104",
+            "X-Scissor": "105",
+            "Will-O-Wisp": "107",
+            "Shadow Ball": "114",
+            "Heat Wave": "118",
+            "Flamethrower": "125",
+            "Helping Hand": "130",
+            "Fire Blast": "141",
+            "Phantom Force": "151",
+            "Overheat": "157",
+            "Flare Blitz": "165",
+            "Close Combat": "167",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Ceruledge": [
+            "The fiery blades on its arms burn fiercely with the lingering resentment of a sword wielder who fell before accomplishing their goal.",
+            "An old set of armor steeped in grudges caused this Pok\u00e9mon\u2019s evolution. Ceruledge cuts its enemies to pieces without mercy."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793911753478245/937.png",
+    "discord_sprite": "<:P937:1132154023882002472>"
+}

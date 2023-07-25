@@ -1,0 +1,210 @@
+{
+    "alt-version(s)": [],
+    "name": "Venomoth",
+    "Venomoth": {
+        "pokedex_data": {
+            "National No.": "0049",
+            "Type": [
+                "Bug",
+                "Poison"
+            ],
+            "Species": "Poison Moth Poke\u0301mon",
+            "Height": "1.5 m (4\u203211\u2032\u2032)",
+            "Weight": "12.5 kg (27.6 lbs)",
+            "Abilities": {
+                "Shield Dust": {
+                    "href": "/ability/shield-dust",
+                    "effect": "Blocks the added effects of attacks taken.",
+                    "hidden": false
+                },
+                "Tinted Lens": {
+                    "href": "/ability/tinted-lens",
+                    "effect": "Powers up \u201cnot very effective\u201d moves.",
+                    "hidden": false
+                },
+                "Wonder Skin": {
+                    "href": "/ability/wonder-skin",
+                    "effect": "Makes status-changing moves more likely to miss.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Sp. Atk, 1 Speed",
+            "Catch rate": "75",
+            "BaseFriendship": "50",
+            "Base Exp.": "158",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "70",
+                "Min": "250",
+                "Max": "344"
+            },
+            "Attack": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Defense": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Atk": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Sp. Def": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Speed": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Total": "450"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Grass": "not very effective",
+                "Fighting": "not very effective",
+                "Poison": "not very effective",
+                "Flying": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Venonat",
+                    "nationalNo": "#0048",
+                    "type": [
+                        "Bug",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Venomoth",
+                    "nationalNo": "#0049",
+                    "type": [
+                        "Bug",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 31)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Disable": "1",
+            "Quiver Dance": "1",
+            "Supersonic": "1",
+            "Tackle": "1",
+            "Confusion": "11",
+            "Poison Powder": "13",
+            "Psybeam": "17",
+            "Stun Spore": "23",
+            "Bug Buzz": "25",
+            "Sleep Powder": "29",
+            "Leech Life": "37",
+            "Zen Headbutt": "41",
+            "Poison Fang": "47",
+            "Psychic": "55"
+        },
+        "evolution": {
+            "Air Slash": "75"
+        },
+        "egg": {
+            "Agility": null,
+            "Baton Pass": null,
+            "Bug Bite": null,
+            "Morning Sun": null,
+            "Rage Powder": null,
+            "Screech": null,
+            "Toxic Spikes": null,
+            "Venoshock": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Agility": "04",
+            "Protect": "07",
+            "Acid Spray": "13",
+            "Acrobatics": "14",
+            "Struggle Bug": "15",
+            "Psybeam": "16",
+            "Confuse Ray": "17",
+            "Thief": "18",
+            "Pounce": "21",
+            "Facade": "25",
+            "Swift": "32",
+            "Air Cutter": "40",
+            "Night Shade": "42",
+            "Venoshock": "45",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Zen Headbutt": "59",
+            "U-turn": "60",
+            "Air Slash": "65",
+            "Sleep Talk": "70",
+            "Rest": "85",
+            "Toxic Spikes": "91",
+            "Leech Life": "95",
+            "Skill Swap": "98",
+            "Substitute": "103",
+            "Giga Drain": "111",
+            "Energy Ball": "119",
+            "Psychic": "120",
+            "Baton Pass": "132",
+            "Sludge Bomb": "148",
+            "Giga Impact": "152",
+            "Bug Buzz": "162",
+            "Hyper Beam": "163",
+            "Solar Beam": "168",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Venomoth": [
+            "The dust-like scales covering its wings are color coded to indicate the kinds of poison it has.",
+            "The powdery scales on its wings are hard to remove. They also contain poison that leaks out on contact.",
+            "When it attacks, it flaps its large wings violently to scatter its poisonous powder all around.",
+            "The powder on its wings is poisonous if it is dark in color. If it is light, it causes paralysis.",
+            "The scales it scatters will paralyze anyone who touches them, making that person unable to stand.",
+            "VENOMOTH is nocturnal - it is a pok\u00e9mon that only becomes active at night. Its favorite prey are small insects that gather around streetlights, attracted by the light in the darkness.",
+            "The wings are covered with dustlike scales. Every time it flaps its wings, it looses highly toxic dust.",
+            "The dustlike scales covering its wings are color-coded to indicate the kinds of poison it has.",
+            "VENOMOTH are nocturnal--they only are active at night. Their favorite prey are insects that gather around streetlights, attracted by the light in the darkness.",
+            "It flutters its wings to scatter dustlike scales. The scales leach toxins if they contact skin.",
+            "When it attacks, it flaps its large wings violently to scatter its poisonous powder all around.",
+            "The powder on its wings is poisonous if it is dark in hue. If it is light in hue, it causes paralysis.",
+            "It flutters its wings to scatter dustlike scales. The scales leach toxins if they contact skin.",
+            "The scales it scatters will paralyze anyone who touches them, making that person unable to stand.",
+            "The wings are covered with dustlike scales. Every time it flaps its wings, it looses highly toxic dust.",
+            "Venomoth is nocturnal\u2014it is a Pok\u00e9mon that only becomes active at night. Its favorite prey are small insects that gather around streetlights, attracted by the light in the darkness.",
+            "The powdery scales on its wings are hard to remove from skin. They also contain poison that leaks out on contact.",
+            "It flutters its wings to scatter dustlike scales. The scales leach toxins if they contact skin.",
+            "The wings are covered with dustlike scales. Every time it flaps its wings, it looses highly toxic dust.",
+            "When it attacks, it flaps its large wings violently to scatter its poisonous powder all around."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131786974211080262/49.png",
+    "discord_sprite": "<:P49:1131974048407101500>"
+}

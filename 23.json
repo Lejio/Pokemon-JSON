@@ -1,0 +1,195 @@
+{
+    "alt-version(s)": [],
+    "name": "Ekans",
+    "Ekans": {
+        "pokedex_data": {
+            "National No.": "0023",
+            "Type": [
+                "Poison"
+            ],
+            "Species": "Snake Poke\u0301mon",
+            "Height": "2.0 m (6\u203207\u2032\u2032)",
+            "Weight": "6.9 kg (15.2 lbs)",
+            "Abilities": {
+                "Intimidate": {
+                    "href": "/ability/intimidate",
+                    "effect": "Lowers the foe's Attack stat.",
+                    "hidden": false
+                },
+                "Shed Skin": {
+                    "href": "/ability/shed-skin",
+                    "effect": "The Pok\u00e9mon may heal its own status problems.",
+                    "hidden": false
+                },
+                "Unnerve": {
+                    "href": "/ability/unnerve",
+                    "effect": "Makes the foe nervous and unable to eat Berries.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack",
+            "Catch rate": "255",
+            "BaseFriendship": "50",
+            "Base Exp.": "58",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "35",
+                "Min": "180",
+                "Max": "274"
+            },
+            "Attack": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Defense": {
+                "Base": "44",
+                "Min": "83",
+                "Max": "205"
+            },
+            "Sp. Atk": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Def": {
+                "Base": "54",
+                "Min": "101",
+                "Max": "227"
+            },
+            "Speed": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Total": "288"
+        },
+        "defense_stats": {
+            "default": {
+                "Grass": "not very effective",
+                "Fighting": "not very effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Ekans",
+                    "nationalNo": "#0023",
+                    "type": [
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Arbok",
+                    "nationalNo": "#0024",
+                    "type": [
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 22)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Leer": "1",
+            "Wrap": "1",
+            "Poison Sting": "4",
+            "Bite": "9",
+            "Glare": "12",
+            "Screech": "17",
+            "Acid": "20",
+            "Spit Up": "25",
+            "Stockpile": "25",
+            "Swallow": "25",
+            "Acid Spray": "28",
+            "Sludge Bomb": "33",
+            "Gastro Acid": "36",
+            "Belch": "38",
+            "Haze": "41",
+            "Coil": "44",
+            "Gunk Shot": "49"
+        },
+        "egg": {
+            "Beat Up": null,
+            "Disable": null,
+            "Poison Fang": null,
+            "Poison Tail": null,
+            "Scary Face": null,
+            "Slam": null,
+            "Spite": null,
+            "Sucker Punch": null,
+            "Switcheroo": null
+        },
+        "tm": {
+            "Sunny Day": "11",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Giga Drain": "19",
+            "Iron Tail": "23",
+            "Earthquake": "26",
+            "Dig": "28",
+            "Double Team": "32",
+            "Sludge Bomb": "36",
+            "Rock Tomb": "39",
+            "Torment": "41",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Endure": "58",
+            "Payback": "66",
+            "Dark Pulse": "79",
+            "Rock Slide": "80",
+            "Sleep Talk": "82",
+            "Bulldoze": "83",
+            "Poison Jab": "84",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Strength": "96"
+        }
+    },
+    "entries": {
+        "Ekans": [
+            "Moves silently and stealthily. Eats the eggs of birds, such as PIDGEY and SPEAROW, whole.",
+            "The older it gets, the longer it grows. At night, it wraps its long body around tree branches to rest.",
+            "It can freely detach its jaw to swallow large prey whole. It can become too heavy to move, however.",
+            "It always hides in grass. When first born, it has no poison, so its bite is painful, but harmless.",
+            "It flutters the tip of its tongue to seek out the scent of prey, then swallows the prey whole.",
+            "EKANS curls itself up in a spiral while it rests. Assuming this position allows it to quickly respond to a threat from any direction with a glare from its upraised head.",
+            "A very common sight in grassland, etc. It flicks its tongue in and out to sense danger in its surroundings.",
+            "Moving silently and stealthily, it eats the eggs of birds, such as PIDGEY and SPEAROW, whole.",
+            "An EKANS curls itself up in a spiral while it rests. This position allows it to quickly respond to an enemy from any direction with a threat from its upraised head.",
+            "It sneaks through grass without making a sound and strikes unsuspecting prey from behind.",
+            "It can freely detach its jaw to swallow large prey whole. It can become too heavy to move, however.",
+            "It always hides in grass. When first born, it has no poison, so its bite is painful, but harmless.",
+            "It sneaks through grass without making a sound and strikes unsuspecting prey from behind.",
+            "The older it gets, the longer it grows. At night, it wraps its long body around tree branches to rest.",
+            "Moving silently and stealthily, it eats the eggs of birds, such as Pidgey and Spearow, whole.",
+            "Ekans curls itself up in a spiral while it rests. Assuming this position allows it to quickly respond to a threat from any direction with a glare from its upraised head.",
+            "By dislocating its jaw, it can swallow prey larger than itself. After a meal, it curls up and rests.",
+            "The eggs of bird Pok\u00e9mon are its favorite food. It swallows eggs whole, so sometimes an egg gets stuck, and Ekans faints.",
+            "The older it gets, the longer it grows. At night, it wraps its long body around tree branches to rest.",
+            "It sneaks through grass without making a sound and strikes unsuspecting prey from behind."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131786768090411152/23.png",
+    "discord_sprite": "<:P23:1131972903882211428>"
+}

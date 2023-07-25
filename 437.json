@@ -1,0 +1,251 @@
+{
+    "alt-version(s)": [],
+    "name": "Bronzong",
+    "Bronzong": {
+        "pokedex_data": {
+            "National No.": "0437",
+            "Type": [
+                "Steel",
+                "Psychic"
+            ],
+            "Species": "Bronze Bell Poke\u0301mon",
+            "Height": "1.3 m (4\u203203\u2032\u2032)",
+            "Weight": "187.0 kg (412.3 lbs)",
+            "Abilities": {
+                "Levitate": {
+                    "href": "/ability/levitate",
+                    "effect": "Gives immunity to Ground type moves.",
+                    "hidden": false
+                },
+                "Heatproof": {
+                    "href": "/ability/heatproof",
+                    "effect": "Weakens the power of Fire-type moves.",
+                    "hidden": false
+                },
+                "Heavy Metal": {
+                    "href": "/ability/heavy-metal",
+                    "effect": "Doubles the Pok\u00e9mon's weight.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Defense, 1 Sp. Def",
+            "Catch rate": "90",
+            "BaseFriendship": "50",
+            "Base Exp.": "175",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "67",
+                "Min": "244",
+                "Max": "338"
+            },
+            "Attack": {
+                "Base": "89",
+                "Min": "164",
+                "Max": "304"
+            },
+            "Defense": {
+                "Base": "116",
+                "Min": "213",
+                "Max": "364"
+            },
+            "Sp. Atk": {
+                "Base": "79",
+                "Min": "146",
+                "Max": "282"
+            },
+            "Sp. Def": {
+                "Base": "116",
+                "Min": "213",
+                "Max": "364"
+            },
+            "Speed": {
+                "Base": "33",
+                "Min": "63",
+                "Max": "181"
+            },
+            "Total": "500"
+        },
+        "defense_stats": {
+            "Levitate ability": {
+                "Normal": "not very effective",
+                "Fire": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Poison": "no effect",
+                "Ground": "no effect",
+                "Flying": "not very effective",
+                "Psychic": "not very effective",
+                "Rock": "not very effective",
+                "Ghost": "super-effective",
+                "Dragon": "not very effective",
+                "Dark": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            },
+            "Heatproof ability": {
+                "Normal": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Poison": "no effect",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Psychic": "not very effective",
+                "Rock": "not very effective",
+                "Ghost": "super-effective",
+                "Dragon": "not very effective",
+                "Dark": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            },
+            "Heavy Metal ability": {
+                "Normal": "not very effective",
+                "Fire": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Poison": "no effect",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Psychic": "not very effective",
+                "Rock": "not very effective",
+                "Ghost": "super-effective",
+                "Dragon": "not very effective",
+                "Dark": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Bronzor",
+                    "nationalNo": "#0436",
+                    "type": [
+                        "Steel",
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Bronzong",
+                    "nationalNo": "#0437",
+                    "type": [
+                        "Steel",
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 33)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Confuse Ray": "1",
+            "Confusion": "1",
+            "Payback": "1",
+            "Sunny Day": "1",
+            "Tackle": "1",
+            "Weather Ball": "1",
+            "Imprison": "12",
+            "Gyro Ball": "16",
+            "Hypnosis": "20",
+            "Safeguard": "24",
+            "Extrasensory": "28",
+            "Heavy Slam": "32",
+            "Iron Defense": "38",
+            "Metal Sound": "44",
+            "Future Sight": "50",
+            "Rain Dance": "56"
+        },
+        "evolution": {
+            "Block": "\u2014"
+        },
+        "egg": {
+            "Gravity": null,
+            "Recycle": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Protect": "07",
+            "Psybeam": "16",
+            "Confuse Ray": "17",
+            "Charge Beam": "23",
+            "Facade": "25",
+            "Bulldoze": "28",
+            "Hex": "29",
+            "Rock Tomb": "36",
+            "Stored Power": "41",
+            "Night Shade": "42",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Sandstorm": "51",
+            "Psyshock": "54",
+            "Zen Headbutt": "59",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Reflect": "74",
+            "Light Screen": "75",
+            "Rock Blast": "76",
+            "Grass Knot": "81",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Body Press": "89",
+            "Imprison": "92",
+            "Flash Cannon": "93",
+            "Skill Swap": "98",
+            "Iron Head": "99",
+            "Power Gem": "101",
+            "Substitute": "103",
+            "Iron Defense": "104",
+            "Trick": "109",
+            "Shadow Ball": "114",
+            "Stealth Rock": "116",
+            "Psychic": "120",
+            "Heavy Slam": "121",
+            "Ice Spinner": "124",
+            "Calm Mind": "129",
+            "Helping Hand": "130",
+            "Psychic Terrain": "138",
+            "Earthquake": "149",
+            "Giga Impact": "152",
+            "Trick Room": "161",
+            "Hyper Beam": "163",
+            "Solar Beam": "168",
+            "Steel Beam": "170",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Bronzong": [
+            "One caused a news sensation when it was dug up at a construction site after a 2,000-year sleep.",
+            "It can summon rain clouds. People long ago revered it as the bringer of plentiful harvests.",
+            "It brought rains by opening portals to another world. It was revered as a bringer of plentiful harvests.",
+            "Ancient people believed that petitioning BRONZONG for rain was the way to make crops grow.",
+            "It brought rains by opening portals to another world. It was revered as a bringer of plentiful harvests.",
+            "In ages past, this Pok\u00e9mon was revered as a bringer of rain. It was found buried in the ground.",
+            "In ages past, this Pok\u00e9mon was revered as a bringer of rain. It was found buried in the ground.",
+            "Ancient people believed that petitioning Bronzong for rain was the way to make crops grow.",
+            "Some believe it to be a deity that summons rain clouds. When angered, it lets out a warning cry that rings out like the tolling of a bell.",
+            "Many scientists suspect that this Pok\u00e9mon originated outside the Galar region, based on the patterns on its body.",
+            "One caused a media storm when it was dug up at a construction site after a 2,000-year sleep.",
+            "It can summon rain clouds. People long ago revered it as the bringer of plentiful harvests.",
+            "Some believe that its bell-like cry opens holes to another world. It has been revered as a deity since ancient times.",
+            "In ages past, this Pok\u00e9mon was revered as a bringer of rain. It was found buried in the ground.",
+            "It brought rains by opening portals to another world. It was revered as a bringer of plentiful harvests."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790009930874930/437.png",
+    "discord_sprite": "<:P437:1132131961775861760>"
+}

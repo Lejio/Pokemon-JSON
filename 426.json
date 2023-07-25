@@ -1,0 +1,216 @@
+{
+    "alt-version(s)": [],
+    "name": "Drifblim",
+    "Drifblim": {
+        "pokedex_data": {
+            "National No.": "0426",
+            "Type": [
+                "Ghost",
+                "Flying"
+            ],
+            "Species": "Blimp Poke\u0301mon",
+            "Height": "1.2 m (3\u203211\u2032\u2032)",
+            "Weight": "15.0 kg (33.1 lbs)",
+            "Abilities": {
+                "Aftermath": {
+                    "href": "/ability/aftermath",
+                    "effect": "Damages the attacker landing the finishing hit.",
+                    "hidden": false
+                },
+                "Unburden": {
+                    "href": "/ability/unburden",
+                    "effect": "Raises Speed if a held item is used.",
+                    "hidden": false
+                },
+                "Flare Boost": {
+                    "href": "/ability/flare-boost",
+                    "effect": "Powers up special attacks when burned.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 HP",
+            "Catch rate": "60",
+            "BaseFriendship": "50",
+            "Base Exp.": "174",
+            "Growth Rate": "Fluctuating"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "150",
+                "Min": "410",
+                "Max": "504"
+            },
+            "Attack": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Defense": {
+                "Base": "44",
+                "Min": "83",
+                "Max": "205"
+            },
+            "Sp. Atk": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Sp. Def": {
+                "Base": "54",
+                "Min": "101",
+                "Max": "227"
+            },
+            "Speed": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Total": "498"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "no effect",
+                "Electric": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "no effect",
+                "Poison": "not very effective",
+                "Ground": "no effect",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Drifloon",
+                    "nationalNo": "#0425",
+                    "type": [
+                        "Ghost",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Drifblim",
+                    "nationalNo": "#0426",
+                    "type": [
+                        "Ghost",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 28)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Astonish": "1",
+            "Focus Energy": "1",
+            "Gust": "1",
+            "Minimize": "1",
+            "Strength Sap": "1",
+            "Payback": "12",
+            "Hex": "16",
+            "Shadow Ball": "20",
+            "Spit Up": "24",
+            "Stockpile": "24",
+            "Swallow": "24",
+            "Self-Destruct": "31",
+            "Destiny Bond": "36",
+            "Baton Pass": "42",
+            "Tailwind": "48",
+            "Explosion": "54"
+        },
+        "evolution": {
+            "Phantom Force": "90"
+        },
+        "egg": {
+            "Clear Smog": null,
+            "Defog": null,
+            "Disable": null,
+            "Haze": null,
+            "Hypnosis": null,
+            "Memento": null
+        },
+        "tm": {
+            "Protect": "07",
+            "Acrobatics": "14",
+            "Psybeam": "16",
+            "Thief": "18",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Hex": "29",
+            "Swift": "32",
+            "Icy Wind": "34",
+            "Air Cutter": "40",
+            "Stored Power": "41",
+            "Night Shade": "42",
+            "Fling": "43",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Air Slash": "65",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Thunder Wave": "82",
+            "Rest": "85",
+            "Imprison": "92",
+            "Fly": "97",
+            "Skill Swap": "98",
+            "Substitute": "103",
+            "Will-O-Wisp": "107",
+            "Trick": "109",
+            "Tailwind": "113",
+            "Shadow Ball": "114",
+            "Psychic": "120",
+            "Thunderbolt": "126",
+            "Amnesia": "128",
+            "Calm Mind": "129",
+            "Helping Hand": "130",
+            "Baton Pass": "132",
+            "Phantom Force": "151",
+            "Giga Impact": "152",
+            "Trick Room": "161",
+            "Hyper Beam": "163",
+            "Thunder": "166",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Drifblim": [
+            "It\u2019s drowzy in daytime, but flies off in the evening in big groups. No one knows where they go.",
+            "It carries people and Pok\u00e9mon when it flies. But since it only drifts, it can end up anywhere.",
+            "At dusk, swarms of them are carried aloft on winds. When noticed, they suddenly vanish.",
+            "It can generate and release gas within its body. That\u2019s how it can control the altitude of its drift.",
+            "At dusk, swarms of them are carried aloft on winds. When noticed, they suddenly vanish.",
+            "They carry people and Pok\u00e9mon, but the wind can catch them, so there can\u2019t be a fixed destination.",
+            "It carries people and Pok\u00e9mon when it flies. But since it only drifts, it can end up anywhere.",
+            "It\u2019s drowsy in daytime, but flies off in the evening in big groups. No one knows where they go.",
+            "There was once an incident in which a man took a trip riding a Drifblim, only to go missing.",
+            "Even while under careful observation, large flocks of Drifblim flying at dusk will inexplicably disappear from view.",
+            "There\u2019s a rumor that if you catch a Drifblim floating on the wind at dusk, you\u2019ll be carried away to the afterlife.",
+            "The raw material for the gas inside its body is souls. When its body starts to deflate, it\u2019s thought to carry away people and Pok\u00e9mon.",
+            "Some say this Pok\u00e9mon is a collection of souls burdened with regrets, silently drifting through the dusk.",
+            "It grabs people and Pok\u00e9mon and carries them off somewhere. Where do they go? Nobody knows.",
+            "They\u2019re drowsy in daytime but fly off in the evening in big groups. No one knows where they go.",
+            "It carries people and Pok\u00e9mon when it flies. But since it only drifts, it can end up anywhere.",
+            "It drifts along at dusk, perfectly silent. Its transient, melancholy aspect touches some people deeply\u2014every so often, one will come upon a song or poem devoted to Drifblim.",
+            "It can generate and release gas within its body. That\u2019s how it can control the altitude of its drift.",
+            "They carry people and Pok\u00e9mon, but the wind can catch them, so there can\u2019t be a fixed destination."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789922756476969/426.png",
+    "discord_sprite": "<:P426:1132131476994011227>"
+}

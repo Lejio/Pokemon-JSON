@@ -1,0 +1,310 @@
+{
+    "alt-version(s)": [
+        "Mega Metagross"
+    ],
+    "name": "Metagross",
+    "Metagross": {
+        "pokedex_data": {
+            "National No.": "0376",
+            "Type": [
+                "Steel",
+                "Psychic"
+            ],
+            "Species": "Iron Leg Poke\u0301mon",
+            "Height": "1.6 m (5\u203203\u2032\u2032)",
+            "Weight": "550.0 kg (1212.5 lbs)",
+            "Abilities": {
+                "Clear Body": {
+                    "href": "/ability/clear-body",
+                    "effect": "Prevents other Pok\u00e9mon from lowering its stats.",
+                    "hidden": false
+                },
+                "Light Metal": {
+                    "href": "/ability/light-metal",
+                    "effect": "Halves the Pok\u00e9mon's weight.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Defense",
+            "Catch rate": "3",
+            "BaseFriendship": "35",
+            "Base Exp.": "270",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "80",
+                "Min": "270",
+                "Max": "364"
+            },
+            "Attack": {
+                "Base": "135",
+                "Min": "247",
+                "Max": "405"
+            },
+            "Defense": {
+                "Base": "130",
+                "Min": "238",
+                "Max": "394"
+            },
+            "Sp. Atk": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Sp. Def": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Speed": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Total": "600"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Fire": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Poison": "no effect",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Psychic": "not very effective",
+                "Rock": "not very effective",
+                "Ghost": "super-effective",
+                "Dragon": "not very effective",
+                "Dark": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "Mega Metagross": {
+        "pokedex_data": {
+            "National No.": "0376",
+            "Type": [
+                "Steel",
+                "Psychic"
+            ],
+            "Species": "Iron Leg Poke\u0301mon",
+            "Height": "2.5 m (8\u203202\u2032\u2032)",
+            "Weight": "942.9 kg (2078.7 lbs)",
+            "Abilities": {
+                "Tough Claws": {
+                    "href": "/ability/tough-claws",
+                    "effect": "Boosts the power of contact moves.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Defense",
+            "Catch rate": "3",
+            "BaseFriendship": "35",
+            "Base Exp.": "315",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "80",
+                "Min": "270",
+                "Max": "364"
+            },
+            "Attack": {
+                "Base": "145",
+                "Min": "265",
+                "Max": "427"
+            },
+            "Defense": {
+                "Base": "150",
+                "Min": "274",
+                "Max": "438"
+            },
+            "Sp. Atk": {
+                "Base": "105",
+                "Min": "193",
+                "Max": "339"
+            },
+            "Sp. Def": {
+                "Base": "110",
+                "Min": "202",
+                "Max": "350"
+            },
+            "Speed": {
+                "Base": "110",
+                "Min": "202",
+                "Max": "350"
+            },
+            "Total": "700"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Fire": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Poison": "no effect",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Psychic": "not very effective",
+                "Rock": "not very effective",
+                "Ghost": "super-effective",
+                "Dragon": "not very effective",
+                "Dark": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Beldum",
+                    "nationalNo": "#0374",
+                    "type": [
+                        "Steel",
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Metang",
+                    "nationalNo": "#0375",
+                    "type": [
+                        "Steel",
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 20)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Metang",
+                    "nationalNo": "#0375",
+                    "type": [
+                        "Steel",
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Metagross",
+                    "nationalNo": "#0376",
+                    "type": [
+                        "Steel",
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 45)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Bullet Punch": "1",
+            "Confusion": "1",
+            "Hammer Arm": "1",
+            "Metal Claw": "1",
+            "Tackle": "1",
+            "Zen Headbutt": "6",
+            "Magnet Rise": "12",
+            "Flash Cannon": "16",
+            "Take Down": "26",
+            "Psychic": "34",
+            "Scary Face": "42",
+            "Meteor Mash": "52",
+            "Iron Defense": "62",
+            "Agility": "72",
+            "Hyper Beam": "82"
+        },
+        "evolution": {
+            "Hammer Arm": "100"
+        },
+        "egg": null,
+        "tm": {
+            "Sunny Day": "11",
+            "Hyper Beam": "15",
+            "Light Screen": "16",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Earthquake": "26",
+            "Psychic": "29",
+            "Shadow Ball": "30",
+            "Brick Break": "31",
+            "Double Team": "32",
+            "Reflect": "33",
+            "Sludge Bomb": "36",
+            "Sandstorm": "37",
+            "Rock Tomb": "39",
+            "Aerial Ace": "40",
+            "Facade": "42",
+            "Rest": "44",
+            "Endure": "58",
+            "Explosion": "64",
+            "Giga Impact": "68",
+            "Rock Polish": "69",
+            "Flash": "70",
+            "Gyro Ball": "74",
+            "Stealth Rock": "76",
+            "Psych Up": "77",
+            "Rock Slide": "80",
+            "Sleep Talk": "82",
+            "Bulldoze": "83",
+            "Grass Knot": "86",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Flash Cannon": "91",
+            "Cut": "93",
+            "Strength": "96",
+            "Rock Smash": "98"
+        }
+    },
+    "entries": {
+        "Metagross": [
+            "METAGROSS has four brains in total. Combined, the four brains can breeze through difficult calculations faster than a supercomputer. This pok\u00e9mon can float in the air by tucking in its four legs.",
+            "METAGROSS is the result of two METANG achieving fusion. When hunting, this pok\u00e9mon pins the prey to the ground under its massive body. It then eats the helpless victim using the large mouth on its stomach.",
+            "It is formed by two METANG fusing. Its four brains are said to be superior to a supercomputer.",
+            "METAGROSS has four brains that are joined by a complex neural network. As a result of integration, this pok\u00e9mon is smarter than a supercomputer.",
+            "METANG combined to form it. With four brains, it has the intelligence of a supercomputer.",
+            "It folds its four legs when flying. Its four brains are said to be superior to a supercomputer.",
+            "Metang combined to form it. With four brains, it has the intelligence of a supercomputer.",
+            "With four linked brains, it\u2019s more intelligent than a supercomputer, and it uses calculations to analyze foes.",
+            "With four linked brains, it\u2019s more intelligent than a supercomputer, and it uses calculations to analyze foes.",
+            "Metang combined to form it. With four brains, it has the intelligence of a supercomputer.",
+            "Metagross has four brains in total. Combined, the four brains can breeze through difficult calculations faster than a supercomputer. This Pok\u00e9mon can float in the air by tucking in its four legs.",
+            "Metagross is the result of two Metang achieving fusion. When hunting, this Pok\u00e9mon pins the prey to the ground under its massive body. It then eats the helpless victim using the large mouth on its stomach.",
+            "It firmly pins its prey using its four claws and large body. Then the teeth in the mouth on its stomach chew the prey to bits.",
+            "A linkage of two Metang, this Pok\u00e9mon can perform any calculation in a flash by utilizing parallel processing in its four brains.",
+            "It boasts not only psychic powers but also fantastic strength. It grabs its prey with its four legs and holds them in place with its claws.",
+            "It analyzes its opponents with more accuracy than a supercomputer, which enables it to calmly back them into a corner.",
+            "Because the magnetic powers of these Pok\u00e9mon get stronger in freezing temperatures, Metagross living on snowy mountains are full of energy.",
+            "Metagross is the result of the fusion of two Metang. This Pok\u00e9mon defeats its opponents through use of its supercomputer-level brain.",
+            "Metang combined to form it. With four brains, it has the intelligence of a supercomputer."
+        ],
+        "Mega Metagross": [
+            "This form results from one Metagross, one Metang, and two Beldum linking up.",
+            "Mega Evolution stimulated its brain. It emerged as a ruthless Pok\u00e9mon that will clutch at any means of ensuring its victories.",
+            "Its intellect surpasses its previous level, resulting in battles so cruel, they\u2019ll make you want to cover your eyes.",
+            "When it knows it can\u2019t win, it digs the claws on its legs into its opponent and starts the countdown to a big explosion."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789537601917012/376.png",
+    "discord_sprite": "<:P376:1132129278868332544>"
+}

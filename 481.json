@@ -1,0 +1,166 @@
+{
+    "alt-version(s)": [],
+    "name": "Mesprit",
+    "Mesprit": {
+        "pokedex_data": {
+            "National No.": "0481",
+            "Type": [
+                "Psychic"
+            ],
+            "Species": "Emotion Poke\u0301mon",
+            "Height": "0.3 m (1\u203200\u2032\u2032)",
+            "Weight": "0.3 kg (0.7 lbs)",
+            "Abilities": {
+                "Levitate": {
+                    "href": "/ability/levitate",
+                    "effect": "Gives immunity to Ground type moves.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack, 1 Sp. Atk, 1 Sp. Def",
+            "Catch rate": "3",
+            "BaseFriendship": "140",
+            "Base Exp.": "290",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "80",
+                "Min": "270",
+                "Max": "364"
+            },
+            "Attack": {
+                "Base": "105",
+                "Min": "193",
+                "Max": "339"
+            },
+            "Defense": {
+                "Base": "105",
+                "Min": "193",
+                "Max": "339"
+            },
+            "Sp. Atk": {
+                "Base": "105",
+                "Min": "193",
+                "Max": "339"
+            },
+            "Sp. Def": {
+                "Base": "105",
+                "Min": "193",
+                "Max": "339"
+            },
+            "Speed": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Total": "580"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "not very effective",
+                "Ground": "no effect",
+                "Psychic": "not very effective",
+                "Bug": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Confusion": "1",
+            "Rest": "1",
+            "Swift": "7",
+            "Protect": "14",
+            "Psybeam": "21",
+            "Imprison": "28",
+            "Extrasensory": "35",
+            "Charm": "42",
+            "Psychic": "49",
+            "Flatter": "56",
+            "Future Sight": "63",
+            "Copycat": "70",
+            "Healing Wish": "77",
+            "Mystical Power": "84"
+        },
+        "egg": null,
+        "tm": {
+            "Charm": "02",
+            "Protect": "07",
+            "Water Pulse": "11",
+            "Acrobatics": "14",
+            "Psybeam": "16",
+            "Confuse Ray": "17",
+            "Charge Beam": "23",
+            "Facade": "25",
+            "Swift": "32",
+            "Draining Kiss": "37",
+            "Stored Power": "41",
+            "Fling": "43",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Sandstorm": "51",
+            "Psyshock": "54",
+            "Zen Headbutt": "59",
+            "U-turn": "60",
+            "Fire Punch": "67",
+            "Thunder Punch": "68",
+            "Ice Punch": "69",
+            "Sleep Talk": "70",
+            "Drain Punch": "73",
+            "Reflect": "74",
+            "Light Screen": "75",
+            "Dazzling Gleam": "79",
+            "Metronome": "80",
+            "Grass Knot": "81",
+            "Thunder Wave": "82",
+            "Rest": "85",
+            "Imprison": "92",
+            "Skill Swap": "98",
+            "Substitute": "103",
+            "Trick": "109",
+            "Shadow Ball": "114",
+            "Stealth Rock": "116",
+            "Energy Ball": "119",
+            "Psychic": "120",
+            "Encore": "122",
+            "Thunderbolt": "126",
+            "Play Rough": "127",
+            "Calm Mind": "129",
+            "Helping Hand": "130",
+            "Baton Pass": "132",
+            "Ice Beam": "135",
+            "Nasty Plot": "140",
+            "Blizzard": "143",
+            "Giga Impact": "152",
+            "Trick Room": "161",
+            "Hyper Beam": "163",
+            "Thunder": "166",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Mesprit": [
+            "Known as \u201cThe Being of Emotion.\u201d It taught humans the nobility of sorrow, pain, and joy.",
+            "It sleeps at the bottom of a lake. Its spirit is said to leave its body to fly on the lake\u2019s surface.",
+            "When MESPRIT flew, people learned the joy and sadness of living. It was the birth of emotions.",
+            "This Pok\u00e9mon is said to have endowed the human heart with emotions, such as sorrow and joy.",
+            "When Mesprit flew, people learned the joy and sadness of living. It was the birth of emotions.",
+            "Known as \u201cThe Being of Emotion.\u201d It taught humans the nobility of sorrow, pain, and joy.",
+            "It sleeps at the bottom of a lake. Its spirit is said to leave its body to fly on the lake\u2019s surface.",
+            "It is known as the Being of Emotion. It taught humans the nobility of sorrow, pain, and joy.",
+            "It sleeps at the bottom of a lake. Its spirit is said to leave its body to fly on the lake\u2019s surface.",
+            "Known as the Being of Emotion. In legend, this Pok\u00e9mon was feared, as any who showed disrespect would have their emotions thrown into disarray."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790349157806143/481.png",
+    "discord_sprite": "<:P481:1132133898764165197>"
+}

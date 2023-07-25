@@ -1,0 +1,237 @@
+{
+    "alt-version(s)": [],
+    "name": "Gloom",
+    "Gloom": {
+        "pokedex_data": {
+            "National No.": "0044",
+            "Type": [
+                "Grass",
+                "Poison"
+            ],
+            "Species": "Weed Poke\u0301mon",
+            "Height": "0.8 m (2\u203207\u2032\u2032)",
+            "Weight": "8.6 kg (19.0 lbs)",
+            "Abilities": {
+                "Chlorophyll": {
+                    "href": "/ability/chlorophyll",
+                    "effect": "Boosts the Pok\u00e9mon's Speed in sunshine.",
+                    "hidden": false
+                },
+                "Stench": {
+                    "href": "/ability/stench",
+                    "effect": "The stench may cause the target to flinch.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Sp. Atk",
+            "Catch rate": "120",
+            "BaseFriendship": "50",
+            "Base Exp.": "138",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "60",
+                "Min": "230",
+                "Max": "324"
+            },
+            "Attack": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Defense": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Atk": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Sp. Def": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Speed": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Total": "395"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Flying": "super-effective",
+                "Psychic": "super-effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Oddish",
+                    "nationalNo": "#0043",
+                    "type": [
+                        "Grass",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Gloom",
+                    "nationalNo": "#0044",
+                    "type": [
+                        "Grass",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 21)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Gloom",
+                    "nationalNo": "#0044",
+                    "type": [
+                        "Grass",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Vileplume",
+                    "nationalNo": "#0045",
+                    "type": [
+                        "Grass",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Leaf Stone)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Gloom",
+                    "nationalNo": "#0044",
+                    "type": [
+                        "Grass",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Bellossom",
+                    "nationalNo": "#0182",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Sun Stone)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Absorb": "1",
+            "Acid": "1",
+            "Growth": "1",
+            "Sweet Scent": "1",
+            "Mega Drain": "12",
+            "Poison Powder": "14",
+            "Stun Spore": "16",
+            "Sleep Powder": "18",
+            "Giga Drain": "20",
+            "Toxic": "26",
+            "Moonblast": "32",
+            "Grassy Terrain": "38",
+            "Moonlight": "44",
+            "Petal Dance": "50"
+        },
+        "egg": {
+            "After You": null,
+            "Charm": null,
+            "Flail": null,
+            "Ingrain": null,
+            "Leech Seed": null,
+            "Nature Power": null,
+            "Razor Leaf": null,
+            "Strength Sap": null,
+            "Synthesis": null,
+            "Teeter Dance": null,
+            "Tickle": null
+        },
+        "tm": {
+            "Toxic": "06",
+            "Bullet Seed": "09",
+            "Sunny Day": "11",
+            "Protect": "17",
+            "Giga Drain": "19",
+            "Dazzling Gleam": "21",
+            "Solar Beam": "22",
+            "Double Team": "32",
+            "Sludge Bomb": "36",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Energy Ball": "53",
+            "Fling": "56",
+            "Endure": "58",
+            "Drain Punch": "60",
+            "Flash": "70",
+            "Swords Dance": "75",
+            "Sleep Talk": "82",
+            "Grass Knot": "86",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Cut": "93"
+        }
+    },
+    "entries": {
+        "Gloom": [
+            "The fluid that oozes from its mouth isn\u2019t drool. It is a nectar that is used to attract prey.",
+            "Smells incredibly foul! However, around 1 out of 1,000 people enjoy sniffing its nose-bending stink.",
+            "What appears to be drool is actually sweet honey. It is very sticky and clings stubbornly if touched.",
+            "It secretes a sticky, drool-like honey. Although sweet, it smells too repulsive to get very close.",
+            "The smell from its drool-like syrup and the pollen on its petals is so bad, it may make opponents faint.",
+            "GLOOM releases a foul fragrance from the pistil of its flower. When faced with danger, the stench worsens. If this pok\u00e9mon is feeling calm and secure, it does not release its usual stinky aroma.",
+            "From its mouth GLOOM drips honey that smells absolutely horrible. Apparently, it loves the horrid stench. It sniffs the noxious fumes and then drools even more of its honey.",
+            "Its pistils exude an incredibly foul odor. The horrid stench can cause fainting at a distance of 1.25 miles.",
+            "The fluid that oozes from its mouth isn\u2019t drool. It is a nectar that is used to attract prey.",
+            "A horribly noxious honey drools from its mouth. One whiff of the honey can result in memory loss. Some fans are said to enjoy this overwhelming stink, however.",
+            "The honey it drools from its mouth smells so atrocious, it can curl noses more than a mile away.",
+            "What appears to be drool is actually sweet honey. It is very sticky and clings stubbornly if touched.",
+            "It secretes a sticky, drool-like honey. Although sweet, it smells too repulsive to get very close.",
+            "The honey it drools from its mouth smells so atrocious, it can curl noses more than a mile away.",
+            "Smells incredibly foul! However, around one out of a thousand people enjoy sniffing its nose-bending stink.",
+            "The honey it drools from its mouth smells so atrocious, it can curl noses more than a mile away.",
+            "Gloom releases a foul fragrance from the pistil of its flower. When faced with danger, the stench worsens. If this Pok\u00e9mon is feeling calm and secure, it does not release its usual stinky aroma.",
+            "From its mouth Gloom drips honey that smells absolutely horrible. Apparently, it loves the horrid stench. It sniffs the noxious fumes and then drools even more of its honey.",
+            "Smells incredibly foul! However, around one out of a thousand people enjoy sniffing its nose-bending stink.",
+            "Its pistils exude an incredibly foul odor. The horrid stench can cause fainting at a distance of 1.25 miles.",
+            "What appears to be drool is actually sweet honey. It is very sticky and clings stubbornly if touched.",
+            "The nectar it drools from its mouth smells so atrocious that it can make noses curl from more than a mile away."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131786934218407976/44.png",
+    "discord_sprite": "<:P44:1131973828063531169>"
+}

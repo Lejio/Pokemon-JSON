@@ -1,0 +1,209 @@
+{
+    "alt-version(s)": [],
+    "name": "Jangmo-o",
+    "Jangmo-o": {
+        "pokedex_data": {
+            "National No.": "0782",
+            "Type": [
+                "Dragon"
+            ],
+            "Species": "Scaly Poke\u0301mon",
+            "Height": "0.6 m (2\u203200\u2032\u2032)",
+            "Weight": "29.7 kg (65.5 lbs)",
+            "Abilities": {
+                "Bulletproof": {
+                    "href": "/ability/bulletproof",
+                    "effect": "Protects the Pok\u00e9mon from ball and bomb moves.",
+                    "hidden": false
+                },
+                "Soundproof": {
+                    "href": "/ability/soundproof",
+                    "effect": "Gives immunity to <q>sound-based</q> moves.",
+                    "hidden": false
+                },
+                "Overcoat": {
+                    "href": "/ability/overcoat",
+                    "effect": "Protects the Pok\u00e9mon from weather damage.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Defense",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "60",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "45",
+                "Min": "200",
+                "Max": "294"
+            },
+            "Attack": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Defense": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Atk": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Sp. Def": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Speed": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Total": "300"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Dragon": "super-effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Jangmo-o",
+                    "nationalNo": "#0782",
+                    "type": [
+                        "Dragon"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Hakamo-o",
+                    "nationalNo": "#0783",
+                    "type": [
+                        "Dragon",
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 35)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Hakamo-o",
+                    "nationalNo": "#0783",
+                    "type": [
+                        "Dragon",
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Kommo-o",
+                    "nationalNo": "#0784",
+                    "type": [
+                        "Dragon",
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 45)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Leer": "1",
+            "Tackle": "1",
+            "Protect": "4",
+            "Dragon Tail": "8",
+            "Scary Face": "12",
+            "Headbutt": "16",
+            "Work Up": "20",
+            "Screech": "24",
+            "Iron Defense": "28",
+            "Dragon Claw": "32",
+            "Noble Roar": "36",
+            "Dragon Dance": "40",
+            "Outrage": "44"
+        },
+        "egg": {
+            "Counter": null,
+            "Dragon Breath": null,
+            "Focus Punch": null
+        },
+        "null": {
+            "Swords Dance": "00",
+            "Low Kick": "07",
+            "Earthquake": "10",
+            "Substitute": "20",
+            "Reversal": "21",
+            "Outrage": "24",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Iron Tail": "31",
+            "Uproar": "35",
+            "Taunt": "37",
+            "Iron Defense": "46",
+            "Dragon Claw": "47",
+            "Bulk Up": "48",
+            "Dragon Dance": "51",
+            "X-Scissor": "60",
+            "Dragon Pulse": "62",
+            "Focus Blast": "64",
+            "Iron Head": "74",
+            "Work Up": "85"
+        },
+        "tm": {
+            "Screech": "16",
+            "Safeguard": "19",
+            "Rest": "21",
+            "Rock Slide": "22",
+            "Snore": "24",
+            "Protect": "25",
+            "Scary Face": "26",
+            "Attract": "31",
+            "Sandstorm": "32",
+            "Facade": "39",
+            "Brick Break": "43",
+            "Rock Tomb": "48",
+            "Payback": "57",
+            "Fling": "59",
+            "Shadow Claw": "65",
+            "Round": "76",
+            "Bulldoze": "81",
+            "False Swipe": "94"
+        }
+    },
+    "entries": {
+        "Jangmo-o": [
+            "It expresses its feelings by smacking its scales. Metallic sounds echo through the tall mountains where Jangmo-o lives.",
+            "They live in mountains where no trace of humans can be detected. Jangmo-o grow little by little as they battle one another.",
+            "It smacks the scales on its head against rocks or against the ground to frighten its opponents. It can also contact its friends with these noises.",
+            "It will never show an enemy its back in battle. Ancient warriors liked Jangmo-o for its valiant disposition and made it one of their own.",
+            "They learn to fight by smashing their head scales together. The dueling strengthens both their skills and their spirits.",
+            "Jangmo-o strikes its scales to communicate with others of its kind. Its scales are actually fur that\u2019s become as hard as metal."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792704083337359/782.png",
+    "discord_sprite": "<:P782:1132147208901382154>"
+}

@@ -1,0 +1,162 @@
+{
+    "alt-version(s)": [],
+    "name": "Finizen",
+    "Finizen": {
+        "pokedex_data": {
+            "National No.": "0963",
+            "Type": [
+                "Water"
+            ],
+            "Species": "Dolphin Poke\u0301mon",
+            "Height": "1.3 m (4\u203203\u2032\u2032)",
+            "Weight": "60.2 kg (132.7 lbs)",
+            "Abilities": {
+                "Water Veil": {
+                    "href": "/ability/water-veil",
+                    "effect": "Prevents the Pok\u00e9mon from getting a burn.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Speed",
+            "Catch rate": "200",
+            "BaseFriendship": "50",
+            "Base Exp.": "63",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "70",
+                "Min": "250",
+                "Max": "344"
+            },
+            "Attack": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Defense": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Atk": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Sp. Def": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Speed": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Total": "315"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Finizen",
+                    "nationalNo": "#0963",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Palafin",
+                    "nationalNo": "#0964",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": "Zero Form"
+                },
+                "requirement": "(Level 38, while in multiplayer)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Supersonic": "1",
+            "Water Gun": "1",
+            "Astonish": "7",
+            "Focus Energy": "10",
+            "Aqua Jet": "13",
+            "Double Hit": "17",
+            "Dive": "21",
+            "Charm": "25",
+            "Acrobatics": "29",
+            "Encore": "34",
+            "Aqua Tail": "39",
+            "Mist": "44",
+            "Hydro Pump": "50"
+        },
+        "egg": {
+            "Boomburst": null,
+            "Bounce": null,
+            "Counter": null,
+            "Haze": null,
+            "Tickle": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Charm": "02",
+            "Agility": "04",
+            "Protect": "07",
+            "Water Pulse": "11",
+            "Acrobatics": "14",
+            "Disarming Voice": "19",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Swift": "32",
+            "Icy Wind": "34",
+            "Draining Kiss": "37",
+            "Fling": "43",
+            "Endure": "47",
+            "Rain Dance": "50",
+            "Zen Headbutt": "59",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Waterfall": "77",
+            "Rest": "85",
+            "Substitute": "103",
+            "Liquidation": "110",
+            "Encore": "122",
+            "Surf": "123",
+            "Helping Hand": "130",
+            "Ice Beam": "135",
+            "Hydro Pump": "142",
+            "Blizzard": "143",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Finizen": [
+            "It likes playing with others of its kind using the water ring on its tail. It uses ultrasonic waves to sense the emotions of other living creatures.",
+            "Its water ring is made from seawater mixed with a sticky fluid that Finizen secretes from its blowhole."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131794110416699503/963.png",
+    "discord_sprite": "<:P963:1132155166867587112>"
+}

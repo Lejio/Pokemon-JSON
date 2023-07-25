@@ -1,0 +1,189 @@
+{
+    "alt-version(s)": [],
+    "name": "Scorbunny",
+    "Scorbunny": {
+        "pokedex_data": {
+            "National No.": "0813",
+            "Type": [
+                "Fire"
+            ],
+            "Species": "Rabbit Poke\u0301mon",
+            "Height": "0.3 m (1\u203200\u2032\u2032)",
+            "Weight": "4.5 kg (9.9 lbs)",
+            "Abilities": {
+                "Blaze": {
+                    "href": "/ability/blaze",
+                    "effect": "Powers up Fire-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Libero": {
+                    "href": "/ability/libero",
+                    "effect": "Changes the Pok\u00e9mon's type to its last used move.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Speed",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "62",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "50",
+                "Min": "210",
+                "Max": "304"
+            },
+            "Attack": {
+                "Base": "71",
+                "Min": "132",
+                "Max": "265"
+            },
+            "Defense": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Atk": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Def": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Speed": {
+                "Base": "69",
+                "Min": "128",
+                "Max": "260"
+            },
+            "Total": "310"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Ground": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Scorbunny",
+                    "nationalNo": "#0813",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Raboot",
+                    "nationalNo": "#0814",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 16)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Raboot",
+                    "nationalNo": "#0814",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Cinderace",
+                    "nationalNo": "#0815",
+                    "type": [
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 35)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Growl": "1",
+            "Tackle": "1",
+            "Ember": "6",
+            "Quick Attack": "8",
+            "Double Kick": "12",
+            "Flame Charge": "17",
+            "Agility": "20",
+            "Headbutt": "24",
+            "Counter": "28",
+            "Bounce": "32",
+            "Double-Edge": "36"
+        },
+        "egg": {
+            "High Jump Kick": null,
+            "Sand Attack": null,
+            "Sucker Punch": null,
+            "Super Fang": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Agility": "04",
+            "Protect": "07",
+            "Fire Fang": "08",
+            "Low Kick": "12",
+            "Acrobatics": "14",
+            "Trailblaze": "20",
+            "Fire Spin": "24",
+            "Facade": "25",
+            "Swift": "32",
+            "Flame Charge": "38",
+            "Low Sweep": "39",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "U-turn": "60",
+            "Sleep Talk": "70",
+            "Electro Ball": "72",
+            "Rest": "85",
+            "Taunt": "87",
+            "Gunk Shot": "102",
+            "Substitute": "103",
+            "Heat Wave": "118",
+            "Flamethrower": "125",
+            "Helping Hand": "130",
+            "Baton Pass": "132",
+            "Reversal": "134",
+            "Fire Blast": "141",
+            "Fire Pledge": "144",
+            "Overheat": "157",
+            "Flare Blitz": "165",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Scorbunny": [
+            "A warm-up of running around gets fire energy coursing through this Pok\u00e9mon\u2019s body. Once that happens, it\u2019s ready to fight at full power.",
+            "It has special pads on the backs of its feet, and one on its nose. Once it\u2019s raring to fight, these pads radiate tremendous heat."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792943586496602/813.png",
+    "discord_sprite": "<:P813:1132148572524118136>"
+}

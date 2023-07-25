@@ -1,0 +1,228 @@
+{
+    "alt-version(s)": [],
+    "name": "Rowlet",
+    "Rowlet": {
+        "pokedex_data": {
+            "National No.": "0722",
+            "Type": [
+                "Grass",
+                "Flying"
+            ],
+            "Species": "Grass Quill Poke\u0301mon",
+            "Height": "0.3 m (1\u203200\u2032\u2032)",
+            "Weight": "1.5 kg (3.3 lbs)",
+            "Abilities": {
+                "Overgrow": {
+                    "href": "/ability/overgrow",
+                    "effect": "Powers up Grass-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Long Reach": {
+                    "href": "/ability/long-reach",
+                    "effect": "The Pok\u00e9mon uses its moves without making contact with the target.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 HP",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "64",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "68",
+                "Min": "246",
+                "Max": "340"
+            },
+            "Attack": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Defense": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Sp. Atk": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Def": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Speed": {
+                "Base": "42",
+                "Min": "80",
+                "Max": "201"
+            },
+            "Total": "320"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Poison": "super-effective",
+                "Ground": "no effect",
+                "Flying": "super-effective",
+                "Rock": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Rowlet",
+                    "nationalNo": "#0722",
+                    "type": [
+                        "Grass",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Dartrix",
+                    "nationalNo": "#0723",
+                    "type": [
+                        "Grass",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 17)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Dartrix",
+                    "nationalNo": "#0723",
+                    "type": [
+                        "Grass",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Decidueye",
+                    "nationalNo": "#0724",
+                    "type": [
+                        "Grass",
+                        "Ghost"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 34)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Dartrix",
+                    "nationalNo": "#0723",
+                    "type": [
+                        "Grass",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Decidueye",
+                    "nationalNo": "#0724",
+                    "type": [
+                        "Grass",
+                        "Fighting"
+                    ],
+                    "nickname": "Hisuian Decidueye"
+                },
+                "requirement": "(Level 36, in Legends: Arceus)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Growl": "1",
+            "Tackle": "1",
+            "Leafage": "3",
+            "Astonish": "6",
+            "Peck": "9",
+            "Shadow Sneak": "12",
+            "Razor Leaf": "15",
+            "Synthesis": "18",
+            "Pluck": "21",
+            "Nasty Plot": "24",
+            "Sucker Punch": "27",
+            "Leaf Blade": "30",
+            "Feather Dance": "33",
+            "Brave Bird": "36"
+        },
+        "egg": {
+            "Confuse Ray": null,
+            "Defog": null,
+            "Double Team": null,
+            "Knock Off": null,
+            "Roost": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Protect": "07",
+            "Confuse Ray": "17",
+            "Trailblaze": "20",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Swift": "32",
+            "Magical Leaf": "33",
+            "Air Cutter": "40",
+            "Night Shade": "42",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Bullet Seed": "56",
+            "False Swipe": "57",
+            "Shadow Claw": "61",
+            "Air Slash": "65",
+            "Sleep Talk": "70",
+            "Seed Bomb": "71",
+            "Light Screen": "75",
+            "Grass Knot": "81",
+            "Rest": "85",
+            "Swords Dance": "88",
+            "Substitute": "103",
+            "Giga Drain": "111",
+            "Energy Ball": "119",
+            "Helping Hand": "130",
+            "Grassy Terrain": "137",
+            "Nasty Plot": "140",
+            "Grass Pledge": "146",
+            "Leaf Storm": "159",
+            "Brave Bird": "164",
+            "Solar Beam": "168",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Rowlet": [
+            "This wary Pok\u00e9mon uses photosynthesis to store up energy during the day, while becoming active at night.",
+            "Silently it glides, drawing near its targets. Before they even notice it, it begins to pelt them with vicious kicks.",
+            "It sends its feathers, which are as sharp as blades, flying in attack. Its legs are strong, so its kicks are also formidable.",
+            "It feels relaxed in tight, dark places and has been known to use its Trainer\u2019s pocket or bag as a nest.",
+            "At a distance, it launches its sharp feathers while flying about. If the enemy gets too close, Rowlet switches tactics and delivers vicious kicks.",
+            "During the day, it builds up energy via photosynthesis. At night, it flies silently through the sky, on the prowl for prey.",
+            "Flies noiselessly on delicate wings. It has mastered the art of deftly launching dagger-sharp feathers from those same wings."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792238368796802/722.png",
+    "discord_sprite": "<:P722:1132144504414142544>"
+}

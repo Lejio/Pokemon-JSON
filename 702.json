@@ -1,0 +1,167 @@
+{
+    "alt-version(s)": [],
+    "name": "Dedenne",
+    "Dedenne": {
+        "pokedex_data": {
+            "National No.": "0702",
+            "Type": [
+                "Electric",
+                "Fairy"
+            ],
+            "Species": "Antenna Poke\u0301mon",
+            "Height": "0.2 m (0\u203208\u2032\u2032)",
+            "Weight": "2.2 kg (4.9 lbs)",
+            "Abilities": {
+                "Cheek Pouch": {
+                    "href": "/ability/cheek-pouch",
+                    "effect": "Restores additional HP when a Berry is consumed.",
+                    "hidden": false
+                },
+                "Pickup": {
+                    "href": "/ability/pickup",
+                    "effect": "The Pok\u00e9mon may pick up items.",
+                    "hidden": false
+                },
+                "Plus": {
+                    "href": "/ability/plus",
+                    "effect": "Ups Sp. Atk if another Pok\u00e9mon has Plus or Minus.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Speed",
+            "Catch rate": "180",
+            "BaseFriendship": "50",
+            "Base Exp.": "151",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "67",
+                "Min": "244",
+                "Max": "338"
+            },
+            "Attack": {
+                "Base": "58",
+                "Min": "108",
+                "Max": "236"
+            },
+            "Defense": {
+                "Base": "57",
+                "Min": "107",
+                "Max": "234"
+            },
+            "Sp. Atk": {
+                "Base": "81",
+                "Min": "150",
+                "Max": "287"
+            },
+            "Sp. Def": {
+                "Base": "67",
+                "Min": "125",
+                "Max": "256"
+            },
+            "Speed": {
+                "Base": "101",
+                "Min": "186",
+                "Max": "331"
+            },
+            "Total": "431"
+        },
+        "defense_stats": {
+            "default": {
+                "Electric": "not very effective",
+                "Fighting": "not very effective",
+                "Poison": "super-effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Bug": "not very effective",
+                "Dragon": "no effect",
+                "Dark": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Nuzzle": "1",
+            "Tail Whip": "1",
+            "Tackle": "5",
+            "Charge": "10",
+            "Thunder Shock": "15",
+            "Charm": "20",
+            "Parabolic Charge": "25",
+            "Volt Switch": "30",
+            "Rest": "35",
+            "Snore": "35",
+            "Discharge": "40",
+            "Play Rough": "45",
+            "Super Fang": "50",
+            "Entrainment": "55",
+            "Thunder": "60"
+        },
+        "egg": {
+            "Covet": null,
+            "Magnet Rise": null,
+            "Tearful Look": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Charm": "02",
+            "Agility": "04",
+            "Protect": "07",
+            "Thief": "18",
+            "Trailblaze": "20",
+            "Charge Beam": "23",
+            "Facade": "25",
+            "Swift": "32",
+            "Draining Kiss": "37",
+            "Fling": "43",
+            "Endure": "47",
+            "Volt Switch": "48",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Dig": "55",
+            "U-turn": "60",
+            "Thunder Punch": "68",
+            "Sleep Talk": "70",
+            "Seed Bomb": "71",
+            "Electro Ball": "72",
+            "Light Screen": "75",
+            "Dazzling Gleam": "79",
+            "Grass Knot": "81",
+            "Thunder Wave": "82",
+            "Rest": "85",
+            "Eerie Impulse": "96",
+            "Substitute": "103",
+            "Thunderbolt": "126",
+            "Play Rough": "127",
+            "Helping Hand": "130",
+            "Electric Terrain": "136",
+            "Misty Terrain": "139",
+            "Wild Charge": "147",
+            "Giga Impact": "152",
+            "Hyper Beam": "163",
+            "Thunder": "166",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Dedenne": [
+            "Its whiskers serve as antennas. By sending and receiving electrical waves, it can communicate with others over vast distances.",
+            "It uses its tail to absorb electricity from power plants or from outlets in houses, and then it fires the electricity from its whiskers.",
+            "It sneaks into people\u2019s homes and steals electricity from their outlets. When your electric bill seems off, it\u2019s the handiwork of this rascal.",
+            "Its upper whiskers are sensors that survey its surroundings. Its lower whiskers are organs that shoot electricity.",
+            "A Dedenne\u2019s whiskers pick up electrical waves other Dedenne send out. These Pok\u00e9mon share locations of food or electricity with one another.",
+            "Since Dedenne can\u2019t generate much electricity on its own, it steals electricity from outlets or other electric Pok\u00e9mon.",
+            "It\u2019s small and its electricity-generating organ is not fully developed, so it uses its tail to absorb electricity from people\u2019s homes and charge itself.",
+            "Dedenne emit electrical waves from the whiskers on their cheeks to communicate with each other. When low on electricity, they curl up and sleep."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792074304397353/702.png",
+    "discord_sprite": "<:P702:1132143630480572417>"
+}

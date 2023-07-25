@@ -1,0 +1,199 @@
+{
+    "alt-version(s)": [],
+    "name": "Mandibuzz",
+    "Mandibuzz": {
+        "pokedex_data": {
+            "National No.": "0630",
+            "Type": [
+                "Dark",
+                "Flying"
+            ],
+            "Species": "Bone Vulture Poke\u0301mon",
+            "Height": "1.2 m (3\u203211\u2032\u2032)",
+            "Weight": "39.5 kg (87.1 lbs)",
+            "Abilities": {
+                "Big Pecks": {
+                    "href": "/ability/big-pecks",
+                    "effect": "Protects the Pok\u00e9mon from Defense-lowering attacks.",
+                    "hidden": false
+                },
+                "Overcoat": {
+                    "href": "/ability/overcoat",
+                    "effect": "Protects the Pok\u00e9mon from weather damage.",
+                    "hidden": false
+                },
+                "Weak Armor": {
+                    "href": "/ability/weak-armor",
+                    "effect": "Physical attacks lower Defense and raise Speed.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Sp. Atk",
+            "Catch rate": "60",
+            "BaseFriendship": "35",
+            "Base Exp.": "179",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "0% male,100% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "110",
+                "Min": "330",
+                "Max": "424"
+            },
+            "Attack": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Defense": {
+                "Base": "105",
+                "Min": "193",
+                "Max": "339"
+            },
+            "Sp. Atk": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Sp. Def": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Speed": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Total": "510"
+        },
+        "defense_stats": {
+            "default": {
+                "Electric": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Ground": "no effect",
+                "Psychic": "no effect",
+                "Rock": "super-effective",
+                "Ghost": "not very effective",
+                "Dark": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Vullaby",
+                    "nationalNo": "#0629",
+                    "type": [
+                        "Dark",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Mandibuzz",
+                    "nationalNo": "#0630",
+                    "type": [
+                        "Dark",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 54)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Bone Rush": "1",
+            "Flatter": "1",
+            "Gust": "1",
+            "Leer": "1",
+            "Pluck": "1",
+            "Sky Attack": "1",
+            "Toxic": "1",
+            "Tailwind": "18",
+            "Knock Off": "24",
+            "Iron Defense": "30",
+            "Whirlwind": "36",
+            "Air Slash": "42",
+            "Dark Pulse": "48",
+            "Nasty Plot": "57",
+            "Defog": "64",
+            "Attract": "72",
+            "Brave Bird": "80"
+        },
+        "evolution": {
+            "Bone Rush": "25"
+        },
+        "egg": {
+            "Mean Look": null,
+            "Roost": null,
+            "Toxic": null
+        },
+        "null": {
+            "Substitute": "20",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Shadow Ball": "33",
+            "Heat Wave": "36",
+            "Taunt": "37",
+            "Iron Defense": "46",
+            "Dark Pulse": "58",
+            "Brave Bird": "66",
+            "Nasty Plot": "68",
+            "Foul Play": "81"
+        },
+        "tm": {
+            "Fly": "06",
+            "Hyper Beam": "08",
+            "Giga Impact": "09",
+            "Rest": "21",
+            "Thief": "23",
+            "Snore": "24",
+            "Protect": "25",
+            "Scary Face": "26",
+            "Steel Wing": "30",
+            "Attract": "31",
+            "Rain Dance": "33",
+            "Sunny Day": "34",
+            "Facade": "39",
+            "Swift": "40",
+            "Fake Tears": "47",
+            "Rock Tomb": "48",
+            "U-turn": "56",
+            "Payback": "57",
+            "Assurance": "58",
+            "Round": "76",
+            "Retaliate": "79",
+            "Snarl": "85",
+            "Air Slash": "95"
+        }
+    },
+    "entries": {
+        "Mandibuzz": [
+            "It makes a nest out of bones it finds. It grabs weakened prey in its talons and hauls it to its nest of bones.",
+            "Watching from the sky, they swoop to strike weakened Pok\u00e9mon on the ground. They decorate themselves with bones.",
+            "They fly in circles around the sky. When they spot prey, they attack and carry it back to their nest with ease.",
+            "They fly in circles around the sky. When they spot prey, they attack and carry it back to their nest with ease.",
+            "Watching from the sky, they swoop to strike weakened Pok\u00e9mon on the ground. They decorate themselves with bones.",
+            "They adorn themselves beautifully with bones. This is supposedly an effort to attract males, but no male Mandibuzz have ever been found.",
+            "It circles in the sky, keeping a keen eye out for Pok\u00e9mon in a weakened state. Its choicest food is Cubone.",
+            "It skillfully arranges the bones of its prey to construct its nest. Most of the bones are Cubone.",
+            "It\u2019s always searching for food for Vullaby. When it finds a weak Pok\u00e9mon, Mandibuzz swoops it right off to its nest.",
+            "Although it\u2019s a bit of a ruffian, this Pok\u00e9mon will take lost Vullaby under its wing and care for them till they\u2019re ready to leave the nest.",
+            "They adorn themselves with bones. There seem to be fashion trends among them, as different bones come into and fall out of popularity."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791514922663936/630.png",
+    "discord_sprite": "<:P630:1132140464955469874>"
+}

@@ -1,0 +1,179 @@
+{
+    "alt-version(s)": [],
+    "name": "Eldegoss",
+    "Eldegoss": {
+        "pokedex_data": {
+            "National No.": "0830",
+            "Type": [
+                "Grass"
+            ],
+            "Species": "Cotton Bloom Poke\u0301mon",
+            "Height": "0.5 m (1\u203208\u2032\u2032)",
+            "Weight": "2.5 kg (5.5 lbs)",
+            "Abilities": {
+                "Cotton Down": {
+                    "href": "/ability/cotton-down",
+                    "effect": "Lowers foe's Speed when hit.",
+                    "hidden": false
+                },
+                "Regenerator": {
+                    "href": "/ability/regenerator",
+                    "effect": "Restores a little HP when withdrawn from battle.",
+                    "hidden": false
+                },
+                "Effect Spore": {
+                    "href": "/ability/effect-spore",
+                    "effect": "Contact may poison or cause paralysis or sleep.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Sp. Def",
+            "Catch rate": "75",
+            "BaseFriendship": "50",
+            "Base Exp.": "161",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "60",
+                "Min": "230",
+                "Max": "324"
+            },
+            "Attack": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Defense": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Sp. Atk": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Sp. Def": {
+                "Base": "120",
+                "Min": "220",
+                "Max": "372"
+            },
+            "Speed": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Total": "460"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Poison": "super-effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Bug": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Gossifleur",
+                    "nationalNo": "#0829",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Eldegoss",
+                    "nationalNo": "#0830",
+                    "type": [
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 20)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Cotton Spore": "1",
+            "Leafage": "1",
+            "Rapid Spin": "1",
+            "Sing": "1",
+            "Sweet Scent": "1",
+            "Razor Leaf": "12",
+            "Round": "16",
+            "Leaf Tornado": "23",
+            "Synthesis": "28",
+            "Hyper Voice": "34",
+            "Aromatherapy": "40",
+            "Leaf Storm": "46",
+            "Cotton Guard": "52"
+        },
+        "evolution": {
+            "Cotton Spore": "\u2014"
+        },
+        "egg": {
+            "Growth": null,
+            "Leech Seed": null,
+            "Poison Powder": null,
+            "Sleep Powder": null,
+            "Stun Spore": null,
+            "Worry Seed": null
+        },
+        "null": {
+            "Substitute": "20",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Hyper Voice": "42",
+            "Seed Bomb": "59",
+            "Energy Ball": "65",
+            "Leaf Storm": "71",
+            "Grass Knot": "77",
+            "Pollen Puff": "96"
+        },
+        "tm": {
+            "Hyper Beam": "08",
+            "Giga Impact": "09",
+            "Magical Leaf": "10",
+            "Solar Beam": "11",
+            "Light Screen": "17",
+            "Rest": "21",
+            "Snore": "24",
+            "Protect": "25",
+            "Giga Drain": "28",
+            "Charm": "29",
+            "Attract": "31",
+            "Sunny Day": "34",
+            "Facade": "39",
+            "Helping Hand": "41",
+            "Weather Ball": "46",
+            "Bullet Seed": "50",
+            "Round": "76",
+            "Grassy Terrain": "88"
+        }
+    },
+    "entries": {
+        "Eldegoss": [
+            "The seeds attached to its cotton fluff are full of nutrients. It spreads them on the wind so that plants and other Pok\u00e9mon can benefit from them.",
+            "The cotton on the head of this Pok\u00e9mon can be spun into a glossy, gorgeous yarn\u2014a Galar regional specialty."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793075111481374/830.png",
+    "discord_sprite": "<:P830:1132149319915552862>"
+}

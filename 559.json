@@ -1,0 +1,211 @@
+{
+    "alt-version(s)": [],
+    "name": "Scraggy",
+    "Scraggy": {
+        "pokedex_data": {
+            "National No.": "0559",
+            "Type": [
+                "Dark",
+                "Fighting"
+            ],
+            "Species": "Shedding Poke\u0301mon",
+            "Height": "0.6 m (2\u203200\u2032\u2032)",
+            "Weight": "11.8 kg (26.0 lbs)",
+            "Abilities": {
+                "Shed Skin": {
+                    "href": "/ability/shed-skin",
+                    "effect": "The Pok\u00e9mon may heal its own status problems.",
+                    "hidden": false
+                },
+                "Moxie": {
+                    "href": "/ability/moxie",
+                    "effect": "Boosts Attack after knocking out any Pok\u00e9mon.",
+                    "hidden": false
+                },
+                "Intimidate": {
+                    "href": "/ability/intimidate",
+                    "effect": "Lowers the foe's Attack stat.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack",
+            "Catch rate": "180",
+            "BaseFriendship": "35",
+            "Base Exp.": "70",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "50",
+                "Min": "210",
+                "Max": "304"
+            },
+            "Attack": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Defense": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Atk": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Sp. Def": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Speed": {
+                "Base": "48",
+                "Min": "90",
+                "Max": "214"
+            },
+            "Total": "348"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "super-effective",
+                "Flying": "super-effective",
+                "Psychic": "no effect",
+                "Rock": "not very effective",
+                "Ghost": "not very effective",
+                "Dark": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Scraggy",
+                    "nationalNo": "#0559",
+                    "type": [
+                        "Dark",
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Scrafty",
+                    "nationalNo": "#0560",
+                    "type": [
+                        "Dark",
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 39)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Leer": "1",
+            "Low Kick": "1",
+            "Payback": "4",
+            "Headbutt": "8",
+            "Sand Attack": "12",
+            "Facade": "16",
+            "Protect": "20",
+            "Beat Up": "24",
+            "Scary Face": "28",
+            "Brick Break": "32",
+            "Swagger": "36",
+            "Crunch": "40",
+            "High Jump Kick": "44",
+            "Focus Punch": "48",
+            "Head Smash": "52"
+        },
+        "egg": {
+            "Acid Spray": null,
+            "Counter": null,
+            "Detect": null,
+            "Fake Out": null,
+            "Power-Up Punch": null,
+            "Quick Guard": null
+        },
+        "null": {
+            "Low Kick": "07",
+            "Amnesia": "17",
+            "Substitute": "20",
+            "Sludge Bomb": "22",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Iron Tail": "31",
+            "Crunch": "32",
+            "Taunt": "37",
+            "Iron Defense": "46",
+            "Dragon Claw": "47",
+            "Bulk Up": "48",
+            "Dragon Dance": "51",
+            "Poison Jab": "57",
+            "Dark Pulse": "58",
+            "Dragon Pulse": "62",
+            "Focus Blast": "64",
+            "Zen Headbutt": "69",
+            "Iron Head": "74",
+            "Stone Edge": "75",
+            "Grass Knot": "77",
+            "Foul Play": "81",
+            "Work Up": "85"
+        },
+        "tm": {
+            "Mega Punch": "00",
+            "Mega Kick": "01",
+            "Fire Punch": "03",
+            "Ice Punch": "04",
+            "Thunder Punch": "05",
+            "Dig": "15",
+            "Rest": "21",
+            "Rock Slide": "22",
+            "Thief": "23",
+            "Snore": "24",
+            "Protect": "25",
+            "Scary Face": "26",
+            "Attract": "31",
+            "Rain Dance": "33",
+            "Sunny Day": "34",
+            "Beat Up": "37",
+            "Facade": "39",
+            "Revenge": "42",
+            "Brick Break": "43",
+            "Fake Tears": "47",
+            "Rock Tomb": "48",
+            "Payback": "57",
+            "Assurance": "58",
+            "Fling": "59",
+            "Drain Punch": "63",
+            "Low Sweep": "75",
+            "Round": "76",
+            "Retaliate": "79",
+            "Snarl": "85"
+        }
+    },
+    "entries": {
+        "Scraggy": [
+            "Its skin has a rubbery elasticity, so it can reduce damage by defensively pulling its skin up to its neck.",
+            "It immediately headbutts anyone that makes eye contact with it. Its skull is massively thick.",
+            "Proud of its sturdy skull, it suddenly headbutts everything, but its weight makes it unstable, too.",
+            "Its skin has a rubbery elasticity, so it can reduce damage by defensively pulling its skin up to its neck.",
+            "Proud of its sturdy skull, it suddenly headbutts everything, but its weight makes it unstable, too.",
+            "They move in small groups, walking around lazily. Anyone who makes eye contact gets smacked with a headbutt.",
+            "It stretches its saggy skin up to its neck to protect itself. The saggier their skin, the more respect they garner.",
+            "If it locks eyes with you, watch out! Nothing and no one is safe from the reckless headbutts of this troublesome Pok\u00e9mon.",
+            "It protects itself with its durable skin. It\u2019s thought that this Pok\u00e9mon will evolve once its skin has completely stretched out."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790958300774471/559.png",
+    "discord_sprite": "<:P559:1132137334486335578>"
+}

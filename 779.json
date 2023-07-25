@@ -1,0 +1,164 @@
+{
+    "alt-version(s)": [],
+    "name": "Bruxish",
+    "Bruxish": {
+        "pokedex_data": {
+            "National No.": "0779",
+            "Type": [
+                "Water",
+                "Psychic"
+            ],
+            "Species": "Gnash Teeth Poke\u0301mon",
+            "Height": "0.9 m (2\u203211\u2032\u2032)",
+            "Weight": "19.0 kg (41.9 lbs)",
+            "Abilities": {
+                "Dazzling": {
+                    "href": "/ability/dazzling",
+                    "effect": "Protects the Pok\u00e9mon from high-priority moves.",
+                    "hidden": false
+                },
+                "Strong Jaw": {
+                    "href": "/ability/strong-jaw",
+                    "effect": "Boosts the power of biting moves.",
+                    "hidden": false
+                },
+                "Wonder Skin": {
+                    "href": "/ability/wonder-skin",
+                    "effect": "Makes status-changing moves more likely to miss.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "80",
+            "BaseFriendship": "50",
+            "Base Exp.": "166",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "68",
+                "Min": "246",
+                "Max": "340"
+            },
+            "Attack": {
+                "Base": "105",
+                "Min": "193",
+                "Max": "339"
+            },
+            "Defense": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Atk": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Def": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Speed": {
+                "Base": "92",
+                "Min": "170",
+                "Max": "311"
+            },
+            "Total": "475"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Water Gun": "1",
+            "Astonish": "4",
+            "Confusion": "9",
+            "Bite": "12",
+            "Aqua Jet": "17",
+            "Disable": "20",
+            "Psyshock": "25",
+            "Crunch": "28",
+            "Aqua Tail": "33",
+            "Screech": "36",
+            "Psychic Fangs": "41",
+            "Wave Crash": "44"
+        },
+        "egg": {
+            "Ice Fang": null,
+            "Poison Fang": null,
+            "Super Fang": null,
+            "Water Pulse": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Agility": "04",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Ice Fang": "10",
+            "Water Pulse": "11",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Icy Wind": "34",
+            "Venoshock": "45",
+            "Endure": "47",
+            "Rain Dance": "50",
+            "Psyshock": "54",
+            "Psychic Fangs": "63",
+            "Bulk Up": "64",
+            "Sleep Talk": "70",
+            "Reflect": "74",
+            "Light Screen": "75",
+            "Waterfall": "77",
+            "Rest": "85",
+            "Taunt": "87",
+            "Swords Dance": "88",
+            "Substitute": "103",
+            "Crunch": "108",
+            "Liquidation": "110",
+            "Psychic": "120",
+            "Surf": "123",
+            "Calm Mind": "129",
+            "Ice Beam": "135",
+            "Psychic Terrain": "138",
+            "Hydro Pump": "142",
+            "Blizzard": "143",
+            "Giga Impact": "152",
+            "Trick Room": "161",
+            "Hyper Beam": "163",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Bruxish": [
+            "When it unleashes its psychic power from the protuberance on its head, the grating sound of grinding teeth echoes through the area.",
+            "It stuns its prey with psychokinesis and then grinds them to mush with its strong teeth. Even Shellder\u2019s shell is no match for it.",
+            "It burrows beneath the sand, radiating psychic power from the protuberance on its head. It waits for prey as it surveys the area.",
+            "Its skin is thick enough to fend off Mareanie\u2019s spikes. With its robust teeth, Bruxish crunches up the spikes and eats them.",
+            "It grinds its teeth with great force to stimulate its brain. It fires the psychic energy created by this process from the protuberance on its head.",
+            "When sunlight reflects on the ripples created by a Bruxish grinding its teeth, the water all around sparkles brilliantly."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792681497014373/779.png",
+    "discord_sprite": "<:P779:1132147077930037268>"
+}

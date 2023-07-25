@@ -1,0 +1,205 @@
+{
+    "alt-version(s)": [],
+    "name": "Drampa",
+    "Drampa": {
+        "pokedex_data": {
+            "National No.": "0780",
+            "Type": [
+                "Normal",
+                "Dragon"
+            ],
+            "Species": "Placid Poke\u0301mon",
+            "Height": "3.0 m (9\u203210\u2032\u2032)",
+            "Weight": "185.0 kg (407.9 lbs)",
+            "Abilities": {
+                "Berserk": {
+                    "href": "/ability/berserk",
+                    "effect": "Raises Special Attack when HP drops below half.",
+                    "hidden": false
+                },
+                "Sap Sipper": {
+                    "href": "/ability/sap-sipper",
+                    "effect": "Boosts Attack when hit by a Grass-type move.",
+                    "hidden": false
+                },
+                "Cloud Nine": {
+                    "href": "/ability/cloud-nine",
+                    "effect": "Eliminates the effects of weather.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Sp. Atk",
+            "Catch rate": "70",
+            "BaseFriendship": "50",
+            "Base Exp.": "170",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "78",
+                "Min": "266",
+                "Max": "360"
+            },
+            "Attack": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Defense": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Sp. Atk": {
+                "Base": "135",
+                "Min": "247",
+                "Max": "405"
+            },
+            "Sp. Def": {
+                "Base": "91",
+                "Min": "168",
+                "Max": "309"
+            },
+            "Speed": {
+                "Base": "36",
+                "Min": "69",
+                "Max": "188"
+            },
+            "Total": "485"
+        },
+        "defense_stats": {
+            "Berserk ability": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "super-effective",
+                "Ghost": "no effect",
+                "Dragon": "super-effective",
+                "Fairy": "super-effective"
+            },
+            "Sap Sipper ability": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "no effect",
+                "Ice": "super-effective",
+                "Fighting": "super-effective",
+                "Ghost": "no effect",
+                "Dragon": "super-effective",
+                "Fairy": "super-effective"
+            },
+            "Cloud Nine ability": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "super-effective",
+                "Ghost": "no effect",
+                "Dragon": "super-effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Echoed Voice": "1",
+            "Play Nice": "1",
+            "Twister": "5",
+            "Protect": "10",
+            "Glare": "15",
+            "Safeguard": "20",
+            "Dragon Breath": "25",
+            "Extrasensory": "30",
+            "Dragon Pulse": "35",
+            "Light Screen": "40",
+            "Fly": "45",
+            "Hyper Voice": "50",
+            "Outrage": "55"
+        },
+        "egg": {
+            "Dragon Rush": null,
+            "Mist": null,
+            "Tickle": null
+        },
+        "null": {
+            "Flamethrower": "02",
+            "Hydro Pump": "03",
+            "Surf": "04",
+            "Ice Beam": "05",
+            "Blizzard": "06",
+            "Thunderbolt": "08",
+            "Thunder": "09",
+            "Earthquake": "10",
+            "Fire Blast": "15",
+            "Amnesia": "17",
+            "Substitute": "20",
+            "Outrage": "24",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Shadow Ball": "33",
+            "Uproar": "35",
+            "Heat Wave": "36",
+            "Superpower": "39",
+            "Hyper Voice": "42",
+            "Dragon Claw": "47",
+            "Calm Mind": "49",
+            "Dragon Dance": "51",
+            "Dragon Pulse": "62",
+            "Focus Blast": "64",
+            "Energy Ball": "65",
+            "Grass Knot": "77",
+            "Work Up": "85",
+            "Hurricane": "89",
+            "Play Rough": "90"
+        },
+        "tm": {
+            "Fly": "06",
+            "Hyper Beam": "08",
+            "Giga Impact": "09",
+            "Solar Beam": "11",
+            "Thunder Wave": "14",
+            "Light Screen": "17",
+            "Safeguard": "19",
+            "Rest": "21",
+            "Rock Slide": "22",
+            "Snore": "24",
+            "Protect": "25",
+            "Icy Wind": "27",
+            "Steel Wing": "30",
+            "Attract": "31",
+            "Rain Dance": "33",
+            "Sunny Day": "34",
+            "Facade": "39",
+            "Swift": "40",
+            "Helping Hand": "41",
+            "Fling": "59",
+            "Shadow Claw": "65",
+            "Round": "76",
+            "Bulldoze": "81",
+            "Snarl": "85",
+            "Stomping Tantrum": "98",
+            "Breaking Swipe": "99"
+        }
+    },
+    "entries": {
+        "Drampa": [
+            "It has a compassionate personality, but if it is angered, it completely destroys its surroundings with its intense breath.",
+            "This Pok\u00e9mon is friendly to people and loves children most of all. It comes from deep in the mountains to play with children it likes in town.",
+            "If a child it has made friends with is bullied, Drampa will find the bully\u2019s house and burn it to the ground.",
+            "It appears in towns and plays with the children. Drampa will protect kids when they\u2019re in danger, so their moms don\u2019t have to worry.",
+            "The mountains it calls home are nearly two miles in height. On rare occasions, it descends to play with the children living in the towns below.",
+            "Drampa is a kind and friendly Pok\u00e9mon\u2014up until it\u2019s angered. When that happens, it stirs up a gale and flattens everything around."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792689000628324/780.png",
+    "discord_sprite": "<:P780:1132147121735335946>"
+}

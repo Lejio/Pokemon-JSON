@@ -1,0 +1,173 @@
+{
+    "alt-version(s)": [],
+    "name": "Toxel",
+    "Toxel": {
+        "pokedex_data": {
+            "National No.": "0848",
+            "Type": [
+                "Electric",
+                "Poison"
+            ],
+            "Species": "Baby Poke\u0301mon",
+            "Height": "0.4 m (1\u203204\u2032\u2032)",
+            "Weight": "11.0 kg (24.3 lbs)",
+            "Abilities": {
+                "Rattled": {
+                    "href": "/ability/rattled",
+                    "effect": "Bug, Ghost or Dark type moves scare it and boost its Speed.",
+                    "hidden": false
+                },
+                "Static": {
+                    "href": "/ability/static",
+                    "effect": "Contact with the Pok\u00e9mon may cause paralysis.",
+                    "hidden": false
+                },
+                "Klutz": {
+                    "href": "/ability/klutz",
+                    "effect": "The Pok\u00e9mon can't use any held items.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Sp. Atk",
+            "Catch rate": "75",
+            "BaseFriendship": "50",
+            "Base Exp.": "48",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "40",
+                "Min": "190",
+                "Max": "284"
+            },
+            "Attack": {
+                "Base": "38",
+                "Min": "72",
+                "Max": "192"
+            },
+            "Defense": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Sp. Atk": {
+                "Base": "54",
+                "Min": "101",
+                "Max": "227"
+            },
+            "Sp. Def": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Speed": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Total": "242"
+        },
+        "defense_stats": {
+            "default": {
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Fighting": "not very effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Toxel",
+                    "nationalNo": "#0848",
+                    "type": [
+                        "Electric",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Toxtricity",
+                    "nationalNo": "#0849",
+                    "type": [
+                        "Electric",
+                        "Poison"
+                    ],
+                    "nickname": "Amped Form"
+                },
+                "requirement": "(Level 30, with an amped Nature)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Toxel",
+                    "nationalNo": "#0848",
+                    "type": [
+                        "Electric",
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Toxtricity",
+                    "nationalNo": "#0849",
+                    "type": [
+                        "Electric",
+                        "Poison"
+                    ],
+                    "nickname": "Low Key Form"
+                },
+                "requirement": "(Level 30, with a low key Nature)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Acid": "1",
+            "Belch": "1",
+            "Flail": "1",
+            "Growl": "1",
+            "Nuzzle": "1",
+            "Tearful Look": "1"
+        },
+        "egg": {
+            "Endeavor": null,
+            "Metal Sound": null
+        },
+        "tm": {
+            "Charm": "02",
+            "Protect": "07",
+            "Facade": "25",
+            "Endure": "47",
+            "Sleep Talk": "70",
+            "Rest": "85",
+            "Substitute": "103",
+            "Encore": "122",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Toxel": [
+            "It stores poison in an internal poison sac and secretes that poison through its skin. If you touch this Pok\u00e9mon, a tingling sensation follows.",
+            "It manipulates the chemical makeup of its poison to produce electricity. The voltage is weak, but it can cause a tingling paralysis.",
+            "It has no problem drinking dirty water. An organ inside Toxel\u2019s body filters such water into a poisonous liquid that is harmless to Toxel.",
+            "This selfish, attention-seeking Pok\u00e9mon stores poison and electricity in two different sacs inside its body."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793213078913086/848.png",
+    "discord_sprite": "<:P848:1132150113633042432>"
+}

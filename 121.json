@@ -1,0 +1,208 @@
+{
+    "alt-version(s)": [],
+    "name": "Starmie",
+    "Starmie": {
+        "pokedex_data": {
+            "National No.": "0121",
+            "Type": [
+                "Water",
+                "Psychic"
+            ],
+            "Species": "Mysterious Poke\u0301mon",
+            "Height": "1.1 m (3\u203207\u2032\u2032)",
+            "Weight": "80.0 kg (176.4 lbs)",
+            "Abilities": {
+                "Illuminate": {
+                    "href": "/ability/illuminate",
+                    "effect": "Raises the likelihood of meeting wild Pok\u00e9mon.",
+                    "hidden": false
+                },
+                "Natural Cure": {
+                    "href": "/ability/natural-cure",
+                    "effect": "All status problems heal when it switches out.",
+                    "hidden": false
+                },
+                "Analytic": {
+                    "href": "/ability/analytic",
+                    "effect": "Boosts move power when the Pok\u00e9mon moves last.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Speed",
+            "Catch rate": "60",
+            "BaseFriendship": "50",
+            "Base Exp.": "182",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "60",
+                "Min": "230",
+                "Max": "324"
+            },
+            "Attack": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Defense": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Sp. Atk": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Sp. Def": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Speed": {
+                "Base": "115",
+                "Min": "211",
+                "Max": "361"
+            },
+            "Total": "520"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Staryu",
+                    "nationalNo": "#0120",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Starmie",
+                    "nationalNo": "#0121",
+                    "type": [
+                        "Water",
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Water Stone)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Brine": "1",
+            "Confuse Ray": "1",
+            "Cosmic Power": "1",
+            "Harden": "1",
+            "Hydro Pump": "1",
+            "Light Screen": "1",
+            "Minimize": "1",
+            "Power Gem": "1",
+            "Psybeam": "1",
+            "Psychic": "1",
+            "Rapid Spin": "1",
+            "Recover": "1",
+            "Surf": "1",
+            "Swift": "1",
+            "Tackle": "1",
+            "Water Gun": "1"
+        },
+        "egg": null,
+        "tm": {
+            "Water Pulse": "03",
+            "Hail": "07",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Hyper Beam": "15",
+            "Light Screen": "16",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Dazzling Gleam": "21",
+            "Thunderbolt": "24",
+            "Thunder": "25",
+            "Psychic": "29",
+            "Double Team": "32",
+            "Reflect": "33",
+            "Facade": "42",
+            "Rest": "44",
+            "Skill Swap": "48",
+            "Scald": "49",
+            "Brine": "55",
+            "Endure": "58",
+            "Recycle": "67",
+            "Giga Impact": "68",
+            "Flash": "70",
+            "Avalanche": "72",
+            "Thunder Wave": "73",
+            "Gyro Ball": "74",
+            "Psych Up": "77",
+            "Sleep Talk": "82",
+            "Dream Eater": "85",
+            "Grass Knot": "86",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Flash Cannon": "91",
+            "Trick Room": "92",
+            "Surf": "95",
+            "Waterfall": "99"
+        }
+    },
+    "entries": {
+        "Starmie": [
+            "Its central core glows with the seven colors of the rainbow. Some people value the core as a gem.",
+            "The center section is named the core. People think it is communicating when it glows in 7 colors.",
+            "The center section of its body is called the core. It glows in a different color each time it is seen.",
+            "Regardless of the environment it lives in, its body grows to form a symmetrical geometric shape.",
+            "It is said that it uses the seven-colored core of its body to send electric waves into outer space.",
+            "STARMIE\u2019s center section - the core - glows brightly in seven colors. Because of its luminous nature, this pok\u00e9mon has been given the nickname \u201cthe gem of the sea.\u201d",
+            "STARMIE swims through water by spinning its star-shaped body as if it were a propeller on a ship. The core at the center of this pok\u00e9mon\u2019s body glows in seven colors.",
+            "This pok\u00e9mon has a geometric body. Because of its body, the locals suspect that it is an alien creature.",
+            "Its central core glows with the seven colors of the rainbow. Some people value the core as a gem.",
+            "People in ancient times imagined that STARMIE were transformed from the reflections of stars that twinkled on gentle waves at night.",
+            "At the center of its body is a red core, which sends mysterious radio signals into the night sky.",
+            "The middle section of its body is called the core. It glows in a different color each time it is seen.",
+            "Regardless of the environment it lives in, its body grows to form a symmetrical geometric shape.",
+            "At the center of its body is a red core, which sends mysterious radio signals into the night sky.",
+            "Its core shines in many colors and sends radio signals into space to communicate with something.",
+            "Its central core glows with the seven colors of the rainbow. Some people value the core as a gem.",
+            "At the center of its body is a red core, which sends mysterious radio signals into the night sky.",
+            "Starmie\u2019s center section\u2014the core\u2014glows brightly in seven colors. Because of its luminous nature, this Pok\u00e9mon has been given the nickname \u201cthe gem of the sea.\u201d",
+            "Starmie swims through water by spinning its star-shaped body as if it were a propeller on a ship. The core at the center of this Pok\u00e9mon\u2019s body glows in seven colors.",
+            "Its shining core is thought to receive and transmit enigmatic signals. It has been known to cause headaches in those who approach it.",
+            "Its unusual body shape, reminiscent of abstract art, led local people to spread rumors that this Pok\u00e9mon may be an invader from outer space.",
+            "Its sparkling core is called \u201cthe gem of the sea.\u201d This core can be made into high-priced accessories that are traded in secret.",
+            "It rotates its geometrically shaped body to swim through the water. It always seems to be sending out mysterious radio waves.",
+            "The center section is named the core. People think it is communicating when it glows in seven colors.",
+            "This Pok\u00e9mon has an organ known as its core. The organ glows in seven colors when Starmie is unleashing its potent psychic powers.",
+            "Starmie swims by spinning its body at high speed. As this Pok\u00e9mon cruises through the ocean, it absorbs tiny plankton.",
+            "At the center of its body is a red core that sends mysterious radio signals into the night sky."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787535832580218/121.png",
+    "discord_sprite": "<:P121:1132118054055186463>"
+}

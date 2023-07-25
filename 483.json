@@ -1,0 +1,265 @@
+{
+    "alt-version(s)": [
+        "Origin Forme"
+    ],
+    "name": "Dialga",
+    "Dialga": {
+        "pokedex_data": {
+            "National No.": "0483",
+            "Type": [
+                "Steel",
+                "Dragon"
+            ],
+            "Species": "Temporal Poke\u0301mon",
+            "Height": "5.4 m (17\u203209\u2032\u2032)",
+            "Weight": "683.0 kg (1505.8 lbs)",
+            "Abilities": {
+                "Pressure": {
+                    "href": "/ability/pressure",
+                    "effect": "The Pok\u00e9mon raises the foe's PP usage.",
+                    "hidden": false
+                },
+                "Telepathy": {
+                    "href": "/ability/telepathy",
+                    "effect": "Anticipates an ally's attack and dodges it.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Sp. Atk",
+            "Catch rate": "3",
+            "BaseFriendship": "0",
+            "Base Exp.": "340",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "100",
+                "Min": "310",
+                "Max": "404"
+            },
+            "Attack": {
+                "Base": "120",
+                "Min": "220",
+                "Max": "372"
+            },
+            "Defense": {
+                "Base": "120",
+                "Min": "220",
+                "Max": "372"
+            },
+            "Sp. Atk": {
+                "Base": "150",
+                "Min": "274",
+                "Max": "438"
+            },
+            "Sp. Def": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Speed": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Total": "680"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Fighting": "super-effective",
+                "Poison": "no effect",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "Origin Forme": {
+        "pokedex_data": {
+            "National No.": "0483",
+            "Type": [
+                "Steel",
+                "Dragon"
+            ],
+            "Species": "Temporal Poke\u0301mon",
+            "Height": "7.0 m (23\u203200\u2032\u2032)",
+            "Weight": "850.0 kg (1873.9 lbs)",
+            "Abilities": {
+                "Pressure": {
+                    "href": "/ability/pressure",
+                    "effect": "The Pok\u00e9mon raises the foe's PP usage.",
+                    "hidden": false
+                },
+                "Telepathy": {
+                    "href": "/ability/telepathy",
+                    "effect": "Anticipates an ally's attack and dodges it.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Sp. Atk",
+            "Catch rate": "3",
+            "BaseFriendship": "0",
+            "Base Exp.": "340",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "100",
+                "Min": "310",
+                "Max": "404"
+            },
+            "Attack": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Defense": {
+                "Base": "120",
+                "Min": "220",
+                "Max": "372"
+            },
+            "Sp. Atk": {
+                "Base": "150",
+                "Min": "274",
+                "Max": "438"
+            },
+            "Sp. Def": {
+                "Base": "120",
+                "Min": "220",
+                "Max": "372"
+            },
+            "Speed": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Total": "680"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Fighting": "super-effective",
+                "Poison": "no effect",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Metal Claw": "1",
+            "Scary Face": "1",
+            "Dragon Breath": "8",
+            "Ancient Power": "16",
+            "Slash": "24",
+            "Flash Cannon": "32",
+            "Dragon Claw": "40",
+            "Aura Sphere": "48",
+            "Power Gem": "56",
+            "Metal Burst": "64",
+            "Earth Power": "72",
+            "Iron Tail": "80",
+            "Roar of Time": "88"
+        },
+        "egg": null,
+        "tm": {
+            "Take Down": "01",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Facade": "25",
+            "Bulldoze": "28",
+            "Metal Claw": "31",
+            "Swift": "32",
+            "Rock Tomb": "36",
+            "Dragon Tail": "44",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Sandstorm": "51",
+            "Brick Break": "58",
+            "Shadow Claw": "61",
+            "Bulk Up": "64",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Dragon Claw": "78",
+            "Thunder Wave": "82",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Body Press": "89",
+            "Flash Cannon": "93",
+            "Iron Head": "99",
+            "Power Gem": "101",
+            "Substitute": "103",
+            "Iron Defense": "104",
+            "Trick": "109",
+            "Aura Sphere": "112",
+            "Dragon Pulse": "115",
+            "Stealth Rock": "116",
+            "Hyper Voice": "117",
+            "Heavy Slam": "121",
+            "Flamethrower": "125",
+            "Thunderbolt": "126",
+            "Earth Power": "133",
+            "Ice Beam": "135",
+            "Fire Blast": "141",
+            "Blizzard": "143",
+            "Earthquake": "149",
+            "Stone Edge": "150",
+            "Giga Impact": "152",
+            "Outrage": "156",
+            "Overheat": "157",
+            "Focus Blast": "158",
+            "Trick Room": "161",
+            "Hyper Beam": "163",
+            "Thunder": "166",
+            "Draco Meteor": "169",
+            "Steel Beam": "170",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Dialga": [
+            "It has the power to control time. It appears in Sinnoh-region myths as an ancient deity.",
+            "A Pok\u00e9mon spoken of in legend. It is said that time began moving when DIALGA was born.",
+            "A legendary Pok\u00e9mon of Sinnoh. It is said that time flows when DIALGA\u2019s heart beats.",
+            "This Pok\u00e9mon completely controls the flow of time. It uses its power to travel at will through the past and future.",
+            "A legendary Pok\u00e9mon of Sinnoh. It is said that time flows when Dialga\u2019s heart beats.",
+            "A Pok\u00e9mon spoken of in legend. It is said that time began moving when Dialga was born.",
+            "It has the power to control time. It appears in Sinnoh-region myths as an ancient deity.",
+            "It has the power to control time. It appears in Sinnoh-region myths as an ancient deity.",
+            "This Pok\u00e9mon is spoken of in legend. It is said that time began moving when Dialga was born.",
+            "This Pok\u00e9mon is revered as a deity in Hisuian legend. The birth of Dialga was what caused the vast river of time to begin flowing in our world."
+        ],
+        "Origin Forme": [
+            "Radiant light caused Dialga to take on a form bearing a striking resemblance to the creator Pok\u00e9mon. Dialga now wields such colossal strength that one must conclude this is its true form."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790365314265109/483.png",
+    "discord_sprite": "<:P483:1132133986437705828>"
+}

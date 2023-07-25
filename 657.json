@@ -1,0 +1,202 @@
+{
+    "alt-version(s)": [],
+    "name": "Frogadier",
+    "Frogadier": {
+        "pokedex_data": {
+            "National No.": "0657",
+            "Type": [
+                "Water"
+            ],
+            "Species": "Bubble Frog Poke\u0301mon",
+            "Height": "0.6 m (2\u203200\u2032\u2032)",
+            "Weight": "10.9 kg (24.0 lbs)",
+            "Abilities": {
+                "Torrent": {
+                    "href": "/ability/torrent",
+                    "effect": "Powers up Water-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Protean": {
+                    "href": "/ability/protean",
+                    "effect": "Changes the Pok\u00e9mon's type to its last used move.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Speed",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "142",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "54",
+                "Min": "218",
+                "Max": "312"
+            },
+            "Attack": {
+                "Base": "63",
+                "Min": "117",
+                "Max": "247"
+            },
+            "Defense": {
+                "Base": "52",
+                "Min": "98",
+                "Max": "223"
+            },
+            "Sp. Atk": {
+                "Base": "83",
+                "Min": "153",
+                "Max": "291"
+            },
+            "Sp. Def": {
+                "Base": "56",
+                "Min": "105",
+                "Max": "232"
+            },
+            "Speed": {
+                "Base": "97",
+                "Min": "179",
+                "Max": "322"
+            },
+            "Total": "405"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Froakie",
+                    "nationalNo": "#0656",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Frogadier",
+                    "nationalNo": "#0657",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 16)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Frogadier",
+                    "nationalNo": "#0657",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Greninja",
+                    "nationalNo": "#0658",
+                    "type": [
+                        "Water",
+                        "Dark"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 36)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Growl": "1",
+            "Pound": "1",
+            "Water Gun": "1",
+            "Quick Attack": "8",
+            "Lick": "10",
+            "Water Pulse": "14",
+            "Smokescreen": "19",
+            "Round": "23",
+            "Fling": "28",
+            "Smack Down": "33",
+            "Substitute": "40",
+            "Bounce": "45",
+            "Double Team": "50",
+            "Hydro Pump": "56"
+        },
+        "egg": {
+            "Counter": null,
+            "Retaliate": null,
+            "Spikes": null,
+            "Switcheroo": null,
+            "Toxic Spikes": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Mud-Slap": "05",
+            "Protect": "07",
+            "Water Pulse": "11",
+            "Low Kick": "12",
+            "Acrobatics": "14",
+            "Thief": "18",
+            "Trailblaze": "20",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Swift": "32",
+            "Icy Wind": "34",
+            "Mud Shot": "35",
+            "Rock Tomb": "36",
+            "Fling": "43",
+            "Endure": "47",
+            "Rain Dance": "50",
+            "Snowscape": "52",
+            "Dig": "55",
+            "False Swipe": "57",
+            "U-turn": "60",
+            "Ice Punch": "69",
+            "Sleep Talk": "70",
+            "Waterfall": "77",
+            "Grass Knot": "81",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Taunt": "87",
+            "Swords Dance": "88",
+            "Spikes": "90",
+            "Toxic Spikes": "91",
+            "Gunk Shot": "102",
+            "Substitute": "103",
+            "Liquidation": "110",
+            "Surf": "123",
+            "Helping Hand": "130",
+            "Ice Beam": "135",
+            "Hydro Pump": "142",
+            "Blizzard": "143",
+            "Water Pledge": "145",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Frogadier": [
+            "It can throw bubble-covered pebbles with precise control, hitting empty cans up to a hundred feet away.",
+            "Its swiftness is unparalleled. It can scale a tower of more than 2,000 feet in a minute\u2019s time."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791724633657384/657.png",
+    "discord_sprite": "<:P657:1132141656376873070>"
+}

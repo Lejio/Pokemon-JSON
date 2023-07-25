@@ -1,0 +1,148 @@
+{
+    "alt-version(s)": [],
+    "name": "Komala",
+    "Komala": {
+        "pokedex_data": {
+            "National No.": "0775",
+            "Type": [
+                "Normal"
+            ],
+            "Species": "Drowsing Poke\u0301mon",
+            "Height": "0.4 m (1\u203204\u2032\u2032)",
+            "Weight": "19.9 kg (43.9 lbs)",
+            "Abilities": {
+                "Comatose": {
+                    "href": "/ability/comatose",
+                    "effect": "The Pok\u00e9mon is always asleep but can still attack.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "168",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "65",
+                "Min": "240",
+                "Max": "334"
+            },
+            "Attack": {
+                "Base": "115",
+                "Min": "211",
+                "Max": "361"
+            },
+            "Defense": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Atk": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Sp. Def": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Speed": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Total": "480"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Defense Curl": "1",
+            "Rollout": "1",
+            "Spit Up": "6",
+            "Stockpile": "6",
+            "Swallow": "6",
+            "Rapid Spin": "11",
+            "Yawn": "16",
+            "Slam": "21",
+            "Flail": "26",
+            "Sucker Punch": "31",
+            "Psych Up": "36",
+            "Wood Hammer": "41",
+            "Thrash": "46"
+        },
+        "egg": {
+            "Charm": null,
+            "Play Rough": null,
+            "Sing": null,
+            "Superpower": null,
+            "Wish": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Charm": "02",
+            "Protect": "07",
+            "Low Kick": "12",
+            "Acrobatics": "14",
+            "Thief": "18",
+            "Trailblaze": "20",
+            "Facade": "25",
+            "Bulldoze": "28",
+            "Metal Claw": "31",
+            "Rock Tomb": "36",
+            "Low Sweep": "39",
+            "Fling": "43",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Brick Break": "58",
+            "Zen Headbutt": "59",
+            "U-turn": "60",
+            "Shadow Claw": "61",
+            "Bulk Up": "64",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Seed Bomb": "71",
+            "Stomping Tantrum": "84",
+            "Rock Slide": "86",
+            "Swords Dance": "88",
+            "Iron Head": "99",
+            "Gunk Shot": "102",
+            "Substitute": "103",
+            "Ice Spinner": "124",
+            "Play Rough": "127",
+            "Calm Mind": "129",
+            "Reversal": "134",
+            "Earthquake": "149",
+            "Giga Impact": "152",
+            "Hyper Beam": "163",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Komala": [
+            "It is born asleep, and it dies asleep. All its movements are apparently no more than the results of it tossing and turning in its dreams.",
+            "The log it holds was given to it by its parents at birth. It has also been known to cling to the arm of a friendly Trainer.",
+            "It stays asleep from the moment it\u2019s born. When it falls into a deep sleep, it stops moving altogether.",
+            "It remains asleep from birth to death as a result of the sedative properties of the leaves that form its diet.",
+            "Komala spends its entire life sleeping. It feeds on leaves that contain a potent poison only Komala can break down.",
+            "A potent anesthetic can be made by diluting Komala\u2019s drool. This anesthetic was used for surgeries in the past."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792650870198352/775.png",
+    "discord_sprite": "<:P775:1132146903371481240>"
+}

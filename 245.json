@@ -1,0 +1,162 @@
+{
+    "alt-version(s)": [],
+    "name": "Suicune",
+    "Suicune": {
+        "pokedex_data": {
+            "National No.": "0245",
+            "Type": [
+                "Water"
+            ],
+            "Species": "Aurora Poke\u0301mon",
+            "Height": "2.0 m (6\u203207\u2032\u2032)",
+            "Weight": "187.0 kg (412.3 lbs)",
+            "Abilities": {
+                "Pressure": {
+                    "href": "/ability/pressure",
+                    "effect": "The Pok\u00e9mon raises the foe's PP usage.",
+                    "hidden": false
+                },
+                "Inner Focus": {
+                    "href": "/ability/inner-focus",
+                    "effect": "The Pok\u00e9mon is protected from flinching.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Defense, 2 Sp. Def",
+            "Catch rate": "3",
+            "BaseFriendship": "35",
+            "Base Exp.": "261",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "100",
+                "Min": "310",
+                "Max": "404"
+            },
+            "Attack": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Defense": {
+                "Base": "115",
+                "Min": "211",
+                "Max": "361"
+            },
+            "Sp. Atk": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Sp. Def": {
+                "Base": "115",
+                "Min": "211",
+                "Max": "361"
+            },
+            "Speed": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Total": "580"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Extreme Speed": "1",
+            "Gust": "1",
+            "Leer": "1",
+            "Mist": "1",
+            "Sheer Cold": "1",
+            "Water Gun": "1",
+            "Water Pulse": "6",
+            "Bite": "12",
+            "Calm Mind": "18",
+            "Roar": "24",
+            "Ice Fang": "30",
+            "Tailwind": "36",
+            "Crunch": "42",
+            "Extrasensory": "48",
+            "Surf": "54",
+            "Mirror Coat": "60",
+            "Rain Dance": "66",
+            "Hydro Pump": "72",
+            "Blizzard": "78"
+        },
+        "egg": null,
+        "tm": {
+            "Water Pulse": "03",
+            "Calm Mind": "04",
+            "Roar": "05",
+            "Hail": "07",
+            "Sunny Day": "11",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Iron Tail": "23",
+            "Dig": "28",
+            "Shadow Ball": "30",
+            "Double Team": "32",
+            "Reflect": "33",
+            "Sandstorm": "37",
+            "Facade": "42",
+            "Rest": "44",
+            "Scald": "49",
+            "Brine": "55",
+            "Endure": "58",
+            "Giga Impact": "68",
+            "Avalanche": "72",
+            "Psych Up": "77",
+            "Snarl": "78",
+            "Sleep Talk": "82",
+            "Bulldoze": "83",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Cut": "93",
+            "Surf": "95",
+            "Rock Smash": "98",
+            "Waterfall": "99",
+            "Rock Climb": "100"
+        }
+    },
+    "entries": {
+        "Suicune": [
+            "Said to be the reincarnation of north winds, it can instantly purify filthy, murky water.",
+            "This pok\u00e9mon races across the land. It is said that north winds will somehow blow whenever it appears.",
+            "This divine pok\u00e9mon blows around the world, always in search of a pure reservoir.",
+            "SUICUNE embodies the compassion of a pure spring of water. It runs across the land with gracefulness. This pok\u00e9mon has the power to purify dirty water.",
+            "This pok\u00e9mon races across the land. It is said that north winds will somehow blow whenever it appears.",
+            "Said to be the reincarnation of north winds, it can instantly purify filthy, murky water.",
+            "SUICUNE embodies the compassion of a pure spring of water. It runs across the land with gliding elegance. It has the power to purify dirty water.",
+            "It races around the world to purify fouled water. It dashes away with the north wind.",
+            "Said to be the embodiment of north winds, it can instantly purify filthy, murky water.",
+            "This Pok\u00e9mon races across the land. It is said that north winds will somehow blow whenever it appears.",
+            "It races around the world to purify fouled water. It dashes away with the north wind.",
+            "It races around the world to purify fouled water. It dashes away with the north wind.",
+            "Said to be the embodiment of north winds, it can instantly purify filthy, murky water.",
+            "Suicune embodies the compassion of a pure spring of water. It runs across the land with gracefulness. This Pok\u00e9mon has the power to purify dirty water.",
+            "It races around the world to purify fouled water. It dashes away with the north wind."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788510332985364/245.png",
+    "discord_sprite": "<:P245:1132123517056450611>"
+}

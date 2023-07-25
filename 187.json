@@ -1,0 +1,229 @@
+{
+    "alt-version(s)": [],
+    "name": "Hoppip",
+    "Hoppip": {
+        "pokedex_data": {
+            "National No.": "0187",
+            "Type": [
+                "Grass",
+                "Flying"
+            ],
+            "Species": "Cottonweed Poke\u0301mon",
+            "Height": "0.4 m (1\u203204\u2032\u2032)",
+            "Weight": "0.5 kg (1.1 lbs)",
+            "Abilities": {
+                "Chlorophyll": {
+                    "href": "/ability/chlorophyll",
+                    "effect": "Boosts the Pok\u00e9mon's Speed in sunshine.",
+                    "hidden": false
+                },
+                "Leaf Guard": {
+                    "href": "/ability/leaf-guard",
+                    "effect": "Prevents problems with status in sunny weather.",
+                    "hidden": false
+                },
+                "Infiltrator": {
+                    "href": "/ability/infiltrator",
+                    "effect": "Passes through the foe's barrier and strikes.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Sp. Def",
+            "Catch rate": "255",
+            "BaseFriendship": "50",
+            "Base Exp.": "50",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "35",
+                "Min": "180",
+                "Max": "274"
+            },
+            "Attack": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Defense": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Atk": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Sp. Def": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Speed": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Total": "250"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Poison": "super-effective",
+                "Ground": "no effect",
+                "Flying": "super-effective",
+                "Rock": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Hoppip",
+                    "nationalNo": "#0187",
+                    "type": [
+                        "Grass",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Skiploom",
+                    "nationalNo": "#0188",
+                    "type": [
+                        "Grass",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 18)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Skiploom",
+                    "nationalNo": "#0188",
+                    "type": [
+                        "Grass",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Jumpluff",
+                    "nationalNo": "#0189",
+                    "type": [
+                        "Grass",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 27)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Splash": "1",
+            "Tackle": "1",
+            "Tail Whip": "4",
+            "Absorb": "6",
+            "Fairy Wind": "8",
+            "Poison Powder": "10",
+            "Sleep Powder": "10",
+            "Stun Spore": "10",
+            "Bullet Seed": "12",
+            "Synthesis": "15",
+            "Leech Seed": "19",
+            "Mega Drain": "22",
+            "Acrobatics": "24",
+            "Cotton Spore": "27",
+            "U-turn": "29",
+            "Giga Drain": "32",
+            "Bounce": "35",
+            "Memento": "38"
+        },
+        "egg": {
+            "Cotton Guard": null,
+            "Encore": null,
+            "Grassy Terrain": null,
+            "Rage Powder": null,
+            "Seed Bomb": null,
+            "Strength Sap": null,
+            "Switcheroo": null,
+            "Worry Seed": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Charm": "02",
+            "Protect": "07",
+            "Acrobatics": "14",
+            "Thief": "18",
+            "Trailblaze": "20",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Magical Leaf": "33",
+            "Fling": "43",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Bullet Seed": "56",
+            "U-turn": "60",
+            "Sleep Talk": "70",
+            "Seed Bomb": "71",
+            "Reflect": "74",
+            "Light Screen": "75",
+            "Dazzling Gleam": "79",
+            "Grass Knot": "81",
+            "Rest": "85",
+            "Swords Dance": "88",
+            "Substitute": "103",
+            "Giga Drain": "111",
+            "Tailwind": "113",
+            "Energy Ball": "119",
+            "Encore": "122",
+            "Helping Hand": "130",
+            "Pollen Puff": "131",
+            "Baton Pass": "132",
+            "Grassy Terrain": "137",
+            "Leaf Storm": "159",
+            "Solar Beam": "168",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Hoppip": [
+            "To keep from being blown away by the wind, they gather in clusters. They do enjoy gentle breezes, though.",
+            "Its body is so light, it must grip the ground firmly with its feet to keep from being blown away.",
+            "It can be carried away on even the gentlest breeze. It may even float all the way to the next town.",
+            "This pok\u00e9mon drifts and floats with the wind. If it senses the approach of strong winds, HOPPIP links its leaves with other HOPPIP to prepare against being blown away.",
+            "Its body is so light, it must grip the ground firmly with its feet to keep from being blown away.",
+            "To keep from being blown away by the wind, they gather in clusters. They do enjoy gentle breezes, though.",
+            "This pok\u00e9mon drifts and floats with the wind. If it senses the approach of strong winds, a HOPPIP links leaves with others to prepare against being blown away.",
+            "It drifts on winds. It is said that when HOPPIP gather in fields and mountains, spring is on the way.",
+            "To keep from being blown away by the wind, they gather in clusters. But they do enjoy gentle breezes.",
+            "Its body is so light, it must grip the ground firmly with its feet to keep from being blown away.",
+            "It drifts on winds. It is said that when Hoppip gather in fields and mountains, spring is on the way.",
+            "Its body is so light, it must grip the ground firmly with its feet to keep from being blown away.",
+            "It drifts on winds. It is said that when Hoppip gather in fields and mountains, spring is on the way.",
+            "This Pok\u00e9mon drifts and floats with the wind. If it senses the approach of strong winds, Hoppip links its leaves with other Hoppip to prepare against being blown away.",
+            "They are blown adrift by winds. It is said that when Hoppip gather in fields and mountains, spring is on the way.",
+            "This Pok\u00e9mon is blown across vast distances by the wind. It is unclear where the Hoppip of Paldea originally came from.",
+            "Outside of cold regions, Hoppip can be found practically everywhere. This is because the wind carries this species all over the world."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788049370591262/187.png",
+    "discord_sprite": "<:P187:1132120963866173533>"
+}

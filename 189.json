@@ -1,0 +1,231 @@
+{
+    "alt-version(s)": [],
+    "name": "Jumpluff",
+    "Jumpluff": {
+        "pokedex_data": {
+            "National No.": "0189",
+            "Type": [
+                "Grass",
+                "Flying"
+            ],
+            "Species": "Cottonweed Poke\u0301mon",
+            "Height": "0.8 m (2\u203207\u2032\u2032)",
+            "Weight": "3.0 kg (6.6 lbs)",
+            "Abilities": {
+                "Chlorophyll": {
+                    "href": "/ability/chlorophyll",
+                    "effect": "Boosts the Pok\u00e9mon's Speed in sunshine.",
+                    "hidden": false
+                },
+                "Leaf Guard": {
+                    "href": "/ability/leaf-guard",
+                    "effect": "Prevents problems with status in sunny weather.",
+                    "hidden": false
+                },
+                "Infiltrator": {
+                    "href": "/ability/infiltrator",
+                    "effect": "Passes through the foe's barrier and strikes.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Speed",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "230",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "75",
+                "Min": "260",
+                "Max": "354"
+            },
+            "Attack": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Defense": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Atk": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Sp. Def": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Speed": {
+                "Base": "110",
+                "Min": "202",
+                "Max": "350"
+            },
+            "Total": "460"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "not very effective",
+                "Poison": "super-effective",
+                "Ground": "no effect",
+                "Flying": "super-effective",
+                "Rock": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Hoppip",
+                    "nationalNo": "#0187",
+                    "type": [
+                        "Grass",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Skiploom",
+                    "nationalNo": "#0188",
+                    "type": [
+                        "Grass",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 18)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Skiploom",
+                    "nationalNo": "#0188",
+                    "type": [
+                        "Grass",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Jumpluff",
+                    "nationalNo": "#0189",
+                    "type": [
+                        "Grass",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 27)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Absorb": "1",
+            "Splash": "1",
+            "Synthesis": "1",
+            "Tail Whip": "1",
+            "Tackle": "8",
+            "Fairy Wind": "10",
+            "Poison Powder": "12",
+            "Sleep Powder": "12",
+            "Stun Spore": "12",
+            "Bullet Seed": "15",
+            "Leech Seed": "20",
+            "Mega Drain": "24",
+            "Acrobatics": "30",
+            "Cotton Spore": "35",
+            "U-turn": "39",
+            "Giga Drain": "43",
+            "Bounce": "49",
+            "Memento": "55"
+        },
+        "egg": {
+            "Cotton Guard": null,
+            "Encore": null,
+            "Grassy Terrain": null,
+            "Rage Powder": null,
+            "Seed Bomb": null,
+            "Strength Sap": null,
+            "Switcheroo": null,
+            "Worry Seed": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Charm": "02",
+            "Protect": "07",
+            "Acrobatics": "14",
+            "Thief": "18",
+            "Trailblaze": "20",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Magical Leaf": "33",
+            "Fling": "43",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Bullet Seed": "56",
+            "U-turn": "60",
+            "Sleep Talk": "70",
+            "Seed Bomb": "71",
+            "Reflect": "74",
+            "Light Screen": "75",
+            "Dazzling Gleam": "79",
+            "Grass Knot": "81",
+            "Rest": "85",
+            "Swords Dance": "88",
+            "Substitute": "103",
+            "Giga Drain": "111",
+            "Tailwind": "113",
+            "Energy Ball": "119",
+            "Encore": "122",
+            "Helping Hand": "130",
+            "Pollen Puff": "131",
+            "Baton Pass": "132",
+            "Grassy Terrain": "137",
+            "Giga Impact": "152",
+            "Leaf Storm": "159",
+            "Hyper Beam": "163",
+            "Solar Beam": "168",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Jumpluff": [
+            "Once it catches the wind, it deftly controls its cotton-puff spores to float, even around the world.",
+            "Drifts on seasonal winds and spreads its cotton-like spores all over the world to make more offspring.",
+            "Even in the fiercest wind, it can control its fluff to make its way to any place in the world it wants.",
+            "JUMPLUFF rides warm southern winds to cross the sea and fly to foreign lands. The pok\u00e9mon descends to the ground when it encounters cold air while it is floating.",
+            "It drifts on seasonal winds and spreads its cotton-like spores all over the world to make more offspring.",
+            "Once it catches the wind, it deftly controls its cotton-puff spores to float, even around the world.",
+            "JUMPLUFF ride warm southern winds to cross the sea and fly to foreign lands. This pok\u00e9mon lands when it encounters cold air while it is floating.",
+            "Blown by seasonal winds, it circles the globe, scattering cotton spores as it goes.",
+            "Once it catches the wind, it deftly controls its cotton-puff spores--it can even float around the world.",
+            "Drifts on seasonal winds and spreads its cotton-like spores all over the world to make more offspring.",
+            "Blown by seasonal winds, it circles the globe, scattering cotton spores as it goes.",
+            "Blown by seasonal winds, it circles the globe, scattering cotton spores as it goes.",
+            "Even in the fiercest wind, it can control its fluff to make its way to any place in the world it wants.",
+            "Jumpluff rides warm southern winds to cross the sea and fly to foreign lands. The Pok\u00e9mon descends to the ground when it encounters cold air while it is floating.",
+            "Blown by seasonal winds, it circles the globe, scattering cotton spores as it goes.",
+            "Jumpluff travels on seasonal winds. Once its cotton spores run out, its journey ends, as does its life.",
+            "Beware its cotton spores. If you accidentally breathe them in, you\u2019ll be racked with coughs and itchiness."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788065447366746/189.png",
+    "discord_sprite": "<:P189:1132121051590053909>"
+}

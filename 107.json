@@ -1,0 +1,244 @@
+{
+    "alt-version(s)": [],
+    "name": "Hitmonchan",
+    "Hitmonchan": {
+        "pokedex_data": {
+            "National No.": "0107",
+            "Type": [
+                "Fighting"
+            ],
+            "Species": "Punching Poke\u0301mon",
+            "Height": "1.4 m (4\u203207\u2032\u2032)",
+            "Weight": "50.2 kg (110.7 lbs)",
+            "Abilities": {
+                "Keen Eye": {
+                    "href": "/ability/keen-eye",
+                    "effect": "Prevents other Pok\u00e9mon from lowering accuracy.",
+                    "hidden": false
+                },
+                "Iron Fist": {
+                    "href": "/ability/iron-fist",
+                    "effect": "Boosts the power of punching moves.",
+                    "hidden": false
+                },
+                "Inner Focus": {
+                    "href": "/ability/inner-focus",
+                    "effect": "The Pok\u00e9mon is protected from flinching.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Sp. Def",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "159",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "100% male,0% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "50",
+                "Min": "210",
+                "Max": "304"
+            },
+            "Attack": {
+                "Base": "105",
+                "Min": "193",
+                "Max": "339"
+            },
+            "Defense": {
+                "Base": "79",
+                "Min": "146",
+                "Max": "282"
+            },
+            "Sp. Atk": {
+                "Base": "35",
+                "Min": "67",
+                "Max": "185"
+            },
+            "Sp. Def": {
+                "Base": "110",
+                "Min": "202",
+                "Max": "350"
+            },
+            "Speed": {
+                "Base": "76",
+                "Min": "141",
+                "Max": "276"
+            },
+            "Total": "455"
+        },
+        "defense_stats": {
+            "default": {
+                "Flying": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Dark": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Tyrogue",
+                    "nationalNo": "#0236",
+                    "type": [
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Hitmonlee",
+                    "nationalNo": "#0106",
+                    "type": [
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 20, Attack > Defense)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Tyrogue",
+                    "nationalNo": "#0236",
+                    "type": [
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Hitmonchan",
+                    "nationalNo": "#0107",
+                    "type": [
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 20, Attack < Defense)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Tyrogue",
+                    "nationalNo": "#0236",
+                    "type": [
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Hitmontop",
+                    "nationalNo": "#0237",
+                    "type": [
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 20, Attack = Defense)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Bullet Punch": "1",
+            "Drain Punch": "1",
+            "Fake Out": "1",
+            "Feint": "1",
+            "Focus Energy": "1",
+            "Helping Hand": "1",
+            "Tackle": "1",
+            "Vacuum Wave": "1",
+            "Mach Punch": "4",
+            "Power-Up Punch": "8",
+            "Detect": "12",
+            "Revenge": "16",
+            "Quick Guard": "21",
+            "Fire Punch": "24",
+            "Ice Punch": "24",
+            "Thunder Punch": "24",
+            "Agility": "28",
+            "Mega Punch": "32",
+            "Close Combat": "36",
+            "Counter": "40",
+            "Focus Punch": "44"
+        },
+        "evolution": {
+            "Drain Punch": "75"
+        },
+        "egg": {
+            "Bullet Punch": null,
+            "Counter": null,
+            "Feint": null,
+            "Helping Hand": null,
+            "High Jump Kick": null,
+            "Mach Punch": null,
+            "Mind Reader": null,
+            "Rapid Spin": null,
+            "Vacuum Wave": null
+        },
+        "tm": {
+            "Focus Punch": "01",
+            "Bulk Up": "08",
+            "Work Up": "10",
+            "Sunny Day": "11",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Earthquake": "26",
+            "Low Sweep": "27",
+            "Brick Break": "31",
+            "Double Team": "32",
+            "Rock Tomb": "39",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Focus Blast": "52",
+            "Fling": "56",
+            "Endure": "58",
+            "Drain Punch": "60",
+            "Stone Edge": "71",
+            "Rock Slide": "80",
+            "Sleep Talk": "82",
+            "Bulldoze": "83",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Strength": "96",
+            "Rock Smash": "98",
+            "Rock Climb": "100"
+        }
+    },
+    "entries": {
+        "Hitmonchan": [
+            "While apparently doing nothing, it fires punches in lightning fast volleys that are impossible to see.",
+            "Punches in corkscrew fashion. It can punch its way through a concrete wall in the same way as a drill.",
+            "Its punches slice the air. However, it seems to need a short break after fighting for three minutes.",
+            "Its punches slice the air. They are launched at such high speed, even a slight graze could cause a burn.",
+            "To increase the strength of all its punch moves, it spins its arms just before making contact.",
+            "HITMONCHAN is said to possess the spirit of a boxer who had been working towards a world championship. This pok\u00e9mon has an indomitable spirit and will never give up in the face of adversity.",
+            "The spirit of a pro boxer has infused this pok\u00e9mon. It throws punches that are faster than a bullet train.",
+            "While apparently doing nothing, it fires punches in lightning-fast volleys that are impossible to see.",
+            "A HITMONCHAN is said to possess the spirit of a boxer who aimed to become the world champion. Having an indomitable spirit means that it will never give up.",
+            "The arm-twisting punches it throws pulverize even concrete. It rests after three minutes of fighting.",
+            "Its punches slice the air. However, it seems to need a short break after fighting for three minutes.",
+            "Its punches slice the air. They are launched at such high speed, even a slight graze could cause a burn.",
+            "The arm-twisting punches it throws pulverize even concrete. It rests after three minutes of fighting.",
+            "The arm-twisting punches it throws pulverize even concrete. It rests after three minutes of fighting.",
+            "The spirit of a pro boxer has infused this Pok\u00e9mon. It throws punches that are faster than a bullet train.",
+            "Hitmonchan is said to possess the spirit of a boxer who had been working toward a world championship. This Pok\u00e9mon has an indomitable spirit and will never give up in the face of adversity.",
+            "Punches in corkscrew fashion. It can punch its way through a concrete wall like a drill.",
+            "Its punches slice the air. They are launched at such high speed, even a slight graze could cause a burn.",
+            "Its punches slice the air. However, it seems to need a short break after fighting for three minutes.",
+            "When Hitmonchan twists its arm while throwing a punch, the blow will pulverize even concrete. The Pok\u00e9mon rests after three minutes of fighting."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787426843607150/107.png",
+    "discord_sprite": "<:P107:1132117431100395651>"
+}

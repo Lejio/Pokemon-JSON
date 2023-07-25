@@ -1,0 +1,329 @@
+{
+    "alt-version(s)": [
+        "Galarian Linoone"
+    ],
+    "name": "Linoone",
+    "Linoone": {
+        "pokedex_data": {
+            "National No.": "0264",
+            "Type": [
+                "Normal"
+            ],
+            "Species": "Rushing Poke\u0301mon",
+            "Height": "0.5 m (1\u203208\u2032\u2032)",
+            "Weight": "32.5 kg (71.7 lbs)",
+            "Abilities": {
+                "Pickup": {
+                    "href": "/ability/pickup",
+                    "effect": "The Pok\u00e9mon may pick up items.",
+                    "hidden": false
+                },
+                "Gluttony": {
+                    "href": "/ability/gluttony",
+                    "effect": "Encourages the early use of a held Berry.",
+                    "hidden": false
+                },
+                "Quick Feet": {
+                    "href": "/ability/quick-feet",
+                    "effect": "Boosts Speed if there is a status problem.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Speed",
+            "Catch rate": "90",
+            "BaseFriendship": "50",
+            "Base Exp.": "147",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "78",
+                "Min": "266",
+                "Max": "360"
+            },
+            "Attack": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Defense": {
+                "Base": "61",
+                "Min": "114",
+                "Max": "243"
+            },
+            "Sp. Atk": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Def": {
+                "Base": "61",
+                "Min": "114",
+                "Max": "243"
+            },
+            "Speed": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Total": "420"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "Galarian Linoone": {
+        "pokedex_data": {
+            "National No.": "0264",
+            "Type": [
+                "Dark",
+                "Normal"
+            ],
+            "Species": "Rushing Poke\u0301mon",
+            "Height": "0.5 m (1\u203208\u2032\u2032)",
+            "Weight": "32.5 kg (71.7 lbs)",
+            "Abilities": {
+                "Pickup": {
+                    "href": "/ability/pickup",
+                    "effect": "The Pok\u00e9mon may pick up items.",
+                    "hidden": false
+                },
+                "Gluttony": {
+                    "href": "/ability/gluttony",
+                    "effect": "Encourages the early use of a held Berry.",
+                    "hidden": false
+                },
+                "Quick Feet": {
+                    "href": "/ability/quick-feet",
+                    "effect": "Boosts Speed if there is a status problem.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Speed",
+            "Catch rate": "90",
+            "BaseFriendship": "50",
+            "Base Exp.": "147",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "78",
+                "Min": "266",
+                "Max": "360"
+            },
+            "Attack": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Defense": {
+                "Base": "61",
+                "Min": "114",
+                "Max": "243"
+            },
+            "Sp. Atk": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Def": {
+                "Base": "61",
+                "Min": "114",
+                "Max": "243"
+            },
+            "Speed": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Total": "420"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "super-effective",
+                "Psychic": "no effect",
+                "Bug": "super-effective",
+                "Ghost": "no effect",
+                "Dark": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Zigzagoon",
+                    "nationalNo": "#0263",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Linoone",
+                    "nationalNo": "#0264",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 20)",
+                "shed": null
+            }
+        ],
+        [
+            {
+                "from": {
+                    "name": "Zigzagoon",
+                    "nationalNo": "#0263",
+                    "type": [
+                        "Dark",
+                        "Normal"
+                    ],
+                    "nickname": "Galarian Zigzagoon"
+                },
+                "to": {
+                    "name": "Linoone",
+                    "nationalNo": "#0264",
+                    "type": [
+                        "Dark",
+                        "Normal"
+                    ],
+                    "nickname": "Galarian Linoone"
+                },
+                "requirement": "(Level 20)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Linoone",
+                    "nationalNo": "#0264",
+                    "type": [
+                        "Dark",
+                        "Normal"
+                    ],
+                    "nickname": "Galarian Linoone"
+                },
+                "to": {
+                    "name": "Obstagoon",
+                    "nationalNo": "#0862",
+                    "type": [
+                        "Dark",
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 35, Nighttime)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Baby-Doll Eyes": "1",
+            "Growl": "1",
+            "Pin Missile": "1",
+            "Sand Attack": "1",
+            "Slash": "1",
+            "Switcheroo": "1",
+            "Tackle": "1",
+            "Tail Whip": "1",
+            "Covet": "9",
+            "Headbutt": "12",
+            "Hone Claws": "15",
+            "Fury Swipes": "18",
+            "Rest": "23",
+            "Take Down": "28",
+            "Fling": "33",
+            "Flail": "38",
+            "Belly Drum": "43",
+            "Double-Edge": "48"
+        },
+        "evolution": {
+            "Slash": "70"
+        },
+        "egg": {
+            "Charm": null,
+            "Extreme Speed": null,
+            "Helping Hand": null,
+            "Mud-Slap": null,
+            "Simple Beam": null,
+            "Tickle": null,
+            "Trick": null
+        },
+        "tm": {
+            "Water Pulse": "03",
+            "Roar": "05",
+            "Work Up": "10",
+            "Sunny Day": "11",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Iron Tail": "23",
+            "Thunderbolt": "24",
+            "Thunder": "25",
+            "Dig": "28",
+            "Shadow Ball": "30",
+            "Double Team": "32",
+            "Shock Wave": "34",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Fling": "56",
+            "Charge Beam": "57",
+            "Endure": "58",
+            "Shadow Claw": "65",
+            "Giga Impact": "68",
+            "Thunder Wave": "73",
+            "Sleep Talk": "82",
+            "Grass Knot": "86",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Cut": "93",
+            "Surf": "95",
+            "Strength": "96",
+            "Rock Smash": "98"
+        }
+    },
+    "entries": {
+        "Linoone": [
+            "LINOONE always runs full speed and only in straight lines. If facing an obstacle, it makes a right-angle turn to evade it. This pok\u00e9mon is very challenged by gently curving roads.",
+            "When hunting, LINOONE will make a beeline straight for the prey at a full run. While this pok\u00e9mon is capable of topping 60 mph, it has to come to a screeching halt before it can turn.",
+            "When running in a straight line, it can top 60 miles per hour. However, it has a tough time with curved roads.",
+            "It is exceedingly fast if it only has to run in a straight line. When it spots pond-dwelling prey underwater, it quickly leaps in and catches it with its sharp claws.",
+            "It charges prey at speeds over 60 mph. However, because it can only run straight, it often fails.",
+            "When running in a straight line, it can easily top 60 miles an hour. It has a tough time with curved roads.",
+            "It charges prey at speeds over 60 mph. However, because it can only run straight, it often fails.",
+            "When running in a straight line, it can easily top 60 miles an hour. It has a tough time with curved roads.",
+            "It charges prey at speeds over 60 mph. However, because it can only run straight, it often fails.",
+            "Linoone always runs full speed and only in straight lines. If facing an obstacle, it makes a right-angle turn to evade it. This Pok\u00e9mon is very challenged by gently curving roads.",
+            "When hunting, Linoone will make a beeline straight for the prey at a full run. While this Pok\u00e9mon is capable of topping 60 mph, it has to come to a screeching halt before it can turn.",
+            "Its fur is strong and supple. Shaving brushes made with shed Linoone hairs are highly prized.",
+            "It uses its explosive speed and razor-sharp claws to bring down prey. Running along winding paths is not its strong suit.",
+            "It charges prey at speeds over 60 mph. However, because it can only run straight, it often fails."
+        ],
+        "Galarian Linoone": [
+            "It uses its long tongue to taunt opponents. Once the opposition is enraged, this Pok\u00e9mon hurls itself at the opponent, tackling them forcefully.",
+            "This very aggressive Pok\u00e9mon will recklessly challenge opponents stronger than itself."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788660090605628/264.png",
+    "discord_sprite": "<:P264:1132124363395715112>"
+}

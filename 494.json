@@ -1,0 +1,184 @@
+{
+    "alt-version(s)": [],
+    "name": "Victini",
+    "Victini": {
+        "pokedex_data": {
+            "National No.": "0494",
+            "Type": [
+                "Psychic",
+                "Fire"
+            ],
+            "Species": "Victory Poke\u0301mon",
+            "Height": "0.4 m (1\u203204\u2032\u2032)",
+            "Weight": "4.0 kg (8.8 lbs)",
+            "Abilities": {
+                "Victory Star": {
+                    "href": "/ability/victory-star",
+                    "effect": "Boosts the accuracy of its allies and itself.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 HP",
+            "Catch rate": "3",
+            "BaseFriendship": "100",
+            "Base Exp.": "270",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "100",
+                "Min": "310",
+                "Max": "404"
+            },
+            "Attack": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Defense": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Sp. Atk": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Sp. Def": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Speed": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Total": "600"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Fighting": "not very effective",
+                "Ground": "super-effective",
+                "Psychic": "not very effective",
+                "Rock": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Confusion": "1",
+            "Flame Charge": "1",
+            "Focus Energy": "1",
+            "Quick Attack": "1",
+            "V-create": "1",
+            "Work Up": "7",
+            "Incinerate": "14",
+            "Stored Power": "21",
+            "Headbutt": "28",
+            "Endure": "35",
+            "Zen Headbutt": "42",
+            "Inferno": "49",
+            "Reversal": "56",
+            "Searing Shot": "63",
+            "Double-Edge": "70",
+            "Flare Blitz": "77",
+            "Overheat": "84",
+            "Final Gambit": "91"
+        },
+        "egg": {
+            "Expanding Force": null,
+            "Scorching Sands": null
+        },
+        "null": {
+            "Flamethrower": "02",
+            "Thunderbolt": "08",
+            "Thunder": "09",
+            "Psychic": "11",
+            "Focus Energy": "13",
+            "Fire Blast": "15",
+            "Substitute": "20",
+            "Reversal": "21",
+            "Psyshock": "25",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Baton Pass": "29",
+            "Encore": "30",
+            "Shadow Ball": "33",
+            "Future Sight": "34",
+            "Uproar": "35",
+            "Heat Wave": "36",
+            "Taunt": "37",
+            "Trick": "38",
+            "Skill Swap": "40",
+            "Blaze Kick": "41",
+            "Overheat": "43",
+            "Flare Blitz": "55",
+            "Focus Blast": "64",
+            "Energy Ball": "65",
+            "Zen Headbutt": "69",
+            "Grass Knot": "77",
+            "Stored Power": "82",
+            "Work Up": "85",
+            "Wild Charge": "86",
+            "Dazzling Gleam": "92"
+        },
+        "tm": {
+            "Mega Punch": "00",
+            "Mega Kick": "01",
+            "Fire Punch": "03",
+            "Thunder Punch": "05",
+            "Hyper Beam": "08",
+            "Giga Impact": "09",
+            "Solar Beam": "11",
+            "Fire Spin": "13",
+            "Thunder Wave": "14",
+            "Light Screen": "17",
+            "Safeguard": "19",
+            "Rest": "21",
+            "Snore": "24",
+            "Protect": "25",
+            "Sunny Day": "34",
+            "Will-O-Wisp": "38",
+            "Facade": "39",
+            "Swift": "40",
+            "Helping Hand": "41",
+            "Brick Break": "43",
+            "Bounce": "52",
+            "U-turn": "56",
+            "Fling": "59",
+            "Power Swap": "60",
+            "Guard Swap": "61",
+            "Speed Swap": "62",
+            "Trick Room": "70",
+            "Round": "76",
+            "Mystical Fire": "92"
+        }
+    },
+    "entries": {
+        "Victini": [
+            "This Pok\u00e9mon brings victory. It is said that Trainers with Victini always win, regardless of the type of encounter.",
+            "It creates an unlimited supply of energy inside its body, which it shares with those who touch it.",
+            "When it shares the infinite energy it creates, that being\u2019s entire body will be overflowing with power.",
+            "This Pok\u00e9mon brings victory. It is said that Trainers with Victini always win, regardless of the type of encounter.",
+            "When it shares the infinite energy it creates, that being\u2019s entire body will be overflowing with power."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790450806767697/494.png",
+    "discord_sprite": "<:P494:1132134470292615228>"
+}

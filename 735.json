@@ -1,0 +1,187 @@
+{
+    "alt-version(s)": [],
+    "name": "Gumshoos",
+    "Gumshoos": {
+        "pokedex_data": {
+            "National No.": "0735",
+            "Type": [
+                "Normal"
+            ],
+            "Species": "Stakeout Poke\u0301mon",
+            "Height": "0.7 m (2\u203204\u2032\u2032)",
+            "Weight": "14.2 kg (31.3 lbs)",
+            "Abilities": {
+                "Strong Jaw": {
+                    "href": "/ability/strong-jaw",
+                    "effect": "Boosts the power of biting moves.",
+                    "hidden": false
+                },
+                "Stakeout": {
+                    "href": "/ability/stakeout",
+                    "effect": "Deals double damage to Pok\u00e9mon switching in.",
+                    "hidden": false
+                },
+                "Adaptability": {
+                    "href": "/ability/adaptability",
+                    "effect": "Powers up moves of the same type.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "127",
+            "BaseFriendship": "50",
+            "Base Exp.": "146",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "88",
+                "Min": "286",
+                "Max": "380"
+            },
+            "Attack": {
+                "Base": "110",
+                "Min": "202",
+                "Max": "350"
+            },
+            "Defense": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Atk": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Sp. Def": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Speed": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Total": "418"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Yungoos",
+                    "nationalNo": "#0734",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Gumshoos",
+                    "nationalNo": "#0735",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 20, Daytime)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Leer": "1",
+            "Payback": "1",
+            "Sand Attack": "1",
+            "Tackle": "1",
+            "Work Up": "13",
+            "Bite": "19",
+            "Mud-Slap": "23",
+            "Super Fang": "27",
+            "Take Down": "31",
+            "Scary Face": "35",
+            "Crunch": "39",
+            "Yawn": "43",
+            "Thrash": "47",
+            "Rest": "52"
+        },
+        "egg": {
+            "Endeavor": null,
+            "Fire Fang": null,
+            "Ice Fang": null,
+            "Last Resort": null,
+            "Thunder Fang": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Mud-Slap": "05",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Fire Fang": "08",
+            "Thunder Fang": "09",
+            "Ice Fang": "10",
+            "Thief": "18",
+            "Trailblaze": "20",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Bulldoze": "28",
+            "Mud Shot": "35",
+            "Rock Tomb": "36",
+            "Low Sweep": "39",
+            "Fling": "43",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Sandstorm": "51",
+            "Dig": "55",
+            "Zen Headbutt": "59",
+            "U-turn": "60",
+            "Psychic Fangs": "63",
+            "Body Slam": "66",
+            "Fire Punch": "67",
+            "Thunder Punch": "68",
+            "Ice Punch": "69",
+            "Sleep Talk": "70",
+            "Seed Bomb": "71",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Taunt": "87",
+            "Iron Head": "99",
+            "Substitute": "103",
+            "Crunch": "108",
+            "Helping Hand": "130",
+            "Reversal": "134",
+            "Wild Charge": "147",
+            "Earthquake": "149",
+            "Giga Impact": "152",
+            "Hyper Beam": "163",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Gumshoos": [
+            "When it finds a trace of its prey, it patiently stakes out the location...but it\u2019s always snoozing by nightfall.",
+            "It adores having Rattata and Raticate for dinner, but as it\u2019s diurnal, it never encounters them. This Pok\u00e9mon boasts incredible patience.",
+            "Although it wasn\u2019t originally found in Alola, this Pok\u00e9mon was brought over a long time ago when there was a huge Rattata outbreak.",
+            "Patient by nature, this Pok\u00e9mon loses control of itself and pounces when it spots its favorite meal\u2014Rattata!",
+            "Once it finds signs of prey, it will patiently stake out the location, waiting until the sun goes down.",
+            "Gumshoos specializes in relentlessly tracking down prey. The simple-minded Skwovet doesn\u2019t seem to provide Gumshoos enough challenge."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792337488584865/735.png",
+    "discord_sprite": "<:P735:1132145074835312692>"
+}

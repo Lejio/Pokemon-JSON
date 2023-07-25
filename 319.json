@@ -1,0 +1,289 @@
+{
+    "alt-version(s)": [
+        "Mega Sharpedo"
+    ],
+    "name": "Sharpedo",
+    "Sharpedo": {
+        "pokedex_data": {
+            "National No.": "0319",
+            "Type": [
+                "Water",
+                "Dark"
+            ],
+            "Species": "Brutal Poke\u0301mon",
+            "Height": "1.8 m (5\u203211\u2032\u2032)",
+            "Weight": "88.8 kg (195.8 lbs)",
+            "Abilities": {
+                "Rough Skin": {
+                    "href": "/ability/rough-skin",
+                    "effect": "Inflicts damage to the attacker on contact.",
+                    "hidden": false
+                },
+                "Speed Boost": {
+                    "href": "/ability/speed-boost",
+                    "effect": "Its Speed stat is gradually boosted.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "60",
+            "BaseFriendship": "35",
+            "Base Exp.": "161",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "70",
+                "Min": "250",
+                "Max": "344"
+            },
+            "Attack": {
+                "Base": "120",
+                "Min": "220",
+                "Max": "372"
+            },
+            "Defense": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Atk": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Sp. Def": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Speed": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Total": "460"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Psychic": "no effect",
+                "Bug": "super-effective",
+                "Ghost": "not very effective",
+                "Dark": "not very effective",
+                "Steel": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "Mega Sharpedo": {
+        "pokedex_data": {
+            "National No.": "0319",
+            "Type": [
+                "Water",
+                "Dark"
+            ],
+            "Species": "Brutal Poke\u0301mon",
+            "Height": "2.5 m (8\u203202\u2032\u2032)",
+            "Weight": "130.3 kg (287.3 lbs)",
+            "Abilities": {
+                "Strong Jaw": {
+                    "href": "/ability/strong-jaw",
+                    "effect": "Boosts the power of biting moves.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "60",
+            "BaseFriendship": "35",
+            "Base Exp.": "196",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "70",
+                "Min": "250",
+                "Max": "344"
+            },
+            "Attack": {
+                "Base": "140",
+                "Min": "256",
+                "Max": "416"
+            },
+            "Defense": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Atk": {
+                "Base": "110",
+                "Min": "202",
+                "Max": "350"
+            },
+            "Sp. Def": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Speed": {
+                "Base": "105",
+                "Min": "193",
+                "Max": "339"
+            },
+            "Total": "560"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Psychic": "no effect",
+                "Bug": "super-effective",
+                "Ghost": "not very effective",
+                "Dark": "not very effective",
+                "Steel": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Carvanha",
+                    "nationalNo": "#0318",
+                    "type": [
+                        "Water",
+                        "Dark"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Sharpedo",
+                    "nationalNo": "#0319",
+                    "type": [
+                        "Water",
+                        "Dark"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 30)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Aqua Jet": "1",
+            "Focus Energy": "1",
+            "Leer": "1",
+            "Night Slash": "1",
+            "Poison Fang": "1",
+            "Slash": "1",
+            "Scary Face": "12",
+            "Bite": "16",
+            "Ice Fang": "20",
+            "Screech": "24",
+            "Swagger": "28",
+            "Crunch": "34",
+            "Agility": "40",
+            "Liquidation": "46",
+            "Take Down": "52"
+        },
+        "evolution": {
+            "Slash": "70"
+        },
+        "egg": {
+            "Ancient Power": null,
+            "Destiny Bond": null,
+            "Double-Edge": null,
+            "Hydro Pump": null,
+            "Swift": null,
+            "Thrash": null
+        },
+        "tm": {
+            "Water Pulse": "03",
+            "Roar": "05",
+            "Hail": "07",
+            "Taunt": "12",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Hyper Beam": "15",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Earthquake": "26",
+            "Double Team": "32",
+            "Rock Tomb": "39",
+            "Torment": "41",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Scald": "49",
+            "Brine": "55",
+            "Endure": "58",
+            "Payback": "66",
+            "Giga Impact": "68",
+            "Avalanche": "72",
+            "Snarl": "78",
+            "Dark Pulse": "79",
+            "Sleep Talk": "82",
+            "Bulldoze": "83",
+            "Poison Jab": "84",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Surf": "95",
+            "Strength": "96",
+            "Rock Smash": "98",
+            "Waterfall": "99"
+        }
+    },
+    "entries": {
+        "Sharpedo": [
+            "Nicknamed \u201cthe bully of the sea,\u201d SHARPEDO is widely feared. Its cruel fangs grow back immediately if they snap off. Just one of these pok\u00e9mon can thoroughly tear apart a supertanker.",
+            "SHARPEDO can swim at speeds of up to 75 mph by jetting seawater out of its backside. This pok\u00e9mon\u2019s drawback is its inability to swim long distances.",
+            "The ruffian of the seas, it has fangs that crunch through iron. It swims by jetting water from its rear.",
+            "The vicious and sly gangster of the sea. Its skin is specially textured to minimize drag in water. Its speed tops out at over 75 miles per hour.",
+            "Its fangs rip through sheet iron. It swims at 75 mph and is known as \u201cThe Bully of the Sea.\u201d",
+            "It can swim at speeds of 75 mph by jetting seawater through its body. It is the bandit of the sea.",
+            "Its fangs rip through sheet iron. It swims at 75 mph and is known as \u201cThe Bully of the Sea.\u201d",
+            "Its fangs rip through sheet iron. It swims at 75 mph and is known as \u201cThe Bully of the Sea.\u201d",
+            "It can swim at speeds of 75 mph by jetting seawater through its body. It is the bandit of the sea.",
+            "Nicknamed \u201cthe bully of the sea,\u201d Sharpedo is widely feared. Its cruel fangs grow back immediately if they snap off. Just one of these Pok\u00e9mon can thoroughly tear apart a supertanker.",
+            "Sharpedo can swim at speeds of up to 75 mph by jetting seawater out of its backside. This Pok\u00e9mon\u2019s drawback is its inability to swim long distances.",
+            "It pursues its prey at speeds of 75 mph and finishes them off with fangs that can crush iron. It is known as the bully of the sea.",
+            "It has a sad history. In the past, its dorsal fin was a treasured foodstuff, so this Pok\u00e9mon became a victim of overfishing.",
+            "People believe that carrying one of its discarded fangs will prevent mishaps at sea, so the fangs are made into accessories.",
+            "It drinks in seawater and jets it from its rear to propel itself. It\u2019s very sensitive to the scent of blood.",
+            "As soon as it catches the scent of prey, Sharpedo will jet seawater from its backside, hurtling toward the target to attack at 75 mph.",
+            "This Pok\u00e9mon is known as the Bully of the Sea. Any ship entering the waters Sharpedo calls home will be attacked\u2014no exceptions.",
+            "Its fangs rip through sheet iron. It swims at 75 mph and is known as the Bully of the Sea."
+        ],
+        "Mega Sharpedo": [
+            "The spines sprouting from its head are transformed fangs. If they\u2019re injured or broken off, the spines will regenerate countless times.",
+            "As a consequence of Mega Evolution, its combative instincts exploded. The yellow marks it bears are scars from a long history of battles.",
+            "The yellow patterns it bears are old scars. The energy from Mega Evolution runs through them, causing it sharp pain and suffering.",
+            "The moment it charges into its opponent, sharp spikes pop out of Sharpedo\u2019s head, leaving its opponent with deep wounds."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789094339493948/319.png",
+    "discord_sprite": "<:P319:1132126774000615505>"
+}

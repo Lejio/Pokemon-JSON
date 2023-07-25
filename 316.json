@@ -1,0 +1,197 @@
+{
+    "alt-version(s)": [],
+    "name": "Gulpin",
+    "Gulpin": {
+        "pokedex_data": {
+            "National No.": "0316",
+            "Type": [
+                "Poison"
+            ],
+            "Species": "Stomach Poke\u0301mon",
+            "Height": "0.4 m (1\u203204\u2032\u2032)",
+            "Weight": "10.3 kg (22.7 lbs)",
+            "Abilities": {
+                "Liquid Ooze": {
+                    "href": "/ability/liquid-ooze",
+                    "effect": "Damages attackers using any draining move.",
+                    "hidden": false
+                },
+                "Sticky Hold": {
+                    "href": "/ability/sticky-hold",
+                    "effect": "Protects the Pok\u00e9mon from item theft.",
+                    "hidden": false
+                },
+                "Gluttony": {
+                    "href": "/ability/gluttony",
+                    "effect": "Encourages the early use of a held Berry.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 HP",
+            "Catch rate": "225",
+            "BaseFriendship": "50",
+            "Base Exp.": "60",
+            "Growth Rate": "Fluctuating"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "70",
+                "Min": "250",
+                "Max": "344"
+            },
+            "Attack": {
+                "Base": "43",
+                "Min": "81",
+                "Max": "203"
+            },
+            "Defense": {
+                "Base": "53",
+                "Min": "99",
+                "Max": "225"
+            },
+            "Sp. Atk": {
+                "Base": "43",
+                "Min": "81",
+                "Max": "203"
+            },
+            "Sp. Def": {
+                "Base": "53",
+                "Min": "99",
+                "Max": "225"
+            },
+            "Speed": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Total": "302"
+        },
+        "defense_stats": {
+            "default": {
+                "Grass": "not very effective",
+                "Fighting": "not very effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Gulpin",
+                    "nationalNo": "#0316",
+                    "type": [
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Swalot",
+                    "nationalNo": "#0317",
+                    "type": [
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 26)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Pound": "1",
+            "Yawn": "5",
+            "Poison Gas": "8",
+            "Sludge": "10",
+            "Amnesia": "12",
+            "Acid Spray": "17",
+            "Encore": "20",
+            "Toxic": "25",
+            "Spit Up": "28",
+            "Stockpile": "28",
+            "Swallow": "28",
+            "Sludge Bomb": "33",
+            "Gastro Acid": "36",
+            "Belch": "41",
+            "Pain Split": "44",
+            "Gunk Shot": "49"
+        },
+        "egg": {
+            "Acid Armor": null,
+            "Clear Smog": null,
+            "Curse": null,
+            "Destiny Bond": null,
+            "Mud-Slap": null,
+            "Smog": null,
+            "Stuff Cheeks": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Mud-Slap": "05",
+            "Protect": "07",
+            "Water Pulse": "11",
+            "Acid Spray": "13",
+            "Thief": "18",
+            "Facade": "25",
+            "Mud Shot": "35",
+            "Fling": "43",
+            "Venoshock": "45",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Bullet Seed": "56",
+            "Body Slam": "66",
+            "Fire Punch": "67",
+            "Thunder Punch": "68",
+            "Ice Punch": "69",
+            "Sleep Talk": "70",
+            "Seed Bomb": "71",
+            "Thunder Wave": "82",
+            "Poison Jab": "83",
+            "Rest": "85",
+            "Swords Dance": "88",
+            "Toxic Spikes": "91",
+            "Gunk Shot": "102",
+            "Substitute": "103",
+            "Giga Drain": "111",
+            "Shadow Ball": "114",
+            "Encore": "122",
+            "Amnesia": "128",
+            "Helping Hand": "130",
+            "Ice Beam": "135",
+            "Sludge Bomb": "148",
+            "Solar Beam": "168",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Gulpin": [
+            "Virtually all of GULPIN\u2019s body is its stomach. As a result, it can swallow something its own size. This pok\u00e9mon\u2019s stomach contains a special fluid that digests anything.",
+            "Most of GULPIN\u2019s body is made up of its stomach - its heart and brain are very small in comparison. This pok\u00e9mon\u2019s stomach contains special enzymes that dissolve anything.",
+            "There is nothing its stomach can\u2019t digest. While it is digesting, vile, overpowering gases are expelled.",
+            "This pok\u00e9mon\u2019s stomach fluid can even digest scrap iron. In one gulp, it can swallow something that is as large as itself.",
+            "Almost all its body is its stomach. Its harsh digestive juices quickly dissolve anything it swallows.",
+            "It has a small heart and brain. Its stomach comprises most of its body, with enzymes to dissolve anything.",
+            "Almost all its body is its stomach. Its harsh digestive juices quickly dissolve anything it swallows.",
+            "It has a small heart and brain. Its stomach comprises most of its body, with enzymes to dissolve anything.",
+            "There is nothing its stomach can\u2019t digest. While it is digesting, vile, overpowering gases are expelled.",
+            "Virtually all of Gulpin\u2019s body is its stomach. As a result, it can swallow something its own size. This Pok\u00e9mon\u2019s stomach contains a special fluid that digests anything.",
+            "Most of Gulpin\u2019s body is made up of its stomach\u2014its heart and brain are very small in comparison. This Pok\u00e9mon\u2019s stomach contains special enzymes that dissolve anything.",
+            "Almost all its body is its stomach. Its harsh digestive juices quickly dissolve anything it swallows.",
+            "There is nothing its stomach can\u2019t digest. While it is digesting, vile, overpowering gases are expelled.",
+            "It has a small heart and brain. Its stomach comprises most of its body, with enzymes to dissolve anything."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789070905905332/316.png",
+    "discord_sprite": "<:P316:1132126642626646126>"
+}

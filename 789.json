@@ -1,0 +1,161 @@
+{
+    "alt-version(s)": [],
+    "name": "Cosmog",
+    "Cosmog": {
+        "pokedex_data": {
+            "National No.": "0789",
+            "Type": [
+                "Psychic"
+            ],
+            "Species": "Nebula Poke\u0301mon",
+            "Height": "0.2 m (0\u203208\u2032\u2032)",
+            "Weight": "0.1 kg (0.2 lbs)",
+            "Abilities": {
+                "Unaware": {
+                    "href": "/ability/unaware",
+                    "effect": "Ignores any stat changes in the Pok\u00e9mon.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 HP",
+            "Catch rate": "45",
+            "BaseFriendship": "0",
+            "Base Exp.": "40",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "43",
+                "Min": "196",
+                "Max": "290"
+            },
+            "Attack": {
+                "Base": "29",
+                "Min": "56",
+                "Max": "172"
+            },
+            "Defense": {
+                "Base": "31",
+                "Min": "60",
+                "Max": "177"
+            },
+            "Sp. Atk": {
+                "Base": "29",
+                "Min": "56",
+                "Max": "172"
+            },
+            "Sp. Def": {
+                "Base": "31",
+                "Min": "60",
+                "Max": "177"
+            },
+            "Speed": {
+                "Base": "37",
+                "Min": "71",
+                "Max": "190"
+            },
+            "Total": "200"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "super-effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Cosmog",
+                    "nationalNo": "#0789",
+                    "type": [
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Cosmoem",
+                    "nationalNo": "#0790",
+                    "type": [
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 43)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Cosmoem",
+                    "nationalNo": "#0790",
+                    "type": [
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Solgaleo",
+                    "nationalNo": "#0791",
+                    "type": [
+                        "Psychic",
+                        "Steel"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 53, in Pok\u00e9mon Sun or Ultra Sun)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Cosmoem",
+                    "nationalNo": "#0790",
+                    "type": [
+                        "Psychic"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Lunala",
+                    "nationalNo": "#0792",
+                    "type": [
+                        "Psychic",
+                        "Ghost"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 53, in Pok\u00e9mon Moon or Ultra Moon)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Splash": "1",
+            "Teleport": "1"
+        },
+        "egg": null,
+        "tm": null,
+        "null": null
+    },
+    "entries": {
+        "Cosmog": [
+            "Its body is gaseous and frail. It slowly grows as it collects dust from the atmosphere.",
+            "In ages past, it was called the child of the stars. It\u2019s said to be a Pok\u00e9mon from another world, but no specific details are known.",
+            "Even though its helpless, gaseous body can be blown away by the slightest breeze, it doesn\u2019t seem to care.",
+            "Whether or not it\u2019s a Pok\u00e9mon from this world is a mystery. When it\u2019s in a jam, it warps away to a safe place to hide.",
+            "This Pok\u00e9mon came from another universe. Its gaseous body is so light that even a gentle breeze can blow it away.",
+            "Cosmog is very curious but not very cautious, often placing itself in danger. If things start to look dicey, it teleports away."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792758424735774/789.png",
+    "discord_sprite": "<:P789:1132147519946764308>"
+}

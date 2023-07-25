@@ -1,0 +1,173 @@
+{
+    "alt-version(s)": [],
+    "name": "Taillow",
+    "Taillow": {
+        "pokedex_data": {
+            "National No.": "0276",
+            "Type": [
+                "Normal",
+                "Flying"
+            ],
+            "Species": "TinySwallow Poke\u0301mon",
+            "Height": "0.3 m (1\u203200\u2032\u2032)",
+            "Weight": "2.3 kg (5.1 lbs)",
+            "Abilities": {
+                "Guts": {
+                    "href": "/ability/guts",
+                    "effect": "Boosts Attack if there is a status problem.",
+                    "hidden": false
+                },
+                "Scrappy": {
+                    "href": "/ability/scrappy",
+                    "effect": "Enables moves to hit Ghost-type Pok\u00e9mon.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Speed",
+            "Catch rate": "200",
+            "BaseFriendship": "50",
+            "Base Exp.": "54",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "40",
+                "Min": "190",
+                "Max": "284"
+            },
+            "Attack": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Defense": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Sp. Atk": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Sp. Def": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Speed": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Total": "270"
+        },
+        "defense_stats": {
+            "default": {
+                "Electric": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Ground": "no effect",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Taillow",
+                    "nationalNo": "#0276",
+                    "type": [
+                        "Normal",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Swellow",
+                    "nationalNo": "#0277",
+                    "type": [
+                        "Normal",
+                        "Flying"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 22)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Growl": "1",
+            "Peck": "1",
+            "Focus Energy": "5",
+            "Quick Attack": "9",
+            "Wing Attack": "13",
+            "Double Team": "17",
+            "Aerial Ace": "21",
+            "Quick Guard": "25",
+            "Agility": "29",
+            "Air Slash": "33",
+            "Endeavor": "37",
+            "Brave Bird": "41",
+            "Reversal": "45"
+        },
+        "egg": {
+            "Boomburst": null,
+            "Brave Bird": null,
+            "Hurricane": null,
+            "Sky Attack": null,
+            "Supersonic": null,
+            "Whirlwind": null
+        },
+        "tm": {
+            "Work Up": "10",
+            "Sunny Day": "11",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Double Team": "32",
+            "Aerial Ace": "40",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "Steel Wing": "47",
+            "Roost": "51",
+            "Endure": "58",
+            "Sleep Talk": "82",
+            "Swagger": "87",
+            "Pluck": "88",
+            "U-turn": "89",
+            "Substitute": "90",
+            "Fly": "94",
+            "Defog": "97"
+        }
+    },
+    "entries": {
+        "Taillow": [
+            "TAILLOW courageously stands its ground against foes, however strong they may be. This gutsy pok\u00e9mon will remain defiant even after a loss. On the other hand, it cries loudly if it becomes hungry.",
+            "TAILLOW is young - it has only just left its nest. As a result, it sometimes becomes lonesome and cries at night. This pok\u00e9mon feeds on WURMPLE that live in forests.",
+            "It dislikes cold seasons. They migrate to other lands in search of warmth, flying over 180 miles a day.",
+            "Although it is small, it is very courageous. It will take on a larger SKARMORY on an equal footing. However, its will weakens if it becomes hungry.",
+            "It has a gutsy spirit that makes it bravely take on tough foes. It flies in search of warm climates.",
+            "When it gets cold, they migrate, flying over 180 miles a day. It hunts for tasty prey.",
+            "It has a gutsy spirit that makes it bravely take on tough foes. It flies in search of warm climates.",
+            "It has a gutsy spirit that makes it bravely take on tough foes. It flies in search of warm climates.",
+            "It dislikes cold seasons. They migrate to other lands in search of warmth, flying over 180 miles a day.",
+            "Taillow courageously stands its ground against foes, however strong they may be. This gutsy Pok\u00e9mon will remain defiant even after a loss. On the other hand, it cries loudly if it becomes hungry.",
+            "Taillow is young\u2014it has only just left its nest. As a result, it sometimes becomes lonesome and cries at night. This Pok\u00e9mon feeds on Wurmple that live in forests.",
+            "It has a gutsy spirit that makes it bravely take on tough foes. It flies in search of warm climates."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131788753879441458/276.png",
+    "discord_sprite": "<:P276:1132124889109778573>"
+}

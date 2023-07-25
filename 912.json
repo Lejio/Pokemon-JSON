@@ -1,0 +1,181 @@
+{
+    "alt-version(s)": [],
+    "name": "Quaxly",
+    "Quaxly": {
+        "pokedex_data": {
+            "National No.": "0912",
+            "Type": [
+                "Water"
+            ],
+            "Species": "Duckling Poke\u0301mon",
+            "Height": "0.5 m (1\u203208\u2032\u2032)",
+            "Weight": "6.1 kg (13.4 lbs)",
+            "Abilities": {
+                "Torrent": {
+                    "href": "/ability/torrent",
+                    "effect": "Powers up Water-type moves in a pinch.",
+                    "hidden": false
+                },
+                "Moxie": {
+                    "href": "/ability/moxie",
+                    "effect": "Boosts Attack after knocking out any Pok\u00e9mon.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "62",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "87.5% male,12.5% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "55",
+                "Min": "220",
+                "Max": "314"
+            },
+            "Attack": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Defense": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Sp. Atk": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Def": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Speed": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Total": "310"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "super-effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Quaxly",
+                    "nationalNo": "#0912",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Quaxwell",
+                    "nationalNo": "#0913",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 16)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Quaxwell",
+                    "nationalNo": "#0913",
+                    "type": [
+                        "Water"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Quaquaval",
+                    "nationalNo": "#0914",
+                    "type": [
+                        "Water",
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 36)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Growl": "1",
+            "Pound": "1",
+            "Water Gun": "1",
+            "Work Up": "7",
+            "Wing Attack": "10",
+            "Aqua Jet": "13",
+            "Double Hit": "17",
+            "Aqua Cutter": "21",
+            "Air Slash": "24",
+            "Focus Energy": "28",
+            "Acrobatics": "31",
+            "Liquidation": "35"
+        },
+        "egg": {
+            "Detect": null,
+            "Last Resort": null,
+            "Rapid Spin": null,
+            "Roost": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Protect": "07",
+            "Low Kick": "12",
+            "Acrobatics": "14",
+            "Disarming Voice": "19",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Swift": "32",
+            "Air Cutter": "40",
+            "Endure": "47",
+            "Rain Dance": "50",
+            "Air Slash": "65",
+            "Rest": "85",
+            "Liquidation": "110",
+            "Encore": "122",
+            "Surf": "123",
+            "Helping Hand": "130",
+            "Baton Pass": "132",
+            "Misty Terrain": "139",
+            "Hydro Pump": "142",
+            "Water Pledge": "145",
+            "Brave Bird": "164",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Quaxly": [
+            "This Pok\u00e9mon migrated to Paldea from distant lands long ago. The gel secreted by its feathers repels water and grime.",
+            "Its strong legs let it easily swim around in even fast-flowing rivers. It likes to keep things tidy and is prone to overthinking things."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131793711316082719/912.png",
+    "discord_sprite": "<:P912:1132152927428018237>"
+}

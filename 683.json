@@ -1,0 +1,181 @@
+{
+    "alt-version(s)": [],
+    "name": "Aromatisse",
+    "Aromatisse": {
+        "pokedex_data": {
+            "National No.": "0683",
+            "Type": [
+                "Fairy"
+            ],
+            "Species": "Fragrance Poke\u0301mon",
+            "Height": "0.8 m (2\u203207\u2032\u2032)",
+            "Weight": "15.5 kg (34.2 lbs)",
+            "Abilities": {
+                "Healer": {
+                    "href": "/ability/healer",
+                    "effect": "May heal an ally's status conditions.",
+                    "hidden": false
+                },
+                "Aroma Veil": {
+                    "href": "/ability/aroma-veil",
+                    "effect": "Protects allies from attacks that limit their move choices.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 HP",
+            "Catch rate": "140",
+            "BaseFriendship": "50",
+            "Base Exp.": "162",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "101",
+                "Min": "312",
+                "Max": "406"
+            },
+            "Attack": {
+                "Base": "72",
+                "Min": "134",
+                "Max": "267"
+            },
+            "Defense": {
+                "Base": "72",
+                "Min": "134",
+                "Max": "267"
+            },
+            "Sp. Atk": {
+                "Base": "99",
+                "Min": "182",
+                "Max": "326"
+            },
+            "Sp. Def": {
+                "Base": "89",
+                "Min": "164",
+                "Max": "304"
+            },
+            "Speed": {
+                "Base": "29",
+                "Min": "56",
+                "Max": "172"
+            },
+            "Total": "462"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "not very effective",
+                "Poison": "super-effective",
+                "Bug": "not very effective",
+                "Dragon": "no effect",
+                "Dark": "not very effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Spritzee",
+                    "nationalNo": "#0682",
+                    "type": [
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Aromatisse",
+                    "nationalNo": "#0683",
+                    "type": [
+                        "Fairy"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(trade holding Sachet)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Aromatic Mist": "1",
+            "Echoed Voice": "1",
+            "Fairy Wind": "1",
+            "Heal Pulse": "1",
+            "Sweet Kiss": "1",
+            "Sweet Scent": "1",
+            "Disarming Voice": "9",
+            "Aromatherapy": "12",
+            "Draining Kiss": "15",
+            "Attract": "18",
+            "Flail": "21",
+            "Misty Terrain": "24",
+            "Psychic": "27",
+            "Charm": "30",
+            "Calm Mind": "33",
+            "Moonblast": "36",
+            "Skill Swap": "39",
+            "Psych Up": "42"
+        },
+        "egg": {
+            "After You": null,
+            "Disable": null,
+            "Wish": null
+        },
+        "null": {
+            "Thunderbolt": "08",
+            "Thunder": "09",
+            "Psychic": "11",
+            "Metronome": "14",
+            "Substitute": "20",
+            "Psyshock": "25",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Encore": "30",
+            "Skill Swap": "40",
+            "Calm Mind": "49",
+            "Gyro Ball": "52",
+            "Energy Ball": "65",
+            "Nasty Plot": "68",
+            "Flash Cannon": "70",
+            "Ally Switch": "83",
+            "Dazzling Gleam": "92"
+        },
+        "tm": {
+            "Hyper Beam": "08",
+            "Giga Impact": "09",
+            "Light Screen": "17",
+            "Reflect": "18",
+            "Rest": "21",
+            "Snore": "24",
+            "Protect": "25",
+            "Charm": "29",
+            "Attract": "31",
+            "Rain Dance": "33",
+            "Sunny Day": "34",
+            "Facade": "39",
+            "Helping Hand": "41",
+            "Fake Tears": "47",
+            "Drain Punch": "63",
+            "Trick Room": "70",
+            "Round": "76",
+            "Draining Kiss": "87",
+            "Misty Terrain": "89"
+        }
+    },
+    "entries": {
+        "Aromatisse": [
+            "It devises various scents, pleasant and unpleasant, and emits scents that its enemies dislike in order to gain an edge in battle.",
+            "Its scent is so overpowering that, unless a Trainer happens to really enjoy the smell, he or she will have a hard time walking alongside it.",
+            "The scent that constantly emits from its fur is so powerful that this Pok\u00e9mon\u2019s companions will eventually lose their sense of smell.",
+            "The scents Aromatisse can produce range from sweet smells that bolster allies to foul smells that sap an opponent\u2019s will to fight."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791927222734951/683.png",
+    "discord_sprite": "<:P683:1132142793020686458>"
+}

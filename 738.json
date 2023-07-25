@@ -1,0 +1,206 @@
+{
+    "alt-version(s)": [],
+    "name": "Vikavolt",
+    "Vikavolt": {
+        "pokedex_data": {
+            "National No.": "0738",
+            "Type": [
+                "Bug",
+                "Electric"
+            ],
+            "Species": "Stag Beetle Poke\u0301mon",
+            "Height": "1.5 m (4\u203211\u2032\u2032)",
+            "Weight": "45.0 kg (99.2 lbs)",
+            "Abilities": {
+                "Levitate": {
+                    "href": "/ability/levitate",
+                    "effect": "Gives immunity to Ground type moves.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Sp. Atk",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "225",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "77",
+                "Min": "264",
+                "Max": "358"
+            },
+            "Attack": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Defense": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Sp. Atk": {
+                "Base": "145",
+                "Min": "265",
+                "Max": "427"
+            },
+            "Sp. Def": {
+                "Base": "75",
+                "Min": "139",
+                "Max": "273"
+            },
+            "Speed": {
+                "Base": "43",
+                "Min": "81",
+                "Max": "203"
+            },
+            "Total": "500"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Fighting": "not very effective",
+                "Ground": "no effect",
+                "Rock": "super-effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Grubbin",
+                    "nationalNo": "#0736",
+                    "type": [
+                        "Bug"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Charjabug",
+                    "nationalNo": "#0737",
+                    "type": [
+                        "Bug",
+                        "Electric"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 20)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Charjabug",
+                    "nationalNo": "#0737",
+                    "type": [
+                        "Bug",
+                        "Electric"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Vikavolt",
+                    "nationalNo": "#0738",
+                    "type": [
+                        "Bug",
+                        "Electric"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Thunder Stone, in Gen 8, or level up in a Magnetic Field area)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Bug Bite": "1",
+            "Charge": "1",
+            "Crunch": "1",
+            "Dig": "1",
+            "Discharge": "1",
+            "Iron Defense": "1",
+            "Mud-Slap": "1",
+            "String Shot": "1",
+            "Thunderbolt": "1",
+            "Vise Grip": "1",
+            "X-Scissor": "1",
+            "Bite": "15",
+            "Spark": "23",
+            "Sticky Web": "29",
+            "Bug Buzz": "36",
+            "Guillotine": "43",
+            "Fly": "50",
+            "Agility": "57",
+            "Zap Cannon": "64"
+        },
+        "evolution": {
+            "Thunderbolt": "90"
+        },
+        "egg": {
+            "Discharge": null,
+            "Harden": null
+        },
+        "null": {
+            "Thunderbolt": "08",
+            "Thunder": "09",
+            "Agility": "12",
+            "Substitute": "20",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Crunch": "32",
+            "Iron Defense": "46",
+            "Poison Jab": "57",
+            "X-Scissor": "60",
+            "Bug Buzz": "61",
+            "Energy Ball": "65",
+            "Flash Cannon": "70",
+            "Electro Ball": "80",
+            "Wild Charge": "86"
+        },
+        "tm": {
+            "Fly": "06",
+            "Hyper Beam": "08",
+            "Giga Impact": "09",
+            "Solar Beam": "11",
+            "Thunder Wave": "14",
+            "Dig": "15",
+            "Screech": "16",
+            "Light Screen": "17",
+            "Rest": "21",
+            "Snore": "24",
+            "Protect": "25",
+            "Attract": "31",
+            "Rain Dance": "33",
+            "Facade": "39",
+            "Mud Shot": "53",
+            "Round": "76",
+            "Acrobatics": "78",
+            "Volt Switch": "80",
+            "Electroweb": "82",
+            "Eerie Impulse": "93",
+            "Air Slash": "95"
+        }
+    },
+    "entries": {
+        "Vikavolt": [
+            "It zips around, on sharp lookout for an opening. It concentrates electrical energy within its large jaws and uses it to zap its enemies.",
+            "It produces electricity via an electrical organ in its abdomen. It overwhelms bird Pok\u00e9mon with shocking beams of electrical energy.",
+            "It has an organ that generates electricity in its abdomen. It concentrates energy in its strong jaws and fires off powerful jolts of electricity.",
+            "Vikavolt flusters opponents with acrobatic flying maneuvers. This creates an opening for it to deliver an electric beam attack.",
+            "It builds up electricity in its abdomen, focuses it through its jaws, and then fires the electricity off in concentrated beams.",
+            "If it carries a Charjabug to use as a spare battery, a flying Vikavolt can rapidly fire high-powered beams of electricity."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792361077358692/738.png",
+    "discord_sprite": "<:P738:1132145207794728980>"
+}

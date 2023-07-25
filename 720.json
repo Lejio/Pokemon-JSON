@@ -1,0 +1,251 @@
+{
+    "alt-version(s)": [
+        "Hoopa Confined",
+        "Hoopa Unbound"
+    ],
+    "Hoopa Confined": {
+        "pokedex_data": {
+            "National No.": "0720",
+            "Type": [
+                "Psychic",
+                "Ghost"
+            ],
+            "Species": "Mischief Poke\u0301mon",
+            "Height": "0.5 m (1\u203208\u2032\u2032)",
+            "Weight": "9.0 kg (19.8 lbs)",
+            "Abilities": {
+                "Magician": {
+                    "href": "/ability/magician",
+                    "effect": "The Pok\u00e9mon steals the held item of a Pok\u00e9mon it hits with a move.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Sp. Atk",
+            "Catch rate": "3",
+            "BaseFriendship": "100",
+            "Base Exp.": "300",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "80",
+                "Min": "270",
+                "Max": "364"
+            },
+            "Attack": {
+                "Base": "110",
+                "Min": "202",
+                "Max": "350"
+            },
+            "Defense": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Atk": {
+                "Base": "150",
+                "Min": "274",
+                "Max": "438"
+            },
+            "Sp. Def": {
+                "Base": "130",
+                "Min": "238",
+                "Max": "394"
+            },
+            "Speed": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Total": "600"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "no effect",
+                "Fighting": "no effect",
+                "Poison": "not very effective",
+                "Psychic": "not very effective",
+                "Ghost": "super-effective",
+                "Dark": "super-effective"
+            }
+        }
+    },
+    "Hoopa Unbound": {
+        "pokedex_data": {
+            "National No.": "0720",
+            "Type": [
+                "Psychic",
+                "Dark"
+            ],
+            "Species": "Djinn Poke\u0301mon",
+            "Height": "6.5 m (21\u203204\u2032\u2032)",
+            "Weight": "490.0 kg (1080.3 lbs)",
+            "Abilities": {
+                "Magician": {
+                    "href": "/ability/magician",
+                    "effect": "The Pok\u00e9mon steals the held item of a Pok\u00e9mon it hits with a move.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Sp. Atk",
+            "Catch rate": "3",
+            "BaseFriendship": "50",
+            "Base Exp.": "340",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "80",
+                "Min": "270",
+                "Max": "364"
+            },
+            "Attack": {
+                "Base": "160",
+                "Min": "292",
+                "Max": "460"
+            },
+            "Defense": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Atk": {
+                "Base": "170",
+                "Min": "310",
+                "Max": "482"
+            },
+            "Sp. Def": {
+                "Base": "130",
+                "Min": "238",
+                "Max": "394"
+            },
+            "Speed": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Total": "680"
+        },
+        "defense_stats": {
+            "default": {
+                "Psychic": "no effect",
+                "Bug": "super-effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "Hoopa Confined": {
+            "moves": {
+                "Ally Switch": "1",
+                "Confusion": "1",
+                "Destiny Bond": "1",
+                "Astonish": "6",
+                "Trick": "10",
+                "Light Screen": "15",
+                "Psybeam": "19",
+                "Skill Swap": "25",
+                "Guard Split": "29",
+                "Power Split": "29",
+                "Phantom Force": "35",
+                "Zen Headbutt": "46",
+                "Trick Room": "50",
+                "Wonder Room": "50",
+                "Shadow Ball": "55",
+                "Nasty Plot": "68",
+                "Psychic": "75",
+                "Hyperspace Hole": "85"
+            }
+        },
+        "Hoopa Unbound": {
+            "moves": {
+                "Ally Switch": "1",
+                "Confusion": "1",
+                "Destiny Bond": "1",
+                "Astonish": "6",
+                "Trick": "10",
+                "Light Screen": "15",
+                "Psybeam": "19",
+                "Skill Swap": "25",
+                "Guard Split": "29",
+                "Power Split": "29",
+                "Knock Off": "46",
+                "Trick Room": "50",
+                "Wonder Room": "50",
+                "Dark Pulse": "55",
+                "Psychic": "75",
+                "Hyperspace Fury": "85"
+            }
+        },
+        "egg": null,
+        "tm": {
+            "Take Down": "01",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Psybeam": "16",
+            "Thief": "18",
+            "Facade": "25",
+            "Swift": "32",
+            "Rock Tomb": "36",
+            "Fling": "43",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Sandstorm": "51",
+            "Psyshock": "54",
+            "Brick Break": "58",
+            "Zen Headbutt": "59",
+            "Foul Play": "62",
+            "Fire Punch": "67",
+            "Thunder Punch": "68",
+            "Ice Punch": "69",
+            "Sleep Talk": "70",
+            "Drain Punch": "73",
+            "Reflect": "74",
+            "Light Screen": "75",
+            "Grass Knot": "81",
+            "Thunder Wave": "82",
+            "Rest": "85",
+            "Taunt": "87",
+            "Dark Pulse": "94",
+            "Skill Swap": "98",
+            "Gunk Shot": "102",
+            "Substitute": "103",
+            "Trick": "109",
+            "Shadow Ball": "114",
+            "Energy Ball": "119",
+            "Psychic": "120",
+            "Thunderbolt": "126",
+            "Calm Mind": "129",
+            "Psychic Terrain": "138",
+            "Nasty Plot": "140",
+            "Phantom Force": "151",
+            "Giga Impact": "152",
+            "Focus Blast": "158",
+            "Trick Room": "161",
+            "Hyper Beam": "163",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Hoopa": [
+            "This troublemaker sends anything and everything to faraway places using its loop, which can warp space.",
+            "It gathers things it likes and passes them through its loop to teleport them to a secret place.",
+            "In its true form, it possess a huge amount of power. Legends of its avarice tell how it once carried off an entire castle to gain the treasure hidden within.",
+            "It is said to be able to seize anything it desires with its six rings and six huge arms. With its power sealed, it is transformed into a much smaller form."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792222661116015/720.png",
+    "discord_sprite": "<:P720:1132144417365557258>"
+}

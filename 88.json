@@ -1,0 +1,406 @@
+{
+    "alt-version(s)": [
+        "Alolan Grimer"
+    ],
+    "name": "Grimer",
+    "Grimer": {
+        "pokedex_data": {
+            "National No.": "0088",
+            "Type": [
+                "Poison"
+            ],
+            "Species": "Sludge Poke\u0301mon",
+            "Height": "0.9 m (2\u203211\u2032\u2032)",
+            "Weight": "30.0 kg (66.1 lbs)",
+            "Abilities": {
+                "Stench": {
+                    "href": "/ability/stench",
+                    "effect": "The stench may cause the target to flinch.",
+                    "hidden": false
+                },
+                "Sticky Hold": {
+                    "href": "/ability/sticky-hold",
+                    "effect": "Protects the Pok\u00e9mon from item theft.",
+                    "hidden": false
+                },
+                "Poison Touch": {
+                    "href": "/ability/poison-touch",
+                    "effect": "May poison targets when a Pok\u00e9mon makes contact.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 HP",
+            "Catch rate": "190",
+            "BaseFriendship": "50",
+            "Base Exp.": "65",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "80",
+                "Min": "270",
+                "Max": "364"
+            },
+            "Attack": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Defense": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Atk": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Def": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Speed": {
+                "Base": "25",
+                "Min": "49",
+                "Max": "163"
+            },
+            "Total": "325"
+        },
+        "defense_stats": {
+            "default": {
+                "Grass": "not very effective",
+                "Fighting": "not very effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "Alolan Grimer": {
+        "pokedex_data": {
+            "National No.": "0088",
+            "Type": [
+                "Poison",
+                "Dark"
+            ],
+            "Species": "Sludge Poke\u0301mon",
+            "Height": "0.7 m (2\u203204\u2032\u2032)",
+            "Weight": "42.0 kg (92.6 lbs)",
+            "Abilities": {
+                "Poison Touch": {
+                    "href": "/ability/poison-touch",
+                    "effect": "May poison targets when a Pok\u00e9mon makes contact.",
+                    "hidden": false
+                },
+                "Gluttony": {
+                    "href": "/ability/gluttony",
+                    "effect": "Encourages the early use of a held Berry.",
+                    "hidden": false
+                },
+                "Power of Alchemy": {
+                    "href": "/ability/power-of-alchemy",
+                    "effect": "The Pok\u00e9mon copies the Ability of a defeated ally.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 HP",
+            "Catch rate": "190",
+            "BaseFriendship": "50",
+            "Base Exp.": "65",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "80",
+                "Min": "270",
+                "Max": "364"
+            },
+            "Attack": {
+                "Base": "80",
+                "Min": "148",
+                "Max": "284"
+            },
+            "Defense": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Atk": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Def": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Speed": {
+                "Base": "25",
+                "Min": "49",
+                "Max": "163"
+            },
+            "Total": "325"
+        },
+        "defense_stats": {
+            "default": {
+                "Grass": "not very effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Psychic": "no effect",
+                "Ghost": "not very effective",
+                "Dark": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Grimer",
+                    "nationalNo": "#0088",
+                    "type": [
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Muk",
+                    "nationalNo": "#0089",
+                    "type": [
+                        "Poison"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 38)",
+                "shed": null
+            }
+        ],
+        [
+            {
+                "from": {
+                    "name": "Grimer",
+                    "nationalNo": "#0088",
+                    "type": [
+                        "Poison",
+                        "Dark"
+                    ],
+                    "nickname": "Alolan Grimer"
+                },
+                "to": {
+                    "name": "Muk",
+                    "nationalNo": "#0089",
+                    "type": [
+                        "Poison",
+                        "Dark"
+                    ],
+                    "nickname": "Alolan Muk"
+                },
+                "requirement": "(Level 38)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "Grimer": {
+            "moves": {
+                "Poison Gas": "1",
+                "Pound": "1",
+                "Harden": "4",
+                "Mud-Slap": "7",
+                "Disable": "12",
+                "Sludge": "15",
+                "Mud Shot": "18",
+                "Minimize": "21",
+                "Toxic": "26",
+                "Sludge Bomb": "29",
+                "Sludge Wave": "32",
+                "Screech": "37",
+                "Gunk Shot": "40",
+                "Acid Armor": "43",
+                "Belch": "46",
+                "Memento": "48"
+            },
+            "egg": {
+                "Acid Spray": null,
+                "Curse": null,
+                "Haze": null,
+                "Mean Look": null,
+                "Shadow Punch": null,
+                "Shadow Sneak": null,
+                "Spit Up": null,
+                "Stockpile": null,
+                "Swallow": null
+            },
+            "tm": {
+                "Take Down": "01",
+                "Mud-Slap": "05",
+                "Scary Face": "06",
+                "Protect": "07",
+                "Acid Spray": "13",
+                "Confuse Ray": "17",
+                "Thief": "18",
+                "Facade": "25",
+                "Hex": "29",
+                "Mud Shot": "35",
+                "Rock Tomb": "36",
+                "Fling": "43",
+                "Venoshock": "45",
+                "Endure": "47",
+                "Sunny Day": "49",
+                "Rain Dance": "50",
+                "Sandstorm": "51",
+                "Dig": "55",
+                "Zen Headbutt": "59",
+                "Body Slam": "66",
+                "Fire Punch": "67",
+                "Thunder Punch": "68",
+                "Ice Punch": "69",
+                "Sleep Talk": "70",
+                "Drain Punch": "73",
+                "Metronome": "80",
+                "Poison Jab": "83",
+                "Rest": "85",
+                "Rock Slide": "86",
+                "Taunt": "87",
+                "Imprison": "92",
+                "Gunk Shot": "102",
+                "Substitute": "103",
+                "Giga Drain": "111",
+                "Shadow Ball": "114",
+                "Flamethrower": "125",
+                "Thunderbolt": "126",
+                "Helping Hand": "130",
+                "Fire Blast": "141",
+                "Sludge Bomb": "148",
+                "Thunder": "166",
+                "Tera Blast": "171"
+            }
+        },
+        "Alolan Grimer": {
+            "moves": {
+                "Poison Gas": "1",
+                "Pound": "1",
+                "Harden": "4",
+                "Bite": "7",
+                "Disable": "12",
+                "Acid Spray": "15",
+                "Poison Fang": "18",
+                "Minimize": "21",
+                "Toxic": "26",
+                "Knock Off": "29",
+                "Crunch": "32",
+                "Screech": "37",
+                "Gunk Shot": "40",
+                "Acid Armor": "43",
+                "Belch": "46",
+                "Memento": "48"
+            },
+            "tm": {
+                "Take Down": "01",
+                "Mud-Slap": "05",
+                "Scary Face": "06",
+                "Protect": "07",
+                "Acid Spray": "13",
+                "Thief": "18",
+                "Facade": "25",
+                "Hex": "29",
+                "Snarl": "30",
+                "Swift": "32",
+                "Mud Shot": "35",
+                "Rock Tomb": "36",
+                "Fling": "43",
+                "Venoshock": "45",
+                "Endure": "47",
+                "Sunny Day": "49",
+                "Rain Dance": "50",
+                "Sandstorm": "51",
+                "Dig": "55",
+                "Brick Break": "58",
+                "Zen Headbutt": "59",
+                "Body Slam": "66",
+                "Fire Punch": "67",
+                "Thunder Punch": "68",
+                "Ice Punch": "69",
+                "Sleep Talk": "70",
+                "Drain Punch": "73",
+                "Metronome": "80",
+                "Poison Jab": "83",
+                "Rest": "85",
+                "Rock Slide": "86",
+                "Taunt": "87",
+                "Imprison": "92",
+                "Dark Pulse": "94",
+                "Gunk Shot": "102",
+                "Substitute": "103",
+                "Crunch": "108",
+                "Giga Drain": "111",
+                "Shadow Ball": "114",
+                "Flamethrower": "125",
+                "Thunderbolt": "126",
+                "Helping Hand": "130",
+                "Fire Blast": "141",
+                "Sludge Bomb": "148",
+                "Stone Edge": "150",
+                "Giga Impact": "152",
+                "Hyper Beam": "163",
+                "Thunder": "166",
+                "Tera Blast": "171"
+            }
+        }
+    },
+    "entries": {
+        "Grimer": [
+            "Appears in filthy areas. Thrives by sucking up polluted sludge that is pumped out of factories.",
+            "Made of hardened sludge. It smells too putrid to touch. Even weeds won\u2019t grow in its path.",
+            "As it moves, it loses bits of its body from which new GRIMER emerge. This worsens the stench around it.",
+            "Wherever GRIMER has passed, so many germs are left behind that no plants will ever grow again.",
+            "When two of these pok\u00e9mon\u2019s bodies are combined together, new poisons are created.",
+            "GRIMER\u2019s sludgy and rubbery body can be forced through any opening, however small it may be. This pok\u00e9mon enters sewer pipes to drink filthy wastewater.",
+            "GRIMER emerged from the sludge that settled on a polluted seabed. This pok\u00e9mon loves anything filthy. It constantly leaks a horribly germ-infested fluid from all over its body.",
+            "Sludge exposed to X rays from the moon transformed into GRIMER. It loves feeding on filthy things.",
+            "Appears in filthy areas. It thrives by sucking up polluted sludge that is pumped out of factories.",
+            "Born from polluted sludge in the sea, GRIMER\u2019s favorite food is anything filthy. They feed on wastewater pumped out from factories.",
+            "It was born when sludge in a dirty stream was exposed to the moon\u2019s X-rays. It appears among filth.",
+            "As it moves, it loses bits of its body, from which new GRIMER emerge. This worsens the stench around it.",
+            "Wherever GRIMER has passed, so many germs are left behind that no plants will ever grow again.",
+            "It was born when sludge in a dirty stream was exposed to the moon\u2019s X-rays. It appears among filth.",
+            "Born from sludge, these Pok\u00e9mon now gather in polluted places and increase the bacteria in their bodies.",
+            "Sludge exposed to X-rays from the moon transformed into Grimer. It loves feeding on filthy things.",
+            "Appears in filthy areas. It thrives by sucking up polluted sludge that is pumped out of factories.",
+            "Grimer\u2019s sludgy and rubbery body can be forced through any opening, however small it may be. This Pok\u00e9mon enters sewer pipes to drink filthy wastewater.",
+            "Grimer emerged from the sludge that settled on a polluted seabed. This Pok\u00e9mon loves anything filthy. It constantly leaks a horribly germ-infested fluid from all over its body.",
+            "Its main source of food is the slimy industrial waste of factories. This Pok\u00e9mon\u2019s numbers have been decreasing in recent years.",
+            "It was born from sludge transformed by exposure to X-rays from the moon. When its internal load of germs decreases, it dies.",
+            "It was born from sludge on the ocean floor. In a sterile environment, the germs within its body can\u2019t multiply, and it dies.",
+            "The wastewater coming from factories is clean these days, so Grimer have nothing to eat. They\u2019re said to be on the verge of extinction.",
+            "Made of congealed sludge. It smells too putrid to touch. Even weeds won\u2019t grow in its path.",
+            "It was born when sludge in a dirty stream was exposed to the moon\u2019s X-rays. It appears among filth.",
+            "Born from sludge, these Pok\u00e9mon now gather in polluted places and increase the bacteria in their bodies.",
+            "When two of these Pok\u00e9mon\u2019s bodies are combined together, new poisons are created."
+        ],
+        "Alolan Grimer": [
+            "A Grimer, which had been brought in to solve a problem with garbage, developed over time into this form.",
+            "The crystals on Grimer\u2019s body are lumps of toxins. If one falls off, lethal poisons leak out.",
+            "There are a hundred or so of them living in Alola\u2019s waste-disposal site. They\u2019re all hard workers who eat a lot of trash.",
+            "Brought to Alola to solve the garbage problem, Grimer seems to relish any and all kinds of trash.",
+            "It has a passion for trash above all else, speedily digesting it and creating brilliant crystals of sparkling poison."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787278486872165/88.png",
+    "discord_sprite": "<:P88:1132116596521971802>"
+}

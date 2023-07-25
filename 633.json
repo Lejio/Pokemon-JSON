@@ -1,0 +1,203 @@
+{
+    "alt-version(s)": [],
+    "name": "Deino",
+    "Deino": {
+        "pokedex_data": {
+            "National No.": "0633",
+            "Type": [
+                "Dark",
+                "Dragon"
+            ],
+            "Species": "Irate Poke\u0301mon",
+            "Height": "0.8 m (2\u203207\u2032\u2032)",
+            "Weight": "17.3 kg (38.1 lbs)",
+            "Abilities": {
+                "Hustle": {
+                    "href": "/ability/hustle",
+                    "effect": "Boosts the Attack stat, but lowers accuracy.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack",
+            "Catch rate": "45",
+            "BaseFriendship": "35",
+            "Base Exp.": "60",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "52",
+                "Min": "214",
+                "Max": "308"
+            },
+            "Attack": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Defense": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Atk": {
+                "Base": "45",
+                "Min": "85",
+                "Max": "207"
+            },
+            "Sp. Def": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Speed": {
+                "Base": "38",
+                "Min": "72",
+                "Max": "192"
+            },
+            "Total": "300"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "super-effective",
+                "Psychic": "no effect",
+                "Bug": "super-effective",
+                "Ghost": "not very effective",
+                "Dragon": "super-effective",
+                "Dark": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Deino",
+                    "nationalNo": "#0633",
+                    "type": [
+                        "Dark",
+                        "Dragon"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Zweilous",
+                    "nationalNo": "#0634",
+                    "type": [
+                        "Dark",
+                        "Dragon"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 50)",
+                "shed": null
+            },
+            {
+                "from": {
+                    "name": "Zweilous",
+                    "nationalNo": "#0634",
+                    "type": [
+                        "Dark",
+                        "Dragon"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Hydreigon",
+                    "nationalNo": "#0635",
+                    "type": [
+                        "Dark",
+                        "Dragon"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 64)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Focus Energy": "1",
+            "Tackle": "1",
+            "Dragon Breath": "4",
+            "Bite": "8",
+            "Roar": "12",
+            "Assurance": "16",
+            "Headbutt": "20",
+            "Work Up": "24",
+            "Slam": "28",
+            "Crunch": "32",
+            "Scary Face": "36",
+            "Dragon Pulse": "40",
+            "Body Slam": "44",
+            "Hyper Voice": "48",
+            "Dragon Rush": "52",
+            "Nasty Plot": "56",
+            "Outrage": "60"
+        },
+        "egg": {
+            "Astonish": null,
+            "Belch": null,
+            "Double Hit": null,
+            "Head Smash": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Fire Fang": "08",
+            "Thunder Fang": "09",
+            "Ice Fang": "10",
+            "Thief": "18",
+            "Facade": "25",
+            "Snarl": "30",
+            "Dragon Tail": "44",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Zen Headbutt": "59",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Thunder Wave": "82",
+            "Rest": "85",
+            "Taunt": "87",
+            "Dark Pulse": "94",
+            "Substitute": "103",
+            "Crunch": "108",
+            "Dragon Pulse": "115",
+            "Hyper Voice": "117",
+            "Earth Power": "133",
+            "Nasty Plot": "140",
+            "Outrage": "156",
+            "Draco Meteor": "169",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Deino": [
+            "It tends to bite everything, and it is not a picky eater. Approaching it carelessly is dangerous.",
+            "They cannot see, so they tackle and bite to learn about their surroundings. Their bodies are covered in wounds.",
+            "Lacking sight, it\u2019s unaware of its surroundings, so it bumps into things and eats anything that moves.",
+            "They cannot see, so they tackle and bite to learn about their surroundings. Their bodies are covered in wounds.",
+            "Lacking sight, it\u2019s unaware of its surroundings, so it bumps into things and eats anything that moves.",
+            "When it encounters something, its first urge is usually to bite it. If it likes what it tastes, it will commit the associated scent to memory.",
+            "Because it can\u2019t see, this Pok\u00e9mon is constantly biting at everything it touches, trying to keep track of its surroundings.",
+            "It can\u2019t see, so its first approach to examining things is to bite them. You will be covered in wounds until a Deino warms up to you.",
+            "It nests deep inside a cave. Food there is scarce, so Deino will sink its teeth into anything that moves and attempt to eat it."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791538553372793/633.png",
+    "discord_sprite": "<:P633:1132140596660809840>"
+}

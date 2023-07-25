@@ -1,0 +1,202 @@
+{
+    "alt-version(s)": [],
+    "name": "Skorupi",
+    "Skorupi": {
+        "pokedex_data": {
+            "National No.": "0451",
+            "Type": [
+                "Poison",
+                "Bug"
+            ],
+            "Species": "Scorpion Poke\u0301mon",
+            "Height": "0.8 m (2\u203207\u2032\u2032)",
+            "Weight": "12.0 kg (26.5 lbs)",
+            "Abilities": {
+                "Battle Armor": {
+                    "href": "/ability/battle-armor",
+                    "effect": "The Pok\u00e9mon is protected against critical hits.",
+                    "hidden": false
+                },
+                "Sniper": {
+                    "href": "/ability/sniper",
+                    "effect": "Powers up moves if they become critical hits.",
+                    "hidden": false
+                },
+                "Keen Eye": {
+                    "href": "/ability/keen-eye",
+                    "effect": "Prevents other Pok\u00e9mon from lowering accuracy.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Defense",
+            "Catch rate": "120",
+            "BaseFriendship": "50",
+            "Base Exp.": "66",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "40",
+                "Min": "190",
+                "Max": "284"
+            },
+            "Attack": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Defense": {
+                "Base": "90",
+                "Min": "166",
+                "Max": "306"
+            },
+            "Sp. Atk": {
+                "Base": "30",
+                "Min": "58",
+                "Max": "174"
+            },
+            "Sp. Def": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Speed": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Total": "330"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Grass": "not very effective",
+                "Fighting": "not very effective",
+                "Poison": "not very effective",
+                "Flying": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Skorupi",
+                    "nationalNo": "#0451",
+                    "type": [
+                        "Poison",
+                        "Bug"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Drapion",
+                    "nationalNo": "#0452",
+                    "type": [
+                        "Poison",
+                        "Dark"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 40)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Leer": "1",
+            "Poison Sting": "1",
+            "Hone Claws": "3",
+            "Fell Stinger": "6",
+            "Poison Fang": "9",
+            "Bite": "12",
+            "Toxic Spikes": "15",
+            "Bug Bite": "18",
+            "Venoshock": "21",
+            "Knock Off": "24",
+            "Scary Face": "27",
+            "Pin Missile": "30",
+            "Toxic": "33",
+            "Night Slash": "36",
+            "Cross Poison": "39",
+            "X-Scissor": "42",
+            "Acupressure": "45",
+            "Crunch": "48"
+        },
+        "egg": {
+            "Agility": null,
+            "Confuse Ray": null,
+            "Night Slash": null,
+            "Poison Tail": null,
+            "Sand Attack": null,
+            "Screech": null,
+            "Slash": null,
+            "Whirlwind": null
+        },
+        "tm": {
+            "Toxic": "06",
+            "Sunny Day": "11",
+            "Taunt": "12",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Iron Tail": "23",
+            "Dig": "28",
+            "Shadow Ball": "30",
+            "Brick Break": "31",
+            "Double Team": "32",
+            "Sludge Bomb": "36",
+            "Rock Tomb": "39",
+            "Aerial Ace": "40",
+            "Torment": "41",
+            "Facade": "42",
+            "Rest": "44",
+            "Attract": "45",
+            "Thief": "46",
+            "False Swipe": "54",
+            "Fling": "56",
+            "Endure": "58",
+            "Bug Buzz": "62",
+            "Payback": "66",
+            "Flash": "70",
+            "Swords Dance": "75",
+            "Dark Pulse": "79",
+            "X-Scissor": "81",
+            "Sleep Talk": "82",
+            "Poison Jab": "84",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Cut": "93",
+            "Strength": "96",
+            "Rock Smash": "98"
+        }
+    },
+    "entries": {
+        "Skorupi": [
+            "It grips prey with its tail claws and injects poison. It tenaciously hangs on until the poison takes.",
+            "It lives in arid lands. It buries itself in sand and lies in wait for unsuspecting prey.",
+            "As soon as the tail claws close, its needle tips secrete poison. It can survive a year without food.",
+            "It burrows under the sand to lie in wait for prey. Its tail claws can inject its prey with a savage poison.",
+            "As soon as the tail claws close, its needle tips secrete poison. It can survive a year without food.",
+            "It lives in arid regions and can go without food for a year while waiting for prey.",
+            "It grips prey with its tail claws and injects poison. It tenaciously hangs on until the poison takes.",
+            "It burrows under the sand to lie in wait for prey. Its tail claws can inject its prey with a savage poison.",
+            "After burrowing into the sand, it waits patiently for prey to come near. This Pok\u00e9mon and Sizzlipede share common descent.",
+            "It attacks using the claws on its tail. Once locked in its grip, its prey is unable to move as this Pok\u00e9mon\u2019s poison seeps in.",
+            "It grips prey with its tail claws and injects poison. It tenaciously hangs on until the poison takes.",
+            "It lives in arid lands. It buries itself in sand and lies in wait for unsuspecting prey.",
+            "Its claws are not only razor-sharp but poisonous, making Skorupi a highly dangerous Pok\u00e9mon. It seems to be weakened by cold temperatures, however."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131790119238635571/451.png",
+    "discord_sprite": "<:P451:1132132574857273345>"
+}

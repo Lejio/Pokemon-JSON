@@ -1,0 +1,208 @@
+{
+    "alt-version(s)": [],
+    "name": "Salazzle",
+    "Salazzle": {
+        "pokedex_data": {
+            "National No.": "0758",
+            "Type": [
+                "Poison",
+                "Fire"
+            ],
+            "Species": "Toxic Lizard Poke\u0301mon",
+            "Height": "1.2 m (3\u203211\u2032\u2032)",
+            "Weight": "22.2 kg (48.9 lbs)",
+            "Abilities": {
+                "Corrosion": {
+                    "href": "/ability/corrosion",
+                    "effect": "The Pok\u00e9mon can poison Steel and Poison types.",
+                    "hidden": false
+                },
+                "Oblivious": {
+                    "href": "/ability/oblivious",
+                    "effect": "Prevents it from becoming infatuated.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Speed",
+            "Catch rate": "45",
+            "BaseFriendship": "50",
+            "Base Exp.": "168",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "0% male,100% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "68",
+                "Min": "246",
+                "Max": "340"
+            },
+            "Attack": {
+                "Base": "64",
+                "Min": "119",
+                "Max": "249"
+            },
+            "Defense": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Atk": {
+                "Base": "111",
+                "Min": "204",
+                "Max": "353"
+            },
+            "Sp. Def": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Speed": {
+                "Base": "117",
+                "Min": "215",
+                "Max": "366"
+            },
+            "Total": "480"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "not very effective",
+                "Water": "super-effective",
+                "Grass": "not very effective",
+                "Ice": "not very effective",
+                "Fighting": "not very effective",
+                "Poison": "not very effective",
+                "Ground": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "super-effective",
+                "Steel": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Salandit",
+                    "nationalNo": "#0757",
+                    "type": [
+                        "Poison",
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Salazzle",
+                    "nationalNo": "#0758",
+                    "type": [
+                        "Poison",
+                        "Fire"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 33, Female)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Disable": "1",
+            "Ember": "1",
+            "Encore": "1",
+            "Endeavor": "1",
+            "Knock Off": "1",
+            "Poison Gas": "1",
+            "Pound": "1",
+            "Scratch": "1",
+            "Smog": "1",
+            "Swagger": "1",
+            "Torment": "1",
+            "Poison Fang": "15",
+            "Sweet Scent": "20",
+            "Nasty Plot": "25",
+            "Incinerate": "30",
+            "Venoshock": "37",
+            "Dragon Pulse": "44",
+            "Flamethrower": "51",
+            "Toxic": "58"
+        },
+        "evolution": {
+            "Fire Lash": "80"
+        },
+        "egg": {
+            "Belch": null,
+            "Fake Out": null,
+            "Mud-Slap": null,
+            "Sand Attack": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Fake Tears": "03",
+            "Agility": "04",
+            "Mud-Slap": "05",
+            "Scary Face": "06",
+            "Protect": "07",
+            "Fire Fang": "08",
+            "Acid Spray": "13",
+            "Acrobatics": "14",
+            "Thief": "18",
+            "Trailblaze": "20",
+            "Facade": "25",
+            "Poison Tail": "26",
+            "Swift": "32",
+            "Fling": "43",
+            "Venoshock": "45",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Shadow Claw": "61",
+            "Foul Play": "62",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Dragon Claw": "78",
+            "Thunder Wave": "82",
+            "Poison Jab": "83",
+            "Rest": "85",
+            "Taunt": "87",
+            "Toxic Spikes": "91",
+            "Leech Life": "95",
+            "Dragon Dance": "100",
+            "Gunk Shot": "102",
+            "Substitute": "103",
+            "Will-O-Wisp": "107",
+            "Dragon Pulse": "115",
+            "Hyper Voice": "117",
+            "Heat Wave": "118",
+            "Encore": "122",
+            "Flamethrower": "125",
+            "Helping Hand": "130",
+            "Nasty Plot": "140",
+            "Fire Blast": "141",
+            "Sludge Bomb": "148",
+            "Giga Impact": "152",
+            "Overheat": "157",
+            "Hyper Beam": "163",
+            "Flare Blitz": "165",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Salazzle": [
+            "For some reason, only females have been found. It creates a reverse harem of male Salandit that it lives with.",
+            "Filled with pheromones, its poisonous gas can be diluted to use in the production of luscious perfumes.",
+            "Salazzle lives deep in caves and forces the Salandit it has attracted with its pheromones to serve it.",
+            "It punishes Salandit that couldn\u2019t bring it food with a fierce slap of its flame-spewing palm.",
+            "Only female Salazzle exist. They emit a gas laden with pheromones to captivate male Salandit.",
+            "The winner of competitions between Salazzle is decided by which one has the most male Salandit with it.",
+            "Salazzle makes its opponents light-headed with poisonous gas, then captivates them with alluring movements to turn them into loyal servants.",
+            "When two Salazzle meet, they will use their pheromone gas to fight over the males in each other\u2019s group."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792516925108316/758.png",
+    "discord_sprite": "<:P758:1132146156298833992>"
+}

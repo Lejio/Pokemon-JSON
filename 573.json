@@ -1,0 +1,192 @@
+{
+    "alt-version(s)": [],
+    "name": "Cinccino",
+    "Cinccino": {
+        "pokedex_data": {
+            "National No.": "0573",
+            "Type": [
+                "Normal"
+            ],
+            "Species": "Scarf Poke\u0301mon",
+            "Height": "0.5 m (1\u203208\u2032\u2032)",
+            "Weight": "7.5 kg (16.5 lbs)",
+            "Abilities": {
+                "Cute Charm": {
+                    "href": "/ability/cute-charm",
+                    "effect": "Contact with the Pok\u00e9mon may cause infatuation.",
+                    "hidden": false
+                },
+                "Technician": {
+                    "href": "/ability/technician",
+                    "effect": "Powers up the Pok\u00e9mon's weaker moves.",
+                    "hidden": false
+                },
+                "Skill Link": {
+                    "href": "/ability/skill-link",
+                    "effect": "Increases the frequency of multi-strike moves.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Speed",
+            "Catch rate": "60",
+            "BaseFriendship": "50",
+            "Base Exp.": "165",
+            "Growth Rate": "Fast"
+        },
+        "breeding_data": {
+            "Gender": "25% male,75% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "75",
+                "Min": "260",
+                "Max": "354"
+            },
+            "Attack": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Defense": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Atk": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Sp. Def": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Speed": {
+                "Base": "115",
+                "Min": "211",
+                "Max": "361"
+            },
+            "Total": "470"
+        },
+        "defense_stats": {
+            "default": {
+                "Fighting": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Minccino",
+                    "nationalNo": "#0572",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Cinccino",
+                    "nationalNo": "#0573",
+                    "type": [
+                        "Normal"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(use Shiny Stone)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "After You": "1",
+            "Baby-Doll Eyes": "1",
+            "Bullet Seed": "1",
+            "Charm": "1",
+            "Echoed Voice": "1",
+            "Encore": "1",
+            "Helping Hand": "1",
+            "Hyper Voice": "1",
+            "Last Resort": "1",
+            "Pound": "1",
+            "Rock Blast": "1",
+            "Sing": "1",
+            "Slam": "1",
+            "Swift": "1",
+            "Tail Slap": "1",
+            "Tickle": "1"
+        },
+        "egg": {
+            "Aqua Tail": null,
+            "Flail": null,
+            "Knock Off": null,
+            "Tail Whip": null
+        },
+        "null": {
+            "Thunderbolt": "08",
+            "Thunder": "09",
+            "Substitute": "20",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Encore": "30",
+            "Iron Tail": "31",
+            "Uproar": "35",
+            "Hyper Voice": "42",
+            "Calm Mind": "49",
+            "Seed Bomb": "59",
+            "Focus Blast": "64",
+            "Gunk Shot": "73",
+            "Grass Knot": "77",
+            "Work Up": "85",
+            "Play Rough": "90",
+            "Dazzling Gleam": "92"
+        },
+        "tm": {
+            "Hyper Beam": "08",
+            "Giga Impact": "09",
+            "Thunder Wave": "14",
+            "Dig": "15",
+            "Light Screen": "17",
+            "Safeguard": "19",
+            "Rest": "21",
+            "Thief": "23",
+            "Snore": "24",
+            "Protect": "25",
+            "Charm": "29",
+            "Attract": "31",
+            "Rain Dance": "33",
+            "Sunny Day": "34",
+            "Facade": "39",
+            "Swift": "40",
+            "Helping Hand": "41",
+            "Fake Tears": "47",
+            "Bullet Seed": "50",
+            "Rock Blast": "54",
+            "U-turn": "56",
+            "Fling": "59",
+            "Round": "76",
+            "Retaliate": "79",
+            "Tail Slap": "84"
+        }
+    },
+    "entries": {
+        "Cinccino": [
+            "Their white fur is coated in a special oil that makes it easy for them to deflect attacks.",
+            "Their white fur feels amazing to touch. Their fur repels dust and prevents static electricity from building up.",
+            "Cinccino\u2019s body is coated in a special oil that helps it deflect attacks, such as punches.",
+            "Their white fur feels amazing to touch. Their fur repels dust and prevents static electricity from building up.",
+            "Cinccino\u2019s body is coated in a special oil that helps it deflect attacks, such as punches.",
+            "The white parts of its coat are covered in an oil secreted from its body, so this Pok\u00e9mon can slide right away from its enemies\u2019 attacks.",
+            "The oil that seeps from its body is really smooth. For people troubled by bad skin, this oil is an effective treatment.",
+            "Its body secretes oil that this Pok\u00e9mon spreads over its nest as a coating to protect it from dust. Cinccino won\u2019t tolerate even a speck of the stuff.",
+            "A special oil that seeps through their fur helps them avoid attacks. The oil fetches a high price at market."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791067843407982/573.png",
+    "discord_sprite": "<:P573:1132137955318833193>"
+}

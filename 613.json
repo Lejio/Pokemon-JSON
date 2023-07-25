@@ -1,0 +1,194 @@
+{
+    "alt-version(s)": [],
+    "name": "Cubchoo",
+    "Cubchoo": {
+        "pokedex_data": {
+            "National No.": "0613",
+            "Type": [
+                "Ice"
+            ],
+            "Species": "Chill Poke\u0301mon",
+            "Height": "0.5 m (1\u203208\u2032\u2032)",
+            "Weight": "8.5 kg (18.7 lbs)",
+            "Abilities": {
+                "Snow Cloak": {
+                    "href": "/ability/snow-cloak",
+                    "effect": "Raises evasion in a hailstorm.",
+                    "hidden": false
+                },
+                "Slush Rush": {
+                    "href": "/ability/slush-rush",
+                    "effect": "Boosts the Pok\u00e9mon's Speed stat in a hailstorm.",
+                    "hidden": false
+                },
+                "Rattled": {
+                    "href": "/ability/rattled",
+                    "effect": "Bug, Ghost or Dark type moves scare it and boost its Speed.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack",
+            "Catch rate": "120",
+            "BaseFriendship": "50",
+            "Base Exp.": "61",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "55",
+                "Min": "220",
+                "Max": "314"
+            },
+            "Attack": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Defense": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Sp. Atk": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Def": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Speed": {
+                "Base": "40",
+                "Min": "76",
+                "Max": "196"
+            },
+            "Total": "305"
+        },
+        "defense_stats": {
+            "default": {
+                "Fire": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Rock": "super-effective",
+                "Steel": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Cubchoo",
+                    "nationalNo": "#0613",
+                    "type": [
+                        "Ice"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Beartic",
+                    "nationalNo": "#0614",
+                    "type": [
+                        "Ice"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 37)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Growl": "1",
+            "Powder Snow": "1",
+            "Endure": "3",
+            "Fury Swipes": "6",
+            "Icy Wind": "9",
+            "Play Nice": "12",
+            "Brine": "15",
+            "Frost Breath": "18",
+            "Slash": "21",
+            "Flail": "24",
+            "Charm": "27",
+            "Snowscape": "30",
+            "Thrash": "33",
+            "Rest": "36",
+            "Blizzard": "39",
+            "Sheer Cold": "42"
+        },
+        "egg": {
+            "Focus Punch": null,
+            "Night Slash": null,
+            "Yawn": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Charm": "02",
+            "Mud-Slap": "05",
+            "Protect": "07",
+            "Ice Fang": "10",
+            "Water Pulse": "11",
+            "Low Kick": "12",
+            "Thief": "18",
+            "Trailblaze": "20",
+            "Chilling Water": "22",
+            "Facade": "25",
+            "Aerial Ace": "27",
+            "Bulldoze": "28",
+            "Snarl": "30",
+            "Metal Claw": "31",
+            "Icy Wind": "34",
+            "Mud Shot": "35",
+            "Rock Tomb": "36",
+            "Fling": "43",
+            "Avalanche": "46",
+            "Endure": "47",
+            "Rain Dance": "50",
+            "Snowscape": "52",
+            "Dig": "55",
+            "Shadow Claw": "61",
+            "Body Slam": "66",
+            "Ice Punch": "69",
+            "Sleep Talk": "70",
+            "Grass Knot": "81",
+            "Rest": "85",
+            "Rock Slide": "86",
+            "Taunt": "87",
+            "Body Press": "89",
+            "Substitute": "103",
+            "X-Scissor": "105",
+            "Crunch": "108",
+            "Liquidation": "110",
+            "Heavy Slam": "121",
+            "Encore": "122",
+            "Surf": "123",
+            "Play Rough": "127",
+            "Ice Beam": "135",
+            "Blizzard": "143",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Cubchoo": [
+            "When it is not feeling well, its mucus gets watery and the power of its Ice-type moves decreases.",
+            "Its nose is always running. It sniffs the snot back up because the mucus provides the raw material for its moves.",
+            "Their snot is a barometer of health. When healthy, their snot is sticky and the power of their ice moves increases.",
+            "Its nose is always running. It sniffs the snot back up because the mucus provides the raw material for its moves.",
+            "Their snot is a barometer of health. When healthy, their snot is sticky and the power of their ice moves increases.",
+            "When this Pok\u00e9mon is in good health, its snot becomes thicker and stickier. It will smear its snot on anyone it doesn\u2019t like.",
+            "It sniffles before performing a move, using its frosty snot to provide an icy element to any move that needs it.",
+            "Many of this species can be found along the shorelines of cold regions. If a Cubchoo lacks dangling snot, there\u2019s a chance it is sick.",
+            "When Cubchoo starts sneezing, watch out! If it spatters you with its frosty snot, you\u2019ll get frostbite."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791381245997167/613.png",
+    "discord_sprite": "<:P613:1132139718675546282>"
+}

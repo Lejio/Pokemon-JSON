@@ -1,0 +1,198 @@
+{
+    "alt-version(s)": [],
+    "name": "Mienfoo",
+    "Mienfoo": {
+        "pokedex_data": {
+            "National No.": "0619",
+            "Type": [
+                "Fighting"
+            ],
+            "Species": "Martial Arts Poke\u0301mon",
+            "Height": "0.9 m (2\u203211\u2032\u2032)",
+            "Weight": "20.0 kg (44.1 lbs)",
+            "Abilities": {
+                "Inner Focus": {
+                    "href": "/ability/inner-focus",
+                    "effect": "The Pok\u00e9mon is protected from flinching.",
+                    "hidden": false
+                },
+                "Regenerator": {
+                    "href": "/ability/regenerator",
+                    "effect": "Restores a little HP when withdrawn from battle.",
+                    "hidden": false
+                },
+                "Reckless": {
+                    "href": "/ability/reckless",
+                    "effect": "Powers up moves that have recoil damage.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 Attack",
+            "Catch rate": "180",
+            "BaseFriendship": "50",
+            "Base Exp.": "70",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "45",
+                "Min": "200",
+                "Max": "294"
+            },
+            "Attack": {
+                "Base": "85",
+                "Min": "157",
+                "Max": "295"
+            },
+            "Defense": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Sp. Atk": {
+                "Base": "55",
+                "Min": "103",
+                "Max": "229"
+            },
+            "Sp. Def": {
+                "Base": "50",
+                "Min": "94",
+                "Max": "218"
+            },
+            "Speed": {
+                "Base": "65",
+                "Min": "121",
+                "Max": "251"
+            },
+            "Total": "350"
+        },
+        "defense_stats": {
+            "default": {
+                "Flying": "super-effective",
+                "Psychic": "super-effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Dark": "not very effective",
+                "Fairy": "super-effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Mienfoo",
+                    "nationalNo": "#0619",
+                    "type": [
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Mienshao",
+                    "nationalNo": "#0620",
+                    "type": [
+                        "Fighting"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 50)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Detect": "1",
+            "Pound": "1",
+            "Fake Out": "5",
+            "Reversal": "10",
+            "Fury Swipes": "15",
+            "Quick Guard": "20",
+            "Force Palm": "25",
+            "U-turn": "30",
+            "Drain Punch": "35",
+            "Hone Claws": "40",
+            "Aura Sphere": "45",
+            "Bounce": "51",
+            "Calm Mind": "55",
+            "High Jump Kick": "60"
+        },
+        "egg": {
+            "Feint": null,
+            "Focus Punch": null,
+            "Knock Off": null,
+            "Vital Throw": null
+        },
+        "null": {
+            "Swords Dance": "00",
+            "Low Kick": "07",
+            "Agility": "12",
+            "Focus Energy": "13",
+            "Substitute": "20",
+            "Reversal": "21",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Baton Pass": "29",
+            "Taunt": "37",
+            "Bulk Up": "48",
+            "Calm Mind": "49",
+            "Close Combat": "53",
+            "Aura Sphere": "56",
+            "Poison Jab": "57",
+            "Focus Blast": "64",
+            "Stone Edge": "75",
+            "Grass Knot": "77",
+            "Ally Switch": "83",
+            "Work Up": "85"
+        },
+        "tm": {
+            "Mega Punch": "00",
+            "Mega Kick": "01",
+            "Dig": "15",
+            "Reflect": "18",
+            "Rest": "21",
+            "Rock Slide": "22",
+            "Snore": "24",
+            "Protect": "25",
+            "Attract": "31",
+            "Rain Dance": "33",
+            "Sunny Day": "34",
+            "Facade": "39",
+            "Swift": "40",
+            "Helping Hand": "41",
+            "Revenge": "42",
+            "Brick Break": "43",
+            "Rock Tomb": "48",
+            "Bounce": "52",
+            "U-turn": "56",
+            "Payback": "57",
+            "Fling": "59",
+            "Drain Punch": "63",
+            "Low Sweep": "75",
+            "Round": "76",
+            "Acrobatics": "78",
+            "Retaliate": "79"
+        }
+    },
+    "entries": {
+        "Mienfoo": [
+            "In fights, they dominate with onslaughts of flowing, continuous attacks. With their sharp claws, they cut enemies.",
+            "They have mastered elegant combos. As they concentrate, their battle moves become swifter and more precise.",
+            "It takes pride in the speed at which it can use moves. What it loses in power, it makes up for in quantity.",
+            "It takes pride in the speed at which it can use moves. What it loses in power, it makes up for in quantity.",
+            "In fights, they dominate with onslaughts of flowing, continuous attacks. With their sharp claws, they cut enemies.",
+            "They can often be seen in packs in the morning, slowly moving their bodies through a series of poses.",
+            "They seclude themselves in the mountains and devote themselves to training. The form of their kicks and chops differs from pack to pack.",
+            "In one minute, a well-trained Mienfoo can chop with its arms more than 100 times.",
+            "Though small, Mienfoo\u2019s temperament is fierce. Any creature that approaches Mienfoo carelessly will be greeted with a flurry of graceful attacks."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791428410933369/619.png",
+    "discord_sprite": "<:P619:1132139983176745012>"
+}

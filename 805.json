@@ -1,0 +1,158 @@
+{
+    "alt-version(s)": [],
+    "name": "Stakataka",
+    "Stakataka": {
+        "pokedex_data": {
+            "National No.": "0805",
+            "Type": [
+                "Rock",
+                "Steel"
+            ],
+            "Species": "Rampart Poke\u0301mon",
+            "Height": "5.5 m (18\u203201\u2032\u2032)",
+            "Weight": "820.0 kg (1807.8 lbs)",
+            "Abilities": {
+                "Beast Boost": {
+                    "href": "/ability/beast-boost",
+                    "effect": "The Pok\u00e9mon boosts its most proficient stat each time it knocks out a Pok\u00e9mon.",
+                    "hidden": false
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "3 Defense",
+            "Catch rate": "30",
+            "BaseFriendship": "0",
+            "Base Exp.": "257",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "Genderless"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "61",
+                "Min": "232",
+                "Max": "326"
+            },
+            "Attack": {
+                "Base": "131",
+                "Min": "240",
+                "Max": "397"
+            },
+            "Defense": {
+                "Base": "211",
+                "Min": "384",
+                "Max": "573"
+            },
+            "Sp. Atk": {
+                "Base": "53",
+                "Min": "99",
+                "Max": "225"
+            },
+            "Sp. Def": {
+                "Base": "101",
+                "Min": "186",
+                "Max": "331"
+            },
+            "Speed": {
+                "Base": "13",
+                "Min": "27",
+                "Max": "137"
+            },
+            "Total": "570"
+        },
+        "defense_stats": {
+            "default": {
+                "Normal": "not very effective",
+                "Water": "super-effective",
+                "Ice": "not very effective",
+                "Fighting": "super-effective",
+                "Poison": "no effect",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Psychic": "not very effective",
+                "Bug": "not very effective",
+                "Rock": "not very effective",
+                "Dragon": "not very effective",
+                "Fairy": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [],
+    "attacks_data": {
+        "moves": {
+            "Harden": "1",
+            "Tackle": "1",
+            "Rock Throw": "5",
+            "Protect": "10",
+            "Stomp": "15",
+            "Block": "20",
+            "Rock Slide": "25",
+            "Wide Guard": "30",
+            "Autotomize": "35",
+            "Rock Blast": "40",
+            "Magnet Rise": "45",
+            "Iron Defense": "50",
+            "Iron Head": "55",
+            "Take Down": "60",
+            "Stealth Rock": "65",
+            "Double-Edge": "70"
+        },
+        "egg": {
+            "Meteor Beam": null,
+            "Steel Roller": null
+        },
+        "null": {
+            "Body Slam": "01",
+            "Earthquake": "10",
+            "Substitute": "20",
+            "Endure": "26",
+            "Sleep Talk": "27",
+            "Superpower": "39",
+            "Skill Swap": "40",
+            "Iron Defense": "46",
+            "Gyro Ball": "52",
+            "Zen Headbutt": "69",
+            "Flash Cannon": "70",
+            "Iron Head": "74",
+            "Stone Edge": "75",
+            "Stealth Rock": "76",
+            "Heavy Slam": "79",
+            "Ally Switch": "83",
+            "Heat Crash": "88",
+            "High Horsepower": "94",
+            "Body Press": "99"
+        },
+        "tm": {
+            "Mega Kick": "01",
+            "Giga Impact": "09",
+            "Light Screen": "17",
+            "Reflect": "18",
+            "Safeguard": "19",
+            "Rest": "21",
+            "Rock Slide": "22",
+            "Snore": "24",
+            "Protect": "25",
+            "Sandstorm": "32",
+            "Facade": "39",
+            "Rock Tomb": "48",
+            "Rock Blast": "54",
+            "Trick Room": "70",
+            "Wonder Room": "71",
+            "Magic Room": "72",
+            "Round": "76",
+            "Bulldoze": "81",
+            "Brutal Swing": "97",
+            "Stomping Tantrum": "98"
+        }
+    },
+    "entries": {
+        "Stakataka": [
+            "It appeared from an Ultra Wormhole. Each one appears to be made up of many life-forms stacked one on top of each other.",
+            "When stone walls started moving and attacking, the brute\u2019s true identity was this mysterious life-form, which brings to mind an Ultra Beast."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131792881460445234/805.png",
+    "discord_sprite": "<:P805:1132148224073936947>"
+}

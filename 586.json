@@ -1,0 +1,240 @@
+{
+    "alt-version(s)": [],
+    "name": "Sawsbuck",
+    "Sawsbuck": {
+        "pokedex_data": {
+            "National No.": "0586",
+            "Type": [
+                "Normal",
+                "Grass"
+            ],
+            "Species": "Season Poke\u0301mon",
+            "Height": "1.9 m (6\u203203\u2032\u2032)",
+            "Weight": "92.5 kg (203.9 lbs)",
+            "Abilities": {
+                "Chlorophyll": {
+                    "href": "/ability/chlorophyll",
+                    "effect": "Boosts the Pok\u00e9mon's Speed in sunshine.",
+                    "hidden": false
+                },
+                "Sap Sipper": {
+                    "href": "/ability/sap-sipper",
+                    "effect": "Boosts Attack when hit by a Grass-type move.",
+                    "hidden": false
+                },
+                "Serene Grace": {
+                    "href": "/ability/serene-grace",
+                    "effect": "Boosts the likelihood of added effects appearing.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "2 Attack",
+            "Catch rate": "75",
+            "BaseFriendship": "50",
+            "Base Exp.": "166",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "80",
+                "Min": "270",
+                "Max": "364"
+            },
+            "Attack": {
+                "Base": "100",
+                "Min": "184",
+                "Max": "328"
+            },
+            "Defense": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Sp. Atk": {
+                "Base": "60",
+                "Min": "112",
+                "Max": "240"
+            },
+            "Sp. Def": {
+                "Base": "70",
+                "Min": "130",
+                "Max": "262"
+            },
+            "Speed": {
+                "Base": "95",
+                "Min": "175",
+                "Max": "317"
+            },
+            "Total": "475"
+        },
+        "defense_stats": {
+            "Chlorophyll ability": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "super-effective",
+                "Poison": "super-effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Bug": "super-effective",
+                "Ghost": "no effect"
+            },
+            "Sap Sipper ability": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "no effect",
+                "Ice": "super-effective",
+                "Fighting": "super-effective",
+                "Poison": "super-effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Bug": "super-effective",
+                "Ghost": "no effect"
+            },
+            "Serene Grace ability": {
+                "Fire": "super-effective",
+                "Water": "not very effective",
+                "Electric": "not very effective",
+                "Grass": "not very effective",
+                "Ice": "super-effective",
+                "Fighting": "super-effective",
+                "Poison": "super-effective",
+                "Ground": "not very effective",
+                "Flying": "super-effective",
+                "Bug": "super-effective",
+                "Ghost": "no effect"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Deerling",
+                    "nationalNo": "#0585",
+                    "type": [
+                        "Normal",
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Sawsbuck",
+                    "nationalNo": "#0586",
+                    "type": [
+                        "Normal",
+                        "Grass"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 34)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Growl": "1",
+            "Megahorn": "1",
+            "Sand Attack": "1",
+            "Tackle": "1",
+            "Double Kick": "10",
+            "Leech Seed": "13",
+            "Bullet Seed": "16",
+            "Take Down": "20",
+            "Zen Headbutt": "24",
+            "Energy Ball": "28",
+            "Charm": "36",
+            "Double-Edge": "44",
+            "Solar Beam": "52"
+        },
+        "evolution": {
+            "Horn Leech": "75"
+        },
+        "egg": {
+            "Agility": null,
+            "Baton Pass": null,
+            "Fake Tears": null,
+            "Headbutt": null,
+            "Sleep Talk": null,
+            "Synthesis": null,
+            "Worry Seed": null
+        },
+        "tm": {
+            "Take Down": "01",
+            "Charm": "02",
+            "Fake Tears": "03",
+            "Agility": "04",
+            "Protect": "07",
+            "Trailblaze": "20",
+            "Facade": "25",
+            "Bulldoze": "28",
+            "Magical Leaf": "33",
+            "Endure": "47",
+            "Sunny Day": "49",
+            "Rain Dance": "50",
+            "Smart Strike": "53",
+            "Dig": "55",
+            "Bullet Seed": "56",
+            "Zen Headbutt": "59",
+            "Body Slam": "66",
+            "Sleep Talk": "70",
+            "Seed Bomb": "71",
+            "Light Screen": "75",
+            "Grass Knot": "81",
+            "Thunder Wave": "82",
+            "Stomping Tantrum": "84",
+            "Rest": "85",
+            "Swords Dance": "88",
+            "Substitute": "103",
+            "Giga Drain": "111",
+            "Shadow Ball": "114",
+            "Energy Ball": "119",
+            "Play Rough": "127",
+            "Helping Hand": "130",
+            "Baton Pass": "132",
+            "Grassy Terrain": "137",
+            "Wild Charge": "147",
+            "Giga Impact": "152",
+            "Leaf Storm": "159",
+            "Hyper Beam": "163",
+            "Solar Beam": "168",
+            "Tera Blast": "171"
+        }
+    },
+    "entries": {
+        "Sawsbuck": [
+            "They migrate according to the seasons. People can tell the season by looking at Sawsbuck\u2019s horns.",
+            "The plants growing on its horns change according to the season. The leaders of the herd possess magnificent horns.",
+            "They migrate according to the seasons, so some people call Sawsbuck the harbingers of spring.",
+            "They migrate according to the seasons. People can tell the season by looking at Sawsbuck\u2019s horns.",
+            "They migrate according to the seasons, so some people call Sawsbuck the harbingers of spring."
+        ],
+        "Autumn Form": [
+            "There are many Sawsbuck enthusiasts. The darker the red of the foliage that hangs from its antlers, the more stylish the Sawsbuck is thought to be.",
+            "Sawsbuck in their Autumn Form are known for having very short tempers. The males fight each other incessantly."
+        ],
+        "Spring Form": [
+            "It seems that a Sawsbuck with many flowers on its antlers will grow at a slightly slower pace because the flowers absorb the Pok\u00e9mon\u2019s nutrients.",
+            "There are many Sawsbuck enthusiasts. The paler the pink flowers that bloom on its antlers, the more beautiful the Sawsbuck is considered to be."
+        ],
+        "Summer Form": [
+            "There are many Sawsbuck enthusiasts. The thicker and larger the branches and leaves on its antlers, the more majestic the Sawsbuck is thought to be.",
+            "This Pok\u00e9mon\u2019s leaves can be made into a black tea, the taste of which varies depending on the region of origin. Paldea\u2019s is especially aromatic."
+        ],
+        "Winter Form": [
+            "It\u2019s said that Sawsbuck are calm and easy to tame during the season when they take on this form, so it\u2019s the perfect time to make one your partner.",
+            "Though there are many enthusiasts for Sawsbuck as a species, this seasonal form in particular is not very popular."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131791169312002129/586.png",
+    "discord_sprite": "<:P586:1132138525362491392>"
+}

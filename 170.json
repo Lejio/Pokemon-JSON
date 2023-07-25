@@ -1,0 +1,216 @@
+{
+    "alt-version(s)": [],
+    "name": "Chinchou",
+    "Chinchou": {
+        "pokedex_data": {
+            "National No.": "0170",
+            "Type": [
+                "Water",
+                "Electric"
+            ],
+            "Species": "Angler Poke\u0301mon",
+            "Height": "0.5 m (1\u203208\u2032\u2032)",
+            "Weight": "12.0 kg (26.5 lbs)",
+            "Abilities": {
+                "Volt Absorb": {
+                    "href": "/ability/volt-absorb",
+                    "effect": "Restores HP if hit by an Electric-type move.",
+                    "hidden": false
+                },
+                "Illuminate": {
+                    "href": "/ability/illuminate",
+                    "effect": "Raises the likelihood of meeting wild Pok\u00e9mon.",
+                    "hidden": false
+                },
+                "Water Absorb": {
+                    "href": "/ability/water-absorb",
+                    "effect": "Restores HP if hit by a Water-type move.",
+                    "hidden": true
+                }
+            }
+        },
+        "training_data": {
+            "EV yield": "1 HP",
+            "Catch rate": "190",
+            "BaseFriendship": "50",
+            "Base Exp.": "66",
+            "Growth Rate": "Slow"
+        },
+        "breeding_data": {
+            "Gender": "50% male,50% female"
+        },
+        "base_stats": {
+            "HP": {
+                "Base": "75",
+                "Min": "260",
+                "Max": "354"
+            },
+            "Attack": {
+                "Base": "38",
+                "Min": "72",
+                "Max": "192"
+            },
+            "Defense": {
+                "Base": "38",
+                "Min": "72",
+                "Max": "192"
+            },
+            "Sp. Atk": {
+                "Base": "56",
+                "Min": "105",
+                "Max": "232"
+            },
+            "Sp. Def": {
+                "Base": "56",
+                "Min": "105",
+                "Max": "232"
+            },
+            "Speed": {
+                "Base": "67",
+                "Min": "125",
+                "Max": "256"
+            },
+            "Total": "330"
+        },
+        "defense_stats": {
+            "Volt Absorb ability": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Electric": "no effect",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Steel": "not very effective"
+            },
+            "Illuminate ability": {
+                "Fire": "not very effective",
+                "Water": "not very effective",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Steel": "not very effective"
+            },
+            "Water Absorb ability": {
+                "Fire": "not very effective",
+                "Water": "no effect",
+                "Grass": "super-effective",
+                "Ice": "not very effective",
+                "Ground": "super-effective",
+                "Flying": "not very effective",
+                "Steel": "not very effective"
+            }
+        }
+    },
+    "evo_stats": [
+        [
+            {
+                "from": {
+                    "name": "Chinchou",
+                    "nationalNo": "#0170",
+                    "type": [
+                        "Water",
+                        "Electric"
+                    ],
+                    "nickname": null
+                },
+                "to": {
+                    "name": "Lanturn",
+                    "nationalNo": "#0171",
+                    "type": [
+                        "Water",
+                        "Electric"
+                    ],
+                    "nickname": null
+                },
+                "requirement": "(Level 27)",
+                "shed": null
+            }
+        ]
+    ],
+    "attacks_data": {
+        "moves": {
+            "Supersonic": "1",
+            "Water Gun": "1",
+            "Electro Ball": "4",
+            "Thunder Wave": "8",
+            "Bubble Beam": "12",
+            "Confuse Ray": "16",
+            "Spark": "20",
+            "Charge": "24",
+            "Discharge": "28",
+            "Aqua Ring": "32",
+            "Flail": "36",
+            "Take Down": "40",
+            "Hydro Pump": "44"
+        },
+        "egg": {
+            "Agility": null,
+            "Amnesia": null,
+            "Flail": null,
+            "Mist": null,
+            "Psybeam": null,
+            "Screech": null,
+            "Soak": null,
+            "Whirlpool": null
+        },
+        "tm": {
+            "Water Pulse": "03",
+            "Hail": "07",
+            "Ice Beam": "13",
+            "Blizzard": "14",
+            "Protect": "17",
+            "Rain Dance": "18",
+            "Dazzling Gleam": "21",
+            "Thunderbolt": "24",
+            "Thunder": "25",
+            "Double Team": "32",
+            "Shock Wave": "34",
+            "Facade": "42",
+            "Volt Switch": "43",
+            "Rest": "44",
+            "Attract": "45",
+            "Scald": "49",
+            "Brine": "55",
+            "Charge Beam": "57",
+            "Endure": "58",
+            "Flash": "70",
+            "Thunder Wave": "73",
+            "Sleep Talk": "82",
+            "Swagger": "87",
+            "Substitute": "90",
+            "Surf": "95",
+            "Waterfall": "99"
+        }
+    },
+    "entries": {
+        "Chinchou": [
+            "It shoots positive and negative electricity between the tips of its two antennae and zaps its enemies.",
+            "On the dark ocean floor, its only means of communication is its constantly flashing lights.",
+            "Its antennae, which evolved from a fin, have both positive and negative charges flowing through them.",
+            "CHINCHOU lets loose positive and negative electrical charges from its two antennas to make its prey faint. This pok\u00e9mon flashes its electric lights to exchange signals with others.",
+            "CHINCHOU\u2019s two antennas are filled with cells that generate strong electricity. This pok\u00e9mon\u2019s cells create so much electrical power, it even makes itself tingle slightly.",
+            "On the dark ocean floor, its only means of communication is its constantly flashing lights.",
+            "It shoots positive and negative electricity between the tips of its two antennae and zaps its enemies.",
+            "When it senses danger, it discharges positive and negative electricity from its two antennae. It lives in depths beyond sunlight\u2019s reach.",
+            "It discharges positive and negative electricity from its antenna tips to shock its foes.",
+            "It shoots positive and negative electricity between the tips of its two antennae and zaps its enemies.",
+            "On the dark ocean floor, its only means of communication is its constantly flashing lights.",
+            "It discharges positive and negative electricity from its antenna tips to shock its foes.",
+            "On the dark ocean floor, its only means of communication is its constantly flashing lights.",
+            "It shoots positive and negative electricity between the tips of its two antennae and zaps its enemies.",
+            "Chinchou lets loose positive and negative electrical charges from its two antennas to make its prey faint. This Pok\u00e9mon flashes its electric lights to exchange signals with others.",
+            "Chinchou\u2019s two antennas are filled with cells that generate strong electricity. This Pok\u00e9mon\u2019s cells create so much electrical power, it even makes itself tingle slightly.",
+            "Its two antennae were originally fins. It discharges electricity to stun its prey before attacking.",
+            "It lives in the depths beyond the reach of sunlight. It flashes lights on its antennae to communicate with others of its kind.",
+            "Its two antennae glow softly to lure in prey, making it a useful Pok\u00e9mon for night fishing.",
+            "Chinchou blink their shining antennae at one another to claim their respective turf.",
+            "Its antennae, which evolved from a fin, have both positive and negative charges flowing through them.",
+            "On the dark ocean floor, its only means of communication is its constantly flashing lights.",
+            "It discharges positive and negative electricity from the tips of its antennae to shock its foes."
+        ]
+    },
+    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131787918252445816/170.png",
+    "discord_sprite": "<:P170:1132120215744950293>"
+}
