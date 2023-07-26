@@ -171,7 +171,5 @@
             "Its color changes for concealment and also when its mood or health changes. The darker the color, the healthier it is.",
             "It can freely change its body\u2019s color. The zigzag pattern on its belly doesn\u2019t change, however."
         ]
-    },
-    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131789351223828510/352.png",
-    "discord_sprite": "<:P352:1132128226580381828>"
+    }
 }

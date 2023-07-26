@@ -1,6 +1,6 @@
 {
     "alt-version(s)": [],
-    "name": "Nidoranls (female)",
+    "name": "Nidoran\u2640 (female)",
     "Nidoran\u2640 (female)": {
         "pokedex_data": {
             "National No.": "0029",
@@ -211,7 +211,5 @@
             "It uses its hard incisor teeth to crush and eat berries. The tip of a female Nidoran\u2019s horn is a bit more rounded than the tip of a male\u2019s horn.",
             "While this Pok\u00e9mon does not prefer to fight, even one drop of the venom it secretes from its barbs can be fatal."
         ]
-    },
-    "discord_image": "https://cdn.discordapp.com/attachments/1131758889575137330/1131786815637045318/29.png",
-    "discord_sprite": "<:P29:1131973166961533038>"
+    }
 }
